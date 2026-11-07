@@ -1,0 +1,309 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand VEMLIDY",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/004169",
+      "eu_number": "EU/1/16/1154",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-004169",
+      "mah": "Gilead Sciences Ireland UC",
+      "marketing_authorisation_date": "2017-01-09",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/vemlidy",
+      "name": "Vemlidy",
+      "record_from": "2017-01-09",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 8
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 7,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-004169",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "TENOFOVIR ALAFENAMIDE",
+    "TENOFOVIR ALAFENAMIDE FUMARATE"
+  ],
+  "inn": "tenofovir-alafenamide",
+  "name": "TENOFOVIR ALAFENAMIDE",
+  "rank": 106,
+  "rxcui": [
+    "1721613",
+    "1721619",
+    "1741733",
+    "1741739",
+    "1747691",
+    "1747697",
+    "1858261",
+    "1858267",
+    "1999667",
+    "1999673",
+    "2049671",
+    "2049677",
+    "2584354",
+    "2584356",
+    "2590641",
+    "2590643"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 6,
+    "approval_holders": 2,
+    "earliest_marketing_start": "2015-11-05",
+    "latest_label_update": "2026-09-14",
+    "nda_bla_applications": 6,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "TENOFOVIR ALAFENAMIDE",
+      "unii": "EL9943AG5J"
+    },
+    {
+      "ingredient": "TENOFOVIR ALAFENAMIDE FUMARATE",
+      "unii": "FWF6Q91TZO"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA208464"
+      ],
+      "brand_names": [
+        "VEMLIDY"
+      ],
+      "combination": false,
+      "home_inn": "tenofovir-alafenamide",
+      "ingredients": [
+        "TENOFOVIR ALAFENAMIDE FUMARATE"
+      ],
+      "labeler": "Gilead Sciences, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2016-11-10",
+      "moieties": [
+        "TENOFOVIR ALAFENAMIDE"
+      ],
+      "product_ndcs": [
+        "61958-2301"
+      ],
+      "rxcui": [
+        "1858261",
+        "1858267"
+      ],
+      "setid": "72e6b33c-0351-4070-9172-eeaa186c01d2",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "VEMLIDY (TENOFOVIR ALAFENAMIDE) TABLET [GILEAD SCIENCES, INC.]",
+      "upload_date": "2025-07-25"
+    },
+    {
+      "application_numbers": [
+        "NDA207561"
+      ],
+      "brand_names": [
+        "Genvoya"
+      ],
+      "combination": true,
+      "home_inn": "emtricitabine",
+      "ingredients": [
+        "COBICISTAT",
+        "ELVITEGRAVIR",
+        "EMTRICITABINE",
+        "TENOFOVIR ALAFENAMIDE FUMARATE"
+      ],
+      "labeler": "Gilead Sciences, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-11-05",
+      "moieties": [
+        "COBICISTAT",
+        "ELVITEGRAVIR",
+        "EMTRICITABINE",
+        "TENOFOVIR ALAFENAMIDE"
+      ],
+      "product_ndcs": [
+        "61958-1901"
+      ],
+      "rxcui": [
+        "1721613",
+        "1721619"
+      ],
+      "setid": "34784acf-15ed-4715-b504-eb30430518e9",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "GENVOYA (ELVITEGRAVIR, COBICISTAT, EMTRICITABINE, AND TENOFOVIR ALAFENAMIDE) TABLET [GILEAD SCIENCES, INC.]",
+      "upload_date": "2025-02-05"
+    },
+    {
+      "application_numbers": [
+        "NDA208351"
+      ],
+      "brand_names": [
+        "ODEFSEY"
+      ],
+      "combination": true,
+      "home_inn": "emtricitabine",
+      "ingredients": [
+        "EMTRICITABINE",
+        "RILPIVIRINE HYDROCHLORIDE",
+        "TENOFOVIR ALAFENAMIDE FUMARATE"
+      ],
+      "labeler": "Gilead Sciences, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2016-03-01",
+      "moieties": [
+        "EMTRICITABINE",
+        "RILPIVIRINE",
+        "TENOFOVIR ALAFENAMIDE"
+      ],
+      "product_ndcs": [
+        "61958-2101"
+      ],
+      "rxcui": [
+        "1741733",
+        "1741739"
+      ],
+      "setid": "ea3b9ec8-e04a-412c-8b3f-e5cbc7e641d5",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "ODEFSEY (EMTRICITABINE, RILPIVIRINE HYDROCHLORIDE, AND TENOFOVIR ALAFENAMIDE) TABLET [GILEAD SCIENCES, INC.]",
+      "upload_date": "2025-12-10"
+    },
+    {
+      "application_numbers": [
+        "NDA208215"
+      ],
+      "brand_names": [
+        "DESCOVY"
+      ],
+      "combination": true,
+      "home_inn": "emtricitabine",
+      "ingredients": [
+        "EMTRICITABINE",
+        "TENOFOVIR ALAFENAMIDE FUMARATE"
+      ],
+      "labeler": "Gilead Sciences, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2016-04-04",
+      "moieties": [
+        "EMTRICITABINE",
+        "TENOFOVIR ALAFENAMIDE"
+      ],
+      "product_ndcs": [
+        "61958-2002",
+        "61958-2005"
+      ],
+      "rxcui": [
+        "1747691",
+        "1747697",
+        "2590641",
+        "2590643"
+      ],
+      "setid": "06f66e98-e6ee-4538-9506-6c1282cc14c1",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "DESCOVY (EMTRICITABINE AND TENOFOVIR ALAFENAMIDE) TABLET [GILEAD SCIENCES, INC.]",
+      "upload_date": "2026-07-29"
+    },
+    {
+      "application_numbers": [
+        "NDA210251"
+      ],
+      "brand_names": [
+        "Biktarvy"
+      ],
+      "combination": true,
+      "home_inn": "emtricitabine",
+      "ingredients": [
+        "BICTEGRAVIR SODIUM",
+        "EMTRICITABINE",
+        "TENOFOVIR ALAFENAMIDE FUMARATE"
+      ],
+      "labeler": "Gilead Sciences, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-02-07",
+      "moieties": [
+        "BICTEGRAVIR",
+        "EMTRICITABINE",
+        "TENOFOVIR ALAFENAMIDE"
+      ],
+      "product_ndcs": [
+        "61958-2501",
+        "61958-2505",
+        "61958-2506"
+      ],
+      "rxcui": [
+        "1999667",
+        "1999673",
+        "2584354",
+        "2584356"
+      ],
+      "setid": "664cb8f0-1f65-441b-b0d9-ba3d798be309",
+      "source": "dailymed-title-match",
+      "spl_version": 26,
+      "title": "BIKTARVY (BICTEGRAVIR SODIUM, EMTRICITABINE, AND TENOFOVIR ALAFENAMIDE FUMARATE) TABLET [GILEAD SCIENCES, INC.]",
+      "upload_date": "2026-09-14"
+    },
+    {
+      "application_numbers": [
+        "NDA210455"
+      ],
+      "brand_names": [
+        "Symtuza"
+      ],
+      "combination": true,
+      "home_inn": "emtricitabine",
+      "ingredients": [
+        "COBICISTAT",
+        "DARUNAVIR",
+        "EMTRICITABINE",
+        "TENOFOVIR ALAFENAMIDE"
+      ],
+      "labeler": "Janssen Products LP",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-07-17",
+      "moieties": [
+        "COBICISTAT",
+        "DARUNAVIR",
+        "EMTRICITABINE",
+        "TENOFOVIR ALAFENAMIDE"
+      ],
+      "product_ndcs": [
+        "59676-800"
+      ],
+      "rxcui": [
+        "2049671",
+        "2049677"
+      ],
+      "setid": "85a17d00-6b7c-41ea-a6b3-5ad924820dab",
+      "source": "openfda",
+      "spl_version": 23,
+      "title": "SYMTUZA (DARUNAVIR, COBICISTAT, EMTRICITABINE, AND TENOFOVIR ALAFENAMIDE) TABLET, FILM COATED [JANSSEN PRODUCTS LP]",
+      "upload_date": "2026-04-20"
+    }
+  ],
+  "us_excluded": []
+}

@@ -1,0 +1,396 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "CITALOPRAM HYDROBROMIDE"
+  ],
+  "inn": "citalopram",
+  "name": "CITALOPRAM",
+  "rank": 411,
+  "rxcui": [
+    "200371",
+    "213344",
+    "213345",
+    "283672",
+    "284591",
+    "309313",
+    "309314",
+    "2591786"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 16,
+    "approval_holders": 14,
+    "earliest_marketing_start": "1998-07-17",
+    "latest_label_update": "2026-10-09",
+    "nda_bla_applications": 2,
+    "repackagers": 20
+  },
+  "unii": [
+    {
+      "ingredient": "CITALOPRAM HYDROBROMIDE",
+      "unii": "I1E9D14F36"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020822"
+      ],
+      "brand_names": [
+        "Celexa"
+      ],
+      "combination": false,
+      "home_inn": "citalopram",
+      "ingredients": [
+        "CITALOPRAM HYDROBROMIDE"
+      ],
+      "labeler": "Allergan, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1998-07-17",
+      "moieties": [
+        "CITALOPRAM"
+      ],
+      "product_ndcs": [
+        "0456-4010",
+        "0456-4020",
+        "0456-4040"
+      ],
+      "rxcui": [
+        "200371",
+        "213344",
+        "213345",
+        "283672",
+        "284591",
+        "309314"
+      ],
+      "setid": "4259d9b1-de34-43a4-85a8-41dd214e9177",
+      "source": "openfda",
+      "spl_version": 40,
+      "title": "CELEXA (CITALOPRAM) TABLET, FILM COATED [ALLERGAN, INC.]",
+      "upload_date": "2026-08-20"
+    },
+    {
+      "application_numbers": [
+        "NDA215428"
+      ],
+      "brand_names": [
+        "citalopram"
+      ],
+      "combination": false,
+      "home_inn": "citalopram",
+      "ingredients": [
+        "CITALOPRAM HYDROBROMIDE"
+      ],
+      "labeler": "Almatica Pharma LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-01-31",
+      "moieties": [
+        "CITALOPRAM"
+      ],
+      "product_ndcs": [
+        "52427-691"
+      ],
+      "rxcui": [
+        "2591786"
+      ],
+      "setid": "2f815b0c-6da7-cb61-e89c-7de628092d0d",
+      "source": "dailymed-title-match",
+      "spl_version": 5,
+      "title": "CITALOPRAM CAPSULE [ALMATICA PHARMA LLC]",
+      "upload_date": "2026-10-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA077043"
+      ],
+      "brand_names": [
+        "Citalopram"
+      ],
+      "combination": false,
+      "home_inn": "citalopram",
+      "ingredients": [
+        "CITALOPRAM HYDROBROMIDE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2004-05-25",
+      "moieties": [
+        "CITALOPRAM"
+      ],
+      "product_ndcs": [
+        "0054-0062"
+      ],
+      "rxcui": [
+        "309313"
+      ],
+      "setid": "29408d84-7b00-4cee-969c-8095f8083ff5",
+      "source": "openfda",
+      "spl_version": 23,
+      "title": "CITALOPRAM SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2023-08-14"
+    },
+    {
+      "application_numbers": [
+        "ANDA077031"
+      ],
+      "brand_names": [
+        "Citalopram"
+      ],
+      "combination": false,
+      "home_inn": "citalopram",
+      "ingredients": [
+        "CITALOPRAM HYDROBROMIDE"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2004-10-28",
+      "moieties": [
+        "CITALOPRAM"
+      ],
+      "product_ndcs": [
+        "65862-005",
+        "65862-006",
+        "65862-007"
+      ],
+      "rxcui": [
+        "200371",
+        "283672",
+        "309314"
+      ],
+      "setid": "2632b547-2e13-447f-ac85-c774e437d6a8",
+      "source": "openfda",
+      "spl_version": 24,
+      "title": "CITALOPRAM (CITALOPRAM HYDROBROMIDE) TABLET, FILM COATED [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2024-07-01"
+    },
+    {
+      "application_numbers": [
+        "ANDA077629"
+      ],
+      "brand_names": [
+        "Citalopram"
+      ],
+      "combination": false,
+      "home_inn": "citalopram",
+      "ingredients": [
+        "CITALOPRAM HYDROBROMIDE"
+      ],
+      "labeler": "Chartwell Governmental & Specialty RX, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2006-06-14",
+      "moieties": [
+        "CITALOPRAM"
+      ],
+      "product_ndcs": [
+        "68999-540"
+      ],
+      "rxcui": [
+        "309313"
+      ],
+      "setid": "3114274f-d81f-4b1f-8f17-35db9eee2ffe",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "CITALOPRAM SOLUTION [CHARTWELL GOVERNMENTAL & SPECIALTY RX, LLC.]",
+      "upload_date": "2026-01-14"
+    },
+    {
+      "application_numbers": [
+        "ANDA077812"
+      ],
+      "brand_names": [
+        "Citalopram Hydrobromide"
+      ],
+      "combination": false,
+      "home_inn": "citalopram",
+      "ingredients": [
+        "CITALOPRAM HYDROBROMIDE"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2006-08-28",
+      "moieties": [
+        "CITALOPRAM"
+      ],
+      "product_ndcs": [
+        "65862-074"
+      ],
+      "rxcui": [
+        "309313"
+      ],
+      "setid": "e7a2cbdd-1bdb-4e59-a3dd-298a189753ae",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "CITALOPRAM HYDROBROMIDE SOLUTION [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2024-05-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA078216"
+      ],
+      "brand_names": [
+        "Citalopram"
+      ],
+      "combination": false,
+      "home_inn": "citalopram",
+      "ingredients": [
+        "CITALOPRAM HYDROBROMIDE"
+      ],
+      "labeler": "Torrent Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2007-10-18",
+      "moieties": [
+        "CITALOPRAM"
+      ],
+      "product_ndcs": [
+        "13668-009",
+        "13668-010",
+        "13668-011"
+      ],
+      "rxcui": [
+        "200371",
+        "283672",
+        "309314"
+      ],
+      "setid": "04766f1d-7a69-49ed-8fd3-1a6305505d47",
+      "source": "openfda",
+      "spl_version": 23,
+      "title": "CITALOPRAM TABLET, FILM COATED [TORRENT PHARMACEUTICALS LIMITED]",
+      "upload_date": "2026-02-06"
+    },
+    {
+      "application_numbers": [
+        "ANDA077042"
+      ],
+      "brand_names": [
+        "Citalopram"
+      ],
+      "combination": false,
+      "home_inn": "citalopram",
+      "ingredients": [
+        "CITALOPRAM HYDROBROMIDE"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2008-07-28",
+      "moieties": [
+        "CITALOPRAM"
+      ],
+      "product_ndcs": [
+        "0378-6231",
+        "0378-6232",
+        "0378-6233"
+      ],
+      "rxcui": [
+        "200371",
+        "283672",
+        "309314"
+      ],
+      "setid": "825c0c49-5fbf-6d8b-cb8c-94ebf0eda043",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "CITALOPRAM TABLET, FILM COATED [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2024-09-16"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6a402640-1c9d-4fca-8b5b-e1ac1dd4ca5a"
+    },
+    {
+      "combination": false,
+      "labeler": "Epic Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "08b6d5da-5919-4760-9e16-3b478a14d6d7"
+    },
+    {
+      "combination": false,
+      "labeler": "Exelan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a8e8fde2-8392-4d5b-902b-e2b9dd55a02d"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dc7b3f88-ee55-4e3e-9ed4-fc06aa7620cc"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "80af8ae8-c106-4895-bab3-0579b41f1e75"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b1f0c6e8-85eb-4368-8709-9cace32415cb"
+    },
+    {
+      "combination": false,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0580559a-783a-4a0a-8d81-ee30a29077c5"
+    },
+    {
+      "combination": false,
+      "labeler": "QUALLENT PHARMACEUTICALS HEALTH LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e0822069-9672-4d4c-bc1a-8739b0dd045c"
+    }
+  ]
+}

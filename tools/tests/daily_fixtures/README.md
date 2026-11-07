@@ -1,0 +1,3 @@
+# Daily job fixtures
+
+`spls-listing-p1.json` is one page of the DailyMed listing `services/v2/spls.json?published_date=...&published_date_comparison=gte`, trimmed from the listing page for published dates from 2026-10-30, cached on 2026-11-03: eight real rows plus one row for the Synthroid fixture label (setid 1e11ad30-1041-4520-10b0-8f9d30d30fcc) at version 1538, one above its newest pinned version. `metadata` is the real shape with `total_pages` set to 1. `spls-listing-empty.json` is the real answer for a day with no rows (`total_pages` 0). The version 1538 zip is synthesised by `test_daily.py` from the pinned version 1537 zip in `raw/sha256/`.

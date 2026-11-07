@@ -1,0 +1,1319 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand TOBI",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/002155",
+      "eu_number": "EU/1/10/652",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-002155",
+      "mah": "Viatris Healthcare Limited",
+      "marketing_authorisation_date": "2011-07-20",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tobi-podhaler",
+      "name": "Tobi Podhaler",
+      "record_from": "2011-07-20",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 14
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/005086",
+      "eu_number": "EU/1/14/932",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-005086",
+      "mah": "Pari Pharma GmbH",
+      "marketing_authorisation_date": "2019-02-18",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/vantobra",
+      "name": "Vantobra (previously Tobramycin PARI)",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-002155",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "TOBRAMYCIN",
+    "TOBRAMYCIN SULFATE"
+  ],
+  "inn": "tobramycin",
+  "name": "TOBRAMYCIN",
+  "rank": 35,
+  "rxcui": [
+    "208821",
+    "213194",
+    "309682",
+    "313415",
+    "313416",
+    "348719",
+    "545255",
+    "545259",
+    "597823",
+    "849115",
+    "1011080",
+    "1314763",
+    "1314768",
+    "1374569",
+    "1374570",
+    "1374573",
+    "1374574",
+    "1596030",
+    "1661466",
+    "1661559",
+    "1661560",
+    "1661567"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 54,
+    "approval_holders": 39,
+    "earliest_marketing_start": "1981-06-28",
+    "latest_label_update": "2026-10-28",
+    "nda_bla_applications": 9,
+    "repackagers": 14
+  },
+  "unii": [
+    {
+      "ingredient": "TOBRAMYCIN",
+      "unii": "VZ8RRZ51VK"
+    },
+    {
+      "ingredient": "TOBRAMYCIN SULFATE",
+      "unii": "HJT0RXD7JK"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA050555"
+      ],
+      "brand_names": [
+        "TOBREX"
+      ],
+      "combination": false,
+      "home_inn": "tobramycin",
+      "ingredients": [
+        "TOBRAMYCIN"
+      ],
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1981-06-28",
+      "moieties": [
+        "TOBRAMYCIN"
+      ],
+      "product_ndcs": [
+        "0078-0813"
+      ],
+      "rxcui": [],
+      "setid": "5b66bba3-cf97-4a9c-b618-ba5f277f20f6",
+      "source": "dailymed-title-match",
+      "spl_version": 7,
+      "title": "TOBREX (TOBRAMYCIN) OINTMENT [NOVARTIS PHARMACEUTICALS CORPORATION]",
+      "upload_date": "2026-10-28"
+    },
+    {
+      "application_numbers": [
+        "NDA050789"
+      ],
+      "brand_names": [
+        "Tobramycin"
+      ],
+      "combination": false,
+      "home_inn": "tobramycin",
+      "ingredients": [
+        "TOBRAMYCIN SULFATE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2005-11-23",
+      "moieties": [
+        "TOBRAMYCIN"
+      ],
+      "product_ndcs": [
+        "63323-303"
+      ],
+      "rxcui": [
+        "597823"
+      ],
+      "setid": "9a5cecd6-aa65-42d2-b15a-06b4fcebcc0f",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "TOBRAMYCIN (TOBRAMYCIN SULFATE) INJECTION, POWDER, FOR SOLUTION [FRESENIUS KABI USA, LLC",
+      "upload_date": "2024-02-14"
+    },
+    {
+      "application_numbers": [
+        "NDA201820"
+      ],
+      "brand_names": [
+        "BETHKIS"
+      ],
+      "combination": false,
+      "home_inn": "tobramycin",
+      "ingredients": [
+        "TOBRAMYCIN"
+      ],
+      "labeler": "Chiesi USA, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2013-04-15",
+      "moieties": [
+        "TOBRAMYCIN"
+      ],
+      "product_ndcs": [
+        "10122-820"
+      ],
+      "rxcui": [
+        "1314763",
+        "1314768"
+      ],
+      "setid": "1cd3d47b-025f-4705-9daf-cf07725ec223",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "BETHKIS (TOBRAMYCIN) SOLUTION [CHIESI USA, INC.]",
+      "upload_date": "2023-02-23"
+    },
+    {
+      "application_numbers": [
+        "NDA205433"
+      ],
+      "brand_names": [
+        "Kitabis Pak"
+      ],
+      "combination": false,
+      "home_inn": "tobramycin",
+      "ingredients": [
+        "TOBRAMYCIN"
+      ],
+      "labeler": "Pari Respiratory Equipment, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-02-19",
+      "moieties": [
+        "TOBRAMYCIN"
+      ],
+      "product_ndcs": [
+        "24492-850"
+      ],
+      "rxcui": [
+        "348719",
+        "1596030"
+      ],
+      "setid": "da1e5afd-d707-4af1-8935-8195ba6d769f",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "KITABIS PAK (TOBRAMYCIN) SOLUTION [PARI RESPIRATORY EQUIPMENT, INC.]",
+      "upload_date": "2024-12-13"
+    },
+    {
+      "application_numbers": [
+        "NDA201688"
+      ],
+      "brand_names": [
+        "TOBI Podhaler"
+      ],
+      "combination": false,
+      "home_inn": "tobramycin",
+      "ingredients": [
+        "TOBRAMYCIN"
+      ],
+      "labeler": "Viatris Specialty LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-09-01",
+      "moieties": [
+        "TOBRAMYCIN"
+      ],
+      "product_ndcs": [
+        "49502-401"
+      ],
+      "rxcui": [
+        "1374569",
+        "1374570",
+        "1374573",
+        "1374574",
+        "1661466",
+        "1661559",
+        "1661560",
+        "1661567"
+      ],
+      "setid": "c4b5bb1f-e158-4ac1-9c35-e98a416c743a",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "TOBI PODHALER (TOBRAMYCIN) CAPSULE [VIATRIS SPECIALTY LLC]",
+      "upload_date": "2026-06-18"
+    },
+    {
+      "application_numbers": [
+        "NDA050753"
+      ],
+      "brand_names": [
+        "TOBI"
+      ],
+      "combination": false,
+      "home_inn": "tobramycin",
+      "ingredients": [
+        "TOBRAMYCIN"
+      ],
+      "labeler": "Viatris Specialty LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-06-23",
+      "moieties": [
+        "TOBRAMYCIN"
+      ],
+      "product_ndcs": [
+        "49502-345"
+      ],
+      "rxcui": [
+        "213194",
+        "348719"
+      ],
+      "setid": "6a3c3871-1d3a-44d6-8be3-526b30123ef7",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "TOBI (TOBRAMYCIN) SOLUTION [VIATRIS SPECIALTY LLC]",
+      "upload_date": "2026-06-29"
+    },
+    {
+      "application_numbers": [
+        "NDA050616"
+      ],
+      "brand_names": [
+        "TobraDex"
+      ],
+      "combination": true,
+      "home_inn": "dexamethasone",
+      "ingredients": [
+        "DEXAMETHASONE",
+        "TOBRAMYCIN"
+      ],
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1988-10-15",
+      "moieties": [
+        "DEXAMETHASONE",
+        "TOBRAMYCIN"
+      ],
+      "product_ndcs": [
+        "0078-0876"
+      ],
+      "rxcui": [
+        "208821",
+        "309682"
+      ],
+      "setid": "7f310e0e-0d3b-493d-b6c4-238493a2a9b9",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "TOBRADEX (TOBRAMYCIN AND DEXAMETHASONE) OINTMENT [NOVARTIS PHARMACEUTICALS CORPORATION]",
+      "upload_date": "2026-07-24"
+    },
+    {
+      "application_numbers": [
+        "NDA050804"
+      ],
+      "brand_names": [
+        "Zylet"
+      ],
+      "combination": true,
+      "home_inn": "tobramycin",
+      "ingredients": [
+        "LOTEPREDNOL ETABONATE",
+        "TOBRAMYCIN"
+      ],
+      "labeler": "Bausch & Lomb Incorporated",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2004-12-14",
+      "moieties": [
+        "LOTEPREDNOL",
+        "TOBRAMYCIN"
+      ],
+      "product_ndcs": [
+        "24208-358"
+      ],
+      "rxcui": [
+        "545255",
+        "545259"
+      ],
+      "setid": "3dd9b060-5355-404d-bdf1-09ee8b52a9f5",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "ZYLET (LOTEPREDNOL ETABONATE AND TOBRAMYCIN) SUSPENSION/ DROPS [BAUSCH & LOMB INCORPORATED]",
+      "upload_date": "2022-09-14"
+    },
+    {
+      "application_numbers": [
+        "NDA050818"
+      ],
+      "brand_names": [
+        "Tobradex ST"
+      ],
+      "combination": true,
+      "home_inn": "dexamethasone",
+      "ingredients": [
+        "DEXAMETHASONE",
+        "TOBRAMYCIN"
+      ],
+      "labeler": "Eyevance Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-05-19",
+      "moieties": [
+        "DEXAMETHASONE",
+        "TOBRAMYCIN"
+      ],
+      "product_ndcs": [
+        "71776-035"
+      ],
+      "rxcui": [
+        "849115",
+        "1011080"
+      ],
+      "setid": "c2d7325e-4f58-5590-e053-2a95a90ace1b",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "TOBRADEX ST (TOBRAMYCIN / DEXAMETHASONE) SUSPENSION/ DROPS [EYEVANCE PHARMACEUTICALS, LLC]",
+      "upload_date": "2025-01-20"
+    },
+    {
+      "application_numbers": [
+        "NDA050789"
+      ],
+      "brand_names": [
+        "Tobramycin"
+      ],
+      "combination": false,
+      "home_inn": "tobramycin",
+      "ingredients": [
+        "TOBRAMYCIN SULFATE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2005-11-23",
+      "moieties": [
+        "TOBRAMYCIN"
+      ],
+      "product_ndcs": [
+        "63323-303"
+      ],
+      "rxcui": [
+        "597823"
+      ],
+      "setid": "d62ff359-912b-4be1-9fc2-2dde8777eefb",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "TOBRAMYCIN (TOBRAMYCIN SULFATE) INJECTION, POWDER, FOR SOLUTION [FRESENIUS KABI USA, LLC",
+      "upload_date": "2024-01-30"
+    },
+    {
+      "application_numbers": [
+        "NDA205433"
+      ],
+      "brand_names": [
+        "Tobramycin Inhalation Solution Pak"
+      ],
+      "combination": false,
+      "home_inn": "tobramycin",
+      "ingredients": [
+        "TOBRAMYCIN"
+      ],
+      "labeler": "Genericus, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2016-07-11",
+      "moieties": [
+        "TOBRAMYCIN"
+      ],
+      "product_ndcs": [
+        "70644-899"
+      ],
+      "rxcui": [
+        "348719"
+      ],
+      "setid": "dad13445-f591-4829-96f9-1598ba03dff8",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "TOBRAMYCIN INHALATION SOLUTION PAK (TOBRAMYCIN) SOLUTION [GENERICUS, INC.",
+      "upload_date": "2025-01-06"
+    },
+    {
+      "application_numbers": [
+        "NDA201820"
+      ],
+      "brand_names": [
+        "Tobramycin Inhalation"
+      ],
+      "combination": false,
+      "home_inn": "tobramycin",
+      "ingredients": [
+        "TOBRAMYCIN"
+      ],
+      "labeler": "Prasco, LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2020-09-15",
+      "moieties": [
+        "TOBRAMYCIN"
+      ],
+      "product_ndcs": [
+        "66993-195"
+      ],
+      "rxcui": [
+        "1314763"
+      ],
+      "setid": "b5b51665-c427-42b9-bd6e-6e3c06f650e1",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "TOBRAMYCIN INHALATION SOLUTION [PRASCO, LLC]",
+      "upload_date": "2023-02-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA064052"
+      ],
+      "brand_names": [
+        "Tobramycin"
+      ],
+      "combination": false,
+      "home_inn": "tobramycin",
+      "ingredients": [
+        "TOBRAMYCIN"
+      ],
+      "labeler": "Bausch & Lomb Incorporated",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1993-11-29",
+      "moieties": [
+        "TOBRAMYCIN"
+      ],
+      "product_ndcs": [
+        "24208-290"
+      ],
+      "rxcui": [
+        "313415"
+      ],
+      "setid": "a5693ec9-d2f7-4d45-90b0-a113c54840d7",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "TOBRAMYCIN SOLUTION [BAUSCH & LOMB INCORPORATED]",
+      "upload_date": "2024-01-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA062535"
+      ],
+      "brand_names": [
+        "Tobramycin"
+      ],
+      "combination": false,
+      "home_inn": "tobramycin",
+      "ingredients": [
+        "TOBRAMYCIN"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1995-01-09",
+      "moieties": [
+        "TOBRAMYCIN"
+      ],
+      "product_ndcs": [
+        "61314-643"
+      ],
+      "rxcui": [
+        "313415"
+      ],
+      "setid": "27e2c16e-19b0-4745-93eb-5cf99f94bb92",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "TOBRAMYCIN SOLUTION [SANDOZ INC]",
+      "upload_date": "2022-02-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA065013"
+      ],
+      "brand_names": [
+        "Tobramycin"
+      ],
+      "combination": false,
+      "home_inn": "tobramycin",
+      "ingredients": [
+        "TOBRAMYCIN SULFATE"
+      ],
+      "labeler": "XGen Pharmaceuticals DJB, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2001-08-17",
+      "moieties": [
+        "TOBRAMYCIN"
+      ],
+      "product_ndcs": [
+        "39822-0412"
+      ],
+      "rxcui": [
+        "597823"
+      ],
+      "setid": "a384641c-04e3-4ab5-b152-7408cd07b64d",
+      "source": "openfda",
+      "spl_version": 27,
+      "title": "TOBRAMYCIN INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [XGEN PHARMACEUTICALS DJB, INC.]",
+      "upload_date": "2026-01-08"
+    },
+    {
+      "application_numbers": [
+        "ANDA065122"
+      ],
+      "brand_names": [
+        "Tobramycin"
+      ],
+      "combination": false,
+      "home_inn": "tobramycin",
+      "ingredients": [
+        "TOBRAMYCIN SULFATE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2004-11-30",
+      "moieties": [
+        "TOBRAMYCIN"
+      ],
+      "product_ndcs": [
+        "63323-305",
+        "63323-306"
+      ],
+      "rxcui": [
+        "313416",
+        "597823"
+      ],
+      "setid": "d6dd9460-b030-479a-b3e3-03606e6fcad1",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "TOBRAMYCIN (TOBRAMYCIN SULFATE) INJECTION, SOLUTION [FRESENIUS KABI USA, LLC",
+      "upload_date": "2024-03-04"
+    },
+    {
+      "application_numbers": [
+        "NDA050541"
+      ],
+      "archived_versions": 13,
+      "brand_names": [
+        "TOBREX"
+      ],
+      "first_posted": "2008-03-13",
+      "found_by": "TOBREX",
+      "labeler": "Alcon Laboratories, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2022-06-07",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-03-31"
+      ],
+      "product_ndcs": [
+        "0065-0643"
+      ],
+      "rxcui": [],
+      "setid": "4b8716c4-0ffd-49aa-9006-a3bf5b6d19a6",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "TOBREX (tobramycin) solution/ drops"
+    },
+    {
+      "application_numbers": [
+        "NDA050616"
+      ],
+      "archived_versions": 11,
+      "brand_names": [
+        "TOBRADEX"
+      ],
+      "first_posted": "2008-03-13",
+      "found_by": "TOBRADEX",
+      "labeler": "Alcon Laboratories, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2021-10-04",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-06-30"
+      ],
+      "product_ndcs": [
+        "0065-0648"
+      ],
+      "rxcui": [],
+      "setid": "5538d748-215c-4e3e-b940-ac9baf07d8a1",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "7f310e0e-0d3b-493d-b6c4-238493a2a9b9"
+      ],
+      "title": "TOBRADEX (tobramycin and dexamethasone) ointment"
+    },
+    {
+      "application_numbers": [
+        "NDA205433"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "KITABIS"
+      ],
+      "first_posted": "2018-03-22",
+      "found_by": "KITABIS",
+      "labeler": "Catalent Pharma Solutions,LLC",
+      "labeler_unverified": true,
+      "last_posted": "2018-03-22",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "11014-0291"
+      ],
+      "rxcui": [],
+      "setid": "58518637-fea9-45f4-82d1-9d8d760c5a8d",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "da1e5afd-d707-4af1-8935-8195ba6d769f",
+        "dad13445-f591-4829-96f9-1598ba03dff8"
+      ],
+      "title": "KITABIS PAK (tobramycin) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA201688"
+      ],
+      "archived_versions": 13,
+      "brand_names": [
+        "TOBI"
+      ],
+      "first_posted": "2013-03-26",
+      "found_by": "TOBI",
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2020-10-09",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-07-31"
+      ],
+      "product_ndcs": [
+        "0078-0630"
+      ],
+      "rxcui": [],
+      "setid": "625a4499-4e46-4f5a-8d0c-d104f520d97e",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "c4b5bb1f-e158-4ac1-9c35-e98a416c743a"
+      ],
+      "title": "TOBI PODHALER (tobramycin) capsule"
+    },
+    {
+      "application_numbers": [
+        "NDA201688"
+      ],
+      "archived_versions": 10,
+      "brand_names": [
+        "TOBI"
+      ],
+      "first_posted": "2020-10-15",
+      "found_by": "TOBI",
+      "labeler": "Viatris Specialty LLC",
+      "labeler_unverified": false,
+      "last_posted": "2025-02-12",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-05-31"
+      ],
+      "product_ndcs": [
+        "49502-346"
+      ],
+      "rxcui": [],
+      "setid": "6f3ffc58-f84f-4a6e-84af-49c3309a374e",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "c4b5bb1f-e158-4ac1-9c35-e98a416c743a"
+      ],
+      "title": "TOBI PODHALER (tobramycin) capsule"
+    },
+    {
+      "application_numbers": [
+        "NDA050753"
+      ],
+      "archived_versions": 17,
+      "brand_names": [
+        "TOBI"
+      ],
+      "first_posted": "2008-11-26",
+      "found_by": "TOBI",
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2022-06-29",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-12-31"
+      ],
+      "product_ndcs": [
+        "0078-0494"
+      ],
+      "rxcui": [],
+      "setid": "94f9e516-6bf6-4e30-8dde-8833c25c2560",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "6a3c3871-1d3a-44d6-8be3-526b30123ef7"
+      ],
+      "title": "TOBI (tobramycin) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA050555"
+      ],
+      "archived_versions": 11,
+      "brand_names": [
+        "TOBREX"
+      ],
+      "first_posted": "2008-03-13",
+      "found_by": "TOBREX",
+      "labeler": "Alcon Laboratories, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2023-02-01",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-07-31"
+      ],
+      "product_ndcs": [
+        "0065-0644"
+      ],
+      "rxcui": [],
+      "setid": "cdd423c5-a231-47d4-bf51-00b5c29e6a60",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "5b66bba3-cf97-4a9c-b618-ba5f277f20f6"
+      ],
+      "title": "TOBREX (tobramycin) ointment"
+    },
+    {
+      "application_numbers": [
+        "NDA050818"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "TOBRADEX"
+      ],
+      "first_posted": "2010-09-09",
+      "found_by": "TOBRADEX",
+      "labeler": "Alcon Laboratories, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2020-12-04",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-06-30"
+      ],
+      "product_ndcs": [
+        "0065-0652"
+      ],
+      "rxcui": [],
+      "setid": "d1d48422-8cfc-4e9e-a7f8-56c274d8eb83",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "c2d7325e-4f58-5590-e053-2a95a90ace1b"
+      ],
+      "title": "TOBRADEX ST (tobramycin / dexamethasone) suspension/ drops"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "TOBRADEX"
+      ],
+      "first_posted": "2007-12-12",
+      "found_by": "TOBRADEX",
+      "labeler": "Alcon",
+      "labeler_unverified": false,
+      "last_posted": "2007-12-12",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0065-0647"
+      ],
+      "rxcui": [],
+      "setid": "l22b59456-d26a-4f23-b052-3d73e00181eb",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "tobradex (tobramycin and dexamethasone) suspension"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "TOBREX"
+      ],
+      "first_posted": "2006-11-22",
+      "found_by": "TOBREX",
+      "labeler": "ALCON LABORATORIES, INC.",
+      "labeler_unverified": false,
+      "last_posted": "2006-11-22",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0065-0643"
+      ],
+      "rxcui": [],
+      "setid": "l4b8716c4-0ffd-49aa-9006-a3bf5b6d19a6",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "tobrex (tobramycin) solution"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "TOBRADEX"
+      ],
+      "first_posted": "2007-02-16",
+      "found_by": "TOBRADEX",
+      "labeler": "Alcon",
+      "labeler_unverified": false,
+      "last_posted": "2007-02-16",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0065-0648"
+      ],
+      "rxcui": [],
+      "setid": "l5538d748-215c-4e3e-b940-ac9baf07d8a1",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "tobradex (tobramycin and dexamethasone) ointment"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "TOBREX"
+      ],
+      "first_posted": "2007-06-29",
+      "found_by": "TOBREX",
+      "labeler": "ALCON LABORATORIES, INC.",
+      "labeler_unverified": false,
+      "last_posted": "2007-06-29",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0065-0644"
+      ],
+      "rxcui": [],
+      "setid": "lcdd423c5-a231-47d4-bf51-00b5c29e6a60",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "tobrex (tobramycin) ointment"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": true,
+      "labeler": "Harrow Eye, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "3b99dbb3-ac84-4d0d-b30f-a5db44fdc316"
+    },
+    {
+      "combination": false,
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c5a005b0-7b6f-4e30-df92-9a20b1ca66a1"
+    },
+    {
+      "combination": false,
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c5f65e5b-c851-45da-a0e8-215d9a4e6ad3"
+    },
+    {
+      "combination": false,
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ac8134d9-a726-4508-b8b9-a536ef17243d"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "15f9c0cd-7dbf-4a91-9961-14f1dd000343"
+    },
+    {
+      "combination": false,
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a9897444-71f6-42af-9b71-4aa77829ade0"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fd871ae7-9083-4e57-aacb-f584c1390db9"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "14c14f81-6b0a-4176-a5df-d0757cc3260d"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Laboratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e5bbf589-d066-c89a-c40f-cbeb6f98c5b5"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c452e428-0d8f-4f35-b98f-5aa3b814cb49"
+    },
+    {
+      "combination": false,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7333280d-5d2a-4609-ab93-3ab7031b65db"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0aa5859e-cd80-49c0-881b-47f39d1f1d01"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "02b48684-168c-4cd9-8375-794206eff23e"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "645d34d9-275d-428e-863d-ae15ad009c44"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f8c92d73-711a-423f-bf34-bdec4464828e"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "845e3328-fffa-44eb-b78a-3607c05fdd55"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "38219f34-4859-428f-9ec1-06ead7604211"
+    },
+    {
+      "combination": false,
+      "labeler": "Slate Run Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ed254eec-10f4-425a-895b-66e325b7bf69"
+    },
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c37c251f-92e9-40f0-8b0c-00d42875d776"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5563e8af-c6c9-42a2-974d-7d364a47f00a"
+    },
+    {
+      "combination": false,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9d8b7b6c-3072-48e9-87c8-51160b9df9bc"
+    },
+    {
+      "combination": false,
+      "labeler": "Ritedose Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e8205898-0162-4e6c-bcf1-87cb074ab9ae"
+    },
+    {
+      "combination": true,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "05fd0c36-39b4-4a43-8490-eb8dfc0920ae"
+    },
+    {
+      "combination": true,
+      "labeler": "Bausch & Lomb Americas Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "75df79e9-f064-4f46-9837-8d4d536517a3"
+    },
+    {
+      "combination": true,
+      "labeler": "Bausch & Lomb Incorporated",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "33de419e-a89b-47e5-952b-87e837f5d531"
+    },
+    {
+      "combination": true,
+      "labeler": "Padagis US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7e34b1a9-8d21-41db-9070-37227975414f"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7c752fac-8ec8-49ab-8570-09d2aabbeef0"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3c23234a-452b-40d0-922f-37e49147d537"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3d044738-a715-fdee-7849-521e8981e6ec"
+    },
+    {
+      "combination": false,
+      "labeler": "Xiromed LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8b50d1b5-ea8a-5844-358a-493f1965c07f"
+    },
+    {
+      "combination": false,
+      "labeler": "Fosun Pharma USA Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c4751a4f-c9c1-60c5-e053-2995a90aeba9"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "96517b44-55df-4d2c-8fe8-110ed51dfafe"
+    },
+    {
+      "combination": false,
+      "labeler": "Belcher Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "17b5b083-79ab-46b5-bed6-866e5415c623"
+    },
+    {
+      "combination": false,
+      "labeler": "Northstar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "55d09ffd-4f32-8aeb-3904-8a17db635e3a"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "634efd82-1a35-40cf-9893-50c27d661083"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7803ac83-1250-451b-8ad8-2c0a343c3031"
+    },
+    {
+      "combination": false,
+      "labeler": "JVET PHARMACEUTICALS LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c6435b8f-bb6e-45e0-a52b-3087fd043b5a"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a6d68829-f7b6-4b9b-ad44-110c47609918"
+    }
+  ]
+}

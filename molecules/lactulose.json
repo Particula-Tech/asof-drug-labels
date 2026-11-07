@@ -1,0 +1,384 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "LACTULOSE"
+  ],
+  "inn": "lactulose",
+  "name": "LACTULOSE",
+  "rank": 407,
+  "rxcui": [
+    "391937",
+    "544452",
+    "544455",
+    "755470",
+    "1251190",
+    "1251192",
+    "1251194",
+    "1251196"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 21,
+    "approval_holders": 15,
+    "earliest_marketing_start": "1966-07-30",
+    "latest_label_update": "2026-10-19",
+    "nda_bla_applications": 0,
+    "repackagers": 4
+  },
+  "unii": [
+    {
+      "ingredient": "LACTULOSE",
+      "unii": "9U7D5QH5AE"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "ANDA074623"
+      ],
+      "brand_names": [
+        "LACTULOSE"
+      ],
+      "combination": false,
+      "home_inn": "lactulose",
+      "ingredients": [
+        "LACTULOSE"
+      ],
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1966-07-30",
+      "moieties": [
+        "LACTULOSE"
+      ],
+      "product_ndcs": [
+        "0121-1154",
+        "0121-4577"
+      ],
+      "rxcui": [
+        "391937"
+      ],
+      "setid": "0f19e4ed-c90a-4330-a7fa-bf911aa98f09",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "LACTULOSE SOLUTION [PAI HOLDINGS, LLC DBA PAI PHARMA]",
+      "upload_date": "2025-09-25"
+    },
+    {
+      "application_numbers": [
+        "ANDA074603"
+      ],
+      "brand_names": [
+        "Generlac"
+      ],
+      "combination": false,
+      "home_inn": "lactulose",
+      "ingredients": [
+        "LACTULOSE"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1996-10-31",
+      "moieties": [
+        "LACTULOSE"
+      ],
+      "product_ndcs": [
+        "62135-892"
+      ],
+      "rxcui": [
+        "391937",
+        "544455"
+      ],
+      "setid": "35207edd-a5fe-4369-a079-7a8b0d2f2e91",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "GENERLAC (LACTULOSE) SOLUTION [CHARTWELL RX, LLC]",
+      "upload_date": "2024-07-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA075993"
+      ],
+      "brand_names": [
+        "LACTULOSE"
+      ],
+      "combination": false,
+      "home_inn": "lactulose",
+      "ingredients": [
+        "LACTULOSE"
+      ],
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2001-07-26",
+      "moieties": [
+        "LACTULOSE"
+      ],
+      "product_ndcs": [
+        "0527-5125"
+      ],
+      "rxcui": [
+        "391937"
+      ],
+      "setid": "6619b25c-26b7-4c43-8c4f-9d33a23c61ca",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "LACTULOSE SOLUTION [LANNETT COMPANY, INC.]",
+      "upload_date": "2021-07-14"
+    },
+    {
+      "application_numbers": [
+        "ANDA090502"
+      ],
+      "brand_names": [
+        "Enulose"
+      ],
+      "combination": false,
+      "home_inn": "lactulose",
+      "ingredients": [
+        "LACTULOSE"
+      ],
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-02-28",
+      "moieties": [
+        "LACTULOSE"
+      ],
+      "product_ndcs": [
+        "45963-438"
+      ],
+      "rxcui": [
+        "391937",
+        "755470"
+      ],
+      "setid": "00c42c5c-d19e-4130-aa08-a8bbd47d3e5b",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "ENULOSE (LACTULOSE) SOLUTION [ACTAVIS PHARMA, INC.]",
+      "upload_date": "2022-10-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA090503"
+      ],
+      "brand_names": [
+        "Constulose"
+      ],
+      "combination": false,
+      "home_inn": "lactulose",
+      "ingredients": [
+        "LACTULOSE"
+      ],
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-02-28",
+      "moieties": [
+        "LACTULOSE"
+      ],
+      "product_ndcs": [
+        "45963-439"
+      ],
+      "rxcui": [
+        "391937",
+        "544452"
+      ],
+      "setid": "461ec39f-eeb4-4460-9b5c-62367d47162b",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "CONSTULOSE (LACTULOSE) SOLUTION [ACTAVIS PHARMA, INC.]",
+      "upload_date": "2022-10-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA074712"
+      ],
+      "brand_names": [
+        "KRISTALOSE"
+      ],
+      "combination": false,
+      "home_inn": "lactulose",
+      "ingredients": [
+        "LACTULOSE"
+      ],
+      "labeler": "Cumberland Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-01-20",
+      "moieties": [
+        "LACTULOSE"
+      ],
+      "product_ndcs": [
+        "66220-719",
+        "66220-729"
+      ],
+      "rxcui": [
+        "1251190",
+        "1251192",
+        "1251194",
+        "1251196"
+      ],
+      "setid": "535dd1ea-b567-49f7-9a84-8ea91e78c466",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "KRISTALOSE (LACTULOSE) POWDER, FOR SOLUTION [CUMBERLAND PHARMACEUTICALS INC.]",
+      "upload_date": "2022-09-27"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Chartwell Governmental & Specialty RX, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "887157ba-3c91-4fbf-bb12-b49c6fa4252c"
+    },
+    {
+      "combination": false,
+      "labeler": "Bajaj Medical, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d460b1a2-9091-2ac9-e053-2995a90aa1d2"
+    },
+    {
+      "combination": false,
+      "labeler": "Xttrium Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "df62ad54-5aba-4d05-e053-2a95a90aa48d"
+    },
+    {
+      "combination": false,
+      "labeler": "APOZEAL PHARMACEUTICALS INC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "72ac130a-de85-464d-9e9b-05cac0c54db1"
+    },
+    {
+      "combination": false,
+      "labeler": "APOZEAL PHARMACEUTICALS INC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a8af7389-3699-4873-b05a-509af7e8eaab"
+    },
+    {
+      "combination": false,
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5ae4b6da-44df-419a-9f2b-8c4d79f635c8"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "391cfd01-c1fa-41f9-abd7-d0abe9a27634"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi Austria GmbH",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a89835c9-8ce5-4627-8d7d-70ff175b2e07"
+    },
+    {
+      "combination": false,
+      "labeler": "Foxland Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3363bdbd-f0d1-45b3-8193-7fdb0a310cc2"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bd9f1577-65e8-4521-b176-e5fc60a4a018"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d6975cd8-80e0-43e2-809a-175ea7e40715"
+    },
+    {
+      "combination": false,
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cbf0497c-9c8d-4dfa-bebd-64c589468401"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e75c335b-f19e-42e2-a24f-d891a52d3d34"
+    },
+    {
+      "combination": false,
+      "labeler": "Cumberland Assured Products Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "59e75426-42ae-4904-941f-009181101a8a"
+    },
+    {
+      "combination": false,
+      "labeler": "Trifluent Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3eaf273a-b49d-2595-e063-6394a90a1cf6"
+    }
+  ]
+}

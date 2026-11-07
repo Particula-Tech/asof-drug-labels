@@ -1,0 +1,172 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand PIFELTRO",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/004747",
+      "eu_number": "EU/1/18/1332",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-004747",
+      "mah": "Merck Sharp & Dohme B.V.",
+      "marketing_authorisation_date": "2018-11-22",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/pifeltro",
+      "name": "Pifeltro",
+      "record_from": "2018-11-22",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 5
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 1,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-004747",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "DORAVIRINE"
+  ],
+  "inn": "doravirine",
+  "name": "DORAVIRINE",
+  "rank": 304,
+  "rxcui": [
+    "2055760",
+    "2055766",
+    "2055813",
+    "2055815",
+    "2741694",
+    "2741700"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 3,
+    "approval_holders": 1,
+    "earliest_marketing_start": "2018-07-20",
+    "latest_label_update": "2026-07-13",
+    "nda_bla_applications": 3,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "DORAVIRINE",
+      "unii": "913P6LK81M"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA210806"
+      ],
+      "brand_names": [
+        "PIFELTRO"
+      ],
+      "combination": false,
+      "home_inn": "doravirine",
+      "ingredients": [
+        "DORAVIRINE"
+      ],
+      "labeler": "Merck Sharp & Dohme LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-07-20",
+      "moieties": [
+        "DORAVIRINE"
+      ],
+      "product_ndcs": [
+        "0006-3069"
+      ],
+      "rxcui": [
+        "2055760",
+        "2055766"
+      ],
+      "setid": "76ce1f00-28c0-4314-bd2c-d473fe3d0970",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "PIFELTRO (DORAVIRINE) TABLET, FILM COATED [MERCK SHARP & DOHME LLC]",
+      "upload_date": "2026-07-13"
+    },
+    {
+      "application_numbers": [
+        "NDA210807"
+      ],
+      "brand_names": [
+        "DELSTRIGO"
+      ],
+      "combination": true,
+      "home_inn": "lamivudine",
+      "ingredients": [
+        "DORAVIRINE",
+        "LAMIVUDINE",
+        "TENOFOVIR DISOPROXIL FUMARATE"
+      ],
+      "labeler": "Merck Sharp & Dohme LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-07-20",
+      "moieties": [
+        "DORAVIRINE",
+        "LAMIVUDINE",
+        "TENOFOVIR DISOPROXIL"
+      ],
+      "product_ndcs": [
+        "0006-5007"
+      ],
+      "rxcui": [
+        "2055813",
+        "2055815"
+      ],
+      "setid": "cd1e9f84-607a-46d3-b01e-2736018d67b6",
+      "source": "openfda",
+      "spl_version": 24,
+      "title": "DELSTRIGO (DORAVIRINE, LAMIVUDINE, AND TENOFOVIR DISOPROXIL FUMARATE) TABLET, FILM COATED [MERCK SHARP & DOHME LLC]",
+      "upload_date": "2026-07-13"
+    },
+    {
+      "application_numbers": [
+        "NDA216964"
+      ],
+      "brand_names": [
+        "IDVYNSO"
+      ],
+      "combination": true,
+      "home_inn": "doravirine",
+      "ingredients": [
+        "DORAVIRINE",
+        "ISLATRAVIR ANHYDROUS"
+      ],
+      "labeler": "Merck Sharp & Dohme LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2026-04-23",
+      "moieties": [
+        "DORAVIRINE",
+        "ISLATRAVIR"
+      ],
+      "product_ndcs": [
+        "0006-5092"
+      ],
+      "rxcui": [
+        "2741694",
+        "2741700"
+      ],
+      "setid": "11aaeb53-9848-433c-be7f-db8a5bc0b26f",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "IDVYNSO (DORAVIRINE, ISLATRAVIR) TABLET, FILM COATED [MERCK SHARP & DOHME LLC]",
+      "upload_date": "2026-06-03"
+    }
+  ],
+  "us_excluded": []
+}

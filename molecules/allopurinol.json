@@ -1,0 +1,595 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "ALLOPURINOL",
+    "ALLOPURINOL SODIUM"
+  ],
+  "inn": "allopurinol",
+  "name": "ALLOPURINOL",
+  "rank": 175,
+  "rxcui": [
+    "197319",
+    "197320",
+    "245422",
+    "252931",
+    "261265"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 24,
+    "approval_holders": 24,
+    "earliest_marketing_start": "1986-10-24",
+    "latest_label_update": "2026-09-07",
+    "nda_bla_applications": 3,
+    "repackagers": 21
+  },
+  "unii": [
+    {
+      "ingredient": "ALLOPURINOL",
+      "unii": "63CZ7GJN5I"
+    },
+    {
+      "ingredient": "ALLOPURINOL SODIUM",
+      "unii": "428673RC2Z"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020298"
+      ],
+      "brand_names": [
+        "Aloprim"
+      ],
+      "combination": false,
+      "home_inn": "allopurinol",
+      "ingredients": [
+        "ALLOPURINOL SODIUM"
+      ],
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2007-05-15",
+      "moieties": [
+        "ALLOPURINOL"
+      ],
+      "product_ndcs": [
+        "67457-187"
+      ],
+      "rxcui": [
+        "252931",
+        "261265"
+      ],
+      "setid": "10cc918f-aa44-415b-932d-2404695ac449",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "ALOPRIM (ALLOPURINOL) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [MYLAN INSTITUTIONAL LLC]",
+      "upload_date": "2022-02-23"
+    },
+    {
+      "application_numbers": [
+        "NDA018832",
+        "NDA018877"
+      ],
+      "brand_names": [
+        "Allopurinol"
+      ],
+      "combination": false,
+      "home_inn": "allopurinol",
+      "ingredients": [
+        "ALLOPURINOL"
+      ],
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2009-04-06",
+      "moieties": [
+        "ALLOPURINOL"
+      ],
+      "product_ndcs": [
+        "0591-5543",
+        "0591-5544"
+      ],
+      "rxcui": [
+        "197319",
+        "197320"
+      ],
+      "setid": "a80fe56f-8d03-423f-8e2a-7ec8c9e5045b",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "ALLOPURINOL TABLET [ACTAVIS PHARMA, INC.]",
+      "upload_date": "2026-05-13"
+    },
+    {
+      "application_numbers": [
+        "NDA016084"
+      ],
+      "brand_names": [
+        "Allopurinol"
+      ],
+      "combination": false,
+      "home_inn": "allopurinol",
+      "ingredients": [
+        "ALLOPURINOL"
+      ],
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2023-09-21",
+      "moieties": [
+        "ALLOPURINOL"
+      ],
+      "product_ndcs": [
+        "16571-883",
+        "16571-884",
+        "16571-885"
+      ],
+      "rxcui": [
+        "197319",
+        "197320",
+        "245422"
+      ],
+      "setid": "30ad5ba2-1cef-4933-b104-0597f6a2aaa2",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "ALLOPURINOL TABLET [RISING PHARMA HOLDINGS, INC.]",
+      "upload_date": "2026-06-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA018659"
+      ],
+      "brand_names": [
+        "Allopurinol"
+      ],
+      "combination": false,
+      "home_inn": "allopurinol",
+      "ingredients": [
+        "ALLOPURINOL"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1986-10-24",
+      "moieties": [
+        "ALLOPURINOL"
+      ],
+      "product_ndcs": [
+        "0378-0137",
+        "0378-0181"
+      ],
+      "rxcui": [
+        "197319",
+        "197320"
+      ],
+      "setid": "bdbf5ad4-86f2-4e9c-a51a-fb0c7220c480",
+      "source": "openfda",
+      "spl_version": 20,
+      "title": "ALLOPURINOL TABLET [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2025-12-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA071450"
+      ],
+      "brand_names": [
+        "Allopurinol"
+      ],
+      "combination": false,
+      "home_inn": "allopurinol",
+      "ingredients": [
+        "ALLOPURINOL"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1987-01-09",
+      "moieties": [
+        "ALLOPURINOL"
+      ],
+      "product_ndcs": [
+        "53489-156",
+        "53489-157"
+      ],
+      "rxcui": [
+        "197319",
+        "197320"
+      ],
+      "setid": "fd8f8b8b-f25e-46e9-969a-65363b66e09b",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "ALLOPURINOL TABLET [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2026-08-03"
+    },
+    {
+      "application_numbers": [
+        "ANDA075798"
+      ],
+      "brand_names": [
+        "Allopurinol"
+      ],
+      "combination": false,
+      "home_inn": "allopurinol",
+      "ingredients": [
+        "ALLOPURINOL"
+      ],
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2003-06-27",
+      "moieties": [
+        "ALLOPURINOL"
+      ],
+      "product_ndcs": [
+        "0603-2115",
+        "0603-2116"
+      ],
+      "rxcui": [
+        "197319",
+        "197320"
+      ],
+      "setid": "fbac3b4f-dc23-4359-ac3f-2b3fdde41af2",
+      "source": "openfda",
+      "spl_version": 36,
+      "title": "ALLOPURINOL TABLET [PAR HEALTH USA, LLC]",
+      "upload_date": "2026-06-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA076870"
+      ],
+      "brand_names": [
+        "Allopurinol sodium"
+      ],
+      "combination": false,
+      "home_inn": "allopurinol",
+      "ingredients": [
+        "ALLOPURINOL SODIUM"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2004-09-01",
+      "moieties": [
+        "ALLOPURINOL"
+      ],
+      "product_ndcs": [
+        "0143-9533"
+      ],
+      "rxcui": [
+        "252931"
+      ],
+      "setid": "9ae58f3c-dbf9-4c10-9b79-233b10e0e9f1",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "ALLOPURINOL SODIUM INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2022-05-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA077353"
+      ],
+      "brand_names": [
+        "Allopurinol"
+      ],
+      "combination": false,
+      "home_inn": "allopurinol",
+      "ingredients": [
+        "ALLOPURINOL"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2006-05-11",
+      "moieties": [
+        "ALLOPURINOL"
+      ],
+      "product_ndcs": [
+        "62135-516",
+        "62135-517"
+      ],
+      "rxcui": [
+        "197319",
+        "197320"
+      ],
+      "setid": "cdc3f33b-ff2b-4a84-a820-51a497fdf3d9",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "ALLOPURINOL TABLET [CHARTWELL RX, LLC]",
+      "upload_date": "2026-02-23"
+    },
+    {
+      "application_numbers": [
+        "NDA020298"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "ALOPRIM"
+      ],
+      "first_posted": "2020-11-19",
+      "found_by": "ALOPRIM",
+      "labeler": "Mylan Institutional LLC",
+      "labeler_unverified": false,
+      "last_posted": "2024-10-04",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-11-30"
+      ],
+      "product_ndcs": [
+        "67457-978"
+      ],
+      "rxcui": [],
+      "setid": "018525b1-e37d-4ff2-9dc3-36b3d90ac3e0",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "10cc918f-aa44-415b-932d-2404695ac449"
+      ],
+      "title": "ALOPRIM (allopurinol) injection, powder, lyophilized, for solution"
+    },
+    {
+      "application_numbers": [
+        "NDA016084"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "ZYLOPRIM"
+      ],
+      "first_posted": "2022-08-15",
+      "found_by": "ZYLOPRIM",
+      "labeler": "Casper Pharma LLC",
+      "labeler_unverified": false,
+      "last_posted": "2025-01-16",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-09-22"
+      ],
+      "product_ndcs": [
+        "70199-031",
+        "70199-032",
+        "70199-033"
+      ],
+      "rxcui": [],
+      "setid": "07d71f52-bafb-4307-a7cc-b52724151d42",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "30ad5ba2-1cef-4933-b104-0597f6a2aaa2"
+      ],
+      "title": "ZYLOPRIM (allopurinol) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA016084"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "ZYLOPRIM"
+      ],
+      "first_posted": "2017-05-23",
+      "found_by": "ZYLOPRIM",
+      "labeler": "Sebela Pharmaceuticals Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2017-09-14",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-05-23"
+      ],
+      "product_ndcs": [
+        "54766-991",
+        "54766-993"
+      ],
+      "rxcui": [],
+      "setid": "5032f6d6-aff4-7228-e054-00144ff8d46c",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "30ad5ba2-1cef-4933-b104-0597f6a2aaa2"
+      ],
+      "title": "ZYLOPRIM (allopurinol) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA016084"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "ZYLOPRIM"
+      ],
+      "first_posted": "2018-08-08",
+      "found_by": "ZYLOPRIM",
+      "labeler": "Casper Pharma LLC",
+      "labeler_unverified": false,
+      "last_posted": "2023-09-27",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-12-31"
+      ],
+      "product_ndcs": [
+        "70199-015",
+        "70199-016"
+      ],
+      "rxcui": [],
+      "setid": "baf6d3af-4edc-4207-a770-576c3b6787c8",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "30ad5ba2-1cef-4933-b104-0597f6a2aaa2"
+      ],
+      "title": "ZYLOPRIM (allopurinol) tablet"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "19a138b8-d225-03e6-f762-abe71560204b"
+    },
+    {
+      "combination": false,
+      "labeler": "Accord Healthcare Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "682dd8b8-fc6e-47c5-95b7-82d7ad96b750"
+    },
+    {
+      "combination": false,
+      "labeler": "Indoco Remedies Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "48a9a6c3-4604-421e-a323-1133888aaf76"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8b926e62-3a9c-424a-833a-8169e55a1f15"
+    },
+    {
+      "combination": false,
+      "labeler": "Unichem Pharmaceuticals (USA), Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e3face45-f920-46a0-b707-6a66aa9735bd"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4839e842-511e-4c72-9153-2b7e4e1954e2"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "60750373-7146-455a-8d12-d0e32d2d4bc8"
+    },
+    {
+      "combination": false,
+      "labeler": "Harman Finochem Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0780dc78-d287-d5db-e063-6294a90aa1dd"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "311ca755-c022-4251-97eb-dd9be86a993f"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9232f484-a5f6-4c63-b7f4-b510d2827159"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ad6950d4-2cdd-44ac-9b8a-120716460e70"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2caf5eed-2408-4ce0-bd0d-04f4c90e434d"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "95a1ca8c-9855-4b11-92cd-6fdc144f0d3b"
+    },
+    {
+      "combination": false,
+      "labeler": "Florida Pharmaceutical Products, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "815af471-5985-4819-936d-1f5f3d871ef8"
+    },
+    {
+      "combination": false,
+      "labeler": "Leading Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f2e8b7fc-936c-585d-e053-2a95a90a1d6c"
+    },
+    {
+      "combination": false,
+      "labeler": "XLCare Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fc7973c8-d846-4eca-ab0d-d30228035ba2"
+    }
+  ]
+}

@@ -1,0 +1,484 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "ZIPRASIDONE",
+    "ZIPRASIDONE HYDROCHLORIDE",
+    "ZIPRASIDONE MESYLATE"
+  ],
+  "inn": "ziprasidone",
+  "name": "ZIPRASIDONE",
+  "rank": 397,
+  "rxcui": [
+    "284548",
+    "284549",
+    "284550",
+    "285127",
+    "313776",
+    "313777",
+    "313778",
+    "314286",
+    "351223",
+    "352228"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 17,
+    "approval_holders": 15,
+    "earliest_marketing_start": "2012-03-02",
+    "latest_label_update": "2026-09-24",
+    "nda_bla_applications": 2,
+    "repackagers": 10
+  },
+  "unii": [
+    {
+      "ingredient": "ZIPRASIDONE HYDROCHLORIDE",
+      "unii": "216X081ORU"
+    },
+    {
+      "ingredient": "ZIPRASIDONE MESYLATE",
+      "unii": "3X6SAX83JZ"
+    }
+  ],
+  "unii_unresolved": [
+    "ZIPRASIDONE"
+  ],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020825"
+      ],
+      "brand_names": [
+        "Geodon"
+      ],
+      "combination": false,
+      "home_inn": "ziprasidone",
+      "ingredients": [
+        "ZIPRASIDONE"
+      ],
+      "labeler": "ROERIG",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-11-08",
+      "moieties": [
+        "ZIPRASIDONE"
+      ],
+      "product_ndcs": [
+        "0049-0352",
+        "0049-0354",
+        "0049-0356",
+        "0049-0358"
+      ],
+      "rxcui": [
+        "284548",
+        "284549",
+        "284550",
+        "285127",
+        "313776",
+        "313777",
+        "313778",
+        "314286",
+        "351223",
+        "352228"
+      ],
+      "setid": "8326928a-2cb6-4f7f-9712-03a425a14c37",
+      "source": "dailymed-title-match",
+      "spl_version": 50,
+      "title": "GEODON (ZIPRASIDONE HYDROCHLORIDE) CAPSULE GEODON (ZIPRASIDONE MESYLATE) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION GEODON (ZIPRASIDONE) CAPSULE [ROERIG]",
+      "upload_date": "2026-09-18"
+    },
+    {
+      "application_numbers": [
+        "NDA020825",
+        "NDA020919"
+      ],
+      "brand_names": [
+        "Geodon"
+      ],
+      "combination": false,
+      "home_inn": "ziprasidone",
+      "ingredients": [
+        "ZIPRASIDONE",
+        "ZIPRASIDONE MESYLATE"
+      ],
+      "labeler": "Viatris Specialty LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-09-09",
+      "moieties": [
+        "ZIPRASIDONE"
+      ],
+      "product_ndcs": [
+        "58151-131",
+        "58151-132",
+        "58151-133",
+        "58151-134",
+        "58151-137"
+      ],
+      "rxcui": [
+        "284548",
+        "284549",
+        "284550",
+        "285127",
+        "313776",
+        "313777",
+        "313778",
+        "314286",
+        "351223",
+        "352228"
+      ],
+      "setid": "a2b4cc65-6a6d-49c4-adfc-a4458562a167",
+      "source": "dailymed-title-match",
+      "spl_version": 4,
+      "title": "GEODON (ZIPRASIDONE) CAPSULE GEODON (ZIPRASIDONE MESYLATE) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [VIATRIS SPECIALTY LLC]",
+      "upload_date": "2026-09-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA077565"
+      ],
+      "brand_names": [
+        "ziprasidone"
+      ],
+      "combination": false,
+      "home_inn": "ziprasidone",
+      "ingredients": [
+        "ZIPRASIDONE HYDROCHLORIDE"
+      ],
+      "labeler": "Dr. Reddy's Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-03-02",
+      "moieties": [
+        "ZIPRASIDONE"
+      ],
+      "product_ndcs": [
+        "55111-256",
+        "55111-257",
+        "55111-258",
+        "55111-259"
+      ],
+      "rxcui": [
+        "313776",
+        "313777",
+        "313778",
+        "314286"
+      ],
+      "setid": "396cb4a6-01a1-f73f-2a37-39df9067bf98",
+      "source": "openfda",
+      "spl_version": 26,
+      "title": "ZIPRASIDONE CAPSULE [DR. REDDY'S LABORATORIES LIMITED]",
+      "upload_date": "2026-06-03"
+    },
+    {
+      "application_numbers": [
+        "ANDA077561"
+      ],
+      "brand_names": [
+        "ziprasidone hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "ziprasidone",
+      "ingredients": [
+        "ZIPRASIDONE HYDROCHLORIDE"
+      ],
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-05-14",
+      "moieties": [
+        "ZIPRASIDONE"
+      ],
+      "product_ndcs": [
+        "60505-2528",
+        "60505-2529",
+        "60505-2530",
+        "60505-2531"
+      ],
+      "rxcui": [
+        "313776",
+        "313777",
+        "313778",
+        "314286"
+      ],
+      "setid": "ccfd5ba2-7271-f3dd-4c98-7418c1a4b54a",
+      "source": "openfda",
+      "spl_version": 24,
+      "title": "ZIPRASIDONE HYDROCHLORIDE (ZIPRASIDONE HCL) CAPSULE [APOTEX CORP.]",
+      "upload_date": "2026-07-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA090348"
+      ],
+      "brand_names": [
+        "Ziprasidone"
+      ],
+      "combination": false,
+      "home_inn": "ziprasidone",
+      "ingredients": [
+        "ZIPRASIDONE HYDROCHLORIDE"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-09-05",
+      "moieties": [
+        "ZIPRASIDONE"
+      ],
+      "product_ndcs": [
+        "62135-991",
+        "62135-992",
+        "62135-993",
+        "62135-994"
+      ],
+      "rxcui": [
+        "313776",
+        "313777",
+        "313778",
+        "314286"
+      ],
+      "setid": "7fbd9460-78a3-4160-9986-3a113de752a6",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "ZIPRASIDONE CAPSULE ZIPRASIDONE (ZIPRASIDONE) CAPSULE [CHARTWELL RX, LLC]",
+      "upload_date": "2023-08-08"
+    },
+    {
+      "application_numbers": [
+        "ANDA204117"
+      ],
+      "brand_names": [
+        "Ziprasidone Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "ziprasidone",
+      "ingredients": [
+        "ZIPRASIDONE HYDROCHLORIDE"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-12-27",
+      "moieties": [
+        "ZIPRASIDONE"
+      ],
+      "product_ndcs": [
+        "65862-702",
+        "65862-703",
+        "65862-704",
+        "65862-705"
+      ],
+      "rxcui": [
+        "313776",
+        "313777",
+        "313778",
+        "314286"
+      ],
+      "setid": "cc5e1c44-79e9-45d3-b1e5-b003f550c508",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "ZIPRASIDONE HYDROCHLORIDE CAPSULE [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2025-05-16"
+    },
+    {
+      "application_numbers": [
+        "ANDA204375"
+      ],
+      "brand_names": [
+        "Ziprasidone Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "ziprasidone",
+      "ingredients": [
+        "ZIPRASIDONE HYDROCHLORIDE"
+      ],
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-02-18",
+      "moieties": [
+        "ZIPRASIDONE"
+      ],
+      "product_ndcs": [
+        "33342-144",
+        "33342-145",
+        "33342-146",
+        "33342-147"
+      ],
+      "rxcui": [
+        "313776",
+        "313777",
+        "313778",
+        "314286"
+      ],
+      "setid": "3e0d1436-2e2b-4c34-a9bc-4a6b2ac38af0",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "ZIPRASIDONE HYDROCHLORIDE CAPSULE [MACLEODS PHARMACEUTICALS LIMITED]",
+      "upload_date": "2023-04-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA211908"
+      ],
+      "brand_names": [
+        "ziprasidone mesylate"
+      ],
+      "combination": false,
+      "home_inn": "ziprasidone",
+      "ingredients": [
+        "ZIPRASIDONE MESYLATE"
+      ],
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-12-26",
+      "moieties": [
+        "ZIPRASIDONE"
+      ],
+      "product_ndcs": [
+        "68083-340"
+      ],
+      "rxcui": [
+        "351223"
+      ],
+      "setid": "77a10f48-e300-465f-81b5-54be38daa4b3",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "ZIPRASIDONE MESYLATE INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [GLAND PHARMA LIMITED]",
+      "upload_date": "2025-03-19"
+    },
+    {
+      "application_numbers": [
+        "NDA020919"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "GEODON"
+      ],
+      "first_posted": "2017-07-24",
+      "found_by": "GEODON",
+      "labeler": "ROERIG",
+      "labeler_unverified": false,
+      "last_posted": "2023-09-28",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-02-28"
+      ],
+      "product_ndcs": [
+        "0049-1203"
+      ],
+      "rxcui": [],
+      "setid": "1206103f-52e5-44dd-a29e-8ec2ebd826d4",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "a2b4cc65-6a6d-49c4-adfc-a4458562a167"
+      ],
+      "title": "GEODON (ziprasidone mesylate) injection, powder, lyophilized, for solution"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "90b35a26-ab65-4c39-b97f-55c8c0e34b0b"
+    },
+    {
+      "combination": false,
+      "labeler": "STERISCIENCE SPECIALTIES PRIVATE LIMITED",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1ffd16c3-25ac-4839-9ea9-4efd32926b95"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0071a228-21cc-56a6-dcc9-a7a6ceea758c"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr.Reddy's Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3cb79985-1207-602e-2dda-a118133b4c60"
+    },
+    {
+      "combination": false,
+      "labeler": "Fosun Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "90f55022-8d58-4bfb-9464-9bf11395ae17"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c0eb7b4d-0264-4eed-8756-51bba3af82fb"
+    },
+    {
+      "combination": false,
+      "labeler": "Fosun Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b28a4f3d-0aae-050d-e053-2995a90aa4a6"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr.Reddy's Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6fd6fc45-20c4-e223-3532-ce37aa02b71c"
+    },
+    {
+      "combination": false,
+      "labeler": "Armas Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c5c27f0f-4e45-4bca-bb9a-2d3f1c243348"
+    }
+  ]
+}

@@ -1,0 +1,631 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "DIGOXIN"
+  ],
+  "inn": "digoxin",
+  "name": "DIGOXIN",
+  "rank": 246,
+  "rxcui": [
+    "104206",
+    "104208",
+    "197604",
+    "197606",
+    "204504",
+    "208135",
+    "208137",
+    "245273",
+    "309888",
+    "309889",
+    "393245",
+    "1441565",
+    "1441567"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 14,
+    "approval_holders": 11,
+    "earliest_marketing_start": "1975-10-24",
+    "latest_label_update": "2026-08-17",
+    "nda_bla_applications": 3,
+    "repackagers": 19
+  },
+  "unii": [
+    {
+      "ingredient": "DIGOXIN",
+      "unii": "73K4184T59"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021648"
+      ],
+      "brand_names": [
+        "Digoxin"
+      ],
+      "combination": false,
+      "home_inn": "digoxin",
+      "ingredients": [
+        "DIGOXIN"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2004-08-26",
+      "moieties": [
+        "DIGOXIN"
+      ],
+      "product_ndcs": [
+        "0054-0057"
+      ],
+      "rxcui": [
+        "393245"
+      ],
+      "setid": "1b7e5c6e-e052-41b0-a4ce-05dfe62faaaf",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "DIGOXIN SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2025-04-18"
+    },
+    {
+      "application_numbers": [
+        "NDA020405"
+      ],
+      "brand_names": [
+        "LANOXIN"
+      ],
+      "combination": false,
+      "home_inn": "digoxin",
+      "ingredients": [
+        "DIGOXIN"
+      ],
+      "labeler": "Advanz Pharma (US) Corp.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2012-09-30",
+      "moieties": [
+        "DIGOXIN"
+      ],
+      "product_ndcs": [
+        "59212-240",
+        "59212-242",
+        "59212-249"
+      ],
+      "rxcui": [
+        "104206",
+        "197604",
+        "197606",
+        "245273",
+        "309888",
+        "309889",
+        "1441565",
+        "1441567"
+      ],
+      "setid": "d91e3646-4c63-4512-ab22-db39c085c4dc",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "LANOXIN (DIGOXIN) TABLET [ADVANZ PHARMA (US) CORP.]",
+      "upload_date": "2025-01-09"
+    },
+    {
+      "application_numbers": [
+        "NDA009330"
+      ],
+      "brand_names": [
+        "LANOXIN"
+      ],
+      "combination": false,
+      "home_inn": "digoxin",
+      "ingredients": [
+        "DIGOXIN"
+      ],
+      "labeler": "Covis Pharma US, Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-09-15",
+      "moieties": [
+        "DIGOXIN"
+      ],
+      "product_ndcs": [
+        "70515-260",
+        "70515-261",
+        "70515-262",
+        "70515-263"
+      ],
+      "rxcui": [
+        "104208",
+        "204504",
+        "208135",
+        "208137"
+      ],
+      "setid": "9ec84cac-6ecc-43dc-8006-6ccc029e2707",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "LANOXIN (DIGOXIN) INJECTION, SOLUTION [COVIS PHARMA US, INC]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA083391"
+      ],
+      "brand_names": [
+        "Digoxin"
+      ],
+      "combination": false,
+      "home_inn": "digoxin",
+      "ingredients": [
+        "DIGOXIN"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1975-10-24",
+      "moieties": [
+        "DIGOXIN"
+      ],
+      "product_ndcs": [
+        "0641-1410"
+      ],
+      "rxcui": [
+        "104208"
+      ],
+      "setid": "3933b07f-5857-4a80-b502-e3214bdf9330",
+      "source": "openfda",
+      "spl_version": 25,
+      "title": "DIGOXIN INJECTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2026-04-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA040481"
+      ],
+      "brand_names": [
+        "Digoxin"
+      ],
+      "combination": false,
+      "home_inn": "digoxin",
+      "ingredients": [
+        "DIGOXIN"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2003-08-21",
+      "moieties": [
+        "DIGOXIN"
+      ],
+      "product_ndcs": [
+        "0781-3059"
+      ],
+      "rxcui": [
+        "104208"
+      ],
+      "setid": "58f45aba-ff6f-43cc-bb88-be40a9f7beda",
+      "source": "openfda",
+      "spl_version": 28,
+      "title": "DIGOXIN INJECTION, SOLUTION [SANDOZ INC]",
+      "upload_date": "2025-12-22"
+    },
+    {
+      "application_numbers": [
+        "ANDA077002"
+      ],
+      "brand_names": [
+        "Digoxin"
+      ],
+      "combination": false,
+      "home_inn": "digoxin",
+      "ingredients": [
+        "DIGOXIN"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2007-10-30",
+      "moieties": [
+        "DIGOXIN"
+      ],
+      "product_ndcs": [
+        "0143-1240",
+        "0143-1241"
+      ],
+      "rxcui": [
+        "197604",
+        "197606"
+      ],
+      "setid": "41c16cff-b03e-405e-a617-d6f45d3ce2bd",
+      "source": "openfda",
+      "spl_version": 31,
+      "title": "DIGOXIN TABLET [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2024-09-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA078556"
+      ],
+      "brand_names": [
+        "Digoxin"
+      ],
+      "combination": false,
+      "home_inn": "digoxin",
+      "ingredients": [
+        "DIGOXIN"
+      ],
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-07-20",
+      "moieties": [
+        "DIGOXIN"
+      ],
+      "product_ndcs": [
+        "0115-9811",
+        "0115-9822"
+      ],
+      "rxcui": [
+        "197604",
+        "197606"
+      ],
+      "setid": "dfac7f13-28be-423d-9389-9089da29da17",
+      "source": "openfda",
+      "spl_version": 20,
+      "title": "DIGOXIN TABLET [AMNEAL PHARMACEUTICALS OF NEW YORK LLC]",
+      "upload_date": "2026-08-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA076268"
+      ],
+      "brand_names": [
+        "Digoxin"
+      ],
+      "combination": false,
+      "home_inn": "digoxin",
+      "ingredients": [
+        "DIGOXIN"
+      ],
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-04-01",
+      "moieties": [
+        "DIGOXIN"
+      ],
+      "product_ndcs": [
+        "69238-1991",
+        "69238-1992"
+      ],
+      "rxcui": [
+        "197604",
+        "197606"
+      ],
+      "setid": "f3d29508-e7cc-47ff-845d-b5375ee30407",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "DIGOXIN TABLET [AMNEAL PHARMACEUTICALS NY LLC]",
+      "upload_date": "2024-01-01"
+    },
+    {
+      "application_numbers": [
+        "ANDA213000"
+      ],
+      "brand_names": [
+        "Digoxin"
+      ],
+      "combination": false,
+      "home_inn": "digoxin",
+      "ingredients": [
+        "DIGOXIN"
+      ],
+      "labeler": "VistaPharm, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-10-04",
+      "moieties": [
+        "DIGOXIN"
+      ],
+      "product_ndcs": [
+        "66689-327"
+      ],
+      "rxcui": [
+        "393245"
+      ],
+      "setid": "ce62a741-a981-4880-8ce3-93269606a730",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "DIGOXIN SOLUTION [VISTAPHARM, LLC]",
+      "upload_date": "2025-09-01"
+    },
+    {
+      "application_numbers": [
+        "NDA009330"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "LANOXIN"
+      ],
+      "first_posted": "2012-10-31",
+      "found_by": "LANOXIN",
+      "labeler": "Covis Pharmaceuticals Inc",
+      "labeler_unverified": true,
+      "last_posted": "2018-09-10",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "24987-260"
+      ],
+      "rxcui": [],
+      "setid": "3e66b3d0-d36e-4795-b707-e27ecae5723d",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "9ec84cac-6ecc-43dc-8006-6ccc029e2707"
+      ],
+      "title": "LANOXIN (digoxin) injection, solution"
+    },
+    {
+      "application_numbers": [
+        "NDA009330"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "LANOXIN"
+      ],
+      "first_posted": "2012-08-31",
+      "found_by": "LANOXIN",
+      "labeler": "Covis Pharmaceuticals, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2013-01-15",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-06-30"
+      ],
+      "product_ndcs": [
+        "24987-260",
+        "24987-262"
+      ],
+      "rxcui": [],
+      "setid": "58678fd6-afe3-4a4c-a37f-356444194cd6",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "9ec84cac-6ecc-43dc-8006-6ccc029e2707"
+      ],
+      "title": "LANOXIN (digoxin) injection, solution"
+    },
+    {
+      "application_numbers": [
+        "NDA020405"
+      ],
+      "archived_versions": 8,
+      "brand_names": [
+        "LANOXIN"
+      ],
+      "first_posted": "2007-12-12",
+      "found_by": "LANOXIN",
+      "labeler": "GlaxoSmithKline LLC",
+      "labeler_unverified": false,
+      "last_posted": "2013-03-28",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-09-30"
+      ],
+      "product_ndcs": [
+        "0173-0242",
+        "0173-0249"
+      ],
+      "rxcui": [],
+      "setid": "625c3b7b-f1cf-4125-9680-4541a3f2d011",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "d91e3646-4c63-4512-ab22-db39c085c4dc"
+      ],
+      "title": "LANOXIN (digoxin) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA018118"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "LANOXICAPS"
+      ],
+      "first_posted": "2006-07-13",
+      "found_by": "LANOXICAPS",
+      "labeler": "GlaxoSmithKline LLC",
+      "labeler_unverified": false,
+      "last_posted": "2012-10-16",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2008-06-30",
+        "2008-08-31"
+      ],
+      "product_ndcs": [
+        "0173-0272",
+        "0173-0274"
+      ],
+      "rxcui": [],
+      "setid": "92a6c8f1-f12e-4127-26a3-880d5826c081",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "LANOXICAPS (digoxin) capsule, liquid filled"
+    },
+    {
+      "application_numbers": [
+        "NDA009330"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "LANOXIN"
+      ],
+      "first_posted": "2007-10-19",
+      "found_by": "LANOXIN",
+      "labeler": "GlaxoSmithKline LLC",
+      "labeler_unverified": false,
+      "last_posted": "2013-01-16",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2014-03-31"
+      ],
+      "product_ndcs": [
+        "0173-0260"
+      ],
+      "rxcui": [],
+      "setid": "bbcb7d23-df30-41b1-9997-30af9a735a3e",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "9ec84cac-6ecc-43dc-8006-6ccc029e2707"
+      ],
+      "title": "LANOXIN (digoxin) injection, solution"
+    },
+    {
+      "application_numbers": [
+        "NDA020405"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "LANOXIN"
+      ],
+      "first_posted": "2012-10-01",
+      "found_by": "LANOXIN",
+      "labeler": "Covis Pharmaceuticals, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2016-12-15",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2016-09-30",
+        "2017-09-30",
+        "2018-11-30",
+        "2018-12-31"
+      ],
+      "product_ndcs": [
+        "24987-240",
+        "24987-242",
+        "24987-245",
+        "24987-249"
+      ],
+      "rxcui": [],
+      "setid": "d7d0dba4-eb56-4631-90eb-1869cfaab436",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "d91e3646-4c63-4512-ab22-db39c085c4dc"
+      ],
+      "title": "LANOXIN (digoxin) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA009330"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "LANOXIN"
+      ],
+      "first_posted": "2007-10-19",
+      "found_by": "LANOXIN",
+      "labeler": "GlaxoSmithKline LLC",
+      "labeler_unverified": false,
+      "last_posted": "2013-01-16",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2014-07-31"
+      ],
+      "product_ndcs": [
+        "0173-0262"
+      ],
+      "rxcui": [],
+      "setid": "da42d067-66e7-4427-298c-7feeda78212d",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "9ec84cac-6ecc-43dc-8006-6ccc029e2707"
+      ],
+      "title": "LANOXIN (digoxin) injection, solution"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dba3b3f7-3ff2-4996-8653-b0e54a398bf9"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2bcd56ee-4497-4b8d-84db-a1470c77827b"
+    },
+    {
+      "combination": false,
+      "labeler": "Amici Pharma, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "eda7193a-e139-41d5-a11b-dc6241645995"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9b9a4b3c-5f08-475a-a74d-0c7ebba40644"
+    },
+    {
+      "combination": false,
+      "labeler": "Oliva Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5b2d10d0-6e9d-4c39-a025-6b2f30ff6243"
+    }
+  ]
+}

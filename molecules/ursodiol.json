@@ -1,0 +1,503 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "URSODIOL"
+  ],
+  "inn": "ursodiol",
+  "name": "URSODIOL",
+  "rank": 249,
+  "rxcui": [
+    "858733",
+    "858735",
+    "858747",
+    "858751",
+    "858752"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 25,
+    "approval_holders": 21,
+    "earliest_marketing_start": "1987-12-31",
+    "latest_label_update": "2026-09-02",
+    "nda_bla_applications": 1,
+    "repackagers": 7
+  },
+  "unii": [
+    {
+      "ingredient": "URSODIOL",
+      "unii": "724L30Y2QR"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020675"
+      ],
+      "brand_names": [
+        "Urso 250",
+        "Urso Forte"
+      ],
+      "combination": false,
+      "home_inn": "ursodiol",
+      "ingredients": [
+        "URSODIOL"
+      ],
+      "labeler": "Allergan, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1997-12-10",
+      "moieties": [
+        "URSODIOL"
+      ],
+      "product_ndcs": [
+        "58914-785",
+        "58914-790"
+      ],
+      "rxcui": [
+        "858733",
+        "858735",
+        "858751",
+        "858752"
+      ],
+      "setid": "e8fc4fc2-fe5c-4cba-b6e0-5ceaf2157a61",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "URSO 250 (URSODIOL) TABLET, FILM COATED URSO FORTE (URSODIOL) TABLET, FILM COATED [ALLERGAN, INC.]",
+      "upload_date": "2025-07-08"
+    },
+    {
+      "application_numbers": [
+        "NDA019594"
+      ],
+      "brand_names": [
+        "Ursodiol"
+      ],
+      "combination": false,
+      "home_inn": "ursodiol",
+      "ingredients": [
+        "URSODIOL"
+      ],
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "1987-12-31",
+      "moieties": [
+        "URSODIOL"
+      ],
+      "product_ndcs": [
+        "0591-3159"
+      ],
+      "rxcui": [
+        "858747"
+      ],
+      "setid": "a061bb07-a85d-4b08-877f-ce02156f0de7",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "URSODIOL CAPSULE [ACTAVIS PHARMA, INC.]",
+      "upload_date": "2026-09-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA079082"
+      ],
+      "brand_names": [
+        "Ursodiol"
+      ],
+      "combination": false,
+      "home_inn": "ursodiol",
+      "ingredients": [
+        "URSODIOL"
+      ],
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-01-01",
+      "moieties": [
+        "URSODIOL"
+      ],
+      "product_ndcs": [
+        "0527-1326"
+      ],
+      "rxcui": [
+        "858747"
+      ],
+      "setid": "2e799e93-b5a0-40f7-95c5-b40d8a948a0d",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "URSODIOL CAPSULE [LANNETT COMPANY, INC.]",
+      "upload_date": "2024-07-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA075517"
+      ],
+      "brand_names": [
+        "Ursodiol"
+      ],
+      "combination": false,
+      "home_inn": "ursodiol",
+      "ingredients": [
+        "URSODIOL"
+      ],
+      "labeler": "Epic Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-07-16",
+      "moieties": [
+        "URSODIOL"
+      ],
+      "product_ndcs": [
+        "42806-503"
+      ],
+      "rxcui": [
+        "858747"
+      ],
+      "setid": "e47b49ca-bde9-448a-bf61-f943c2aa5b8e",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "URSODIOL CAPSULE [EPIC PHARMA, LLC]",
+      "upload_date": "2024-12-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA090801"
+      ],
+      "brand_names": [
+        "Ursodiol"
+      ],
+      "combination": false,
+      "home_inn": "ursodiol",
+      "ingredients": [
+        "URSODIOL"
+      ],
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-07-12",
+      "moieties": [
+        "URSODIOL"
+      ],
+      "product_ndcs": [
+        "68462-473",
+        "68462-474"
+      ],
+      "rxcui": [
+        "858733",
+        "858751"
+      ],
+      "setid": "fb79b62a-b450-4d7a-be28-5ee4d174fd58",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "URSODIOL TABLET [GLENMARK PHARMACEUTICALS INC., USA]",
+      "upload_date": "2026-01-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA202540"
+      ],
+      "brand_names": [
+        "Ursodiol"
+      ],
+      "combination": false,
+      "home_inn": "ursodiol",
+      "ingredients": [
+        "URSODIOL"
+      ],
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-08-01",
+      "moieties": [
+        "URSODIOL"
+      ],
+      "product_ndcs": [
+        "49884-412",
+        "49884-413"
+      ],
+      "rxcui": [
+        "858733",
+        "858751"
+      ],
+      "setid": "1a3a8942-94d4-4292-bf74-0a67d92acb90",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "URSODIOL TABLET, FILM COATED [PAR HEALTH USA, LLC]",
+      "upload_date": "2026-06-26"
+    },
+    {
+      "application_numbers": [
+        "ANDA211301"
+      ],
+      "brand_names": [
+        "Ursodiol"
+      ],
+      "combination": false,
+      "home_inn": "ursodiol",
+      "ingredients": [
+        "URSODIOL"
+      ],
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-10-22",
+      "moieties": [
+        "URSODIOL"
+      ],
+      "product_ndcs": [
+        "69238-1540"
+      ],
+      "rxcui": [
+        "858747"
+      ],
+      "setid": "1027b933-f64f-4a43-996f-a676b5f72da0",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "URSODIOL CAPSULE [AMNEAL PHARMACEUTICALS NY LLC]",
+      "upload_date": "2025-04-28"
+    },
+    {
+      "application_numbers": [
+        "NDA019594"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "ACTIGALL"
+      ],
+      "first_posted": "2017-12-08",
+      "found_by": "ACTIGALL",
+      "labeler": "Allergan, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2021-02-25",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-09-30"
+      ],
+      "product_ndcs": [
+        "0023-6145"
+      ],
+      "rxcui": [],
+      "setid": "ad414461-262f-43fe-9a3d-bab300b719ed",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "a061bb07-a85d-4b08-877f-ce02156f0de7"
+      ],
+      "title": "ACTIGALL (ursodiol) capsule"
+    },
+    {
+      "application_numbers": [
+        "NDA019594"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "ACTIGALL"
+      ],
+      "first_posted": "2008-03-19",
+      "found_by": "ACTIGALL",
+      "labeler": "Actavis Pharma, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2018-12-20",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2020-02-29"
+      ],
+      "product_ndcs": [
+        "52544-930"
+      ],
+      "rxcui": [],
+      "setid": "aeb6c8c8-4dec-4574-8f26-b6b701b04b25",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "a061bb07-a85d-4b08-877f-ce02156f0de7"
+      ],
+      "title": "ACTIGALL (ursodiol) capsule"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "55c1556b-8b47-479a-979b-fd61bdd27c7f"
+    },
+    {
+      "combination": false,
+      "labeler": "Intra-Sana Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d1c28b0b-8f3c-4d60-8182-24a4c659d762"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "31ff3961-3ef1-4ec3-b742-beb4b96de795"
+    },
+    {
+      "combination": false,
+      "labeler": "VGYAAN Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "db43354d-4d77-4241-af4e-5cfa6f6cd296"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "47beccad-d217-4ae5-9d57-79bf8d0704d8"
+    },
+    {
+      "combination": false,
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9d666bbc-98c4-445f-a5a2-cad1bcccde4e"
+    },
+    {
+      "combination": false,
+      "labeler": "Laurus Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6be8e383-37fa-4e0a-b9fc-3976a8be1d2f"
+    },
+    {
+      "combination": false,
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9a6c1928-2d52-4d9a-8e83-f71892a7e98d"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "631339fc-548d-4cd5-8cf3-60e1590f79f6"
+    },
+    {
+      "combination": false,
+      "labeler": "PuraCap Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9d7f26d5-d8a9-4610-8d78-80ca3d442a79"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "792d8b51-3815-44d2-a20e-b494a9d0e055"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a3c98080-0a4d-4a93-8dcb-02ab8533050b"
+    },
+    {
+      "combination": false,
+      "labeler": "LGM PHARMA SOLUTIONS, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ebaaa3e2-1d80-4b40-b696-88cdd06448e4"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6163fc42-5910-4e19-9e32-3d8e81f50128"
+    },
+    {
+      "combination": false,
+      "labeler": "PuraCap Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4a161c84-141c-4741-8d69-31a6f3dfd18d"
+    },
+    {
+      "combination": false,
+      "labeler": "FH2 Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "476179dc-b410-4305-881b-470511765647"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dd0346e2-5ff3-4208-ad88-d09182684603"
+    },
+    {
+      "combination": false,
+      "labeler": "Pangea Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3617fb7a-1f57-4276-bebb-ae6ba4252d4e"
+    }
+  ]
+}

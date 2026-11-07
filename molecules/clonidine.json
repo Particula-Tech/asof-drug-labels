@@ -1,0 +1,991 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "CLONIDINE",
+    "CLONIDINE HYDROCHLORIDE"
+  ],
+  "inn": "clonidine",
+  "name": "CLONIDINE",
+  "rank": 84,
+  "rxcui": [
+    "884173",
+    "884185",
+    "884189",
+    "884221",
+    "884223",
+    "884225",
+    "885880",
+    "998671",
+    "998673",
+    "998675",
+    "998677",
+    "998679",
+    "998681",
+    "1050338",
+    "2690727",
+    "2690735",
+    "2725554",
+    "2725561",
+    "2750198",
+    "2750205"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 36,
+    "approval_holders": 26,
+    "earliest_marketing_start": "1995-01-03",
+    "latest_label_update": "2026-10-26",
+    "nda_bla_applications": 6,
+    "repackagers": 22
+  },
+  "unii": [
+    {
+      "ingredient": "CLONIDINE",
+      "unii": "MN3L5RMN02"
+    },
+    {
+      "ingredient": "CLONIDINE HYDROCHLORIDE",
+      "unii": "W76I6XXF06"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020615"
+      ],
+      "brand_names": [
+        "Duraclon"
+      ],
+      "combination": false,
+      "home_inn": "clonidine",
+      "ingredients": [
+        "CLONIDINE HYDROCHLORIDE"
+      ],
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1997-01-26",
+      "moieties": [
+        "CLONIDINE"
+      ],
+      "product_ndcs": [
+        "67457-218"
+      ],
+      "rxcui": [
+        "884221",
+        "884223"
+      ],
+      "setid": "8c126bb8-732a-4949-8754-2f50b5543638",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "DURACLON (CLONIDINE HYDROCHLORIDE) INJECTION, SOLUTION [MYLAN INSTITUTIONAL LLC]",
+      "upload_date": "2021-05-20"
+    },
+    {
+      "application_numbers": [
+        "NDA018891"
+      ],
+      "brand_names": [
+        "Catapres-TTS-1",
+        "Catapres-TTS-2",
+        "Catapres-TTS-3"
+      ],
+      "combination": false,
+      "home_inn": "clonidine",
+      "ingredients": [
+        "CLONIDINE"
+      ],
+      "labeler": "Technomed Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-03-01",
+      "moieties": [
+        "CLONIDINE"
+      ],
+      "product_ndcs": [
+        "82089-101",
+        "82089-102",
+        "82089-103",
+        "82089-201",
+        "82089-202",
+        "82089-203"
+      ],
+      "rxcui": [
+        "998671",
+        "998673",
+        "998675",
+        "998677",
+        "998679",
+        "998681"
+      ],
+      "setid": "39e1d35e-533c-4647-8649-8168a6e92dfa",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "CATAPRES-TTS-1 (CLONIDINE TRANSDERMAL SYSTEM) PATCH CATAPRES-TTS-2 (CLONIDINE TRANSDERMAL SYSTEM) PATCH CATAPRES-TTS-3 (CLONIDINE TRANSDERMAL SYSTEM) PATCH [TECHNOMED INC.]",
+      "upload_date": "2026-03-31"
+    },
+    {
+      "application_numbers": [
+        "NDA022500"
+      ],
+      "brand_names": [
+        "Nexiclon XR"
+      ],
+      "combination": false,
+      "home_inn": "clonidine",
+      "ingredients": [
+        "CLONIDINE"
+      ],
+      "labeler": "Rosemont Pharmaceuticals LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-03-01",
+      "moieties": [
+        "CLONIDINE"
+      ],
+      "product_ndcs": [
+        "71511-503"
+      ],
+      "rxcui": [
+        "885880",
+        "1050338"
+      ],
+      "setid": "dad35a6f-d57e-f302-e053-2995a90a9efb",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "NEXICLON XR (CLONIDINE) TABLET, EXTENDED RELEASE [ROSEMONT PHARMACEUTICALS LLC]",
+      "upload_date": "2026-04-17"
+    },
+    {
+      "application_numbers": [
+        "NDA217645"
+      ],
+      "brand_names": [
+        "ONYDA XR"
+      ],
+      "combination": false,
+      "home_inn": "clonidine",
+      "ingredients": [
+        "CLONIDINE HYDROCHLORIDE"
+      ],
+      "labeler": "NextWave Pharmaceuticals, Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-08-13",
+      "moieties": [
+        "CLONIDINE"
+      ],
+      "product_ndcs": [
+        "24478-148"
+      ],
+      "rxcui": [
+        "2690727",
+        "2690735"
+      ],
+      "setid": "4a15c850-9da5-4bdc-a34d-7f740a6149b7",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "ONYDA XR (CLONIDINE HYDROCHLORIDE) SUSPENSION, EXTENDED RELEASE [NEXTWAVE PHARMACEUTICALS, INC]",
+      "upload_date": "2025-05-01"
+    },
+    {
+      "application_numbers": [
+        "NDA220256"
+      ],
+      "brand_names": [
+        "JAVADIN"
+      ],
+      "combination": false,
+      "home_inn": "clonidine",
+      "ingredients": [
+        "CLONIDINE HYDROCHLORIDE"
+      ],
+      "labeler": "Azurity Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-10-23",
+      "moieties": [
+        "CLONIDINE"
+      ],
+      "product_ndcs": [
+        "24338-115"
+      ],
+      "rxcui": [
+        "2725554",
+        "2725561"
+      ],
+      "setid": "c36d94f5-a30d-4997-b141-e79a4ea45ecf",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "JAVADIN (CLONIDINE HYDROCHLORIDE ORAL) SOLUTION [AZURITY PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "NDA221094"
+      ],
+      "brand_names": [
+        "QLONILIK"
+      ],
+      "combination": false,
+      "home_inn": "clonidine",
+      "ingredients": [
+        "CLONIDINE HYDROCHLORIDE"
+      ],
+      "labeler": "CMP Pharma, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2026-08-28",
+      "moieties": [
+        "CLONIDINE"
+      ],
+      "product_ndcs": [
+        "46287-085"
+      ],
+      "rxcui": [
+        "2750198",
+        "2750205"
+      ],
+      "setid": "826de1dc-378e-4c90-86d1-e33f7a4248cd",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "QLONILIK (CLONIDINE HYDROCHLORIDE) SOLUTION [CMP PHARMA, INC.]",
+      "upload_date": "2026-08-31"
+    },
+    {
+      "application_numbers": [
+        "NDA018891"
+      ],
+      "brand_names": [
+        "Catapres-TTS-1",
+        "Catapres-TTS-2",
+        "Catapres-TTS-3"
+      ],
+      "combination": false,
+      "home_inn": "clonidine",
+      "ingredients": [
+        "CLONIDINE"
+      ],
+      "labeler": "Technomed Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-03-01",
+      "moieties": [
+        "CLONIDINE"
+      ],
+      "product_ndcs": [
+        "82089-101",
+        "82089-102",
+        "82089-103"
+      ],
+      "rxcui": [
+        "998671",
+        "998673",
+        "998675",
+        "998677",
+        "998679",
+        "998681"
+      ],
+      "setid": "d4a55825-7041-42f4-b3b2-dd7a25dbe793",
+      "source": "dailymed-title-match",
+      "spl_version": 5,
+      "title": "CATAPRES-TTS-1 (CLONIDINE TRANSDERMAL SYSTEM) PATCH CATAPRES-TTS-2 (CLONIDINE TRANSDERMAL SYSTEM) PATCH CATAPRES-TTS-3 (CLONIDINE TRANSDERMAL SYSTEM) PATCH [TECHNOMED INC.]",
+      "upload_date": "2026-10-12"
+    },
+    {
+      "application_numbers": [
+        "NDA022500"
+      ],
+      "brand_names": [
+        "Clonidine"
+      ],
+      "combination": false,
+      "home_inn": "clonidine",
+      "ingredients": [
+        "CLONIDINE"
+      ],
+      "labeler": "PALMETTO PHARMACEUTICALS INC.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2022-03-01",
+      "moieties": [
+        "CLONIDINE"
+      ],
+      "product_ndcs": [
+        "68134-603"
+      ],
+      "rxcui": [
+        "885880"
+      ],
+      "setid": "e93324f1-ad83-7bbe-e053-2995a90a8c9e",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "CLONIDINE TABLET, EXTENDED RELEASE [PALMETTO PHARMACEUTICALS INC.]",
+      "upload_date": "2024-01-15"
+    },
+    {
+      "application_numbers": [
+        "NDA018891"
+      ],
+      "brand_names": [
+        "Clonidine Transdermal System USP, 0.1 mg/day",
+        "Clonidine Transdermal System USP, 0.2 mg/day",
+        "Clonidine Transdermal System USP, 0.3 mg/day"
+      ],
+      "combination": false,
+      "home_inn": "clonidine",
+      "ingredients": [
+        "CLONIDINE"
+      ],
+      "labeler": "TruPharma, LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2023-06-30",
+      "moieties": [
+        "CLONIDINE"
+      ],
+      "product_ndcs": [
+        "52817-610",
+        "52817-611",
+        "52817-612"
+      ],
+      "rxcui": [
+        "998671",
+        "998675",
+        "998679"
+      ],
+      "setid": "05d520bf-3ab7-4337-9f38-4418e5e7e1e9",
+      "source": "dailymed-title-match",
+      "spl_version": 4,
+      "title": "CLONIDINE TRANSDERMAL SYSTEM USP, 0.1 MG/DAY (CLONIDINE TRANSDERMAL SYSTEM) PATCH CLONIDINE TRANSDERMAL SYSTEM USP, 0.2 MG/DAY (CLONIDINE TRANSDERMAL SYSTEM) PATCH CLONIDINE TRANSDERMAL SYSTEM USP, 0.3 MG/DAY (CLONIDINE TRANSDERMAL SYSTEM) PATCH [TRUPHARMA, LLC]",
+      "upload_date": "2026-10-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA070974",
+        "ANDA070975",
+        "ANDA070976"
+      ],
+      "brand_names": [
+        "Clonidine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "clonidine",
+      "ingredients": [
+        "CLONIDINE HYDROCHLORIDE"
+      ],
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1995-01-03",
+      "moieties": [
+        "CLONIDINE"
+      ],
+      "product_ndcs": [
+        "68001-237",
+        "68001-238",
+        "68001-239"
+      ],
+      "rxcui": [
+        "884173",
+        "884185",
+        "884189"
+      ],
+      "setid": "1ea412db-d847-4094-be83-e3bd7328537a",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "CLONIDINE HYDROCHLORIDE TABLET [BLUEPOINT LABORATORIES]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA078895"
+      ],
+      "brand_names": [
+        "clonidine hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "clonidine",
+      "ingredients": [
+        "CLONIDINE HYDROCHLORIDE"
+      ],
+      "labeler": "Unichem Pharmaceuticals (USA), Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-09-21",
+      "moieties": [
+        "CLONIDINE"
+      ],
+      "product_ndcs": [
+        "29300-136",
+        "29300-137",
+        "29300-468"
+      ],
+      "rxcui": [
+        "884173",
+        "884185",
+        "884189"
+      ],
+      "setid": "21bfa28f-20df-43fd-bb80-b720d3b40696",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "CLONIDINE HYDROCHLORIDE TABLET [UNICHEM PHARMACEUTICALS (USA), INC.]",
+      "upload_date": "2026-03-31"
+    },
+    {
+      "application_numbers": [
+        "ANDA200300"
+      ],
+      "brand_names": [
+        "Clonidine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "clonidine",
+      "ingredients": [
+        "CLONIDINE HYDROCHLORIDE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-01-01",
+      "moieties": [
+        "CLONIDINE"
+      ],
+      "product_ndcs": [
+        "0143-9723",
+        "0143-9724"
+      ],
+      "rxcui": [
+        "884221",
+        "884225"
+      ],
+      "setid": "2a5b46ec-4c16-48a5-9e58-8d28a3f21274",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "CLONIDINE HYDROCHLORIDE INJECTION, SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2022-07-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA076166"
+      ],
+      "brand_names": [
+        "Clonidine"
+      ],
+      "combination": false,
+      "home_inn": "clonidine",
+      "ingredients": [
+        "CLONIDINE"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-02-25",
+      "moieties": [
+        "CLONIDINE"
+      ],
+      "product_ndcs": [
+        "0378-0871",
+        "0378-0872",
+        "0378-0873"
+      ],
+      "rxcui": [
+        "998671",
+        "998675",
+        "998679"
+      ],
+      "setid": "7adfc439-e6d0-4593-87dd-0eef36d33c6d",
+      "source": "dailymed-title-match",
+      "spl_version": 14,
+      "title": "CLONIDINE PATCH [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2026-10-26"
+    },
+    {
+      "application_numbers": [
+        "NDA022500"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "NEXICLON"
+      ],
+      "first_posted": "2010-12-15",
+      "found_by": "NEXICLON",
+      "labeler": "NextWave Pharmaceuticals, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2012-10-09",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2012-11-30"
+      ],
+      "product_ndcs": [
+        "24478-300",
+        "24478-301"
+      ],
+      "rxcui": [],
+      "setid": "6b2cc55a-250e-4316-9225-3bb93b90025e",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "dad35a6f-d57e-f302-e053-2995a90a9efb",
+        "e93324f1-ad83-7bbe-e053-2995a90a8c9e"
+      ],
+      "title": "NEXICLON XR (clonidine) tablet, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA022331"
+      ],
+      "archived_versions": 13,
+      "brand_names": [
+        "KAPVAY"
+      ],
+      "first_posted": "2014-01-28",
+      "found_by": "KAPVAY",
+      "labeler": "Concordia Pharmaceuticals Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2023-12-28",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-06-30"
+      ],
+      "product_ndcs": [
+        "59212-658"
+      ],
+      "rxcui": [],
+      "setid": "aa7700e2-ae5d-44c4-a609-76de19c705a7",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "KAPVAY (clonidine hydrochloride) tablet, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA020615"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "DURACLON"
+      ],
+      "first_posted": "2008-01-25",
+      "found_by": "DURACLON",
+      "labeler": "Xanodyne Pharmaceuticals, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2013-05-13",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-05-23"
+      ],
+      "product_ndcs": [
+        "66479-520",
+        "66479-521"
+      ],
+      "rxcui": [],
+      "setid": "bd44ea11-0650-4f9e-8663-b9be5f7bcd8d",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "8c126bb8-732a-4949-8754-2f50b5543638"
+      ],
+      "title": "DURACLON (clonidine hydrochloride) injection, solution"
+    },
+    {
+      "application_numbers": [
+        "NDA022331"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "KAPVAY"
+      ],
+      "first_posted": "2011-01-13",
+      "found_by": "KAPVAY",
+      "labeler": "Shionogi Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2014-08-07",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2014-04-30",
+        "2014-08-31"
+      ],
+      "product_ndcs": [
+        "59630-658",
+        "59630-659",
+        "59630-670"
+      ],
+      "rxcui": [],
+      "setid": "c9bdfcda-82a0-4084-b9b2-1e367c0418d6",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "KAPVAY (clonidine hydrochloride) tablet, extended release KAPVAY (clonidine hydrochloride) kit"
+    },
+    {
+      "application_numbers": [
+        "NDA022500"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "NEXICLON"
+      ],
+      "first_posted": "2011-07-26",
+      "found_by": "NEXICLON",
+      "labeler": "Tris Pharma Inc",
+      "labeler_unverified": false,
+      "last_posted": "2016-11-17",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2016-11-18"
+      ],
+      "product_ndcs": [
+        "27808-030",
+        "27808-031"
+      ],
+      "rxcui": [],
+      "setid": "ce41afa7-b145-40ac-b409-19e0b87a419f",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "dad35a6f-d57e-f302-e053-2995a90a9efb",
+        "e93324f1-ad83-7bbe-e053-2995a90a8c9e"
+      ],
+      "title": "NEXICLON (clonidine) tablet, extended release NEXICLON XR (clonidine) tablet, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA017407"
+      ],
+      "archived_versions": 9,
+      "brand_names": [
+        "CATAPRES"
+      ],
+      "first_posted": "2006-12-08",
+      "found_by": "CATAPRES",
+      "labeler": "Boehringer Ingelheim Pharmaceuticals Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2022-02-02",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2020-02-06"
+      ],
+      "product_ndcs": [
+        "0597-0006",
+        "0597-0007",
+        "0597-0011"
+      ],
+      "rxcui": [],
+      "setid": "d7f569dc-6bed-42dc-9bec-940a9e6b090d",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "CATAPRES (clonidine hydrochloride) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA017407"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "CATAPRES"
+      ],
+      "first_posted": "2013-03-25",
+      "found_by": "CATAPRES",
+      "labeler": "Boehringer Ingelheim Promeco S.A. de C.V.",
+      "labeler_unverified": true,
+      "last_posted": "2013-03-25",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "64674-006",
+        "64674-007",
+        "64674-011"
+      ],
+      "rxcui": [],
+      "setid": "da207b67-4150-c1b5-5378-e4b892176f4d",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "CATAPRES (clonidine hydrochloride) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA018891"
+      ],
+      "archived_versions": 11,
+      "brand_names": [
+        "CATAPRES"
+      ],
+      "first_posted": "2006-10-13",
+      "found_by": "CATAPRES",
+      "labeler": "Boehringer Ingelheim Pharmaceuticals Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2022-06-13",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-12-31"
+      ],
+      "product_ndcs": [
+        "0597-0031",
+        "0597-0032",
+        "0597-0033"
+      ],
+      "rxcui": [],
+      "setid": "fe0f5dcb-65dd-4d31-80d6-8b97eb040063",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "05d520bf-3ab7-4337-9f38-4418e5e7e1e9",
+        "39e1d35e-533c-4647-8649-8168a6e92dfa",
+        "d4a55825-7041-42f4-b3b2-dd7a25dbe793"
+      ],
+      "title": "CATAPRES-TTS (clonidine) patch"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "XGen Pharmaceuticals DJB, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ada02f1f-ae78-4435-879e-492ae862d504"
+    },
+    {
+      "combination": false,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "99a59495-2a48-4276-bbe3-cdd55a45aba4"
+    },
+    {
+      "combination": false,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0100c70d-7fde-46a1-8374-940550a27e43"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "61b56917-1442-4068-86d8-0e5a5a59e612"
+    },
+    {
+      "combination": false,
+      "labeler": "Mayne Pharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c41eb913-5e47-46c4-9d96-9a67f8380919"
+    },
+    {
+      "combination": false,
+      "labeler": "TruPharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c83e4e4f-bd0e-449d-958a-dc0d570a01ba"
+    },
+    {
+      "combination": false,
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "df80255e-f942-4d9f-8edd-cc95795772cb"
+    },
+    {
+      "combination": false,
+      "labeler": "Xiamen LP Pharmaceutical Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7676af27-4d8f-49c4-a50f-6b0892e73c8f"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "745c8731-63e0-47ce-96d3-6a4d21c655e2"
+    },
+    {
+      "combination": false,
+      "labeler": "Ingenus Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "99485427-a120-4fc7-bb61-25857d1900ec"
+    },
+    {
+      "combination": false,
+      "labeler": "Method Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dffb5fdd-06c0-4275-9f89-9e12b3adf8a9"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2b75c20c-9dcc-4a63-854a-e9cdd2d7c1fb"
+    },
+    {
+      "combination": false,
+      "labeler": "Solco Healthcare LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2bbfea75-9241-4c3a-84f5-342ccb3cdf16"
+    },
+    {
+      "combination": false,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1b4fb182-8194-4fdd-bf9b-f7e60e734179"
+    },
+    {
+      "combination": false,
+      "labeler": "TruPharma, LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0fcfcdb5-0662-41d9-919b-c66d4f4f0c8b"
+    },
+    {
+      "combination": false,
+      "labeler": "TruPharma, LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2311836b-de63-4e8c-a021-600c40110024"
+    },
+    {
+      "combination": false,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a842ab83-3531-44dd-a8a8-64dd89e87026"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "88a8db46-0fc9-48cd-b7cc-ac9c9cdea100"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cf493e6a-1603-4c7d-a442-69a119bec843"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d90b2ca4-7753-4012-a1b2-fb92bdf0ebb6"
+    },
+    {
+      "combination": false,
+      "labeler": "Solco Healthcare LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "03a53175-d301-4001-b28b-78ecd763c4ae"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f34ae077-4ace-4e0a-bc87-d559b1c5bf2f"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Labratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a179570b-eef1-176a-820c-5f603d222a60"
+    }
+  ]
+}

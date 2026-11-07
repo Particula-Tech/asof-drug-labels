@@ -1,0 +1,754 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "MELOXICAM"
+  ],
+  "inn": "meloxicam",
+  "name": "MELOXICAM",
+  "rank": 124,
+  "rxcui": [
+    "152695",
+    "311486",
+    "597406",
+    "2281106",
+    "2560306",
+    "2560308",
+    "2560309",
+    "2560311",
+    "2560312",
+    "2560315",
+    "2560319",
+    "2560321",
+    "2711789",
+    "2711795",
+    "2717320",
+    "2727445",
+    "2730296"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 27,
+    "approval_holders": 24,
+    "earliest_marketing_start": "2005-11-01",
+    "latest_label_update": "2026-10-12",
+    "nda_bla_applications": 5,
+    "repackagers": 24
+  },
+  "unii": [
+    {
+      "ingredient": "MELOXICAM",
+      "unii": "VG2QF83CGL"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021530"
+      ],
+      "brand_names": [
+        "Meloxicam"
+      ],
+      "combination": false,
+      "home_inn": "meloxicam",
+      "ingredients": [
+        "MELOXICAM"
+      ],
+      "labeler": "Avondale Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2005-11-01",
+      "moieties": [
+        "MELOXICAM"
+      ],
+      "product_ndcs": [
+        "71740-339"
+      ],
+      "rxcui": [
+        "597406"
+      ],
+      "setid": "4ddf5a4d-8e84-419d-8e3a-c91b85501885",
+      "source": "dailymed-title-match",
+      "spl_version": 4,
+      "title": "MELOXICAM SUSPENSION [AVONDALE PHARMACEUTICALS, LLC]",
+      "upload_date": "2026-09-28"
+    },
+    {
+      "application_numbers": [
+        "NDA218395"
+      ],
+      "brand_names": [
+        "XIFYRM"
+      ],
+      "combination": false,
+      "home_inn": "meloxicam",
+      "ingredients": [
+        "MELOXICAM"
+      ],
+      "labeler": "Azurity Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-06-05",
+      "moieties": [
+        "MELOXICAM"
+      ],
+      "product_ndcs": [
+        "24338-153"
+      ],
+      "rxcui": [
+        "2281106",
+        "2717320"
+      ],
+      "setid": "bf2b198c-0726-488a-b911-4fe394e4b56e",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "XIFYRM (MELOXICAM) INJECTION [AZURITY PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-06-26"
+    },
+    {
+      "application_numbers": [
+        "NDA217593"
+      ],
+      "brand_names": [
+        "QAMZOVA"
+      ],
+      "combination": false,
+      "home_inn": "meloxicam",
+      "ingredients": [
+        "MELOXICAM"
+      ],
+      "labeler": "Nanjing Delova Biotech Co., Ltd.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-10-15",
+      "moieties": [
+        "MELOXICAM"
+      ],
+      "product_ndcs": [
+        "82972-001"
+      ],
+      "rxcui": [
+        "2281106",
+        "2727445"
+      ],
+      "setid": "385fd779-1be1-49ae-8213-750b96ecc997",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "QAMZOVA (MELOXICAM) INJECTION [NANJING DELOVA BIOTECH CO., LTD.]",
+      "upload_date": "2026-07-20"
+    },
+    {
+      "application_numbers": [
+        "NDA211988"
+      ],
+      "brand_names": [
+        "ZYNRELEF"
+      ],
+      "combination": true,
+      "home_inn": "meloxicam",
+      "ingredients": [
+        "BUPIVACAINE",
+        "MELOXICAM"
+      ],
+      "labeler": "Heron Therapeutics, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-12-01",
+      "moieties": [
+        "BUPIVACAINE",
+        "MELOXICAM"
+      ],
+      "product_ndcs": [
+        "47426-501",
+        "47426-503"
+      ],
+      "rxcui": [
+        "2560306",
+        "2560308",
+        "2560309",
+        "2560311",
+        "2560312",
+        "2560315",
+        "2560319",
+        "2560321"
+      ],
+      "setid": "dab484a7-9353-43ba-9e74-7fab910c712b",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "ZYNRELEF (BUPIVACAINE AND MELOXICAM) SOLUTION [HERON THERAPEUTICS, INC.]",
+      "upload_date": "2026-04-30"
+    },
+    {
+      "application_numbers": [
+        "NDA215431"
+      ],
+      "brand_names": [
+        "SYMBRAVO"
+      ],
+      "combination": true,
+      "home_inn": "meloxicam",
+      "ingredients": [
+        "MELOXICAM",
+        "RIZATRIPTAN BENZOATE"
+      ],
+      "labeler": "Axsome Therapeutics, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-05-19",
+      "moieties": [
+        "MELOXICAM",
+        "RIZATRIPTAN"
+      ],
+      "product_ndcs": [
+        "81968-020"
+      ],
+      "rxcui": [
+        "2711789",
+        "2711795"
+      ],
+      "setid": "dcf1ecd1-08a0-8e47-e053-2a95a90abdc7",
+      "source": "dailymed-title-match",
+      "spl_version": 6,
+      "title": "SYMBRAVO (MELOXICAM, RIZATRIPTAN) TABLET [AXSOME THERAPEUTICS, INC.]",
+      "upload_date": "2026-10-12"
+    },
+    {
+      "application_numbers": [
+        "NDA021530"
+      ],
+      "brand_names": [
+        "Zybic"
+      ],
+      "combination": false,
+      "home_inn": "meloxicam",
+      "ingredients": [
+        "MELOXICAM"
+      ],
+      "labeler": "Redmont Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-11-01",
+      "moieties": [
+        "MELOXICAM"
+      ],
+      "product_ndcs": [
+        "71741-228"
+      ],
+      "rxcui": [
+        "597406",
+        "2730296"
+      ],
+      "setid": "a1c2d65f-ebb1-48bf-8fa1-c216f7d570ec",
+      "source": "dailymed-title-match",
+      "spl_version": 2,
+      "title": "ZYBIC (MELOXICAM) SUSPENSION [REDMONT PHARMACEUTICALS, LLC]",
+      "upload_date": "2026-09-28"
+    },
+    {
+      "application_numbers": [
+        "NDA021530"
+      ],
+      "brand_names": [
+        "Meloxicam"
+      ],
+      "combination": false,
+      "home_inn": "meloxicam",
+      "ingredients": [
+        "MELOXICAM"
+      ],
+      "labeler": "Emerald Therapeutics, LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2005-11-01",
+      "moieties": [
+        "MELOXICAM"
+      ],
+      "product_ndcs": [
+        "72919-124"
+      ],
+      "rxcui": [
+        "597406"
+      ],
+      "setid": "55af77dd-2abc-49a6-990c-399d5a5e7a91",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "MELOXICAM SUSPENSION [EMERALD THERAPEUTICS, LLC]",
+      "upload_date": "2026-06-01"
+    },
+    {
+      "application_numbers": [
+        "ANDA077944"
+      ],
+      "brand_names": [
+        "Meloxicam"
+      ],
+      "combination": false,
+      "home_inn": "meloxicam",
+      "ingredients": [
+        "MELOXICAM"
+      ],
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2006-07-19",
+      "moieties": [
+        "MELOXICAM"
+      ],
+      "product_ndcs": [
+        "68180-501",
+        "68180-502"
+      ],
+      "rxcui": [
+        "152695",
+        "311486"
+      ],
+      "setid": "06a401f0-4380-4081-86ed-a309a25abf6b",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "MELOXICAM TABLET [LUPIN PHARMACEUTICALS, INC.]",
+      "upload_date": "2024-08-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA077921"
+      ],
+      "brand_names": [
+        "meloxicam"
+      ],
+      "combination": false,
+      "home_inn": "meloxicam",
+      "ingredients": [
+        "MELOXICAM"
+      ],
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2006-07-19",
+      "moieties": [
+        "MELOXICAM"
+      ],
+      "product_ndcs": [
+        "65841-050",
+        "65841-051"
+      ],
+      "rxcui": [
+        "152695",
+        "311486"
+      ],
+      "setid": "5eb2e439-2ef2-496c-9aec-042029ae1305",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "MELOXICAM TABLET [ZYDUS LIFESCIENCES LIMITED]",
+      "upload_date": "2024-12-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA077929"
+      ],
+      "brand_names": [
+        "MELOXICAM"
+      ],
+      "combination": false,
+      "home_inn": "meloxicam",
+      "ingredients": [
+        "MELOXICAM"
+      ],
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2006-07-19",
+      "moieties": [
+        "MELOXICAM"
+      ],
+      "product_ndcs": [
+        "69097-158",
+        "69097-159"
+      ],
+      "rxcui": [
+        "152695",
+        "311486"
+      ],
+      "setid": "bb83cd61-0a82-4fe0-b72e-5b715cbd656d",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "MELOXICAM TABLET [CIPLA USA INC.]",
+      "upload_date": "2025-09-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA078008"
+      ],
+      "brand_names": [
+        "Meloxicam"
+      ],
+      "combination": false,
+      "home_inn": "meloxicam",
+      "ingredients": [
+        "MELOXICAM"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2006-10-02",
+      "moieties": [
+        "MELOXICAM"
+      ],
+      "product_ndcs": [
+        "65862-097",
+        "65862-098"
+      ],
+      "rxcui": [
+        "152695",
+        "311486"
+      ],
+      "setid": "d5e12448-1ca1-46a4-8de4-e8b94567e5a8",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "MELOXICAM TABLET [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2025-03-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA077927"
+      ],
+      "brand_names": [
+        "meloxicam"
+      ],
+      "combination": false,
+      "home_inn": "meloxicam",
+      "ingredients": [
+        "MELOXICAM"
+      ],
+      "labeler": "Unichem Pharmaceuticals (USA), Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2007-03-07",
+      "moieties": [
+        "MELOXICAM"
+      ],
+      "product_ndcs": [
+        "29300-124",
+        "29300-125"
+      ],
+      "rxcui": [
+        "152695",
+        "311486"
+      ],
+      "setid": "5fe76337-eae5-4e5c-96ef-6cfa97983c6e",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "MELOXICAM TABLET [UNICHEM PHARMACEUTICALS (USA), INC.]",
+      "upload_date": "2024-08-09"
+    },
+    {
+      "application_numbers": [
+        "NDA211210"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "QMIIZ"
+      ],
+      "first_posted": "2019-02-26",
+      "found_by": "QMIIZ",
+      "labeler": "TerSera Therapeutics LLC",
+      "labeler_unverified": false,
+      "last_posted": "2021-09-03",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-02-28",
+        "2021-08-31"
+      ],
+      "product_ndcs": [
+        "70720-115",
+        "70720-175"
+      ],
+      "rxcui": [],
+      "setid": "1598d8d4-a927-4fa5-88e6-c0ab127e72b1",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "QMIIZ ODT (meloxicam) tablet, orally disintegrating"
+    },
+    {
+      "application_numbers": [
+        "NDA020938"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "MOBIC"
+      ],
+      "first_posted": "2013-05-20",
+      "found_by": "MOBIC",
+      "labeler": "Boehringer Ingelheim Promeco S.A. de C.V.",
+      "labeler_unverified": true,
+      "last_posted": "2013-05-20",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "64674-029",
+        "64674-030"
+      ],
+      "rxcui": [],
+      "setid": "290189dc-8b2b-4d65-9ae6-4a7c3d1deaba",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "MOBIC (meloxicam) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA020938"
+      ],
+      "archived_versions": 16,
+      "brand_names": [
+        "MOBIC"
+      ],
+      "first_posted": "2008-05-05",
+      "found_by": "MOBIC",
+      "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2024-12-09",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-09-30"
+      ],
+      "product_ndcs": [
+        "0597-0029",
+        "0597-0030"
+      ],
+      "rxcui": [],
+      "setid": "676e73fb-51d2-449a-8749-1a7bcc257b11",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "MOBIC (meloxicam) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA210583"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "ANJESO"
+      ],
+      "first_posted": "2020-02-27",
+      "found_by": "ANJESO",
+      "labeler": "Baudax Bio, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2023-07-13",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-03-29"
+      ],
+      "product_ndcs": [
+        "71518-001"
+      ],
+      "rxcui": [],
+      "setid": "6f517ef8-9478-494e-adfd-4944b9900df4",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ANJESO (meloxicam) injection"
+    },
+    {
+      "application_numbers": [
+        "NDA021530"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "MOBIC"
+      ],
+      "first_posted": "2016-09-21",
+      "found_by": "MOBIC",
+      "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2019-03-05",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-02-28"
+      ],
+      "product_ndcs": [
+        "0597-0034"
+      ],
+      "rxcui": [],
+      "setid": "9dfac843-a839-01ee-a80c-6face28bccc6",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "4ddf5a4d-8e84-419d-8e3a-c91b85501885",
+        "55af77dd-2abc-49a6-990c-399d5a5e7a91",
+        "a1c2d65f-ebb1-48bf-8fa1-c216f7d570ec"
+      ],
+      "title": "MOBIC (meloxicam) suspension"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Carlsbad Technology, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "20871c7f-1e36-49ef-8e2b-70112430ca1e"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8bd53770-7077-49c7-8215-73a17a20ea70"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "43e2b0f3-cf34-4f51-aa93-39ed98cab449"
+    },
+    {
+      "combination": false,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ce9a8fd7-9bd2-4793-82f3-0fb8f0965d0f"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5265e241-ab6a-400f-809f-5992f36c5593"
+    },
+    {
+      "combination": false,
+      "labeler": "Terrain Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b603255e-1fcf-42ec-ab62-9aa321cb7ac6"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6c015f72-5ce3-4f56-8237-776fc2165b0c"
+    },
+    {
+      "combination": false,
+      "labeler": "Exelan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dfaac71c-dcc5-4b57-bf3b-616fccab96de"
+    },
+    {
+      "combination": false,
+      "labeler": "XLCare Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "50ecda86-d46b-4a78-b423-879f9f5c42bd"
+    },
+    {
+      "combination": false,
+      "labeler": "Quallent Pharmaceuticals Health LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2875c30d-508a-46e1-ae5a-bc7057e7cbee"
+    },
+    {
+      "combination": false,
+      "labeler": "AiPing Pharmaceutical, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f93806e1-88b8-4bcd-ac29-7642ab4d6cbd"
+    },
+    {
+      "combination": false,
+      "labeler": "PD-Rx Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "19c13159-71f1-2427-e063-6394a90ad44e"
+    },
+    {
+      "combination": false,
+      "labeler": "Medcore LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1160b6a8-d507-40b6-925b-25bf186daa30"
+    },
+    {
+      "combination": false,
+      "labeler": "XLCare Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "702a4aa6-a588-48db-9cc5-74ae417f9587"
+    },
+    {
+      "combination": false,
+      "labeler": "AiPing Pharmaceutical, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ac58edaa-4aba-4fa8-9ccd-f33477aee218"
+    }
+  ]
+}

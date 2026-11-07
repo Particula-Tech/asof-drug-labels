@@ -1,0 +1,473 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "ETONOGESTREL"
+  ],
+  "inn": "etonogestrel",
+  "name": "ETONOGESTREL",
+  "rank": 482,
+  "rxcui": [
+    "389221",
+    "1111011",
+    "1367436",
+    "1367439",
+    "2266506",
+    "2644707"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 9,
+    "approval_holders": 8,
+    "earliest_marketing_start": "2019-12-16",
+    "latest_label_update": "2026-09-11",
+    "nda_bla_applications": 2,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "ETONOGESTREL",
+      "unii": "304GTH6RNH"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021529"
+      ],
+      "brand_names": [
+        "Nexplanon"
+      ],
+      "combination": false,
+      "home_inn": "etonogestrel",
+      "ingredients": [
+        "ETONOGESTREL"
+      ],
+      "labeler": "Organon LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-06-01",
+      "moieties": [
+        "ETONOGESTREL"
+      ],
+      "product_ndcs": [
+        "78206-145"
+      ],
+      "rxcui": [
+        "389221",
+        "1111011"
+      ],
+      "setid": "487f8a62-e142-457c-97cc-2e398fde7594",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "NEXPLANON (ETONOGESTREL) IMPLANT [ORGANON LLC]",
+      "upload_date": "2026-06-11"
+    },
+    {
+      "application_numbers": [
+        "NDA021187"
+      ],
+      "brand_names": [
+        "NuvaRing"
+      ],
+      "combination": true,
+      "home_inn": "ethinyl-estradiol",
+      "ingredients": [
+        "ETHINYL ESTRADIOL",
+        "ETONOGESTREL"
+      ],
+      "labeler": "Organon LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-06-01",
+      "moieties": [
+        "ETHINYL ESTRADIOL",
+        "ETONOGESTREL"
+      ],
+      "product_ndcs": [
+        "78206-146"
+      ],
+      "rxcui": [
+        "1367436",
+        "1367439"
+      ],
+      "setid": "55eb60e3-6f4d-40a3-8ee6-e7fd2d0c7d97",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "NUVARING (ETONOGESTREL AND ETHINYL ESTRADIOL) INSERT, EXTENDED RELEASE [ORGANON LLC]",
+      "upload_date": "2025-11-21"
+    },
+    {
+      "application_numbers": [
+        "NDA021187"
+      ],
+      "brand_names": [
+        "NuvaRing"
+      ],
+      "combination": true,
+      "home_inn": "ethinyl-estradiol",
+      "ingredients": [
+        "ETHINYL ESTRADIOL",
+        "ETONOGESTREL"
+      ],
+      "labeler": "Advanz Pharma (US) Corp.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-05-19",
+      "moieties": [
+        "ETHINYL ESTRADIOL",
+        "ETONOGESTREL"
+      ],
+      "product_ndcs": [
+        "59212-146"
+      ],
+      "rxcui": [
+        "1367436",
+        "1367439"
+      ],
+      "setid": "19ef66d1-913f-49a8-a0a5-59b4e20322f5",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "NUVARING (ETONOGESTREL AND ETHINYL ESTRADIOL) INSERT, EXTENDED RELEASE [ADVANZ PHARMA (US) CORP.]",
+      "upload_date": "2025-05-20"
+    },
+    {
+      "application_numbers": [
+        "NDA021187"
+      ],
+      "brand_names": [
+        "Etonogestrel/Ethinyl Estradiol"
+      ],
+      "combination": true,
+      "home_inn": "ethinyl-estradiol",
+      "ingredients": [
+        "ETHINYL ESTRADIOL",
+        "ETONOGESTREL"
+      ],
+      "labeler": "Prasco Laboratories",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2021-06-01",
+      "moieties": [
+        "ETHINYL ESTRADIOL",
+        "ETONOGESTREL"
+      ],
+      "product_ndcs": [
+        "66993-605"
+      ],
+      "rxcui": [
+        "1367436"
+      ],
+      "setid": "f0d80e01-f4f5-4b1a-bc9e-50a2bd4390b1",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "ETONOGESTREL/ETHINYL ESTRADIOL (ETONOGESTREL AND ETHINYL ESTRADIOL) INSERT, EXTENDED RELEASE [PRASCO LABORATORIES]",
+      "upload_date": "2025-02-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA210830"
+      ],
+      "brand_names": [
+        "EluRyng"
+      ],
+      "combination": true,
+      "home_inn": "etonogestrel",
+      "ingredients": [
+        "ETHINYL ESTRADIOL",
+        "ETONOGESTREL"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-12-16",
+      "moieties": [
+        "ETHINYL ESTRADIOL",
+        "ETONOGESTREL"
+      ],
+      "product_ndcs": [
+        "65162-469"
+      ],
+      "rxcui": [
+        "1367436",
+        "2266506"
+      ],
+      "setid": "c6c8512d-b258-4be5-8c2f-0f1893f198b9",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "ELURYNG (ETONOGESTREL AND ETHINYL ESTRADIOL) RING [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2025-01-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA204305"
+      ],
+      "brand_names": [
+        "Etonogestrel and Ethinyl Estradiol"
+      ],
+      "combination": true,
+      "home_inn": "etonogestrel",
+      "ingredients": [
+        "ETHINYL ESTRADIOL",
+        "ETONOGESTREL"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-01-19",
+      "moieties": [
+        "ETHINYL ESTRADIOL",
+        "ETONOGESTREL"
+      ],
+      "product_ndcs": [
+        "0093-7679"
+      ],
+      "rxcui": [
+        "1367436"
+      ],
+      "setid": "a8cc104a-d522-49ad-af54-2f312b829b61",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "ETONOGESTREL AND ETHINYL ESTRADIOL INSERT, EXTENDED RELEASE [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2025-09-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA211157"
+      ],
+      "brand_names": [
+        "EnilloRing"
+      ],
+      "combination": true,
+      "home_inn": "etonogestrel",
+      "ingredients": [
+        "ETHINYL ESTRADIOL",
+        "ETONOGESTREL"
+      ],
+      "labeler": "Xiromed, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-08-15",
+      "moieties": [
+        "ETHINYL ESTRADIOL",
+        "ETONOGESTREL"
+      ],
+      "product_ndcs": [
+        "70700-156"
+      ],
+      "rxcui": [
+        "1367436",
+        "2644707"
+      ],
+      "setid": "85a126f6-d3e0-9e12-73f9-6176ba36f58b",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "ENILLORING (ETONOGESTREL AND ETHINYL ESTRADIOL VAGINAL ) RING [XIROMED, LLC]",
+      "upload_date": "2024-07-16"
+    },
+    {
+      "application_numbers": [
+        "ANDA211157"
+      ],
+      "brand_names": [
+        "Etonogestrel and Ethinyl Estradiol Vaginal"
+      ],
+      "combination": true,
+      "home_inn": "etonogestrel",
+      "ingredients": [
+        "ETHINYL ESTRADIOL",
+        "ETONOGESTREL"
+      ],
+      "labeler": "AvKARE",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-09-21",
+      "moieties": [
+        "ETHINYL ESTRADIOL",
+        "ETONOGESTREL"
+      ],
+      "product_ndcs": [
+        "42291-478"
+      ],
+      "rxcui": [
+        "1367436"
+      ],
+      "setid": "05e172aa-e18a-427b-e063-6294a90ae22f",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "ETONOGESTREL AND ETHINYL ESTRADIOL VAGINAL RING [AVKARE]",
+      "upload_date": "2026-09-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA211157"
+      ],
+      "brand_names": [
+        "Etonogestrel and Ethinyl Estradiol Vaginal Ring"
+      ],
+      "combination": true,
+      "home_inn": "etonogestrel",
+      "ingredients": [
+        "ETHINYL ESTRADIOL",
+        "ETONOGESTREL"
+      ],
+      "labeler": "Northstar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-11-01",
+      "moieties": [
+        "ETHINYL ESTRADIOL",
+        "ETONOGESTREL"
+      ],
+      "product_ndcs": [
+        "16714-029"
+      ],
+      "rxcui": [
+        "1367436"
+      ],
+      "setid": "1488f5ae-3b34-fcd7-6049-215929b1d324",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "ETONOGESTREL AND ETHINYL ESTRADIOL VAGINAL RING RING [NORTHSTAR RX LLC]",
+      "upload_date": "2024-07-15"
+    },
+    {
+      "application_numbers": [
+        "NDA021187"
+      ],
+      "archived_versions": 18,
+      "brand_names": [
+        "NUVARING"
+      ],
+      "first_posted": "2009-01-05",
+      "found_by": "NUVARING",
+      "labeler": "Organon USA Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2022-03-04",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-12-31"
+      ],
+      "product_ndcs": [
+        "0052-0273"
+      ],
+      "rxcui": [],
+      "setid": "017343fb-86c4-45ab-9c47-52cc5b9f3a02",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "19ef66d1-913f-49a8-a0a5-59b4e20322f5",
+        "55eb60e3-6f4d-40a3-8ee6-e7fd2d0c7d97",
+        "f0d80e01-f4f5-4b1a-bc9e-50a2bd4390b1"
+      ],
+      "title": "NUVARING (etonogestrel and ethinyl estradiol) insert, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA021529"
+      ],
+      "archived_versions": 13,
+      "brand_names": [
+        "IMPLANON"
+      ],
+      "first_posted": "2007-09-28",
+      "found_by": "IMPLANON",
+      "labeler": "Organon USA Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2020-08-19",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-01-31"
+      ],
+      "product_ndcs": [
+        "0052-0272"
+      ],
+      "rxcui": [],
+      "setid": "50ed7e31-b9b7-4f0a-8e36-91ed5af86b81",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "487f8a62-e142-457c-97cc-2e398fde7594"
+      ],
+      "title": "IMPLANON (etonogestrel) implant"
+    },
+    {
+      "application_numbers": [
+        "NDA021529"
+      ],
+      "archived_versions": 23,
+      "brand_names": [
+        "NEXPLANON"
+      ],
+      "first_posted": "2011-06-03",
+      "found_by": "NEXPLANON",
+      "labeler": "Organon USA Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2022-03-03",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-12-31"
+      ],
+      "product_ndcs": [
+        "0052-4330"
+      ],
+      "rxcui": [],
+      "setid": "b03a3917-9a65-45c2-bbbb-871da858ef34",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "487f8a62-e142-457c-97cc-2e398fde7594"
+      ],
+      "title": "NEXPLANON (etonogestrel) implant"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "NUVARING"
+      ],
+      "first_posted": "2007-11-01",
+      "found_by": "NUVARING",
+      "labeler": "Organon USA, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2007-11-01",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0052-0273"
+      ],
+      "rxcui": [],
+      "setid": "cca2b812-b8bc-488c-a960-1af18412lr23",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "nuvaring (etonogestrel and ethinyl estradiol) insert, extended release"
+    }
+  ],
+  "us_excluded": []
+}

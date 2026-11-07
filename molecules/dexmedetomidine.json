@@ -1,0 +1,738 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/002268",
+      "eu_number": "EU/1/11/718",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-002268",
+      "mah": "Orion Corporation",
+      "marketing_authorisation_date": "2011-09-15",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/dexdor",
+      "name": "Dexdor",
+      "record_from": "2011-09-16",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 10
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-002268",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "DEXMEDETOMIDINE",
+    "DEXMEDETOMIDINE HYDROCHLORIDE"
+  ],
+  "inn": "dexmedetomidine",
+  "name": "DEXMEDETOMIDINE",
+  "rank": 177,
+  "rxcui": [
+    "284397",
+    "309710",
+    "1718900",
+    "1718902",
+    "1718906",
+    "1718907",
+    "1718909",
+    "1718910",
+    "1788947",
+    "2396891",
+    "2396892",
+    "2601119",
+    "2601126",
+    "2601129",
+    "2601131"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 36,
+    "approval_holders": 24,
+    "earliest_marketing_start": "2004-11-30",
+    "latest_label_update": "2026-10-19",
+    "nda_bla_applications": 3,
+    "repackagers": 3
+  },
+  "unii": [
+    {
+      "ingredient": "DEXMEDETOMIDINE HYDROCHLORIDE",
+      "unii": "1018WH7F9I"
+    }
+  ],
+  "unii_unresolved": [
+    "DEXMEDETOMIDINE"
+  ],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021038"
+      ],
+      "brand_names": [
+        "Precedex"
+      ],
+      "combination": false,
+      "home_inn": "dexmedetomidine",
+      "ingredients": [
+        "DEXMEDETOMIDINE HYDROCHLORIDE"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2004-11-30",
+      "moieties": [
+        "DEXMEDETOMIDINE"
+      ],
+      "product_ndcs": [
+        "0409-1434",
+        "0409-1596",
+        "0409-1638",
+        "0409-1660",
+        "0409-7838",
+        "0409-7853",
+        "0409-7875"
+      ],
+      "rxcui": [
+        "284397",
+        "309710",
+        "1718900",
+        "1718902",
+        "1718906",
+        "1718907",
+        "1718909",
+        "1718910",
+        "2396891",
+        "2396892"
+      ],
+      "setid": "548a88c0-afda-427e-75ac-5af0cfa2224c",
+      "source": "openfda",
+      "spl_version": 59,
+      "title": "PRECEDEX (DEXMEDETOMIDINE HYDROCHLORIDE) INJECTION, SOLUTION PRECEDEX (DEXMEDETOMIDINE HYDROCHLORIDE) INJECTION, SOLUTION, CONCENTRATE [HOSPIRA, INC.]",
+      "upload_date": "2026-05-22"
+    },
+    {
+      "application_numbers": [
+        "NDA206628"
+      ],
+      "brand_names": [
+        "Dexmedetomidine",
+        "Dexmedetomidine in Dextrose"
+      ],
+      "combination": false,
+      "home_inn": "dexmedetomidine",
+      "ingredients": [
+        "DEXMEDETOMIDINE HYDROCHLORIDE"
+      ],
+      "labeler": "WG Critical Care, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2016-04-19",
+      "moieties": [
+        "DEXMEDETOMIDINE"
+      ],
+      "product_ndcs": [
+        "44567-600",
+        "44567-601",
+        "44567-602",
+        "44567-603"
+      ],
+      "rxcui": [
+        "1718906",
+        "1718909",
+        "1788947"
+      ],
+      "setid": "0d2710f2-ee47-4114-ab5c-8dca74cdcb8d",
+      "source": "dailymed-title-match",
+      "spl_version": 15,
+      "title": "DEXMEDETOMIDINE INJECTION, SOLUTION, CONCENTRATE DEXMEDETOMIDINE IN DEXTROSE (DEXMEDETOMIDINE) INJECTION [WG CRITICAL CARE, LLC]",
+      "upload_date": "2026-09-30"
+    },
+    {
+      "application_numbers": [
+        "NDA215390"
+      ],
+      "brand_names": [
+        "IGALMI"
+      ],
+      "combination": false,
+      "home_inn": "dexmedetomidine",
+      "ingredients": [
+        "DEXMEDETOMIDINE"
+      ],
+      "labeler": "BioXcel Therapeutics, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-07-01",
+      "moieties": [
+        "DEXMEDETOMIDINE"
+      ],
+      "product_ndcs": [
+        "81092-1120",
+        "81092-1180"
+      ],
+      "rxcui": [
+        "2601119",
+        "2601126",
+        "2601129",
+        "2601131"
+      ],
+      "setid": "99476e8c-2527-4cb0-9d67-9f9cd91343c6",
+      "source": "dailymed-title-match",
+      "spl_version": 4,
+      "title": "IGALMI (DEXMEDETOMIDINE) FILM [BIOXCEL THERAPEUTICS, INC.]",
+      "upload_date": "2025-11-26"
+    },
+    {
+      "application_numbers": [
+        "NDA021038"
+      ],
+      "brand_names": [
+        "Precedex"
+      ],
+      "combination": false,
+      "home_inn": "dexmedetomidine",
+      "ingredients": [
+        "DEXMEDETOMIDINE HYDROCHLORIDE"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-03-07",
+      "moieties": [
+        "DEXMEDETOMIDINE"
+      ],
+      "product_ndcs": [
+        "0409-1174",
+        "0409-1454",
+        "0409-2815",
+        "0409-3301"
+      ],
+      "rxcui": [
+        "1718900",
+        "1718902",
+        "1718906",
+        "1718907",
+        "1718909",
+        "1718910",
+        "2396891",
+        "2396892"
+      ],
+      "setid": "4419162d-81d4-49bd-96de-1729440bdb74",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "PRECEDEX (DEXMEDETOMIDINE HYDROCHLORIDE) INJECTION, SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2026-06-12"
+    },
+    {
+      "application_numbers": [
+        "NDA021038"
+      ],
+      "brand_names": [
+        "Precedex"
+      ],
+      "combination": false,
+      "home_inn": "dexmedetomidine",
+      "ingredients": [
+        "DEXMEDETOMIDINE HYDROCHLORIDE"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-01-03",
+      "moieties": [
+        "DEXMEDETOMIDINE"
+      ],
+      "product_ndcs": [
+        "0409-0155",
+        "0409-4596"
+      ],
+      "rxcui": [
+        "1718906",
+        "1718907",
+        "1718909",
+        "1718910"
+      ],
+      "setid": "92b7ddaa-e45a-4b64-a802-bb5df8771dd6",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "PRECEDEX (DEXMEDETOMIDINE HYDROCHLORIDE) INJECTION, SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2026-06-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA202881"
+      ],
+      "brand_names": [
+        "Dexmedetomidine"
+      ],
+      "combination": false,
+      "home_inn": "dexmedetomidine",
+      "ingredients": [
+        "DEXMEDETOMIDINE HYDROCHLORIDE"
+      ],
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-08-18",
+      "moieties": [
+        "DEXMEDETOMIDINE"
+      ],
+      "product_ndcs": [
+        "67457-251"
+      ],
+      "rxcui": [
+        "309710"
+      ],
+      "setid": "ebdfe2e8-30ca-4f18-935a-41bcbbce4937",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "DEXMEDETOMIDINE INJECTION, SOLUTION, CONCENTRATE [MYLAN INSTITUTIONAL LLC]",
+      "upload_date": "2026-05-25"
+    },
+    {
+      "application_numbers": [
+        "ANDA203972",
+        "ANDA208266"
+      ],
+      "brand_names": [
+        "Dexmedetomidine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "dexmedetomidine",
+      "ingredients": [
+        "DEXMEDETOMIDINE HYDROCHLORIDE"
+      ],
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-08-19",
+      "moieties": [
+        "DEXMEDETOMIDINE"
+      ],
+      "product_ndcs": [
+        "42023-146",
+        "42023-186",
+        "42023-187"
+      ],
+      "rxcui": [
+        "309710",
+        "1718906",
+        "1718909"
+      ],
+      "setid": "1ee59985-4c1d-48f7-b8f9-5584c2d55e08",
+      "source": "openfda",
+      "spl_version": 34,
+      "title": "DEXMEDETOMIDINE HYDROCHLORIDE INJECTION, SOLUTION, CONCENTRATE DEXMEDETOMIDINE HYDROCHLORIDE INJECTION, SOLUTION [PAR HEALTH USA, LLC]",
+      "upload_date": "2026-04-22"
+    },
+    {
+      "application_numbers": [
+        "ANDA202126"
+      ],
+      "brand_names": [
+        "Dexmedetomidine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "dexmedetomidine",
+      "ingredients": [
+        "DEXMEDETOMIDINE HYDROCHLORIDE"
+      ],
+      "labeler": "Sun Pharmaceuticals Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-04-08",
+      "moieties": [
+        "DEXMEDETOMIDINE"
+      ],
+      "product_ndcs": [
+        "57664-596"
+      ],
+      "rxcui": [
+        "309710"
+      ],
+      "setid": "4fe788bc-4ad1-4b32-83d3-dcbfcd8429aa",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "DEXMEDETOMIDINE HYDROCHLORIDE INJECTION, SOLUTION [SUN PHARMACEUTICALS INDUSTRIES, INC.]",
+      "upload_date": "2018-08-22"
+    },
+    {
+      "application_numbers": [
+        "ANDA201072"
+      ],
+      "brand_names": [
+        "Dexmedetomidine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "dexmedetomidine",
+      "ingredients": [
+        "DEXMEDETOMIDINE HYDROCHLORIDE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-09-18",
+      "moieties": [
+        "DEXMEDETOMIDINE"
+      ],
+      "product_ndcs": [
+        "65219-642"
+      ],
+      "rxcui": [
+        "309710"
+      ],
+      "setid": "1896a96e-25f8-494e-9a96-6463b52fb102",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "DEXMEDETOMIDINE HYDROCHLORIDE INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2026-01-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA205867",
+        "ANDA210321"
+      ],
+      "brand_names": [
+        "Dexmedetomidine",
+        "Dexmedetomidine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "dexmedetomidine",
+      "ingredients": [
+        "DEXMEDETOMIDINE HYDROCHLORIDE"
+      ],
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-03-17",
+      "moieties": [
+        "DEXMEDETOMIDINE"
+      ],
+      "product_ndcs": [
+        "55150-209",
+        "55150-296",
+        "55150-297"
+      ],
+      "rxcui": [
+        "309710",
+        "1718906",
+        "1718909"
+      ],
+      "setid": "8c162541-986b-4b30-866c-b2631ba2c975",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "DEXMEDETOMIDINE INJECTION, SOLUTION DEXMEDETOMIDINE HYDROCHLORIDE (DEXMEDETOMIDINE HYDROCHLORIDE IN 0.9% SODIUM CHLORIDE) INJECTION, SOLUTION [EUGIA US LLC]",
+      "upload_date": "2026-07-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA204023"
+      ],
+      "brand_names": [
+        "Dexmedetomidine"
+      ],
+      "combination": false,
+      "home_inn": "dexmedetomidine",
+      "ingredients": [
+        "DEXMEDETOMIDINE HYDROCHLORIDE"
+      ],
+      "labeler": "Accord Healthcare Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-12-21",
+      "moieties": [
+        "DEXMEDETOMIDINE"
+      ],
+      "product_ndcs": [
+        "16729-239"
+      ],
+      "rxcui": [
+        "309710"
+      ],
+      "setid": "2b9881f0-4a66-660f-e054-00144ff88e88",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "DEXMEDETOMIDINE INJECTION, SOLUTION [ACCORD HEALTHCARE INC.]",
+      "upload_date": "2025-02-13"
+    },
+    {
+      "application_numbers": [
+        "NDA021038"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "PRECEDEX"
+      ],
+      "first_posted": "2023-02-22",
+      "found_by": "PRECEDEX",
+      "labeler": "Fareva Amboise",
+      "labeler_unverified": true,
+      "last_posted": "2023-02-22",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "69271-046"
+      ],
+      "rxcui": [],
+      "setid": "066ed2a0-d499-4749-9c96-3fc0a820677d",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "4419162d-81d4-49bd-96de-1729440bdb74",
+        "548a88c0-afda-427e-75ac-5af0cfa2224c",
+        "92b7ddaa-e45a-4b64-a802-bb5df8771dd6"
+      ],
+      "title": "PRECEDEX DEXMEDETOMIDINE HCI CHLORIDE (dexmedetomidine hydrochloride, sodium chloride) injection, solution"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "de6f01a2-9f2d-4c68-9c02-06643704acb1"
+    },
+    {
+      "combination": false,
+      "labeler": "Baxter Healthcare Company",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "32242f34-6e2b-4098-bd8e-3d55162f31b5"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8fa36783-b94d-4084-8c41-40ee64192074"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ca67b379-f8b3-4d35-bf8a-235ecd4c4211"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "eb1ba463-ab42-4f49-9ebe-3ad5af108326"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f307de7e-a9ab-4734-abb7-66b4e112bc51"
+    },
+    {
+      "combination": false,
+      "labeler": "Sandoz Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "809e8f77-390f-4cc8-8c8a-4f67a249c9df"
+    },
+    {
+      "combination": false,
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f140de5a-f13d-46b4-a742-049c63e474f5"
+    },
+    {
+      "combination": false,
+      "labeler": "Precision Dose, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e9d5c989-ebf6-4377-9c6e-7aef848a03a1"
+    },
+    {
+      "combination": false,
+      "labeler": "CIVICA, INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1faf1ac8-ff9b-4ed9-b562-06dab971173a"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4df8cc35-fc80-4438-b982-9c4b7d17bad2"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a99335d0-1e87-4180-bde3-cbb12bf91a52"
+    },
+    {
+      "combination": false,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "649e777b-9b30-4f1e-9fb9-6bba57580976"
+    },
+    {
+      "combination": false,
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7d057255-22a1-4b69-ad7c-7337fac8e993"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c1b8eb58-596b-481d-beb6-ba9d2237abf4"
+    },
+    {
+      "combination": false,
+      "labeler": "Baxter Healthcare Company",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8ccb45a7-8290-469c-9644-a4dca967d88f"
+    },
+    {
+      "combination": false,
+      "labeler": "Baxter Healthcare Company",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "aea9a3ad-c244-42be-9cd3-5df83fe2b522"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr.Reddy's Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d174c19d-56f1-4ef4-087c-23c26db8e40b"
+    },
+    {
+      "combination": false,
+      "labeler": "Piramal Critical Care Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b93a71ed-0f9e-1ff9-e053-2995a90a789d"
+    },
+    {
+      "combination": false,
+      "labeler": "Piramal Critical Care Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c958aeb4-69ce-c3e2-e053-2a95a90a6d8d"
+    },
+    {
+      "combination": false,
+      "labeler": "Piramal Critical Care Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c116d83f-35da-19ca-e053-2a95a90a017d"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "714cc0d2-8a4c-40c0-8ef0-dcfde4c46989"
+    },
+    {
+      "combination": false,
+      "labeler": "Avenacy Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "eee6145b-d83f-4596-92d3-733934d8a3a4"
+    },
+    {
+      "combination": false,
+      "labeler": "Wilshire Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f550d2ba-49ac-4a3b-95db-692b468af479"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "65885aef-faaf-4dec-a180-9a657f738bbc"
+    }
+  ]
+}

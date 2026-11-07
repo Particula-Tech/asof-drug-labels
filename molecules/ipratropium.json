@@ -1,0 +1,688 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "IPRATROPIUM BROMIDE"
+  ],
+  "inn": "ipratropium",
+  "name": "IPRATROPIUM",
+  "rank": 263,
+  "rxcui": [
+    "836343",
+    "836358",
+    "836368",
+    "1190220",
+    "1190225",
+    "1797833",
+    "1797844"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 38,
+    "approval_holders": 20,
+    "earliest_marketing_start": "2001-09-27",
+    "latest_label_update": "2026-10-21",
+    "nda_bla_applications": 2,
+    "repackagers": 8
+  },
+  "unii": [
+    {
+      "ingredient": "IPRATROPIUM BROMIDE",
+      "unii": "J697UZ2A9J"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021527"
+      ],
+      "brand_names": [
+        "Atrovent HFA"
+      ],
+      "combination": false,
+      "home_inn": "ipratropium",
+      "ingredients": [
+        "IPRATROPIUM BROMIDE"
+      ],
+      "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2005-05-01",
+      "moieties": [
+        "IPRATROPIUM"
+      ],
+      "product_ndcs": [
+        "0597-0087"
+      ],
+      "rxcui": [
+        "836343",
+        "836368"
+      ],
+      "setid": "170e98ef-5560-4068-be7d-e649068eb884",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "ATROVENT HFA (IPRATROPIUM BROMIDE) AEROSOL, METERED [BOEHRINGER INGELHEIM PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-11-18"
+    },
+    {
+      "application_numbers": [
+        "NDA021747"
+      ],
+      "brand_names": [
+        "Combivent Respimat"
+      ],
+      "combination": true,
+      "home_inn": "albuterol",
+      "ingredients": [
+        "ALBUTEROL SULFATE",
+        "IPRATROPIUM BROMIDE"
+      ],
+      "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2012-07-01",
+      "moieties": [
+        "ALBUTEROL",
+        "IPRATROPIUM"
+      ],
+      "product_ndcs": [
+        "0597-0024"
+      ],
+      "rxcui": [
+        "1190220",
+        "1190225"
+      ],
+      "setid": "9832312e-0310-4ab6-8501-afa976fc7eb2",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "COMBIVENT RESPIMAT (IPRATROPIUM BROMIDE AND ALBUTEROL) SPRAY, METERED [BOEHRINGER INGELHEIM PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-12-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA075562"
+      ],
+      "brand_names": [
+        "Ipratropium Bromide"
+      ],
+      "combination": false,
+      "home_inn": "ipratropium",
+      "ingredients": [
+        "IPRATROPIUM BROMIDE"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2001-09-27",
+      "moieties": [
+        "IPRATROPIUM"
+      ],
+      "product_ndcs": [
+        "62135-830"
+      ],
+      "rxcui": [
+        "836358"
+      ],
+      "setid": "1e3d4faa-cf6e-460b-b1e0-fcc8094505fa",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "IPRATROPIUM BROMIDE SOLUTION [CHARTWELL RX, LLC]",
+      "upload_date": "2025-12-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA076025"
+      ],
+      "brand_names": [
+        "Ipratropium bromide"
+      ],
+      "combination": false,
+      "home_inn": "ipratropium",
+      "ingredients": [
+        "IPRATROPIUM BROMIDE"
+      ],
+      "labeler": "Bausch & Lomb Incorporated",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2003-03-31",
+      "moieties": [
+        "IPRATROPIUM"
+      ],
+      "product_ndcs": [
+        "24208-398"
+      ],
+      "rxcui": [
+        "1797833"
+      ],
+      "setid": "1e92b86d-66e1-45e4-9e23-f9310c95bf82",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "IPRATROPIUM BROMIDE SPRAY, METERED [BAUSCH & LOMB INCORPORATED]",
+      "upload_date": "2025-12-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA076103"
+      ],
+      "brand_names": [
+        "Ipratropium Bromide"
+      ],
+      "combination": false,
+      "home_inn": "ipratropium",
+      "ingredients": [
+        "IPRATROPIUM BROMIDE"
+      ],
+      "labeler": "Bausch & Lomb Incorporated",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2003-03-31",
+      "moieties": [
+        "IPRATROPIUM"
+      ],
+      "product_ndcs": [
+        "24208-399"
+      ],
+      "rxcui": [
+        "1797844"
+      ],
+      "setid": "3fd850a2-af0f-4291-af5d-52c8d6094e64",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "IPRATROPIUM BROMIDE SPRAY, METERED [BAUSCH & LOMB INCORPORATED]",
+      "upload_date": "2024-01-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA076664"
+      ],
+      "brand_names": [
+        "Ipratropium Bromide"
+      ],
+      "combination": false,
+      "home_inn": "ipratropium",
+      "ingredients": [
+        "IPRATROPIUM BROMIDE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2003-11-05",
+      "moieties": [
+        "IPRATROPIUM"
+      ],
+      "product_ndcs": [
+        "0054-0045"
+      ],
+      "rxcui": [
+        "1797833"
+      ],
+      "setid": "05c56190-e346-4674-a4f8-049ce632ce2d",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "IPRATROPIUM BROMIDE SPRAY [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2024-02-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA076598"
+      ],
+      "brand_names": [
+        "Ipratropium Bromide"
+      ],
+      "combination": false,
+      "home_inn": "ipratropium",
+      "ingredients": [
+        "IPRATROPIUM BROMIDE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2003-11-05",
+      "moieties": [
+        "IPRATROPIUM"
+      ],
+      "product_ndcs": [
+        "0054-0046"
+      ],
+      "rxcui": [
+        "1797844"
+      ],
+      "setid": "71bdbbb9-8696-416d-bed4-7259929c0161",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "IPRATROPIUM BROMIDE SPRAY [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2024-02-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA075693"
+      ],
+      "brand_names": [
+        "Ipratropium Bromide"
+      ],
+      "combination": false,
+      "home_inn": "ipratropium",
+      "ingredients": [
+        "IPRATROPIUM BROMIDE"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-11-09",
+      "moieties": [
+        "IPRATROPIUM"
+      ],
+      "product_ndcs": [
+        "0378-7970"
+      ],
+      "rxcui": [
+        "836358"
+      ],
+      "setid": "f625d3e3-c175-4d9a-99ea-dab410b262f1",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "IPRATROPIUM BROMIDE SOLUTION [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2019-05-23"
+    },
+    {
+      "application_numbers": [
+        "NDA020394"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "ATROVENT"
+      ],
+      "first_posted": "2007-08-24",
+      "found_by": "ATROVENT",
+      "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2018-10-29",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-12-01"
+      ],
+      "product_ndcs": [
+        "0597-0086"
+      ],
+      "rxcui": [],
+      "setid": "1eb2ffc4-d6d9-4efb-9f88-8434214d047e",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ATROVENT (ipratropium bromide) spray, metered"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "COMBIVENT"
+      ],
+      "first_posted": "2007-08-24",
+      "found_by": "COMBIVENT",
+      "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2007-08-24",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0597-0013"
+      ],
+      "rxcui": [],
+      "setid": "604e0426-1f75-4007-a596-66628227c275",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "combivent (ipratropium bromide and albuterol sulfate) aerosol, metered"
+    },
+    {
+      "application_numbers": [
+        "NDA019085"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "ATROVENT"
+      ],
+      "first_posted": "2006-07-25",
+      "found_by": "ATROVENT",
+      "labeler": "Boehringer Ingelheim Pharmaceuticals Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2012-10-26",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2006-06-02"
+      ],
+      "product_ndcs": [
+        "0597-0082"
+      ],
+      "rxcui": [],
+      "setid": "bb538b29-33b5-4dc2-8b89-65b4f51096a7",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ATROVENT (ipratropium bromide monhydrate) aerosol, metered"
+    },
+    {
+      "application_numbers": [
+        "NDA020393"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "ATROVENT"
+      ],
+      "first_posted": "2008-01-11",
+      "found_by": "ATROVENT",
+      "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2018-10-29",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-12-01"
+      ],
+      "product_ndcs": [
+        "0597-0081"
+      ],
+      "rxcui": [],
+      "setid": "f07439a7-1d1c-468f-8fd7-149e3d959a32",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ATROVENT (ipratropium bromide) spray, metered"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ff2b6bda-4acd-41fd-8970-458c5265df21"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "231ae8f2-1ec9-4e0f-90a8-11d7b6222576"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ac641027-929e-694d-80cd-bf770dc51aa6"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3bda47b0-0326-49de-83f5-03b9ec6461f1"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "61820346-29d9-4864-b8f4-4a198b8ac594"
+    },
+    {
+      "combination": false,
+      "labeler": "Advagen Pharma Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bb5f7711-595f-4f7c-9e89-66d029ccbccb"
+    },
+    {
+      "combination": false,
+      "labeler": "Advagen Pharma Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4874e61a-5abe-4d1d-a30f-65b3e092db26"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "13a45df5-a8e3-41d6-91f4-773255b5a04b"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ee0ac556-8a23-4d5c-a5da-881c1fc6a339"
+    },
+    {
+      "combination": false,
+      "labeler": "Armstrong Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "133cc2ed-f018-4295-b84e-b24382299360"
+    },
+    {
+      "combination": true,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3c64255e-074c-41f8-a344-3686a0685020"
+    },
+    {
+      "combination": true,
+      "labeler": "Nephron Pharmaceuticals Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ae35ec1f-526a-49bf-8262-c50e40190d1f"
+    },
+    {
+      "combination": true,
+      "labeler": "Golden State Medical Supply, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2ebc820b-a423-46ef-8eba-9fbc93daff44"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "370516c4-718f-4a71-bdc8-8822060ccefe"
+    },
+    {
+      "combination": true,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "38f9a201-3954-4370-8e71-7ec2df88a1ff"
+    },
+    {
+      "combination": false,
+      "labeler": "Nephron Pharmaceuticals Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "db8095db-d1fd-4099-9fb1-d1ad4e284976"
+    },
+    {
+      "combination": false,
+      "labeler": "Ritedose Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "22479633-624a-4251-ad3c-1dcba5d503fb"
+    },
+    {
+      "combination": false,
+      "labeler": "American Health Packaging",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8927f392-4c88-4ac1-a934-c444ecf6b2c8"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ec4c8c83-0335-544c-271e-4f27c06105ac"
+    },
+    {
+      "combination": false,
+      "labeler": "NORTHSTAR RX LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6493c00f-2306-2cb6-9624-4ea678f66576"
+    },
+    {
+      "combination": false,
+      "labeler": "NORTHSTAR RX LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e592b6b5-038a-dbe8-457e-76e88a0f194a"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3249aea8-a395-f09f-e063-6294a90a2d8b"
+    },
+    {
+      "combination": false,
+      "labeler": "Oceanside Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "40e37c2f-a2c0-419b-8451-1aa0458bc420"
+    },
+    {
+      "combination": false,
+      "labeler": "Oceanside Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b1a5e41a-9100-41d5-a7d0-2e763ad5efb6"
+    },
+    {
+      "combination": true,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b444478a-10ce-484f-9039-6383dfb8161e"
+    },
+    {
+      "combination": true,
+      "labeler": "Ritedose Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e0dee492-8bf9-4360-be9b-9d6ee1ecb256"
+    },
+    {
+      "combination": true,
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "23c05e9a-9df5-4978-8831-cf562aa4ba92"
+    },
+    {
+      "combination": true,
+      "labeler": "American Health Packaging",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c04c6ec8-1401-424d-8126-63080e36c4b9"
+    },
+    {
+      "combination": true,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "89d59bd9-c826-413c-8ed9-a1521a0c7cc5"
+    },
+    {
+      "combination": true,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3246dfab-61d7-27ba-e063-6294a90ac180"
+    }
+  ]
+}

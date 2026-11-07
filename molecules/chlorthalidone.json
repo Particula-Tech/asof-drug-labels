@@ -1,0 +1,638 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "CHLORTHALIDONE"
+  ],
+  "inn": "chlorthalidone",
+  "name": "CHLORTHALIDONE",
+  "rank": 139,
+  "rxcui": [
+    "197498",
+    "197499",
+    "197500",
+    "214081",
+    "214083",
+    "428539",
+    "1235144",
+    "1235150",
+    "1235151",
+    "1235157",
+    "2709679"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 33,
+    "approval_holders": 27,
+    "earliest_marketing_start": "1981-02-26",
+    "latest_label_update": "2026-10-30",
+    "nda_bla_applications": 3,
+    "repackagers": 15
+  },
+  "unii": [
+    {
+      "ingredient": "CHLORTHALIDONE",
+      "unii": "Q0MQD1073Q"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA019574"
+      ],
+      "brand_names": [
+        "Thalitone"
+      ],
+      "combination": false,
+      "home_inn": "chlorthalidone",
+      "ingredients": [
+        "CHLORTHALIDONE"
+      ],
+      "labeler": "Casper Pharma LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2019-11-27",
+      "moieties": [
+        "CHLORTHALIDONE"
+      ],
+      "product_ndcs": [
+        "70199-017"
+      ],
+      "rxcui": [
+        "197498",
+        "197499",
+        "214081",
+        "214083"
+      ],
+      "setid": "bc5a0299-115b-4e60-bb3f-c75a95c51c15",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "THALITONE (CHLORTHALIDONE) TABLET THALITONE (CHLORTHALIDONE) TABLET [CASPER PHARMA LLC]",
+      "upload_date": "2026-06-26"
+    },
+    {
+      "application_numbers": [
+        "NDA218647"
+      ],
+      "brand_names": [
+        "HEMICLOR"
+      ],
+      "combination": false,
+      "home_inn": "chlorthalidone",
+      "ingredients": [
+        "CHLORTHALIDONE"
+      ],
+      "labeler": "Ingenus Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-03-17",
+      "moieties": [
+        "CHLORTHALIDONE"
+      ],
+      "product_ndcs": [
+        "50742-285"
+      ],
+      "rxcui": [
+        "428539",
+        "2709679"
+      ],
+      "setid": "3f0f3ee0-f5a6-4bda-8160-a77744e9fa46",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "HEMICLOR (CHLORTHALIDONE) TABLET [INGENUS PHARMACEUTICALS, LLC]",
+      "upload_date": "2025-04-02"
+    },
+    {
+      "application_numbers": [
+        "NDA202331"
+      ],
+      "brand_names": [
+        "Edarbyclor"
+      ],
+      "combination": true,
+      "home_inn": "chlorthalidone",
+      "ingredients": [
+        "AZILSARTAN KAMEDOXOMIL",
+        "CHLORTHALIDONE"
+      ],
+      "labeler": "Azurity Pharmaceuticals, Inc. (formerly Arbor Pharmaceuticals)",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2013-02-01",
+      "moieties": [
+        "AZILSARTAN",
+        "CHLORTHALIDONE"
+      ],
+      "product_ndcs": [
+        "60631-412",
+        "60631-425"
+      ],
+      "rxcui": [
+        "1235144",
+        "1235150",
+        "1235151",
+        "1235157"
+      ],
+      "setid": "e60f795b-fce3-4361-aa03-f143451689d1",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "EDARBYCLOR (AZILSARTAN KAMEDOXOMIL AND CHLORTHALIDONE) TABLET [AZURITY PHARMACEUTICALS, INC. (FORMERLY ARBOR PHARMACEUTICALS)]",
+      "upload_date": "2024-11-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA086831"
+      ],
+      "brand_names": [
+        "Chlorthalidone"
+      ],
+      "combination": false,
+      "home_inn": "chlorthalidone",
+      "ingredients": [
+        "CHLORTHALIDONE"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1981-02-26",
+      "moieties": [
+        "CHLORTHALIDONE"
+      ],
+      "product_ndcs": [
+        "0378-0213",
+        "0378-0222"
+      ],
+      "rxcui": [
+        "197499",
+        "197500"
+      ],
+      "setid": "15dd224a-87ad-48dc-80b1-e8382a452c4c",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "CHLORTHALIDONE TABLET [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2026-05-06"
+    },
+    {
+      "application_numbers": [
+        "ANDA089286"
+      ],
+      "brand_names": [
+        "Chlorthalidone"
+      ],
+      "combination": false,
+      "home_inn": "chlorthalidone",
+      "ingredients": [
+        "CHLORTHALIDONE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-02-12",
+      "moieties": [
+        "CHLORTHALIDONE"
+      ],
+      "product_ndcs": [
+        "57664-648",
+        "57664-649"
+      ],
+      "rxcui": [
+        "197499",
+        "197500"
+      ],
+      "setid": "a304de67-cd2b-4933-937e-4eeecf6cda40",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "CHLORTHALIDONE TABLET [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2022-11-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA206904"
+      ],
+      "brand_names": [
+        "CHLORTHALIDONE"
+      ],
+      "combination": false,
+      "home_inn": "chlorthalidone",
+      "ingredients": [
+        "CHLORTHALIDONE"
+      ],
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-05-17",
+      "moieties": [
+        "CHLORTHALIDONE"
+      ],
+      "product_ndcs": [
+        "64980-303",
+        "64980-304"
+      ],
+      "rxcui": [
+        "197499",
+        "197500"
+      ],
+      "setid": "f96b2d0b-a141-4efb-8ccc-c447dfc6024a",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "CHLORTHALIDONE TABLET [RISING PHARMA HOLDINGS, INC.]",
+      "upload_date": "2025-05-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA207222"
+      ],
+      "brand_names": [
+        "Chlorthalidone"
+      ],
+      "combination": false,
+      "home_inn": "chlorthalidone",
+      "ingredients": [
+        "CHLORTHALIDONE"
+      ],
+      "labeler": "Nivagen Pharmaceuticals, INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-05-28",
+      "moieties": [
+        "CHLORTHALIDONE"
+      ],
+      "product_ndcs": [
+        "75834-109",
+        "75834-110"
+      ],
+      "rxcui": [],
+      "setid": "36ef8d83-45f2-4873-b7cb-1be096d14d18",
+      "source": "dailymed-title-match",
+      "spl_version": 16,
+      "title": "CHLORTHALIDONE TABLET [NIVAGEN PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-10-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA210742"
+      ],
+      "brand_names": [
+        "CHLORTHALIDONE"
+      ],
+      "combination": false,
+      "home_inn": "chlorthalidone",
+      "ingredients": [
+        "CHLORTHALIDONE"
+      ],
+      "labeler": "Dr. Reddy's Laboratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-10-23",
+      "moieties": [
+        "CHLORTHALIDONE"
+      ],
+      "product_ndcs": [
+        "43598-719",
+        "43598-720"
+      ],
+      "rxcui": [
+        "197499",
+        "197500"
+      ],
+      "setid": "9e9e9ced-6960-4d2f-bb23-ef8b2435da75",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "CHLORTHALIDONE TABLET [DR. REDDY'S LABORATORIES INC.]",
+      "upload_date": "2022-01-25"
+    },
+    {
+      "application_numbers": [
+        "ANDA211063"
+      ],
+      "brand_names": [
+        "Chlorthalidone"
+      ],
+      "combination": false,
+      "home_inn": "chlorthalidone",
+      "ingredients": [
+        "CHLORTHALIDONE"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-02-26",
+      "moieties": [
+        "CHLORTHALIDONE"
+      ],
+      "product_ndcs": [
+        "62135-505",
+        "62135-506"
+      ],
+      "rxcui": [
+        "197499",
+        "197500"
+      ],
+      "setid": "648f005f-1eae-4718-bc3a-2587d706fae2",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "CHLORTHALIDONE (CHLORTHALIDONE) TABLET [CHARTWELL RX, LLC]",
+      "upload_date": "2025-12-12"
+    },
+    {
+      "application_numbers": [
+        "NDA202331"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "EDARBYCLOR"
+      ],
+      "first_posted": "2011-12-23",
+      "found_by": "EDARBYCLOR",
+      "labeler": "Takeda Pharmaceuticals America, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2016-03-14",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-05-01"
+      ],
+      "product_ndcs": [
+        "64764-944",
+        "64764-994"
+      ],
+      "rxcui": [],
+      "setid": "b2d6e17b-f14a-463b-a662-03c9387c63dd",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "e60f795b-fce3-4361-aa03-f143451689d1"
+      ],
+      "title": "EDARBYCLOR (azilsartan medoxomil and chlorthalidone) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA019574"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "THALITONE"
+      ],
+      "first_posted": "2007-06-07",
+      "found_by": "THALITONE",
+      "labeler": "Pfizer Laboratories Div Pfizer Inc",
+      "labeler_unverified": false,
+      "last_posted": "2019-07-11",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-12-31"
+      ],
+      "product_ndcs": [
+        "61570-024"
+      ],
+      "rxcui": [],
+      "setid": "e2eb7dad-3ea3-439c-dcbb-d1d61aa49dfc",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "bc5a0299-115b-4e60-bb3f-c75a95c51c15"
+      ],
+      "title": "THALITONE (chlorthalidone) tablet"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6b432c76-b171-4c29-abf4-6d357976e6ef"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c4c1bfe5-b5c8-43c0-9428-62337095b2bd"
+    },
+    {
+      "combination": false,
+      "labeler": "Unichem Pharmaceuticals (USA), Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "01065eda-7515-46bc-b858-a062c3aa35bd"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d104583e-e983-4230-b6d1-4455ee1060a5"
+    },
+    {
+      "combination": false,
+      "labeler": "JUBILANT CADISTA PHARMACEUTICALS,INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ca0df4ae-c424-44d2-8611-1637f1a101a8"
+    },
+    {
+      "combination": false,
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "284f4707-14ab-426f-80d6-79f1186419f9"
+    },
+    {
+      "combination": false,
+      "labeler": "TAGI Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bd92c59b-3a65-47c3-b3c8-37090b4ae464"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c8e2b475-a8e9-4aa9-b4e9-66d746bbdc70"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1b98d1a1-9d3d-41d2-a5e9-744b851d30d4"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5de362df-8fb9-4421-864c-7ea06339d6e7"
+    },
+    {
+      "combination": false,
+      "labeler": "Ipca Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a6fa12f0-a2bc-456a-9f25-f69bb31fdb60"
+    },
+    {
+      "combination": true,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a6794dfa-adbb-491b-9d48-f89a44e866c5"
+    },
+    {
+      "combination": true,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "69131547-f554-4980-b54e-007afc2c696e"
+    },
+    {
+      "combination": true,
+      "labeler": "Unichem Pharmaceuticals (USA), Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a85d28c1-e812-4c12-aa67-136bff3610e5"
+    },
+    {
+      "combination": true,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "33690cc7-fffc-4620-888d-7f6453fe58c1"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ef8023a3-b2be-436e-9085-576781950665"
+    },
+    {
+      "combination": false,
+      "labeler": "Northstar Rx LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "56635d7a-1fff-4d1f-bf2c-def4b1ad8208"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a1043a72-8e64-49da-a7e4-eadee083022e"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Laboratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bd2e4486-0720-4d09-b4f5-472c4478af0e"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "71b1d074-0521-4cd1-beb5-fedd61f52eca"
+    },
+    {
+      "combination": false,
+      "labeler": "Umedica Laboratories USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "645734ab-d6aa-4368-9a5a-b550e2717770"
+    },
+    {
+      "combination": true,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a16d6010-a67d-4081-b2a3-ecef9f0f09ea"
+    },
+    {
+      "combination": true,
+      "labeler": "Northstar Rx LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1494d5f7-8620-46da-8bca-69b76cd17635"
+    },
+    {
+      "combination": true,
+      "labeler": "MARLEX PHARMACEUTICALS, INC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "db22ff31-52f6-9024-e053-2995a90af8b3"
+    }
+  ]
+}

@@ -1,0 +1,492 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand TECFIDERA",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/002601",
+      "eu_number": "EU/1/13/837",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-002601",
+      "mah": "Biogen Netherlands B.V.",
+      "marketing_authorisation_date": "2014-01-30",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tecfidera",
+      "name": "Tecfidera",
+      "record_from": "2014-01-30",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 16
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/002157",
+      "eu_number": "EU/1/17/1201",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-002157",
+      "mah": "Almirall, S.A.",
+      "marketing_authorisation_date": "2017-06-23",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/skilarence",
+      "name": "Skilarence",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/006397",
+      "eu_number": "EU/1/22/1634",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-006397",
+      "mah": "Mylan Pharmaceuticals Limited",
+      "marketing_authorisation_date": "2024-04-22",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/dimethyl-fumarate-mylan",
+      "name": "Dimethyl fumarate Mylan",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/006471",
+      "eu_number": "EU/1/22/1711",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-006471",
+      "mah": "Accord Healthcare Ltd",
+      "marketing_authorisation_date": "2024-04-22",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/dimethyl-fumarate-accord",
+      "name": "Dimethyl fumarate Accord",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/006500",
+      "eu_number": "EU/1/22/1637",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-006500",
+      "mah": "Neuraxpharm Pharmaceuticals S.L.",
+      "marketing_authorisation_date": "2024-04-22",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/dimethyl-fumarate-neuraxpharm",
+      "name": "Dimethyl fumarate Neuraxpharm",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-002601",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "DIMETHYL FUMARATE"
+  ],
+  "inn": "dimethyl-fumarate",
+  "name": "DIMETHYL FUMARATE",
+  "rank": 305,
+  "rxcui": [
+    "1373483",
+    "1373491",
+    "1373497"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 18,
+    "approval_holders": 18,
+    "earliest_marketing_start": "2013-03-27",
+    "latest_label_update": "2026-10-29",
+    "nda_bla_applications": 1,
+    "repackagers": 2
+  },
+  "unii": [
+    {
+      "ingredient": "DIMETHYL FUMARATE",
+      "unii": "FO2303MNI2"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA204063"
+      ],
+      "brand_names": [
+        "TECFIDERA",
+        "Tecfidera"
+      ],
+      "combination": false,
+      "home_inn": "dimethyl-fumarate",
+      "ingredients": [
+        "DIMETHYL FUMARATE"
+      ],
+      "labeler": "Biogen Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2013-03-27",
+      "moieties": [
+        "DIMETHYL FUMARATE"
+      ],
+      "product_ndcs": [
+        "64406-005",
+        "64406-006",
+        "64406-007"
+      ],
+      "rxcui": [],
+      "setid": "665d7e74-036c-5f68-5b67-ab84b9b49151",
+      "source": "dailymed-title-match",
+      "spl_version": 56,
+      "title": "TECFIDERA (DIMETHYL FUMARATE) KIT TECFIDERA (DIMETHYL FUMARATE) CAPSULE [BIOGEN INC.]",
+      "upload_date": "2026-10-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA210305"
+      ],
+      "brand_names": [
+        "DIMETHYL FUMARATE"
+      ],
+      "combination": false,
+      "home_inn": "dimethyl-fumarate",
+      "ingredients": [
+        "DIMETHYL FUMARATE"
+      ],
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-09-24",
+      "moieties": [
+        "DIMETHYL FUMARATE"
+      ],
+      "product_ndcs": [
+        "69097-322",
+        "69097-323",
+        "69097-552"
+      ],
+      "rxcui": [
+        "1373483",
+        "1373491",
+        "1373497"
+      ],
+      "setid": "6c42107a-2a42-4263-97b6-ae0d7675c92a",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "DIMETHYL FUMARATE CAPSULE, DELAYED RELEASE DIMETHYL FUMARATE KIT [CIPLA USA INC.]",
+      "upload_date": "2024-04-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA210500"
+      ],
+      "brand_names": [
+        "DIMETHYL FUMARATE"
+      ],
+      "combination": false,
+      "home_inn": "dimethyl-fumarate",
+      "ingredients": [
+        "DIMETHYL FUMARATE"
+      ],
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-09-24",
+      "moieties": [
+        "DIMETHYL FUMARATE"
+      ],
+      "product_ndcs": [
+        "31722-657",
+        "31722-658",
+        "31722-680"
+      ],
+      "rxcui": [
+        "1373483",
+        "1373491",
+        "1373497"
+      ],
+      "setid": "b856ac70-71cd-477b-95b1-0a6132c260e8",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "DIMETHYL FUMARATE (DIMETHYL FUMARATE) CAPSULE, DELAYED RELEASE DIMETHYL FUMARATE KIT [CAMBER PHARMACEUTICALS, INC.]",
+      "upload_date": "2024-05-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA210460"
+      ],
+      "brand_names": [
+        "Dimethyl Fumarate"
+      ],
+      "combination": false,
+      "home_inn": "dimethyl-fumarate",
+      "ingredients": [
+        "DIMETHYL FUMARATE"
+      ],
+      "labeler": "Dr. Reddy's Laboratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-09-25",
+      "moieties": [
+        "DIMETHYL FUMARATE"
+      ],
+      "product_ndcs": [
+        "43598-429",
+        "43598-430"
+      ],
+      "rxcui": [
+        "1373483",
+        "1373491"
+      ],
+      "setid": "b00dcf89-59d3-9ab2-fd9b-16b9ec2d677b",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "DIMETHYL FUMARATE CAPSULE, DELAYED RELEASE [DR. REDDY'S LABORATORIES INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA210440"
+      ],
+      "brand_names": [
+        "Dimethyl Fumarate",
+        "Dimethyl fumarate"
+      ],
+      "combination": false,
+      "home_inn": "dimethyl-fumarate",
+      "ingredients": [
+        "DIMETHYL FUMARATE"
+      ],
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-09-26",
+      "moieties": [
+        "DIMETHYL FUMARATE"
+      ],
+      "product_ndcs": [
+        "67877-555",
+        "67877-556",
+        "67877-557"
+      ],
+      "rxcui": [
+        "1373483",
+        "1373491",
+        "1373497"
+      ],
+      "setid": "e12d8fee-bd18-4f84-8333-c890f1d132b7",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "DIMETHYL FUMARATE CAPSULE, DELAYED RELEASE DIMETHYL FUMARATE KIT [ASCEND LABORATORIES, LLC]",
+      "upload_date": "2025-09-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA210402"
+      ],
+      "brand_names": [
+        "DIMETHYL FUMARATE",
+        "Dimethyl Fumarate"
+      ],
+      "combination": false,
+      "home_inn": "dimethyl-fumarate",
+      "ingredients": [
+        "DIMETHYL FUMARATE"
+      ],
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-09-28",
+      "moieties": [
+        "DIMETHYL FUMARATE"
+      ],
+      "product_ndcs": [
+        "69238-1318",
+        "69238-1319",
+        "69238-1626"
+      ],
+      "rxcui": [
+        "1373483",
+        "1373491",
+        "1373497"
+      ],
+      "setid": "4c7626c6-2b1b-4865-818c-0c79c18c049d",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "DIMETHYL FUMARATE CAPSULE, DELAYED RELEASE DIMETHYL FUMARATE KIT [AMNEAL PHARMACEUTICALS NY LLC]",
+      "upload_date": "2025-06-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA210538"
+      ],
+      "brand_names": [
+        "dimethyl fumarate"
+      ],
+      "combination": false,
+      "home_inn": "dimethyl-fumarate",
+      "ingredients": [
+        "DIMETHYL FUMARATE"
+      ],
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-09-28",
+      "moieties": [
+        "DIMETHYL FUMARATE"
+      ],
+      "product_ndcs": [
+        "70771-1530",
+        "70771-1531"
+      ],
+      "rxcui": [
+        "1373483",
+        "1373491",
+        "1373497"
+      ],
+      "setid": "7203a262-de0f-42dd-b4fb-8856758b82e9",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "DIMETHYL FUMARATE (DIMETHYL FUMARATE) KIT DIMETHYL FUMARATE CAPSULE, DELAYED RELEASE [ZYDUS LIFESCIENCES LIMITED]",
+      "upload_date": "2025-04-03"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c3f65da9-f5f4-4161-aded-c23b16fd49ed"
+    },
+    {
+      "combination": false,
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "48f56f42-2247-41a9-a1e9-07c3af50e549"
+    },
+    {
+      "combination": false,
+      "labeler": "Accord Healthcare Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c4003a54-f880-4d06-9b5a-f8043791937b"
+    },
+    {
+      "combination": false,
+      "labeler": "Solco Healthcare US, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a3677dce-a44b-481f-8a76-9ff3a4d42105"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "08f3a987-6571-42b3-854b-186d782b4494"
+    },
+    {
+      "combination": false,
+      "labeler": "SOLA Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b4a200c1-f25a-4aa8-8770-06182fdeda9d"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f8ada3e3-55c0-43e3-95b9-c6d11ffc42dd"
+    },
+    {
+      "combination": false,
+      "labeler": "MSN LABORATORIES PRIVATE LIMITED",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "074d2820-6cb4-437a-8f6f-a21cb0a8ee02"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e7ef9b9e-d97a-4a56-b792-a1a255613156"
+    },
+    {
+      "combination": false,
+      "labeler": "Quallent Pharmaceuticals Health LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "39150ef0-ba48-4719-b7fd-9beb4d4ad3ce"
+    },
+    {
+      "combination": false,
+      "labeler": "CivicaScript LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f3002b6a-841e-4247-9155-3acfb30cabcd"
+    }
+  ]
+}

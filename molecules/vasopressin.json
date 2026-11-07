@@ -1,0 +1,511 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "VASOPRESSIN",
+    "VASOPRESSIN, UNSPECIFIED"
+  ],
+  "inn": "vasopressin",
+  "name": "VASOPRESSIN",
+  "rank": 188,
+  "rxcui": [
+    "313578",
+    "1593738",
+    "2103182",
+    "2103184",
+    "2399907",
+    "2399909",
+    "2591428",
+    "2591431",
+    "2670680",
+    "2670683"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 15,
+    "approval_holders": 12,
+    "earliest_marketing_start": "2014-11-12",
+    "latest_label_update": "2026-05-20",
+    "nda_bla_applications": 4,
+    "repackagers": 4
+  },
+  "unii": [
+    {
+      "ingredient": "VASOPRESSIN",
+      "unii": "Y4907O6MFD"
+    },
+    {
+      "ingredient": "VASOPRESSIN, UNSPECIFIED",
+      "unii": "Y87Y826H08"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA204485"
+      ],
+      "brand_names": [
+        "Vasostrict"
+      ],
+      "combination": false,
+      "home_inn": "vasopressin",
+      "ingredients": [
+        "VASOPRESSIN, UNSPECIFIED"
+      ],
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2014-11-12",
+      "moieties": [
+        "VASOPRESSIN"
+      ],
+      "product_ndcs": [
+        "42023-164",
+        "42023-190",
+        "42023-219",
+        "42023-237"
+      ],
+      "rxcui": [
+        "313578",
+        "1593738",
+        "2103182",
+        "2103184",
+        "2399907",
+        "2399909",
+        "2591428",
+        "2591431",
+        "2670680",
+        "2670683"
+      ],
+      "setid": "b1147beb-743e-4c62-8927-91192447f8b8",
+      "source": "openfda",
+      "spl_version": 49,
+      "title": "VASOSTRICT (VASOPRESSIN) INJECTION [PAR HEALTH USA, LLC]",
+      "upload_date": "2026-05-20"
+    },
+    {
+      "application_numbers": [
+        "NDA212593"
+      ],
+      "brand_names": [
+        "Vasopressin"
+      ],
+      "combination": false,
+      "home_inn": "vasopressin",
+      "ingredients": [
+        "VASOPRESSIN"
+      ],
+      "labeler": "American Regent, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-02-03",
+      "moieties": [
+        "VASOPRESSIN"
+      ],
+      "product_ndcs": [
+        "0517-1020",
+        "0517-1030"
+      ],
+      "rxcui": [
+        "313578",
+        "2103182"
+      ],
+      "setid": "0ab267f4-9ec9-44fd-8521-f975074667d9",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "VASOPRESSIN INJECTION, SOLUTION [AMERICAN REGENT, INC.]",
+      "upload_date": "2024-11-04"
+    },
+    {
+      "application_numbers": [
+        "NDA217569"
+      ],
+      "brand_names": [
+        "Vasopressin in 0.9% Sodium Chloride"
+      ],
+      "combination": false,
+      "home_inn": "vasopressin",
+      "ingredients": [
+        "VASOPRESSIN"
+      ],
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-09-29",
+      "moieties": [
+        "VASOPRESSIN"
+      ],
+      "product_ndcs": [
+        "0338-9640",
+        "0338-9647"
+      ],
+      "rxcui": [
+        "2399907",
+        "2591428"
+      ],
+      "setid": "b5b2c367-6b7e-40be-a296-c4632f3e783f",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "VASOPRESSIN IN 0.9% SODIUM CHLORIDE INJECTION [BAXTER HEALTHCARE CORPORATION]",
+      "upload_date": "2025-09-18"
+    },
+    {
+      "application_numbers": [
+        "NDA217766"
+      ],
+      "brand_names": [
+        "Vasopressin in 0.9% Sodium Chloride"
+      ],
+      "combination": false,
+      "home_inn": "vasopressin",
+      "ingredients": [
+        "VASOPRESSIN"
+      ],
+      "labeler": "Long Grove Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-07-12",
+      "moieties": [
+        "VASOPRESSIN"
+      ],
+      "product_ndcs": [
+        "81298-8552",
+        "81298-8554"
+      ],
+      "rxcui": [
+        "2399907",
+        "2591428"
+      ],
+      "setid": "bf4b0b63-0055-40d8-b331-7f9f1ea3214c",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "VASOPRESSIN IN 0.9% SODIUM CHLORIDE (VASOPRESSIN) SOLUTION [LONG GROVE PHARMACEUTICALS, LLC]",
+      "upload_date": "2025-07-10"
+    },
+    {
+      "application_numbers": [
+        "NDA204485"
+      ],
+      "brand_names": [
+        "Vasostrict"
+      ],
+      "combination": false,
+      "home_inn": "vasopressin",
+      "ingredients": [
+        "VASOPRESSIN, UNSPECIFIED"
+      ],
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-12-05",
+      "moieties": [
+        "VASOPRESSIN"
+      ],
+      "product_ndcs": [
+        "42023-164"
+      ],
+      "rxcui": [
+        "2103182",
+        "2103184"
+      ],
+      "setid": "b97e5c3e-ca28-4ffa-80af-6c5bdbadaf10",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "VASOSTRICT (VASOPRESSIN) INJECTION [PAR HEALTH USA, LLC]",
+      "upload_date": "2026-05-20"
+    },
+    {
+      "application_numbers": [
+        "NDA212593"
+      ],
+      "brand_names": [
+        "Vasopressin"
+      ],
+      "combination": false,
+      "home_inn": "vasopressin",
+      "ingredients": [
+        "VASOPRESSIN"
+      ],
+      "labeler": "Civica, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-10-22",
+      "moieties": [
+        "VASOPRESSIN"
+      ],
+      "product_ndcs": [
+        "72572-860"
+      ],
+      "rxcui": [
+        "2103182"
+      ],
+      "setid": "cce1a220-3178-49ec-b046-f0cb134cf051",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "VASOPRESSIN INJECTION, SOLUTION [CIVICA, INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA212944"
+      ],
+      "brand_names": [
+        "vasopressin"
+      ],
+      "combination": false,
+      "home_inn": "vasopressin",
+      "ingredients": [
+        "VASOPRESSIN"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-08-11",
+      "moieties": [
+        "VASOPRESSIN"
+      ],
+      "product_ndcs": [
+        "70121-1642"
+      ],
+      "rxcui": [
+        "2103182"
+      ],
+      "setid": "d9869345-b02c-4225-a97b-656f14c86dec",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "VASOPRESSIN INJECTION [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2024-09-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA214314"
+      ],
+      "brand_names": [
+        "VASOPRESSIN"
+      ],
+      "combination": false,
+      "home_inn": "vasopressin",
+      "ingredients": [
+        "VASOPRESSIN"
+      ],
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-08-15",
+      "moieties": [
+        "VASOPRESSIN"
+      ],
+      "product_ndcs": [
+        "55150-370"
+      ],
+      "rxcui": [
+        "313578"
+      ],
+      "setid": "85e3dc1e-98ae-4c4c-8af9-237375475e08",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "VASOPRESSIN INJECTION [EUGIA US LLC]",
+      "upload_date": "2023-11-16"
+    },
+    {
+      "application_numbers": [
+        "ANDA211857"
+      ],
+      "brand_names": [
+        "Vasopressin"
+      ],
+      "combination": false,
+      "home_inn": "vasopressin",
+      "ingredients": [
+        "VASOPRESSIN"
+      ],
+      "labeler": "Amphastar Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-08-22",
+      "moieties": [
+        "VASOPRESSIN"
+      ],
+      "product_ndcs": [
+        "0548-9701"
+      ],
+      "rxcui": [
+        "2103182"
+      ],
+      "setid": "4e6c737d-65e8-4af4-b301-69a93affbc7f",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "VASOPRESSIN INJECTION [AMPHASTAR PHARMACEUTICALS, INC.]",
+      "upload_date": "2022-08-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA213206"
+      ],
+      "brand_names": [
+        "VASOPRESSIN"
+      ],
+      "combination": false,
+      "home_inn": "vasopressin",
+      "ingredients": [
+        "VASOPRESSIN"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-05-26",
+      "moieties": [
+        "VASOPRESSIN"
+      ],
+      "product_ndcs": [
+        "63323-930"
+      ],
+      "rxcui": [
+        "2103182"
+      ],
+      "setid": "04e0c406-6b49-4c0b-abc5-9a1a75532485",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "VASOPRESSIN INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2025-03-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA216963"
+      ],
+      "brand_names": [
+        "Vasopressin"
+      ],
+      "combination": false,
+      "home_inn": "vasopressin",
+      "ingredients": [
+        "VASOPRESSIN"
+      ],
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-02-09",
+      "moieties": [
+        "VASOPRESSIN"
+      ],
+      "product_ndcs": [
+        "68083-520",
+        "68083-663"
+      ],
+      "rxcui": [
+        "2103182",
+        "2399907"
+      ],
+      "setid": "971f9b1c-6094-4f80-920b-cb5d7e62950a",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "VASOPRESSIN INJECTION [GLAND PHARMA LIMITED]",
+      "upload_date": "2025-09-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA213988"
+      ],
+      "brand_names": [
+        "vasopressin"
+      ],
+      "combination": false,
+      "home_inn": "vasopressin",
+      "ingredients": [
+        "VASOPRESSIN, UNSPECIFIED"
+      ],
+      "labeler": "Dr. Reddy's Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-05-09",
+      "moieties": [
+        "VASOPRESSIN"
+      ],
+      "product_ndcs": [
+        "43598-914"
+      ],
+      "rxcui": [
+        "2103182"
+      ],
+      "setid": "caf04d72-679e-daf9-e86f-4867f83b8ac5",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "VASOPRESSIN INJECTION [DR. REDDY'S LABORATORIES, INC.]",
+      "upload_date": "2024-09-06"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 3,
+      "brand_names": [
+        "PITRESSIN"
+      ],
+      "first_posted": "2012-09-28",
+      "found_by": "PITRESSIN",
+      "labeler": "Par Pharmaceutical, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2014-11-21",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "42023-117"
+      ],
+      "rxcui": [],
+      "setid": "1b316ff5-b7f8-4509-acc4-fd263d0a1703",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "PITRESSIN (vasopressin) injection"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "eadd82d7-e2cb-4144-9f0c-b340f54c6fa4"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "50aef1e8-0a70-466d-93cd-c1b9ed489839"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ad3ac280-49da-4816-9097-14517d0c0f85"
+    }
+  ]
+}

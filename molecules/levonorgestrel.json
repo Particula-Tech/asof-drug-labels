@@ -1,0 +1,493 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "LEVONORGESTREL"
+  ],
+  "inn": "levonorgestrel",
+  "name": "LEVONORGESTREL",
+  "rank": 110,
+  "rxcui": [
+    "402250",
+    "402252",
+    "483325",
+    "722152",
+    "751553",
+    "804156",
+    "807283",
+    "1112715",
+    "1366334",
+    "1366339",
+    "1605252",
+    "1605257",
+    "1811886",
+    "1856546",
+    "2396242",
+    "2396253",
+    "2396258",
+    "2396259",
+    "2472307"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 10,
+    "approval_holders": 7,
+    "earliest_marketing_start": "2003-11-21",
+    "latest_label_update": "2026-07-02",
+    "nda_bla_applications": 6,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "LEVONORGESTREL",
+      "unii": "5W7SIA7YZW"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021225"
+      ],
+      "brand_names": [
+        "Mirena"
+      ],
+      "combination": false,
+      "home_inn": "levonorgestrel",
+      "ingredients": [
+        "LEVONORGESTREL"
+      ],
+      "labeler": "Bayer HealthCare Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2009-10-01",
+      "moieties": [
+        "LEVONORGESTREL"
+      ],
+      "product_ndcs": [
+        "50419-423"
+      ],
+      "rxcui": [
+        "804156",
+        "807283"
+      ],
+      "setid": "dcbd6aa2-b3fa-479a-a676-56ea742962fc",
+      "source": "openfda",
+      "spl_version": 20,
+      "title": "MIRENA (LEVONORGESTREL) INTRAUTERINE DEVICE [BAYER HEALTHCARE PHARMACEUTICALS INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "NDA203159"
+      ],
+      "brand_names": [
+        "Skyla"
+      ],
+      "combination": false,
+      "home_inn": "levonorgestrel",
+      "ingredients": [
+        "LEVONORGESTREL"
+      ],
+      "labeler": "Bayer HealthCare Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2013-01-11",
+      "moieties": [
+        "LEVONORGESTREL"
+      ],
+      "product_ndcs": [
+        "50419-422"
+      ],
+      "rxcui": [
+        "1366334",
+        "1366339"
+      ],
+      "setid": "9f44ff35-e052-49cd-a1c2-0bfd87d49309",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "SKYLA (LEVONORGESTREL) INTRAUTERINE DEVICE [BAYER HEALTHCARE PHARMACEUTICALS INC.]",
+      "upload_date": "2026-03-05"
+    },
+    {
+      "application_numbers": [
+        "NDA206229"
+      ],
+      "brand_names": [
+        "LILETTA"
+      ],
+      "combination": false,
+      "home_inn": "levonorgestrel",
+      "ingredients": [
+        "LEVONORGESTREL"
+      ],
+      "labeler": "Allergan, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2016-05-31",
+      "moieties": [
+        "LEVONORGESTREL"
+      ],
+      "product_ndcs": [
+        "0023-5858"
+      ],
+      "rxcui": [
+        "1605252",
+        "1605257"
+      ],
+      "setid": "aaf0eb2a-f88a-4f26-a445-0fd30176c326",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "LILETTA (LEVONORGESTREL) INTRAUTERINE DEVICE [ALLERGAN, INC.]",
+      "upload_date": "2024-10-24"
+    },
+    {
+      "application_numbers": [
+        "NDA208224"
+      ],
+      "brand_names": [
+        "Kyleena"
+      ],
+      "combination": false,
+      "home_inn": "levonorgestrel",
+      "ingredients": [
+        "LEVONORGESTREL"
+      ],
+      "labeler": "Bayer HealthCare Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2016-09-19",
+      "moieties": [
+        "LEVONORGESTREL"
+      ],
+      "product_ndcs": [
+        "50419-424"
+      ],
+      "rxcui": [
+        "1811886",
+        "1856546"
+      ],
+      "setid": "2e07c155-21e1-4781-9633-ce8bddd47080",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "KYLEENA (LEVONORGESTREL) INTRAUTERINE DEVICE [BAYER HEALTHCARE PHARMACEUTICALS INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "NDA021258"
+      ],
+      "brand_names": [
+        "Climara Pro"
+      ],
+      "combination": true,
+      "home_inn": "levonorgestrel",
+      "ingredients": [
+        "ESTRADIOL",
+        "LEVONORGESTREL"
+      ],
+      "labeler": "Bayer HealthCare Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2003-11-21",
+      "moieties": [
+        "ESTRADIOL",
+        "LEVONORGESTREL"
+      ],
+      "product_ndcs": [
+        "50419-491"
+      ],
+      "rxcui": [
+        "402250",
+        "402252"
+      ],
+      "setid": "184d3092-7fc6-4375-816b-1ab06bb99cfd",
+      "source": "openfda",
+      "spl_version": 27,
+      "title": "CLIMARA PRO (ESTRADIOL AND LEVONORGESTREL) PATCH [BAYER HEALTHCARE PHARMACEUTICALS INC.]",
+      "upload_date": "2026-03-30"
+    },
+    {
+      "application_numbers": [
+        "NDA204017"
+      ],
+      "brand_names": [
+        "Twirla"
+      ],
+      "combination": true,
+      "home_inn": "levonorgestrel",
+      "ingredients": [
+        "ETHINYL ESTRADIOL",
+        "LEVONORGESTREL"
+      ],
+      "labeler": "Agile Therapeutics, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2020-09-11",
+      "moieties": [
+        "ETHINYL ESTRADIOL",
+        "LEVONORGESTREL"
+      ],
+      "product_ndcs": [
+        "71671-100"
+      ],
+      "rxcui": [
+        "2396242",
+        "2396253",
+        "2396258",
+        "2396259"
+      ],
+      "setid": "bcaf8db0-1750-425d-b008-255b5e7a9cc6",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "TWIRLA (LEVONORGESTREL/ETHINYL ESTRADIOL) PATCH [AGILE THERAPEUTICS, INC.]",
+      "upload_date": "2026-07-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA202508"
+      ],
+      "brand_names": [
+        "Levonorgestrel"
+      ],
+      "combination": false,
+      "home_inn": "levonorgestrel",
+      "ingredients": [
+        "LEVONORGESTREL"
+      ],
+      "labeler": "Novel Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-02-15",
+      "moieties": [
+        "LEVONORGESTREL"
+      ],
+      "product_ndcs": [
+        "40032-622"
+      ],
+      "rxcui": [
+        "483325"
+      ],
+      "setid": "ac13a073-a33a-45f7-8483-eecc9190195f",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "LEVONORGESTREL TABLET [NOVEL LABORATORIES, INC.]",
+      "upload_date": "2017-12-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA202791"
+      ],
+      "brand_names": [
+        "Levonorgestrel and Ethinyl Estradiol"
+      ],
+      "combination": true,
+      "home_inn": "levonorgestrel",
+      "ingredients": [
+        "ETHINYL ESTRADIOL",
+        "LEVONORGESTREL"
+      ],
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-04-09",
+      "moieties": [
+        "ETHINYL ESTRADIOL",
+        "LEVONORGESTREL"
+      ],
+      "product_ndcs": [
+        "68462-637"
+      ],
+      "rxcui": [
+        "722152",
+        "751553"
+      ],
+      "setid": "44fbc5ae-5682-471f-a12a-955e8b4d233a",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "LEVONORGESTREL AND ETHINYL ESTRADIOL TABLET [GLENMARK PHARMACEUTICALS INC., USA]",
+      "upload_date": "2026-02-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA091692"
+      ],
+      "brand_names": [
+        "Dolishale"
+      ],
+      "combination": true,
+      "home_inn": "levonorgestrel",
+      "ingredients": [
+        "ETHINYL ESTRADIOL",
+        "LEVONORGESTREL"
+      ],
+      "labeler": "Ingenus Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-01-03",
+      "moieties": [
+        "ETHINYL ESTRADIOL",
+        "LEVONORGESTREL"
+      ],
+      "product_ndcs": [
+        "50742-659"
+      ],
+      "rxcui": [
+        "722152",
+        "751553",
+        "2472307"
+      ],
+      "setid": "036a15be-8c2e-4f65-b5dc-f333e2994d4a",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "DOLISHALE (LEVONORGESTREL AND ETHINYL ESTRADIOL) TABLET [INGENUS PHARMACEUTICALS, LLC]",
+      "upload_date": "2025-04-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA079218"
+      ],
+      "brand_names": [
+        "Amethyst"
+      ],
+      "combination": true,
+      "home_inn": "levonorgestrel",
+      "ingredients": [
+        "ETHINYL ESTRADIOL",
+        "LEVONORGESTREL"
+      ],
+      "labeler": "Teva Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-03-01",
+      "moieties": [
+        "ETHINYL ESTRADIOL",
+        "LEVONORGESTREL"
+      ],
+      "product_ndcs": [
+        "0480-3472"
+      ],
+      "rxcui": [
+        "722152",
+        "751553",
+        "1112715"
+      ],
+      "setid": "99073fe0-eac8-44dd-abe6-623fa67d9e79",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "AMETHYST (LEVONORGESTREL AND ETHINYL ESTRADIOL) TABLET [TEVA PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-09-08"
+    },
+    {
+      "application_numbers": [
+        "NDA021045"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "PLAN"
+      ],
+      "first_posted": "2007-10-19",
+      "found_by": "PLAN",
+      "labeler": "Duramed Pharmaceuticals, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2013-06-28",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-06-30"
+      ],
+      "product_ndcs": [
+        "51285-769"
+      ],
+      "rxcui": [],
+      "setid": "62aace29-36a3-4a2a-aae0-61f7480095c1",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "PLAN B (levonorgestrel) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA021225"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "MIRENA"
+      ],
+      "first_posted": "2008-09-11",
+      "found_by": "MIRENA",
+      "labeler": "Bayer HealthCare Pharmaceuticals Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2017-11-13",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-11-10"
+      ],
+      "product_ndcs": [
+        "50419-421"
+      ],
+      "rxcui": [],
+      "setid": "92231d6f-f4d8-43b0-aa95-f7cec1cc18c5",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "dcbd6aa2-b3fa-479a-a676-56ea742962fc"
+      ],
+      "title": "MIRENA (levonorgestrel) intrauterine device"
+    },
+    {
+      "application_numbers": [
+        "NDA206229"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "LILETTA"
+      ],
+      "first_posted": "2015-03-12",
+      "found_by": "LILETTA",
+      "labeler": "Actavis Pharma, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2019-12-06",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2020-01-31"
+      ],
+      "product_ndcs": [
+        "52544-035"
+      ],
+      "rxcui": [],
+      "setid": "e32358c2-86c6-40b6-b41f-5d38d50cc723",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "aaf0eb2a-f88a-4f26-a445-0fd30176c326"
+      ],
+      "title": "LILETTA (levonorgestrel) intrauterine device"
+    }
+  ],
+  "us_excluded": []
+}

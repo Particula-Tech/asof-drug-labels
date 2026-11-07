@@ -1,0 +1,503 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand NOXAFIL",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000610",
+      "eu_number": "EU/1/05/320",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000610",
+      "mah": "Merck Sharp and Dohme B.V",
+      "marketing_authorisation_date": "2005-10-25",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/noxafil",
+      "name": "Noxafil",
+      "record_from": "2005-10-25",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 25
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/005005",
+      "eu_number": "EU/1/19/1379",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-005005",
+      "mah": "Accord Healthcare S.L.U.",
+      "marketing_authorisation_date": "2019-07-25",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/posaconazole-accord",
+      "name": "Posaconazole Accord",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/005028",
+      "eu_number": "EU/1/19/1380",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-005028",
+      "mah": "Accord Healthcare S.L.U.",
+      "marketing_authorisation_date": "2019-07-25",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/posaconazole-ahcl",
+      "name": "Posaconazole AHCL",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000610",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "POSACONAZOLE"
+  ],
+  "inn": "posaconazole",
+  "name": "POSACONAZOLE",
+  "rank": 176,
+  "rxcui": [
+    "665019",
+    "665022",
+    "1482908",
+    "1482912",
+    "1492043",
+    "1492047",
+    "2558603",
+    "2558607"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 24,
+    "approval_holders": 22,
+    "earliest_marketing_start": "2006-09-15",
+    "latest_label_update": "2026-10-15",
+    "nda_bla_applications": 4,
+    "repackagers": 6
+  },
+  "unii": [
+    {
+      "ingredient": "POSACONAZOLE",
+      "unii": "6TK1G07BHZ"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA022003",
+        "NDA205053",
+        "NDA205596",
+        "NDA214770"
+      ],
+      "brand_names": [
+        "NOXAFIL"
+      ],
+      "combination": false,
+      "home_inn": "posaconazole",
+      "ingredients": [
+        "POSACONAZOLE"
+      ],
+      "labeler": "Merck Sharp & Dohme LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2006-09-15",
+      "moieties": [
+        "POSACONAZOLE"
+      ],
+      "product_ndcs": [
+        "0085-1328",
+        "0085-2224",
+        "0085-4324",
+        "0085-4331"
+      ],
+      "rxcui": [
+        "665019",
+        "665022",
+        "1482908",
+        "1482912",
+        "1492043",
+        "1492047",
+        "2558603",
+        "2558607"
+      ],
+      "setid": "b073b082-7b57-4423-8c06-4fd4263d6f84",
+      "source": "openfda",
+      "spl_version": 56,
+      "title": "NOXAFIL (POSACONAZOLE) SUSPENSION NOXAFIL (POSACONAZOLE) TABLET, COATED NOXAFIL (POSACONAZOLE) SOLUTION NOXAFIL (POSACONAZOLE) POWDER, FOR SUSPENSION [MERCK SHARP & DOHME LLC]",
+      "upload_date": "2026-03-06"
+    },
+    {
+      "application_numbers": [
+        "NDA022003",
+        "NDA205053"
+      ],
+      "brand_names": [
+        "POSACONAZOLE"
+      ],
+      "combination": false,
+      "home_inn": "posaconazole",
+      "ingredients": [
+        "POSACONAZOLE"
+      ],
+      "labeler": "ENDO USA, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2019-08-30",
+      "moieties": [
+        "POSACONAZOLE"
+      ],
+      "product_ndcs": [
+        "0254-1016",
+        "0254-2045"
+      ],
+      "rxcui": [
+        "665019",
+        "1482908"
+      ],
+      "setid": "e031b632-8e57-4359-87bd-a5da02bdc55f",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "POSACONAZOLE TABLET, COATED POSACONAZOLE SUSPENSION [ENDO USA, INC.]",
+      "upload_date": "2026-03-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA212411"
+      ],
+      "brand_names": [
+        "POSACONAZOLE"
+      ],
+      "combination": false,
+      "home_inn": "posaconazole",
+      "ingredients": [
+        "POSACONAZOLE"
+      ],
+      "labeler": "Lannett Company Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-08-28",
+      "moieties": [
+        "POSACONAZOLE"
+      ],
+      "product_ndcs": [
+        "0527-2133"
+      ],
+      "rxcui": [
+        "1482908"
+      ],
+      "setid": "94a9b028-a2bc-4f41-884d-2d6c536881fc",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "POSACONAZOLE TABLET, DELAYED RELEASE [LANNETT COMPANY INC.]",
+      "upload_date": "2025-01-06"
+    },
+    {
+      "application_numbers": [
+        "ANDA213454"
+      ],
+      "brand_names": [
+        "POSACONAZOLE"
+      ],
+      "combination": false,
+      "home_inn": "posaconazole",
+      "ingredients": [
+        "POSACONAZOLE"
+      ],
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-02-17",
+      "moieties": [
+        "POSACONAZOLE"
+      ],
+      "product_ndcs": [
+        "70748-258"
+      ],
+      "rxcui": [
+        "1482908"
+      ],
+      "setid": "548124ce-8050-46a9-967b-ff23dfb18633",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "POSACONAZOLE TABLET, DELAYED RELEASE [LUPIN PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-05-26"
+    },
+    {
+      "application_numbers": [
+        "ANDA214476"
+      ],
+      "brand_names": [
+        "POSACONAZOLE"
+      ],
+      "combination": false,
+      "home_inn": "posaconazole",
+      "ingredients": [
+        "POSACONAZOLE"
+      ],
+      "labeler": "Biocon Pharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-03-08",
+      "moieties": [
+        "POSACONAZOLE"
+      ],
+      "product_ndcs": [
+        "70377-038"
+      ],
+      "rxcui": [
+        "1482908"
+      ],
+      "setid": "e0e8023a-3c82-e455-a57b-ccc0206ad156",
+      "source": "dailymed-title-match",
+      "spl_version": 16,
+      "title": "POSACONAZOLE TABLET, DELAYED RELEASE [BIOCON PHARMA INC.]",
+      "upload_date": "2026-10-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA212500"
+      ],
+      "brand_names": [
+        "Posaconazole"
+      ],
+      "combination": false,
+      "home_inn": "posaconazole",
+      "ingredients": [
+        "POSACONAZOLE"
+      ],
+      "labeler": "Dr.Reddys Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-04-07",
+      "moieties": [
+        "POSACONAZOLE"
+      ],
+      "product_ndcs": [
+        "43598-470"
+      ],
+      "rxcui": [
+        "1482908"
+      ],
+      "setid": "d8d8dd03-46b5-bd26-bb27-7ca31d8c3326",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "POSACONAZOLE TABLET, DELAYED RELEASE [DR.REDDYS LABORATORIES INC]",
+      "upload_date": "2026-09-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA212226"
+      ],
+      "brand_names": [
+        "POSACONAZOLE"
+      ],
+      "combination": false,
+      "home_inn": "posaconazole",
+      "ingredients": [
+        "POSACONAZOLE"
+      ],
+      "labeler": "SpecGx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-05-10",
+      "moieties": [
+        "POSACONAZOLE"
+      ],
+      "product_ndcs": [
+        "0406-7711"
+      ],
+      "rxcui": [
+        "1482908"
+      ],
+      "setid": "8412398b-c696-4f12-ba3a-da74dc8dadaf",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "POSACONAZOLE TABLET, DELAYED RELEASE [SPECGX LLC]",
+      "upload_date": "2026-08-17"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "573d89eb-05d8-4035-b406-6409f36ab707"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5f795eca-7a03-4c91-9a0e-c1235791b665"
+    },
+    {
+      "combination": false,
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4032672e-1bb0-427d-a3b3-09cda4beaf34"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "282ddea7-47d8-44e4-8806-169d7cafa951"
+    },
+    {
+      "combination": false,
+      "labeler": "i3 Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d5300d14-219d-4e1e-bfac-b413c40d6e3a"
+    },
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2e88e379-b712-4dec-97a2-c90ef3638372"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "52d9d29e-4a37-4926-aa57-8477f5447b34"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresensius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "86be8cdb-c991-4754-b8f4-1ab79ac40bda"
+    },
+    {
+      "combination": false,
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1ebbd88b-547b-4b49-ab73-98094a2d5a79"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f8a26673-261c-4e8e-b1e1-9e23aaf7f285"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c551e121-d5fc-4b35-ba9f-72ce3a314fdc"
+    },
+    {
+      "combination": false,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0bdf77ae-3639-49c1-b7c7-533f9d073084"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f2baa339-75ff-4c03-8334-a88648f701f7"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4de6d839-e4bd-405c-83c5-8efc6abd0829"
+    },
+    {
+      "combination": false,
+      "labeler": "GLENMARK PHARMACEUTICALS INC., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a2ba0343-cd17-4b23-8356-005a1dfd0b35"
+    },
+    {
+      "combination": false,
+      "labeler": "A2A Integrated Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4d14ceab-196e-4dc3-8b21-5c4629ada161"
+    },
+    {
+      "combination": false,
+      "labeler": "GLENMARK PHARMACEUTICALS INC., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "91f89a3b-2479-4d05-9997-7b0cfaa496ec"
+    }
+  ]
+}

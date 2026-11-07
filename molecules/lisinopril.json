@@ -1,0 +1,734 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "LISINOPRIL"
+  ],
+  "inn": "lisinopril",
+  "name": "LISINOPRIL",
+  "rank": 238,
+  "rxcui": [
+    "104375",
+    "104376",
+    "104377",
+    "104378",
+    "197884",
+    "205326",
+    "206771",
+    "213482",
+    "311353",
+    "311354",
+    "314076",
+    "314077",
+    "1806884",
+    "1806890"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 24,
+    "approval_holders": 17,
+    "earliest_marketing_start": "2002-07-01",
+    "latest_label_update": "2026-10-30",
+    "nda_bla_applications": 3,
+    "repackagers": 25
+  },
+  "unii": [
+    {
+      "ingredient": "LISINOPRIL",
+      "unii": "E7199S1YWR"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA208401"
+      ],
+      "brand_names": [
+        "Qbrelis"
+      ],
+      "combination": false,
+      "home_inn": "lisinopril",
+      "ingredients": [
+        "LISINOPRIL"
+      ],
+      "labeler": "Azurity Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2016-08-29",
+      "moieties": [
+        "LISINOPRIL"
+      ],
+      "product_ndcs": [
+        "52652-3001"
+      ],
+      "rxcui": [
+        "1806884",
+        "1806890"
+      ],
+      "setid": "9f6e4e57-a489-4b36-b093-b93865d3717c",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "QBRELIS (LISINOPRIL) SOLUTION [AZURITY PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-12-18"
+    },
+    {
+      "application_numbers": [
+        "NDA019777"
+      ],
+      "brand_names": [
+        "Zestril"
+      ],
+      "combination": false,
+      "home_inn": "lisinopril",
+      "ingredients": [
+        "LISINOPRIL"
+      ],
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-04-25",
+      "moieties": [
+        "LISINOPRIL"
+      ],
+      "product_ndcs": [
+        "24979-238",
+        "24979-239",
+        "24979-240",
+        "24979-241",
+        "24979-242",
+        "24979-243"
+      ],
+      "rxcui": [
+        "104375",
+        "104376",
+        "104377",
+        "104378",
+        "197884",
+        "205326",
+        "206771",
+        "213482",
+        "311353",
+        "311354",
+        "314076",
+        "314077"
+      ],
+      "setid": "838c2d78-d2d8-4981-9ec9-e50ef9e1a5d8",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "ZESTRIL (LISINOPRIL) TABLET [UPSHER-SMITH LABORATORIES, LLC]",
+      "upload_date": "2025-05-05"
+    },
+    {
+      "application_numbers": [
+        "NDA019888"
+      ],
+      "brand_names": [
+        "Zestoretic"
+      ],
+      "combination": true,
+      "home_inn": "hydrochlorothiazide",
+      "ingredients": [
+        "HYDROCHLOROTHIAZIDE",
+        "LISINOPRIL"
+      ],
+      "labeler": "Almatica Pharma Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-04-15",
+      "moieties": [
+        "HYDROCHLOROTHIAZIDE",
+        "LISINOPRIL"
+      ],
+      "product_ndcs": [
+        "52427-435",
+        "52427-436",
+        "52427-437"
+      ],
+      "rxcui": [],
+      "setid": "0d3a966f-f937-05a8-a90f-5aa52ebbd613",
+      "source": "dailymed-title-match",
+      "spl_version": 17,
+      "title": "ZESTORETIC (LISINOPRIL AND HYDROCHLOROTHIAZIDE) TABLET [ALMATICA PHARMA INC.]",
+      "upload_date": "2026-10-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA076059"
+      ],
+      "brand_names": [
+        "Lisinopril"
+      ],
+      "combination": false,
+      "home_inn": "lisinopril",
+      "ingredients": [
+        "LISINOPRIL"
+      ],
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2002-07-01",
+      "moieties": [
+        "LISINOPRIL"
+      ],
+      "product_ndcs": [
+        "0591-0405",
+        "0591-0406",
+        "0591-0407",
+        "0591-0408",
+        "0591-0409",
+        "0591-0885"
+      ],
+      "rxcui": [
+        "197884",
+        "205326",
+        "311353",
+        "311354",
+        "314076",
+        "314077"
+      ],
+      "setid": "43e2c8d1-3704-4323-bcaf-f582572b81f7",
+      "source": "openfda",
+      "spl_version": 35,
+      "title": "LISINOPRIL TABLET [ACTAVIS PHARMA, INC.]",
+      "upload_date": "2023-09-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA077321"
+      ],
+      "brand_names": [
+        "Lisinopril"
+      ],
+      "combination": false,
+      "home_inn": "lisinopril",
+      "ingredients": [
+        "LISINOPRIL"
+      ],
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2006-01-13",
+      "moieties": [
+        "LISINOPRIL"
+      ],
+      "product_ndcs": [
+        "68180-512",
+        "68180-513",
+        "68180-514",
+        "68180-515",
+        "68180-516",
+        "68180-517",
+        "68180-979",
+        "68180-980",
+        "68180-981",
+        "68180-982"
+      ],
+      "rxcui": [
+        "197884",
+        "205326",
+        "311353",
+        "311354",
+        "314076",
+        "314077"
+      ],
+      "setid": "7d6c31e2-b5a4-4279-8013-a8dad37ea73b",
+      "source": "openfda",
+      "spl_version": 23,
+      "title": "LISINOPRIL TABLET [LUPIN PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA077622"
+      ],
+      "brand_names": [
+        "Lisinopril"
+      ],
+      "combination": false,
+      "home_inn": "lisinopril",
+      "ingredients": [
+        "LISINOPRIL"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2006-02-22",
+      "moieties": [
+        "LISINOPRIL"
+      ],
+      "product_ndcs": [
+        "65862-037",
+        "65862-038",
+        "65862-039",
+        "65862-040",
+        "65862-041",
+        "65862-042"
+      ],
+      "rxcui": [
+        "197884",
+        "205326",
+        "311353",
+        "311354",
+        "314076",
+        "314077"
+      ],
+      "setid": "0e6364a4-6d66-4151-8197-d45e2a762895",
+      "source": "openfda",
+      "spl_version": 27,
+      "title": "LISINOPRIL TABLET [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2026-07-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA076164"
+      ],
+      "brand_names": [
+        "LISINOPRIL"
+      ],
+      "combination": false,
+      "home_inn": "lisinopril",
+      "ingredients": [
+        "LISINOPRIL"
+      ],
+      "labeler": "Solco healthcare U.S., LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-11-01",
+      "moieties": [
+        "LISINOPRIL"
+      ],
+      "product_ndcs": [
+        "43547-351",
+        "43547-352",
+        "43547-353",
+        "43547-354",
+        "43547-355",
+        "43547-356"
+      ],
+      "rxcui": [
+        "197884",
+        "205326",
+        "311353",
+        "311354",
+        "314076",
+        "314077"
+      ],
+      "setid": "e299d477-a612-4af4-b6aa-f5addc8a736d",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "LISINOPRIL TABLET [SOLCO HEALTHCARE U.S., LLC]",
+      "upload_date": "2025-04-03"
+    },
+    {
+      "application_numbers": [
+        "ANDA203508"
+      ],
+      "brand_names": [
+        "lisinopril"
+      ],
+      "combination": false,
+      "home_inn": "lisinopril",
+      "ingredients": [
+        "LISINOPRIL"
+      ],
+      "labeler": "Exelan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-03-22",
+      "moieties": [
+        "LISINOPRIL"
+      ],
+      "product_ndcs": [
+        "76282-417",
+        "76282-418",
+        "76282-419",
+        "76282-420",
+        "76282-421",
+        "76282-422"
+      ],
+      "rxcui": [
+        "197884",
+        "205326",
+        "311353",
+        "311354",
+        "314076",
+        "314077"
+      ],
+      "setid": "1bc69836-a659-4e3b-84a7-a00b7c4dc268",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "LISINOPRIL TABLET [EXELAN PHARMACEUTICALS INC.]",
+      "upload_date": "2020-10-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA075743"
+      ],
+      "brand_names": [
+        "Lisinopril"
+      ],
+      "combination": false,
+      "home_inn": "lisinopril",
+      "ingredients": [
+        "LISINOPRIL"
+      ],
+      "labeler": "Solco healthcare U.S., LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-08-30",
+      "moieties": [
+        "LISINOPRIL"
+      ],
+      "product_ndcs": [
+        "43547-414",
+        "43547-415",
+        "43547-416",
+        "43547-417",
+        "43547-418",
+        "43547-419"
+      ],
+      "rxcui": [
+        "197884",
+        "205326",
+        "311353",
+        "311354",
+        "314076",
+        "314077"
+      ],
+      "setid": "f8d16c85-50e2-4d99-afae-6fb902734e42",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "LISINOPRIL TABLET [SOLCO HEALTHCARE U.S., LLC]",
+      "upload_date": "2022-11-18"
+    },
+    {
+      "application_numbers": [
+        "NDA208401"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "QBRELIS"
+      ],
+      "first_posted": "2025-06-19",
+      "found_by": "QBRELIS",
+      "labeler": "Praxis, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2025-06-19",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "59368-406"
+      ],
+      "rxcui": [],
+      "setid": "37c8c0d6-98b0-c1a5-e063-6394a90a7931",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "9f6e4e57-a489-4b36-b093-b93865d3717c"
+      ],
+      "title": "QBRELIS (lisinopril) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA019777"
+      ],
+      "archived_versions": 16,
+      "brand_names": [
+        "ZESTRIL"
+      ],
+      "first_posted": "2007-05-10",
+      "found_by": "ZESTRIL",
+      "labeler": "AstraZeneca Pharmaceuticals LP",
+      "labeler_unverified": false,
+      "last_posted": "2017-01-18",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-03-31",
+        "2018-04-30",
+        "2018-05-31",
+        "2018-10-31"
+      ],
+      "product_ndcs": [
+        "0310-0130",
+        "0310-0131",
+        "0310-0132",
+        "0310-0133",
+        "0310-0134",
+        "0310-0135"
+      ],
+      "rxcui": [],
+      "setid": "46f17ba7-a78c-4a9e-7597-27654f097bd3",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "838c2d78-d2d8-4981-9ec9-e50ef9e1a5d8"
+      ],
+      "title": "ZESTRIL (lisinopril) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA019888"
+      ],
+      "archived_versions": 16,
+      "brand_names": [
+        "ZESTORETIC"
+      ],
+      "first_posted": "2007-05-10",
+      "found_by": "ZESTORETIC",
+      "labeler": "AstraZeneca Pharmaceuticals LP",
+      "labeler_unverified": false,
+      "last_posted": "2017-01-18",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-07-31",
+        "2017-12-31",
+        "2018-05-31"
+      ],
+      "product_ndcs": [
+        "0310-0141",
+        "0310-0142",
+        "0310-0145"
+      ],
+      "rxcui": [],
+      "setid": "6e453a4f-34b9-4f07-92b6-bfc28609ce22",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "0d3a966f-f937-05a8-a90f-5aa52ebbd613"
+      ],
+      "title": "ZESTORETIC (lisinopril and hydrochlorothiazide) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA019777"
+      ],
+      "archived_versions": 11,
+      "brand_names": [
+        "ZESTRIL"
+      ],
+      "first_posted": "2015-04-07",
+      "found_by": "ZESTRIL",
+      "labeler": "Almatica Pharma LLC",
+      "labeler_unverified": false,
+      "last_posted": "2024-11-22",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-06-01",
+        "2025-07-01",
+        "2025-09-30",
+        "2026-01-01"
+      ],
+      "product_ndcs": [
+        "52427-438",
+        "52427-439",
+        "52427-440",
+        "52427-441",
+        "52427-442",
+        "52427-443"
+      ],
+      "rxcui": [],
+      "setid": "a95727ae-2bf1-e675-4a36-71043a8af3b8",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "838c2d78-d2d8-4981-9ec9-e50ef9e1a5d8"
+      ],
+      "title": "ZESTRIL (lisinopril) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA019558"
+      ],
+      "archived_versions": 18,
+      "brand_names": [
+        "PRINIVIL"
+      ],
+      "first_posted": "2008-05-22",
+      "found_by": "PRINIVIL",
+      "labeler": "Merck Sharp & Dohme Corp.",
+      "labeler_unverified": false,
+      "last_posted": "2022-02-04",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-10-22"
+      ],
+      "product_ndcs": [
+        "0006-0019",
+        "0006-0106",
+        "0006-0207"
+      ],
+      "rxcui": [],
+      "setid": "f6f3c339-2c9d-4d07-14a1-6d6c7daf26c6",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "PRINIVIL (lisinopril) tablet"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8824e5e5-ed35-4a95-bfd6-98a2e7c4bbce"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "387068e7-7fb9-44f3-ae1c-e45ebc755a3e"
+    },
+    {
+      "combination": false,
+      "labeler": "Exelan Pharmaceuticals, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4aad4d30-3e18-489c-80ad-ccf7532bb933"
+    },
+    {
+      "combination": true,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ab5e9ae4-e575-4a63-99f3-2bde36bdd508"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d7214539-6c3d-466a-a474-6fde096fa182"
+    },
+    {
+      "combination": true,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "515f735c-5dba-43d9-8a58-97a319cafd56"
+    },
+    {
+      "combination": true,
+      "labeler": "Solco Healthcare LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "96922ddc-e87f-4670-b22e-0ffd0d8f66e1"
+    },
+    {
+      "combination": true,
+      "labeler": "Exelan Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c40b15ec-6083-4778-bca8-3e895e5694e1"
+    },
+    {
+      "combination": true,
+      "labeler": "GSMS, Incorporated",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d02a0d38-676a-4e0f-9aa2-0a6c56cd7361"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "34ebeea1-6812-4697-84c4-b2ae4f39e55f"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8f20acd7-2635-4a9b-b732-2a84ea93dea7"
+    },
+    {
+      "combination": false,
+      "labeler": "XLCare Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c008ecb6-970d-4ac9-9402-e21e8d9d76b2"
+    },
+    {
+      "combination": false,
+      "labeler": "Quallent Pharmaceuticals Health LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f2e09150-22f2-4028-b214-917d686200ad"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.(780779901)",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c6c55efa-36bd-4613-98ca-2eb589a31e53"
+    },
+    {
+      "combination": true,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "40e6b627-63dc-4d52-aaa8-750663ad86c2"
+    }
+  ]
+}

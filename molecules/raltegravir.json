@@ -1,0 +1,182 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand ISENTRESS",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000860",
+      "eu_number": "EU/1/07/436",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000860",
+      "mah": "Merck Sharp & Dohme B.V.",
+      "marketing_authorisation_date": "2007-12-19",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/isentress",
+      "name": "Isentress",
+      "record_from": "2007-12-20",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 30
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000860",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "RALTEGRAVIR POTASSIUM"
+  ],
+  "inn": "raltegravir",
+  "name": "RALTEGRAVIR",
+  "rank": 290,
+  "rxcui": [
+    "744842",
+    "744846",
+    "1235588",
+    "1235591",
+    "1235593",
+    "1235595",
+    "1486838",
+    "1486841",
+    "1924313",
+    "1924315"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 3,
+    "approval_holders": 3,
+    "earliest_marketing_start": "2007-10-12",
+    "latest_label_update": "2026-10-15",
+    "nda_bla_applications": 3,
+    "repackagers": 2
+  },
+  "unii": [
+    {
+      "ingredient": "RALTEGRAVIR POTASSIUM",
+      "unii": "43Y000U234"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA022145",
+        "NDA203045",
+        "NDA205786"
+      ],
+      "brand_names": [
+        "ISENTRESS"
+      ],
+      "combination": false,
+      "home_inn": "raltegravir",
+      "ingredients": [
+        "RALTEGRAVIR POTASSIUM"
+      ],
+      "labeler": "Merck Sharp & Dohme LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2007-10-12",
+      "moieties": [
+        "RALTEGRAVIR"
+      ],
+      "product_ndcs": [
+        "0006-0227",
+        "0006-0473",
+        "0006-0477",
+        "0006-3080",
+        "0006-3603"
+      ],
+      "rxcui": [
+        "744842",
+        "744846",
+        "1235588",
+        "1235591",
+        "1235593",
+        "1235595",
+        "1486838",
+        "1486841",
+        "1924313",
+        "1924315"
+      ],
+      "setid": "89a5ec53-d956-4329-8004-0f40f51c88a3",
+      "source": "dailymed-title-match",
+      "spl_version": 71,
+      "title": "ISENTRESS (RALTEGRAVIR) TABLET, FILM COATED ISENTRESS (RALTEGRAVIR) TABLET, CHEWABLE ISENTRESS (RALTEGRAVIR) GRANULE, FOR SUSPENSION [MERCK SHARP & DOHME LLC]",
+      "upload_date": "2026-10-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA203540"
+      ],
+      "brand_names": [
+        "Raltegravir"
+      ],
+      "combination": false,
+      "home_inn": "raltegravir",
+      "ingredients": [
+        "RALTEGRAVIR POTASSIUM"
+      ],
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-12-19",
+      "moieties": [
+        "RALTEGRAVIR"
+      ],
+      "product_ndcs": [
+        "31722-584"
+      ],
+      "rxcui": [
+        "744842"
+      ],
+      "setid": "090aa265-9fc8-4aea-81fe-ce052c3f38df",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "RALTEGRAVIR (RALTEGRAVIR) TABLET, FILM COATED [CAMBER PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-07-06"
+    },
+    {
+      "application_numbers": [
+        "ANDA217990"
+      ],
+      "brand_names": [
+        "Raltegravir"
+      ],
+      "combination": false,
+      "home_inn": "raltegravir",
+      "ingredients": [
+        "RALTEGRAVIR POTASSIUM"
+      ],
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-10-14",
+      "moieties": [
+        "RALTEGRAVIR"
+      ],
+      "product_ndcs": [
+        "70748-327"
+      ],
+      "rxcui": [
+        "1924313"
+      ],
+      "setid": "e9661839-bd2e-464f-a6df-6407b4a742b4",
+      "source": "dailymed-title-match",
+      "spl_version": 2,
+      "title": "RALTEGRAVIR TABLET, FILM COATED [LUPIN PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-10-15"
+    }
+  ],
+  "us_excluded": []
+}

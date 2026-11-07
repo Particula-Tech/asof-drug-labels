@@ -1,0 +1,115 @@
+{
+  "biologic": true,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand LEQEMBI",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/005966",
+      "eu_number": "EU/1/24/1891",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-005966",
+      "mah": "Eisai GmbH",
+      "marketing_authorisation_date": "2025-04-15",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/leqembi",
+      "name": "Leqembi",
+      "record_from": "2025-04-15",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 3
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-005966",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "LECANEMAB",
+    "LECANEMAB-IRMB"
+  ],
+  "inn": "lecanemab",
+  "name": "LECANEMAB",
+  "rank": 386,
+  "rxcui": [
+    "2626147",
+    "2626153",
+    "2626155",
+    "2626156",
+    "2723406",
+    "2747782"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 1,
+    "approval_holders": 1,
+    "earliest_marketing_start": "2023-01-06",
+    "latest_label_update": "2026-07-27",
+    "nda_bla_applications": 2,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "LECANEMAB",
+      "unii": "12PYH0FTU9"
+    },
+    {
+      "ingredient": "LECANEMAB-IRMB",
+      "unii": "12PYH0FTU9"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "BLA761269",
+        "BLA761375"
+      ],
+      "brand_names": [
+        "LECANEMAB AUTOINJECTOR",
+        "LEQEMBI"
+      ],
+      "combination": false,
+      "home_inn": "lecanemab",
+      "ingredients": [
+        "LECANEMAB",
+        "LECANEMAB-IRMB"
+      ],
+      "labeler": "Eisai Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2023-01-06",
+      "moieties": [
+        "LECANEMAB"
+      ],
+      "product_ndcs": [
+        "62856-212",
+        "62856-215",
+        "62856-220",
+        "62856-222"
+      ],
+      "rxcui": [
+        "2626147",
+        "2626153",
+        "2626155",
+        "2626156",
+        "2723406",
+        "2747782"
+      ],
+      "setid": "9d1ff786-e577-410a-a273-c4d7d0e4e975",
+      "source": "openfda",
+      "spl_version": 24,
+      "title": "LEQEMBI (LECANEMAB) INJECTION, SOLUTION LECANEMAB AUTOINJECTOR (LECANEMAB-IRMB) INJECTION, SOLUTION [EISAI INC.]",
+      "upload_date": "2026-07-27"
+    }
+  ],
+  "us_excluded": []
+}

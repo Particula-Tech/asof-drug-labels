@@ -1,0 +1,447 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "SUCRALFATE"
+  ],
+  "inn": "sucralfate",
+  "name": "SUCRALFATE",
+  "rank": 239,
+  "rxcui": [
+    "208094",
+    "208097",
+    "313123",
+    "314234"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 24,
+    "approval_holders": 21,
+    "earliest_marketing_start": "1981-10-30",
+    "latest_label_update": "2026-10-14",
+    "nda_bla_applications": 2,
+    "repackagers": 22
+  },
+  "unii": [
+    {
+      "ingredient": "SUCRALFATE",
+      "unii": "XX73205DH5"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA018333"
+      ],
+      "brand_names": [
+        "Carafate"
+      ],
+      "combination": false,
+      "home_inn": "sucralfate",
+      "ingredients": [
+        "SUCRALFATE"
+      ],
+      "labeler": "Allergan, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1981-10-30",
+      "moieties": [
+        "SUCRALFATE"
+      ],
+      "product_ndcs": [
+        "58914-171"
+      ],
+      "rxcui": [
+        "208097",
+        "314234"
+      ],
+      "setid": "c87c6b50-6977-4fa7-ae98-40c0753f7aee",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "CARAFATE (SUCRALFATE) TABLET [ALLERGAN, INC.]",
+      "upload_date": "2026-10-14"
+    },
+    {
+      "application_numbers": [
+        "NDA019183"
+      ],
+      "brand_names": [
+        "Carafate"
+      ],
+      "combination": false,
+      "home_inn": "sucralfate",
+      "ingredients": [
+        "SUCRALFATE"
+      ],
+      "labeler": "Allergan, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1993-12-16",
+      "moieties": [
+        "SUCRALFATE"
+      ],
+      "product_ndcs": [
+        "58914-170"
+      ],
+      "rxcui": [
+        "208094",
+        "313123"
+      ],
+      "setid": "0fb67b1c-b4c0-46f2-8a81-df1510e006aa",
+      "source": "openfda",
+      "spl_version": 20,
+      "title": "CARAFATE (SUCRALFATE) SUSPENSION [ALLERGAN, INC.]",
+      "upload_date": "2024-02-07"
+    },
+    {
+      "application_numbers": [
+        "NDA018333"
+      ],
+      "brand_names": [
+        "Sucralfate"
+      ],
+      "combination": false,
+      "home_inn": "sucralfate",
+      "ingredients": [
+        "SUCRALFATE"
+      ],
+      "labeler": "Mylan Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2017-09-25",
+      "moieties": [
+        "SUCRALFATE"
+      ],
+      "product_ndcs": [
+        "59762-0401"
+      ],
+      "rxcui": [
+        "314234"
+      ],
+      "setid": "ae58c382-c1cf-4ebf-9c97-bdff0682df8b",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "SUCRALFATE TABLET [MYLAN PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-03-05"
+    },
+    {
+      "application_numbers": [
+        "NDA019183"
+      ],
+      "brand_names": [
+        "Sucralfate"
+      ],
+      "combination": false,
+      "home_inn": "sucralfate",
+      "ingredients": [
+        "SUCRALFATE"
+      ],
+      "labeler": "Pacific Pharma, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2024-02-01",
+      "moieties": [
+        "SUCRALFATE"
+      ],
+      "product_ndcs": [
+        "82182-106"
+      ],
+      "rxcui": [
+        "313123"
+      ],
+      "setid": "7407c58e-766f-4e93-a1bb-c77892ae0174",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "SUCRALFATE SUSPENSION [PACIFIC PHARMA, INC.]",
+      "upload_date": "2025-12-31"
+    },
+    {
+      "application_numbers": [
+        "ANDA070848"
+      ],
+      "brand_names": [
+        "Sucralfate"
+      ],
+      "combination": false,
+      "home_inn": "sucralfate",
+      "ingredients": [
+        "SUCRALFATE"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1996-11-11",
+      "moieties": [
+        "SUCRALFATE"
+      ],
+      "product_ndcs": [
+        "0093-2210"
+      ],
+      "rxcui": [
+        "314234"
+      ],
+      "setid": "c7a43df7-eb37-4273-9250-87953b1fd270",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "SUCRALFATE TABLET [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2025-07-03"
+    },
+    {
+      "application_numbers": [
+        "ANDA209356"
+      ],
+      "brand_names": [
+        "Sucralfate"
+      ],
+      "combination": false,
+      "home_inn": "sucralfate",
+      "ingredients": [
+        "SUCRALFATE"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-12-02",
+      "moieties": [
+        "SUCRALFATE"
+      ],
+      "product_ndcs": [
+        "65162-062"
+      ],
+      "rxcui": [
+        "313123"
+      ],
+      "setid": "4350b771-76a9-4e00-93f0-a18c71288f83",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "SUCRALFATE (SUCRALFATE ORAL) SUSPENSION [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2024-10-31"
+    },
+    {
+      "application_numbers": [
+        "ANDA074415"
+      ],
+      "brand_names": [
+        "Sucralfate"
+      ],
+      "combination": false,
+      "home_inn": "sucralfate",
+      "ingredients": [
+        "SUCRALFATE"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-02-17",
+      "moieties": [
+        "SUCRALFATE"
+      ],
+      "product_ndcs": [
+        "62135-436"
+      ],
+      "rxcui": [
+        "314234"
+      ],
+      "setid": "30c0965a-02a0-46b5-aa09-3f5fb5047b22",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "SUCRALFATE TABLET [CHARTWELL RX, LLC]",
+      "upload_date": "2026-07-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA211884"
+      ],
+      "brand_names": [
+        "Sucralfate"
+      ],
+      "combination": false,
+      "home_inn": "sucralfate",
+      "ingredients": [
+        "SUCRALFATE"
+      ],
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-03-15",
+      "moieties": [
+        "SUCRALFATE"
+      ],
+      "product_ndcs": [
+        "0121-0974"
+      ],
+      "rxcui": [
+        "313123"
+      ],
+      "setid": "113a068a-2ce9-421c-8b89-87ce30e19225",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "SUCRALFATE SUSPENSION [PAI HOLDINGS, LLC DBA PAI PHARMA]",
+      "upload_date": "2026-03-16"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a4f722e7-2885-4f27-8358-9c662439600a"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "882b7596-f62c-4be2-8f67-e64310718baa"
+    },
+    {
+      "combination": false,
+      "labeler": "TruPharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7d441128-45d2-4bf2-817b-665784992e90"
+    },
+    {
+      "combination": false,
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8e25bff2-769e-4bd4-a6de-895c58b840d2"
+    },
+    {
+      "combination": false,
+      "labeler": "Richmond Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7ac10c3f-9d50-4702-900c-41075ac6f896"
+    },
+    {
+      "combination": false,
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3054ce94-78a2-4da4-8b14-95311b412ab2"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "37aee721-b9c7-4e6b-a1a1-e826d8541d6b"
+    },
+    {
+      "combination": false,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1e595c2a-edd0-43f7-a2db-69553b9557d9"
+    },
+    {
+      "combination": false,
+      "labeler": "AvKARE",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c019bf24-8273-8d2f-e053-2a95a90aec98"
+    },
+    {
+      "combination": false,
+      "labeler": "VistaPharm, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cbfbe146-5d42-4a55-9050-df2b5581487a"
+    },
+    {
+      "combination": false,
+      "labeler": "AvPAK",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e78ef7d4-faa7-aebf-e053-2995a90a6f84"
+    },
+    {
+      "combination": false,
+      "labeler": "Viona Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c708201b-2618-4470-a3ff-8ecf04d6b3a0"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b2e07ac7-4a8a-4b68-bb65-167d1aa86883"
+    },
+    {
+      "combination": false,
+      "labeler": "Major Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "98a8fedd-fa06-416a-8a85-b899631978f9"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell Governmental & Specialty RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d1dfbbf2-ea87-41ce-bcc4-bcba99328ed0"
+    },
+    {
+      "combination": false,
+      "labeler": "Torrent Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dc361b46-fda4-4b0b-9950-e8885ba5b084"
+    }
+  ]
+}

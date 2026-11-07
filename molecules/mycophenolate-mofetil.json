@@ -1,0 +1,715 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand CELLCEPT",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000082",
+      "eu_number": "EU/1/96/005",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000082",
+      "mah": "Roche Registration GmbH",
+      "marketing_authorisation_date": "1996-02-14",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/cellcept",
+      "name": "CellCept",
+      "record_from": "1996-02-14",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 42
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/000882",
+      "eu_number": "EU/1/07/439",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-000882",
+      "mah": "Teva Pharma B.V.",
+      "marketing_authorisation_date": "2008-02-21",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/mycophenolate-mofetil-teva",
+      "name": "Mycophenolate mofetil Teva",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/000884",
+      "eu_number": "EU/1/07/438",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-000884",
+      "mah": "Teva B.V.",
+      "marketing_authorisation_date": "2008-02-21",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/myfenax",
+      "name": "Myfenax",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/001218",
+      "eu_number": "EU/1/10/647",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-001218",
+      "mah": "Passauer Pharma GmbH",
+      "marketing_authorisation_date": "2010-10-07",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/myclausen",
+      "name": "Myclausen",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000082",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "MYCOPHENOLATE MOFETIL",
+    "MYCOPHENOLATE MOFETIL HYDROCHLORIDE"
+  ],
+  "inn": "mycophenolate-mofetil",
+  "name": "MYCOPHENOLATE MOFETIL",
+  "rank": 121,
+  "rxcui": [
+    "199058",
+    "200060",
+    "213394",
+    "311880",
+    "311881",
+    "616435",
+    "616444",
+    "616447",
+    "2684851"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 34,
+    "approval_holders": 28,
+    "earliest_marketing_start": "1995-05-03",
+    "latest_label_update": "2026-10-28",
+    "nda_bla_applications": 5,
+    "repackagers": 10
+  },
+  "unii": [
+    {
+      "ingredient": "MYCOPHENOLATE MOFETIL",
+      "unii": "9242ECW6R0"
+    }
+  ],
+  "unii_unresolved": [
+    "MYCOPHENOLATE MOFETIL HYDROCHLORIDE"
+  ],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA050722",
+        "NDA050723",
+        "NDA050758",
+        "NDA050759"
+      ],
+      "brand_names": [
+        "CellCept"
+      ],
+      "combination": false,
+      "home_inn": "mycophenolate-mofetil",
+      "ingredients": [
+        "MYCOPHENOLATE MOFETIL",
+        "MYCOPHENOLATE MOFETIL HYDROCHLORIDE"
+      ],
+      "labeler": "Genentech, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1995-05-03",
+      "moieties": [
+        "MYCOPHENOLATE MOFETIL"
+      ],
+      "product_ndcs": [
+        "0004-0259",
+        "0004-0260",
+        "0004-0261",
+        "0004-0298"
+      ],
+      "rxcui": [
+        "199058",
+        "200060",
+        "213394",
+        "311880",
+        "311881",
+        "616435",
+        "616444",
+        "616447"
+      ],
+      "setid": "37241e87-4af4-4dc3-a1aa-ea6f20d8dc40",
+      "source": "openfda",
+      "spl_version": 51,
+      "title": "CELLCEPT (MYCOPHENOLATE MOFETIL) TABLET, FILM COATED CELLCEPT (MYCOPHENOLATE MOFETIL) CAPSULE CELLCEPT (MYCOPHENOLATE MOFETIL HYDROCHLORIDE) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION CELLCEPT (MYCOPHENOLATE MOFETIL) POWDER, FOR SUSPENSION [GENENTECH, INC.]",
+      "upload_date": "2026-08-10"
+    },
+    {
+      "application_numbers": [
+        "NDA216482"
+      ],
+      "brand_names": [
+        "MYHIBBIN"
+      ],
+      "combination": false,
+      "home_inn": "mycophenolate-mofetil",
+      "ingredients": [
+        "MYCOPHENOLATE MOFETIL"
+      ],
+      "labeler": "Azurity Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-06-10",
+      "moieties": [
+        "MYCOPHENOLATE MOFETIL"
+      ],
+      "product_ndcs": [
+        "24338-018"
+      ],
+      "rxcui": [
+        "311880",
+        "2684851"
+      ],
+      "setid": "d9af72d6-7b3e-4c08-94b9-1d8b499cb7f9",
+      "source": "dailymed-title-match",
+      "spl_version": 6,
+      "title": "MYHIBBIN (MYCOPHENOLATE MOFETIL) SUSPENSION [AZURITY PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-09-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA065413"
+      ],
+      "brand_names": [
+        "Mycophenolate Mofetil"
+      ],
+      "combination": false,
+      "home_inn": "mycophenolate-mofetil",
+      "ingredients": [
+        "MYCOPHENOLATE MOFETIL"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2008-07-29",
+      "moieties": [
+        "MYCOPHENOLATE MOFETIL"
+      ],
+      "product_ndcs": [
+        "0054-0166"
+      ],
+      "rxcui": [
+        "199058",
+        "200060"
+      ],
+      "setid": "e94895d9-f040-4a75-9f04-9814238b8f3c",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "MYCOPHENOLATE MOFETIL CAPSULE MYCOPHENOLATE MOFETIL TABLET [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2026-07-06"
+    },
+    {
+      "application_numbers": [
+        "ANDA065379",
+        "ANDA065451"
+      ],
+      "brand_names": [
+        "Mycophenolate Mofetil"
+      ],
+      "combination": false,
+      "home_inn": "mycophenolate-mofetil",
+      "ingredients": [
+        "MYCOPHENOLATE MOFETIL"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2008-10-15",
+      "moieties": [
+        "MYCOPHENOLATE MOFETIL"
+      ],
+      "product_ndcs": [
+        "0781-2067",
+        "0781-5175"
+      ],
+      "rxcui": [
+        "199058",
+        "200060"
+      ],
+      "setid": "99b2eb58-8d14-48fc-bbe1-aacb711a783e",
+      "source": "openfda",
+      "spl_version": 20,
+      "title": "MYCOPHENOLATE MOFETIL CAPSULE MYCOPHENOLATE MOFETIL TABLET, FILM COATED [SANDOZ INC]",
+      "upload_date": "2025-09-03"
+    },
+    {
+      "application_numbers": [
+        "ANDA065416",
+        "ANDA090253"
+      ],
+      "brand_names": [
+        "mycophenolate mofetil"
+      ],
+      "combination": false,
+      "home_inn": "mycophenolate-mofetil",
+      "ingredients": [
+        "MYCOPHENOLATE MOFETIL"
+      ],
+      "labeler": "Accord Healthcare Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-05-04",
+      "moieties": [
+        "MYCOPHENOLATE MOFETIL"
+      ],
+      "product_ndcs": [
+        "16729-019",
+        "16729-094"
+      ],
+      "rxcui": [
+        "199058",
+        "200060"
+      ],
+      "setid": "741e079a-646b-47ec-84ac-8e12574c2aaf",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "MYCOPHENOLATE MOFETIL CAPSULE MYCOPHENOLATE MOFETIL TABLET [ACCORD HEALTHCARE INC.]",
+      "upload_date": "2026-05-01"
+    },
+    {
+      "application_numbers": [
+        "ANDA065491"
+      ],
+      "brand_names": [
+        "Mycophenolate Mofetil"
+      ],
+      "combination": false,
+      "home_inn": "mycophenolate-mofetil",
+      "ingredients": [
+        "MYCOPHENOLATE MOFETIL"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-05-06",
+      "moieties": [
+        "MYCOPHENOLATE MOFETIL"
+      ],
+      "product_ndcs": [
+        "0093-7334"
+      ],
+      "rxcui": [
+        "199058"
+      ],
+      "setid": "b414303f-e6f3-4e22-a537-96be352b59a4",
+      "source": "openfda",
+      "spl_version": 34,
+      "title": "MYCOPHENOLATE MOFETIL CAPSULE [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2026-09-08"
+    },
+    {
+      "application_numbers": [
+        "ANDA091249",
+        "ANDA200197"
+      ],
+      "brand_names": [
+        "Mycophenolate Mofetil",
+        "mycophenolate mofetil"
+      ],
+      "combination": false,
+      "home_inn": "mycophenolate-mofetil",
+      "ingredients": [
+        "MYCOPHENOLATE MOFETIL"
+      ],
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-01-01",
+      "moieties": [
+        "MYCOPHENOLATE MOFETIL"
+      ],
+      "product_ndcs": [
+        "67877-225",
+        "67877-266"
+      ],
+      "rxcui": [
+        "199058",
+        "200060"
+      ],
+      "setid": "9f84ea84-2d8b-4d91-a33f-7dfb5df937dc",
+      "source": "openfda",
+      "spl_version": 36,
+      "title": "MYCOPHENOLATE MOFETIL TABLET, FILM COATED MYCOPHENOLATE MOFETIL CAPSULE [ASCEND LABORATORIES, LLC]",
+      "upload_date": "2026-03-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA090055",
+        "ANDA090456"
+      ],
+      "brand_names": [
+        "Mycophenolate mofetil"
+      ],
+      "combination": false,
+      "home_inn": "mycophenolate-mofetil",
+      "ingredients": [
+        "MYCOPHENOLATE MOFETIL"
+      ],
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-11-06",
+      "moieties": [
+        "MYCOPHENOLATE MOFETIL"
+      ],
+      "product_ndcs": [
+        "64380-725",
+        "64380-726"
+      ],
+      "rxcui": [
+        "199058",
+        "200060"
+      ],
+      "setid": "32dd890a-cfe3-4129-bce6-1d3dbe38e4f3",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "MYCOPHENOLATE MOFETIL TABLET, FILM COATED MYCOPHENOLATE MOFETIL CAPSULE [STRIDES PHARMA SCIENCE LIMITED]",
+      "upload_date": "2026-01-28"
+    },
+    {
+      "application_numbers": [
+        "NDA216482"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "MYHIBBIN"
+      ],
+      "first_posted": "2025-06-19",
+      "found_by": "MYHIBBIN",
+      "labeler": "Praxis, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2025-06-19",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "59368-403"
+      ],
+      "rxcui": [],
+      "setid": "37c83824-e216-7eef-e063-6394a90a2844",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "d9af72d6-7b3e-4c08-94b9-1d8b499cb7f9"
+      ],
+      "title": "MYHIBBIN (mycophenolate mofetil) suspension"
+    },
+    {
+      "application_numbers": [
+        "NDA050722",
+        "NDA050723"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "CELLCEPT"
+      ],
+      "first_posted": "2010-06-03",
+      "found_by": "CELLCEPT",
+      "labeler": "F. Hoffmann-La Roche Ltd",
+      "labeler_unverified": true,
+      "last_posted": "2010-07-12",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2010-06-20"
+      ],
+      "product_ndcs": [
+        "12806-0259",
+        "12806-0260"
+      ],
+      "rxcui": [],
+      "setid": "c2930c05-01ba-49ec-bd00-cdaa8f31169d",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "37241e87-4af4-4dc3-a1aa-ea6f20d8dc40"
+      ],
+      "title": "CELLCEPT (mycophenolate mofetil) capsule CELLCEPT (mycophenolate mofetil) tablet, film coated"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "21ff53b0-b4ba-4473-91e4-76ef41681064"
+    },
+    {
+      "combination": false,
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "35ba0428-e267-49a5-99a9-c58853f7989d"
+    },
+    {
+      "combination": false,
+      "labeler": "VistaPharm, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "175d8b87-e06a-4c9e-b3de-378114b52274"
+    },
+    {
+      "combination": false,
+      "labeler": "CONCORD BIOTECH LIMITED",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "64ac00ee-298c-49cf-a91c-78019a0d014d"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9650af9b-d36f-4a2f-9647-d0f798933402"
+    },
+    {
+      "combination": false,
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "da02b428-42a4-4007-b0b7-695f2db010f2"
+    },
+    {
+      "combination": false,
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "24c0b94a-c141-44b6-a6f0-ade1669b254c"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "27fd9381-8d82-4187-897f-98f41f94e90f"
+    },
+    {
+      "combination": false,
+      "labeler": "BPI Labs LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "32001417-130d-4c08-8e63-94ba3627ce5f"
+    },
+    {
+      "combination": false,
+      "labeler": "ONESOURCE SPECIALTY PHARMA LIMITED",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "461a252f-ff81-4e08-b256-a497b14835fa"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "df3ba2e9-00bb-40af-8658-2c5fd2e398ef"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "20fa7709-a203-481f-aaf4-e98fab1acd0d"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "118e9bc8-c1a9-41d0-89e6-251f3be0b99c"
+    },
+    {
+      "combination": false,
+      "labeler": "Wuxi Fortune Pharmaceutical Co.,Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ca633c6a-1e58-4faa-8e5d-71f89cefaa01"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bbe03c1d-02ca-4d39-ace6-6f47e916d5b7"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3ac54299-15cc-4c7a-8831-60c15a859b85"
+    },
+    {
+      "combination": false,
+      "labeler": "ARMAS PHARMACEUTICALS INC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ffcc237c-f31b-77b8-e053-6294a90a603e"
+    },
+    {
+      "combination": false,
+      "labeler": "Advagen Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a15c26d8-5a27-48ba-a669-8546803d901f"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3eb584dc-f72d-4545-96fa-ab3d47be41ce"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8faf357b-99a1-440b-8eac-8545cb19a69c"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5d7f7b88-79e3-4a56-a9f3-796c28049a60"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c3ded171-89da-4644-9ee8-dbcf6258036f"
+    },
+    {
+      "combination": false,
+      "labeler": "Strides Pharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9d8c09fc-1df2-4f39-8e1a-c4b296d1a260"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "127eabe2-8386-452a-ad6b-d879e1f2c099"
+    },
+    {
+      "combination": false,
+      "labeler": "QUAGEN PHARMACEUTICALS LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "838449b3-4397-4e35-b9b9-683f5a48bff2"
+    },
+    {
+      "combination": false,
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c1c4cb31-00a7-417e-9775-24e849d62791"
+    }
+  ]
+}

@@ -1,0 +1,571 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand Revlimid",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000717",
+      "eu_number": "EU/1/07/391",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000717",
+      "mah": "Bristol-Myers Squibb Pharma EEIG",
+      "marketing_authorisation_date": "2007-06-14",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/revlimid",
+      "name": "Revlimid",
+      "record_from": "2007-06-14",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 50
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/004857",
+      "eu_number": "EU/1/18/1316",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-004857",
+      "mah": "Accord Healthcare S.L.U.",
+      "marketing_authorisation_date": "2018-09-20",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/lenalidomide-accord",
+      "name": "Lenalidomide Accord",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/005306",
+      "eu_number": "EU/1/20/1490",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-005306",
+      "mah": "Mylan Pharmaceuticals Limited",
+      "marketing_authorisation_date": "2020-12-18",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/lenalidomide-mylan",
+      "name": "Lenalidomide Mylan",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/005348",
+      "eu_number": "EU/1/20/1519",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-005348",
+      "mah": "Krka, d.d., Novo mesto ",
+      "marketing_authorisation_date": "2021-02-11",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/lenalidomide-krka",
+      "name": "Lenalidomide Krka (previously Lenalidomide Krka d.d. Novo mesto)",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/005734",
+      "eu_number": "EU/1/20/1520",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-005734",
+      "mah": "Krka, d.d., Novo mesto ",
+      "marketing_authorisation_date": "2021-02-11",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/lenalidomide-krka-dd-novo-mesto",
+      "name": "Lenalidomide Krka d.d. Novo mesto (previously Lenalidomide Krka)",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000717",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "LENALIDOMIDE"
+  ],
+  "inn": "lenalidomide",
+  "name": "LENALIDOMIDE",
+  "rank": 289,
+  "rxcui": [
+    "602910",
+    "602912",
+    "616114",
+    "616116",
+    "643712",
+    "643714",
+    "643720",
+    "643722",
+    "1242231",
+    "1242233",
+    "1428947",
+    "1429367"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 21,
+    "approval_holders": 19,
+    "earliest_marketing_start": "2005-12-27",
+    "latest_label_update": "2026-10-28",
+    "nda_bla_applications": 1,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "LENALIDOMIDE",
+      "unii": "F0P408N6V4"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021880"
+      ],
+      "brand_names": [
+        "Revlimid"
+      ],
+      "combination": false,
+      "home_inn": "lenalidomide",
+      "ingredients": [
+        "LENALIDOMIDE"
+      ],
+      "labeler": "Celgene Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2005-12-27",
+      "moieties": [
+        "LENALIDOMIDE"
+      ],
+      "product_ndcs": [
+        "59572-402",
+        "59572-405",
+        "59572-410",
+        "59572-415",
+        "59572-420",
+        "59572-425"
+      ],
+      "rxcui": [
+        "602910",
+        "602912",
+        "616114",
+        "616116",
+        "643712",
+        "643714",
+        "643720",
+        "643722",
+        "1242231",
+        "1242233",
+        "1428947",
+        "1429367"
+      ],
+      "setid": "5fa97bf5-28a2-48f1-8955-f56012d296be",
+      "source": "openfda",
+      "spl_version": 41,
+      "title": "REVLIMID (LENALIDOMIDE) CAPSULE [CELGENE CORPORATION]",
+      "upload_date": "2026-08-06"
+    },
+    {
+      "application_numbers": [
+        "ANDA201452"
+      ],
+      "brand_names": [
+        "Lenalidomide"
+      ],
+      "combination": false,
+      "home_inn": "lenalidomide",
+      "ingredients": [
+        "LENALIDOMIDE"
+      ],
+      "labeler": "Teva Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-03-03",
+      "moieties": [
+        "LENALIDOMIDE"
+      ],
+      "product_ndcs": [
+        "0480-1241",
+        "0480-1242",
+        "0480-1243",
+        "0480-1244",
+        "0480-1245",
+        "0480-1246"
+      ],
+      "rxcui": [
+        "602910",
+        "602912",
+        "643712",
+        "643720",
+        "1242231",
+        "1428947"
+      ],
+      "setid": "1b2716cf-24b4-4157-a218-58ede63917bd",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "LENALIDOMIDE CAPSULE [TEVA PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-06-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA210480"
+      ],
+      "brand_names": [
+        "LENALIDOMIDE"
+      ],
+      "combination": false,
+      "home_inn": "lenalidomide",
+      "ingredients": [
+        "LENALIDOMIDE"
+      ],
+      "labeler": "Alvogen, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-09-03",
+      "moieties": [
+        "LENALIDOMIDE"
+      ],
+      "product_ndcs": [
+        "47781-483",
+        "47781-484",
+        "47781-485",
+        "47781-486",
+        "47781-487",
+        "47781-488"
+      ],
+      "rxcui": [],
+      "setid": "adee5af1-c9ab-c0c7-e400-dea7d2a0d4be",
+      "source": "dailymed-title-match",
+      "spl_version": 5,
+      "title": "LENALIDOMIDE CAPSULE [ALVOGEN, INC.]",
+      "upload_date": "2026-10-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA210435"
+      ],
+      "brand_names": [
+        "lenalidomide"
+      ],
+      "combination": false,
+      "home_inn": "lenalidomide",
+      "ingredients": [
+        "LENALIDOMIDE"
+      ],
+      "labeler": "EXELAN PHARMACEUTICALS INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-09-06",
+      "moieties": [
+        "LENALIDOMIDE"
+      ],
+      "product_ndcs": [
+        "76282-697",
+        "76282-698",
+        "76282-699",
+        "76282-700",
+        "76282-701"
+      ],
+      "rxcui": [
+        "602910",
+        "602912",
+        "643712",
+        "643720",
+        "1428947"
+      ],
+      "setid": "682e8a86-9f49-45db-a2ea-403ee1dc62d2",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "LENALIDOMIDE CAPSULE [EXELAN PHARMACEUTICALS INC.]",
+      "upload_date": "2024-06-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA213912"
+      ],
+      "brand_names": [
+        "Lenalidomide"
+      ],
+      "combination": false,
+      "home_inn": "lenalidomide",
+      "ingredients": [
+        "LENALIDOMIDE"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-09-06",
+      "moieties": [
+        "LENALIDOMIDE"
+      ],
+      "product_ndcs": [
+        "0378-1935",
+        "0378-1936",
+        "0378-1937",
+        "0378-1940",
+        "0378-1941",
+        "0378-1942"
+      ],
+      "rxcui": [
+        "602910",
+        "602912",
+        "643712",
+        "643720",
+        "1242231",
+        "1428947"
+      ],
+      "setid": "76f6c1e7-985b-43d9-892c-849df50ae80e",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "LENALIDOMIDE CAPSULE [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2026-03-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA211022"
+      ],
+      "brand_names": [
+        "Lenalidomide"
+      ],
+      "combination": false,
+      "home_inn": "lenalidomide",
+      "ingredients": [
+        "LENALIDOMIDE"
+      ],
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-09-06",
+      "moieties": [
+        "LENALIDOMIDE"
+      ],
+      "product_ndcs": [
+        "60505-4532",
+        "60505-4533",
+        "60505-4534",
+        "60505-4535",
+        "60505-4536",
+        "60505-4537"
+      ],
+      "rxcui": [
+        "602910",
+        "602912",
+        "643712",
+        "643720",
+        "1242231",
+        "1428947"
+      ],
+      "setid": "9943e098-20b0-dbb3-af12-7816eedd3f70",
+      "source": "dailymed-title-match",
+      "spl_version": 7,
+      "title": "LENALIDOMIDE CAPSULE [APOTEX CORP.]",
+      "upload_date": "2026-09-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA209348"
+      ],
+      "brand_names": [
+        "Lenalidomide"
+      ],
+      "combination": false,
+      "home_inn": "lenalidomide",
+      "ingredients": [
+        "LENALIDOMIDE"
+      ],
+      "labeler": "Dr. Reddy's Laboratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-09-07",
+      "moieties": [
+        "LENALIDOMIDE"
+      ],
+      "product_ndcs": [
+        "43598-511",
+        "43598-512",
+        "43598-513",
+        "43598-514",
+        "43598-515",
+        "43598-516"
+      ],
+      "rxcui": [
+        "602910",
+        "602912",
+        "643712",
+        "643720",
+        "1242231",
+        "1428947"
+      ],
+      "setid": "ca8cc2cc-c856-e676-4f60-1e46d7b53d73",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "LENALIDOMIDE CAPSULE [DR. REDDY'S LABORATORIES INC.]",
+      "upload_date": "2023-09-04"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c98fb504-76d0-4c25-9c0b-412885828a7a"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "84d9dec7-9250-4dbd-9a0d-23e75f111892"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "51bfdd53-8fd9-4f86-bebe-75de29e6379d"
+    },
+    {
+      "combination": false,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "96df285d-dd13-4083-b2c6-e5c799e7587b"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f27092f3-3977-4f4a-b214-45309e136e46"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "da7b5dda-79ed-4c4a-88aa-52394fdc7c54"
+    },
+    {
+      "combination": false,
+      "labeler": "BIOCON PHARMA INC.,",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ed7a3099-ce31-4865-b212-358d9ff6261b"
+    },
+    {
+      "combination": false,
+      "labeler": "Devatis Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9959cd7e-12b6-4b59-8205-d5f6e7e7d09b"
+    },
+    {
+      "combination": false,
+      "labeler": "Padagis US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dffe719b-4f61-47e2-b71c-673322d487f5"
+    },
+    {
+      "combination": false,
+      "labeler": "Accord Healthcare Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9c414531-a3bf-455a-aca7-9e716f42099a"
+    },
+    {
+      "combination": false,
+      "labeler": "Novugen Pharma (USA) LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2166bbdf-eb12-4564-b9e4-b63ca21312bc"
+    },
+    {
+      "combination": false,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ba2a07fd-ca60-40bc-b79b-9caf81900fa3"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fd23328f-b019-4c14-80d9-4ebd997f26b2"
+    },
+    {
+      "combination": false,
+      "labeler": "EXELAN PHARMACEUTICALS INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "85f5db5d-8f76-46f6-b975-6acda8c4b2c8"
+    }
+  ]
+}

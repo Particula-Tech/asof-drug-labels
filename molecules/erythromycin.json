@@ -1,0 +1,1077 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "ERYTHROMYCIN",
+    "ERYTHROMYCIN ETHYLSUCCINATE",
+    "ERYTHROMYCIN LACTOBIONATE"
+  ],
+  "inn": "erythromycin",
+  "name": "ERYTHROMYCIN",
+  "rank": 129,
+  "rxcui": [
+    "197650",
+    "206075",
+    "206078",
+    "206080",
+    "310149",
+    "310152",
+    "310154",
+    "310155",
+    "310157",
+    "315090",
+    "598006",
+    "686400",
+    "686402",
+    "686405",
+    "686418",
+    "686420",
+    "797452",
+    "798133",
+    "863603",
+    "863606",
+    "1668264",
+    "1668267"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 42,
+    "approval_holders": 28,
+    "earliest_marketing_start": "1994-07-29",
+    "latest_label_update": "2026-09-02",
+    "nda_bla_applications": 2,
+    "repackagers": 14
+  },
+  "unii": [
+    {
+      "ingredient": "ERYTHROMYCIN",
+      "unii": "63937KV33D"
+    },
+    {
+      "ingredient": "ERYTHROMYCIN ETHYLSUCCINATE",
+      "unii": "1014KSJ86F"
+    },
+    {
+      "ingredient": "ERYTHROMYCIN LACTOBIONATE",
+      "unii": "33H58I7GLQ"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA050609"
+      ],
+      "brand_names": [
+        "Erythrocin Lactobionate"
+      ],
+      "combination": false,
+      "home_inn": "erythromycin",
+      "ingredients": [
+        "ERYTHROMYCIN LACTOBIONATE"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2005-05-25",
+      "moieties": [
+        "ERYTHROMYCIN"
+      ],
+      "product_ndcs": [
+        "0409-6482"
+      ],
+      "rxcui": [
+        "1668264",
+        "1668267"
+      ],
+      "setid": "a96c405f-bd70-4bb4-719e-ac6a79dcc213",
+      "source": "openfda",
+      "spl_version": 25,
+      "title": "ERYTHROCIN LACTOBIONATE (ERYTHROMYCIN LACTOBIONATE) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA061905",
+        "NDA050207"
+      ],
+      "brand_names": [
+        "E.E.S",
+        "E.E.S 400"
+      ],
+      "combination": false,
+      "home_inn": "erythromycin",
+      "ingredients": [
+        "ERYTHROMYCIN ETHYLSUCCINATE"
+      ],
+      "labeler": "Azurity Pharmaceuticals, Inc. (formerly Arbor Pharmaceuticals)",
+      "marketing_categories": [
+        "ANDA",
+        "NDA"
+      ],
+      "marketing_start": "2011-04-18",
+      "moieties": [
+        "ERYTHROMYCIN"
+      ],
+      "product_ndcs": [
+        "24338-100",
+        "24338-134",
+        "24338-136"
+      ],
+      "rxcui": [
+        "686400",
+        "686405",
+        "863603",
+        "863606"
+      ],
+      "setid": "b455bbdb-a3f1-470f-aa5f-ed83ac2e228d",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "E.E.S 400 (ERYTHROMYCIN ETHYLSUCCINATE) TABLET E.E.S (ERYTHROMYCIN ETHYLSUCCINATE) GRANULE, FOR SUSPENSION [AZURITY PHARMACEUTICALS, INC. (FORMERLY ARBOR PHARMACEUTICALS)]",
+      "upload_date": "2023-12-18"
+    },
+    {
+      "application_numbers": [
+        "NDA050207"
+      ],
+      "brand_names": [
+        "Ery-Ped"
+      ],
+      "combination": false,
+      "home_inn": "erythromycin",
+      "ingredients": [
+        "ERYTHROMYCIN ETHYLSUCCINATE"
+      ],
+      "labeler": "Azurity Pharmaceuticals, Inc. (formerly Arbor Pharmaceuticals)",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2011-07-05",
+      "moieties": [
+        "ERYTHROMYCIN"
+      ],
+      "product_ndcs": [
+        "24338-130",
+        "24338-132"
+      ],
+      "rxcui": [
+        "686400",
+        "686402",
+        "686418",
+        "686420"
+      ],
+      "setid": "04775721-ab87-4b66-808c-d67a21032385",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "ERY-PED (ERYTHROMYCIN ETHYLSUCCINATE) SUSPENSION [AZURITY PHARMACEUTICALS, INC. (FORMERLY ARBOR PHARMACEUTICALS)]",
+      "upload_date": "2023-12-18"
+    },
+    {
+      "application_numbers": [
+        "NDA050207"
+      ],
+      "brand_names": [
+        "Erythromycin Ethylsuccinate"
+      ],
+      "combination": false,
+      "home_inn": "erythromycin",
+      "ingredients": [
+        "ERYTHROMYCIN ETHYLSUCCINATE"
+      ],
+      "labeler": "Wilshire Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2016-09-28",
+      "moieties": [
+        "ERYTHROMYCIN"
+      ],
+      "product_ndcs": [
+        "52536-134",
+        "52536-136"
+      ],
+      "rxcui": [
+        "686400"
+      ],
+      "setid": "f4a3fffd-ce02-450f-bbcc-d425374e3e32",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "ERYTHROMYCIN ETHYLSUCCINATE GRANULE, FOR SUSPENSION [WILSHIRE PHARMACEUTICALS INC.]",
+      "upload_date": "2019-01-31"
+    },
+    {
+      "application_numbers": [
+        "NDA050207"
+      ],
+      "brand_names": [
+        "ERYTHROMYCIN ETHYLSUCCINATE"
+      ],
+      "combination": false,
+      "home_inn": "erythromycin",
+      "ingredients": [
+        "ERYTHROMYCIN ETHYLSUCCINATE"
+      ],
+      "labeler": "Wilshire Pharmaceuticals",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2019-03-25",
+      "moieties": [
+        "ERYTHROMYCIN"
+      ],
+      "product_ndcs": [
+        "52536-130",
+        "52536-132"
+      ],
+      "rxcui": [
+        "686400",
+        "686418"
+      ],
+      "setid": "86d6353c-2b58-4219-b31d-fb5b97789094",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "ERYTHROMYCIN ETHYLSUCCINATE SUSPENSION [WILSHIRE PHARMACEUTICALS]",
+      "upload_date": "2020-09-25"
+    },
+    {
+      "application_numbers": [
+        "NDA050536"
+      ],
+      "brand_names": [
+        "erythromycin"
+      ],
+      "combination": false,
+      "home_inn": "erythromycin",
+      "ingredients": [
+        "ERYTHROMYCIN"
+      ],
+      "labeler": "Dr. Reddy's Labratories Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2024-09-01",
+      "moieties": [
+        "ERYTHROMYCIN"
+      ],
+      "product_ndcs": [
+        "75907-076"
+      ],
+      "rxcui": [
+        "310154"
+      ],
+      "setid": "a2dcb48a-212c-1b0c-ec35-ee2ade85847f",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "ERYTHROMYCIN CAPSULE, DELAYED RELEASE PELLETS [DR. REDDY'S LABRATORIES INC.]",
+      "upload_date": "2025-09-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA064067"
+      ],
+      "brand_names": [
+        "Erythromycin"
+      ],
+      "combination": false,
+      "home_inn": "erythromycin",
+      "ingredients": [
+        "ERYTHROMYCIN"
+      ],
+      "labeler": "Bausch & Lomb Incorporated",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1994-07-29",
+      "moieties": [
+        "ERYTHROMYCIN"
+      ],
+      "product_ndcs": [
+        "24208-910"
+      ],
+      "rxcui": [
+        "310149"
+      ],
+      "setid": "061ddd20-94a6-4e3c-ba84-1ebd8529eea6",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "ERYTHROMYCIN OINTMENT [BAUSCH & LOMB INCORPORATED]",
+      "upload_date": "2026-09-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA063211"
+      ],
+      "brand_names": [
+        "Erythromycin"
+      ],
+      "combination": false,
+      "home_inn": "erythromycin",
+      "ingredients": [
+        "ERYTHROMYCIN"
+      ],
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2008-06-12",
+      "moieties": [
+        "ERYTHROMYCIN"
+      ],
+      "product_ndcs": [
+        "45802-966"
+      ],
+      "rxcui": [
+        "310152"
+      ],
+      "setid": "dd64459e-c88f-4ca8-b63b-fb96377a3921",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "ERYTHROMYCIN GEL [PADAGIS ISRAEL PHARMACEUTICALS LTD]",
+      "upload_date": "2024-01-31"
+    },
+    {
+      "application_numbers": [
+        "ANDA064126"
+      ],
+      "brand_names": [
+        "Ery"
+      ],
+      "combination": false,
+      "home_inn": "erythromycin",
+      "ingredients": [
+        "ERYTHROMYCIN"
+      ],
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2008-07-07",
+      "moieties": [
+        "ERYTHROMYCIN"
+      ],
+      "product_ndcs": [
+        "45802-962"
+      ],
+      "rxcui": [
+        "797452",
+        "798133"
+      ],
+      "setid": "9a63da11-01be-4c63-a260-e6bdbb4a7a69",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "ERY (ERYTHROMYCIN) SWAB [PADAGIS ISRAEL PHARMACEUTICALS LTD]",
+      "upload_date": "2026-07-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA062298"
+      ],
+      "brand_names": [
+        "ERY-TAB"
+      ],
+      "combination": false,
+      "home_inn": "erythromycin",
+      "ingredients": [
+        "ERYTHROMYCIN"
+      ],
+      "labeler": "Arbor Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-04-18",
+      "moieties": [
+        "ERYTHROMYCIN"
+      ],
+      "product_ndcs": [
+        "24338-122",
+        "24338-124",
+        "24338-126"
+      ],
+      "rxcui": [
+        "206075",
+        "206078",
+        "206080",
+        "310155",
+        "310157",
+        "315090"
+      ],
+      "setid": "fda44eb6-7901-4b80-ba0b-216f6cacf3fd",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "ERY-TAB (ERYTHROMYCIN) TABLET, DELAYED RELEASE [ARBOR PHARMACEUTICALS, INC.]",
+      "upload_date": "2018-12-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA061621"
+      ],
+      "brand_names": [
+        "Erythromycin"
+      ],
+      "combination": false,
+      "home_inn": "erythromycin",
+      "ingredients": [
+        "ERYTHROMYCIN"
+      ],
+      "labeler": "Arbor Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-09-06",
+      "moieties": [
+        "ERYTHROMYCIN"
+      ],
+      "product_ndcs": [
+        "24338-102",
+        "24338-104"
+      ],
+      "rxcui": [
+        "197650",
+        "598006"
+      ],
+      "setid": "ca1326d6-c5c6-4572-96b6-e56cd944799c",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "ERYTHROMYCIN TABLET, FILM COATED [ARBOR PHARMACEUTICALS, INC.]",
+      "upload_date": "2018-12-10"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "ERYPED"
+      ],
+      "first_posted": "2006-07-31",
+      "found_by": "ERYPED",
+      "labeler": "Abbott Laboratories",
+      "labeler_unverified": false,
+      "last_posted": "2006-07-31",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0074-6302",
+        "0074-6303",
+        "0074-6305",
+        "0074-6314"
+      ],
+      "rxcui": [],
+      "setid": "03c342ed-7bd4-4485-bda4-8a42f236f8a0",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "eryped (ERYTHROMYCIN ETHYLSUCCINATE) suspension eryped (ERYTHROMYCIN ETHYLSUCCINATE) wafer"
+    },
+    {
+      "application_numbers": [
+        "NDA050617"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "ERYGEL"
+      ],
+      "first_posted": "2016-03-07",
+      "found_by": "ERYGEL",
+      "labeler": "Prestium Pharma, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2019-04-15",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2020-06-30"
+      ],
+      "product_ndcs": [
+        "40076-415"
+      ],
+      "rxcui": [],
+      "setid": "07fabf03-f124-4eee-afad-2d1dfcabbff8",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ERYGEL (erythromycin) gel"
+    },
+    {
+      "application_numbers": [
+        "NDA050611"
+      ],
+      "archived_versions": 9,
+      "brand_names": [
+        "PCE"
+      ],
+      "first_posted": "2012-01-04",
+      "found_by": "PCE",
+      "labeler": "Arbor Pharmaceuticals, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2018-12-17",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-05-19"
+      ],
+      "product_ndcs": [
+        "24338-112",
+        "24338-114"
+      ],
+      "rxcui": [],
+      "setid": "28a270f4-f713-4d88-b83a-f5b5e9b26746",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "PCE (erythromycin ethylsuccinate) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA050526"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "STATICIN"
+      ],
+      "first_posted": "2006-09-01",
+      "found_by": "STATICIN",
+      "labeler": "Bristol-Myers Squibb Pharma Company",
+      "labeler_unverified": true,
+      "last_posted": "2013-09-27",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2012-10-15"
+      ],
+      "product_ndcs": [
+        "0072-8000"
+      ],
+      "rxcui": [],
+      "setid": "2ad5cf71-bf84-478d-9c9c-5577bcb58ebc",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "STATICIN (erythromycin) solution"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "PCE"
+      ],
+      "first_posted": "2006-08-29",
+      "found_by": "PCE",
+      "labeler": "Abbott Labroatories",
+      "labeler_unverified": false,
+      "last_posted": "2006-08-29",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0074-3389",
+        "0074-6290"
+      ],
+      "rxcui": [],
+      "setid": "2d988105-adbd-45b2-c98f-460efdaed04b",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "pce (erythromycin) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA050207"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "E E S"
+      ],
+      "first_posted": "2007-12-10",
+      "found_by": "E.E.S",
+      "labeler": "AbbVie Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2013-08-15",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-09-01"
+      ],
+      "product_ndcs": [
+        "0074-6369"
+      ],
+      "rxcui": [],
+      "setid": "3e53be82-0c32-4f3f-46aa-e6dc15e09e30",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "04775721-ab87-4b66-808c-d67a21032385",
+        "86d6353c-2b58-4219-b31d-fb5b97789094",
+        "b455bbdb-a3f1-470f-aa5f-ed83ac2e228d",
+        "f4a3fffd-ce02-450f-bbcc-d425374e3e32"
+      ],
+      "title": "E.E.S. (erythromycin ethylsuccinate) granule, for suspension"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "ERYC"
+      ],
+      "first_posted": "2007-05-10",
+      "found_by": "ERYC",
+      "labeler": "",
+      "labeler_unverified": true,
+      "last_posted": "2007-05-10",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "50546-300"
+      ],
+      "rxcui": [],
+      "setid": "41d549e0-23ae-4d86-b92c-2acbdeeaca66",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "eryc (Erythromycin) capsule, delayed release pellets"
+    },
+    {
+      "application_numbers": [
+        "NDA050207"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "ERYPED"
+      ],
+      "first_posted": "2007-05-31",
+      "found_by": "ERYPED",
+      "labeler": "AbbVie Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2013-08-15",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-11-01"
+      ],
+      "product_ndcs": [
+        "0074-6302"
+      ],
+      "rxcui": [],
+      "setid": "63ab97a3-5f44-4881-f38b-960b4f474790",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "04775721-ab87-4b66-808c-d67a21032385",
+        "86d6353c-2b58-4219-b31d-fb5b97789094",
+        "b455bbdb-a3f1-470f-aa5f-ed83ac2e228d",
+        "f4a3fffd-ce02-450f-bbcc-d425374e3e32"
+      ],
+      "title": "ERYPED 200 (erythromycin ethylsuccinate) suspension"
+    },
+    {
+      "application_numbers": [
+        "NDA050584"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "AKNE MYCIN"
+      ],
+      "first_posted": "2010-07-09",
+      "found_by": "AKNE-MYCIN",
+      "labeler": "CORIA LABORATORIES",
+      "labeler_unverified": false,
+      "last_posted": "2014-11-18",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-06-30"
+      ],
+      "product_ndcs": [
+        "13548-030"
+      ],
+      "rxcui": [],
+      "setid": "720512c7-9ea4-40c8-b119-b39a3f9a448b",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "AKNE-MYCIN (erythromycin) ointment"
+    },
+    {
+      "application_numbers": [
+        "NDA050611"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "PCE"
+      ],
+      "first_posted": "2007-06-25",
+      "found_by": "PCE",
+      "labeler": "Abbott Laboratories",
+      "labeler_unverified": false,
+      "last_posted": "2012-05-30",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2012-08-01",
+        "2012-10-01"
+      ],
+      "product_ndcs": [
+        "0074-3389",
+        "0074-6290"
+      ],
+      "rxcui": [],
+      "setid": "dc8ceafe-9597-4de6-968d-43c87a261162",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "PCE (erythromycin ethylsuccinate) tablet PCE (erythromycin base) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA050617"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "ERYGEL"
+      ],
+      "first_posted": "2006-08-29",
+      "found_by": "ERYGEL",
+      "labeler": "Merz Pharmaceuticals, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2010-01-08",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2009-04-01"
+      ],
+      "product_ndcs": [
+        "0259-4312"
+      ],
+      "rxcui": [],
+      "setid": "eb92ccf3-cef2-47c9-8e59-133aa9698c13",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ERYGEL (erythromycin) gel"
+    },
+    {
+      "application_numbers": [
+        "NDA050617"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "ERYGEL"
+      ],
+      "first_posted": "2019-03-08",
+      "found_by": "ERYGEL",
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2025-02-14",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-09-30"
+      ],
+      "product_ndcs": [
+        "0378-8075"
+      ],
+      "rxcui": [],
+      "setid": "f1c6885e-4136-4542-a8a2-7fa8fcd77a03",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ERYGEL (erythromycin) gel"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Azurity Pharmaceuticals, Inc. (formerly Arbor Pharmaceuticals)",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "23a0564e-dca9-41bc-b2c7-0461169f65f9"
+    },
+    {
+      "combination": false,
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "40edf1bd-42bb-4662-aff6-01fcc133c05d"
+    },
+    {
+      "combination": false,
+      "labeler": "Arbor Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ddd9ad9a-fc60-409a-a2b3-be51482ef751"
+    },
+    {
+      "combination": false,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3de1e0b9-473b-44c0-a644-5fa14ad69a83"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bb641ed4-8093-4e15-9cb9-8921b1093d50"
+    },
+    {
+      "combination": false,
+      "labeler": "Orange Pharmaceuticals USA LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "379ed8f7-b54f-495f-932e-cd0e4c691134"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "596fa019-b0eb-4e57-93ff-195a765a2e91"
+    },
+    {
+      "combination": false,
+      "labeler": "Torrent Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "933049f6-61b9-4ed5-b6b7-60c5037e2115"
+    },
+    {
+      "combination": false,
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "75a0bd5a-d09f-483b-bfd8-f8343b149eb2"
+    },
+    {
+      "combination": false,
+      "labeler": "Torrent Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "66b0d891-8756-43d1-b046-6dba787dd96f"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3b415e31-e5d4-4990-8021-78459af73372"
+    },
+    {
+      "combination": false,
+      "labeler": "Kanchan Healthcare Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a7f7faaf-dc05-4d51-86c6-bf5d61562e48"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0277341c-8513-4317-9334-c242f97630c1"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "383f9011-a3e0-4d7d-b058-5f8ab319dc8c"
+    },
+    {
+      "combination": false,
+      "labeler": "ARMAS PHARMACEUTICALS INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "07fdeac5-f690-d74b-e063-6394a90a5c5b"
+    },
+    {
+      "combination": false,
+      "labeler": "Saptalis Pharmaceuticals, LLC LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "21b64a3f-2c95-1c1a-e063-6294a90a0ea0"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c6f9565b-6d9d-40e3-87f8-9f38ede9173a"
+    },
+    {
+      "combination": true,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d449d7e2-5c25-406d-87ab-30809d292476"
+    },
+    {
+      "combination": false,
+      "labeler": "Wilshire Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f2efbc94-64f7-4130-ab23-e5983854f730"
+    },
+    {
+      "combination": false,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3d80f96e-3bbe-4fa5-89a8-694c61dd5e8f"
+    },
+    {
+      "combination": false,
+      "labeler": "Wilshire Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e9b5abbb-2952-44ce-8cbb-415d9be23df4"
+    },
+    {
+      "combination": false,
+      "labeler": "Modavar Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bc3d091b-1fc8-4f7a-a3c2-8ede87f5faa0"
+    },
+    {
+      "combination": false,
+      "labeler": "Cadila Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fae8fc38-3c60-43b8-a0f9-2c50df332505"
+    },
+    {
+      "combination": false,
+      "labeler": "Cadila Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "db70798e-5e07-41d6-afe9-82c272bc5cc0"
+    },
+    {
+      "combination": false,
+      "labeler": "Nivagen Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "46f74c4f-10fc-44cf-aec4-d113f49149bc"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "76608fdd-1248-4942-9518-fd8076244fa7"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "904b9ab6-9a2a-47f3-8a38-04920ce696e0"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "581d7430-1a80-42a6-befb-4c3ae8140392"
+    },
+    {
+      "combination": false,
+      "labeler": "Sentiss Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4da0e351-383f-55da-e063-6394a90a8eba"
+    },
+    {
+      "combination": false,
+      "labeler": "Armas Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ca65a48f-5fe6-4b31-8359-51dbc31f6d4e"
+    },
+    {
+      "combination": false,
+      "labeler": "Piramal Critical Care Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ee345752-0f0c-c69b-e053-2995a90a7dac"
+    }
+  ]
+}

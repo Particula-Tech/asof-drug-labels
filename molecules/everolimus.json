@@ -1,0 +1,559 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand Afinitor",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/001038",
+      "eu_number": "EU/1/09/538",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-001038",
+      "mah": "Novartis Europharm Limited",
+      "marketing_authorisation_date": "2009-08-02",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/afinitor",
+      "name": "Afinitor",
+      "record_from": "2009-08-03",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 22
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/002311",
+      "eu_number": "EU/1/11/710",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-002311",
+      "mah": "Novartis Europharm Limited",
+      "marketing_authorisation_date": "2011-09-02",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/votubia",
+      "name": "Votubia",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-001038",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "EVEROLIMUS"
+  ],
+  "inn": "everolimus",
+  "name": "EVEROLIMUS",
+  "rank": 320,
+  "rxcui": [
+    "845507",
+    "845512",
+    "845515",
+    "845518",
+    "977427",
+    "977431",
+    "977434",
+    "977436",
+    "977438",
+    "977440",
+    "998189",
+    "998191",
+    "1119400",
+    "1119402",
+    "1308428",
+    "1308430",
+    "1308432",
+    "1310138",
+    "1310144",
+    "1310147",
+    "2056895",
+    "2056897",
+    "2685202",
+    "2685204",
+    "2685206",
+    "2685208"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 21,
+    "approval_holders": 15,
+    "earliest_marketing_start": "2009-03-31",
+    "latest_label_update": "2026-10-19",
+    "nda_bla_applications": 3,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "EVEROLIMUS",
+      "unii": "9HW64Q8G6G"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA022334",
+        "NDA203985"
+      ],
+      "brand_names": [
+        "Afinitor",
+        "Afinitor Disperz"
+      ],
+      "combination": false,
+      "home_inn": "everolimus",
+      "ingredients": [
+        "EVEROLIMUS"
+      ],
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2009-03-31",
+      "moieties": [
+        "EVEROLIMUS"
+      ],
+      "product_ndcs": [
+        "0078-0566",
+        "0078-0567",
+        "0078-0594",
+        "0078-0620",
+        "0078-0626",
+        "0078-0627",
+        "0078-0628"
+      ],
+      "rxcui": [
+        "845507",
+        "845512",
+        "845515",
+        "845518",
+        "998189",
+        "998191",
+        "1119400",
+        "1119402",
+        "1308428",
+        "1308430",
+        "1308432",
+        "1310138",
+        "1310144",
+        "1310147"
+      ],
+      "setid": "2150f73a-179b-4afc-b8ce-67c85cc72f04",
+      "source": "openfda",
+      "spl_version": 67,
+      "title": "AFINITOR (EVEROLIMUS) TABLET AFINITOR DISPERZ (EVEROLIMUS) TABLET, FOR SUSPENSION [NOVARTIS PHARMACEUTICALS CORPORATION]",
+      "upload_date": "2026-06-11"
+    },
+    {
+      "application_numbers": [
+        "NDA021560"
+      ],
+      "brand_names": [
+        "Zortress"
+      ],
+      "combination": false,
+      "home_inn": "everolimus",
+      "ingredients": [
+        "EVEROLIMUS"
+      ],
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2010-04-22",
+      "moieties": [
+        "EVEROLIMUS"
+      ],
+      "product_ndcs": [
+        "0078-0414",
+        "0078-0415",
+        "0078-0417",
+        "0078-0422"
+      ],
+      "rxcui": [
+        "977427",
+        "977431",
+        "977434",
+        "977436",
+        "977438",
+        "977440",
+        "2056895",
+        "2056897"
+      ],
+      "setid": "e082a024-7850-400b-a5c2-2a140612562a",
+      "source": "dailymed-title-match",
+      "spl_version": 30,
+      "title": "ZORTRESS (EVEROLIMUS) TABLET [NOVARTIS PHARMACEUTICALS CORPORATION]",
+      "upload_date": "2026-09-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA206133"
+      ],
+      "brand_names": [
+        "Everolimus"
+      ],
+      "combination": false,
+      "home_inn": "everolimus",
+      "ingredients": [
+        "EVEROLIMUS"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-03-10",
+      "moieties": [
+        "EVEROLIMUS"
+      ],
+      "product_ndcs": [
+        "0054-0470",
+        "0054-0471",
+        "0054-0472",
+        "0054-0604"
+      ],
+      "rxcui": [
+        "977427",
+        "977434",
+        "977438",
+        "2056895"
+      ],
+      "setid": "cf2dd54b-7a1d-4401-9a01-75e68235e433",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "EVEROLIMUS TABLET [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2025-04-16"
+    },
+    {
+      "application_numbers": [
+        "ANDA207486"
+      ],
+      "brand_names": [
+        "Everolimus"
+      ],
+      "combination": false,
+      "home_inn": "everolimus",
+      "ingredients": [
+        "EVEROLIMUS"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-06-08",
+      "moieties": [
+        "EVEROLIMUS"
+      ],
+      "product_ndcs": [
+        "0054-0480",
+        "0054-0481",
+        "0054-0482",
+        "0054-0497"
+      ],
+      "rxcui": [
+        "845507",
+        "845515",
+        "998189",
+        "1119400"
+      ],
+      "setid": "5aaf2fb7-93f6-40d6-941a-9583a3794ce7",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "EVEROLIMUS TABLET [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2026-08-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA205426",
+        "ANDA217640"
+      ],
+      "brand_names": [
+        "Everolimus"
+      ],
+      "combination": false,
+      "home_inn": "everolimus",
+      "ingredients": [
+        "EVEROLIMUS"
+      ],
+      "labeler": "Breckenridge Pharmaceutical, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-03-05",
+      "moieties": [
+        "EVEROLIMUS"
+      ],
+      "product_ndcs": [
+        "51991-821",
+        "51991-822",
+        "51991-823",
+        "51991-824",
+        "51991-990",
+        "51991-991",
+        "51991-992"
+      ],
+      "rxcui": [
+        "845507",
+        "845515",
+        "998189",
+        "1119400",
+        "1308428",
+        "1308430",
+        "1308432"
+      ],
+      "setid": "01f7b5fb-be0d-4adf-acd2-6899018de966",
+      "source": "openfda",
+      "spl_version": 20,
+      "title": "EVEROLIMUS TABLET EVEROLIMUS TABLET, FOR SUSPENSION [BRECKENRIDGE PHARMACEUTICAL, INC.]",
+      "upload_date": "2025-09-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA205432"
+      ],
+      "brand_names": [
+        "Everolimus"
+      ],
+      "combination": false,
+      "home_inn": "everolimus",
+      "ingredients": [
+        "EVEROLIMUS"
+      ],
+      "labeler": "Natco Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-05-20",
+      "moieties": [
+        "EVEROLIMUS"
+      ],
+      "product_ndcs": [
+        "63850-0062",
+        "63850-0063",
+        "63850-0064",
+        "63850-0107"
+      ],
+      "rxcui": [
+        "977427",
+        "977434",
+        "977438",
+        "2056895"
+      ],
+      "setid": "d44998bb-5deb-4ee7-a0a5-979fe3f49557",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "EVEROLIMUS TABLET [NATCO PHARMA LIMITED]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA214182"
+      ],
+      "brand_names": [
+        "TORPENZ"
+      ],
+      "combination": false,
+      "home_inn": "everolimus",
+      "ingredients": [
+        "EVEROLIMUS"
+      ],
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-10-01",
+      "moieties": [
+        "EVEROLIMUS"
+      ],
+      "product_ndcs": [
+        "0245-0822",
+        "0245-0823",
+        "0245-0824",
+        "0245-0825"
+      ],
+      "rxcui": [
+        "845507",
+        "845515",
+        "998189",
+        "1119400",
+        "2685202",
+        "2685204",
+        "2685206",
+        "2685208"
+      ],
+      "setid": "4c0075dd-a0a8-4dc4-be32-1be8383fbbdc",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "TORPENZ (EVEROLIMUS) TABLET [UPSHER-SMITH LABORATORIES, LLC]",
+      "upload_date": "2026-06-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA214138"
+      ],
+      "brand_names": [
+        "Everolimus"
+      ],
+      "combination": false,
+      "home_inn": "everolimus",
+      "ingredients": [
+        "EVEROLIMUS"
+      ],
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-11-27",
+      "moieties": [
+        "EVEROLIMUS"
+      ],
+      "product_ndcs": [
+        "67877-718",
+        "67877-719",
+        "67877-720",
+        "67877-721"
+      ],
+      "rxcui": [
+        "977427",
+        "977434",
+        "977438",
+        "2056895"
+      ],
+      "setid": "2693c497-a70b-4d00-b6db-602c872e5bed",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "EVEROLIMUS TABLET [ASCEND LABORATORIES, LLC]",
+      "upload_date": "2025-12-22"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "59cb86d5-8706-4619-b074-af253d3e0b68"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6f1ae129-c21e-4c25-84c1-a6757d9a7eb2"
+    },
+    {
+      "combination": false,
+      "labeler": "Biocon Pharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "435da284-ef0e-ca90-e0db-bab9382922e0"
+    },
+    {
+      "combination": false,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ed7f01b0-3660-4785-a057-a32eea78d64b"
+    },
+    {
+      "combination": false,
+      "labeler": "Biocon Pharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5b809dfe-c076-07c5-207e-178c3f0d32d3"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "43ef3c29-0e25-4fdd-aea1-06a20af9bbab"
+    },
+    {
+      "combination": false,
+      "labeler": "Novugen Pharma (USA) LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "67e62e26-448d-46ec-b5a1-00dc1b5e26c6"
+    },
+    {
+      "combination": false,
+      "labeler": "i3 Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "be5da0fd-8fd4-4f84-a307-f270048d503c"
+    },
+    {
+      "combination": false,
+      "labeler": "CivicaScript, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5e325efa-8ae6-4dac-b59b-d7c74c73186c"
+    },
+    {
+      "combination": false,
+      "labeler": "Natco Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e3dbbc24-7e55-4069-a305-e2cded2db641"
+    },
+    {
+      "combination": false,
+      "labeler": "Breckenridge Pharmaceutical, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c7bb6ba1-9a7f-43f5-b058-ef26d4b59221"
+    },
+    {
+      "combination": false,
+      "labeler": "Biocon Pharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5fb55800-f322-6bb6-9dde-622925ef28bd"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5cfca904-b75c-5a39-8cb9-b99bb421bceb"
+    }
+  ]
+}

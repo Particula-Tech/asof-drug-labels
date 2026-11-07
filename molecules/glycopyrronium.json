@@ -1,0 +1,1492 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand SEEBRI",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/002430",
+      "eu_number": "EU/1/12/788",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-002430",
+      "mah": "Novartis Europharm Limited",
+      "marketing_authorisation_date": "2012-09-28",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/seebri-breezhaler",
+      "name": "Seebri Breezhaler",
+      "record_from": "2012-09-28",
+      "record_to": "2026-11-03",
+      "role": "reference",
+      "versions": 8
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/002690",
+      "eu_number": "EU/1/12/790",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-002690",
+      "mah": "Novartis Europharm Limited",
+      "marketing_authorisation_date": "2012-09-28",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tovanor-breezhaler",
+      "name": "Tovanor Breezhaler",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/003883",
+      "eu_number": "EU/1/16/1135",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-003883",
+      "mah": "Proveca Pharma Limited",
+      "marketing_authorisation_date": "2016-09-15",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/sialanar",
+      "name": "Sialanar",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 3,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-002430",
+    "reference_selected_by": "salt-alias-v2",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "GLYCOPYRROLATE",
+    "GLYCOPYRRONIUM TOSYLATE"
+  ],
+  "inn": "glycopyrronium",
+  "name": "GLYCOPYRRONIUM",
+  "rank": 15,
+  "rxcui": [
+    "197738",
+    "197739",
+    "238212",
+    "999961",
+    "999965",
+    "1247658",
+    "1731582",
+    "1731590",
+    "1790639",
+    "1790644",
+    "2054118",
+    "2054120",
+    "2101490",
+    "2101495",
+    "2371710",
+    "2371715",
+    "2371718",
+    "2371796",
+    "2387326",
+    "2387328",
+    "2387329",
+    "2387331",
+    "2473383",
+    "2473384",
+    "2637041",
+    "2637047",
+    "2741705",
+    "2741708",
+    "2741710",
+    "2741711"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 66,
+    "approval_holders": 49,
+    "earliest_marketing_start": "1990-09-30",
+    "latest_label_update": "2026-10-21",
+    "nda_bla_applications": 8,
+    "repackagers": 14
+  },
+  "unii": [
+    {
+      "ingredient": "GLYCOPYRROLATE",
+      "unii": "V92SO9WP2I"
+    },
+    {
+      "ingredient": "GLYCOPYRRONIUM TOSYLATE",
+      "unii": "1PVF6JLU7B"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA022571"
+      ],
+      "brand_names": [
+        "Cuvposa"
+      ],
+      "combination": false,
+      "home_inn": "glycopyrronium",
+      "ingredients": [
+        "GLYCOPYRROLATE"
+      ],
+      "labeler": "Merz Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2013-01-01",
+      "moieties": [
+        "GLYCOPYRRONIUM"
+      ],
+      "product_ndcs": [
+        "0259-0501"
+      ],
+      "rxcui": [
+        "999961",
+        "999965"
+      ],
+      "setid": "d200bd44-9856-4104-a29e-a4cca3db6737",
+      "source": "openfda",
+      "spl_version": 20,
+      "title": "CUVPOSA (GLYCOPYRROLATE) LIQUID [MERZ PHARMACEUTICALS, LLC]",
+      "upload_date": "2024-12-23"
+    },
+    {
+      "application_numbers": [
+        "NDA210361"
+      ],
+      "brand_names": [
+        "Qbrexza"
+      ],
+      "combination": false,
+      "home_inn": "glycopyrronium",
+      "ingredients": [
+        "GLYCOPYRRONIUM TOSYLATE"
+      ],
+      "labeler": "Journey Medical Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-06-28",
+      "moieties": [
+        "GLYCOPYRRONIUM"
+      ],
+      "product_ndcs": [
+        "69489-411"
+      ],
+      "rxcui": [
+        "2054118",
+        "2054120"
+      ],
+      "setid": "5b372650-e56e-47a5-93e2-c0c292017059",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "QBREXZA (GLYCOPYRRONIUM) CLOTH [JOURNEY MEDICAL CORPORATION]",
+      "upload_date": "2026-05-22"
+    },
+    {
+      "application_numbers": [
+        "NDA210997"
+      ],
+      "brand_names": [
+        "GLYRX-PF"
+      ],
+      "combination": false,
+      "home_inn": "glycopyrronium",
+      "ingredients": [
+        "GLYCOPYRROLATE"
+      ],
+      "labeler": "Exela Pharma Sciences, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-08-01",
+      "moieties": [
+        "GLYCOPYRRONIUM"
+      ],
+      "product_ndcs": [
+        "51754-6000",
+        "51754-6001",
+        "51754-6013",
+        "51754-6015"
+      ],
+      "rxcui": [
+        "1731582",
+        "1731590",
+        "2371710",
+        "2371715",
+        "2371718",
+        "2371796",
+        "2473383",
+        "2473384"
+      ],
+      "setid": "2189f3f5-39dc-4e85-b7c6-9515ded59686",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "GLYRX-PF (GLYCOPYRROLATE) INJECTION, SOLUTION [EXELA PHARMA SCIENCES, LLC]",
+      "upload_date": "2025-07-25"
+    },
+    {
+      "application_numbers": [
+        "NDA214919"
+      ],
+      "brand_names": [
+        "Glycopyrrolate"
+      ],
+      "combination": false,
+      "home_inn": "glycopyrronium",
+      "ingredients": [
+        "GLYCOPYRROLATE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-04-21",
+      "moieties": [
+        "GLYCOPYRRONIUM"
+      ],
+      "product_ndcs": [
+        "76045-023",
+        "76045-223"
+      ],
+      "rxcui": [
+        "2473383"
+      ],
+      "setid": "685aaf64-1a64-42f9-a96f-4764d650c26f",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "GLYCOPYRROLATE (GLYCOPYRROLATE) INJECTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2024-06-06"
+    },
+    {
+      "application_numbers": [
+        "NDA017558"
+      ],
+      "brand_names": [
+        "Glycopyrrolate"
+      ],
+      "combination": false,
+      "home_inn": "glycopyrronium",
+      "ingredients": [
+        "GLYCOPYRROLATE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-08-28",
+      "moieties": [
+        "GLYCOPYRRONIUM"
+      ],
+      "product_ndcs": [
+        "0641-6212",
+        "0641-6213"
+      ],
+      "rxcui": [
+        "2101490",
+        "2101495"
+      ],
+      "setid": "960d2dd0-008d-4ec1-ba2e-9388b28b23e2",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "GLYCOPYRROLATE INJECTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "NDA208294"
+      ],
+      "brand_names": [
+        "BEVESPI AEROSPHERE"
+      ],
+      "combination": true,
+      "home_inn": "glycopyrronium",
+      "ingredients": [
+        "FORMOTEROL FUMARATE",
+        "GLYCOPYRROLATE"
+      ],
+      "labeler": "AstraZeneca Pharmaceuticals LP",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2016-10-03",
+      "moieties": [
+        "FORMOTEROL",
+        "GLYCOPYRRONIUM"
+      ],
+      "product_ndcs": [
+        "0310-4600"
+      ],
+      "rxcui": [
+        "1790639",
+        "1790644"
+      ],
+      "setid": "ae02436e-9528-490e-a844-0c0f6f2843f9",
+      "source": "openfda",
+      "spl_version": 26,
+      "title": "BEVESPI AEROSPHERE (GLYCOPYRROLATE AND FORMOTEROL FUMARATE) AEROSOL, METERED [ASTRAZENECA PHARMACEUTICALS LP]",
+      "upload_date": "2025-12-19"
+    },
+    {
+      "application_numbers": [
+        "NDA212122"
+      ],
+      "brand_names": [
+        "BREZTRI"
+      ],
+      "combination": true,
+      "home_inn": "glycopyrronium",
+      "ingredients": [
+        "BUDESONIDE",
+        "FORMOTEROL",
+        "GLYCOPYRROLATE"
+      ],
+      "labeler": "AstraZeneca Pharmaceuticals LP",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2020-07-23",
+      "moieties": [
+        "BUDESONIDE",
+        "FORMOTEROL",
+        "GLYCOPYRRONIUM"
+      ],
+      "product_ndcs": [
+        "0310-4616",
+        "0310-6616"
+      ],
+      "rxcui": [
+        "2387326",
+        "2387328",
+        "2387329",
+        "2387331",
+        "2741705",
+        "2741708",
+        "2741710",
+        "2741711"
+      ],
+      "setid": "715433dc-cb2b-43ea-b6df-c5b4177adc6c",
+      "source": "dailymed-title-match",
+      "spl_version": 9,
+      "title": "BREZTRI (BUDESONIDE, GLYCOPYRROLATE, AND FORMOTEROL FUMARATE) AEROSOL, METERED [ASTRAZENECA PHARMACEUTICALS LP]",
+      "upload_date": "2026-06-23"
+    },
+    {
+      "application_numbers": [
+        "NDA216903"
+      ],
+      "brand_names": [
+        "PREVDUO"
+      ],
+      "combination": true,
+      "home_inn": "glycopyrronium",
+      "ingredients": [
+        "GLYCOPYRROLATE",
+        "NEOSTIGMINE METHYLSULFATE"
+      ],
+      "labeler": "Endo USA",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-05-15",
+      "moieties": [
+        "GLYCOPYRRONIUM",
+        "NEOSTIGMINE"
+      ],
+      "product_ndcs": [
+        "42023-269"
+      ],
+      "rxcui": [
+        "2637041",
+        "2637047"
+      ],
+      "setid": "dd8ad38f-247b-4948-a13c-8f3a4921b4f1",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "PREVDUO (NEOSTIGMINE METHYLSULFATE AND GLYCOPYRROLATE) INJECTION [ENDO USA]",
+      "upload_date": "2024-10-31"
+    },
+    {
+      "application_numbers": [
+        "NDA012827"
+      ],
+      "brand_names": [
+        "Glycopyrrolate"
+      ],
+      "combination": false,
+      "home_inn": "glycopyrronium",
+      "ingredients": [
+        "GLYCOPYRROLATE"
+      ],
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2020-10-06",
+      "moieties": [
+        "GLYCOPYRRONIUM"
+      ],
+      "product_ndcs": [
+        "16571-743",
+        "16571-744"
+      ],
+      "rxcui": [
+        "197738",
+        "197739"
+      ],
+      "setid": "58c4cb1f-59b8-4be9-a222-2264ca077d93",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "GLYCOPYRROLATE TABLET [RISING PHARMA HOLDINGS, INC.]",
+      "upload_date": "2026-01-06"
+    },
+    {
+      "application_numbers": [
+        "ANDA089335"
+      ],
+      "brand_names": [
+        "Glycopyrrolate"
+      ],
+      "combination": false,
+      "home_inn": "glycopyrronium",
+      "ingredients": [
+        "GLYCOPYRROLATE"
+      ],
+      "labeler": "American Regent, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1990-09-30",
+      "moieties": [
+        "GLYCOPYRRONIUM"
+      ],
+      "product_ndcs": [
+        "0517-4601",
+        "0517-4602",
+        "0517-4605",
+        "0517-4620"
+      ],
+      "rxcui": [
+        "238212",
+        "1731582",
+        "1731590"
+      ],
+      "setid": "62267afe-1a73-4623-984e-646db590ec5b",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "GLYCOPYRROLATE INJECTION, SOLUTION [AMERICAN REGENT, INC.]",
+      "upload_date": "2026-09-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA040653"
+      ],
+      "brand_names": [
+        "Glycopyrrolate"
+      ],
+      "combination": false,
+      "home_inn": "glycopyrronium",
+      "ingredients": [
+        "GLYCOPYRROLATE"
+      ],
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2006-09-26",
+      "moieties": [
+        "GLYCOPYRRONIUM"
+      ],
+      "product_ndcs": [
+        "49884-065",
+        "49884-066"
+      ],
+      "rxcui": [
+        "197738",
+        "197739"
+      ],
+      "setid": "1f266d77-4f9e-44c9-a000-2f8fea3ac80b",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "GLYCOPYRROLATE TABLET [PAR HEALTH USA, LLC]",
+      "upload_date": "2026-08-06"
+    },
+    {
+      "application_numbers": [
+        "ANDA040847"
+      ],
+      "brand_names": [
+        "Glycopyrrolate"
+      ],
+      "combination": false,
+      "home_inn": "glycopyrronium",
+      "ingredients": [
+        "GLYCOPYRROLATE"
+      ],
+      "labeler": "Dr. Reddy's Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2008-07-14",
+      "moieties": [
+        "GLYCOPYRRONIUM"
+      ],
+      "product_ndcs": [
+        "55111-648",
+        "55111-649"
+      ],
+      "rxcui": [
+        "197738"
+      ],
+      "setid": "725529e8-9c4b-4108-690a-e4f391439736",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "GLYCOPYRROLATE TABLET [DR. REDDY'S LABORATORIES LIMITED]",
+      "upload_date": "2018-06-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA090963"
+      ],
+      "brand_names": [
+        "Glycopyrrolate"
+      ],
+      "combination": false,
+      "home_inn": "glycopyrronium",
+      "ingredients": [
+        "GLYCOPYRROLATE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-09-21",
+      "moieties": [
+        "GLYCOPYRRONIUM"
+      ],
+      "product_ndcs": [
+        "0143-9679",
+        "0143-9680",
+        "0143-9681",
+        "0143-9682"
+      ],
+      "rxcui": [
+        "238212",
+        "1731582",
+        "1731590"
+      ],
+      "setid": "516cc4f8-3583-4405-ab66-29d4fcc56d05",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "GLYCOPYRROLATE INJECTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2022-03-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA091522"
+      ],
+      "brand_names": [
+        "Glycopyrrolate"
+      ],
+      "combination": false,
+      "home_inn": "glycopyrronium",
+      "ingredients": [
+        "GLYCOPYRROLATE"
+      ],
+      "labeler": "LGM PHARMA SOLUTIONS, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-03-12",
+      "moieties": [
+        "GLYCOPYRRONIUM"
+      ],
+      "product_ndcs": [
+        "79739-7097"
+      ],
+      "rxcui": [
+        "1247658"
+      ],
+      "setid": "392a969d-1e14-4ad8-835c-a47be4983067",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "GLYCOPYRROLATE TABLET [LGM PHARMA SOLUTIONS, LLC]",
+      "upload_date": "2023-04-26"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "ROBINUL"
+      ],
+      "first_posted": "2007-01-19",
+      "found_by": "ROBINUL",
+      "labeler": "SCIELE PHARMA INC",
+      "labeler_unverified": false,
+      "last_posted": "2007-01-19",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "59360-205",
+        "59630-200"
+      ],
+      "rxcui": [],
+      "setid": "188b90bb-fe1b-4395-ae67-6c60c91cedad",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "robinul (Glycopyrrolate) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA207923"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "SEEBRI"
+      ],
+      "first_posted": "2017-11-17",
+      "found_by": "SEEBRI",
+      "labeler": "Sunovion Pharmacueticals Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2021-08-12",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-10-31"
+      ],
+      "product_ndcs": [
+        "63402-815"
+      ],
+      "rxcui": [],
+      "setid": "260e843d-a627-4cb1-8cab-4f0537d1ca5e",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "SEEBRI NEOHALER (glycopyrrolate) capsule"
+    },
+    {
+      "application_numbers": [
+        "NDA017558"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "ROBINUL"
+      ],
+      "first_posted": "2012-06-11",
+      "found_by": "ROBINUL",
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2026-03-03",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-05-01",
+        "2015-07-01"
+      ],
+      "product_ndcs": [
+        "0641-6104",
+        "0641-6105",
+        "0641-6106",
+        "0641-6107"
+      ],
+      "rxcui": [],
+      "setid": "38f88829-a226-4810-866c-1b62c47e8aee",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "960d2dd0-008d-4ec1-ba2e-9388b28b23e2"
+      ],
+      "title": "ROBINUL injection"
+    },
+    {
+      "application_numbers": [
+        "NDA215019"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "DARTISLA"
+      ],
+      "first_posted": "2022-02-01",
+      "found_by": "DARTISLA",
+      "labeler": "Edenbridge Pharmaceuticals LLC.",
+      "labeler_unverified": false,
+      "last_posted": "2025-12-23",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-12-22"
+      ],
+      "product_ndcs": [
+        "82111-517",
+        "82111-518"
+      ],
+      "rxcui": [],
+      "setid": "52daf47e-7ba3-4105-be7f-27001a87e16e",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "DARTISLA ODT (glycopyrrolate orally disintegrating tablets) tablet, orally disintegrating"
+    },
+    {
+      "application_numbers": [
+        "NDA210361"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "QBREXZA"
+      ],
+      "first_posted": "2018-08-20",
+      "found_by": "QBREXZA",
+      "labeler": "Journey Medical Corporation",
+      "labeler_unverified": true,
+      "last_posted": "2022-01-18",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-12-31"
+      ],
+      "product_ndcs": [
+        "70428-011"
+      ],
+      "rxcui": [],
+      "setid": "6b985380-1256-4fb3-b89a-6df2c6a6d12e",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "5b372650-e56e-47a5-93e2-c0c292017059"
+      ],
+      "title": "QBREXZA (glycopyrronium) cloth"
+    },
+    {
+      "application_numbers": [
+        "NDA017558"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "ROBINUL"
+      ],
+      "first_posted": "2007-09-14",
+      "found_by": "ROBINUL",
+      "labeler": "Baxter Healthcare Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2015-10-30",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2014-03-31"
+      ],
+      "product_ndcs": [
+        "60977-155"
+      ],
+      "rxcui": [],
+      "setid": "711fa83c-c283-4b26-aa22-fc6ec215ce42",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "960d2dd0-008d-4ec1-ba2e-9388b28b23e2"
+      ],
+      "title": "ROBINUL (glycopyrrolate) injection, solution"
+    },
+    {
+      "application_numbers": [
+        "NDA208437"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "LONHALA"
+      ],
+      "first_posted": "2017-12-19",
+      "found_by": "LONHALA",
+      "labeler": "Sunovion Pharmaceuticals Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2023-06-22",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-06-30"
+      ],
+      "product_ndcs": [
+        "63402-201",
+        "63402-301"
+      ],
+      "rxcui": [],
+      "setid": "78166def-5e2f-42a6-a1f1-0253e5765632",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "LONHALA MAGNAIR (glycopyrrolate) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA207923"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "SEEBRI"
+      ],
+      "first_posted": "2015-11-12",
+      "found_by": "SEEBRI",
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2018-01-16",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-06-30"
+      ],
+      "product_ndcs": [
+        "0078-0662"
+      ],
+      "rxcui": [],
+      "setid": "8839674f-26d6-4302-9da0-258decfba9aa",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "SEEBRI NEOHALER (glycopyrrolate) capsule"
+    },
+    {
+      "application_numbers": [
+        "NDA012827"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "ROBINUL"
+      ],
+      "first_posted": "2021-07-14",
+      "found_by": "ROBINUL",
+      "labeler": "Casper Pharma LLC",
+      "labeler_unverified": false,
+      "last_posted": "2025-01-16",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-07-31"
+      ],
+      "product_ndcs": [
+        "70199-007",
+        "70199-008"
+      ],
+      "rxcui": [],
+      "setid": "94fb029a-6371-4b1c-89de-35e8209c7cab",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "58c4cb1f-59b8-4be9-a222-2264ca077d93"
+      ],
+      "title": "ROBINUL (glycopyrrolate) tablet ROBINUL FORTE (glycopyrrolate) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA012827"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "ROBINUL"
+      ],
+      "first_posted": "2007-09-14",
+      "found_by": "ROBINUL",
+      "labeler": "Shionogi Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2019-12-13",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-06-10",
+        "2017-06-13"
+      ],
+      "product_ndcs": [
+        "59630-200",
+        "59630-205"
+      ],
+      "rxcui": [],
+      "setid": "bd65ee5e-2000-423c-b0a6-72eb213455c4",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "58c4cb1f-59b8-4be9-a222-2264ca077d93"
+      ],
+      "title": "ROBINUL (glycopyrrolate) tablet ROBINUL FORTE (glycopyrrolate) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA208437"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "LONHALA"
+      ],
+      "first_posted": "2018-12-14",
+      "found_by": "LONHALA",
+      "labeler": "Holopack Verpackungstechnik GmbH",
+      "labeler_unverified": true,
+      "last_posted": "2021-10-28",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "60940-024"
+      ],
+      "rxcui": [],
+      "setid": "de544612-9129-4b79-9aa9-0b06f059cb78",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "LONHALA (glycopyrrolate) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA022571"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "CUVPOSA"
+      ],
+      "first_posted": "2011-03-02",
+      "found_by": "CUVPOSA",
+      "labeler": "Shionogi Pharma, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2014-08-06",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2014-06-30"
+      ],
+      "product_ndcs": [
+        "59630-206"
+      ],
+      "rxcui": [],
+      "setid": "e4c2273a-b35a-4e75-9758-970b04d01a87",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "d200bd44-9856-4104-a29e-a4cca3db6737"
+      ],
+      "title": "CUVPOSA (glycopyrrolate) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA017558"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "ROBINUL"
+      ],
+      "first_posted": "2010-12-20",
+      "found_by": "ROBINUL",
+      "labeler": "Baxter Healthcare Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2015-07-28",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "10019-016"
+      ],
+      "rxcui": [],
+      "setid": "eac7ff63-9fa3-4774-8a83-36353dd4cd7a",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "960d2dd0-008d-4ec1-ba2e-9388b28b23e2"
+      ],
+      "title": "GLYCOPYRROLATE injection, solution"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Alembic Labs LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "db178372-51d2-4194-bbe2-da9acb1cfd53"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "26cdd84d-ffa0-4e52-b359-4acef4bd8093"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bbab4cf1-0441-4fc4-9de9-e4117fa19faa"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "54458620-d888-4df6-ae4b-78c3dfed3423"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "88d3e865-8dca-4c89-b6f7-a34c481f75b9"
+    },
+    {
+      "combination": false,
+      "labeler": "XIROMED LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1bb2fa8a-3318-1e9a-2c79-8371bcae3d1c"
+    },
+    {
+      "combination": false,
+      "labeler": "Leading Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "498bce66-6072-4212-8413-ff9888c58f9c"
+    },
+    {
+      "combination": false,
+      "labeler": "AuroMedics Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "eaebb511-1738-4d11-b9bb-317a8d41316a"
+    },
+    {
+      "combination": false,
+      "labeler": "Solco Healthcare US, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2972f22e-378c-450b-8869-1354a9bd0ffc"
+    },
+    {
+      "combination": false,
+      "labeler": "Piramal Critical Care Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "83d70378-011b-4ce3-e053-2991aa0a22be"
+    },
+    {
+      "combination": false,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cb1ae370-ec4f-4114-9860-8f736f72b545"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d670bd26-8a44-44be-90e1-107d4c380233"
+    },
+    {
+      "combination": false,
+      "labeler": "Accord Healthcare, Inc.,",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "871797f0-697a-4a29-a37b-d06219e8f266"
+    },
+    {
+      "combination": false,
+      "labeler": "Quinn Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e1ded8e0-c05b-4bf4-a129-57d1726af6ed"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "02541cfd-b209-49b9-a73f-13ef18dce06d"
+    },
+    {
+      "combination": false,
+      "labeler": "Nivagen Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7cb1ecbe-1e7a-4b39-8e1d-0c20f145e177"
+    },
+    {
+      "combination": false,
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ff65c5d3-7ba9-4315-a884-199151eb45a5"
+    },
+    {
+      "combination": false,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a46c5ec1-a1b4-46fc-9b37-8da7f0c983d6"
+    },
+    {
+      "combination": false,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "48cfbd5a-b133-4720-9bd7-65296064ea3c"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4741be85-3abb-4545-aba9-281f64d210ec"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e20c9a89-2a81-3c6e-e053-2995a90a9861"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "741355f5-b695-41bb-a065-4abc687312b2"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "327f8a9e-7730-4f38-a7aa-fbddebddf173"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0f4a4b94-71e0-49ed-8f1e-c760e4dd3137"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurolife Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "677f8495-a870-45b6-bb65-75b449f040ce"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "89090b34-470c-478c-be49-1d2bc48a28f8"
+    },
+    {
+      "combination": false,
+      "labeler": "QUAGEN PHARMACEUTICALS LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a456eaea-4cd6-4344-8fc6-6f6a3ce0f2c6"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "55930f87-8964-43b1-b790-c1e6dd2602d2"
+    },
+    {
+      "combination": false,
+      "labeler": "Saptalis Pharmaceuticals, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3e6f8091-d6fe-4c8f-b897-606a70bf74bc"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4b3f8b3e-6fa8-471b-8bee-3dac5e3ea1b8"
+    },
+    {
+      "combination": false,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "98820c01-1853-45d8-9da5-875fcdf5f9ab"
+    },
+    {
+      "combination": false,
+      "labeler": "Granules Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0f05c5d3-9c41-4dae-88d1-18cbddc69487"
+    },
+    {
+      "combination": false,
+      "labeler": "AJENAT PHARMACEUTICALS LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7049feaf-004a-481f-b129-996b21c3170a"
+    },
+    {
+      "combination": false,
+      "labeler": "Bionpharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "512d3f1e-c35c-87c2-e063-6394a90a8de0"
+    },
+    {
+      "combination": false,
+      "labeler": "QUAGEN PHARMACEUTICALS LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "62e1ba35-bc84-4818-be54-8b534a1bf93c"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d5a18d74-0d40-46e2-aa0a-41d18609a536"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5773cf63-4006-4d8f-b53b-c84bcfe19e4a"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ccafb5c2-86dd-4bb2-883a-c13e3171227c"
+    },
+    {
+      "combination": false,
+      "labeler": "Solco Healthcare US, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3707f06a-6cba-4f5c-86ab-fb95bc2a933c"
+    },
+    {
+      "combination": false,
+      "labeler": "Civica, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9f7f1ebf-58e8-4ae7-8157-1595df8ad6f4"
+    },
+    {
+      "combination": false,
+      "labeler": "Xiromed LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "29618edf-39b0-022a-9875-9d865450d318"
+    },
+    {
+      "combination": false,
+      "labeler": "Civica, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3ac4f32f-f5ca-4a6d-9bc7-2672d478b3d4"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "02f914a8-2356-4525-91ff-cf0c9e41ba23"
+    },
+    {
+      "combination": false,
+      "labeler": "Xiromed, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f777c813-3232-d744-8bcf-58e86fb929bd"
+    },
+    {
+      "combination": false,
+      "labeler": "FH2 Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "18ca98ed-522d-470f-bb22-908bbd7d489a"
+    },
+    {
+      "combination": false,
+      "labeler": "BE Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d9df3900-a8c2-438b-8971-ba11ff91f90b"
+    },
+    {
+      "combination": false,
+      "labeler": "Intra-Sana Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "830ba1be-bef3-417c-a915-964cc6005b92"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "250eeef7-b1a9-45e7-a927-7807232e10be"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ed22456b-b488-49ec-b96b-2541f5f3c955"
+    },
+    {
+      "combination": false,
+      "labeler": "Caplin Steriles Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "765490fa-8378-40c8-9fa7-b0bfa2e1a0a9"
+    },
+    {
+      "combination": false,
+      "labeler": "Jvet Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4b335c67-4f8f-47e5-abfc-f8c2c15496d7"
+    },
+    {
+      "combination": false,
+      "labeler": "Florida Pharmaceutical Products, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2cda1ed5-10bb-4651-acbf-be44ad709665"
+    }
+  ]
+}

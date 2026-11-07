@@ -1,0 +1,312 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/002182",
+      "eu_number": "EU/1/13/844",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-002182",
+      "mah": "Takeda Pharma A/S",
+      "marketing_authorisation_date": "2013-09-18",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/vipidia",
+      "name": "Vipidia",
+      "record_from": "2013-09-19",
+      "record_to": "2026-11-03",
+      "role": "reference",
+      "versions": 7
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 2,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-002182",
+    "reference_selected_by": "salt-alias-v2",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "ALOGLIPTIN BENZOATE"
+  ],
+  "inn": "alogliptin",
+  "name": "ALOGLIPTIN",
+  "rank": 286,
+  "rxcui": [
+    "1368006",
+    "1368012",
+    "1368018",
+    "1368020",
+    "1368034",
+    "1368036",
+    "1368385",
+    "1368391",
+    "1368392",
+    "1368398",
+    "1368410",
+    "1368416",
+    "1368424",
+    "1368430",
+    "1368431",
+    "1368437",
+    "1368438",
+    "1368444"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 6,
+    "approval_holders": 2,
+    "earliest_marketing_start": "2013-01-25",
+    "latest_label_update": "2026-08-26",
+    "nda_bla_applications": 3,
+    "repackagers": 3
+  },
+  "unii": [
+    {
+      "ingredient": "ALOGLIPTIN BENZOATE",
+      "unii": "EEN99869SC"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA022271"
+      ],
+      "brand_names": [
+        "Nesina"
+      ],
+      "combination": false,
+      "home_inn": "alogliptin",
+      "ingredients": [
+        "ALOGLIPTIN BENZOATE"
+      ],
+      "labeler": "Takeda Pharmaceuticals America, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2013-01-25",
+      "moieties": [
+        "ALOGLIPTIN"
+      ],
+      "product_ndcs": [
+        "64764-125",
+        "64764-250",
+        "64764-625"
+      ],
+      "rxcui": [
+        "1368006",
+        "1368012",
+        "1368018",
+        "1368020",
+        "1368034",
+        "1368036"
+      ],
+      "setid": "a3768c7e-aa4c-44d3-bc53-43bb7346c0b0",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "NESINA (ALOGLIPTIN) TABLET, FILM COATED [TAKEDA PHARMACEUTICALS AMERICA, INC.]",
+      "upload_date": "2025-03-24"
+    },
+    {
+      "application_numbers": [
+        "NDA022426"
+      ],
+      "brand_names": [
+        "OSENI"
+      ],
+      "combination": true,
+      "home_inn": "pioglitazone",
+      "ingredients": [
+        "ALOGLIPTIN BENZOATE",
+        "PIOGLITAZONE HYDROCHLORIDE"
+      ],
+      "labeler": "Takeda Pharmaceuticals America, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2013-01-25",
+      "moieties": [
+        "ALOGLIPTIN",
+        "PIOGLITAZONE"
+      ],
+      "product_ndcs": [
+        "64764-123",
+        "64764-251",
+        "64764-253",
+        "64764-254"
+      ],
+      "rxcui": [
+        "1368410",
+        "1368416",
+        "1368424",
+        "1368430",
+        "1368431",
+        "1368437",
+        "1368438",
+        "1368444"
+      ],
+      "setid": "4c619ed9-fe3e-4158-9938-80c6c3493d55",
+      "source": "openfda",
+      "spl_version": 23,
+      "title": "OSENI (ALOGLIPTIN AND PIOGLITAZONE) TABLET, FILM COATED [TAKEDA PHARMACEUTICALS AMERICA, INC.]",
+      "upload_date": "2025-03-24"
+    },
+    {
+      "application_numbers": [
+        "NDA203414"
+      ],
+      "brand_names": [
+        "KAZANO"
+      ],
+      "combination": true,
+      "home_inn": "metformin",
+      "ingredients": [
+        "ALOGLIPTIN BENZOATE",
+        "METFORMIN HYDROCHLORIDE"
+      ],
+      "labeler": "Takeda Pharmaceuticals America, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2013-01-25",
+      "moieties": [
+        "ALOGLIPTIN",
+        "METFORMIN"
+      ],
+      "product_ndcs": [
+        "64764-335",
+        "64764-337"
+      ],
+      "rxcui": [
+        "1368385",
+        "1368391",
+        "1368392",
+        "1368398"
+      ],
+      "setid": "83cb7914-a683-47bb-a713-f2bc6a596bd2",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "KAZANO (ALOGLIPTIN AND METFORMIN HYDROCHLORIDE) TABLET, FILM COATED [TAKEDA PHARMACEUTICALS AMERICA, INC.]",
+      "upload_date": "2026-08-21"
+    },
+    {
+      "application_numbers": [
+        "NDA022271"
+      ],
+      "brand_names": [
+        "Alogliptin"
+      ],
+      "combination": false,
+      "home_inn": "alogliptin",
+      "ingredients": [
+        "ALOGLIPTIN BENZOATE"
+      ],
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2016-04-08",
+      "moieties": [
+        "ALOGLIPTIN"
+      ],
+      "product_ndcs": [
+        "45802-087",
+        "45802-103",
+        "45802-150"
+      ],
+      "rxcui": [
+        "1368006",
+        "1368018",
+        "1368034"
+      ],
+      "setid": "b25f155a-1259-47c2-aa3b-7c1356e4c7f6",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "ALOGLIPTIN TABLET, FILM COATED [PADAGIS ISRAEL PHARMACEUTICALS LTD]",
+      "upload_date": "2025-05-01"
+    },
+    {
+      "application_numbers": [
+        "NDA203414"
+      ],
+      "brand_names": [
+        "alogliptin and metformin hydrochloride"
+      ],
+      "combination": true,
+      "home_inn": "alogliptin",
+      "ingredients": [
+        "ALOGLIPTIN BENZOATE",
+        "METFORMIN HYDROCHLORIDE"
+      ],
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2016-04-08",
+      "moieties": [
+        "ALOGLIPTIN",
+        "METFORMIN"
+      ],
+      "product_ndcs": [
+        "45802-169",
+        "45802-211"
+      ],
+      "rxcui": [
+        "1368385",
+        "1368392"
+      ],
+      "setid": "14d98490-4f8f-4d2f-a4e9-7a3d7a0199ba",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "ALOGLIPTIN AND METFORMIN HYDROCHLORIDE TABLET, FILM COATED [PADAGIS ISRAEL PHARMACEUTICALS LTD]",
+      "upload_date": "2026-08-26"
+    },
+    {
+      "application_numbers": [
+        "NDA022426"
+      ],
+      "brand_names": [
+        "Alogliptin and Pioglitazone"
+      ],
+      "combination": true,
+      "home_inn": "alogliptin",
+      "ingredients": [
+        "ALOGLIPTIN BENZOATE",
+        "PIOGLITAZONE HYDROCHLORIDE"
+      ],
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2016-04-08",
+      "moieties": [
+        "ALOGLIPTIN",
+        "PIOGLITAZONE"
+      ],
+      "product_ndcs": [
+        "45802-260",
+        "45802-351",
+        "45802-402",
+        "45802-499"
+      ],
+      "rxcui": [
+        "1368410",
+        "1368424",
+        "1368431",
+        "1368438"
+      ],
+      "setid": "642b1e90-701e-42f2-bac6-a4918738e2c9",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "ALOGLIPTIN AND PIOGLITAZONE (ALOGLIPTIN BENZOATE AND PIOGLITAZONE HYDROCHLORIDE) TABLET, FILM COATED [PADAGIS ISRAEL PHARMACEUTICALS LTD]",
+      "upload_date": "2025-08-11"
+    }
+  ],
+  "us_excluded": []
+}

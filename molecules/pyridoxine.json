@@ -1,0 +1,283 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "PYRIDOXINE HYDROCHLORIDE"
+  ],
+  "inn": "pyridoxine",
+  "name": "PYRIDOXINE",
+  "rank": 444,
+  "rxcui": [
+    "312736",
+    "1375948",
+    "1375954",
+    "1999651",
+    "1999657"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 7,
+    "approval_holders": 6,
+    "earliest_marketing_start": "1972-08-14",
+    "latest_label_update": "2026-10-23",
+    "nda_bla_applications": 2,
+    "repackagers": 2
+  },
+  "unii": [
+    {
+      "ingredient": "PYRIDOXINE HYDROCHLORIDE",
+      "unii": "68Y4CF58BV"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021876"
+      ],
+      "brand_names": [
+        "DICLEGIS"
+      ],
+      "combination": true,
+      "home_inn": "pyridoxine",
+      "ingredients": [
+        "DOXYLAMINE SUCCINATE",
+        "PYRIDOXINE HYDROCHLORIDE"
+      ],
+      "labeler": "Duchesnay USA, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2013-05-15",
+      "moieties": [
+        "DOXYLAMINE",
+        "PYRIDOXINE"
+      ],
+      "product_ndcs": [
+        "55494-100"
+      ],
+      "rxcui": [
+        "1375948",
+        "1375954"
+      ],
+      "setid": "8bde08f6-e8bd-4e90-baa7-82e01876a86a",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "DICLEGIS (DOXYLAMINE SUCCINATE AND PYRIDOXINE HYDROCHLORIDE) TABLET, DELAYED RELEASE [DUCHESNAY USA, INC.]",
+      "upload_date": "2025-12-04"
+    },
+    {
+      "application_numbers": [
+        "NDA209661"
+      ],
+      "brand_names": [
+        "BONJESTA"
+      ],
+      "combination": true,
+      "home_inn": "pyridoxine",
+      "ingredients": [
+        "DOXYLAMINE SUCCINATE",
+        "PYRIDOXINE HYDROCHLORIDE"
+      ],
+      "labeler": "Duchesnay USA, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-02-19",
+      "moieties": [
+        "DOXYLAMINE",
+        "PYRIDOXINE"
+      ],
+      "product_ndcs": [
+        "55494-120"
+      ],
+      "rxcui": [
+        "1999651",
+        "1999657"
+      ],
+      "setid": "dba60bb4-54ff-4e06-b8d2-acbbd3717666",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "BONJESTA (DOXYLAMINE SUCCINATE AND PYRIDOXINE HYDROCHLORIDE) TABLET, EXTENDED RELEASE [DUCHESNAY USA, INC.]",
+      "upload_date": "2025-02-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA080618"
+      ],
+      "brand_names": [
+        "Pyridoxine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "pyridoxine",
+      "ingredients": [
+        "PYRIDOXINE HYDROCHLORIDE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1972-08-14",
+      "moieties": [
+        "PYRIDOXINE"
+      ],
+      "product_ndcs": [
+        "63323-180"
+      ],
+      "rxcui": [
+        "312736"
+      ],
+      "setid": "a56d11c0-b033-4201-85ff-fc710506481a",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "PYRIDOXINE HYDROCHLORIDE INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2024-10-21"
+    },
+    {
+      "application_numbers": [
+        "NDA021876"
+      ],
+      "brand_names": [
+        "Doxylamine succinate and pyridoxine hydrochloride"
+      ],
+      "combination": true,
+      "home_inn": "pyridoxine",
+      "ingredients": [
+        "DOXYLAMINE SUCCINATE",
+        "PYRIDOXINE HYDROCHLORIDE"
+      ],
+      "labeler": "Analog Pharma",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2018-11-15",
+      "moieties": [
+        "DOXYLAMINE",
+        "PYRIDOXINE"
+      ],
+      "product_ndcs": [
+        "70505-100"
+      ],
+      "rxcui": [
+        "1375948"
+      ],
+      "setid": "76d10d65-0279-4e86-8104-cade4343f839",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "DOXYLAMINE SUCCINATE AND PYRIDOXINE HYDROCHLORIDE TABLET, DELAYED RELEASE [ANALOG PHARMA]",
+      "upload_date": "2025-12-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA205811"
+      ],
+      "brand_names": [
+        "Doxylamine succinate and pyridoxine hydrochloride"
+      ],
+      "combination": true,
+      "home_inn": "pyridoxine",
+      "ingredients": [
+        "DOXYLAMINE SUCCINATE",
+        "PYRIDOXINE HYDROCHLORIDE"
+      ],
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-06-21",
+      "moieties": [
+        "DOXYLAMINE",
+        "PYRIDOXINE"
+      ],
+      "product_ndcs": [
+        "0591-2132"
+      ],
+      "rxcui": [
+        "1375948"
+      ],
+      "setid": "3670d66e-c1e4-42ce-8760-c3d5accad925",
+      "source": "dailymed-title-match",
+      "spl_version": 9,
+      "title": "DOXYLAMINE SUCCINATE AND PYRIDOXINE HYDROCHLORIDE TABLET, DELAYED RELEASE [ACTAVIS PHARMA, INC.]",
+      "upload_date": "2026-10-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA208518"
+      ],
+      "brand_names": [
+        "Doxylamine Succinate and Pyridoxine Hydrochloride"
+      ],
+      "combination": true,
+      "home_inn": "pyridoxine",
+      "ingredients": [
+        "DOXYLAMINE SUCCINATE",
+        "PYRIDOXINE HYDROCHLORIDE"
+      ],
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-12-19",
+      "moieties": [
+        "DOXYLAMINE",
+        "PYRIDOXINE"
+      ],
+      "product_ndcs": [
+        "49884-186"
+      ],
+      "rxcui": [
+        "1375948"
+      ],
+      "setid": "de265fd1-bc22-4da1-aab5-b5fedd649c8b",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "DOXYLAMINE SUCCINATE AND PYRIDOXINE HYDROCHLORIDE (DOXYLAMINE SUCCINATE AND PYRIDOXINE HYDROCHLORIDE, DELAYED RELEASE TABLETS 10 MG/10 MG) TABLET, DELAYED RELEASE [PAR HEALTH USA, LLC]",
+      "upload_date": "2026-09-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA217000"
+      ],
+      "brand_names": [
+        "Doxylamine succinate and Pyridoxine hydrochloride"
+      ],
+      "combination": true,
+      "home_inn": "pyridoxine",
+      "ingredients": [
+        "DOXYLAMINE SUCCINATE",
+        "PYRIDOXINE HYDROCHLORIDE"
+      ],
+      "labeler": "Bionpharma Inc.,",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-12-11",
+      "moieties": [
+        "DOXYLAMINE",
+        "PYRIDOXINE"
+      ],
+      "product_ndcs": [
+        "69452-206"
+      ],
+      "rxcui": [
+        "1375948"
+      ],
+      "setid": "0c410285-0ad6-aabc-e063-6294a90abcd8",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "DOXYLAMINE SUCCINATE AND PYRIDOXINE HYDROCHLORIDE TABLET, DELAYED RELEASE [BIONPHARMA INC.,]",
+      "upload_date": "2025-12-05"
+    }
+  ],
+  "us_excluded": []
+}

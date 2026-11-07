@@ -1,0 +1,519 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand XARELTO",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000944",
+      "eu_number": "EU/1/08/472",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000944",
+      "mah": "Bayer AG",
+      "marketing_authorisation_date": "2008-09-30",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/xarelto",
+      "name": "Xarelto",
+      "record_from": "2008-09-30",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 30
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/005279",
+      "eu_number": "EU/1/20/1488",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-005279",
+      "mah": "Accord Healthcare S.L.U.",
+      "marketing_authorisation_date": "2020-11-16",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/rivaroxaban-accord",
+      "name": "Rivaroxaban Accord",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/005600",
+      "eu_number": "EU/1/21/1588",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-005600",
+      "mah": "Viatris Limited",
+      "marketing_authorisation_date": "2021-11-12",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/rivaroxaban-viatris",
+      "name": "Rivaroxaban Viatris (previously Rivaroxaban Mylan)",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/006643",
+      "eu_number": "EU/1/25/1994",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-006643",
+      "mah": "PGF Pharma International d.o.o.",
+      "marketing_authorisation_date": "2025-11-21",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/svariya",
+      "name": "Svariya (previously Rivaroxaban Koanaa)",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000944",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "RIVAROXABAN"
+  ],
+  "inn": "rivaroxaban",
+  "name": "RIVAROXABAN",
+  "rank": 235,
+  "rxcui": [
+    "1114198",
+    "1114202",
+    "1232082",
+    "1232084",
+    "1232086",
+    "1232088",
+    "1549682",
+    "1549683",
+    "2059015",
+    "2059017",
+    "2588062",
+    "2588066"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 22,
+    "approval_holders": 21,
+    "earliest_marketing_start": "2011-07-01",
+    "latest_label_update": "2026-10-26",
+    "nda_bla_applications": 2,
+    "repackagers": 3
+  },
+  "unii": [
+    {
+      "ingredient": "RIVAROXABAN",
+      "unii": "9NDF7JZ4M3"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA022406",
+        "NDA215859"
+      ],
+      "brand_names": [
+        "XARELTO",
+        "Xarelto"
+      ],
+      "combination": false,
+      "home_inn": "rivaroxaban",
+      "ingredients": [
+        "RIVAROXABAN"
+      ],
+      "labeler": "Janssen Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2011-07-01",
+      "moieties": [
+        "RIVAROXABAN"
+      ],
+      "product_ndcs": [
+        "50458-575",
+        "50458-577",
+        "50458-578",
+        "50458-579",
+        "50458-580",
+        "50458-584"
+      ],
+      "rxcui": [
+        "1114198",
+        "1114202",
+        "1232082",
+        "1232084",
+        "1232086",
+        "1232088",
+        "1549682",
+        "1549683",
+        "2059015",
+        "2059017",
+        "2588062",
+        "2588066"
+      ],
+      "setid": "10db92f9-2300-4a80-836b-673e1ae91610",
+      "source": "openfda",
+      "spl_version": 65,
+      "title": "XARELTO (RIVAROXABAN) TABLET, FILM COATED XARELTO (RIVAROXABAN) TABLET, FILM COATED XARELTO (RIVAROXABAN) KIT XARELTO (RIVAROXABAN) GRANULE, FOR SUSPENSION [JANSSEN PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-09-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA208555"
+      ],
+      "brand_names": [
+        "RIVAROXABAN"
+      ],
+      "combination": false,
+      "home_inn": "rivaroxaban",
+      "ingredients": [
+        "RIVAROXABAN"
+      ],
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-03-06",
+      "moieties": [
+        "RIVAROXABAN"
+      ],
+      "product_ndcs": [
+        "68180-709"
+      ],
+      "rxcui": [
+        "2059015"
+      ],
+      "setid": "702fed3e-ae25-49ba-98cc-562e0e244214",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "RIVAROXABAN TABLET, FILM COATED [LUPIN PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-04-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA208544"
+      ],
+      "brand_names": [
+        "Rivaroxaban"
+      ],
+      "combination": false,
+      "home_inn": "rivaroxaban",
+      "ingredients": [
+        "RIVAROXABAN"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-04-10",
+      "moieties": [
+        "RIVAROXABAN"
+      ],
+      "product_ndcs": [
+        "59651-849"
+      ],
+      "rxcui": [
+        "2059015"
+      ],
+      "setid": "bcb0e6e7-3006-4d82-8009-c5fddbbfc80d",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "RIVAROXABAN TABLET, FILM COATED [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2026-05-25"
+    },
+    {
+      "application_numbers": [
+        "ANDA217810"
+      ],
+      "brand_names": [
+        "Rivaroxaban"
+      ],
+      "combination": false,
+      "home_inn": "rivaroxaban",
+      "ingredients": [
+        "RIVAROXABAN"
+      ],
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-05-02",
+      "moieties": [
+        "RIVAROXABAN"
+      ],
+      "product_ndcs": [
+        "60505-6256"
+      ],
+      "rxcui": [
+        "2059015"
+      ],
+      "setid": "e98f6d83-5172-97a1-ee41-5d7d1d8ba2fd",
+      "source": "dailymed-title-match",
+      "spl_version": 4,
+      "title": "RIVAROXABAN TABLET, FILM COATED [APOTEX CORP.]",
+      "upload_date": "2026-10-26"
+    },
+    {
+      "application_numbers": [
+        "ANDA208534"
+      ],
+      "brand_names": [
+        "Rivaroxaban"
+      ],
+      "combination": false,
+      "home_inn": "rivaroxaban",
+      "ingredients": [
+        "RIVAROXABAN"
+      ],
+      "labeler": "Dr.Reddy's Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-05-14",
+      "moieties": [
+        "RIVAROXABAN"
+      ],
+      "product_ndcs": [
+        "43598-981"
+      ],
+      "rxcui": [
+        "2059015"
+      ],
+      "setid": "122e6f78-067b-9065-adb2-ec7fec9f008e",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "RIVAROXABAN TABLET [DR.REDDY'S LABORATORIES, INC.]",
+      "upload_date": "2026-05-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA210301"
+      ],
+      "brand_names": [
+        "RIVAROXABAN"
+      ],
+      "combination": false,
+      "home_inn": "rivaroxaban",
+      "ingredients": [
+        "RIVAROXABAN"
+      ],
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-05-14",
+      "moieties": [
+        "RIVAROXABAN"
+      ],
+      "product_ndcs": [
+        "46708-240",
+        "46708-346",
+        "46708-347",
+        "46708-348",
+        "46708-683"
+      ],
+      "rxcui": [
+        "1114198",
+        "1232082",
+        "1232086",
+        "1549682",
+        "2059015"
+      ],
+      "setid": "5524f30f-789d-4f5c-8f7c-d03a475b6d34",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "RIVAROXABAN TABLET, FILM COATED RIVAROXABAN KIT [ALEMBIC PHARMACEUTICALS LIMITED]",
+      "upload_date": "2025-11-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA213114"
+      ],
+      "brand_names": [
+        "Rivaroxaban"
+      ],
+      "combination": false,
+      "home_inn": "rivaroxaban",
+      "ingredients": [
+        "RIVAROXABAN"
+      ],
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-05-14",
+      "moieties": [
+        "RIVAROXABAN"
+      ],
+      "product_ndcs": [
+        "33342-488"
+      ],
+      "rxcui": [
+        "2059015"
+      ],
+      "setid": "57717a31-d9d3-4246-90c0-4e4c0a29adf5",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "RIVAROXABAN TABLET, FILM COATED [MACLEODS PHARMACEUTICALS LIMITED]",
+      "upload_date": "2026-04-27"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "45f16f1b-e405-4aa6-bc8b-977d4864af3e"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c0efa9f9-ca7a-471a-8030-99056fa5da09"
+    },
+    {
+      "combination": false,
+      "labeler": "ScieGen pharmaceuticals,Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3b53cebf-946c-b82b-e063-6394a90a5da7"
+    },
+    {
+      "combination": false,
+      "labeler": "Indoco Remedies Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9fee7136-c8fd-4bea-ab15-7a0e7292396d"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b0306b06-d8cf-48de-9e93-57d77e4e98f5"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "925a9a11-ae5b-405c-96d2-b1be4b85bf71"
+    },
+    {
+      "combination": false,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e8e4275c-6cbe-4976-8cae-f62baf954d27"
+    },
+    {
+      "combination": false,
+      "labeler": "Changzhou Pharmaceutical Factory",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9178947d-9d58-4c1a-b158-6030e17556af"
+    },
+    {
+      "combination": false,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "481b7802-5093-43e7-bbd9-1532197eb6e6"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d6de1719-6fbd-4386-9f81-d65980dc4bd8"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e62f23c6-89f2-4179-95dc-5732401b3f93"
+    },
+    {
+      "combination": false,
+      "labeler": "Exelan pharmaceuticals,Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c2f55475-2a98-43f3-9eac-93995904ebc5"
+    },
+    {
+      "combination": false,
+      "labeler": "Florida Pharmaceutical Products, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f0ef9361-f06d-4028-97af-183b545f4aea"
+    },
+    {
+      "combination": false,
+      "labeler": "XLCare Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "291011aa-60eb-4109-b59c-1c521fbeac4f"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "88246a0e-befe-4dc6-81e1-4b7adc266db2"
+    }
+  ]
+}

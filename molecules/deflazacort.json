@@ -1,0 +1,468 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "DEFLAZACORT"
+  ],
+  "inn": "deflazacort",
+  "name": "DEFLAZACORT",
+  "rank": 466,
+  "rxcui": [
+    "153098",
+    "153880",
+    "1870950",
+    "1870952",
+    "1870954",
+    "1870956",
+    "1870958",
+    "1870960",
+    "1870964",
+    "1870968",
+    "2719198"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 20,
+    "approval_holders": 11,
+    "earliest_marketing_start": "2018-09-10",
+    "latest_label_update": "2026-10-15",
+    "nda_bla_applications": 2,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "DEFLAZACORT",
+      "unii": "KR5YZ6AE4B"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA208684",
+        "NDA208685"
+      ],
+      "brand_names": [
+        "EMFLAZA"
+      ],
+      "combination": false,
+      "home_inn": "deflazacort",
+      "ingredients": [
+        "DEFLAZACORT"
+      ],
+      "labeler": "PTC Therapeutics, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-09-10",
+      "moieties": [
+        "DEFLAZACORT"
+      ],
+      "product_ndcs": [
+        "52856-501",
+        "52856-502",
+        "52856-503",
+        "52856-504",
+        "52856-505"
+      ],
+      "rxcui": [
+        "153098",
+        "153880",
+        "1870950",
+        "1870952",
+        "1870954",
+        "1870956",
+        "1870958",
+        "1870960",
+        "1870964",
+        "1870968"
+      ],
+      "setid": "31b347d2-f156-4055-9d8f-7cf0df420296",
+      "source": "dailymed-title-match",
+      "spl_version": 22,
+      "title": "EMFLAZA (DEFLAZACORT) TABLET EMFLAZA (DEFLAZACORT) SUSPENSION [PTC THERAPEUTICS, INC.]",
+      "upload_date": "2026-10-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA217123"
+      ],
+      "brand_names": [
+        "Deflazacort"
+      ],
+      "combination": false,
+      "home_inn": "deflazacort",
+      "ingredients": [
+        "DEFLAZACORT"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-02-09",
+      "moieties": [
+        "DEFLAZACORT"
+      ],
+      "product_ndcs": [
+        "59651-599",
+        "59651-600",
+        "59651-601",
+        "59651-602"
+      ],
+      "rxcui": [
+        "153098",
+        "153880",
+        "1870954",
+        "1870958"
+      ],
+      "setid": "77d7525d-89c9-4fde-a6a8-0a463fd6cfeb",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "DEFLAZACORT TABLET [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2026-06-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA217813"
+      ],
+      "brand_names": [
+        "Deflazacort Oral Suspension"
+      ],
+      "combination": false,
+      "home_inn": "deflazacort",
+      "ingredients": [
+        "DEFLAZACORT"
+      ],
+      "labeler": "Cranbury Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-05-01",
+      "moieties": [
+        "DEFLAZACORT"
+      ],
+      "product_ndcs": [
+        "27808-249"
+      ],
+      "rxcui": [
+        "1870964"
+      ],
+      "setid": "881785a5-41b4-4679-a29b-5d77ca51ca60",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "DEFLAZACORT ORAL SUSPENSION (DEFLAZACORT ORAL) SUSPENSION [CRANBURY PHARMACEUTICALS, LLC]",
+      "upload_date": "2026-06-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA216720"
+      ],
+      "brand_names": [
+        "Deflazacort"
+      ],
+      "combination": false,
+      "home_inn": "deflazacort",
+      "ingredients": [
+        "DEFLAZACORT"
+      ],
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-11-05",
+      "moieties": [
+        "DEFLAZACORT"
+      ],
+      "product_ndcs": [
+        "0832-0814",
+        "0832-0815",
+        "0832-0816",
+        "0832-0817"
+      ],
+      "rxcui": [
+        "153098",
+        "153880",
+        "1870954",
+        "1870958"
+      ],
+      "setid": "40818600-3ff0-4c9c-8e31-2001425a7dc9",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "DEFLAZACORT TABLET [UPSHER-SMITH LABORATORIES, LLC]",
+      "upload_date": "2026-07-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA217741"
+      ],
+      "brand_names": [
+        "Deflazacort"
+      ],
+      "combination": false,
+      "home_inn": "deflazacort",
+      "ingredients": [
+        "DEFLAZACORT"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-03-19",
+      "moieties": [
+        "DEFLAZACORT"
+      ],
+      "product_ndcs": [
+        "70095-040",
+        "70095-041",
+        "70095-042",
+        "70095-043"
+      ],
+      "rxcui": [
+        "153098",
+        "153880",
+        "1870954",
+        "1870958"
+      ],
+      "setid": "fb5350d5-ead1-41f4-8b25-0da0bd7fcffe",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "DEFLAZACORT TABLET [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2025-12-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA219254"
+      ],
+      "brand_names": [
+        "Deflazacort"
+      ],
+      "combination": false,
+      "home_inn": "deflazacort",
+      "ingredients": [
+        "DEFLAZACORT"
+      ],
+      "labeler": "Doppel Farmaceutici S.r.l.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-06-12",
+      "moieties": [
+        "DEFLAZACORT"
+      ],
+      "product_ndcs": [
+        "81806-204",
+        "81806-206",
+        "81806-207",
+        "81806-208"
+      ],
+      "rxcui": [
+        "153098",
+        "153880",
+        "1870954",
+        "1870958"
+      ],
+      "setid": "34a03eb7-74f5-4471-e063-6394a90aca63",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "DEFLAZACORT TABLET [DOPPEL FARMACEUTICI S.R.L.]",
+      "upload_date": "2026-08-31"
+    },
+    {
+      "application_numbers": [
+        "ANDA219417"
+      ],
+      "brand_names": [
+        "PYQUVI"
+      ],
+      "combination": false,
+      "home_inn": "deflazacort",
+      "ingredients": [
+        "DEFLAZACORT"
+      ],
+      "labeler": "Aucta Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-06-30",
+      "moieties": [
+        "DEFLAZACORT"
+      ],
+      "product_ndcs": [
+        "73289-0089"
+      ],
+      "rxcui": [
+        "1870964",
+        "2719198"
+      ],
+      "setid": "39854f19-d8be-6438-e063-6394a90a9422",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "PYQUVI (DEFLAZACORT) SUSPENSION [AUCTA PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-07-11"
+    },
+    {
+      "application_numbers": [
+        "NDA208684",
+        "NDA208685"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "EMFLAZA"
+      ],
+      "first_posted": "2017-02-22",
+      "found_by": "EMFLAZA",
+      "labeler": "Marathon Pharmaceuticals, LLC",
+      "labeler_unverified": true,
+      "last_posted": "2019-12-12",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2020-06-30"
+      ],
+      "product_ndcs": [
+        "42998-501",
+        "42998-502",
+        "42998-503",
+        "42998-504",
+        "42998-505"
+      ],
+      "rxcui": [],
+      "setid": "c1d8a24e-96d4-4e3a-8f7e-b9c2dc060b1f",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "31b347d2-f156-4055-9d8f-7cf0df420296"
+      ],
+      "title": "EMFLAZA (deflazacort) tablet EMFLAZA (deflazacort) suspension"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "14569f71-573e-49fd-b80e-b3b52531b1c8"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "18518568-a40b-41cb-91ce-44fbb5557971"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2fac1332-0247-1047-e063-6294a90a557f"
+    },
+    {
+      "combination": false,
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ba749cfb-813d-4799-9e7b-44ede92065f2"
+    },
+    {
+      "combination": false,
+      "labeler": "Biocon Pharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e76f35a5-711c-c511-9fd8-b8c4c0b43b85"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "00df3169-b8e3-4584-823b-91b71807d1a6"
+    },
+    {
+      "combination": false,
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "89365f9f-a7ae-40d3-aecc-e4add75d21c2"
+    },
+    {
+      "combination": false,
+      "labeler": "Doppel Farmaceutici S.r.l.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3542a1e3-acfd-6b9a-e063-6394a90a9466"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ced839ee-1131-45c6-9e38-cc81d85daf1c"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f99fde7c-91ac-4d67-bd76-2b18a1d31f7d"
+    },
+    {
+      "combination": false,
+      "labeler": "Doppel Farmaceutici S.r.l.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "40a833a4-e029-a99e-e063-6394a90afd50"
+    },
+    {
+      "combination": false,
+      "labeler": "Doppel Farmaceutici S.r.l.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "43f3890e-0b1d-9bb5-e063-6294a90aa622"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "abf1dba1-cfd8-4a05-aa2b-ffacfbeb9fa9"
+    }
+  ]
+}

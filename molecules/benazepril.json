@@ -1,0 +1,568 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "BENAZEPRIL HYDROCHLORIDE"
+  ],
+  "inn": "benazepril",
+  "name": "BENAZEPRIL",
+  "rank": 321,
+  "rxcui": [
+    "898362",
+    "898366",
+    "898367",
+    "898371",
+    "898372",
+    "898376",
+    "898687",
+    "898689",
+    "898690",
+    "898692",
+    "898719",
+    "898721",
+    "898723"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 23,
+    "approval_holders": 17,
+    "earliest_marketing_start": "1991-06-21",
+    "latest_label_update": "2026-10-15",
+    "nda_bla_applications": 2,
+    "repackagers": 12
+  },
+  "unii": [
+    {
+      "ingredient": "BENAZEPRIL HYDROCHLORIDE",
+      "unii": "N1SN99T69T"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA019851"
+      ],
+      "brand_names": [
+        "Lotensin"
+      ],
+      "combination": false,
+      "home_inn": "benazepril",
+      "ingredients": [
+        "BENAZEPRIL HYDROCHLORIDE"
+      ],
+      "labeler": "Validus Pharmaceuticals LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1991-06-21",
+      "moieties": [
+        "BENAZEPRIL"
+      ],
+      "product_ndcs": [
+        "30698-448",
+        "30698-449",
+        "30698-450"
+      ],
+      "rxcui": [
+        "898687",
+        "898689",
+        "898690",
+        "898692",
+        "898719",
+        "898721"
+      ],
+      "setid": "2abb091b-a53e-46b0-9b84-e5ee8f2bdd8e",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "LOTENSIN (BENAZEPRIL HYDROCHLORIDE) TABLET [VALIDUS PHARMACEUTICALS LLC]",
+      "upload_date": "2025-10-02"
+    },
+    {
+      "application_numbers": [
+        "NDA020033"
+      ],
+      "brand_names": [
+        "Lotensin HCT"
+      ],
+      "combination": true,
+      "home_inn": "hydrochlorothiazide",
+      "ingredients": [
+        "BENAZEPRIL HYDROCHLORIDE",
+        "HYDROCHLOROTHIAZIDE"
+      ],
+      "labeler": "Validus Pharmaceuticals LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1992-05-30",
+      "moieties": [
+        "BENAZEPRIL",
+        "HYDROCHLOROTHIAZIDE"
+      ],
+      "product_ndcs": [
+        "30698-452",
+        "30698-453",
+        "30698-454"
+      ],
+      "rxcui": [
+        "898362",
+        "898366",
+        "898367",
+        "898371",
+        "898372",
+        "898376"
+      ],
+      "setid": "94c4536f-e28e-48b1-8336-b3939917e99d",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "LOTENSIN HCT (BENAZEPRIL HYDROCHLORIDE AND HYDROCHLOROTHIAZIDE) TABLET [VALIDUS PHARMACEUTICALS LLC]",
+      "upload_date": "2026-02-26"
+    },
+    {
+      "application_numbers": [
+        "ANDA078212"
+      ],
+      "brand_names": [
+        "Benazepril Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "benazepril",
+      "ingredients": [
+        "BENAZEPRIL HYDROCHLORIDE"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2008-05-22",
+      "moieties": [
+        "BENAZEPRIL"
+      ],
+      "product_ndcs": [
+        "65862-117",
+        "65862-118"
+      ],
+      "rxcui": [
+        "898687",
+        "898690",
+        "898719"
+      ],
+      "setid": "09e383a8-e912-4cf7-8fb3-05545af80dd0",
+      "source": "openfda",
+      "spl_version": 26,
+      "title": "BENAZEPRIL HYDROCHLORIDE TABLET, FILM COATED [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2026-03-16"
+    },
+    {
+      "application_numbers": [
+        "ANDA076820"
+      ],
+      "brand_names": [
+        "Benazepril Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "benazepril",
+      "ingredients": [
+        "BENAZEPRIL HYDROCHLORIDE"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-02-02",
+      "moieties": [
+        "BENAZEPRIL"
+      ],
+      "product_ndcs": [
+        "65162-751",
+        "65162-752",
+        "65162-753",
+        "65162-754"
+      ],
+      "rxcui": [
+        "898687",
+        "898690",
+        "898719",
+        "898723"
+      ],
+      "setid": "a216253b-27cb-42ef-b5a8-67fb05aafb88",
+      "source": "openfda",
+      "spl_version": 20,
+      "title": "BENAZEPRIL HYDROCHLORIDE TABLET [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2024-10-25"
+    },
+    {
+      "application_numbers": [
+        "ANDA076118"
+      ],
+      "brand_names": [
+        "Benazepril Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "benazepril",
+      "ingredients": [
+        "BENAZEPRIL HYDROCHLORIDE"
+      ],
+      "labeler": "Solco healthcare U.S., LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-01-01",
+      "moieties": [
+        "BENAZEPRIL"
+      ],
+      "product_ndcs": [
+        "43547-335",
+        "43547-336",
+        "43547-337",
+        "43547-338"
+      ],
+      "rxcui": [
+        "898687",
+        "898690",
+        "898719",
+        "898723"
+      ],
+      "setid": "bb91223e-ffa5-4a3a-b191-fe121250c20c",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "BENAZEPRIL HYDROCHLORIDE TABLET, COATED [SOLCO HEALTHCARE U.S., LLC]",
+      "upload_date": "2024-12-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA076267"
+      ],
+      "brand_names": [
+        "Benazepril Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "benazepril",
+      "ingredients": [
+        "BENAZEPRIL HYDROCHLORIDE"
+      ],
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-08-20",
+      "moieties": [
+        "BENAZEPRIL"
+      ],
+      "product_ndcs": [
+        "23155-749",
+        "23155-750",
+        "23155-751",
+        "23155-752"
+      ],
+      "rxcui": [
+        "898687",
+        "898690",
+        "898719",
+        "898723"
+      ],
+      "setid": "910dac3a-728c-4f94-a514-e2b8f4680d39",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "BENAZEPRIL HYDROCHLORIDE TABLET [HERITAGE PHARMACEUTICALS INC. D/B/A AVET PHARMACEUTICALS INC.]",
+      "upload_date": "2025-06-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA076333"
+      ],
+      "brand_names": [
+        "Benazepril Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "benazepril",
+      "ingredients": [
+        "BENAZEPRIL HYDROCHLORIDE"
+      ],
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-07-27",
+      "moieties": [
+        "BENAZEPRIL"
+      ],
+      "product_ndcs": [
+        "62559-524",
+        "62559-525",
+        "62559-526",
+        "62559-527"
+      ],
+      "rxcui": [
+        "898687",
+        "898690",
+        "898719",
+        "898723"
+      ],
+      "setid": "ff732cfa-9ded-4226-b464-19c90a6865ae",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "BENAZEPRIL HYDROCHLORIDE TABLET [ANI PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-09-10"
+    },
+    {
+      "application_numbers": [
+        "NDA020033"
+      ],
+      "brand_names": [
+        "benazepril hydrochloride and hydrochlorothiazide"
+      ],
+      "combination": true,
+      "home_inn": "benazepril",
+      "ingredients": [
+        "BENAZEPRIL HYDROCHLORIDE",
+        "HYDROCHLOROTHIAZIDE"
+      ],
+      "labeler": "Padagis US LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2019-04-07",
+      "moieties": [
+        "BENAZEPRIL",
+        "HYDROCHLOROTHIAZIDE"
+      ],
+      "product_ndcs": [
+        "0574-0228",
+        "0574-0229"
+      ],
+      "rxcui": [
+        "898362",
+        "898367",
+        "898372"
+      ],
+      "setid": "3e2d3974-38b0-49d0-8020-f74107584724",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "BENAZEPRIL HYDROCHLORIDE AND HYDROCHLOROTHIAZIDE TABLET [PADAGIS US LLC]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "NDA019851"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "LOTENSIN"
+      ],
+      "first_posted": "2008-07-02",
+      "found_by": "LOTENSIN",
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2013-07-15",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2010-08-01",
+        "2012-12-01",
+        "2016-01-01",
+        "2016-02-01"
+      ],
+      "product_ndcs": [
+        "0078-0447",
+        "0078-0448",
+        "0078-0449",
+        "0078-0450"
+      ],
+      "rxcui": [],
+      "setid": "4d954024-a191-46e3-ba71-2a7d5b0c65d5",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "2abb091b-a53e-46b0-9b84-e5ee8f2bdd8e"
+      ],
+      "title": "LOTENSIN (benazepril hydrochloride) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA020033"
+      ],
+      "archived_versions": 9,
+      "brand_names": [
+        "LOTENSIN"
+      ],
+      "first_posted": "2007-03-19",
+      "found_by": "LOTENSIN",
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2013-04-16",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2010-06-30",
+        "2014-11-30",
+        "2014-12-31",
+        "2015-09-30"
+      ],
+      "product_ndcs": [
+        "0078-0451",
+        "0078-0452",
+        "0078-0453",
+        "0078-0454"
+      ],
+      "rxcui": [],
+      "setid": "81e77f65-a1b0-4c1c-9e7c-fc9de8c14636",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "3e2d3974-38b0-49d0-8020-f74107584724",
+        "94c4536f-e28e-48b1-8336-b3939917e99d"
+      ],
+      "title": "LOTENSIN HCT (benazepril hydrochloride and hydrochlorothiazide) tablet"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": true,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "51b0aed8-a229-4d2c-8fdf-aa957fddc41b"
+    },
+    {
+      "combination": true,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "968c611b-43a7-40f0-9ed3-aa67ee88364b"
+    },
+    {
+      "combination": true,
+      "labeler": "Dr.Reddy's Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ca014f06-982c-6fe1-9948-a3701dd35d34"
+    },
+    {
+      "combination": true,
+      "labeler": "Dr.Reddy's Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f12f18bb-7ddb-e7dc-4edd-32f4ac212bca"
+    },
+    {
+      "combination": true,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "03b175fc-d430-490d-b7ac-9f7a2cb1dd8b"
+    },
+    {
+      "combination": true,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e6527adf-8c74-4d81-9199-d56a7fca895e"
+    },
+    {
+      "combination": true,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "27b0c628-820a-48bf-a411-86c0ebd4cc8d"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "856a8cdc-57cc-4355-966d-986bbc5fa6e6"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "df13d8d8-0d70-4d6f-9dd1-5da38fbe2562"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e0ddcfbc-c9d8-45b1-9c11-0d1eff8c1e9e"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "67c64de1-5579-46e4-82ee-c9bbee708e02"
+    },
+    {
+      "combination": true,
+      "labeler": "Advagen Pharma Ltd",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3f6e6da8-6da3-47c5-a151-e6fd7206890e"
+    },
+    {
+      "combination": true,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c9bdfbb4-87b6-4de4-bc1d-5025d3ef591f"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "99ed4927-9a34-4e8d-8eea-60b63c867d46"
+    },
+    {
+      "combination": true,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "df8e23c8-6c8f-4293-8a37-5ad3d48dba94"
+    }
+  ]
+}

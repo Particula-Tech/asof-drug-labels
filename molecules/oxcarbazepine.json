@@ -1,0 +1,566 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "OXCARBAZEPINE"
+  ],
+  "inn": "oxcarbazepine",
+  "name": "OXCARBAZEPINE",
+  "rank": 101,
+  "rxcui": [
+    "283536",
+    "312136",
+    "312137",
+    "312138",
+    "1365653",
+    "1365660",
+    "1365842",
+    "1365844",
+    "1365847",
+    "1365850"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 34,
+    "approval_holders": 30,
+    "earliest_marketing_start": "2000-01-30",
+    "latest_label_update": "2026-10-30",
+    "nda_bla_applications": 3,
+    "repackagers": 15
+  },
+  "unii": [
+    {
+      "ingredient": "OXCARBAZEPINE",
+      "unii": "VZI5B1W380"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021014",
+        "NDA021285"
+      ],
+      "brand_names": [
+        "Trileptal"
+      ],
+      "combination": false,
+      "home_inn": "oxcarbazepine",
+      "ingredients": [
+        "OXCARBAZEPINE"
+      ],
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2000-01-30",
+      "moieties": [
+        "OXCARBAZEPINE"
+      ],
+      "product_ndcs": [
+        "0078-0337",
+        "0078-0357",
+        "0078-0456",
+        "0078-0457"
+      ],
+      "rxcui": [],
+      "setid": "4c5c86c8-ab7f-4fcf-bc1b-5a0b1fd0691b",
+      "source": "dailymed-title-match",
+      "spl_version": 40,
+      "title": "TRILEPTAL (OXCARBAZEPINE) TABLET, FILM COATED TRILEPTAL (OXCARBAZEPINE) SUSPENSION [NOVARTIS PHARMACEUTICALS CORPORATION]",
+      "upload_date": "2026-10-30"
+    },
+    {
+      "application_numbers": [
+        "NDA202810"
+      ],
+      "brand_names": [
+        "OXTELLAR XR"
+      ],
+      "combination": false,
+      "home_inn": "oxcarbazepine",
+      "ingredients": [
+        "OXCARBAZEPINE"
+      ],
+      "labeler": "Supernus Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2013-01-17",
+      "moieties": [
+        "OXCARBAZEPINE"
+      ],
+      "product_ndcs": [
+        "17772-121",
+        "17772-122",
+        "17772-123"
+      ],
+      "rxcui": [
+        "1365653",
+        "1365660",
+        "1365842",
+        "1365844",
+        "1365847",
+        "1365850"
+      ],
+      "setid": "aa610e56-1d1d-11e1-8bc2-0800200c9a66",
+      "source": "dailymed-title-match",
+      "spl_version": 23,
+      "title": "OXTELLAR XR (OXCARBAZEPINE) TABLET [SUPERNUS PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-10-06"
+    },
+    {
+      "application_numbers": [
+        "ANDA077802"
+      ],
+      "brand_names": [
+        "Oxcarbazepine"
+      ],
+      "combination": false,
+      "home_inn": "oxcarbazepine",
+      "ingredients": [
+        "OXCARBAZEPINE"
+      ],
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2007-10-09",
+      "moieties": [
+        "OXCARBAZEPINE"
+      ],
+      "product_ndcs": [
+        "68462-137",
+        "68462-138",
+        "68462-139"
+      ],
+      "rxcui": [
+        "312136",
+        "312137",
+        "312138"
+      ],
+      "setid": "1c713b59-a628-42e6-b166-ae71c3913284",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "OXCARBAZEPINE TABLET, FILM COATED [GLENMARK PHARMACEUTICALS INC., USA]",
+      "upload_date": "2025-12-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA077794"
+      ],
+      "brand_names": [
+        "Oxcarbazepine"
+      ],
+      "combination": false,
+      "home_inn": "oxcarbazepine",
+      "ingredients": [
+        "OXCARBAZEPINE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2007-10-09",
+      "moieties": [
+        "OXCARBAZEPINE"
+      ],
+      "product_ndcs": [
+        "62756-183",
+        "62756-184",
+        "62756-185"
+      ],
+      "rxcui": [
+        "312136",
+        "312137",
+        "312138"
+      ],
+      "setid": "7ecd5eef-46f4-407f-9b63-ba65adb3eced",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "OXCARBAZEPINE TABLET, FILM COATED OXCARBAZEPINE (OXCARBAZEPINE) TABLET, FILM COATED [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2026-06-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA078069"
+      ],
+      "brand_names": [
+        "OXCARBAZEPINE"
+      ],
+      "combination": false,
+      "home_inn": "oxcarbazepine",
+      "ingredients": [
+        "OXCARBAZEPINE"
+      ],
+      "labeler": "Breckenridge Pharmaceutical, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2008-01-11",
+      "moieties": [
+        "OXCARBAZEPINE"
+      ],
+      "product_ndcs": [
+        "51991-053",
+        "51991-054",
+        "51991-055"
+      ],
+      "rxcui": [
+        "312136",
+        "312137",
+        "312138"
+      ],
+      "setid": "54fb494e-bce4-442d-954a-757f9851e81e",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "OXCARBAZEPINE TABLET, FILM COATED [BRECKENRIDGE PHARMACEUTICAL, INC.]",
+      "upload_date": "2026-04-22"
+    },
+    {
+      "application_numbers": [
+        "ANDA202961"
+      ],
+      "brand_names": [
+        "Oxcarbazepine"
+      ],
+      "combination": false,
+      "home_inn": "oxcarbazepine",
+      "ingredients": [
+        "OXCARBAZEPINE"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-06-04",
+      "moieties": [
+        "OXCARBAZEPINE"
+      ],
+      "product_ndcs": [
+        "65162-649"
+      ],
+      "rxcui": [
+        "283536"
+      ],
+      "setid": "2515391e-3a88-4226-92e5-f641c8409fe5",
+      "source": "openfda",
+      "spl_version": 28,
+      "title": "OXCARBAZEPINE SUSPENSION [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA213183"
+      ],
+      "brand_names": [
+        "Oxcarbazepine"
+      ],
+      "combination": false,
+      "home_inn": "oxcarbazepine",
+      "ingredients": [
+        "OXCARBAZEPINE"
+      ],
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-01-01",
+      "moieties": [
+        "OXCARBAZEPINE"
+      ],
+      "product_ndcs": [
+        "67877-532"
+      ],
+      "rxcui": [
+        "283536"
+      ],
+      "setid": "3f36f519-c30c-4929-afa0-9844dc531e3f",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "OXCARBAZEPINE SUSPENSION [ASCEND LABORATORIES, LLC]",
+      "upload_date": "2025-07-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA077747"
+      ],
+      "brand_names": [
+        "Oxcarbazepine"
+      ],
+      "combination": false,
+      "home_inn": "oxcarbazepine",
+      "ingredients": [
+        "OXCARBAZEPINE"
+      ],
+      "labeler": "Advagen Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-03-19",
+      "moieties": [
+        "OXCARBAZEPINE"
+      ],
+      "product_ndcs": [
+        "72888-087",
+        "72888-088",
+        "72888-089"
+      ],
+      "rxcui": [
+        "312136",
+        "312137",
+        "312138"
+      ],
+      "setid": "b0bc10f0-7d1b-4adc-bc59-c48dab58ee5a",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "OXCARBAZEPINE TABLET, FILM COATED [ADVAGEN PHARMA LIMITED]",
+      "upload_date": "2026-02-26"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c2affa00-1d57-4d85-8db3-745191b4714d"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fe49a773-562c-4da6-96b7-bba52f4d61e2"
+    },
+    {
+      "combination": false,
+      "labeler": "Advagen Pharma Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4ef6a941-a017-40f2-a50a-ab66c43b3347"
+    },
+    {
+      "combination": false,
+      "labeler": "EPIC PHARMA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "62ab716b-f05f-454d-95b3-1a382cdf7226"
+    },
+    {
+      "combination": false,
+      "labeler": "Bionpharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ec033897-21b4-4d08-83de-042783e89251"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a18f591b-587e-4769-8ac2-9cfba0b82526"
+    },
+    {
+      "combination": false,
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d947e9b1-2a15-4048-bb4e-fe56b6851848"
+    },
+    {
+      "combination": false,
+      "labeler": "Biocon Pharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "62dfed1d-4c5b-446d-97b3-bad9c33959ff"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a20e4a95-8ee1-e702-003e-e353ec1ee133"
+    },
+    {
+      "combination": false,
+      "labeler": "Kanchan Healthcare Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7be73d22-f87b-4459-a91c-37c1e34db230"
+    },
+    {
+      "combination": false,
+      "labeler": "Advagen Pharma Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ab4c1f36-82fa-40a2-a31a-227875d0f382"
+    },
+    {
+      "combination": false,
+      "labeler": "Ingenus Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "70798ca9-0eda-49c0-8a7c-b775b6ae3d69"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5048dc87-2d89-434d-be51-4a97b0ce0601"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "962098cc-2d84-4723-a296-b110f1fd659e"
+    },
+    {
+      "combination": false,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "867eaf99-3e31-4f75-bfae-2898804d956d"
+    },
+    {
+      "combination": false,
+      "labeler": "Umedica Laboratories USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e46d4654-76bc-4c33-ac2b-e89ae11b7697"
+    },
+    {
+      "combination": false,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "03bec567-a9c3-4d82-9679-fec5324d0df6"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "21caded0-2ed7-4f7d-9856-27ef7c1a47c8"
+    },
+    {
+      "combination": false,
+      "labeler": "Breckenridge Pharmaceutical, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "682a1210-b26e-426e-8ffe-d25d91bdd608"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell Governmental & Specialty RX, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e74bb389-8426-4ffc-a14b-a5990de6d0d4"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1746d95f-c529-45ba-a520-0c135e8edda8"
+    },
+    {
+      "combination": false,
+      "labeler": "XLCare Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9f5d17e4-ca68-48e2-9e87-d3ab1c59aa93"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "20d826cd-fa4a-4570-9e10-9d7d10fb725b"
+    },
+    {
+      "combination": false,
+      "labeler": "Marlex Pharmaceuticals, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d3684d55-0564-4849-bdf6-b91f22a3e28c"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e23d8a74-b47b-462a-b09c-90bdd58a032e"
+    },
+    {
+      "combination": false,
+      "labeler": "Zameer Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8841174a-9f4b-424f-a50d-01478f2aeb29"
+    }
+  ]
+}

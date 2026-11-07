@@ -1,0 +1,654 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/002322",
+      "eu_number": "EU/1/12/795",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-002322",
+      "mah": "AstraZeneca AB",
+      "marketing_authorisation_date": "2012-11-11",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/forxiga",
+      "name": "Forxiga",
+      "record_from": "2012-11-12",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 22
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/004161",
+      "eu_number": "EU/1/15/1052",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-004161",
+      "mah": "AstraZeneca AB",
+      "marketing_authorisation_date": "2015-11-09",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/edistride",
+      "name": "Edistride",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/006006",
+      "eu_number": "EU/1/23/1721",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-006006",
+      "mah": "Viatris Limited",
+      "marketing_authorisation_date": "2023-03-24",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/dapagliflozin-viatris",
+      "name": "Dapagliflozin Viatris",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 3,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-002322",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "DAPAGLIFLOZIN",
+    "DAPAGLIFLOZIN 2,3-BUTANEDIOL MONOHYDRATE",
+    "DAPAGLIFLOZIN PROPANEDIOL"
+  ],
+  "inn": "dapagliflozin",
+  "name": "DAPAGLIFLOZIN",
+  "rank": 215,
+  "rxcui": [
+    "1486977",
+    "1486981",
+    "1488569",
+    "1488574",
+    "1593058",
+    "1593068",
+    "1593070",
+    "1593072",
+    "1593775",
+    "1593831",
+    "1593833",
+    "1593835",
+    "1940496",
+    "1940498"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 31,
+    "approval_holders": 22,
+    "earliest_marketing_start": "2008-01-14",
+    "latest_label_update": "2026-10-16",
+    "nda_bla_applications": 2,
+    "repackagers": 3
+  },
+  "unii": [
+    {
+      "ingredient": "DAPAGLIFLOZIN",
+      "unii": "1ULL0QJ8UC"
+    },
+    {
+      "ingredient": "DAPAGLIFLOZIN 2,3-BUTANEDIOL MONOHYDRATE",
+      "unii": "U289305BKG"
+    },
+    {
+      "ingredient": "DAPAGLIFLOZIN PROPANEDIOL",
+      "unii": "887K2391VH"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA202293"
+      ],
+      "brand_names": [
+        "FARXIGA"
+      ],
+      "combination": false,
+      "home_inn": "dapagliflozin",
+      "ingredients": [
+        "DAPAGLIFLOZIN PROPANEDIOL"
+      ],
+      "labeler": "AstraZeneca Pharmaceuticals LP",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2008-01-14",
+      "moieties": [
+        "DAPAGLIFLOZIN"
+      ],
+      "product_ndcs": [
+        "0310-6205",
+        "0310-6210"
+      ],
+      "rxcui": [
+        "1486977",
+        "1486981",
+        "1488569",
+        "1488574"
+      ],
+      "setid": "72ad22ae-efe6-4cd6-a302-98aaee423d69",
+      "source": "openfda",
+      "spl_version": 49,
+      "title": "FARXIGA (DAPAGLIFLOZIN) TABLET, FILM COATED [ASTRAZENECA PHARMACEUTICALS LP]",
+      "upload_date": "2026-09-11"
+    },
+    {
+      "application_numbers": [
+        "NDA205649"
+      ],
+      "brand_names": [
+        "XIGDUO XR"
+      ],
+      "combination": true,
+      "home_inn": "metformin",
+      "ingredients": [
+        "DAPAGLIFLOZIN PROPANEDIOL",
+        "METFORMIN HYDROCHLORIDE"
+      ],
+      "labeler": "AstraZeneca Pharmaceuticals LP",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2014-10-29",
+      "moieties": [
+        "DAPAGLIFLOZIN",
+        "METFORMIN"
+      ],
+      "product_ndcs": [
+        "0310-6225",
+        "0310-6250",
+        "0310-6260",
+        "0310-6270",
+        "0310-6280"
+      ],
+      "rxcui": [
+        "1593058",
+        "1593068",
+        "1593070",
+        "1593072",
+        "1593775",
+        "1593831",
+        "1593833",
+        "1593835",
+        "1940496",
+        "1940498"
+      ],
+      "setid": "ac8a0f7b-9f69-4495-abbc-3a47cd75a859",
+      "source": "openfda",
+      "spl_version": 40,
+      "title": "XIGDUO XR (DAPAGLIFLOZIN AND METFORMIN HYDROCHLORIDE) TABLET, FILM COATED, EXTENDED RELEASE [ASTRAZENECA PHARMACEUTICALS LP]",
+      "upload_date": "2026-08-26"
+    },
+    {
+      "application_numbers": [
+        "NDA202293"
+      ],
+      "brand_names": [
+        "DAPAGLIFLOZIN"
+      ],
+      "combination": false,
+      "home_inn": "dapagliflozin",
+      "ingredients": [
+        "DAPAGLIFLOZIN PROPANEDIOL"
+      ],
+      "labeler": "Prasco Laboratories",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2024-01-03",
+      "moieties": [
+        "DAPAGLIFLOZIN"
+      ],
+      "product_ndcs": [
+        "66993-456",
+        "66993-457"
+      ],
+      "rxcui": [
+        "1488569",
+        "1488574"
+      ],
+      "setid": "3aba33aa-f8c6-4b10-85c8-dfa14578d07c",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "DAPAGLIFLOZIN TABLET, FILM COATED [PRASCO LABORATORIES]",
+      "upload_date": "2026-08-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA211478"
+      ],
+      "brand_names": [
+        "Dapagliflozin"
+      ],
+      "combination": false,
+      "home_inn": "dapagliflozin",
+      "ingredients": [
+        "DAPAGLIFLOZIN"
+      ],
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-04-06",
+      "moieties": [
+        "DAPAGLIFLOZIN"
+      ],
+      "product_ndcs": [
+        "72205-432",
+        "72205-433"
+      ],
+      "rxcui": [
+        "1488569",
+        "1488574"
+      ],
+      "setid": "107b4d25-4764-42b7-80e3-9aaff20865ed",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "DAPAGLIFLOZIN TABLET, FILM COATED [NOVADOZ PHARMACEUTICALS LLC]",
+      "upload_date": "2026-06-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA211582"
+      ],
+      "brand_names": [
+        "Dapagliflozin"
+      ],
+      "combination": false,
+      "home_inn": "dapagliflozin",
+      "ingredients": [
+        "DAPAGLIFLOZIN"
+      ],
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-04-06",
+      "moieties": [
+        "DAPAGLIFLOZIN"
+      ],
+      "product_ndcs": [
+        "70710-1380",
+        "70710-1381"
+      ],
+      "rxcui": [
+        "1488569",
+        "1488574"
+      ],
+      "setid": "17586ec6-0104-4b08-ad87-12a837568d6c",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "DAPAGLIFLOZIN TABLET [ZYDUS PHARMACEUTICALS USA INC.]",
+      "upload_date": "2026-06-25"
+    },
+    {
+      "application_numbers": [
+        "ANDA211156"
+      ],
+      "brand_names": [
+        "DAPAGLIFLOZIN"
+      ],
+      "combination": false,
+      "home_inn": "dapagliflozin",
+      "ingredients": [
+        "DAPAGLIFLOZIN"
+      ],
+      "labeler": "Florida Pharmaceutical Products, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-04-06",
+      "moieties": [
+        "DAPAGLIFLOZIN"
+      ],
+      "product_ndcs": [
+        "71921-420",
+        "71921-421"
+      ],
+      "rxcui": [
+        "1488569",
+        "1488574"
+      ],
+      "setid": "20a83ea2-6ad8-4bbb-b516-73c0a9e37399",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "DAPAGLIFLOZIN TABLET [FLORIDA PHARMACEUTICAL PRODUCTS, LLC]",
+      "upload_date": "2026-07-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA211312"
+      ],
+      "brand_names": [
+        "Dapagliflozin"
+      ],
+      "combination": false,
+      "home_inn": "dapagliflozin",
+      "ingredients": [
+        "DAPAGLIFLOZIN"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-04-06",
+      "moieties": [
+        "DAPAGLIFLOZIN"
+      ],
+      "product_ndcs": [
+        "0781-5985",
+        "0781-5990"
+      ],
+      "rxcui": [
+        "1488569",
+        "1488574"
+      ],
+      "setid": "8296f538-4c23-4d6c-be53-8005b83c24b7",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "DAPAGLIFLOZIN TABLET, FILM COATED [SANDOZ INC]",
+      "upload_date": "2026-08-14"
+    },
+    {
+      "application_numbers": [
+        "ANDA211560"
+      ],
+      "brand_names": [
+        "DAPAGLIFLOZIN"
+      ],
+      "combination": false,
+      "home_inn": "dapagliflozin",
+      "ingredients": [
+        "DAPAGLIFLOZIN"
+      ],
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-04-06",
+      "moieties": [
+        "DAPAGLIFLOZIN"
+      ],
+      "product_ndcs": [
+        "62332-392",
+        "62332-393"
+      ],
+      "rxcui": [
+        "1488569",
+        "1488574"
+      ],
+      "setid": "840e2146-2383-489b-bcc4-fecfe986685a",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "DAPAGLIFLOZIN TABLET, FILM COATED [ALEMBIC PHARMACEUTICALS INC.]",
+      "upload_date": "2026-07-24"
+    },
+    {
+      "application_numbers": [
+        "NDA202293"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "FARXIGA"
+      ],
+      "first_posted": "2014-01-22",
+      "found_by": "FARXIGA",
+      "labeler": "E.R. Squibb & Sons, L.L.C.",
+      "labeler_unverified": false,
+      "last_posted": "2015-01-28",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-04-30",
+        "2017-08-31"
+      ],
+      "product_ndcs": [
+        "0003-1427",
+        "0003-1428"
+      ],
+      "rxcui": [],
+      "setid": "fc6ae30e-868b-4ac9-b69d-900922503998",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "3aba33aa-f8c6-4b10-85c8-dfa14578d07c",
+        "72ad22ae-efe6-4cd6-a302-98aaee423d69"
+      ],
+      "title": "FARXIGA (dapagliflozin) tablet, film coated"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "91373924-66dc-4277-aaf2-8536e81a0e4d"
+    },
+    {
+      "combination": false,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a2f86c0a-ce78-4d06-b5d8-ed457c8e3614"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b6b8a10c-64c3-4856-8961-d72d68784f5d"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f56593f7-588e-489d-9fad-b459e90dab18"
+    },
+    {
+      "combination": false,
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f615d81e-d1e8-4561-a4d9-286c615d3bd2"
+    },
+    {
+      "combination": false,
+      "labeler": "Teva Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0406a1c0-56b1-4ea1-95ae-00357ac1ba7e"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "08baca21-e39e-4e61-961f-d89432fe8007"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bd9766c5-104f-4636-897d-b6c92eb94f18"
+    },
+    {
+      "combination": false,
+      "labeler": "Biocon Pharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "828f1004-3647-9a13-8008-c4b3759ecfd0"
+    },
+    {
+      "combination": false,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5dc0e9df-3b45-4469-93fe-3d2eddbfe2b7"
+    },
+    {
+      "combination": true,
+      "labeler": "Prasco Laboratories",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "eaf135b6-e378-4f62-a1e7-db45e23668c7"
+    },
+    {
+      "combination": true,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1cfa51fd-8406-404c-b2a8-0fc1068675fb"
+    },
+    {
+      "combination": true,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4f890458-be94-4baf-b606-83a097e1e23e"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "513bdf9f-774c-4f7f-935a-54d3885e80a4"
+    },
+    {
+      "combination": true,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7d575ca8-9c1f-469d-a341-34daf2f036dd"
+    },
+    {
+      "combination": true,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bddc2d47-8d3d-4c2f-8e5c-7a1a0782219a"
+    },
+    {
+      "combination": true,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "eadcc3ef-f5c2-4a56-a6aa-12909844144e"
+    },
+    {
+      "combination": true,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e6957674-86c1-4536-8e23-54ad7f2cacc4"
+    },
+    {
+      "combination": true,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "10aa7cc4-4f9a-4403-a5c0-753d2aa5f0f9"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d44f7eed-dd51-40d1-8408-8fb331e1f1f6"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "db668c5c-2d49-41c8-8ffd-c2b2652b621a"
+    },
+    {
+      "combination": false,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6425d240-5dd9-4a2c-9348-f8a859702850"
+    },
+    {
+      "combination": false,
+      "labeler": "AvKARE",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "52a778e7-6044-2049-e063-6294a90aa0b7"
+    }
+  ]
+}

@@ -1,0 +1,870 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "NORETHINDRONE",
+    "NORETHINDRONE ACETATE"
+  ],
+  "inn": "norethindrone",
+  "name": "NORETHINDRONE",
+  "rank": 268,
+  "rxcui": [
+    "198042",
+    "748961",
+    "748977",
+    "977836",
+    "1000405",
+    "1251493",
+    "1251495",
+    "1251499",
+    "1251501",
+    "1359123",
+    "1359124",
+    "1359125",
+    "1359126",
+    "1359127",
+    "1359128",
+    "1550964",
+    "1550965",
+    "2556799",
+    "2556800"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 44,
+    "approval_holders": 17,
+    "earliest_marketing_start": "1998-08-07",
+    "latest_label_update": "2026-09-28",
+    "nda_bla_applications": 3,
+    "repackagers": 6
+  },
+  "unii": [
+    {
+      "ingredient": "NORETHINDRONE",
+      "unii": "T18F433X4S"
+    },
+    {
+      "ingredient": "NORETHINDRONE ACETATE",
+      "unii": "9S44LIC7OJ"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020870"
+      ],
+      "brand_names": [
+        "CombiPatch (estradiol/norethindrone acetate transdermal system)"
+      ],
+      "combination": true,
+      "home_inn": "norethindrone",
+      "ingredients": [
+        "ESTRADIOL",
+        "NORETHINDRONE ACETATE"
+      ],
+      "labeler": "Noven Therapeutics, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1998-08-07",
+      "moieties": [
+        "ESTRADIOL",
+        "NORETHINDRONE"
+      ],
+      "product_ndcs": [
+        "68968-0514",
+        "68968-0525"
+      ],
+      "rxcui": [
+        "1251493",
+        "1251495",
+        "1251499",
+        "1251501"
+      ],
+      "setid": "83198ef1-11c4-11e4-9191-0800200c9a66",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "COMBIPATCH (ESTRADIOL/NORETHINDRONE ACETATE TRANSDERMAL SYSTEM) (ESTRADIOL/NORETHINDRONE ACETATE TRANSDERMAL SYSTEM) PATCH, EXTENDED RELEASE [NOVEN THERAPEUTICS, LLC]",
+      "upload_date": "2024-02-27"
+    },
+    {
+      "application_numbers": [
+        "NDA020907"
+      ],
+      "brand_names": [
+        "LOPREEZA"
+      ],
+      "combination": true,
+      "home_inn": "norethindrone",
+      "ingredients": [
+        "ESTRADIOL",
+        "NORETHINDRONE ACETATE"
+      ],
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2019-01-07",
+      "moieties": [
+        "ESTRADIOL",
+        "NORETHINDRONE"
+      ],
+      "product_ndcs": [
+        "69238-1609",
+        "69238-1610"
+      ],
+      "rxcui": [
+        "1359123",
+        "1359124",
+        "1359126",
+        "1359127",
+        "1550964",
+        "1550965"
+      ],
+      "setid": "966ac064-9eb7-4d15-b271-a7880ed1e79a",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "LOPREEZA (ESTRADIOL/NORETHINDRONE ACETATE) TABLET, FILM COATED [AMNEAL PHARMACEUTICALS NY LLC]",
+      "upload_date": "2025-01-24"
+    },
+    {
+      "application_numbers": [
+        "NDA214846"
+      ],
+      "brand_names": [
+        "Myfembree"
+      ],
+      "combination": true,
+      "home_inn": "norethindrone",
+      "ingredients": [
+        "ESTRADIOL HEMIHYDRATE",
+        "NORETHINDRONE ACETATE",
+        "RELUGOLIX"
+      ],
+      "labeler": "Sumitomo Pharma America, Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-05-26",
+      "moieties": [
+        "ESTRADIOL",
+        "NORETHINDRONE",
+        "RELUGOLIX"
+      ],
+      "product_ndcs": [
+        "72974-415"
+      ],
+      "rxcui": [
+        "2556799",
+        "2556800"
+      ],
+      "setid": "fc3feb73-cc84-43a8-aa32-b262460495e8",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "MYFEMBREE (RELUGOLIX, ESTRADIOL HEMIHYDRATE, AND NORETHINDRONE ACETATE) TABLET, FILM COATED [SUMITOMO PHARMA AMERICA, INC]",
+      "upload_date": "2025-09-15"
+    },
+    {
+      "application_numbers": [
+        "NDA020907"
+      ],
+      "brand_names": [
+        "Activella"
+      ],
+      "combination": true,
+      "home_inn": "norethindrone",
+      "ingredients": [
+        "ESTRADIOL",
+        "NORETHINDRONE ACETATE"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2019-05-01",
+      "moieties": [
+        "ESTRADIOL",
+        "NORETHINDRONE"
+      ],
+      "product_ndcs": [
+        "60846-231",
+        "60846-232"
+      ],
+      "rxcui": [
+        "1359123",
+        "1359124",
+        "1359125",
+        "1359126",
+        "1359127",
+        "1359128"
+      ],
+      "setid": "d4b0c1dd-aae9-4ca2-958c-71dbe5d0fab0",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "ACTIVELLA (ESTRADIOL/NORETHINDRONE ACETATE) TABLET, FILM COATED [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2024-06-03"
+    },
+    {
+      "application_numbers": [
+        "NDA017060"
+      ],
+      "brand_names": [
+        "Nora BE"
+      ],
+      "combination": false,
+      "home_inn": "norethindrone",
+      "ingredients": [
+        "NORETHINDRONE"
+      ],
+      "labeler": "Teva Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2023-12-01",
+      "moieties": [
+        "NORETHINDRONE"
+      ],
+      "product_ndcs": [
+        "0480-3475"
+      ],
+      "rxcui": [
+        "198042",
+        "748961",
+        "748977"
+      ],
+      "setid": "426ac898-7745-4645-bf9b-bae319e260e8",
+      "source": "dailymed-title-match",
+      "spl_version": 4,
+      "title": "NORA BE (NORETHINDRONE) TABLET [TEVA PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-09-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA075951"
+      ],
+      "brand_names": [
+        "Norethindrone Acetate"
+      ],
+      "combination": false,
+      "home_inn": "norethindrone",
+      "ingredients": [
+        "NORETHINDRONE ACETATE"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2001-06-29",
+      "moieties": [
+        "NORETHINDRONE"
+      ],
+      "product_ndcs": [
+        "0555-0211"
+      ],
+      "rxcui": [
+        "1000405"
+      ],
+      "setid": "f73f9807-4af6-4faa-ba9a-656a47a4c5e0",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "NORETHINDRONE ACETATE TABLET [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2024-12-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA200275"
+      ],
+      "brand_names": [
+        "Norethindrone Acetate"
+      ],
+      "combination": false,
+      "home_inn": "norethindrone",
+      "ingredients": [
+        "NORETHINDRONE ACETATE"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-07-01",
+      "moieties": [
+        "NORETHINDRONE"
+      ],
+      "product_ndcs": [
+        "65162-475"
+      ],
+      "rxcui": [
+        "1000405"
+      ],
+      "setid": "64cb920c-36e8-4d62-9d08-3ddf3989d313",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "NORETHINDRONE ACETATE (NORETHINDRONE) TABLET [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2024-10-31"
+    },
+    {
+      "application_numbers": [
+        "ANDA090454"
+      ],
+      "brand_names": [
+        "HEATHER"
+      ],
+      "combination": false,
+      "home_inn": "norethindrone",
+      "ingredients": [
+        "NORETHINDRONE"
+      ],
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-04-23",
+      "moieties": [
+        "NORETHINDRONE"
+      ],
+      "product_ndcs": [
+        "68462-303"
+      ],
+      "rxcui": [
+        "198042",
+        "748961",
+        "977836"
+      ],
+      "setid": "35b5ddb5-1729-4588-b2a2-ead56d78b6f9",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "HEATHER (NORETHINDRONE) TABLET [GLENMARK PHARMACEUTICALS INC., USA]",
+      "upload_date": "2026-01-26"
+    },
+    {
+      "application_numbers": [
+        "ANDA091090"
+      ],
+      "brand_names": [
+        "Norethindrone Acetate"
+      ],
+      "combination": false,
+      "home_inn": "norethindrone",
+      "ingredients": [
+        "NORETHINDRONE ACETATE"
+      ],
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-07-21",
+      "moieties": [
+        "NORETHINDRONE"
+      ],
+      "product_ndcs": [
+        "68462-304"
+      ],
+      "rxcui": [
+        "1000405"
+      ],
+      "setid": "d0a94321-eb60-4aa6-a429-f0156f9f8e01",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "NORETHINDRONE ACETATE TABLET [GLENMARK PHARMACEUTICALS INC., USA]",
+      "upload_date": "2026-01-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA091209"
+      ],
+      "brand_names": [
+        "Norethindrone"
+      ],
+      "combination": false,
+      "home_inn": "norethindrone",
+      "ingredients": [
+        "NORETHINDRONE"
+      ],
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-11-03",
+      "moieties": [
+        "NORETHINDRONE"
+      ],
+      "product_ndcs": [
+        "68462-305"
+      ],
+      "rxcui": [
+        "198042",
+        "748961"
+      ],
+      "setid": "0d2f8fea-3675-40d2-afd9-9fcb148dbd4b",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "NORETHINDRONE TABLET [GLENMARK PHARMACEUTICALS INC., USA]",
+      "upload_date": "2026-02-02"
+    },
+    {
+      "application_numbers": [
+        "NDA020907"
+      ],
+      "archived_versions": 9,
+      "brand_names": [
+        "ACTIVELLA"
+      ],
+      "first_posted": "2008-02-08",
+      "found_by": "ACTIVELLA",
+      "labeler": "Novo Nordisk",
+      "labeler_unverified": false,
+      "last_posted": "2018-08-07",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-04-30",
+        "2018-10-31"
+      ],
+      "product_ndcs": [
+        "0169-5174",
+        "0169-5175"
+      ],
+      "rxcui": [],
+      "setid": "0f943869-41a2-4f7e-943d-dd8c17996dd8",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "966ac064-9eb7-4d15-b271-a7880ed1e79a",
+        "d4b0c1dd-aae9-4ca2-958c-71dbe5d0fab0"
+      ],
+      "title": "ACTIVELLA (estradiol and norethindrone acetate) tablet, film coated"
+    },
+    {
+      "application_numbers": [
+        "NDA020907"
+      ],
+      "archived_versions": 8,
+      "brand_names": [
+        "ACTIVELLA"
+      ],
+      "first_posted": "2016-05-17",
+      "found_by": "ACTIVELLA",
+      "labeler": "Gemini Laboratories, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2019-03-26",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-08-31",
+        "2020-07-31"
+      ],
+      "product_ndcs": [
+        "60846-201",
+        "60846-202"
+      ],
+      "rxcui": [],
+      "setid": "32a9f9a3-2940-251a-e054-00144ff88e88",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "966ac064-9eb7-4d15-b271-a7880ed1e79a",
+        "d4b0c1dd-aae9-4ca2-958c-71dbe5d0fab0"
+      ],
+      "title": "ACTIVELLA (estradiol and norethindrone acetate) tablet, film coated"
+    },
+    {
+      "application_numbers": [
+        "NDA020870"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "COMBIPATCH"
+      ],
+      "first_posted": "2006-11-14",
+      "found_by": "COMBIPATCH",
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2017-09-14",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2016-01-31",
+        "2016-04-30"
+      ],
+      "product_ndcs": [
+        "0078-0377",
+        "0078-0378"
+      ],
+      "rxcui": [],
+      "setid": "8fab92c2-5827-4c62-a4f6-4f2547dc5233",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "83198ef1-11c4-11e4-9191-0800200c9a66"
+      ],
+      "title": "COMBIPATCH (estradiol and norethindrone acetate) patch, extended release"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 4,
+      "brand_names": [
+        "NOR QD"
+      ],
+      "first_posted": "2007-10-25",
+      "found_by": "NOR-QD",
+      "labeler": "WatsonPharma",
+      "labeler_unverified": false,
+      "last_posted": "2018-06-13",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "52544-235"
+      ],
+      "rxcui": [],
+      "setid": "aa34bfca-06c3-4916-bb51-4bfbfc0ee371",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "NOR QD (norethindrone) tablet"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "AYGESTIN"
+      ],
+      "first_posted": "2007-06-29",
+      "found_by": "AYGESTIN",
+      "labeler": "DURAMED PHARMACEUTICALS, INC.",
+      "labeler_unverified": false,
+      "last_posted": "2007-06-29",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "51285-424"
+      ],
+      "rxcui": [],
+      "setid": "f7f7d40f-8698-4788-96e8-bb97485150b5",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "aygestin (norethindrone acetate) tablet"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "af851d82-b30f-463b-9dba-0437225dc1ee"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0b87cef0-610c-469d-92ba-4007f4bc3878"
+    },
+    {
+      "combination": false,
+      "labeler": "Ingenus Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2f39b608-cc62-4ff0-a52a-bc3343275269"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e91e7bdd-2984-4332-9b0b-04322792d7f6"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "121fbf86-1d76-4579-be2f-be9a957b23ab"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "197d31d3-eec8-49c7-9640-918ff138fea2"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Labratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "df29577b-c2f0-bea8-b048-7719972707aa"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Labratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "59985565-af09-21ba-0336-3f6db7711bd1"
+    },
+    {
+      "combination": false,
+      "labeler": "Naari Pte. Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8ec64ec8-fbc9-440d-9838-654a605d57da"
+    },
+    {
+      "combination": false,
+      "labeler": "Xiromed LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "26130af6-221b-2349-81b6-0c0132d6e524"
+    },
+    {
+      "combination": false,
+      "labeler": "Xiromed LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "534c5717-382c-4109-3208-e21b32e4c4c9"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bf0e39cb-95e7-4831-92d2-0b3f071aeaae"
+    },
+    {
+      "combination": true,
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "140c50d6-c931-423a-9aa0-526eae7ab93c"
+    },
+    {
+      "combination": true,
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8b82ad14-580c-4145-b825-dce849f95363"
+    },
+    {
+      "combination": true,
+      "labeler": "Breckenridge Pharmaceutical, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "44125b2f-10ac-435c-bdb4-a29bf8450dbf"
+    },
+    {
+      "combination": true,
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b1c5c06b-9ce2-4bf7-9693-e37608055a14"
+    },
+    {
+      "combination": true,
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d667ca75-1a17-43fc-9077-f25ce0908f8d"
+    },
+    {
+      "combination": true,
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "89948751-bd6e-4e9c-b87c-8782706c1097"
+    },
+    {
+      "combination": true,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cf549b5a-2707-4020-9f94-dab1260e1664"
+    },
+    {
+      "combination": true,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5a44f7a2-45f1-4d28-b9fb-61d9f2456422"
+    },
+    {
+      "combination": true,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "772c86d7-10a4-48c5-8c19-f8aac68f5ab4"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6765becf-7b51-4f33-ac13-70fcd01decf7"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b146e49c-a0fc-4f3d-9ad6-99e8257fa139"
+    },
+    {
+      "combination": true,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "021df70a-0c37-4237-a2f7-2597ff6d41f5"
+    },
+    {
+      "combination": true,
+      "labeler": "Ingenus Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "50c786d6-91bd-4eea-9455-ff2abc08372f"
+    },
+    {
+      "combination": true,
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3108a9bc-3378-459d-8f6b-bd5eff2ad657"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "afbc2a33-5eb2-4f01-91e9-07d8050da6ce"
+    },
+    {
+      "combination": true,
+      "labeler": "Naari Pte. Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f70185fe-9fcf-655f-e053-6394a90a20dc"
+    },
+    {
+      "combination": true,
+      "labeler": "Xiromed LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "df013d36-de10-0607-7e12-95ed43bf7ee9"
+    },
+    {
+      "combination": false,
+      "labeler": "Afaxys Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c9f00a3e-c827-4066-bf85-079b3a20f25e"
+    },
+    {
+      "combination": false,
+      "labeler": "Xiromed, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6e9f61a1-93ff-291a-bea8-9307a3b0378e"
+    },
+    {
+      "combination": true,
+      "labeler": "Teva Women's Health LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f29ebcb5-7e65-4092-bfaa-f5ec026fc255"
+    },
+    {
+      "combination": true,
+      "labeler": "Xiromed, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "88d90f33-1034-4d27-034f-11d9c441c9e7"
+    },
+    {
+      "combination": true,
+      "labeler": "Xiromed LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b1c3e33d-ec95-cd89-7ad9-36994c802a1f"
+    }
+  ]
+}

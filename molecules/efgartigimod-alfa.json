@@ -1,0 +1,138 @@
+{
+  "biologic": true,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand VYVGART",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/005849",
+      "eu_number": "EU/1/22/1674",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-005849",
+      "mah": "Argenx",
+      "marketing_authorisation_date": "2022-08-10",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/vyvgart",
+      "name": "Vyvgart",
+      "record_from": "2022-08-10",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 6
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-005849",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "EFGARTIGIMOD ALFA"
+  ],
+  "inn": "efgartigimod-alfa",
+  "name": "EFGARTIGIMOD ALFA",
+  "rank": 388,
+  "rxcui": [
+    "2587723",
+    "2587729",
+    "2639951",
+    "2639957",
+    "2712083",
+    "2712088"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 2,
+    "approval_holders": 1,
+    "earliest_marketing_start": "2021-12-17",
+    "latest_label_update": "2026-07-20",
+    "nda_bla_applications": 2,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "EFGARTIGIMOD ALFA",
+      "unii": "961YV2O515"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "BLA761195"
+      ],
+      "brand_names": [
+        "VYVGART"
+      ],
+      "combination": false,
+      "home_inn": "efgartigimod-alfa",
+      "ingredients": [
+        "EFGARTIGIMOD ALFA"
+      ],
+      "labeler": "argenx US",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2021-12-17",
+      "moieties": [
+        "EFGARTIGIMOD ALFA"
+      ],
+      "product_ndcs": [
+        "73475-3041"
+      ],
+      "rxcui": [
+        "2587723",
+        "2587729"
+      ],
+      "setid": "8aefc8e3-26d6-4ff6-aab9-a7542927e084",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "VYVGART (EFGARTIGIMOD ALFA) INJECTION [ARGENX US]",
+      "upload_date": "2026-05-21"
+    },
+    {
+      "application_numbers": [
+        "BLA761304"
+      ],
+      "brand_names": [
+        "VYVGART Hytrulo"
+      ],
+      "combination": true,
+      "home_inn": "hyaluronidase-human-recombinant",
+      "ingredients": [
+        "EFGARTIGIMOD ALFA",
+        "HYALURONIDASE (HUMAN RECOMBINANT)"
+      ],
+      "labeler": "argenx US",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2023-06-20",
+      "moieties": [
+        "EFGARTIGIMOD ALFA",
+        "HYALURONIDASE (HUMAN RECOMBINANT)"
+      ],
+      "product_ndcs": [
+        "73475-1221",
+        "73475-3102"
+      ],
+      "rxcui": [
+        "2639951",
+        "2639957",
+        "2712083",
+        "2712088"
+      ],
+      "setid": "7104d9e5-9910-47f5-9a93-741ac50f43b6",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "VYVGART HYTRULO (EFGARTIGIMOD ALFA AND HYALURONIDASE (HUMAN RECOMBINANT)) INJECTION, SOLUTION [ARGENX US]",
+      "upload_date": "2026-07-20"
+    }
+  ],
+  "us_excluded": []
+}

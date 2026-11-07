@@ -1,0 +1,441 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "AMIODARONE HYDROCHLORIDE"
+  ],
+  "inn": "amiodarone",
+  "name": "AMIODARONE",
+  "rank": 335,
+  "rxcui": [
+    "833528",
+    "834346",
+    "834348",
+    "834350",
+    "835956",
+    "835958",
+    "835960",
+    "849876",
+    "1046406",
+    "1046408",
+    "1046410",
+    "1663224",
+    "1663244",
+    "1663248"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 19,
+    "approval_holders": 17,
+    "earliest_marketing_start": "2001-03-30",
+    "latest_label_update": "2026-06-30",
+    "nda_bla_applications": 1,
+    "repackagers": 14
+  },
+  "unii": [
+    {
+      "ingredient": "AMIODARONE HYDROCHLORIDE",
+      "unii": "976728SY6Z"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA022325"
+      ],
+      "brand_names": [
+        "Nexterone"
+      ],
+      "combination": false,
+      "home_inn": "amiodarone",
+      "ingredients": [
+        "AMIODARONE HYDROCHLORIDE"
+      ],
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2010-11-16",
+      "moieties": [
+        "AMIODARONE"
+      ],
+      "product_ndcs": [
+        "43066-150",
+        "43066-360"
+      ],
+      "rxcui": [
+        "849876",
+        "1046406",
+        "1046408",
+        "1046410"
+      ],
+      "setid": "e9108958-b8d7-4fba-87c3-9a32990de551",
+      "source": "openfda",
+      "spl_version": 25,
+      "title": "NEXTERONE (AMIODARONE HYDROCHLORIDE) INJECTION, SOLUTION [BAXTER HEALTHCARE CORPORATION]",
+      "upload_date": "2026-06-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA075424",
+        "ANDA076362"
+      ],
+      "brand_names": [
+        "Amiodarone Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "amiodarone",
+      "ingredients": [
+        "AMIODARONE HYDROCHLORIDE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2001-03-30",
+      "moieties": [
+        "AMIODARONE"
+      ],
+      "product_ndcs": [
+        "51672-4025",
+        "51672-4055",
+        "51672-4056",
+        "51672-4057"
+      ],
+      "rxcui": [
+        "833528",
+        "834348",
+        "835956",
+        "835960"
+      ],
+      "setid": "7ccd3733-c3af-4a11-8500-0f99194c1472",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "AMIODARONE HYDROCHLORIDE TABLET [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2026-03-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA076217"
+      ],
+      "brand_names": [
+        "Amiodarone Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "amiodarone",
+      "ingredients": [
+        "AMIODARONE HYDROCHLORIDE"
+      ],
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2002-10-14",
+      "moieties": [
+        "AMIODARONE"
+      ],
+      "product_ndcs": [
+        "67457-153"
+      ],
+      "rxcui": [
+        "1663224",
+        "1663244",
+        "1663248"
+      ],
+      "setid": "fcc8658c-761a-443f-8c32-1499d86028ec",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "AMIODARONE HYDROCHLORIDE INJECTION, SOLUTION [MYLAN INSTITUTIONAL LLC]",
+      "upload_date": "2020-11-20"
+    },
+    {
+      "application_numbers": [
+        "ANDA075761"
+      ],
+      "brand_names": [
+        "Amiodarone Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "amiodarone",
+      "ingredients": [
+        "AMIODARONE HYDROCHLORIDE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2003-01-28",
+      "moieties": [
+        "AMIODARONE"
+      ],
+      "product_ndcs": [
+        "63323-616"
+      ],
+      "rxcui": [
+        "1663224",
+        "1663244"
+      ],
+      "setid": "d8d04647-8e25-4127-8ecf-360ce1991c2f",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "AMIODARONE HYDROCHLORIDE INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2025-04-16"
+    },
+    {
+      "application_numbers": [
+        "ANDA077234"
+      ],
+      "brand_names": [
+        "Amiodarone Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "amiodarone",
+      "ingredients": [
+        "AMIODARONE HYDROCHLORIDE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2008-02-25",
+      "moieties": [
+        "AMIODARONE"
+      ],
+      "product_ndcs": [
+        "0143-9875"
+      ],
+      "rxcui": [
+        "1663224"
+      ],
+      "setid": "51772745-9ea9-42cd-97e6-7266f41ae3ca",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "AMIODARONE HYDROCHLORIDE INJECTION, SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2024-04-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA079029"
+      ],
+      "brand_names": [
+        "Amiodarone hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "amiodarone",
+      "ingredients": [
+        "AMIODARONE HYDROCHLORIDE"
+      ],
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-08-10",
+      "moieties": [
+        "AMIODARONE"
+      ],
+      "product_ndcs": [
+        "65841-631",
+        "65841-840",
+        "65841-841"
+      ],
+      "rxcui": [
+        "833528",
+        "834348",
+        "835956"
+      ],
+      "setid": "3e8db251-e3c5-4fba-be9a-6044a92f0beb",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "AMIODARONE HYDROCHLORIDE TABLET [ZYDUS LIFESCIENCES LIMITED]",
+      "upload_date": "2024-11-27"
+    },
+    {
+      "application_numbers": [
+        "ANDA075135"
+      ],
+      "brand_names": [
+        "Pacerone"
+      ],
+      "combination": false,
+      "home_inn": "amiodarone",
+      "ingredients": [
+        "AMIODARONE HYDROCHLORIDE"
+      ],
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-11-15",
+      "moieties": [
+        "AMIODARONE"
+      ],
+      "product_ndcs": [
+        "0245-0144",
+        "0245-0147",
+        "0245-1645"
+      ],
+      "rxcui": [
+        "833528",
+        "834346",
+        "834348",
+        "834350",
+        "835956",
+        "835958"
+      ],
+      "setid": "4c4ec9b0-13a5-49a8-b57b-b3f64e4316a7",
+      "source": "openfda",
+      "spl_version": 27,
+      "title": "PACERONE (AMIODARONE HYDROCHLORIDE) TABLET [UPSHER-SMITH LABORATORIES, LLC]",
+      "upload_date": "2025-07-16"
+    },
+    {
+      "application_numbers": [
+        "NDA018972"
+      ],
+      "archived_versions": 18,
+      "brand_names": [
+        "CORDARONE"
+      ],
+      "first_posted": "2008-05-05",
+      "found_by": "CORDARONE",
+      "labeler": "Wyeth Pharmaceuticals LLC, a subsidiary of Pfizer Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2018-11-01",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2016-07-31"
+      ],
+      "product_ndcs": [
+        "0008-4188"
+      ],
+      "rxcui": [],
+      "setid": "51be39a2-9134-402c-95ad-defe47406ff8",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "CORDARONE (amiodarone hydrochloride) tablet"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5520f11d-968d-4f4f-bf57-d14369c0d746"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1f00c333-9667-4ebc-8849-009a3779c0c9"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7ae393d1-7469-432a-9f21-f5ebab1207d1"
+    },
+    {
+      "combination": false,
+      "labeler": "AuroMedics Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6cd870d7-6381-421a-89bc-bce5c9518219"
+    },
+    {
+      "combination": false,
+      "labeler": "Advagen Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d911b4cf-eec4-43f8-aa64-cc60cfc901b9"
+    },
+    {
+      "combination": false,
+      "labeler": "Unichem Pharmaceuticals (USA), Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a20d0c03-cfda-49d1-88c9-be1bf295bc6c"
+    },
+    {
+      "combination": false,
+      "labeler": "Zhejiang Poly Pharm. Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0a28ae25-7cc4-4ac0-a2ba-7820fb93e25c"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Labratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "95cef33b-c0e6-b17c-7cbb-f5c066872705"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b41cbcb5-9c5d-4e45-a4f2-952df5f22c00"
+    },
+    {
+      "combination": false,
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f0b3b743-9f62-4b02-ace5-c8d93637ecad"
+    },
+    {
+      "combination": false,
+      "labeler": "Slate Run Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3a53668c-adda-44c2-a743-e79e467437e3"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9772ab48-2ef1-4b9f-9a27-794f3e7e5c7a"
+    }
+  ]
+}

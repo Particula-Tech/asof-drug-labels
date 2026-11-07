@@ -1,0 +1,133 @@
+{
+  "biologic": true,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand OCREVUS",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/004043",
+      "eu_number": "EU/1/17/1231",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-004043",
+      "mah": "Roche Registration GmbH",
+      "marketing_authorisation_date": "2018-01-08",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ocrevus",
+      "name": "Ocrevus",
+      "record_from": "2018-01-08",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 12
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-004043",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "OCRELIZUMAB"
+  ],
+  "inn": "ocrelizumab",
+  "name": "OCRELIZUMAB",
+  "rank": 374,
+  "rxcui": [
+    "1876380",
+    "1876385",
+    "2693458",
+    "2693465"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 2,
+    "approval_holders": 1,
+    "earliest_marketing_start": "2017-03-28",
+    "latest_label_update": "2026-09-28",
+    "nda_bla_applications": 2,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "OCRELIZUMAB",
+      "unii": "A10SJL62JY"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "BLA761053"
+      ],
+      "brand_names": [
+        "OCREVUS"
+      ],
+      "combination": false,
+      "home_inn": "ocrelizumab",
+      "ingredients": [
+        "OCRELIZUMAB"
+      ],
+      "labeler": "Genentech, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2017-03-28",
+      "moieties": [
+        "OCRELIZUMAB"
+      ],
+      "product_ndcs": [
+        "50242-150"
+      ],
+      "rxcui": [
+        "1876380",
+        "1876385"
+      ],
+      "setid": "9da42362-3bb5-4b83-b4bb-b59fd4e55f0d",
+      "source": "openfda",
+      "spl_version": 24,
+      "title": "OCREVUS (OCRELIZUMAB) INJECTION [GENENTECH, INC.]",
+      "upload_date": "2026-05-20"
+    },
+    {
+      "application_numbers": [
+        "BLA761371"
+      ],
+      "brand_names": [
+        "Ocrevus Zunovo"
+      ],
+      "combination": true,
+      "home_inn": "hyaluronidase-human-recombinant",
+      "ingredients": [
+        "HYALURONIDASE (HUMAN RECOMBINANT)",
+        "OCRELIZUMAB"
+      ],
+      "labeler": "Genentech, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2024-09-13",
+      "moieties": [
+        "HYALURONIDASE (HUMAN RECOMBINANT)",
+        "OCRELIZUMAB"
+      ],
+      "product_ndcs": [
+        "50242-554"
+      ],
+      "rxcui": [
+        "2693458",
+        "2693465"
+      ],
+      "setid": "b216af61-99d0-42a3-afc2-b5bf86df1ec0",
+      "source": "dailymed-title-match",
+      "spl_version": 13,
+      "title": "OCREVUS ZUNOVO (OCRELIZUMAB AND HYALURONIDASE) INJECTION, SOLUTION [GENENTECH, INC.]",
+      "upload_date": "2026-09-28"
+    }
+  ],
+  "us_excluded": []
+}

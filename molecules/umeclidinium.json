@@ -1,0 +1,279 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand Incruse Ellipta",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/002809",
+      "eu_number": "EU/1/14/922",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-002809",
+      "mah": "GlaxoSmithKline Trading Services Limited",
+      "marketing_authorisation_date": "2014-04-28",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/incruse-ellipta",
+      "name": "Incruse Ellipta (previously Incruse)",
+      "record_from": "2014-04-28",
+      "record_to": "2026-11-03",
+      "role": "reference",
+      "versions": 16
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/004654",
+      "eu_number": "EU/1/17/1174",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-004654",
+      "mah": "GlaxoSmithKline Trading Services Limited",
+      "marketing_authorisation_date": "2017-03-20",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/rolufta-ellipta",
+      "name": "Rolufta Ellipta (previously Rolufta)",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 2,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-002809",
+    "reference_selected_by": "override",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "UMECLIDINIUM BROMIDE"
+  ],
+  "inn": "umeclidinium",
+  "name": "UMECLIDINIUM",
+  "rank": 332,
+  "rxcui": [
+    "1487519",
+    "1487524",
+    "1487527",
+    "1487528",
+    "1539251",
+    "1539885",
+    "1596444",
+    "1596445",
+    "1945039",
+    "1945044",
+    "1945047",
+    "1945048",
+    "2395769",
+    "2395771",
+    "2395774",
+    "2395775"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 5,
+    "approval_holders": 2,
+    "earliest_marketing_start": "2014-01-31",
+    "latest_label_update": "2026-09-02",
+    "nda_bla_applications": 3,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "UMECLIDINIUM BROMIDE",
+      "unii": "7AN603V4JV"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA205382"
+      ],
+      "brand_names": [
+        "Incruse Ellipta"
+      ],
+      "combination": false,
+      "home_inn": "umeclidinium",
+      "ingredients": [
+        "UMECLIDINIUM BROMIDE"
+      ],
+      "labeler": "GlaxoSmithKline LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2014-04-30",
+      "moieties": [
+        "UMECLIDINIUM"
+      ],
+      "product_ndcs": [
+        "0173-0873"
+      ],
+      "rxcui": [
+        "1539251",
+        "1539885",
+        "1596444",
+        "1596445"
+      ],
+      "setid": "dbb64747-1505-49d7-9a33-99dd402e96d3",
+      "source": "openfda",
+      "spl_version": 27,
+      "title": "INCRUSE ELLIPTA (UMECLIDINIUM) AEROSOL, POWDER [GLAXOSMITHKLINE LLC]",
+      "upload_date": "2026-05-20"
+    },
+    {
+      "application_numbers": [
+        "NDA203975"
+      ],
+      "brand_names": [
+        "Anoro Ellipta"
+      ],
+      "combination": true,
+      "home_inn": "umeclidinium",
+      "ingredients": [
+        "UMECLIDINIUM BROMIDE",
+        "VILANTEROL TRIFENATATE"
+      ],
+      "labeler": "GlaxoSmithKline LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2014-01-31",
+      "moieties": [
+        "UMECLIDINIUM",
+        "VILANTEROL"
+      ],
+      "product_ndcs": [
+        "0173-0869"
+      ],
+      "rxcui": [
+        "1487519",
+        "1487524",
+        "1487527",
+        "1487528"
+      ],
+      "setid": "2dbd0671-c565-40c5-bf0f-e324db26799c",
+      "source": "openfda",
+      "spl_version": 29,
+      "title": "ANORO ELLIPTA (UMECLIDINIUM BROMIDE AND VILANTEROL TRIFENATATE) POWDER [GLAXOSMITHKLINE LLC]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "NDA209482"
+      ],
+      "brand_names": [
+        "Trelegy Ellipta"
+      ],
+      "combination": true,
+      "home_inn": "fluticasone",
+      "ingredients": [
+        "FLUTICASONE FUROATE",
+        "UMECLIDINIUM BROMIDE",
+        "VILANTEROL TRIFENATATE"
+      ],
+      "labeler": "GlaxoSmithKline LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-09-18",
+      "moieties": [
+        "FLUTICASONE",
+        "UMECLIDINIUM",
+        "VILANTEROL"
+      ],
+      "product_ndcs": [
+        "0173-0887",
+        "0173-0893"
+      ],
+      "rxcui": [
+        "1945039",
+        "1945044",
+        "1945047",
+        "1945048",
+        "2395769",
+        "2395771",
+        "2395774",
+        "2395775"
+      ],
+      "setid": "b5a81d5a-4648-4c7a-951d-33c014a63c7e",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "TRELEGY ELLIPTA (FLUTICASONE FUROATE, UMECLIDINIUM BROMIDE AND VILANTEROL TRIFENATATE) POWDER [GLAXOSMITHKLINE LLC]",
+      "upload_date": "2026-09-02"
+    },
+    {
+      "application_numbers": [
+        "NDA205382"
+      ],
+      "brand_names": [
+        "Umeclidinium Ellipta"
+      ],
+      "combination": false,
+      "home_inn": "umeclidinium",
+      "ingredients": [
+        "UMECLIDINIUM BROMIDE"
+      ],
+      "labeler": "Prasco Laboratories",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2026-04-06",
+      "moieties": [
+        "UMECLIDINIUM"
+      ],
+      "product_ndcs": [
+        "66993-189"
+      ],
+      "rxcui": [
+        "1539251"
+      ],
+      "setid": "763388a5-cc89-4c25-8562-521df679b7e8",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "UMECLIDINIUM ELLIPTA (UMECLIDINIUM) AEROSOL, POWDER [PRASCO LABORATORIES]",
+      "upload_date": "2026-04-08"
+    },
+    {
+      "application_numbers": [
+        "NDA203975"
+      ],
+      "brand_names": [
+        "Umeclidinium and Vilanterol Ellipta"
+      ],
+      "combination": true,
+      "home_inn": "umeclidinium",
+      "ingredients": [
+        "UMECLIDINIUM BROMIDE",
+        "VILANTEROL TRIFENATATE"
+      ],
+      "labeler": "Prasco Laboratories",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2025-04-11",
+      "moieties": [
+        "UMECLIDINIUM",
+        "VILANTEROL"
+      ],
+      "product_ndcs": [
+        "66993-134"
+      ],
+      "rxcui": [
+        "1487527"
+      ],
+      "setid": "6de414b1-f707-4b98-9e4b-742032ec90af",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "UMECLIDINIUM AND VILANTEROL ELLIPTA (UMECLIDINIUM BROMIDE AND VILANTEROL TRIFENATATE) POWDER [PRASCO LABORATORIES]",
+      "upload_date": "2025-11-17"
+    }
+  ],
+  "us_excluded": []
+}

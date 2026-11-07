@@ -1,0 +1,629 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/005731",
+      "eu_number": "EU/1/23/1717",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-005731",
+      "mah": "Proveca Pharma Limited",
+      "marketing_authorisation_date": "2023-11-15",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/aqumeldi",
+      "name": "Aqumeldi",
+      "record_from": "2023-11-15",
+      "record_to": "2026-11-03",
+      "role": "reference",
+      "versions": 2
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-005731",
+    "reference_selected_by": "salt-alias-v2",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "ENALAPRIL MALEATE"
+  ],
+  "inn": "enalapril",
+  "name": "ENALAPRIL",
+  "rank": 252,
+  "rxcui": [
+    "858804",
+    "858806",
+    "858810",
+    "858812",
+    "858813",
+    "858815",
+    "858817",
+    "858819",
+    "858828",
+    "858830",
+    "1435624",
+    "1435630"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 21,
+    "approval_holders": 18,
+    "earliest_marketing_start": "1985-12-24",
+    "latest_label_update": "2026-09-21",
+    "nda_bla_applications": 3,
+    "repackagers": 13
+  },
+  "unii": [
+    {
+      "ingredient": "ENALAPRIL MALEATE",
+      "unii": "9O25354EPJ"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA018998"
+      ],
+      "brand_names": [
+        "Vasotec"
+      ],
+      "combination": false,
+      "home_inn": "enalapril",
+      "ingredients": [
+        "ENALAPRIL MALEATE"
+      ],
+      "labeler": "Bausch Health US LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1985-12-24",
+      "moieties": [
+        "ENALAPRIL"
+      ],
+      "product_ndcs": [
+        "0187-0140",
+        "0187-0141",
+        "0187-0142",
+        "0187-0143"
+      ],
+      "rxcui": [
+        "858804",
+        "858806",
+        "858810",
+        "858812",
+        "858813",
+        "858815",
+        "858817",
+        "858819"
+      ],
+      "setid": "39631f1f-5d19-43c1-b504-bf56d991ed97",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "VASOTEC (ENALAPRIL MALEATE) TABLET [BAUSCH HEALTH US LLC]",
+      "upload_date": "2026-01-28"
+    },
+    {
+      "application_numbers": [
+        "NDA208686"
+      ],
+      "brand_names": [
+        "Epaned"
+      ],
+      "combination": false,
+      "home_inn": "enalapril",
+      "ingredients": [
+        "ENALAPRIL MALEATE"
+      ],
+      "labeler": "Azurity Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2016-10-03",
+      "moieties": [
+        "ENALAPRIL"
+      ],
+      "product_ndcs": [
+        "52652-4001"
+      ],
+      "rxcui": [
+        "1435624",
+        "1435630"
+      ],
+      "setid": "e6dbda02-779e-420c-893d-d0fea09432be",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "EPANED (ENALAPRIL MALEATE) SOLUTION [AZURITY PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-12-18"
+    },
+    {
+      "application_numbers": [
+        "NDA019221"
+      ],
+      "brand_names": [
+        "Vaseretic"
+      ],
+      "combination": true,
+      "home_inn": "hydrochlorothiazide",
+      "ingredients": [
+        "ENALAPRIL MALEATE",
+        "HYDROCHLOROTHIAZIDE"
+      ],
+      "labeler": "Bausch Health US, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1986-10-31",
+      "moieties": [
+        "ENALAPRIL",
+        "HYDROCHLOROTHIAZIDE"
+      ],
+      "product_ndcs": [
+        "0187-0146"
+      ],
+      "rxcui": [
+        "858828",
+        "858830"
+      ],
+      "setid": "bf3007e2-8fcc-48de-8fd5-55e95033d62f",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "VASERETIC (ENALAPRIL MALEATE AND HYDROCHLOROTHIAZIDE) TABLET [BAUSCH HEALTH US, LLC]",
+      "upload_date": "2023-04-27"
+    },
+    {
+      "application_numbers": [
+        "NDA208686"
+      ],
+      "brand_names": [
+        "Enalapril maleate"
+      ],
+      "combination": false,
+      "home_inn": "enalapril",
+      "ingredients": [
+        "ENALAPRIL MALEATE"
+      ],
+      "labeler": "Wilshire Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-04-08",
+      "moieties": [
+        "ENALAPRIL"
+      ],
+      "product_ndcs": [
+        "52536-401"
+      ],
+      "rxcui": [
+        "1435624"
+      ],
+      "setid": "c7934b45-eb6b-44c1-bd2c-ef0fa10850c1",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "ENALAPRIL MALEATE SOLUTION [WILSHIRE PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-12-18"
+    },
+    {
+      "application_numbers": [
+        "NDA018998"
+      ],
+      "brand_names": [
+        "Enalapril Maleate"
+      ],
+      "combination": false,
+      "home_inn": "enalapril",
+      "ingredients": [
+        "ENALAPRIL MALEATE"
+      ],
+      "labeler": "OCEANSIDE PHARMACEUTICALS",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "1985-12-24",
+      "moieties": [
+        "ENALAPRIL"
+      ],
+      "product_ndcs": [
+        "68682-710",
+        "68682-711",
+        "68682-712",
+        "68682-713"
+      ],
+      "rxcui": [
+        "858804",
+        "858810",
+        "858813",
+        "858817"
+      ],
+      "setid": "ebd2a62d-a704-4f8a-a104-749a5296502f",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "ENALAPRIL MALEATE TABLET [OCEANSIDE PHARMACEUTICALS]",
+      "upload_date": "2021-03-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA075657"
+      ],
+      "brand_names": [
+        "Enalapril Maleate"
+      ],
+      "combination": false,
+      "home_inn": "enalapril",
+      "ingredients": [
+        "ENALAPRIL MALEATE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2001-01-23",
+      "moieties": [
+        "ENALAPRIL"
+      ],
+      "product_ndcs": [
+        "51672-4037",
+        "51672-4038",
+        "51672-4040",
+        "51672-4245"
+      ],
+      "rxcui": [
+        "858804",
+        "858810",
+        "858813",
+        "858817"
+      ],
+      "setid": "f103b9f9-e081-419d-a2d8-b86acda834dd",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "ENALAPRIL MALEATE TABLET [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2026-07-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA075459",
+        "ANDA075496"
+      ],
+      "brand_names": [
+        "Enalapril Maleate"
+      ],
+      "combination": false,
+      "home_inn": "enalapril",
+      "ingredients": [
+        "ENALAPRIL MALEATE"
+      ],
+      "labeler": "Northstar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-08-06",
+      "moieties": [
+        "ENALAPRIL"
+      ],
+      "product_ndcs": [
+        "16714-442",
+        "16714-443",
+        "16714-444",
+        "16714-445"
+      ],
+      "rxcui": [
+        "858804",
+        "858810",
+        "858813",
+        "858817"
+      ],
+      "setid": "e109e7b1-4650-4416-9d89-7c1185d5cf48",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "ENALAPRIL MALEATE TABLET [NORTHSTAR RXLLC]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA212894"
+      ],
+      "brand_names": [
+        "Enalapril Maleate"
+      ],
+      "combination": false,
+      "home_inn": "enalapril",
+      "ingredients": [
+        "ENALAPRIL MALEATE"
+      ],
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-12-01",
+      "moieties": [
+        "ENALAPRIL"
+      ],
+      "product_ndcs": [
+        "69238-1729"
+      ],
+      "rxcui": [
+        "1435624"
+      ],
+      "setid": "e81a8aca-0e7c-4a02-b596-09e4ac22c70e",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "ENALAPRIL MALEATE (ENALAPRIL) SOLUTION [AMNEAL PHARMACEUTICALS NY LLC]",
+      "upload_date": "2024-10-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA075479"
+      ],
+      "brand_names": [
+        "Enalapril maleate"
+      ],
+      "combination": false,
+      "home_inn": "enalapril",
+      "ingredients": [
+        "ENALAPRIL MALEATE"
+      ],
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-04-28",
+      "moieties": [
+        "ENALAPRIL"
+      ],
+      "product_ndcs": [
+        "23155-704",
+        "23155-705",
+        "23155-772",
+        "23155-773"
+      ],
+      "rxcui": [
+        "858804",
+        "858810",
+        "858813",
+        "858817"
+      ],
+      "setid": "5c49fb37-1f09-4965-b213-5580d3a30a11",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "ENALAPRIL MALEATE TABLET ENALAPRIL MALEATE TABLET [HERITAGE PHARMACEUTICALS INC. D/B/A AVET PHARMACEUTICALS INC.]",
+      "upload_date": "2026-01-01"
+    },
+    {
+      "application_numbers": [
+        "ANDA212408"
+      ],
+      "brand_names": [
+        "Enalapril maleate oral solution"
+      ],
+      "combination": false,
+      "home_inn": "enalapril",
+      "ingredients": [
+        "ENALAPRIL MALEATE"
+      ],
+      "labeler": "Bionpharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-08-11",
+      "moieties": [
+        "ENALAPRIL"
+      ],
+      "product_ndcs": [
+        "69452-237"
+      ],
+      "rxcui": [
+        "1435624"
+      ],
+      "setid": "9391b8d8-2217-4838-8976-1a5ad90ef4ca",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "ENALAPRIL MALEATE ORAL SOLUTION (ENALAPRIL MALEATE) SOLUTION [BIONPHARMA INC.]",
+      "upload_date": "2024-10-03"
+    },
+    {
+      "application_numbers": [
+        "NDA018998"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "VASOTEC"
+      ],
+      "first_posted": "2006-10-13",
+      "found_by": "VASOTEC",
+      "labeler": "BTA Pharmaceuticals Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2014-05-02",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-11-30",
+        "2014-03-31",
+        "2014-05-31"
+      ],
+      "product_ndcs": [
+        "64455-140",
+        "64455-141",
+        "64455-142",
+        "64455-143"
+      ],
+      "rxcui": [],
+      "setid": "5d181743-a0fc-4d17-953d-b17a936f9ecc",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "39631f1f-5d19-43c1-b504-bf56d991ed97",
+        "ebd2a62d-a704-4f8a-a104-749a5296502f"
+      ],
+      "title": "VASOTEC (enalapril maleate) tablet VASOTEC (enalapril maleate) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA204308"
+      ],
+      "archived_versions": 11,
+      "brand_names": [
+        "EPANED"
+      ],
+      "first_posted": "2013-08-23",
+      "found_by": "EPANED",
+      "labeler": "Azurity Pharmaceuticals, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2021-11-03",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-10-30"
+      ],
+      "product_ndcs": [
+        "52652-1001"
+      ],
+      "rxcui": [],
+      "setid": "94c9a9d6-957f-4667-8f09-509e99bac777",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "EPANED (enalapril maleate) kit"
+    },
+    {
+      "application_numbers": [
+        "NDA019221"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "VASERETIC"
+      ],
+      "first_posted": "2008-05-05",
+      "found_by": "VASERETIC",
+      "labeler": "BTA Pharmaceuticals Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2012-09-21",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-03-30"
+      ],
+      "product_ndcs": [
+        "64455-146"
+      ],
+      "rxcui": [],
+      "setid": "c96cd85b-6caa-4527-9c82-4ef206e6eb58",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "bf3007e2-8fcc-48de-8fd5-55e95033d62f"
+      ],
+      "title": "VASERETIC (enalapril maleate and hydrochlorothiazide) tablet"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b63bdaa6-b57b-417b-9a79-29f1fd5bbf08"
+    },
+    {
+      "combination": false,
+      "labeler": "Solco Healthcare US, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0c829189-fba2-48f8-a23f-d5471a0345f6"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "964d561a-2e04-4ad9-9762-932419ee19ae"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "337707cc-4ed9-4121-bfff-c5015e5eca9d"
+    },
+    {
+      "combination": false,
+      "labeler": "ScieGen Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "63187a94-9ac7-4320-ac70-0631e08c2b8d"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "71e9fff3-7283-437e-b107-72fc16f09989"
+    },
+    {
+      "combination": false,
+      "labeler": "Amici Pharma, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a88902bd-742f-4ea6-b625-cc9df1709efc"
+    },
+    {
+      "combination": true,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7cb92cf2-46f2-4379-937c-168d230e43a4"
+    },
+    {
+      "combination": true,
+      "labeler": "Dr. Reddy's Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ed4a55a6-cd6a-c74a-cb93-4b45641691a0"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b1df1832-dce4-443f-87fc-e4177d069035"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "19606da3-c6b0-40a5-9690-77fc37072b51"
+    }
+  ]
+}

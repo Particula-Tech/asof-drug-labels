@@ -1,0 +1,532 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "ACETAZOLAMIDE",
+    "ACETAZOLAMIDE SODIUM"
+  ],
+  "inn": "acetazolamide",
+  "name": "ACETAZOLAMIDE",
+  "rank": 157,
+  "rxcui": [
+    "197303",
+    "197304",
+    "307702",
+    "562524"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 34,
+    "approval_holders": 26,
+    "earliest_marketing_start": "1996-05-01",
+    "latest_label_update": "2026-10-06",
+    "nda_bla_applications": 0,
+    "repackagers": 12
+  },
+  "unii": [
+    {
+      "ingredient": "ACETAZOLAMIDE",
+      "unii": "O3FX965V0I"
+    },
+    {
+      "ingredient": "ACETAZOLAMIDE SODIUM",
+      "unii": "429ZT169UH"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "ANDA040089"
+      ],
+      "brand_names": [
+        "AcetaZOLAMIDE"
+      ],
+      "combination": false,
+      "home_inn": "acetazolamide",
+      "ingredients": [
+        "ACETAZOLAMIDE SODIUM"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1996-05-01",
+      "moieties": [
+        "ACETAZOLAMIDE"
+      ],
+      "product_ndcs": [
+        "0143-9006"
+      ],
+      "rxcui": [
+        "307702"
+      ],
+      "setid": "5502e5ba-9b5e-460a-855f-60534b625461",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "ACETAZOLAMIDE INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA040784"
+      ],
+      "brand_names": [
+        "Acetazolamide"
+      ],
+      "combination": false,
+      "home_inn": "acetazolamide",
+      "ingredients": [
+        "ACETAZOLAMIDE SODIUM"
+      ],
+      "labeler": "XGen Pharmaceuticals DJB, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2008-12-10",
+      "moieties": [
+        "ACETAZOLAMIDE"
+      ],
+      "product_ndcs": [
+        "39822-0190"
+      ],
+      "rxcui": [
+        "307702"
+      ],
+      "setid": "a9199d3c-ce52-4db5-aa36-408f4e15e344",
+      "source": "openfda",
+      "spl_version": 33,
+      "title": "ACETAZOLAMIDE INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [XGEN PHARMACEUTICALS DJB, INC.]",
+      "upload_date": "2025-06-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA202693",
+        "ANDA205530"
+      ],
+      "brand_names": [
+        "Acetazolamide",
+        "acetazolamide"
+      ],
+      "combination": false,
+      "home_inn": "acetazolamide",
+      "ingredients": [
+        "ACETAZOLAMIDE",
+        "ACETAZOLAMIDE SODIUM"
+      ],
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-10-27",
+      "moieties": [
+        "ACETAZOLAMIDE"
+      ],
+      "product_ndcs": [
+        "23155-287",
+        "23155-288",
+        "23155-313"
+      ],
+      "rxcui": [
+        "197303",
+        "197304"
+      ],
+      "setid": "0700a910-79aa-4431-aecf-637fe14fcae8",
+      "source": "dailymed-title-match",
+      "spl_version": 11,
+      "title": "ACETAZOLAMIDE TABLET [HERITAGE PHARMACEUTICALS INC. D/B/A AVET PHARMACEUTICALS INC.]",
+      "upload_date": "2026-05-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA203434"
+      ],
+      "brand_names": [
+        "Acetazolamide"
+      ],
+      "combination": false,
+      "home_inn": "acetazolamide",
+      "ingredients": [
+        "ACETAZOLAMIDE"
+      ],
+      "labeler": "Ingenus Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-07-31",
+      "moieties": [
+        "ACETAZOLAMIDE"
+      ],
+      "product_ndcs": [
+        "50742-233"
+      ],
+      "rxcui": [
+        "562524"
+      ],
+      "setid": "a1f6ed35-9188-4115-8a3c-1ac91c07bf7d",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "ACETAZOLAMIDE CAPSULE, EXTENDED RELEASE [INGENUS PHARMACEUTICALS, LLC]",
+      "upload_date": "2025-12-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA209734"
+      ],
+      "brand_names": [
+        "Acetazolamide"
+      ],
+      "combination": false,
+      "home_inn": "acetazolamide",
+      "ingredients": [
+        "ACETAZOLAMIDE"
+      ],
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-11-20",
+      "moieties": [
+        "ACETAZOLAMIDE"
+      ],
+      "product_ndcs": [
+        "64380-833",
+        "64380-834"
+      ],
+      "rxcui": [
+        "197303",
+        "197304"
+      ],
+      "setid": "4813b9dd-5f58-44bb-ad64-cdb331828080",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "ACETAZOLAMIDE TABLET [STRIDES PHARMA SCIENCE LIMITED]",
+      "upload_date": "2026-08-20"
+    },
+    {
+      "application_numbers": [
+        "ANDA200880"
+      ],
+      "brand_names": [
+        "Acetazolamide"
+      ],
+      "combination": false,
+      "home_inn": "acetazolamide",
+      "ingredients": [
+        "ACETAZOLAMIDE SODIUM"
+      ],
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-09-13",
+      "moieties": [
+        "ACETAZOLAMIDE"
+      ],
+      "product_ndcs": [
+        "67457-853",
+        "72078-092"
+      ],
+      "rxcui": [
+        "307702"
+      ],
+      "setid": "521838b0-a10d-495f-a014-f9ff25a6b6f3",
+      "source": "dailymed-title-match",
+      "spl_version": 7,
+      "title": "ACETAZOLAMIDE (ACETAZOLAMIDE SODIUM) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [MYLAN INSTITUTIONAL LLC]",
+      "upload_date": "2025-03-11"
+    },
+    {
+      "application_numbers": [
+        "NDA012945"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "DIAMOX"
+      ],
+      "first_posted": "2008-05-05",
+      "found_by": "DIAMOX",
+      "labeler": "Teva Women's Health, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2018-09-27",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-05-31"
+      ],
+      "product_ndcs": [
+        "51285-754"
+      ],
+      "rxcui": [],
+      "setid": "74e47451-2bc8-496e-88ad-c10002ee8e22",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "DIAMOX SEQUELS (acetazolamide) capsule, extended release"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "43231abb-2a5d-44ab-b3e6-7564a1131ac5"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2c1d9078-c15f-4dce-bc26-edfa5400fa9b"
+    },
+    {
+      "combination": false,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bde94a48-05d0-45a0-a589-ec05b7d16532"
+    },
+    {
+      "combination": false,
+      "labeler": "Eywa Pharma Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c19166fa-2cef-4c96-a956-ea540a8ba9c3"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0913db35-3f08-4d82-8394-486bd9a487c4"
+    },
+    {
+      "combination": false,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "78f78919-a6ba-4072-bc45-2ab3637ed894"
+    },
+    {
+      "combination": false,
+      "labeler": "TRUPHARMA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4fcd428a-7bf3-4e75-a834-1bdf1078107f"
+    },
+    {
+      "combination": false,
+      "labeler": "Advagen Pharma Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c24d31f0-a556-4e53-97a9-4e05e28ca40f"
+    },
+    {
+      "combination": false,
+      "labeler": "Accord Healthcare Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9a368b35-cd51-47ad-83cc-ccc56c4585e8"
+    },
+    {
+      "combination": false,
+      "labeler": "Westminster Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "417b1df2-63bc-473c-9e02-5f93dd45554d"
+    },
+    {
+      "combination": false,
+      "labeler": "Viona Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5473c171-dc2d-4a82-bbf1-0f5fad10f673"
+    },
+    {
+      "combination": false,
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "240ab24b-3124-4805-80c2-36dd1945e3b3"
+    },
+    {
+      "combination": false,
+      "labeler": "Aarkish Pharmaceuticals NJ Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ddfd44dc-3136-4dda-8ed0-eb2991c2a0b6"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "513da48f-8f12-4696-b862-e8d882bf8611"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2b9fb0dd-e42e-4f9b-bf24-98b268d877e5"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "85975cf0-1286-4af9-ac7f-94bb2483bf09"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f75bbf55-98ac-4f91-b6fd-17b5ac860e55"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d9c1cc75-4e3d-4eaf-87c5-d5942a843818"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bf514e99-4958-44a0-a87a-02a950f87e60"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "33d912ea-9e1c-49eb-bd93-f0b1b2da67b6"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e8e48a25-5f6c-4b5a-a5f2-ee87aabea33b"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4dd56001-4941-4ff0-9f30-02a1bcc4fe7e"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "60f656ff-97b1-4a89-99af-8100483c2bac"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "df84fea3-8947-403f-b470-1eeb6c4c293d"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "85e4d8f6-1e82-4068-a768-752287d4ccf2"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "58093032-8480-4d0f-82be-92e643bdbea4"
+    },
+    {
+      "combination": false,
+      "labeler": "Marlex Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4a03f35d-bfcb-77ff-e063-6294a90a4f06"
+    },
+    {
+      "combination": false,
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c9bd730d-c06e-47ef-b003-4dde6336f8ae"
+    }
+  ]
+}

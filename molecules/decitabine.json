@@ -1,0 +1,480 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand DACOGEN",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/002221",
+      "eu_number": "EU/1/12/792",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-002221",
+      "mah": "",
+      "marketing_authorisation_date": "2012-09-20",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/dacogen",
+      "name": "Dacogen",
+      "record_from": "2012-09-20",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 13
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 1,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-002221",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "DECITABINE"
+  ],
+  "inn": "decitabine",
+  "name": "DECITABINE",
+  "rank": 345,
+  "rxcui": [
+    "636631",
+    "2384457",
+    "2384458",
+    "2384464",
+    "2384465"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 21,
+    "approval_holders": 17,
+    "earliest_marketing_start": "2013-07-11",
+    "latest_label_update": "2026-09-01",
+    "nda_bla_applications": 1,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "DECITABINE",
+      "unii": "776B62CQ27"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA212576"
+      ],
+      "brand_names": [
+        "INQOVI"
+      ],
+      "combination": true,
+      "home_inn": "decitabine",
+      "ingredients": [
+        "CEDAZURIDINE",
+        "DECITABINE"
+      ],
+      "labeler": "Taiho Pharmaceutical Co., Ltd.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2020-07-07",
+      "moieties": [
+        "CEDAZURIDINE",
+        "DECITABINE"
+      ],
+      "product_ndcs": [
+        "64842-0727"
+      ],
+      "rxcui": [
+        "2384457",
+        "2384458",
+        "2384464",
+        "2384465"
+      ],
+      "setid": "91a0f80b-f865-4d06-a40d-4d148d99ee71",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "INQOVI (CEDAZURIDINE AND DECITABINE) TABLET, FILM COATED [TAIHO PHARMACEUTICAL CO., LTD.]",
+      "upload_date": "2026-05-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA203131"
+      ],
+      "brand_names": [
+        "Decitabine"
+      ],
+      "combination": false,
+      "home_inn": "decitabine",
+      "ingredients": [
+        "DECITABINE"
+      ],
+      "labeler": "Dr.Reddy's Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-07-11",
+      "moieties": [
+        "DECITABINE"
+      ],
+      "product_ndcs": [
+        "55111-556"
+      ],
+      "rxcui": [
+        "636631"
+      ],
+      "setid": "4e1f4eb4-19b2-eee8-3402-bd2ccf622791",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "DECITABINE INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [DR.REDDY'S LABORATORIES LIMITED]",
+      "upload_date": "2026-03-26"
+    },
+    {
+      "application_numbers": [
+        "ANDA203475"
+      ],
+      "brand_names": [
+        "Decitabine"
+      ],
+      "combination": false,
+      "home_inn": "decitabine",
+      "ingredients": [
+        "DECITABINE"
+      ],
+      "labeler": "Accord Healthcare Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-03-08",
+      "moieties": [
+        "DECITABINE"
+      ],
+      "product_ndcs": [
+        "16729-224"
+      ],
+      "rxcui": [
+        "636631"
+      ],
+      "setid": "b46df7d7-d98e-4c7e-b1ee-e03e258781c4",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "DECITABINE INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [ACCORD HEALTHCARE INC.]",
+      "upload_date": "2024-07-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA204607"
+      ],
+      "brand_names": [
+        "Decitabine"
+      ],
+      "combination": false,
+      "home_inn": "decitabine",
+      "ingredients": [
+        "DECITABINE"
+      ],
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-10-10",
+      "moieties": [
+        "DECITABINE"
+      ],
+      "product_ndcs": [
+        "67457-316"
+      ],
+      "rxcui": [
+        "636631"
+      ],
+      "setid": "447a9fbd-106d-4ff6-8fd0-bb38a8c90e17",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "DECITABINE INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [MYLAN INSTITUTIONAL LLC]",
+      "upload_date": "2020-11-20"
+    },
+    {
+      "application_numbers": [
+        "ANDA212265"
+      ],
+      "brand_names": [
+        "Decitabine"
+      ],
+      "combination": false,
+      "home_inn": "decitabine",
+      "ingredients": [
+        "DECITABINE"
+      ],
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-08-28",
+      "moieties": [
+        "DECITABINE"
+      ],
+      "product_ndcs": [
+        "72205-031"
+      ],
+      "rxcui": [
+        "636631"
+      ],
+      "setid": "ae6c4580-3a3a-4c42-903a-1565d79521f8",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "DECITABINE INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [NOVADOZ PHARMACEUTICALS LLC]",
+      "upload_date": "2021-06-16"
+    },
+    {
+      "application_numbers": [
+        "ANDA206033"
+      ],
+      "brand_names": [
+        "Decitabine"
+      ],
+      "combination": false,
+      "home_inn": "decitabine",
+      "ingredients": [
+        "DECITABINE"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-12-01",
+      "moieties": [
+        "DECITABINE"
+      ],
+      "product_ndcs": [
+        "70121-1644"
+      ],
+      "rxcui": [
+        "636631"
+      ],
+      "setid": "40e7ef72-8df5-4adf-a269-4ae1c26eb6f9",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "DECITABINE INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2021-02-22"
+    },
+    {
+      "application_numbers": [
+        "ANDA205539"
+      ],
+      "brand_names": [
+        "decitabine"
+      ],
+      "combination": false,
+      "home_inn": "decitabine",
+      "ingredients": [
+        "DECITABINE"
+      ],
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-11-23",
+      "moieties": [
+        "DECITABINE"
+      ],
+      "product_ndcs": [
+        "68083-528"
+      ],
+      "rxcui": [
+        "636631"
+      ],
+      "setid": "39a26b24-e9d4-4974-9788-d025c51fc94f",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "DECITABINE INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [GLAND PHARMA LIMITED]",
+      "upload_date": "2021-09-17"
+    },
+    {
+      "application_numbers": [
+        "NDA021790"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "DACOGEN"
+      ],
+      "first_posted": "2010-04-28",
+      "found_by": "DACOGEN",
+      "labeler": "Eisai Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2017-02-10",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-12-31"
+      ],
+      "product_ndcs": [
+        "62856-600"
+      ],
+      "rxcui": [],
+      "setid": "acaf6e50-7cd3-4431-98ef-d1c07e3ed8c2",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "DACOGEN (decitabine) injection, powder, lyophilized, for solution"
+    },
+    {
+      "application_numbers": [
+        "NDA021790"
+      ],
+      "archived_versions": 13,
+      "brand_names": [
+        "DACOGEN"
+      ],
+      "first_posted": "2015-02-20",
+      "found_by": "DACOGEN",
+      "labeler": "Otsuka America Pharmaceutical, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2024-04-12",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-04-15"
+      ],
+      "product_ndcs": [
+        "59148-046"
+      ],
+      "rxcui": [],
+      "setid": "deb4a13c-855b-4372-9778-6e81da598df6",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "DACOGEN (decitabine) injection, powder, lyophilized, for solution"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Nivagen Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "150537a8-10ac-422d-bf33-68b1a408e566"
+    },
+    {
+      "combination": false,
+      "labeler": "Qilu Pharmaceutical Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5b2dce6f-c715-47dc-971e-06244ccd7548"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a3771445-1c68-4883-a014-74f8793f3136"
+    },
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a99f92cf-88f9-469b-aa69-44831e0bd4ab"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8c5d6067-16a1-43ab-9e52-a33c600a5c44"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5662c353-05d0-4bd8-87e4-c92ec9ca861e"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Laboratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "358764ca-4c69-d516-af0c-bf8a348d26ca"
+    },
+    {
+      "combination": false,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a1b43089-bc88-4ac6-bdee-9cc38ec30f4e"
+    },
+    {
+      "combination": false,
+      "labeler": "Northstar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1abbe952-58bc-4dbc-b06a-fb79167bcd66"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a535a235-e1d2-4520-93fe-b7dd9b047784"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "749f8d8c-e378-42a1-b94a-136b606dadb4"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "00caa305-fef4-471b-b9c3-4bcf5fe7b244"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "de303068-589e-4e0a-90ed-e60b2c1a2b56"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5975fa81-1e29-4d56-e063-6394a90a9cd5"
+    }
+  ]
+}

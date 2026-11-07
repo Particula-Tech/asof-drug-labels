@@ -1,0 +1,640 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "OMEPRAZOLE",
+    "OMEPRAZOLE MAGNESIUM"
+  ],
+  "inn": "omeprazole",
+  "name": "OMEPRAZOLE",
+  "rank": 163,
+  "rxcui": [
+    "198051",
+    "199119",
+    "200329",
+    "616539",
+    "616541",
+    "646344",
+    "646352",
+    "753557",
+    "753562",
+    "753601",
+    "753603",
+    "797058",
+    "797061",
+    "797063",
+    "797065",
+    "2262026",
+    "2262032"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 33,
+    "approval_holders": 25,
+    "earliest_marketing_start": "2002-11-04",
+    "latest_label_update": "2026-10-01",
+    "nda_bla_applications": 3,
+    "repackagers": 30
+  },
+  "unii": [
+    {
+      "ingredient": "OMEPRAZOLE",
+      "unii": "KG60484QX9"
+    },
+    {
+      "ingredient": "OMEPRAZOLE MAGNESIUM",
+      "unii": "426QFE7XLK"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021636"
+      ],
+      "brand_names": [
+        "ZEGERID"
+      ],
+      "combination": false,
+      "home_inn": "omeprazole",
+      "ingredients": [
+        "OMEPRAZOLE",
+        "SODIUM BICARBONATE"
+      ],
+      "labeler": "Santarus, Inc..",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2004-06-15",
+      "moieties": [
+        "OMEPRAZOLE"
+      ],
+      "product_ndcs": [
+        "68012-052",
+        "68012-054"
+      ],
+      "rxcui": [
+        "616539",
+        "616541",
+        "646344",
+        "646352",
+        "753557",
+        "753562",
+        "753601",
+        "753603"
+      ],
+      "setid": "cd6868b9-5824-442b-8d65-4db29ecb70a4",
+      "source": "dailymed-title-match",
+      "spl_version": 55,
+      "title": "ZEGERID (OMEPRAZOLE AND SODIUM BICARBONATE) POWDER, FOR SUSPENSION ZEGERID (OMEPRAZOLE AND SODIUM BICARBONATE) CAPSULE [SANTARUS, INC..]",
+      "upload_date": "2026-10-01"
+    },
+    {
+      "application_numbers": [
+        "NDA022056"
+      ],
+      "brand_names": [
+        "Prilosec"
+      ],
+      "combination": false,
+      "home_inn": "omeprazole",
+      "ingredients": [
+        "OMEPRAZOLE MAGNESIUM"
+      ],
+      "labeler": "Covis Pharma US, Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-08-25",
+      "moieties": [
+        "OMEPRAZOLE"
+      ],
+      "product_ndcs": [
+        "70515-610",
+        "70515-625"
+      ],
+      "rxcui": [
+        "797058",
+        "797061",
+        "797063",
+        "797065"
+      ],
+      "setid": "b6761f84-53ac-4745-a8c8-1e5427d7e179",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "PRILOSEC (OMEPRAZOLE MAGNESIUM) GRANULE, DELAYED RELEASE [COVIS PHARMA US, INC]",
+      "upload_date": "2024-03-19"
+    },
+    {
+      "application_numbers": [
+        "NDA213004"
+      ],
+      "brand_names": [
+        "Talicia"
+      ],
+      "combination": true,
+      "home_inn": "omeprazole",
+      "ingredients": [
+        "AMOXICILLIN",
+        "OMEPRAZOLE MAGNESIUM",
+        "RIFABUTIN"
+      ],
+      "labeler": "RedHill Biopharma Ltd",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2020-03-09",
+      "moieties": [
+        "AMOXICILLIN",
+        "OMEPRAZOLE",
+        "RIFABUTIN"
+      ],
+      "product_ndcs": [
+        "57841-1150"
+      ],
+      "rxcui": [
+        "2262026",
+        "2262032"
+      ],
+      "setid": "68c4e9dc-dbcf-4151-b6f7-5e4b9922b76f",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "TALICIA (OMEPRAZOLE MAGNESIUM, AMOXICILLIN AND RIFABUTIN) CAPSULE, DELAYED RELEASE [REDHILL BIOPHARMA LTD]",
+      "upload_date": "2025-12-25"
+    },
+    {
+      "application_numbers": [
+        "ANDA075410"
+      ],
+      "brand_names": [
+        "Omeprazole"
+      ],
+      "combination": false,
+      "home_inn": "omeprazole",
+      "ingredients": [
+        "OMEPRAZOLE"
+      ],
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2002-11-04",
+      "moieties": [
+        "OMEPRAZOLE"
+      ],
+      "product_ndcs": [
+        "62175-114",
+        "62175-118",
+        "62175-136"
+      ],
+      "rxcui": [
+        "198051",
+        "199119",
+        "200329"
+      ],
+      "setid": "92201fb1-4570-42db-8da3-3b8c0e291d32",
+      "source": "openfda",
+      "spl_version": 50,
+      "title": "OMEPRAZOLE CAPSULE, DELAYED RELEASE [LANNETT COMPANY, INC.]",
+      "upload_date": "2023-05-01"
+    },
+    {
+      "application_numbers": [
+        "ANDA075757"
+      ],
+      "brand_names": [
+        "Omeprazole"
+      ],
+      "combination": false,
+      "home_inn": "omeprazole",
+      "ingredients": [
+        "OMEPRAZOLE"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2003-01-28",
+      "moieties": [
+        "OMEPRAZOLE"
+      ],
+      "product_ndcs": [
+        "62135-559"
+      ],
+      "rxcui": [
+        "199119"
+      ],
+      "setid": "4b1a6f05-ae3e-4f29-bc2d-8e9f51e5fe3e",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "OMEPRAZOLE CAPSULE, DELAYED RELEASE [CHARTWELL RX, LLC]",
+      "upload_date": "2025-02-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA076048"
+      ],
+      "brand_names": [
+        "Omeprazole"
+      ],
+      "combination": false,
+      "home_inn": "omeprazole",
+      "ingredients": [
+        "OMEPRAZOLE"
+      ],
+      "labeler": "Apotex Corp",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2003-11-11",
+      "moieties": [
+        "OMEPRAZOLE"
+      ],
+      "product_ndcs": [
+        "60505-0065",
+        "60505-0145",
+        "60505-0146",
+        "60505-3952"
+      ],
+      "rxcui": [
+        "198051",
+        "199119",
+        "200329"
+      ],
+      "setid": "b83329ac-a65e-b3af-a3fb-c5a6c740e5e7",
+      "source": "openfda",
+      "spl_version": 35,
+      "title": "OMEPRAZOLE CAPSULE, DELAYED RELEASE [APOTEX CORP]",
+      "upload_date": "2024-04-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA076515"
+      ],
+      "brand_names": [
+        "Omeprazole"
+      ],
+      "combination": false,
+      "home_inn": "omeprazole",
+      "ingredients": [
+        "OMEPRAZOLE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-01-21",
+      "moieties": [
+        "OMEPRAZOLE"
+      ],
+      "product_ndcs": [
+        "0781-2234"
+      ],
+      "rxcui": [
+        "200329"
+      ],
+      "setid": "5a09ce48-7139-4fc7-9b6e-439459c8e866",
+      "source": "openfda",
+      "spl_version": 26,
+      "title": "OMEPRAZOLE CAPSULE, DELAYED RELEASE [SANDOZ INC]",
+      "upload_date": "2026-03-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA075576"
+      ],
+      "brand_names": [
+        "Omeprazole"
+      ],
+      "combination": false,
+      "home_inn": "omeprazole",
+      "ingredients": [
+        "OMEPRAZOLE"
+      ],
+      "labeler": "Dr. Reddy's Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-01-21",
+      "moieties": [
+        "OMEPRAZOLE"
+      ],
+      "product_ndcs": [
+        "55111-157",
+        "55111-158",
+        "55111-159"
+      ],
+      "rxcui": [
+        "198051",
+        "199119",
+        "200329"
+      ],
+      "setid": "72fb11b6-b08c-2f02-d82b-f60f52394903",
+      "source": "openfda",
+      "spl_version": 28,
+      "title": "OMEPRAZOLE CAPSULE, DELAYED RELEASE [DR. REDDY'S LABORATORIES LIMITED]",
+      "upload_date": "2024-06-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA091352"
+      ],
+      "brand_names": [
+        "Omeprazole"
+      ],
+      "combination": false,
+      "home_inn": "omeprazole",
+      "ingredients": [
+        "OMEPRAZOLE"
+      ],
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-11-23",
+      "moieties": [
+        "OMEPRAZOLE"
+      ],
+      "product_ndcs": [
+        "65841-759",
+        "65841-760",
+        "65841-761"
+      ],
+      "rxcui": [
+        "198051",
+        "199119",
+        "200329"
+      ],
+      "setid": "2aaaf0fd-7f2a-4533-b3ad-f35c6c19cca2",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "OMEPRAZOLE CAPSULE, DELAYED RELEASE [ZYDUS LIFESCIENCES LIMITED]",
+      "upload_date": "2024-12-06"
+    },
+    {
+      "application_numbers": [
+        "NDA019810",
+        "NDA022056"
+      ],
+      "archived_versions": 22,
+      "brand_names": [
+        "PRILOSEC"
+      ],
+      "first_posted": "2008-06-05",
+      "found_by": "PRILOSEC",
+      "labeler": "AstraZeneca Pharmaceuticals LP",
+      "labeler_unverified": false,
+      "last_posted": "2018-02-16",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2016-11-30",
+        "2019-11-01",
+        "2020-06-01"
+      ],
+      "product_ndcs": [
+        "0186-0606",
+        "0186-0610",
+        "0186-0625",
+        "0186-0742",
+        "0186-0743"
+      ],
+      "rxcui": [],
+      "setid": "a1b077e6-b070-43f2-a98e-380cc635419d",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "b6761f84-53ac-4745-a8c8-1e5427d7e179"
+      ],
+      "title": "PRILOSEC (omeprazole magnesium) capsule, delayed release PRILOSEC (omeprazole magnesium) granule, delayed release"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "603d2d06-c5e8-4378-a422-8dca1a410af7"
+    },
+    {
+      "combination": false,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c6c22be1-659d-4e71-b292-701e27da201b"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "934601b6-fbba-43c4-a8ef-7a7dfe9f9a51"
+    },
+    {
+      "combination": false,
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cb657607-b038-47ee-b4e7-a5f419a14c33"
+    },
+    {
+      "combination": false,
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bd84ca00-6352-4cb3-bce2-05f4a5005a94"
+    },
+    {
+      "combination": false,
+      "labeler": "ScieGen Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a107804e-b308-4e79-9447-07d93016f70f"
+    },
+    {
+      "combination": false,
+      "labeler": "Golden State Medical Supply, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f27b3518-d5c1-1229-e053-2a95a90ab56f"
+    },
+    {
+      "combination": false,
+      "labeler": "Xiromed, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "38bd8e13-591e-f11b-7d8a-11717c56493c"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0c6e00a2-31e8-4e84-928d-80e69a5fc634"
+    },
+    {
+      "combination": false,
+      "labeler": "Guardian Drug Company",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e5c6c2cf-fb3b-456a-a0a0-be396d6f8319"
+    },
+    {
+      "combination": false,
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cf6d293e-d70d-443e-8292-d693e93aab55"
+    },
+    {
+      "combination": false,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "63c3bd6c-a586-4ec0-8f45-ed936936dfeb"
+    },
+    {
+      "combination": false,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e4562da8-9d94-4417-9f80-c1ffd4247259"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "10f5502a-2e63-4f2a-a3ba-ddc5bd403051"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9c22ceb2-2c34-43c3-9a35-2589c9078741"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a1b1c61b-d4fe-433d-ad31-0b11758976fa"
+    },
+    {
+      "combination": false,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9cdde58a-ae8a-451f-92cf-cab178e4ba92"
+    },
+    {
+      "combination": false,
+      "labeler": "Westminster Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d69c2f0f-4e8b-422a-8aaf-a825998b04e0"
+    },
+    {
+      "combination": false,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "516170d4-4913-4577-a2d2-f5c52d1e79c6"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "40a75dc7-49b7-5c9d-6c5f-d4682ec6922e"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c5af5f4b-17be-7245-b281-f27c87831242"
+    },
+    {
+      "combination": false,
+      "labeler": "Golden State Medical Supply, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ded71262-d17f-3799-e053-2995a90a5427"
+    },
+    {
+      "combination": false,
+      "labeler": "Quallent Pharmaceuticals Health LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "665e9877-85ac-fdb6-54ac-1c47941ceab8"
+    },
+    {
+      "combination": false,
+      "labeler": "Quallent Pharmaceuticals Health LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8090d4c3-3184-7812-53d7-aa30e14b79d1"
+    }
+  ]
+}

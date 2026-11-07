@@ -1,0 +1,445 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "PHENTERMINE HYDROCHLORIDE"
+  ],
+  "inn": "phentermine",
+  "name": "PHENTERMINE",
+  "rank": 437,
+  "rxcui": [
+    "803348",
+    "803353",
+    "826919",
+    "900038",
+    "968766",
+    "1302827",
+    "1302833",
+    "1302839",
+    "1302845",
+    "1302850",
+    "1302856",
+    "1313059",
+    "1313061"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 20,
+    "approval_holders": 14,
+    "earliest_marketing_start": "1976-07-01",
+    "latest_label_update": "2026-08-21",
+    "nda_bla_applications": 1,
+    "repackagers": 12
+  },
+  "unii": [
+    {
+      "ingredient": "PHENTERMINE HYDROCHLORIDE",
+      "unii": "0K2I505OTV"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA022580"
+      ],
+      "brand_names": [
+        "Qsymia"
+      ],
+      "combination": true,
+      "home_inn": "topiramate",
+      "ingredients": [
+        "PHENTERMINE HYDROCHLORIDE",
+        "TOPIRAMATE"
+      ],
+      "labeler": "Vivus LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2012-09-17",
+      "moieties": [
+        "PHENTERMINE",
+        "TOPIRAMATE"
+      ],
+      "product_ndcs": [
+        "62541-201",
+        "62541-202",
+        "62541-203",
+        "62541-204"
+      ],
+      "rxcui": [
+        "1302827",
+        "1302833",
+        "1302839",
+        "1302845",
+        "1302850",
+        "1302856",
+        "1313059",
+        "1313061"
+      ],
+      "setid": "40dd5602-53da-45ac-bb4b-15789aba40f9",
+      "source": "openfda",
+      "spl_version": 42,
+      "title": "QSYMIA (PHENTERMINE AND TOPIRAMATE) CAPSULE, EXTENDED RELEASE [VIVUS LLC]",
+      "upload_date": "2026-04-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA083923"
+      ],
+      "brand_names": [
+        "Phentermine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "phentermine",
+      "ingredients": [
+        "PHENTERMINE HYDROCHLORIDE"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1976-07-01",
+      "moieties": [
+        "PHENTERMINE"
+      ],
+      "product_ndcs": [
+        "62135-959"
+      ],
+      "rxcui": [
+        "826919"
+      ],
+      "setid": "d70f0be3-fcc7-4a1d-9a82-bb1bb21a1528",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "PHENTERMINE HYDROCHLORIDE TABLET [CHARTWELL RX, LLC]",
+      "upload_date": "2025-08-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA040377"
+      ],
+      "brand_names": [
+        "Phentermine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "phentermine",
+      "ingredients": [
+        "PHENTERMINE HYDROCHLORIDE"
+      ],
+      "labeler": "Solco Healthcare U.S., LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2002-01-04",
+      "moieties": [
+        "PHENTERMINE"
+      ],
+      "product_ndcs": [
+        "43547-404"
+      ],
+      "rxcui": [
+        "803353"
+      ],
+      "setid": "e4024b8a-25cb-4681-9bb4-44a38c74fe4b",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "PHENTERMINE HYDROCHLORIDE TABLET [SOLCO HEALTHCARE U.S., LLC]",
+      "upload_date": "2025-04-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA200272"
+      ],
+      "brand_names": [
+        "Phentermine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "phentermine",
+      "ingredients": [
+        "PHENTERMINE HYDROCHLORIDE"
+      ],
+      "labeler": "TAGI Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-03-08",
+      "moieties": [
+        "PHENTERMINE"
+      ],
+      "product_ndcs": [
+        "51224-101"
+      ],
+      "rxcui": [
+        "803353"
+      ],
+      "setid": "1993b181-f4f1-4451-92a0-7ed8f32598ba",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "PHENTERMINE HYDROCHLORIDE TABLET [TAGI PHARMA, INC.]",
+      "upload_date": "2025-12-25"
+    },
+    {
+      "application_numbers": [
+        "ANDA040875",
+        "ANDA040886"
+      ],
+      "brand_names": [
+        "Phentermine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "phentermine",
+      "ingredients": [
+        "PHENTERMINE HYDROCHLORIDE"
+      ],
+      "labeler": "KVK-Tech, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-08-07",
+      "moieties": [
+        "PHENTERMINE"
+      ],
+      "product_ndcs": [
+        "10702-026",
+        "10702-027",
+        "10702-028"
+      ],
+      "rxcui": [
+        "900038",
+        "968766"
+      ],
+      "setid": "b963f7bb-fa65-4e28-81c9-282fbe70a6a6",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "PHENTERMINE HYDROCHLORIDE CAPSULE [KVK-TECH, INC.]",
+      "upload_date": "2024-04-22"
+    },
+    {
+      "application_numbers": [
+        "ANDA040876",
+        "ANDA040887"
+      ],
+      "brand_names": [
+        "Phentermine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "phentermine",
+      "ingredients": [
+        "PHENTERMINE HYDROCHLORIDE"
+      ],
+      "labeler": "KVK-TECH, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-08-15",
+      "moieties": [
+        "PHENTERMINE"
+      ],
+      "product_ndcs": [
+        "10702-025",
+        "10702-029"
+      ],
+      "rxcui": [
+        "803348",
+        "803353"
+      ],
+      "setid": "3b44d104-a7d0-4366-9d42-63f784f3cb22",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "PHENTERMINE HYDROCHLORIDE TABLET PHENTERMINE HYDROCHLORIDE CAPSULE [KVK-TECH, INC.]",
+      "upload_date": "2024-02-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA040526"
+      ],
+      "brand_names": [
+        "Phentermine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "phentermine",
+      "ingredients": [
+        "PHENTERMINE HYDROCHLORIDE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-08-12",
+      "moieties": [
+        "PHENTERMINE"
+      ],
+      "product_ndcs": [
+        "53489-676"
+      ],
+      "rxcui": [
+        "803353"
+      ],
+      "setid": "02b8f684-b1ca-4ab7-9567-bcacc6a92779",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "PHENTERMINE HYDROCHLORIDE TABLET [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2025-11-18"
+    },
+    {
+      "application_numbers": [
+        "NDA202088"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "SUPRENZA"
+      ],
+      "first_posted": "2011-12-02",
+      "found_by": "SUPRENZA",
+      "labeler": "Akrimax Pharmaceuticals, LLC",
+      "labeler_unverified": true,
+      "last_posted": "2017-12-29",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-09-30"
+      ],
+      "product_ndcs": [
+        "24090-720",
+        "24090-721",
+        "24090-722"
+      ],
+      "rxcui": [],
+      "setid": "b961e6cc-4956-405f-9e53-b55604be23f6",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "SUPRENZA (phentermine hydrochloride) tablet, orally disintegrating"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Elite Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0b7ad9c0-9e1e-4a69-802b-28f44267e34d"
+    },
+    {
+      "combination": false,
+      "labeler": "Epic Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "06573bd8-67b4-4478-8325-aa6be25787cb"
+    },
+    {
+      "combination": false,
+      "labeler": "KVK-TECH, INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cde9fb09-e5af-434d-8874-e4f9f974d893"
+    },
+    {
+      "combination": false,
+      "labeler": "SUNRISE PHARMACEUTICAL, INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "43024f64-2d77-49a9-80fd-ad07a86c69a3"
+    },
+    {
+      "combination": false,
+      "labeler": "SUNRISE PHARMACEUTICAL, INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a0439c85-5ede-4e02-aed2-47debd2c8eb2"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurolife Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "737eef3b-9a6b-4ab3-a25c-49d84d2a0197"
+    },
+    {
+      "combination": false,
+      "labeler": "KVK-TECH, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ff620c0b-aa99-4f63-9526-d094cedc8d19"
+    },
+    {
+      "combination": false,
+      "labeler": "Precision Dose Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "095a2be5-721e-46e6-976f-9137c855cd22"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurolife Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5927e0f6-3de3-4885-a633-5b92003f6fe4"
+    },
+    {
+      "combination": true,
+      "labeler": "Prasco Laboratories",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "876bd763-13fa-481e-b579-c2fc44dbf3c2"
+    },
+    {
+      "combination": true,
+      "labeler": "Teva Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "918df93d-e033-4419-adcc-e21655ef8158"
+    },
+    {
+      "combination": true,
+      "labeler": "Dr.Reddys Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "260c3f90-163d-0bdd-1099-55d18a900e68"
+    },
+    {
+      "combination": false,
+      "labeler": "Precision Dose Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8d5697b9-02e8-40c4-97c7-761d635243c8"
+    }
+  ]
+}

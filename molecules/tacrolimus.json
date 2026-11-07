@@ -1,0 +1,821 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "Protopic is the topical ointment; the US innovator label is oral Prograf",
+      "comparable_to_us": "no",
+      "ema_product_number": "EMEA/H/C/000374",
+      "eu_number": "EU/1/02/201",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000374",
+      "mah": "LEO Pharma A/S",
+      "marketing_authorisation_date": "2002-02-27",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/protopic",
+      "name": "Protopic",
+      "record_from": "2002-02-28",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 25
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/000712",
+      "eu_number": "EU/1/07/387",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-000712",
+      "mah": "Astellas Pharma Europe BV",
+      "marketing_authorisation_date": "2007-04-23",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/advagraf",
+      "name": "Advagraf",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/000954",
+      "eu_number": "EU/1/09/523",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-000954",
+      "mah": "Astellas Pharma Europe B.V.",
+      "marketing_authorisation_date": "2009-05-15",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/modigraf",
+      "name": "Modigraf",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/002655",
+      "eu_number": "EU/1/14/935",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-002655",
+      "mah": "Chiesi Farmaceutici S.p.A.",
+      "marketing_authorisation_date": "2014-07-18",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/envarsus",
+      "name": "Envarsus",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/004435",
+      "eu_number": "EU/1/17/1244",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-004435",
+      "mah": "Teva B.V.",
+      "marketing_authorisation_date": "2017-12-08",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tacforius",
+      "name": "Tacforius",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000374",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "TACROLIMUS"
+  ],
+  "inn": "tacrolimus",
+  "name": "TACROLIMUS",
+  "rank": 94,
+  "rxcui": [
+    "108513",
+    "108514",
+    "108515",
+    "198377",
+    "198378",
+    "198379",
+    "261134",
+    "313189",
+    "313190",
+    "314266",
+    "1431971",
+    "1431977",
+    "1431980",
+    "1431982",
+    "1431985",
+    "1431987",
+    "1664434",
+    "1664440",
+    "1664456",
+    "1664458",
+    "1664461",
+    "1664463",
+    "2052605",
+    "2052609",
+    "2052703",
+    "2052704",
+    "2665161",
+    "2665162",
+    "2665163"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 27,
+    "approval_holders": 24,
+    "earliest_marketing_start": "1994-04-08",
+    "latest_label_update": "2026-10-19",
+    "nda_bla_applications": 6,
+    "repackagers": 11
+  },
+  "unii": [
+    {
+      "ingredient": "TACROLIMUS",
+      "unii": "WM0HAQ4WNM"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA050708",
+        "NDA050709",
+        "NDA210115"
+      ],
+      "brand_names": [
+        "Prograf"
+      ],
+      "combination": false,
+      "home_inn": "tacrolimus",
+      "ingredients": [
+        "TACROLIMUS"
+      ],
+      "labeler": "Astellas Pharma US, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1994-04-08",
+      "moieties": [
+        "TACROLIMUS"
+      ],
+      "product_ndcs": [
+        "0469-0607",
+        "0469-0617",
+        "0469-0657",
+        "0469-1230",
+        "0469-1330",
+        "0469-3016"
+      ],
+      "rxcui": [
+        "108513",
+        "108514",
+        "108515",
+        "198377",
+        "198378",
+        "198379",
+        "261134",
+        "313190",
+        "2052605",
+        "2052609",
+        "2052703",
+        "2052704"
+      ],
+      "setid": "7f667de1-9dfa-4bd6-8ba0-15ee2d78873b",
+      "source": "openfda",
+      "spl_version": 30,
+      "title": "PROGRAF (TACROLIMUS) CAPSULE, GELATIN COATED PROGRAF (TACROLIMUS) INJECTION, SOLUTION PROGRAF (TACROLIMUS) GRANULE, FOR SUSPENSION [ASTELLAS PHARMA US, INC.]",
+      "upload_date": "2025-03-21"
+    },
+    {
+      "application_numbers": [
+        "NDA204096"
+      ],
+      "brand_names": [
+        "ASTAGRAF XL"
+      ],
+      "combination": false,
+      "home_inn": "tacrolimus",
+      "ingredients": [
+        "TACROLIMUS"
+      ],
+      "labeler": "Astellas Pharma US, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2013-07-19",
+      "moieties": [
+        "TACROLIMUS"
+      ],
+      "product_ndcs": [
+        "0469-0647",
+        "0469-0677",
+        "0469-0687"
+      ],
+      "rxcui": [
+        "1431971",
+        "1431977",
+        "1431980",
+        "1431982",
+        "1431985",
+        "1431987"
+      ],
+      "setid": "550a5cd4-fbf2-4c09-b577-6bde8fcbdf6e",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "ASTAGRAF XL (TACROLIMUS EXTENDED-RELEASE CAPSULES) CAPSULE, COATED, EXTENDED RELEASE [ASTELLAS PHARMA US, INC.]",
+      "upload_date": "2026-02-06"
+    },
+    {
+      "application_numbers": [
+        "NDA050777"
+      ],
+      "brand_names": [
+        "Tacrolimus"
+      ],
+      "combination": false,
+      "home_inn": "tacrolimus",
+      "ingredients": [
+        "TACROLIMUS"
+      ],
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2014-11-20",
+      "moieties": [
+        "TACROLIMUS"
+      ],
+      "product_ndcs": [
+        "45802-390",
+        "45802-700"
+      ],
+      "rxcui": [
+        "313189",
+        "314266"
+      ],
+      "setid": "6b601eaf-4f3a-4a8b-8cd8-1000defa9822",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "TACROLIMUS OINTMENT [PADAGIS ISRAEL PHARMACEUTICALS LTD]",
+      "upload_date": "2023-05-05"
+    },
+    {
+      "application_numbers": [
+        "NDA206406"
+      ],
+      "brand_names": [
+        "Envarsus XR"
+      ],
+      "combination": false,
+      "home_inn": "tacrolimus",
+      "ingredients": [
+        "TACROLIMUS"
+      ],
+      "labeler": "Veloxis Pharmaceuticals, Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-09-01",
+      "moieties": [
+        "TACROLIMUS"
+      ],
+      "product_ndcs": [
+        "68992-3010",
+        "68992-3040",
+        "68992-3075"
+      ],
+      "rxcui": [
+        "1664434",
+        "1664440",
+        "1664456",
+        "1664458",
+        "1664461",
+        "1664463"
+      ],
+      "setid": "de2315b0-6344-43ac-9aea-3e3b68d828e7",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "ENVARSUS XR (TACROLIMUS) TABLET, EXTENDED RELEASE [VELOXIS PHARMACEUTICALS, INC]",
+      "upload_date": "2025-03-03"
+    },
+    {
+      "application_numbers": [
+        "ANDA065461"
+      ],
+      "brand_names": [
+        "Tacrolimus"
+      ],
+      "combination": false,
+      "home_inn": "tacrolimus",
+      "ingredients": [
+        "TACROLIMUS"
+      ],
+      "labeler": "Sandoz Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-08-10",
+      "moieties": [
+        "TACROLIMUS"
+      ],
+      "product_ndcs": [
+        "0781-2102",
+        "0781-2103",
+        "0781-2104"
+      ],
+      "rxcui": [
+        "198377",
+        "198378",
+        "313190"
+      ],
+      "setid": "46ac55cf-d85e-4c34-bb33-f49e078c4a03",
+      "source": "dailymed-title-match",
+      "spl_version": 23,
+      "title": "TACROLIMUS CAPSULE [SANDOZ INC.]",
+      "upload_date": "2026-09-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA090509"
+      ],
+      "brand_names": [
+        "Tacrolimus"
+      ],
+      "combination": false,
+      "home_inn": "tacrolimus",
+      "ingredients": [
+        "TACROLIMUS"
+      ],
+      "labeler": "Dr. Reddy's Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-05-14",
+      "moieties": [
+        "TACROLIMUS"
+      ],
+      "product_ndcs": [
+        "55111-525",
+        "55111-526",
+        "55111-527"
+      ],
+      "rxcui": [
+        "198377",
+        "198378",
+        "313190"
+      ],
+      "setid": "61dee012-43af-0e9a-3843-9b9b91e022c4",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "TACROLIMUS CAPSULE [DR. REDDY'S LABORATORIES LIMITED]",
+      "upload_date": "2024-01-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA090596"
+      ],
+      "brand_names": [
+        "Tacrolimus"
+      ],
+      "combination": false,
+      "home_inn": "tacrolimus",
+      "ingredients": [
+        "TACROLIMUS"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-09-17",
+      "moieties": [
+        "TACROLIMUS"
+      ],
+      "product_ndcs": [
+        "0378-2045",
+        "0378-2046",
+        "0378-2047"
+      ],
+      "rxcui": [
+        "198377",
+        "198378",
+        "313190"
+      ],
+      "setid": "45af3eda-caaa-4478-9372-95aa65adc9b3",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "TACROLIMUS CAPSULE [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2025-10-06"
+    },
+    {
+      "application_numbers": [
+        "ANDA091195"
+      ],
+      "brand_names": [
+        "Tacrolimus"
+      ],
+      "combination": false,
+      "home_inn": "tacrolimus",
+      "ingredients": [
+        "TACROLIMUS"
+      ],
+      "labeler": "Accord Healthcare Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-09-30",
+      "moieties": [
+        "TACROLIMUS"
+      ],
+      "product_ndcs": [
+        "16729-041",
+        "16729-042",
+        "16729-043"
+      ],
+      "rxcui": [
+        "2665161",
+        "2665162",
+        "2665163"
+      ],
+      "setid": "bd447ffa-9196-4c3c-accf-5adf29b84665",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "TACROLIMUS CAPSULE [ACCORD HEALTHCARE INC.]",
+      "upload_date": "2025-05-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA090687"
+      ],
+      "brand_names": [
+        "Tacrolimus"
+      ],
+      "combination": false,
+      "home_inn": "tacrolimus",
+      "ingredients": [
+        "TACROLIMUS"
+      ],
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-08-13",
+      "moieties": [
+        "TACROLIMUS"
+      ],
+      "product_ndcs": [
+        "64380-720",
+        "64380-721",
+        "64380-722"
+      ],
+      "rxcui": [
+        "198377",
+        "198378",
+        "313190"
+      ],
+      "setid": "ed7d1495-3585-409d-94f1-b3d2469d222c",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "TACROLIMUS CAPSULE [STRIDES PHARMA SCIENCE LIMITED]",
+      "upload_date": "2026-05-25"
+    },
+    {
+      "application_numbers": [
+        "ANDA200744"
+      ],
+      "brand_names": [
+        "Tacrolimus"
+      ],
+      "combination": false,
+      "home_inn": "tacrolimus",
+      "ingredients": [
+        "TACROLIMUS"
+      ],
+      "labeler": "E. Fougera & Co. a division of Fougera Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-09-09",
+      "moieties": [
+        "TACROLIMUS"
+      ],
+      "product_ndcs": [
+        "0168-0416",
+        "0168-0417"
+      ],
+      "rxcui": [
+        "313189",
+        "314266"
+      ],
+      "setid": "1bf44a84-14fd-4f80-ad8a-99b1431d631f",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "TACROLIMUS OINTMENT [E. FOUGERA & CO. A DIVISION OF FOUGERA PHARMACEUTICALS, LLC]",
+      "upload_date": "2026-02-27"
+    },
+    {
+      "application_numbers": [
+        "NDA050777"
+      ],
+      "archived_versions": 8,
+      "brand_names": [
+        "PROTOPIC"
+      ],
+      "first_posted": "2016-08-23",
+      "found_by": "PROTOPIC",
+      "labeler": "LEO Pharma Inc",
+      "labeler_unverified": false,
+      "last_posted": "2022-06-14",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-12-31"
+      ],
+      "product_ndcs": [
+        "50222-203",
+        "50222-211"
+      ],
+      "rxcui": [],
+      "setid": "51218de3-dabc-4972-9c5b-750c8b1d8083",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "6b601eaf-4f3a-4a8b-8cd8-1000defa9822"
+      ],
+      "title": "PROTOPIC (tacrolimus) ointment"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "ENVARSUS"
+      ],
+      "first_posted": "2018-02-12",
+      "found_by": "ENVARSUS",
+      "labeler": "Carton Service, Incorporated",
+      "labeler_unverified": true,
+      "last_posted": "2018-02-12",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "75929-010",
+        "75929-040",
+        "75929-075"
+      ],
+      "rxcui": [],
+      "setid": "5beb0a8a-0c8c-5813-e053-2991aa0a8b30",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ENVARSUS XR (tacrolimus) tablet, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA050777"
+      ],
+      "archived_versions": 8,
+      "brand_names": [
+        "PROTOPIC"
+      ],
+      "first_posted": "2008-02-22",
+      "found_by": "PROTOPIC",
+      "labeler": "Astellas Pharma US Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2022-06-13",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2020-05-31"
+      ],
+      "product_ndcs": [
+        "0469-5201",
+        "0469-5202"
+      ],
+      "rxcui": [],
+      "setid": "8c2e5036-5f1b-4e71-bf87-5faef295fa96",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "6b601eaf-4f3a-4a8b-8cd8-1000defa9822"
+      ],
+      "title": "PROTOPIC (tacrolimus) ointment"
+    },
+    {
+      "application_numbers": [
+        "NDA050708"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "PROGRAF"
+      ],
+      "first_posted": "2009-12-11",
+      "found_by": "PROGRAF",
+      "labeler": "Caremark L.L.C.",
+      "labeler_unverified": false,
+      "last_posted": "2010-01-13",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2012-02-29"
+      ],
+      "product_ndcs": [
+        "0339-6425",
+        "0469-0617"
+      ],
+      "rxcui": [],
+      "setid": "f4cf03b0-244b-469f-80c9-8d47c2d0ea21",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "7f667de1-9dfa-4bd6-8ba0-15ee2d78873b"
+      ],
+      "title": "PROGRAF (tacrolimus) capsule, gelatin coated"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Panacea Biotec Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bd9fea26-0236-d437-c7df-4b7636210875"
+    },
+    {
+      "combination": false,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c2d2e3a1-f346-4245-b445-6dd44e371180"
+    },
+    {
+      "combination": false,
+      "labeler": "Accord Healthcare Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "80e6817a-9b1e-4f0f-e053-2a91aa0a3d15"
+    },
+    {
+      "combination": false,
+      "labeler": "BPI Labs LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3e8bc65e-8048-4073-8e45-570330603000"
+    },
+    {
+      "combination": false,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4b310c6b-e035-4e44-9573-4001d58b2ad5"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "55467f4b-8437-43a3-b6d9-1bc2a13b4c11"
+    },
+    {
+      "combination": false,
+      "labeler": "CONCORD BIOTECH LIMITED",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "823b11cb-d873-4017-a861-d22d2c5a8a49"
+    },
+    {
+      "combination": false,
+      "labeler": "Biocon Pharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0a557ca9-b1a1-cf8f-a317-e4d8d4d6e60f"
+    },
+    {
+      "combination": false,
+      "labeler": "Encube Ethicals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "43b38551-6c5e-48a4-a453-9286f1c16b34"
+    },
+    {
+      "combination": false,
+      "labeler": "Chengdu Suncadia Medicine Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "08cf2861-2483-405d-a872-a88a5c235f9a"
+    },
+    {
+      "combination": false,
+      "labeler": "Nexus Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9d502961-e9c0-4611-92bf-ce742a7b962c"
+    },
+    {
+      "combination": false,
+      "labeler": "NORTHSTAR RX LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "875f4962-557e-4e12-ad7b-cb5fb6f2a65f"
+    },
+    {
+      "combination": false,
+      "labeler": "Ajenat Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ca08d4aa-3de2-4a9d-9554-6288e5d36f29"
+    },
+    {
+      "combination": false,
+      "labeler": "Quallent Pharmaceuticals Health LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "23b7b4d7-1431-e9f2-43ba-eabd169dc2dd"
+    },
+    {
+      "combination": false,
+      "labeler": "Jubilant Cadista Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "651bd506-96b0-43e5-a4dd-db03bf9154c9"
+    },
+    {
+      "combination": false,
+      "labeler": "Stellon Biotech Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6b89e8a4-9f11-42e3-8e79-fe617e7c461f"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4eb1b6bd-beec-4dd5-9a48-c93a9fe918b3"
+    }
+  ]
+}

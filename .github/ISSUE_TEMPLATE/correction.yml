@@ -1,0 +1,44 @@
+name: Correction
+description: A conversion error or a wrong answer
+labels: [correction]
+body:
+  - type: markdown
+    attributes:
+      value: "Do not post personal data here. Rights-holder and personal-data requests: legal@particula.tech."
+  - type: input
+    id: label
+    attributes:
+      label: Label id or product
+      description: DailyMed setid, EU product number (EMEA/H/C/nnnnnn) or product name
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: The label version number, if known
+  - type: input
+    id: date
+    attributes:
+      label: Date asked about
+      description: YYYY-MM-DD
+  - type: input
+    id: section
+    attributes:
+      label: Section
+      description: LOINC code or QRD section, for example 34070-3 or 4.3
+  - type: textarea
+    id: repository
+    attributes:
+      label: What the repository shows
+  - type: textarea
+    id: official
+    attributes:
+      label: What the official source shows, with its URL
+      description: The DailyMed version page or the Union Register annex PDF
+    validations:
+      required: true
+  - type: textarea
+    id: other
+    attributes:
+      label: Anything else

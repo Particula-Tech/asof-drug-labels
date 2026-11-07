@@ -1,0 +1,1079 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "Pedea is the intravenous product for patent ductus arteriosus in neonates",
+      "comparable_to_us": "no",
+      "ema_product_number": "EMEA/H/C/000549",
+      "eu_number": "EU/1/04/284",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000549",
+      "mah": "Recordati Rare Diseases",
+      "marketing_authorisation_date": "2004-07-28",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/pedea",
+      "name": "Pedea",
+      "record_from": "2004-07-29",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 13
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/006129",
+      "eu_number": "EU/1/23/1791",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-006129",
+      "mah": "Gen.Orph",
+      "marketing_authorisation_date": "2024-02-16",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ibuprofen-genorph",
+      "name": "Ibuprofen Gen.Orph",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000549",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "IBUPROFEN",
+    "IBUPROFEN LYSINE"
+  ],
+  "inn": "ibuprofen",
+  "name": "IBUPROFEN",
+  "rank": 55,
+  "rxcui": [
+    "197803",
+    "197805",
+    "197806",
+    "197807",
+    "206905",
+    "206913",
+    "206917",
+    "637197",
+    "854183",
+    "854187",
+    "1747294",
+    "2178273",
+    "2178275",
+    "2673874",
+    "2673880",
+    "2675760",
+    "2675765"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 51,
+    "approval_holders": 35,
+    "earliest_marketing_start": "2004-12-08",
+    "latest_label_update": "2026-10-26",
+    "nda_bla_applications": 4,
+    "repackagers": 32
+  },
+  "unii": [
+    {
+      "ingredient": "IBUPROFEN",
+      "unii": "WK2XYI10QM"
+    },
+    {
+      "ingredient": "IBUPROFEN LYSINE",
+      "unii": "N01ORX9D6S"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021903"
+      ],
+      "brand_names": [
+        "NEOPROFEN"
+      ],
+      "combination": false,
+      "home_inn": "ibuprofen",
+      "ingredients": [
+        "IBUPROFEN LYSINE"
+      ],
+      "labeler": "Recordati Rare Diseases Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2006-04-13",
+      "moieties": [
+        "IBUPROFEN"
+      ],
+      "product_ndcs": [
+        "55292-122"
+      ],
+      "rxcui": [
+        "637197",
+        "1747294"
+      ],
+      "setid": "6f5ede6f-b0b7-4fc8-969e-652f60ead047",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "NEOPROFEN (IBUPROFEN LYSINE) SOLUTION [RECORDATI RARE DISEASES INC.]",
+      "upload_date": "2024-10-17"
+    },
+    {
+      "application_numbers": [
+        "NDA022348"
+      ],
+      "brand_names": [
+        "Caldolor"
+      ],
+      "combination": false,
+      "home_inn": "ibuprofen",
+      "ingredients": [
+        "IBUPROFEN"
+      ],
+      "labeler": "Cumberland Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2009-06-11",
+      "moieties": [
+        "IBUPROFEN"
+      ],
+      "product_ndcs": [
+        "66220-284",
+        "66220-287"
+      ],
+      "rxcui": [
+        "854183",
+        "854187",
+        "2178273",
+        "2178275"
+      ],
+      "setid": "1eaa7790-f1a1-4f51-b10a-cbbaf033f684",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "CALDOLOR (IBUPROFEN) INJECTION [CUMBERLAND PHARMACEUTICALS INC.]",
+      "upload_date": "2026-08-17"
+    },
+    {
+      "application_numbers": [
+        "NDA215320"
+      ],
+      "brand_names": [
+        "COMBOGESIC IV"
+      ],
+      "combination": true,
+      "home_inn": "acetaminophen",
+      "ingredients": [
+        "ACETAMINOPHEN",
+        "IBUPROFEN"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-02-05",
+      "moieties": [
+        "ACETAMINOPHEN",
+        "IBUPROFEN"
+      ],
+      "product_ndcs": [
+        "0143-9150"
+      ],
+      "rxcui": [
+        "2673874",
+        "2673880"
+      ],
+      "setid": "be408a5a-48e4-43c0-9cb1-bbf830b54f5b",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "COMBOGESIC IV (ACETAMINOPHEN AND IBUPROFEN INJECTION) INJECTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2026-02-26"
+    },
+    {
+      "application_numbers": [
+        "NDA209471"
+      ],
+      "brand_names": [
+        "Combogesic"
+      ],
+      "combination": true,
+      "home_inn": "acetaminophen",
+      "ingredients": [
+        "ACETAMINOPHEN",
+        "IBUPROFEN"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-01-06",
+      "moieties": [
+        "ACETAMINOPHEN",
+        "IBUPROFEN"
+      ],
+      "product_ndcs": [
+        "0143-9432"
+      ],
+      "rxcui": [
+        "2675760",
+        "2675765"
+      ],
+      "setid": "b32651c4-7fa0-415b-91eb-854aa1c28f2a",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "COMBOGESIC (ACETAMINOPHEN AND IBUPROFEN) TABLET, FILM COATED [HIKMA PHARMACEUTICALS USA INC]",
+      "upload_date": "2025-01-16"
+    },
+    {
+      "application_numbers": [
+        "NDA209471"
+      ],
+      "brand_names": [
+        "Combogesic"
+      ],
+      "combination": true,
+      "home_inn": "acetaminophen",
+      "ingredients": [
+        "ACETAMINOPHEN",
+        "IBUPROFEN"
+      ],
+      "labeler": "AFT Pharmaceuticals US, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-01-06",
+      "moieties": [
+        "ACETAMINOPHEN",
+        "IBUPROFEN"
+      ],
+      "product_ndcs": [
+        "72260-129"
+      ],
+      "rxcui": [
+        "2675760",
+        "2675765"
+      ],
+      "setid": "f863558f-2a44-41f8-a6b7-271851d4c2ff",
+      "source": "dailymed-title-match",
+      "spl_version": 9,
+      "title": "COMBOGESIC (ACETAMINOPHEN AND IBUPROFEN) TABLET, FILM COATED [AFT PHARMACEUTICALS US, INC.]",
+      "upload_date": "2026-09-21"
+    },
+    {
+      "application_numbers": [
+        "NDA021903"
+      ],
+      "brand_names": [
+        "Ibuprofen Lysine"
+      ],
+      "combination": false,
+      "home_inn": "ibuprofen",
+      "ingredients": [
+        "IBUPROFEN LYSINE"
+      ],
+      "labeler": "Prasco Laboratories",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2016-04-14",
+      "moieties": [
+        "IBUPROFEN"
+      ],
+      "product_ndcs": [
+        "66993-490"
+      ],
+      "rxcui": [
+        "1747294"
+      ],
+      "setid": "307431c7-12de-21e5-e054-00144ff88e88",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "IBUPROFEN LYSINE SOLUTION [PRASCO LABORATORIES]",
+      "upload_date": "2026-04-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA076925"
+      ],
+      "brand_names": [
+        "Ibuprofen"
+      ],
+      "combination": false,
+      "home_inn": "ibuprofen",
+      "ingredients": [
+        "IBUPROFEN"
+      ],
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2004-12-08",
+      "moieties": [
+        "IBUPROFEN"
+      ],
+      "product_ndcs": [
+        "45802-952"
+      ],
+      "rxcui": [
+        "197803"
+      ],
+      "setid": "998f2fcf-0b40-4304-929f-7f2fa42f66d0",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "IBUPROFEN SUSPENSION [PADAGIS ISRAEL PHARMACEUTICALS LTD]",
+      "upload_date": "2025-12-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA075682"
+      ],
+      "brand_names": [
+        "IBU"
+      ],
+      "combination": false,
+      "home_inn": "ibuprofen",
+      "ingredients": [
+        "IBUPROFEN"
+      ],
+      "labeler": "Dr. Reddy's Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2008-11-20",
+      "moieties": [
+        "IBUPROFEN"
+      ],
+      "product_ndcs": [
+        "55111-682",
+        "55111-683",
+        "55111-684"
+      ],
+      "rxcui": [
+        "197805",
+        "197806",
+        "197807",
+        "206905",
+        "206913",
+        "206917"
+      ],
+      "setid": "24731405-219c-79b4-ecf0-7d5fbfda94ba",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "IBU (IBUPROFEN) TABLET [DR. REDDY'S LABORATORIES LIMITED]",
+      "upload_date": "2025-07-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA071334"
+      ],
+      "brand_names": [
+        "Ibuprofen"
+      ],
+      "combination": false,
+      "home_inn": "ibuprofen",
+      "ingredients": [
+        "IBUPROFEN"
+      ],
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-01-05",
+      "moieties": [
+        "IBUPROFEN"
+      ],
+      "product_ndcs": [
+        "53746-131"
+      ],
+      "rxcui": [
+        "197805"
+      ],
+      "setid": "57cdd1df-a303-4265-a2d6-1d0b87105a28",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "IBUPROFEN TABLET [AMNEAL PHARMACEUTICALS OF NEW YORK LLC]",
+      "upload_date": "2024-12-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA071935"
+      ],
+      "brand_names": [
+        "Ibuprofen"
+      ],
+      "combination": false,
+      "home_inn": "ibuprofen",
+      "ingredients": [
+        "IBUPROFEN"
+      ],
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-01-05",
+      "moieties": [
+        "IBUPROFEN"
+      ],
+      "product_ndcs": [
+        "53746-137"
+      ],
+      "rxcui": [
+        "197807"
+      ],
+      "setid": "75d963b9-3675-44ff-bc6b-83461bed1b67",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "IBUPROFEN TABLET [AMNEAL PHARMACEUTICALS OF NEW YORK LLC]",
+      "upload_date": "2024-12-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA071335"
+      ],
+      "brand_names": [
+        "Ibuprofen"
+      ],
+      "combination": false,
+      "home_inn": "ibuprofen",
+      "ingredients": [
+        "IBUPROFEN"
+      ],
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-01-05",
+      "moieties": [
+        "IBUPROFEN"
+      ],
+      "product_ndcs": [
+        "53746-132"
+      ],
+      "rxcui": [
+        "197806"
+      ],
+      "setid": "8df77ead-27eb-4f6f-95a9-f68d3e9cfa71",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "IBUPROFEN TABLET [AMNEAL PHARMACEUTICALS OF NEW YORK LLC]",
+      "upload_date": "2024-12-23"
+    },
+    {
+      "application_numbers": [
+        "NDA019842"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "MOTRIN"
+      ],
+      "first_posted": "2007-05-22",
+      "found_by": "MOTRIN",
+      "labeler": "Ortho McNeil Pharmaceuticals",
+      "labeler_unverified": true,
+      "last_posted": "2013-03-21",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2008-03-31"
+      ],
+      "product_ndcs": [
+        "0045-0448"
+      ],
+      "rxcui": [],
+      "setid": "1ec26930-abe6-4db3-9315-aa896f7d5232",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "MOTRIN (ibuprofen) suspension"
+    },
+    {
+      "application_numbers": [
+        "NDA019012"
+      ],
+      "archived_versions": 8,
+      "brand_names": [
+        "MOTRIN"
+      ],
+      "first_posted": "2015-07-28",
+      "found_by": "MOTRIN",
+      "labeler": "Lil' Drug Store Products, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2023-12-07",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-10-25",
+        "2025-12-31",
+        "2026-01-23"
+      ],
+      "product_ndcs": [
+        "29485-1465",
+        "29485-6512",
+        "29485-7006",
+        "29485-7938"
+      ],
+      "rxcui": [],
+      "setid": "5715910e-33be-49bd-8a1f-eeb46320e28d",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "MOTRIN IB (ibuprofen) tablet, film coated"
+    },
+    {
+      "application_numbers": [
+        "NDA019012"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "MOTRIN"
+      ],
+      "first_posted": "2012-07-12",
+      "found_by": "MOTRIN",
+      "labeler": "Johnson & Johnson Consumer Inc., McNeil Consumer Healthcare Division",
+      "labeler_unverified": false,
+      "last_posted": "2020-04-29",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-11-30"
+      ],
+      "product_ndcs": [
+        "50580-110"
+      ],
+      "rxcui": [],
+      "setid": "5bca517f-94a5-428c-b716-80c6b0b86980",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "MOTRIN IB (ibuprofen) tablet, film coated"
+    },
+    {
+      "application_numbers": [
+        "NDA020601"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "MOTRIN"
+      ],
+      "first_posted": "2011-03-25",
+      "found_by": "MOTRIN",
+      "labeler": "McNeil Consumer Healthcare Div. McNeil-PPC, Inc",
+      "labeler_unverified": false,
+      "last_posted": "2014-04-22",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2012-04-07"
+      ],
+      "product_ndcs": [
+        "50580-207"
+      ],
+      "rxcui": [],
+      "setid": "7285807f-8196-4f1e-8f10-6b69a8ab250a",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "MOTRIN JUNIOR STRENGTH (ibuprofen) tablet, chewable"
+    },
+    {
+      "application_numbers": [
+        "NDA019012"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "MOTRIN"
+      ],
+      "first_posted": "2010-12-08",
+      "found_by": "MOTRIN",
+      "labeler": "McNeil Consumer Healthcare Div McNeil-PPC, Inc",
+      "labeler_unverified": false,
+      "last_posted": "2014-06-25",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-10-31"
+      ],
+      "product_ndcs": [
+        "50580-109"
+      ],
+      "rxcui": [],
+      "setid": "8c8642ef-ae86-4de5-8869-e608105454d6",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "MOTRIN IB (ibuprofen) tablet, film coated"
+    },
+    {
+      "application_numbers": [
+        "NDA020601"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "MOTRIN"
+      ],
+      "first_posted": "2012-09-19",
+      "found_by": "MOTRIN",
+      "labeler": "McNeil Consumer Healthcare Div. McNeil-PPC, Inc",
+      "labeler_unverified": false,
+      "last_posted": "2012-09-19",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2012-01-31"
+      ],
+      "product_ndcs": [
+        "50580-909"
+      ],
+      "rxcui": [],
+      "setid": "96d674d8-c4d2-49a4-b372-95a7f4ffe9ea",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "MOTRIN JUNIOR STRENGTH (ibuprofen) tablet, chewable"
+    },
+    {
+      "application_numbers": [
+        "NDA021903"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "NEOPROFEN"
+      ],
+      "first_posted": "2007-08-24",
+      "found_by": "NEOPROFEN",
+      "labeler": "Lundbeck LLC",
+      "labeler_unverified": false,
+      "last_posted": "2014-04-11",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-04-05"
+      ],
+      "product_ndcs": [
+        "67386-122"
+      ],
+      "rxcui": [],
+      "setid": "a4d548f5-fa96-4824-9679-dd6d12746119",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "307431c7-12de-21e5-e054-00144ff88e88",
+        "6f5ede6f-b0b7-4fc8-969e-652f60ead047"
+      ],
+      "title": "NEOPROFEN (ibuprofen lysine) injection, solution"
+    },
+    {
+      "application_numbers": [
+        "NDA017463"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "MOTRIN"
+      ],
+      "first_posted": "2007-05-22",
+      "found_by": "MOTRIN",
+      "labeler": "Pharmacia and Upjohn Company",
+      "labeler_unverified": false,
+      "last_posted": "2013-04-05",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2009-12-31"
+      ],
+      "product_ndcs": [
+        "0009-7385",
+        "0009-7386",
+        "0009-7387"
+      ],
+      "rxcui": [],
+      "setid": "a8207fbd-f307-4120-95f7-4276a63bd4a1",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "MOTRIN (ibuprofen) tablet, film coated"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "17577b3b-e755-45d1-8b53-775d058578b2"
+    },
+    {
+      "combination": false,
+      "labeler": "MARKSANS PHARMA LIMITED",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e54209c2-f726-440b-ac60-5a72710d2a9b"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e07d989d-1b0e-4cc1-abf2-93c8b208a29a"
+    },
+    {
+      "combination": false,
+      "labeler": "Granules India Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8804564c-9e1b-43c1-8b58-fd6ace645f00"
+    },
+    {
+      "combination": false,
+      "labeler": "XGen Pharmaceuticals DJB, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6cfdec66-9483-4abe-98d3-3a7d389cc952"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "39f2664f-6c0a-4726-85d7-4227530d4a49"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a8b46ae5-67bc-494d-850e-b4e4ed5a33b3"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "758eeb45-e599-4c1a-969d-8fa33f27bf14"
+    },
+    {
+      "combination": false,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3d156d13-25d8-4cfc-8285-5f7ebf48cf45"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "00872852-680a-41b3-901b-b991b12a176d"
+    },
+    {
+      "combination": false,
+      "labeler": "Florida Pharmaceutical Products, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c1733fdb-5eed-2094-e053-2995a90a6c8e"
+    },
+    {
+      "combination": false,
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "38ebacc3-378f-483e-babc-76119677e7df"
+    },
+    {
+      "combination": false,
+      "labeler": "Westminster Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6f7e255f-48c9-4366-8725-7f8cbe1bb75a"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "abc33718-4e88-43ea-9ffa-2b04ffc812ef"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurolife Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "470df63a-5c0f-42df-9023-a330a901153e"
+    },
+    {
+      "combination": true,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4493d4cd-ca8e-4b0a-9b65-b75e55bf8b9e"
+    },
+    {
+      "combination": true,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7dc158a2-fdfa-4a5f-8c28-0ce5650991db"
+    },
+    {
+      "combination": true,
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b6895176-efb1-472e-8b6f-2987e8e67684"
+    },
+    {
+      "combination": true,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "24204938-0989-42ad-8ad8-89979e62d700"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "21688404-41fb-487e-8ba0-aea4431a42fa"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "faebc392-0fd9-4c71-8471-beba10dda022"
+    },
+    {
+      "combination": false,
+      "labeler": "Granules India Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "97516b9f-219a-429d-850d-1fe9fd66646b"
+    },
+    {
+      "combination": false,
+      "labeler": "Granules India Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fd01353d-1d1d-42b5-9a03-575052189bf5"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9ce036ef-a22d-4fca-9a62-1b10978f7b26"
+    },
+    {
+      "combination": false,
+      "labeler": "TIME CAP LABORATORIES, INC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ec3e8443-d742-4c25-8516-f0df4ebfccdc"
+    },
+    {
+      "combination": false,
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a266a3c6-932f-476f-ae93-48a785c92286"
+    },
+    {
+      "combination": false,
+      "labeler": "EXELAN PHARMACEUTICALS, INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "362f934a-4382-43bc-bedd-65081286f1c9"
+    },
+    {
+      "combination": false,
+      "labeler": "SKYA HEALTH, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1c28af16-7246-4e4c-a1be-939655c37242"
+    },
+    {
+      "combination": false,
+      "labeler": "Westminster Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "eeb8312f-7fd9-4c4f-8264-a7e63ff1aa9d"
+    },
+    {
+      "combination": false,
+      "labeler": "SOLA Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b19b8c34-e0c1-4982-92fc-34dbe7384935"
+    },
+    {
+      "combination": false,
+      "labeler": "SOLA Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "44fb0842-c34e-477e-96df-350cd5d6800e"
+    },
+    {
+      "combination": false,
+      "labeler": "Major Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "42b6faf5-ef47-6a7a-e063-6394a90ac409"
+    },
+    {
+      "combination": false,
+      "labeler": "AiPing Pharmaceutical, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3e131710-2579-446e-8076-f602ecea813f"
+    },
+    {
+      "combination": false,
+      "labeler": "Granules Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4aefcb3a-5dc8-b88e-e063-6294a90ac044"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "aeee629b-255c-40d8-8e95-779aec00f723"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "07506e83-e681-4225-8c65-3e8d21d69064"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7c7b815b-d6f5-4ce6-b37f-f35d5c9f3254"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ed1dc2d6-d0eb-4731-a0cd-31a64fe1ebd2"
+    },
+    {
+      "combination": false,
+      "labeler": "Medcore LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "138edf0b-d7da-44b6-b010-d311a37087fe"
+    },
+    {
+      "combination": true,
+      "labeler": "Viona Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "66524c84-35bc-4e7f-897a-f63fa4bca432"
+    }
+  ]
+}

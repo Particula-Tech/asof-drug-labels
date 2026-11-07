@@ -1,0 +1,629 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "TIZANIDINE HYDROCHLORIDE"
+  ],
+  "inn": "tizanidine",
+  "name": "TIZANIDINE",
+  "rank": 181,
+  "rxcui": [
+    "153735",
+    "313412",
+    "313413",
+    "485484",
+    "485485",
+    "485486",
+    "580267",
+    "583165",
+    "583211",
+    "2709432",
+    "2709438"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 29,
+    "approval_holders": 24,
+    "earliest_marketing_start": "2002-07-03",
+    "latest_label_update": "2026-10-12",
+    "nda_bla_applications": 3,
+    "repackagers": 25
+  },
+  "unii": [
+    {
+      "ingredient": "TIZANIDINE HYDROCHLORIDE",
+      "unii": "B53E3NMY5C"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020397",
+        "NDA021447"
+      ],
+      "brand_names": [
+        "Zanaflex"
+      ],
+      "combination": false,
+      "home_inn": "tizanidine",
+      "ingredients": [
+        "TIZANIDINE HYDROCHLORIDE"
+      ],
+      "labeler": "Covis Pharma US, Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-08-01",
+      "moieties": [
+        "TIZANIDINE"
+      ],
+      "product_ndcs": [
+        "70515-594",
+        "70515-602",
+        "70515-604",
+        "70515-606"
+      ],
+      "rxcui": [
+        "153735",
+        "313413",
+        "485484",
+        "485485",
+        "485486",
+        "580267",
+        "583165",
+        "583211"
+      ],
+      "setid": "043d9e51-bfa2-4add-9058-5ece332f7e99",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "ZANAFLEX (TIZANIDINE HYDROCHLORIDE) CAPSULE ZANAFLEX (TIZANIDINE HYDROCHLORIDE) TABLET [COVIS PHARMA US, INC]",
+      "upload_date": "2025-05-07"
+    },
+    {
+      "application_numbers": [
+        "NDA216190"
+      ],
+      "brand_names": [
+        "Ontralfy"
+      ],
+      "combination": false,
+      "home_inn": "tizanidine",
+      "ingredients": [
+        "TIZANIDINE HYDROCHLORIDE"
+      ],
+      "labeler": "Rosemont Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-03-31",
+      "moieties": [
+        "TIZANIDINE"
+      ],
+      "product_ndcs": [
+        "69528-310"
+      ],
+      "rxcui": [
+        "2709432",
+        "2709438"
+      ],
+      "setid": "7b88c338-c0b7-4c08-bef6-a4ffc2f25df7",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "ONTRALFY (TIZANIDINE HYDROCHLORIDE) SOLUTION [ROSEMONT PHARMACEUTICALS, LLC]",
+      "upload_date": "2026-02-19"
+    },
+    {
+      "application_numbers": [
+        "NDA020397",
+        "NDA021447"
+      ],
+      "brand_names": [
+        "Zanaflex"
+      ],
+      "combination": false,
+      "home_inn": "tizanidine",
+      "ingredients": [
+        "TIZANIDINE HYDROCHLORIDE"
+      ],
+      "labeler": "Legacy Pharma USA, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-08-01",
+      "moieties": [
+        "TIZANIDINE"
+      ],
+      "product_ndcs": [
+        "83107-001",
+        "83107-002",
+        "83107-003",
+        "83107-004"
+      ],
+      "rxcui": [
+        "153735",
+        "313413",
+        "485484",
+        "485485",
+        "485486",
+        "580267",
+        "583165",
+        "583211"
+      ],
+      "setid": "60c27d35-7349-4fc6-86ad-70fffdbe3e08",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "ZANAFLEX (TIZANIDINE HYDROCHLORIDE) CAPSULE ZANAFLEX (TIZANIDINE HYDROCHLORIDE) TABLET [LEGACY PHARMA USA, INC.]",
+      "upload_date": "2026-01-05"
+    },
+    {
+      "application_numbers": [
+        "NDA021447"
+      ],
+      "brand_names": [
+        "tizanidine hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "tizanidine",
+      "ingredients": [
+        "TIZANIDINE HYDROCHLORIDE"
+      ],
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2012-02-06",
+      "moieties": [
+        "TIZANIDINE"
+      ],
+      "product_ndcs": [
+        "0591-2788",
+        "0591-2789",
+        "0591-2790"
+      ],
+      "rxcui": [
+        "485484",
+        "485485",
+        "485486"
+      ],
+      "setid": "cb8b01b3-bcec-4762-9d67-0db018ef6b22",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "TIZANIDINE HYDROCHLORIDE CAPSULE, GELATIN COATED [ACTAVIS PHARMA, INC.]",
+      "upload_date": "2024-06-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA076286"
+      ],
+      "brand_names": [
+        "Tizanidine"
+      ],
+      "combination": false,
+      "home_inn": "tizanidine",
+      "ingredients": [
+        "TIZANIDINE HYDROCHLORIDE"
+      ],
+      "labeler": "Dr. Reddy's Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2002-07-03",
+      "moieties": [
+        "TIZANIDINE"
+      ],
+      "product_ndcs": [
+        "55111-179",
+        "55111-180"
+      ],
+      "rxcui": [
+        "313412",
+        "313413"
+      ],
+      "setid": "a42f3479-f2c2-8214-d547-c5cae9bfed1e",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "TIZANIDINE TABLET [DR. REDDY'S LABORATORIES LIMITED]",
+      "upload_date": "2026-09-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA076416"
+      ],
+      "brand_names": [
+        "Tizanidine"
+      ],
+      "combination": false,
+      "home_inn": "tizanidine",
+      "ingredients": [
+        "TIZANIDINE HYDROCHLORIDE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2003-12-11",
+      "moieties": [
+        "TIZANIDINE"
+      ],
+      "product_ndcs": [
+        "57664-502",
+        "57664-503"
+      ],
+      "rxcui": [
+        "313412",
+        "313413"
+      ],
+      "setid": "4659df31-8b89-4eff-9d86-7b7e38de416b",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "TIZANIDINE TABLET [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2020-10-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA076533"
+      ],
+      "brand_names": [
+        "tizanidine"
+      ],
+      "combination": false,
+      "home_inn": "tizanidine",
+      "ingredients": [
+        "TIZANIDINE HYDROCHLORIDE"
+      ],
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2004-01-16",
+      "moieties": [
+        "TIZANIDINE"
+      ],
+      "product_ndcs": [
+        "60505-0251",
+        "60505-0252"
+      ],
+      "rxcui": [
+        "313412",
+        "313413"
+      ],
+      "setid": "01c0d3d3-2373-a1b7-822a-80a66291a248",
+      "source": "dailymed-title-match",
+      "spl_version": 15,
+      "title": "TIZANIDINE TABLET [APOTEX CORP.]",
+      "upload_date": "2026-09-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA091283"
+      ],
+      "brand_names": [
+        "Tizanidine"
+      ],
+      "combination": false,
+      "home_inn": "tizanidine",
+      "ingredients": [
+        "TIZANIDINE HYDROCHLORIDE"
+      ],
+      "labeler": "Unichem Pharmaceuticals (USA), Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-04-01",
+      "moieties": [
+        "TIZANIDINE"
+      ],
+      "product_ndcs": [
+        "29300-168",
+        "29300-169"
+      ],
+      "rxcui": [
+        "313412",
+        "313413"
+      ],
+      "setid": "a3fa9c69-4baf-44f5-bac4-a19c34b0e1cb",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "TIZANIDINE TABLET [UNICHEM PHARMACEUTICALS (USA), INC.]",
+      "upload_date": "2025-05-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA208622"
+      ],
+      "brand_names": [
+        "tizanidine hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "tizanidine",
+      "ingredients": [
+        "TIZANIDINE HYDROCHLORIDE"
+      ],
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-04-27",
+      "moieties": [
+        "TIZANIDINE"
+      ],
+      "product_ndcs": [
+        "70710-1111",
+        "70710-1112",
+        "70710-1113"
+      ],
+      "rxcui": [
+        "485484",
+        "485485",
+        "485486"
+      ],
+      "setid": "146c853c-99a8-4bf3-b1e3-be6876abe6ff",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "TIZANIDINE HYDROCHLORIDE CAPSULE [ZYDUS PHARMACEUTICALS (USA) INC.]",
+      "upload_date": "2026-01-09"
+    },
+    {
+      "application_numbers": [
+        "NDA020397",
+        "NDA021447"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "ZANAFLEX"
+      ],
+      "first_posted": "2008-05-22",
+      "found_by": "ZANAFLEX",
+      "labeler": "Acorda Therapeutics, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2018-10-22",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-03-31",
+        "2019-07-31",
+        "2020-09-30"
+      ],
+      "product_ndcs": [
+        "10144-594",
+        "10144-602",
+        "10144-604",
+        "10144-606"
+      ],
+      "rxcui": [],
+      "setid": "413ee468-c7e8-4283-8e2b-b573dcc1f607",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "043d9e51-bfa2-4add-9058-5ece332f7e99",
+        "60c27d35-7349-4fc6-86ad-70fffdbe3e08",
+        "cb8b01b3-bcec-4762-9d67-0db018ef6b22"
+      ],
+      "title": "ZANAFLEX (tizanidine hydrochloride) capsule ZANAFLEX (tizanidine hydrochloride) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA216190"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "ONTRALFY"
+      ],
+      "first_posted": "2025-03-31",
+      "found_by": "ONTRALFY",
+      "labeler": "Fidelity BioPharma Co.",
+      "labeler_unverified": true,
+      "last_posted": "2026-02-06",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-03-31"
+      ],
+      "product_ndcs": [
+        "82919-626"
+      ],
+      "rxcui": [],
+      "setid": "51d392ee-6907-4472-bd9c-12ca59dadb1b",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "7b88c338-c0b7-4c08-bef6-a4ffc2f25df7"
+      ],
+      "title": "ONTRALFY (tizanidine hydrochloride) solution"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Kanchan Healthcare Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "22ea819a-2aaa-44e0-a350-258541b11220"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "89105a78-badb-469e-966e-195fa3a53f0a"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "72f25135-1333-4e52-83f5-7df7d90e68bb"
+    },
+    {
+      "combination": false,
+      "labeler": "Ingenus Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "99cc8f5f-b947-4ddc-99b6-1e4cef09b717"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d7c97b79-da59-4e86-a01b-f91046d04f74"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "29750221-497e-4747-a9b8-12a0c2236eae"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "19cf46b5-d8dc-44cb-83d6-bacea0870dbe"
+    },
+    {
+      "combination": false,
+      "labeler": "Advagen Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7f39499a-98cf-4d13-9b07-ccb5c22e43c8"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "433ac98f-ac22-44ad-a8b4-5db5560b9d0f"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7ce17c02-7f1f-4d52-8b6f-52e385e12239"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3dd09a0d-a782-1d6d-a552-b71e5bcbf2fe"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5f4889d1-1387-4c90-9b76-00beda3c1683"
+    },
+    {
+      "combination": false,
+      "labeler": "Cadila Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f2f4e117-0318-4bbd-aaa7-fab803714f21"
+    },
+    {
+      "combination": false,
+      "labeler": "Modavar Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f8288ccd-6c66-415e-a06b-758971afe9a0"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ee3e9813-a738-46d1-9c05-c931aee1495c"
+    },
+    {
+      "combination": false,
+      "labeler": "Viona Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8ac00d59-bb80-4530-afe7-90e04a2130b2"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "eed74219-9d4a-fecd-1bb9-ad6c01ad3e9d"
+    },
+    {
+      "combination": false,
+      "labeler": "Trifluent Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4a2cf456-58c5-c26d-e063-6294a90a0b24"
+    },
+    {
+      "combination": false,
+      "labeler": "Trifluent Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9833a1b8-f530-4a06-bc77-7d11b6e94c65"
+    },
+    {
+      "combination": false,
+      "labeler": "Medcore LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "14bcfbac-8f6a-42af-b3a4-ba10d99f2468"
+    }
+  ]
+}

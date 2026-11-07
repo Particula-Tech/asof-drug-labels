@@ -1,0 +1,409 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/000219",
+      "eu_number": "EU/1/99/120",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000219",
+      "mah": "Immedica Pharma AB",
+      "marketing_authorisation_date": "1999-12-07",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ammonaps",
+      "name": "Ammonaps",
+      "record_from": "1999-12-08",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 21
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/002500",
+      "eu_number": "EU/1/13/822",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-002500",
+      "mah": "Eurocept International B. V.",
+      "marketing_authorisation_date": "2013-07-30",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/pheburane",
+      "name": "Pheburane",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000219",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "SODIUM PHENYLBUTYRATE"
+  ],
+  "inn": "sodium-phenylbutyrate",
+  "name": "SODIUM PHENYLBUTYRATE",
+  "rank": 344,
+  "rxcui": [
+    "199369",
+    "213196",
+    "984105",
+    "984107",
+    "2610128",
+    "2610134"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 7,
+    "approval_holders": 6,
+    "earliest_marketing_start": "1996-04-30",
+    "latest_label_update": "2026-07-23",
+    "nda_bla_applications": 3,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "SODIUM PHENYLBUTYRATE",
+      "unii": "NT6K61736T"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020572",
+        "NDA020573"
+      ],
+      "brand_names": [
+        "BUPHENYL",
+        "Buphenyl"
+      ],
+      "combination": false,
+      "home_inn": "sodium-phenylbutyrate",
+      "ingredients": [
+        "SODIUM PHENYLBUTYRATE"
+      ],
+      "labeler": "Horizon Therapeutics USA, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1996-04-30",
+      "moieties": [
+        "SODIUM PHENYLBUTYRATE"
+      ],
+      "product_ndcs": [
+        "75987-060",
+        "75987-070"
+      ],
+      "rxcui": [
+        "199369",
+        "213196",
+        "984105",
+        "984107"
+      ],
+      "setid": "463a36fa-3eb2-4326-8bd0-c8c7a11bca3a",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "BUPHENYL (SODIUM PHENYLBUTYRATE) TABLET BUPHENYL (SODIUM PHENYLBUTYRATE) POWDER [HORIZON THERAPEUTICS USA, INC.]",
+      "upload_date": "2024-11-14"
+    },
+    {
+      "application_numbers": [
+        "NDA216513"
+      ],
+      "brand_names": [
+        "PHEBURANE"
+      ],
+      "combination": false,
+      "home_inn": "sodium-phenylbutyrate",
+      "ingredients": [
+        "SODIUM PHENYLBUTYRATE"
+      ],
+      "labeler": "Medunik USA",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-08-26",
+      "moieties": [
+        "SODIUM PHENYLBUTYRATE"
+      ],
+      "product_ndcs": [
+        "71770-200",
+        "71770-210"
+      ],
+      "rxcui": [
+        "2610128",
+        "2610134"
+      ],
+      "setid": "d15f2cbf-4d22-40b5-8ef9-16b9d323a7f9",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "PHEBURANE (SODIUM PHENYLBUTYRATE) PELLET PHEBURANE (SODIUM PHENYLBUTYRATE) KIT [MEDUNIK USA]",
+      "upload_date": "2026-07-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA204395"
+      ],
+      "brand_names": [
+        "Sodium Phenylbutyrate"
+      ],
+      "combination": false,
+      "home_inn": "sodium-phenylbutyrate",
+      "ingredients": [
+        "SODIUM PHENYLBUTYRATE"
+      ],
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-04-29",
+      "moieties": [
+        "SODIUM PHENYLBUTYRATE"
+      ],
+      "product_ndcs": [
+        "49884-170"
+      ],
+      "rxcui": [
+        "199369"
+      ],
+      "setid": "4020b962-eaee-4184-b04b-14ca757c51a1",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "SODIUM PHENYLBUTYRATE (SODIUM PHENYLBUTYRATE TABLETS, 500 MG) TABLET [PAR HEALTH USA, LLC]",
+      "upload_date": "2026-05-14"
+    },
+    {
+      "application_numbers": [
+        "ANDA203918"
+      ],
+      "brand_names": [
+        "Sodium Phenylbutyrate"
+      ],
+      "combination": false,
+      "home_inn": "sodium-phenylbutyrate",
+      "ingredients": [
+        "SODIUM PHENYLBUTYRATE"
+      ],
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-08-31",
+      "moieties": [
+        "SODIUM PHENYLBUTYRATE"
+      ],
+      "product_ndcs": [
+        "49884-006"
+      ],
+      "rxcui": [
+        "984105"
+      ],
+      "setid": "639f5c7e-9f6d-47fb-a417-2be076176a78",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "SODIUM PHENYLBUTYRATE POWDER [PAR HEALTH USA, LLC]",
+      "upload_date": "2026-04-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA216462"
+      ],
+      "brand_names": [
+        "sodium phenylbutyrate"
+      ],
+      "combination": false,
+      "home_inn": "sodium-phenylbutyrate",
+      "ingredients": [
+        "SODIUM PHENYLBUTYRATE"
+      ],
+      "labeler": "GLENMARK PHARMACEUTICALS INC., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-11-01",
+      "moieties": [
+        "SODIUM PHENYLBUTYRATE"
+      ],
+      "product_ndcs": [
+        "68462-853"
+      ],
+      "rxcui": [
+        "199369"
+      ],
+      "setid": "0c76d25b-abac-41a3-a547-4fa4796bf7a4",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "SODIUM PHENYLBUTYRATE TABLET [GLENMARK PHARMACEUTICALS INC., USA]",
+      "upload_date": "2026-01-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA220418"
+      ],
+      "brand_names": [
+        "Sodium phenylbutyrate"
+      ],
+      "combination": false,
+      "home_inn": "sodium-phenylbutyrate",
+      "ingredients": [
+        "SODIUM PHENYLBUTYRATE"
+      ],
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-03-23",
+      "moieties": [
+        "SODIUM PHENYLBUTYRATE"
+      ],
+      "product_ndcs": [
+        "70710-2180"
+      ],
+      "rxcui": [
+        "199369"
+      ],
+      "setid": "d08fd548-7eb8-4f6f-b664-b0fff6f30065",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "SODIUM PHENYLBUTYRATE TABLET [ZYDUS PHARMACEUTICALS USA INC.]",
+      "upload_date": "2026-04-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA220418"
+      ],
+      "brand_names": [
+        "Sodium phenylbutyrate"
+      ],
+      "combination": false,
+      "home_inn": "sodium-phenylbutyrate",
+      "ingredients": [
+        "SODIUM PHENYLBUTYRATE"
+      ],
+      "labeler": "Navinta LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-07-10",
+      "moieties": [
+        "SODIUM PHENYLBUTYRATE"
+      ],
+      "product_ndcs": [
+        "68475-011"
+      ],
+      "rxcui": [
+        "199369"
+      ],
+      "setid": "c564778d-b285-4d1d-a641-9d4ee76079cf",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "SODIUM PHENYLBUTYRATE TABLET [NAVINTA LLC]",
+      "upload_date": "2026-07-15"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "BUPHENYL"
+      ],
+      "first_posted": "2007-04-13",
+      "found_by": "BUPHENYL",
+      "labeler": "Medicis",
+      "labeler_unverified": true,
+      "last_posted": "2007-04-13",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "62592-188",
+        "62592-496"
+      ],
+      "rxcui": [],
+      "setid": "20a8daf5-6267-4556-a407-afb0b306b871",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "buphenyl (sodium phenylbutyrate) powder buphenyl (sodium phenylbutyrate) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA020572",
+        "NDA020573"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "BUPHENYL"
+      ],
+      "first_posted": "2007-07-26",
+      "found_by": "BUPHENYL",
+      "labeler": "Ucyclyd Pharma Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2013-06-14",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-02-28"
+      ],
+      "product_ndcs": [
+        "62592-188",
+        "62592-496"
+      ],
+      "rxcui": [],
+      "setid": "6a05ace2-3d5e-48de-b158-870d404cc061",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "463a36fa-3eb2-4326-8bd0-c8c7a11bca3a"
+      ],
+      "title": "BUPHENYL (sodium phenylbutyrate) tablet BUPHENYL (sodium phenylbutyrate) powder"
+    },
+    {
+      "application_numbers": [
+        "NDA020572",
+        "NDA020573"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "BUPHENYL"
+      ],
+      "first_posted": "2014-03-07",
+      "found_by": "BUPHENYL",
+      "labeler": "Hyperion Therapeutics, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2016-09-13",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2016-11-29"
+      ],
+      "product_ndcs": [
+        "76325-188",
+        "76325-496"
+      ],
+      "rxcui": [],
+      "setid": "aa638c13-3048-42b2-8a8b-79dae040ea35",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "463a36fa-3eb2-4326-8bd0-c8c7a11bca3a"
+      ],
+      "title": "BUPHENYL (sodium phenylbutyrate) tablet BUPHENYL (sodium phenylbutyrate) powder"
+    }
+  ],
+  "us_excluded": []
+}

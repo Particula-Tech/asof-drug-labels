@@ -1,0 +1,578 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/000133",
+      "eu_number": "EU/1/97/050",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000133",
+      "mah": "Boehringer Ingelheim International GmbH",
+      "marketing_authorisation_date": "1997-10-13",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/sifrol",
+      "name": "Sifrol",
+      "record_from": "1997-10-14",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 38
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/000134",
+      "eu_number": "EU/1/97/051",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-000134",
+      "mah": "Boehringer Ingelheim International GmbH",
+      "marketing_authorisation_date": "1998-02-23",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/mirapexin",
+      "name": "Mirapexin",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/000940",
+      "eu_number": "EU/1/08/490",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-000940",
+      "mah": "Teva Pharma B.V.",
+      "marketing_authorisation_date": "2008-12-18",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/pramipexole-teva",
+      "name": "Pramipexole Teva",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/000941",
+      "eu_number": "EU/1/08/469",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-000941",
+      "mah": "Krka, d.d., Novo mesto",
+      "marketing_authorisation_date": "2008-09-12",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/oprymea",
+      "name": "Oprymea",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000133",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "PRAMIPEXOLE DIHYDROCHLORIDE"
+  ],
+  "inn": "pramipexole",
+  "name": "PRAMIPEXOLE",
+  "rank": 385,
+  "rxcui": [
+    "858625",
+    "859033",
+    "859040",
+    "859044",
+    "859048",
+    "859052",
+    "901534",
+    "901541",
+    "901546",
+    "901550",
+    "901555"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 20,
+    "approval_holders": 16,
+    "earliest_marketing_start": "2010-10-08",
+    "latest_label_update": "2026-08-18",
+    "nda_bla_applications": 0,
+    "repackagers": 6
+  },
+  "unii": [
+    {
+      "ingredient": "PRAMIPEXOLE DIHYDROCHLORIDE",
+      "unii": "3D867NP06J"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "ANDA090781"
+      ],
+      "brand_names": [
+        "Pramipexole dihydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "pramipexole",
+      "ingredients": [
+        "PRAMIPEXOLE DIHYDROCHLORIDE"
+      ],
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-10-08",
+      "moieties": [
+        "PRAMIPEXOLE"
+      ],
+      "product_ndcs": [
+        "68462-330",
+        "68462-331",
+        "68462-332",
+        "68462-333",
+        "68462-334",
+        "68462-627"
+      ],
+      "rxcui": [
+        "858625",
+        "859033",
+        "859040",
+        "859044",
+        "859048",
+        "859052"
+      ],
+      "setid": "44c336d2-01d1-4f13-bad9-549cdc3505ec",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "PRAMIPEXOLE DIHYDROCHLORIDE TABLET [GLENMARK PHARMACEUTICALS INC., USA]",
+      "upload_date": "2025-12-31"
+    },
+    {
+      "application_numbers": [
+        "ANDA090865"
+      ],
+      "brand_names": [
+        "Pramipexole Dihydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "pramipexole",
+      "ingredients": [
+        "PRAMIPEXOLE DIHYDROCHLORIDE"
+      ],
+      "labeler": "Torrent Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-10-08",
+      "moieties": [
+        "PRAMIPEXOLE"
+      ],
+      "product_ndcs": [
+        "13668-091",
+        "13668-092",
+        "13668-093",
+        "13668-094",
+        "13668-095",
+        "13668-184"
+      ],
+      "rxcui": [
+        "858625",
+        "859033",
+        "859040",
+        "859044",
+        "859048",
+        "859052"
+      ],
+      "setid": "60167d7c-469f-455a-a113-561841af5e59",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "PRAMIPEXOLE DIHYDROCHLORIDE TABLET [TORRENT PHARMACEUTICALS LIMITED]",
+      "upload_date": "2026-04-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA202164"
+      ],
+      "brand_names": [
+        "Pramipexole dihydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "pramipexole",
+      "ingredients": [
+        "PRAMIPEXOLE DIHYDROCHLORIDE"
+      ],
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-09-21",
+      "moieties": [
+        "PRAMIPEXOLE"
+      ],
+      "product_ndcs": [
+        "33342-031",
+        "33342-032",
+        "33342-033",
+        "33342-034",
+        "33342-035"
+      ],
+      "rxcui": [
+        "859033",
+        "859040",
+        "859044",
+        "859048",
+        "859052"
+      ],
+      "setid": "b8c94917-73a1-44c2-8fd8-07f45054176b",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "PRAMIPEXOLE DIHYDROCHLORIDE TABLET [MACLEODS PHARMACEUTICALS LIMITED]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA202633"
+      ],
+      "brand_names": [
+        "Pramipexole Dihydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "pramipexole",
+      "ingredients": [
+        "PRAMIPEXOLE DIHYDROCHLORIDE"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-10-26",
+      "moieties": [
+        "PRAMIPEXOLE"
+      ],
+      "product_ndcs": [
+        "65862-604",
+        "65862-605",
+        "65862-606",
+        "65862-607",
+        "65862-608",
+        "65862-609"
+      ],
+      "rxcui": [
+        "858625",
+        "859033",
+        "859040",
+        "859044",
+        "859048",
+        "859052"
+      ],
+      "setid": "3f90971a-e005-4dd3-bb93-b09125ada3c8",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "PRAMIPEXOLE DIHYDROCHLORIDE TABLET [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA203855"
+      ],
+      "brand_names": [
+        "Pramipexole Dihydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "pramipexole",
+      "ingredients": [
+        "PRAMIPEXOLE DIHYDROCHLORIDE"
+      ],
+      "labeler": "ScieGen Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-10-29",
+      "moieties": [
+        "PRAMIPEXOLE"
+      ],
+      "product_ndcs": [
+        "50228-126",
+        "50228-127",
+        "50228-128",
+        "50228-129",
+        "50228-130",
+        "50228-131"
+      ],
+      "rxcui": [
+        "858625",
+        "859033",
+        "859040",
+        "859044",
+        "859048",
+        "859052"
+      ],
+      "setid": "395fee34-43dc-4840-a6b8-70d5736f9c8b",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "PRAMIPEXOLE DIHYDROCHLORIDE TABLET [SCIEGEN PHARMACEUTICALS INC]",
+      "upload_date": "2025-12-26"
+    },
+    {
+      "application_numbers": [
+        "ANDA203354"
+      ],
+      "brand_names": [
+        "Pramipexole dihydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "pramipexole",
+      "ingredients": [
+        "PRAMIPEXOLE DIHYDROCHLORIDE"
+      ],
+      "labeler": "Dr. Reddy's Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-08-14",
+      "moieties": [
+        "PRAMIPEXOLE"
+      ],
+      "product_ndcs": [
+        "55111-611",
+        "55111-612",
+        "55111-613",
+        "55111-614",
+        "55111-615"
+      ],
+      "rxcui": [
+        "901534",
+        "901541",
+        "901546",
+        "901550",
+        "901555"
+      ],
+      "setid": "00699692-532a-68fd-8a51-3770a81b2208",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "PRAMIPEXOLE DIHYDROCHLORIDE TABLET, EXTENDED RELEASE PRAMIPEXOLE DIHYDROCHLORIDE (PRAMIPEXOLE DIHYDROCHLORIDE) TABLET, EXTENDED RELEASE [DR. REDDY'S LABORATORIES LIMITED]",
+      "upload_date": "2024-08-29"
+    },
+    {
+      "application_numbers": [
+        "NDA020667"
+      ],
+      "archived_versions": 19,
+      "brand_names": [
+        "MIRAPEX"
+      ],
+      "first_posted": "2009-01-05",
+      "found_by": "MIRAPEX",
+      "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2021-09-22",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2020-01-31",
+        "2020-02-29",
+        "2020-03-31",
+        "2020-04-30"
+      ],
+      "product_ndcs": [
+        "0597-0101",
+        "0597-0183",
+        "0597-0184",
+        "0597-0185",
+        "0597-0190",
+        "0597-0191"
+      ],
+      "rxcui": [],
+      "setid": "688fa4d7-de12-4930-8bc5-0169297c1da6",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "MIRAPEX (pramipexole dihydrochloride) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA022421"
+      ],
+      "archived_versions": 24,
+      "brand_names": [
+        "MIRAPEX"
+      ],
+      "first_posted": "2010-03-01",
+      "found_by": "MIRAPEX",
+      "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2025-02-24",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-07-31",
+        "2024-08-31"
+      ],
+      "product_ndcs": [
+        "0597-0109",
+        "0597-0115",
+        "0597-0285",
+        "0597-0286",
+        "0597-0287"
+      ],
+      "rxcui": [],
+      "setid": "e2902ed1-cfeb-4815-adc3-129c577917a1",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "MIRAPEX ER (pramipexole dihydrochloride) tablet, extended release"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0a3ed933-ef5b-4091-8ae9-5768ae18514f"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b6935240-ee81-49ef-adad-fb900d7f5127"
+    },
+    {
+      "combination": false,
+      "labeler": "Unichem Pharmaceuticals (USA), Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b978aa75-c62d-444b-9ec6-6c0d21a66688"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "946c8a72-8c48-4925-93d3-7940f4c0fd29"
+    },
+    {
+      "combination": false,
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fb2260d6-204c-4d25-a331-0f8340d83a6e"
+    },
+    {
+      "combination": false,
+      "labeler": "Xiamen LP Pharmaceutical Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1cbd8ddf-4fc1-4cd0-906d-a55a4b8b1c3c"
+    },
+    {
+      "combination": false,
+      "labeler": "Ingenus Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1d2b1d2c-ae22-424a-bad7-ce24a817b042"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "56e8d1f6-6dbf-4e11-a177-a56bbfb9f8ec"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a7405a56-de1c-4875-b57f-210c991474ba"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4fe7106d-4bf6-4794-87cb-8df616994c41"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "92f6ef1e-3256-45a7-a409-80dd85e95187"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e18b67b6-a085-43e5-bb2b-fe74fa00cb65"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1dbb8d2f-e0d9-4f8b-89d2-2a03496ef7be"
+    },
+    {
+      "combination": false,
+      "labeler": "Vitruvias Therapeutics, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d07aad1b-e078-4fca-8386-ca2e8e899688"
+    }
+  ]
+}

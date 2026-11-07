@@ -1,0 +1,443 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand Halaven",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/002084",
+      "eu_number": "EU/1/11/678",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-002084",
+      "mah": "Eisai GmbH",
+      "marketing_authorisation_date": "2011-03-17",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/halaven",
+      "name": "Halaven",
+      "record_from": "2011-03-17",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 17
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/006134",
+      "eu_number": "EU/1/23/1789",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-006134",
+      "mah": "YES Pharmaceutical Development Services GmbH",
+      "marketing_authorisation_date": "2024-02-09",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/mevlyq",
+      "name": "Mevlyq",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/006191",
+      "eu_number": "EU/1/24/1819",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-006191",
+      "mah": "Baxter Holding B.V.",
+      "marketing_authorisation_date": "2024-06-27",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/eribulin-baxter",
+      "name": "Eribulin Baxter",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-002084",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "ERIBULIN MESYLATE"
+  ],
+  "inn": "eribulin",
+  "name": "ERIBULIN",
+  "rank": 367,
+  "rxcui": [
+    "1045456",
+    "1045460"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 17,
+    "approval_holders": 16,
+    "earliest_marketing_start": "2010-11-15",
+    "latest_label_update": "2026-09-14",
+    "nda_bla_applications": 1,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "ERIBULIN MESYLATE",
+      "unii": "AV9U0660CW"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA201532"
+      ],
+      "brand_names": [
+        "Halaven"
+      ],
+      "combination": false,
+      "home_inn": "eribulin",
+      "ingredients": [
+        "ERIBULIN MESYLATE"
+      ],
+      "labeler": "Eisai Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2010-11-15",
+      "moieties": [
+        "ERIBULIN"
+      ],
+      "product_ndcs": [
+        "62856-389"
+      ],
+      "rxcui": [
+        "1045456",
+        "1045460"
+      ],
+      "setid": "31ce4750-ded5-4a0b-95e9-f229fa6bc822",
+      "source": "openfda",
+      "spl_version": 69,
+      "title": "HALAVEN (ERIBULIN MESYLATE) INJECTION [EISAI INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "NDA201532"
+      ],
+      "brand_names": [
+        "Halaven"
+      ],
+      "combination": false,
+      "home_inn": "eribulin",
+      "ingredients": [
+        "ERIBULIN MESYLATE"
+      ],
+      "labeler": "BSP Pharmaceuticals SpA",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-04-21",
+      "moieties": [
+        "ERIBULIN"
+      ],
+      "product_ndcs": [
+        "43624-002"
+      ],
+      "rxcui": [
+        "1045456",
+        "1045460"
+      ],
+      "setid": "8fc8fe1d-59fe-4e43-a95c-e7aa13422cd6",
+      "source": "openfda",
+      "spl_version": 58,
+      "title": "HALAVEN (ERIBULIN MESYLATE) INJECTION [BSP PHARMACEUTICALS SPA]",
+      "upload_date": "2026-05-14"
+    },
+    {
+      "application_numbers": [
+        "ANDA218047"
+      ],
+      "brand_names": [
+        "eribulin mesylate"
+      ],
+      "combination": false,
+      "home_inn": "eribulin",
+      "ingredients": [
+        "ERIBULIN MESYLATE"
+      ],
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-04-05",
+      "moieties": [
+        "ERIBULIN"
+      ],
+      "product_ndcs": [
+        "68083-592"
+      ],
+      "rxcui": [
+        "1045456"
+      ],
+      "setid": "f57835e2-4c53-4e93-b54b-7d7a5000ae3d",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "ERIBULIN MESYLATE INJECTION [GLAND PHARMA LIMITED]",
+      "upload_date": "2026-07-22"
+    },
+    {
+      "application_numbers": [
+        "ANDA218281"
+      ],
+      "brand_names": [
+        "ERIBULIN MESYLATE"
+      ],
+      "combination": false,
+      "home_inn": "eribulin",
+      "ingredients": [
+        "ERIBULIN MESYLATE"
+      ],
+      "labeler": "HIKMA PHARMACEUTICALS USA INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-06-28",
+      "moieties": [
+        "ERIBULIN"
+      ],
+      "product_ndcs": [
+        "0143-9167"
+      ],
+      "rxcui": [
+        "1045456"
+      ],
+      "setid": "aa69e7a5-fa82-4984-b9d2-653c772b80e3",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "ERIBULIN MESYLATE INJECTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2026-02-27"
+    },
+    {
+      "application_numbers": [
+        "ANDA214850"
+      ],
+      "brand_names": [
+        "Eribulin Mesylate"
+      ],
+      "combination": false,
+      "home_inn": "eribulin",
+      "ingredients": [
+        "ERIBULIN MESYLATE"
+      ],
+      "labeler": "Long Grove Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-07-22",
+      "moieties": [
+        "ERIBULIN"
+      ],
+      "product_ndcs": [
+        "81298-3890"
+      ],
+      "rxcui": [
+        "1045456"
+      ],
+      "setid": "4a64918a-f674-4843-b544-ab815fdd1b8f",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "ERIBULIN MESYLATE SOLUTION [LONG GROVE PHARMACEUTICALS, LLC]",
+      "upload_date": "2024-08-01"
+    },
+    {
+      "application_numbers": [
+        "ANDA217250"
+      ],
+      "brand_names": [
+        "Eribulin Mesylate"
+      ],
+      "combination": false,
+      "home_inn": "eribulin",
+      "ingredients": [
+        "ERIBULIN MESYLATE"
+      ],
+      "labeler": "Baxter Healthcare Company",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-10-01",
+      "moieties": [
+        "ERIBULIN"
+      ],
+      "product_ndcs": [
+        "10019-080"
+      ],
+      "rxcui": [
+        "1045456"
+      ],
+      "setid": "62690292-b1de-46f1-b6e8-012a725f8c63",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "ERIBULIN MESYLATE INJECTION [BAXTER HEALTHCARE COMPANY]",
+      "upload_date": "2026-02-26"
+    },
+    {
+      "application_numbers": [
+        "ANDA218743"
+      ],
+      "brand_names": [
+        "Eribulin Mesylate"
+      ],
+      "combination": false,
+      "home_inn": "eribulin",
+      "ingredients": [
+        "ERIBULIN MESYLATE"
+      ],
+      "labeler": "Chia Tai Tianqing Pharmaceutical Group Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-03-04",
+      "moieties": [
+        "ERIBULIN"
+      ],
+      "product_ndcs": [
+        "71731-4171"
+      ],
+      "rxcui": [
+        "1045456"
+      ],
+      "setid": "8a81f3e9-ac52-4f98-bf62-da7974d012b3",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "ERIBULIN MESYLATE INJECTION [CHIA TAI TIANQING PHARMACEUTICAL GROUP CO., LTD.]",
+      "upload_date": "2025-03-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA214310"
+      ],
+      "brand_names": [
+        "Eribulin Mesylate"
+      ],
+      "combination": false,
+      "home_inn": "eribulin",
+      "ingredients": [
+        "ERIBULIN MESYLATE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-07-07",
+      "moieties": [
+        "ERIBULIN"
+      ],
+      "product_ndcs": [
+        "0781-3391"
+      ],
+      "rxcui": [
+        "1045456"
+      ],
+      "setid": "d122f0a4-aff7-49f7-8cf1-06bc2883ad43",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "ERIBULIN MESYLATE INJECTION [SANDOZ INC]",
+      "upload_date": "2025-07-07"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "GLENMARK PHARMACEUTICALS INC., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "55f4017d-5ea8-4622-bf59-9b9c329097fd"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddys Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1038e984-3bf7-5bbf-f1ec-ce15ae330efc"
+    },
+    {
+      "combination": false,
+      "labeler": "XGen Pharmaceuticals DJB, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4d3a9ac3-10e9-cad5-e063-6394a90a461f"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7752b084-cdc7-6eac-e294-e45db82c372a"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "64bf3c30-f06a-3615-ca5e-eb4154d371d0"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2c0e145b-96b0-4f7b-8993-0f5f59afa81d"
+    },
+    {
+      "combination": false,
+      "labeler": "Kindos Pharmaceuticals Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9bfd8ac7-57e2-4c9d-add8-26502cfb54a8"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1a1a9cff-d5da-4232-b98f-26f55208dfc4"
+    },
+    {
+      "combination": false,
+      "labeler": "Northstar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5caedc93-c3c4-45e5-a2c6-0ce069860584"
+    }
+  ]
+}

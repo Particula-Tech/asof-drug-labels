@@ -1,0 +1,1795 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "DICLOFENAC EPOLAMINE",
+    "DICLOFENAC POTASSIUM",
+    "DICLOFENAC SODIUM"
+  ],
+  "inn": "diclofenac",
+  "name": "DICLOFENAC",
+  "rank": 9,
+  "rxcui": [
+    "855626",
+    "855628",
+    "855664",
+    "855906",
+    "855926",
+    "855942",
+    "857706",
+    "858342",
+    "858346",
+    "859063",
+    "859066",
+    "1359105",
+    "1359107",
+    "1359109",
+    "2372911",
+    "2385117"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 91,
+    "approval_holders": 59,
+    "earliest_marketing_start": "1996-03-26",
+    "latest_label_update": "2026-10-28",
+    "nda_bla_applications": 5,
+    "repackagers": 30
+  },
+  "unii": [
+    {
+      "ingredient": "DICLOFENAC EPOLAMINE",
+      "unii": "X5F8EKL9ZG"
+    },
+    {
+      "ingredient": "DICLOFENAC POTASSIUM",
+      "unii": "L4D5UA6CB4"
+    },
+    {
+      "ingredient": "DICLOFENAC SODIUM",
+      "unii": "QTG126297Q"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA022202"
+      ],
+      "brand_names": [
+        "ZIPSOR"
+      ],
+      "combination": false,
+      "home_inn": "diclofenac",
+      "ingredients": [
+        "DICLOFENAC POTASSIUM"
+      ],
+      "labeler": "Assertio Therapeutics, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2009-06-16",
+      "moieties": [
+        "DICLOFENAC"
+      ],
+      "product_ndcs": [
+        "13913-008"
+      ],
+      "rxcui": [
+        "858342",
+        "858346"
+      ],
+      "setid": "c982eca0-fc41-11e1-a9c8-0002a5d5c51b",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "ZIPSOR (DICLOFENAC POTASSIUM) CAPSULE, LIQUID FILLED [ASSERTIO THERAPEUTICS, INC.]",
+      "upload_date": "2025-09-08"
+    },
+    {
+      "application_numbers": [
+        "NDA022165"
+      ],
+      "brand_names": [
+        "Cambia"
+      ],
+      "combination": false,
+      "home_inn": "diclofenac",
+      "ingredients": [
+        "DICLOFENAC POTASSIUM"
+      ],
+      "labeler": "Assertio Therapeutics, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2016-03-10",
+      "moieties": [
+        "DICLOFENAC"
+      ],
+      "product_ndcs": [
+        "13913-012"
+      ],
+      "rxcui": [
+        "859063",
+        "859066"
+      ],
+      "setid": "d249ced1-4ca0-4f57-adcb-23440f58f659",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "CAMBIA (DICLOFENAC POTASSIUM) POWDER, FOR SOLUTION [ASSERTIO THERAPEUTICS, INC.]",
+      "upload_date": "2024-12-16"
+    },
+    {
+      "application_numbers": [
+        "NDA206976"
+      ],
+      "brand_names": [
+        "LICART"
+      ],
+      "combination": false,
+      "home_inn": "diclofenac",
+      "ingredients": [
+        "DICLOFENAC EPOLAMINE"
+      ],
+      "labeler": "Acertis Pharmaceuticals LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2020-09-01",
+      "moieties": [
+        "DICLOFENAC"
+      ],
+      "product_ndcs": [
+        "72989-458"
+      ],
+      "rxcui": [
+        "2372911",
+        "2385117"
+      ],
+      "setid": "4e555ade-00db-5613-e063-6394a90afd45",
+      "source": "dailymed-title-match",
+      "spl_version": 1,
+      "title": "LICART (DICLOFENAC EPOLAMINE) SYSTEM [ACERTIS PHARMACEUTICALS LLC]",
+      "upload_date": "2026-10-16"
+    },
+    {
+      "application_numbers": [
+        "NDA021234"
+      ],
+      "brand_names": [
+        "FLECTOR"
+      ],
+      "combination": false,
+      "home_inn": "diclofenac",
+      "ingredients": [
+        "DICLOFENAC EPOLAMINE"
+      ],
+      "labeler": "IBSA Pharma Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2020-11-01",
+      "moieties": [
+        "DICLOFENAC"
+      ],
+      "product_ndcs": [
+        "71858-0405"
+      ],
+      "rxcui": [
+        "855626",
+        "855628"
+      ],
+      "setid": "1f19a016-c4fc-43c5-9990-e5f2e2776a82",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "FLECTOR (DICLOFENAC EPOLAMINE) SYSTEM [IBSA PHARMA INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "NDA020607"
+      ],
+      "brand_names": [
+        "ARTHROTEC"
+      ],
+      "combination": true,
+      "home_inn": "diclofenac",
+      "ingredients": [
+        "DICLOFENAC SODIUM",
+        "MISOPROSTOL"
+      ],
+      "labeler": "Pfizer Laboratories Div Pfizer Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1997-12-24",
+      "moieties": [
+        "DICLOFENAC",
+        "MISOPROSTOL"
+      ],
+      "product_ndcs": [
+        "0025-1411",
+        "0025-1421"
+      ],
+      "rxcui": [
+        "857706",
+        "1359105",
+        "1359107",
+        "1359109"
+      ],
+      "setid": "600fe842-45d9-4d68-9ef2-456dbbebaa11",
+      "source": "openfda",
+      "spl_version": 38,
+      "title": "ARTHROTEC (DICLOFENAC SODIUM AND MISOPROSTOL) TABLET, FILM COATED [PFIZER LABORATORIES DIV PFIZER INC]",
+      "upload_date": "2025-08-15"
+    },
+    {
+      "application_numbers": [
+        "NDA206976"
+      ],
+      "brand_names": [
+        "LICART"
+      ],
+      "combination": false,
+      "home_inn": "diclofenac",
+      "ingredients": [
+        "DICLOFENAC EPOLAMINE"
+      ],
+      "labeler": "IBSA Pharma Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2020-09-01",
+      "moieties": [
+        "DICLOFENAC"
+      ],
+      "product_ndcs": [
+        "71858-0305"
+      ],
+      "rxcui": [
+        "2372911",
+        "2385117"
+      ],
+      "setid": "851c8b39-6056-4bbc-812e-b9b13977c1ac",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "LICART (DICLOFENAC EPOLAMINE) SYSTEM [IBSA PHARMA INC.]",
+      "upload_date": "2026-04-08"
+    },
+    {
+      "application_numbers": [
+        "NDA022202"
+      ],
+      "brand_names": [
+        "ZIPSOR"
+      ],
+      "combination": false,
+      "home_inn": "diclofenac",
+      "ingredients": [
+        "DICLOFENAC POTASSIUM"
+      ],
+      "labeler": "Assertio Specialty Pharmaceuticals LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2026-08-24",
+      "moieties": [
+        "DICLOFENAC"
+      ],
+      "product_ndcs": [
+        "82497-008"
+      ],
+      "rxcui": [
+        "858342",
+        "858346"
+      ],
+      "setid": "ed2a8868-78eb-47b8-8f46-0f70e2891e07",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "ZIPSOR (DICLOFENAC POTASSIUM) CAPSULE, LIQUID FILLED [ASSERTIO SPECIALTY PHARMACEUTICALS LLC]",
+      "upload_date": "2026-09-07"
+    },
+    {
+      "application_numbers": [
+        "NDA021234"
+      ],
+      "brand_names": [
+        "diclofenac epolamine"
+      ],
+      "combination": false,
+      "home_inn": "diclofenac",
+      "ingredients": [
+        "DICLOFENAC EPOLAMINE"
+      ],
+      "labeler": "Teva Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2020-05-01",
+      "moieties": [
+        "DICLOFENAC"
+      ],
+      "product_ndcs": [
+        "0093-3727"
+      ],
+      "rxcui": [
+        "855626"
+      ],
+      "setid": "d7bfe17d-e88e-4792-bfba-cea56ed96c3b",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "DICLOFENAC EPOLAMINE SYSTEM [TEVA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2026-01-06"
+    },
+    {
+      "application_numbers": [
+        "NDA022202"
+      ],
+      "brand_names": [
+        "Diclofenac Potassium"
+      ],
+      "combination": false,
+      "home_inn": "diclofenac",
+      "ingredients": [
+        "DICLOFENAC POTASSIUM"
+      ],
+      "labeler": "Leading Pharma, LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2022-03-24",
+      "moieties": [
+        "DICLOFENAC"
+      ],
+      "product_ndcs": [
+        "69315-275"
+      ],
+      "rxcui": [
+        "858342"
+      ],
+      "setid": "698690a7-4978-4457-b123-0a670bbab481",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "DICLOFENAC POTASSIUM CAPSULE, LIQUID FILLED [LEADING PHARMA, LLC]",
+      "upload_date": "2025-03-17"
+    },
+    {
+      "application_numbers": [
+        "NDA022165"
+      ],
+      "brand_names": [
+        "DICLOFENAC POTASSIUM"
+      ],
+      "combination": false,
+      "home_inn": "diclofenac",
+      "ingredients": [
+        "DICLOFENAC POTASSIUM"
+      ],
+      "labeler": "Leading Pharma, LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2022-12-20",
+      "moieties": [
+        "DICLOFENAC"
+      ],
+      "product_ndcs": [
+        "69315-506"
+      ],
+      "rxcui": [
+        "859063"
+      ],
+      "setid": "9dd418b2-4b0e-498c-b453-f580c69ddc6d",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "DICLOFENAC POTASSIUM POWDER, FOR SOLUTION [LEADING PHARMA, LLC]",
+      "upload_date": "2024-01-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA074514"
+      ],
+      "brand_names": [
+        "Diclofenac Sodium"
+      ],
+      "combination": false,
+      "home_inn": "diclofenac",
+      "ingredients": [
+        "DICLOFENAC SODIUM"
+      ],
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1996-03-26",
+      "moieties": [
+        "DICLOFENAC"
+      ],
+      "product_ndcs": [
+        "0228-2550",
+        "0228-2551"
+      ],
+      "rxcui": [
+        "855906",
+        "855926"
+      ],
+      "setid": "a57b897e-0cbe-4ac3-969f-b00357a0cfa8",
+      "source": "openfda",
+      "spl_version": 26,
+      "title": "DICLOFENAC SODIUM TABLET, DELAYED RELEASE [ACTAVIS PHARMA, INC.]",
+      "upload_date": "2026-08-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA075219"
+      ],
+      "brand_names": [
+        "Diclofenac Potassium"
+      ],
+      "combination": false,
+      "home_inn": "diclofenac",
+      "ingredients": [
+        "DICLOFENAC POTASSIUM"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1998-08-11",
+      "moieties": [
+        "DICLOFENAC"
+      ],
+      "product_ndcs": [
+        "0093-0948"
+      ],
+      "rxcui": [
+        "855942"
+      ],
+      "setid": "77b60a0c-e49a-4ad4-abb1-b662c24ab782",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "DICLOFENAC POTASSIUM TABLET, FILM COATED [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2025-01-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA075185"
+      ],
+      "brand_names": [
+        "Diclofenac Sodium Delayed Release"
+      ],
+      "combination": false,
+      "home_inn": "diclofenac",
+      "ingredients": [
+        "DICLOFENAC SODIUM"
+      ],
+      "labeler": "Carlsbad Technology, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1998-11-13",
+      "moieties": [
+        "DICLOFENAC"
+      ],
+      "product_ndcs": [
+        "61442-101",
+        "61442-226",
+        "61442-227"
+      ],
+      "rxcui": [
+        "855664",
+        "855906",
+        "855926"
+      ],
+      "setid": "363764a0-e0a8-3e3f-e063-6294a90ad672",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "DICLOFENAC SODIUM DELAYED RELEASE (DICLOFENAC SODIUM) TABLET, DELAYED RELEASE [CARLSBAD TECHNOLOGY, INC.]",
+      "upload_date": "2025-06-11"
+    },
+    {
+      "application_numbers": [
+        "NDA020142"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "CATAFLAM"
+      ],
+      "first_posted": "2007-02-16",
+      "found_by": "CATAFLAM",
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2021-05-10",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-01-01"
+      ],
+      "product_ndcs": [
+        "0078-0436"
+      ],
+      "rxcui": [],
+      "setid": "1582c050-925a-4af8-a44f-948017946ae6",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "CATAFLAM (diclofenac potassium) tablet, sugar coated"
+    },
+    {
+      "application_numbers": [
+        "NDA021005"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "SOLARAZE"
+      ],
+      "first_posted": "2016-05-23",
+      "found_by": "SOLARAZE",
+      "labeler": "PharmaDerm a division of Fougera Pharmaceuticals Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2022-04-21",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2000-10-16"
+      ],
+      "product_ndcs": [
+        "10337-844"
+      ],
+      "rxcui": [],
+      "setid": "2d3e2c1c-2ef7-4033-9e5c-22df383a3251",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "SOLARAZE (diclofenac sodium) gel"
+    },
+    {
+      "application_numbers": [
+        "NDA019201"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "VOLTAREN"
+      ],
+      "first_posted": "2006-12-22",
+      "found_by": "VOLTAREN",
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "labeler_unverified": true,
+      "last_posted": "2021-05-10",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2011-08-31"
+      ],
+      "product_ndcs": [
+        "0028-0264"
+      ],
+      "rxcui": [],
+      "setid": "2efea42b-41c7-433d-9bf0-0363855e8965",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "VOLTAREN (diclofenac sodium) tablet, delayed release"
+    },
+    {
+      "application_numbers": [
+        "NDA020947"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "PENNSAID"
+      ],
+      "first_posted": "2018-01-02",
+      "found_by": "PENNSAID",
+      "labeler": "Nuvo Pharmaceuticals Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2018-10-17",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2016-02-29"
+      ],
+      "product_ndcs": [
+        "69451-300"
+      ],
+      "rxcui": [],
+      "setid": "3a1e718a-a51a-41d4-ac4c-d0e1676b35d7",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "PENNSAID (diclofenac sodium) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA021234"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "FLECTOR"
+      ],
+      "first_posted": "2010-02-12",
+      "found_by": "FLECTOR",
+      "labeler": "Teikoku Seiyaku Co.. Ltd.",
+      "labeler_unverified": true,
+      "last_posted": "2010-02-12",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "64032-0005"
+      ],
+      "rxcui": [],
+      "setid": "3ad7567d-b11c-407b-9c0b-a198406b7102",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "1f19a016-c4fc-43c5-9990-e5f2e2776a82",
+        "d7bfe17d-e88e-4792-bfba-cea56ed96c3b"
+      ],
+      "title": "FLECTOR (diclofenac epolamine ) patch"
+    },
+    {
+      "application_numbers": [
+        "NDA020947"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "PENNSAID"
+      ],
+      "first_posted": "2010-04-08",
+      "found_by": "PENNSAID",
+      "labeler": "Mallinckrodt, Inc",
+      "labeler_unverified": false,
+      "last_posted": "2016-06-10",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2016-02-29"
+      ],
+      "product_ndcs": [
+        "23635-310"
+      ],
+      "rxcui": [],
+      "setid": "4a9f22fe-7f2e-4597-beb1-e1f950d2de33",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "PENNSAID (diclofenac sodium) liquid"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "FLECTOR"
+      ],
+      "first_posted": "2018-02-14",
+      "found_by": "FLECTOR",
+      "labeler": "Altergon Italia Srl",
+      "labeler_unverified": true,
+      "last_posted": "2018-02-14",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "43328-005"
+      ],
+      "rxcui": [],
+      "setid": "50e44bda-0438-4998-a37e-9b404e0c29ff",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "FLECTOR (diclofenac epolamine) patch"
+    },
+    {
+      "application_numbers": [
+        "NDA020037"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "VOLTAREN"
+      ],
+      "first_posted": "2009-09-11",
+      "found_by": "VOLTAREN",
+      "labeler": "Novartis Pharmaceutical Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2025-01-22",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-12-31"
+      ],
+      "product_ndcs": [
+        "0078-0478"
+      ],
+      "rxcui": [],
+      "setid": "65037222-146c-493d-aa1c-e6df89bf5b8d",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "VOLTAREN (diclofenac sodium) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA204623"
+      ],
+      "archived_versions": 12,
+      "brand_names": [
+        "PENNSAID"
+      ],
+      "first_posted": "2015-01-02",
+      "found_by": "PENNSAID",
+      "labeler": "Horizon Therapeutics USA, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2025-11-25",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-11-29"
+      ],
+      "product_ndcs": [
+        "75987-040"
+      ],
+      "rxcui": [],
+      "setid": "802cd382-443d-48e3-9c9d-fd946c73c79f",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "PENNSAID (diclofenac sodium) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA021005"
+      ],
+      "archived_versions": 8,
+      "brand_names": [
+        "SOLARAZE"
+      ],
+      "first_posted": "2006-12-08",
+      "found_by": "SOLARAZE",
+      "labeler": "PharmaDerm a division of Fougera Pharmaceuticals Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2022-11-18",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2016-07-31"
+      ],
+      "product_ndcs": [
+        "10337-803"
+      ],
+      "rxcui": [],
+      "setid": "89a7bfbd-051f-4d87-a642-96b0df81b8e2",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "SOLARAZE (diclofenac sodium) gel"
+    },
+    {
+      "application_numbers": [
+        "NDA020037"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "VOLTAREN"
+      ],
+      "first_posted": "2008-03-19",
+      "found_by": "VOLTAREN",
+      "labeler": "Novartis Ophthalmics",
+      "labeler_unverified": true,
+      "last_posted": "2011-05-06",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2010-03-31"
+      ],
+      "product_ndcs": [
+        "58768-100"
+      ],
+      "rxcui": [],
+      "setid": "8eee39fe-9948-4d05-bcf9-bc51a87ca3e6",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "VOLTAREN (diclofenac sodium) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA020254"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "VOLTAREN"
+      ],
+      "first_posted": "2009-10-14",
+      "found_by": "VOLTAREN",
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2021-05-10",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2016-06-30"
+      ],
+      "product_ndcs": [
+        "0078-0446"
+      ],
+      "rxcui": [],
+      "setid": "9e2244cb-f50f-4fbb-b6b8-acbba8459081",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "VOLTAREN XR (diclofenac sodium extended release tablets) tablet, film coated, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA021234"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "FLECTOR"
+      ],
+      "first_posted": "2008-08-13",
+      "found_by": "FLECTOR",
+      "labeler": "Alpharma Pharmaceuticals LLC",
+      "labeler_unverified": true,
+      "last_posted": "2012-12-26",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2012-11-13"
+      ],
+      "product_ndcs": [
+        "63857-111"
+      ],
+      "rxcui": [],
+      "setid": "a83d7327-aba2-43e0-a510-9eeabf1bc560",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "1f19a016-c4fc-43c5-9990-e5f2e2776a82",
+        "d7bfe17d-e88e-4792-bfba-cea56ed96c3b"
+      ],
+      "title": "FLECTOR (diclofenac epolamine) patch"
+    },
+    {
+      "application_numbers": [
+        "NDA022165"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "CAMBIA"
+      ],
+      "first_posted": "2014-06-25",
+      "found_by": "CAMBIA",
+      "labeler": "Assertio Therapeutics, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2024-12-06",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-11-30"
+      ],
+      "product_ndcs": [
+        "13913-011"
+      ],
+      "rxcui": [],
+      "setid": "c5856c21-f322-11e3-ac10-0800200c9a66",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "9dd418b2-4b0e-498c-b453-f580c69ddc6d",
+        "d249ced1-4ca0-4f57-adcb-23440f58f659"
+      ],
+      "title": "CAMBIA (diclofenac potassium) powder, for solution"
+    },
+    {
+      "application_numbers": [
+        "NDA021234"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "FLECTOR"
+      ],
+      "first_posted": "2020-02-18",
+      "found_by": "FLECTOR",
+      "labeler": "Pfizer, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2020-12-18",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-03-31"
+      ],
+      "product_ndcs": [
+        "60793-132"
+      ],
+      "rxcui": [],
+      "setid": "caeb5528-ce43-4ed1-946c-c1881302b3dc",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "1f19a016-c4fc-43c5-9990-e5f2e2776a82",
+        "d7bfe17d-e88e-4792-bfba-cea56ed96c3b"
+      ],
+      "title": "FLECTOR (diclofenac epolamine) system"
+    },
+    {
+      "application_numbers": [
+        "NDA204623"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "PENNSAID"
+      ],
+      "first_posted": "2014-01-23",
+      "found_by": "PENNSAID",
+      "labeler": "Mallinckrodt, Inc",
+      "labeler_unverified": false,
+      "last_posted": "2016-06-10",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2016-11-30"
+      ],
+      "product_ndcs": [
+        "23635-510"
+      ],
+      "rxcui": [],
+      "setid": "d99ef8e0-1cb2-42ea-8b38-837ce8c8e672",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "PENNSAID (diclofenac sodium) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA022396"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "DYLOJECT"
+      ],
+      "first_posted": "2015-04-01",
+      "found_by": "DYLOJECT",
+      "labeler": "Hospira, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2019-01-02",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-09-30"
+      ],
+      "product_ndcs": [
+        "0409-1068"
+      ],
+      "rxcui": [],
+      "setid": "dd089777-5479-457a-bc22-3e49d8ae15b1",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "DYLOJECT (diclofenac sodium) injection, solution"
+    },
+    {
+      "application_numbers": [
+        "NDA021234"
+      ],
+      "archived_versions": 16,
+      "brand_names": [
+        "FLECTOR"
+      ],
+      "first_posted": "2011-01-06",
+      "found_by": "FLECTOR",
+      "labeler": "Pfizer, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2020-12-16",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-11-30"
+      ],
+      "product_ndcs": [
+        "60793-411"
+      ],
+      "rxcui": [],
+      "setid": "f103f7e8-1253-43cb-9667-cd0d8f4d5500",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "1f19a016-c4fc-43c5-9990-e5f2e2776a82",
+        "d7bfe17d-e88e-4792-bfba-cea56ed96c3b"
+      ],
+      "title": "FLECTOR (diclofenac epolamine) patch"
+    },
+    {
+      "application_numbers": [
+        "NDA204592"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "ZORVOLEX"
+      ],
+      "first_posted": "2019-04-11",
+      "found_by": "ZORVOLEX",
+      "labeler": "Zyla Life Sciences US Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2023-12-08",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-03-31"
+      ],
+      "product_ndcs": [
+        "69344-203",
+        "69344-204"
+      ],
+      "rxcui": [],
+      "setid": "f83d5c03-8094-4216-8969-a1102da68f15",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ZORVOLEX (diclofenac) capsule"
+    },
+    {
+      "application_numbers": [
+        "NDA022202"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "ZIPSOR"
+      ],
+      "first_posted": "2009-09-29",
+      "found_by": "ZIPSOR",
+      "labeler": "Xanodyne Pharmaceuticals, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2012-07-13",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-02-28"
+      ],
+      "product_ndcs": [
+        "66479-592"
+      ],
+      "rxcui": [],
+      "setid": "fa385cd1-c221-11dd-ad8b-0800200c9a66",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "698690a7-4978-4457-b123-0a670bbab481",
+        "c982eca0-fc41-11e1-a9c8-0002a5d5c51b",
+        "ed2a8868-78eb-47b8-8f46-0f70e2891e07"
+      ],
+      "title": "ZIPSOR (diclofenac potassium) capsule, liquid filled"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Oceanside Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c48113e0-9f1e-4086-b18f-3204c0d2a689"
+    },
+    {
+      "combination": false,
+      "labeler": "Edenbridge Pharmaceuticals LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bd25a2b1-a4d5-4893-97d1-efdcd414a97d"
+    },
+    {
+      "combination": false,
+      "labeler": "Bausch & Lomb Incorporated",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "39dfffb0-612a-48f3-8db5-1a59899b91e9"
+    },
+    {
+      "combination": false,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "52d22a6b-3acd-4694-9df5-8cfa9cc2bb2b"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3330ea92-fc9d-4541-b378-be399b0995d3"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fae53d24-acf1-4250-888d-b8d965ffc3d3"
+    },
+    {
+      "combination": false,
+      "labeler": "Altaire Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5372866a-dab3-45c8-8c2a-755ca36c1791"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals,Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7559928e-eeb8-47e8-8a55-d59e06bbc737"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "aa1e1ed3-0444-4bf5-a0ee-5d21a7fca391"
+    },
+    {
+      "combination": false,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "74169b2d-ac56-4757-86c4-cdcfcd5f4eb5"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "78873f83-cea9-44d4-8ad4-8cb9257e5c7f"
+    },
+    {
+      "combination": false,
+      "labeler": "GLENMARK PHARMACEUTICALS INC., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dab3ae60-0135-43b3-a1d0-8752720af82a"
+    },
+    {
+      "combination": false,
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3f0f3514-c3f7-4dab-8e5f-ddf89adbe3b8"
+    },
+    {
+      "combination": false,
+      "labeler": "Advagen Pharma Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "82218d5c-1625-471a-aabe-f43338e5176b"
+    },
+    {
+      "combination": false,
+      "labeler": "SOLA Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c3f33952-44a8-71b2-e053-2a95a90abda2"
+    },
+    {
+      "combination": false,
+      "labeler": "Archis Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0d83cab3-c698-4763-9e77-27d72ba94e30"
+    },
+    {
+      "combination": false,
+      "labeler": "Ingenus Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6926444f-0dca-4aeb-812e-755a83b149f4"
+    },
+    {
+      "combination": false,
+      "labeler": "Carwin Pharmaceutical Associates, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "49bd64cc-5edb-44f2-8e24-1249f6a76663"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9261a9d6-f772-41a2-ac99-8608c04c355b"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7efdbe23-503a-4f38-a0b6-c003033f0de7"
+    },
+    {
+      "combination": false,
+      "labeler": "TEVA PHARMACEUTICALS, INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d9685883-9d0b-81da-e053-2a95a90ab8d8"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9f416595-60b2-c921-5df4-a09d5f6abe71"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1aa3d8d6-dd1c-46c7-96f9-2b5c9d72764a"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "45321aec-368d-4ca4-a0c5-2ce56fae74b2"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "30c3c3c5-b4f3-4321-ae25-b2c588ad0551"
+    },
+    {
+      "combination": false,
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2184805c-b9b3-4be8-8726-4ce1b1197477"
+    },
+    {
+      "combination": false,
+      "labeler": "Ingenus Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1a237198-ca24-4159-b570-b5a23c8e91b0"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f675a627-c944-4ec6-8c08-b5fdb78dc269"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "02e90e33-384f-4e29-b508-2503def22214"
+    },
+    {
+      "combination": false,
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2d45648f-cbea-41a4-8e3e-007b7bb7912c"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurolife Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dfb7afdf-5c05-4487-9044-936e151e5ba6"
+    },
+    {
+      "combination": false,
+      "labeler": "Advagen Pharma Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ac2b4060-a5da-4ddf-a734-2ff58a1f98c9"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f9a0c654-5f77-430f-b921-295eb776cbcd"
+    },
+    {
+      "combination": false,
+      "labeler": "Havix Group Inc d-b-a Aavis Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "30ab7b30-cc90-4b84-8caf-21058f1d37fa"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "609c5344-9c97-4fa8-ad53-d0f622ce64ec"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "68a926a2-b818-420f-9c9a-fd91dc5a8f36"
+    },
+    {
+      "combination": false,
+      "labeler": "Torrent Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6a945fa8-6c62-40ba-ae97-b994cc90583e"
+    },
+    {
+      "combination": false,
+      "labeler": "Encube Ethicals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e7304b3e-530a-4519-aed0-bed4512d8925"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3487033c-7c62-4034-8718-73a7c49b26a0"
+    },
+    {
+      "combination": false,
+      "labeler": "Advagen Pharma Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "72419a68-4c9d-44e0-9b43-922440e2c8d7"
+    },
+    {
+      "combination": false,
+      "labeler": "Umedica Laboratories USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0e5c6669-390f-4c32-b9b8-13ed3c517462"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d9b6f1d0-1710-46fb-8ea4-80b3ca60a575"
+    },
+    {
+      "combination": true,
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a7701e8c-4e16-4165-8b83-de2c08d5ded3"
+    },
+    {
+      "combination": true,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "df8b8660-0c24-4848-8bea-c1b935090c66"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "afd30051-8f59-474b-9972-962a5a871dfb"
+    },
+    {
+      "combination": true,
+      "labeler": "Nivagen Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2acf46ac-8ba8-444d-b421-19d5ad49644c"
+    },
+    {
+      "combination": true,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c61df58d-d6bb-4d3e-9ef8-60caa7d4e762"
+    },
+    {
+      "combination": false,
+      "labeler": "YARAL Pharma Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2d9bfacc-1b0c-4fab-b949-cd0c914089f9"
+    },
+    {
+      "combination": false,
+      "labeler": "Carlsbad Technology, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "40879600-ba6c-43a8-aa5d-d0d41503d593"
+    },
+    {
+      "combination": false,
+      "labeler": "Novel Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c99f5ef6-c777-4896-a5e7-7335257439b2"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "feb1541a-de83-47dd-be03-c43376527318"
+    },
+    {
+      "combination": false,
+      "labeler": "INA Pharmaceutics Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5ecd99fe-cb74-4a65-9636-2aefd2416ece"
+    },
+    {
+      "combination": false,
+      "labeler": "Umedica Laboratories USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1fa07fbe-3708-4200-b3ff-a920434896b6"
+    },
+    {
+      "combination": false,
+      "labeler": "Umedica Laboratories USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "33930285-dd97-415c-9e2a-491bd7b12af9"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3a837a3e-10b2-4256-b515-80c863318ccb"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d64537c8-e397-4d17-b95c-3092668260aa"
+    },
+    {
+      "combination": false,
+      "labeler": "Trifluent Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8fdb1036-c0d8-4288-ac37-6512b05672ef"
+    },
+    {
+      "combination": false,
+      "labeler": "SOLA Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "11e88ced-cdcf-4101-9297-c4c3dde9d089"
+    },
+    {
+      "combination": false,
+      "labeler": "Carwin Pharmaceutical Associates, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bce95bb3-3097-4e7d-8d29-0870bb729212"
+    },
+    {
+      "combination": false,
+      "labeler": "Cintex Services, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0cdea9d3-fada-b00e-e063-6394a90ad5d9"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "896e3f7d-88e6-4563-b879-a2757d19fd62"
+    },
+    {
+      "combination": false,
+      "labeler": "Amici Pharma, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c4ce1497-9cb1-4632-b1a2-4f61043c018d"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fd467c1a-6463-4d92-9960-3e308c733edb"
+    },
+    {
+      "combination": false,
+      "labeler": "INA Pharmaceutics Inc,",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6c703075-b9a3-42de-87f6-fd1e1ef4b2e3"
+    },
+    {
+      "combination": false,
+      "labeler": "SOLA Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e770efc8-bbad-4103-98e4-e31019a540f5"
+    },
+    {
+      "combination": false,
+      "labeler": "SOLA Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "26bf3a4a-42c6-cb59-e063-6394a90abd8b"
+    },
+    {
+      "combination": false,
+      "labeler": "Marlex Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "30c7197b-7110-d8a7-e063-6394a90addfb"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "11adfe0f-e774-4ccf-8a57-0c7d47aeb0dd"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "048ede6a-b7cd-4100-8979-519bd44906c8"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c7431496-c0ef-403a-9716-92d942709b3d"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifsa Drugs LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "90a0539a-7227-4b91-8b22-25b6f23ef35f"
+    },
+    {
+      "combination": false,
+      "labeler": "Happy Robin, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3f91023f-9db9-88ba-e063-6394a90abd44"
+    },
+    {
+      "combination": false,
+      "labeler": "NIVAGEN PHARMACEUTICALS, INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1f06a404-07c3-4414-8c5c-357c01d6ccb3"
+    },
+    {
+      "combination": false,
+      "labeler": "NIVAGEN PHARMACEUTICALS, INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "eb52a015-23cd-40f6-bf83-6749fc34947c"
+    },
+    {
+      "combination": false,
+      "labeler": "SOLA Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b8072af2-9940-4827-9fbd-de46ad8bf929"
+    },
+    {
+      "combination": false,
+      "labeler": "VICI Pharmaceuticals, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "544a869e-60ef-627b-e063-6294a90a3fd8"
+    },
+    {
+      "combination": false,
+      "labeler": "Amerisyn LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b0931350-28a9-4f00-9254-1d72e31f04c3"
+    },
+    {
+      "combination": true,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9a22cb4b-e49a-4bd7-b235-47405c302658"
+    }
+  ]
+}

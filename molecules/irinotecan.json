@@ -1,0 +1,478 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand ONIVYDE",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/004125",
+      "eu_number": "EU/1/16/1130",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-004125",
+      "mah": "Les Laboratoires Servier",
+      "marketing_authorisation_date": "2016-10-14",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/onivyde-pegylated-liposomal",
+      "name": "Onivyde pegylated liposomal (previously Onivyde)",
+      "record_from": "2016-10-14",
+      "record_to": "2026-11-03",
+      "role": "reference",
+      "versions": 10
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-004125",
+    "reference_selected_by": "salt-alias-v2",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "IRINOTECAN HYDROCHLORIDE"
+  ],
+  "inn": "irinotecan",
+  "name": "IRINOTECAN",
+  "rank": 419,
+  "rxcui": [
+    "1719772",
+    "1719777",
+    "1726319",
+    "1726321",
+    "1726324",
+    "1726325",
+    "1726333",
+    "1726335",
+    "1726492"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 16,
+    "approval_holders": 14,
+    "earliest_marketing_start": "1996-06-14",
+    "latest_label_update": "2026-08-24",
+    "nda_bla_applications": 2,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "IRINOTECAN HYDROCHLORIDE",
+      "unii": "042LAQ1IIS"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020571"
+      ],
+      "brand_names": [
+        "Camptosar"
+      ],
+      "combination": false,
+      "home_inn": "irinotecan",
+      "ingredients": [
+        "IRINOTECAN HYDROCHLORIDE"
+      ],
+      "labeler": "Pharmacia & Upjohn Company LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1996-06-14",
+      "moieties": [
+        "IRINOTECAN"
+      ],
+      "product_ndcs": [
+        "0009-0082",
+        "0009-0112",
+        "0009-7529"
+      ],
+      "rxcui": [
+        "1726319",
+        "1726321",
+        "1726324",
+        "1726325",
+        "1726333",
+        "1726335"
+      ],
+      "setid": "e518dfc6-7e93-4fee-a66c-51e1ab71c056",
+      "source": "openfda",
+      "spl_version": 37,
+      "title": "CAMPTOSAR (IRINOTECAN HYDROCHLORIDE) INJECTION, SOLUTION [PHARMACIA & UPJOHN COMPANY LLC]",
+      "upload_date": "2026-05-13"
+    },
+    {
+      "application_numbers": [
+        "NDA207793"
+      ],
+      "brand_names": [
+        "Onivyde"
+      ],
+      "combination": false,
+      "home_inn": "irinotecan",
+      "ingredients": [
+        "IRINOTECAN HYDROCHLORIDE"
+      ],
+      "labeler": "Ipsen Biopharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-10-22",
+      "moieties": [
+        "IRINOTECAN"
+      ],
+      "product_ndcs": [
+        "15054-0043"
+      ],
+      "rxcui": [
+        "1719772",
+        "1719777"
+      ],
+      "setid": "c8b58efa-1820-48a4-b70d-62918fc4abfc",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "ONIVYDE (IRINOTECAN HYDROCHLORIDE) INJECTION, POWDER, FOR SOLUTION [IPSEN BIOPHARMACEUTICALS, INC.]",
+      "upload_date": "2025-03-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA077915"
+      ],
+      "brand_names": [
+        "Irinotecan Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "irinotecan",
+      "ingredients": [
+        "IRINOTECAN HYDROCHLORIDE"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2008-02-27",
+      "moieties": [
+        "IRINOTECAN"
+      ],
+      "product_ndcs": [
+        "61703-349"
+      ],
+      "rxcui": [
+        "1726319",
+        "1726324",
+        "1726492"
+      ],
+      "setid": "5c527c2e-9062-4afe-dbbb-f650db3a340f",
+      "source": "openfda",
+      "spl_version": 26,
+      "title": "IRINOTECAN HYDROCHLORIDE INJECTION, SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA077776"
+      ],
+      "brand_names": [
+        "Irinotecan Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "irinotecan",
+      "ingredients": [
+        "IRINOTECAN HYDROCHLORIDE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-04-01",
+      "moieties": [
+        "IRINOTECAN"
+      ],
+      "product_ndcs": [
+        "63323-193"
+      ],
+      "rxcui": [
+        "1726319",
+        "1726324"
+      ],
+      "setid": "ee45f127-8450-4455-a945-a1f5707f1d39",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "IRINOTECAN HYDROCHLORIDE INJECTION, SOLUTION [FRESENIUS KABI USA, LLC",
+      "upload_date": "2023-04-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA091032"
+      ],
+      "brand_names": [
+        "Irinotecan Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "irinotecan",
+      "ingredients": [
+        "IRINOTECAN HYDROCHLORIDE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-12-20",
+      "moieties": [
+        "IRINOTECAN"
+      ],
+      "product_ndcs": [
+        "0143-9583"
+      ],
+      "rxcui": [
+        "1726324"
+      ],
+      "setid": "9c6aa884-750e-4b11-9955-bc7ab6e9c2ad",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "IRINOTECAN HYDROCHLORIDE INJECTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2022-08-22"
+    },
+    {
+      "application_numbers": [
+        "ANDA090675"
+      ],
+      "brand_names": [
+        "Irinotecan Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "irinotecan",
+      "ingredients": [
+        "IRINOTECAN HYDROCHLORIDE"
+      ],
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-08-15",
+      "moieties": [
+        "IRINOTECAN"
+      ],
+      "product_ndcs": [
+        "25021-230"
+      ],
+      "rxcui": [
+        "1726319",
+        "1726324"
+      ],
+      "setid": "caab50e6-0dad-4ddd-9a6c-96cc2b87aee7",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "IRINOTECAN HYDROCHLORIDE INJECTION, SOLUTION [SAGENT PHARMACEUTICALS]",
+      "upload_date": "2026-02-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA078589"
+      ],
+      "brand_names": [
+        "Irinotecan hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "irinotecan",
+      "ingredients": [
+        "IRINOTECAN HYDROCHLORIDE"
+      ],
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-03-12",
+      "moieties": [
+        "IRINOTECAN"
+      ],
+      "product_ndcs": [
+        "45963-614"
+      ],
+      "rxcui": [
+        "1726319",
+        "1726324"
+      ],
+      "setid": "5e1fdcaa-918f-4cd8-9c7a-4c538d866198",
+      "source": "openfda",
+      "spl_version": 27,
+      "title": "IRINOTECAN HYDROCHLORIDE INJECTION, SOLUTION [ACTAVIS PHARMA, INC.]",
+      "upload_date": "2026-04-08"
+    },
+    {
+      "application_numbers": [
+        "ANDA203380"
+      ],
+      "brand_names": [
+        "Irinotecan Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "irinotecan",
+      "ingredients": [
+        "IRINOTECAN HYDROCHLORIDE"
+      ],
+      "labeler": "Qilu Pharmaceutical Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-05-03",
+      "moieties": [
+        "IRINOTECAN"
+      ],
+      "product_ndcs": [
+        "67184-0511",
+        "67184-0512",
+        "67184-0513"
+      ],
+      "rxcui": [
+        "1726319",
+        "1726324",
+        "1726333"
+      ],
+      "setid": "afcdde49-ec0c-4c56-a1af-2917185b1a08",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "IRINOTECAN HYDROCHLORIDE INJECTION, SOLUTION [QILU PHARMACEUTICAL CO., LTD.]",
+      "upload_date": "2021-03-11"
+    },
+    {
+      "application_numbers": [
+        "NDA207793"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "ONIVYDE"
+      ],
+      "first_posted": "2015-11-02",
+      "found_by": "ONIVYDE",
+      "labeler": "Merrimack Pharmaceuticals",
+      "labeler_unverified": true,
+      "last_posted": "2018-11-30",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-09-30"
+      ],
+      "product_ndcs": [
+        "69171-398"
+      ],
+      "rxcui": [],
+      "setid": "52ef5879-4cb5-443a-a355-5de14c497f22",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "c8b58efa-1820-48a4-b70d-62918fc4abfc"
+      ],
+      "title": "ONIVYDE (irinotecan hydrochloride) injection"
+    },
+    {
+      "application_numbers": [
+        "NDA020571"
+      ],
+      "archived_versions": 8,
+      "brand_names": [
+        "CAMPTOSAR"
+      ],
+      "first_posted": "2011-08-16",
+      "found_by": "CAMPTOSAR",
+      "labeler": "Pharmacia and Upjohn Company LLC",
+      "labeler_unverified": false,
+      "last_posted": "2019-04-18",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-05-31"
+      ],
+      "product_ndcs": [
+        "0009-1111"
+      ],
+      "rxcui": [],
+      "setid": "f2f20b37-8bd4-4e8a-b596-be80b48ca2f1",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "e518dfc6-7e93-4fee-a66c-51e1ab71c056"
+      ],
+      "title": "CAMPTOSAR (irinotecan hydrochloride) injection, solution"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Xiromed LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b26e5d27-dba5-7538-9e7b-48b358998cbb"
+    },
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7a30d551-9ea7-47ea-9073-f541bff457a3"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "be716692-6b4f-47b6-83d1-01665861626b"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "85ed6019-f462-4abe-a89e-ad991623c86d"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "de634e80-328a-4473-b395-0172683a2411"
+    },
+    {
+      "combination": false,
+      "labeler": "Northstar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4f98e9ed-f7b1-5346-af72-fccb0abf3f4b"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b66dbd6d-6ccb-ce9d-e053-2995a90a4c3c"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8fe98987-e526-4729-a8f4-c7230f424108"
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand Tivicay",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/002753",
+      "eu_number": "EU/1/13/892",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-002753",
+      "mah": "ViiV Healthcare BV",
+      "marketing_authorisation_date": "2014-01-16",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tivicay",
+      "name": "Tivicay",
+      "record_from": "2014-01-16",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 17
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 3,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-002753",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "DOLUTEGRAVIR SODIUM"
+  ],
+  "inn": "dolutegravir",
+  "name": "DOLUTEGRAVIR",
+  "rank": 104,
+  "rxcui": [
+    "1433873",
+    "1433879",
+    "1546888",
+    "1546894",
+    "1796077",
+    "1796079",
+    "1796081",
+    "1796083",
+    "1989500",
+    "1989506",
+    "2122519",
+    "2122526",
+    "2374562",
+    "2374566",
+    "2598348",
+    "2598352"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 4,
+    "approval_holders": 1,
+    "earliest_marketing_start": "2013-08-13",
+    "latest_label_update": "2026-10-02",
+    "nda_bla_applications": 6,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "DOLUTEGRAVIR SODIUM",
+      "unii": "1Q1V9V5WYQ"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA204790",
+        "NDA213983"
+      ],
+      "brand_names": [
+        "Tivicay",
+        "Tivicay PD"
+      ],
+      "combination": false,
+      "home_inn": "dolutegravir",
+      "ingredients": [
+        "DOLUTEGRAVIR SODIUM"
+      ],
+      "labeler": "ViiV Healthcare Company",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2013-08-13",
+      "moieties": [
+        "DOLUTEGRAVIR"
+      ],
+      "product_ndcs": [
+        "49702-226",
+        "49702-227",
+        "49702-228",
+        "49702-255"
+      ],
+      "rxcui": [
+        "1433873",
+        "1433879",
+        "1796077",
+        "1796079",
+        "1796081",
+        "1796083",
+        "2374562",
+        "2374566"
+      ],
+      "setid": "63df5af3-b8ac-4e76-9830-2dbb340af922",
+      "source": "dailymed-title-match",
+      "spl_version": 34,
+      "title": "TIVICAY PD (DOLUTEGRAVIR SODIUM) TABLET, FOR SUSPENSION TIVICAY (DOLUTEGRAVIR SODIUM) TABLET, FILM COATED [VIIV HEALTHCARE COMPANY]",
+      "upload_date": "2026-10-02"
+    },
+    {
+      "application_numbers": [
+        "NDA205551",
+        "NDA215413"
+      ],
+      "brand_names": [
+        "Triumeq",
+        "Triumeq PD"
+      ],
+      "combination": true,
+      "home_inn": "lamivudine",
+      "ingredients": [
+        "ABACAVIR SULFATE",
+        "DOLUTEGRAVIR SODIUM",
+        "LAMIVUDINE"
+      ],
+      "labeler": "ViiV Healthcare Company",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2014-08-22",
+      "moieties": [
+        "ABACAVIR",
+        "DOLUTEGRAVIR",
+        "LAMIVUDINE"
+      ],
+      "product_ndcs": [
+        "49702-231",
+        "49702-258"
+      ],
+      "rxcui": [
+        "1546888",
+        "1546894",
+        "2598348",
+        "2598352"
+      ],
+      "setid": "2997739a-aa91-42aa-a206-a70e2db7b84f",
+      "source": "openfda",
+      "spl_version": 30,
+      "title": "TRIUMEQ (ABACAVIR SULFATE, DOLUTEGRAVIR SODIUM, LAMIVUDINE) TABLET, FILM COATED TRIUMEQ PD (ABACAVIR SULFATE, DOLUTEGRAVIR SODIUM, LAMIVUDINE) KIT [VIIV HEALTHCARE COMPANY]",
+      "upload_date": "2026-01-26"
+    },
+    {
+      "application_numbers": [
+        "NDA210192"
+      ],
+      "brand_names": [
+        "Juluca"
+      ],
+      "combination": true,
+      "home_inn": "dolutegravir",
+      "ingredients": [
+        "DOLUTEGRAVIR SODIUM",
+        "RILPIVIRINE HYDROCHLORIDE"
+      ],
+      "labeler": "ViiV Healthcare Company",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-11-21",
+      "moieties": [
+        "DOLUTEGRAVIR",
+        "RILPIVIRINE"
+      ],
+      "product_ndcs": [
+        "49702-242"
+      ],
+      "rxcui": [
+        "1989500",
+        "1989506"
+      ],
+      "setid": "806653d1-bf35-4924-b999-ad5d21821cc1",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "JULUCA (DOLUTEGRAVIR SODIUM AND RILPIVIRINE HYDROCHLORIDE) TABLET, FILM COATED [VIIV HEALTHCARE COMPANY]",
+      "upload_date": "2026-07-31"
+    },
+    {
+      "application_numbers": [
+        "NDA211994"
+      ],
+      "brand_names": [
+        "Dovato"
+      ],
+      "combination": true,
+      "home_inn": "lamivudine",
+      "ingredients": [
+        "DOLUTEGRAVIR SODIUM",
+        "LAMIVUDINE"
+      ],
+      "labeler": "ViiV Healthcare Company",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2019-04-08",
+      "moieties": [
+        "DOLUTEGRAVIR",
+        "LAMIVUDINE"
+      ],
+      "product_ndcs": [
+        "49702-246"
+      ],
+      "rxcui": [
+        "2122519",
+        "2122526"
+      ],
+      "setid": "68e45422-43ed-4cfb-9356-fae88d14a53a",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "DOVATO (DOLUTEGRAVIR SODIUM AND LAMIVUDINE) TABLET, FILM COATED [VIIV HEALTHCARE COMPANY]",
+      "upload_date": "2026-01-23"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "TRIUMEQ"
+      ],
+      "first_posted": "2017-12-21",
+      "found_by": "TRIUMEQ",
+      "labeler": "Glaxo Operations UK Ltd",
+      "labeler_unverified": true,
+      "last_posted": "2017-12-21",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "63379-053"
+      ],
+      "rxcui": [],
+      "setid": "b38da720-b1b2-4b7e-93de-5063c67325fb",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "TRIUMEQ (dolutegravir sodium, abacavir sulfate, lamivudine) tablet, film coated"
+    }
+  ],
+  "us_excluded": []
+}

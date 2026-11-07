@@ -1,0 +1,482 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "PENICILLIN G BENZATHINE",
+    "PENICILLIN G POTASSIUM",
+    "PENICILLIN G PROCAINE",
+    "PENICILLIN G SODIUM"
+  ],
+  "inn": "penicillin-g",
+  "name": "PENICILLIN G",
+  "rank": 292,
+  "rxcui": [
+    "204466",
+    "207390",
+    "207391",
+    "731538",
+    "731541",
+    "731564",
+    "731566",
+    "731567",
+    "731568",
+    "731570",
+    "731571",
+    "745302",
+    "836306",
+    "836307",
+    "863538",
+    "995906"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 14,
+    "approval_holders": 9,
+    "earliest_marketing_start": "1952-06-27",
+    "latest_label_update": "2026-09-24",
+    "nda_bla_applications": 3,
+    "repackagers": 2
+  },
+  "unii": [
+    {
+      "ingredient": "PENICILLIN G BENZATHINE",
+      "unii": "RIT82F58GK"
+    },
+    {
+      "ingredient": "PENICILLIN G POTASSIUM",
+      "unii": "VL775ZTH4C"
+    },
+    {
+      "ingredient": "PENICILLIN G PROCAINE",
+      "unii": "17R794ESYN"
+    },
+    {
+      "ingredient": "PENICILLIN G SODIUM",
+      "unii": "YS5LY7JF4N"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA050141"
+      ],
+      "brand_names": [
+        "BICILLIN L-A"
+      ],
+      "combination": false,
+      "home_inn": "penicillin-g",
+      "ingredients": [
+        "PENICILLIN G BENZATHINE"
+      ],
+      "labeler": "Pfizer Laboratories Div Pfizer Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1952-06-27",
+      "moieties": [
+        "PENICILLIN G"
+      ],
+      "product_ndcs": [
+        "60793-700",
+        "60793-701",
+        "60793-702"
+      ],
+      "rxcui": [
+        "731564",
+        "731566",
+        "731567",
+        "731568",
+        "731570",
+        "731571"
+      ],
+      "setid": "012d46f1-d0a0-4676-a879-cd320297ab16",
+      "source": "openfda",
+      "spl_version": 35,
+      "title": "BICILLIN L-A (PENICILLIN G BENZATHINE) INJECTION, SUSPENSION [PFIZER LABORATORIES DIV PFIZER INC]",
+      "upload_date": "2026-07-24"
+    },
+    {
+      "application_numbers": [
+        "NDA050138"
+      ],
+      "brand_names": [
+        "BICILLIN CR"
+      ],
+      "combination": false,
+      "home_inn": "penicillin-g",
+      "ingredients": [
+        "PENICILLIN G BENZATHINE",
+        "PENICILLIN G PROCAINE"
+      ],
+      "labeler": "Pfizer Laboratories Div Pfizer Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1953-05-18",
+      "moieties": [
+        "PENICILLIN G"
+      ],
+      "product_ndcs": [
+        "60793-600",
+        "60793-601"
+      ],
+      "rxcui": [
+        "731538",
+        "731541"
+      ],
+      "setid": "b5640fc6-76d8-428d-80e6-760d769af8bb",
+      "source": "openfda",
+      "spl_version": 29,
+      "title": "BICILLIN CR (PENICILLIN G BENZATHINE AND PENICILLIN G PROCAINE) INJECTION, SUSPENSION [PFIZER LABORATORIES DIV PFIZER INC]",
+      "upload_date": "2026-07-24"
+    },
+    {
+      "application_numbers": [
+        "NDA050638"
+      ],
+      "brand_names": [
+        "PENICILLIN G POTASSIUM"
+      ],
+      "combination": false,
+      "home_inn": "penicillin-g",
+      "ingredients": [
+        "PENICILLIN G POTASSIUM"
+      ],
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1990-06-25",
+      "moieties": [
+        "PENICILLIN G"
+      ],
+      "product_ndcs": [
+        "0338-1023",
+        "0338-1025"
+      ],
+      "rxcui": [
+        "204466",
+        "207390",
+        "207391"
+      ],
+      "setid": "9e58122f-5c75-4905-a774-d3a4dae4ff8c",
+      "source": "openfda",
+      "spl_version": 20,
+      "title": "PENICILLIN G POTASSIUM (PENICILLIN G) INJECTION, SOLUTION [BAXTER HEALTHCARE CORPORATION]",
+      "upload_date": "2026-07-28"
+    },
+    {
+      "application_numbers": [
+        "NDA050138"
+      ],
+      "brand_names": [
+        "BICILLIN C-R 900/300"
+      ],
+      "combination": false,
+      "home_inn": "penicillin-g",
+      "ingredients": [
+        "PENICILLIN G BENZATHINE",
+        "PENICILLIN G PROCAINE"
+      ],
+      "labeler": "Pfizer Laboratories Div Pfizer Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1953-05-18",
+      "moieties": [
+        "PENICILLIN G"
+      ],
+      "product_ndcs": [
+        "60793-602"
+      ],
+      "rxcui": [
+        "836306",
+        "836307"
+      ],
+      "setid": "ba7b9199-4710-4189-a85d-77ed75befe4d",
+      "source": "openfda",
+      "spl_version": 33,
+      "title": "BICILLIN C-R 900/300 (PENICILLIN G BENZATHINE AND PENICILLIN G PROCAINE) INJECTION, SUSPENSION [PFIZER LABORATORIES DIV PFIZER INC]",
+      "upload_date": "2026-07-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA065068"
+      ],
+      "brand_names": [
+        "Penicillin G Sodium"
+      ],
+      "combination": false,
+      "home_inn": "penicillin-g",
+      "ingredients": [
+        "PENICILLIN G SODIUM"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2001-02-26",
+      "moieties": [
+        "PENICILLIN G"
+      ],
+      "product_ndcs": [
+        "0781-6153"
+      ],
+      "rxcui": [
+        "745302"
+      ],
+      "setid": "23b6d4a3-b273-4e10-9da9-1376933fdbdf",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "PENICILLIN G SODIUM INJECTION, POWDER, FOR SOLUTION [SANDOZ INC]",
+      "upload_date": "2020-06-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA065079"
+      ],
+      "brand_names": [
+        "Penicillin G Potassium"
+      ],
+      "combination": false,
+      "home_inn": "penicillin-g",
+      "ingredients": [
+        "PENICILLIN G POTASSIUM"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2001-08-30",
+      "moieties": [
+        "PENICILLIN G"
+      ],
+      "product_ndcs": [
+        "0781-6135",
+        "0781-6136"
+      ],
+      "rxcui": [
+        "863538"
+      ],
+      "setid": "91950983-4884-40d1-abd8-bcc953d61b7f",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "PENICILLIN G POTASSIUM INJECTION, POWDER, FOR SOLUTION [SANDOZ INC]",
+      "upload_date": "2020-11-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA060657"
+      ],
+      "brand_names": [
+        "Pfizerpen"
+      ],
+      "combination": false,
+      "home_inn": "penicillin-g",
+      "ingredients": [
+        "PENICILLIN G POTASSIUM"
+      ],
+      "labeler": "Roerig",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-06-01",
+      "moieties": [
+        "PENICILLIN G"
+      ],
+      "product_ndcs": [
+        "0049-0420",
+        "0049-0430"
+      ],
+      "rxcui": [
+        "863538",
+        "995906"
+      ],
+      "setid": "2f7ea103-56cc-492f-b862-af45f9aed980",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "PFIZERPEN (PENICILLIN G POTASSIUM) POWDER, FOR SOLUTION [ROERIG]",
+      "upload_date": "2024-12-16"
+    },
+    {
+      "application_numbers": [
+        "ANDA065149",
+        "ANDA065448"
+      ],
+      "brand_names": [
+        "Penicillin G Potassium"
+      ],
+      "combination": false,
+      "home_inn": "penicillin-g",
+      "ingredients": [
+        "PENICILLIN G POTASSIUM"
+      ],
+      "labeler": "WG Critical Care, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-05-10",
+      "moieties": [
+        "PENICILLIN G"
+      ],
+      "product_ndcs": [
+        "44567-310",
+        "44567-311",
+        "44567-312"
+      ],
+      "rxcui": [
+        "863538"
+      ],
+      "setid": "e0ced9d8-b9ea-466e-bf2c-10e9cc636f3f",
+      "source": "dailymed-title-match",
+      "spl_version": 13,
+      "title": "PENICILLIN G POTASSIUM INJECTION, POWDER, FOR SOLUTION [WG CRITICAL CARE, LLC]",
+      "upload_date": "2026-09-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA060657"
+      ],
+      "brand_names": [
+        "Pfizerpen"
+      ],
+      "combination": false,
+      "home_inn": "penicillin-g",
+      "ingredients": [
+        "PENICILLIN G POTASSIUM"
+      ],
+      "labeler": "Roerig",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-06-01",
+      "moieties": [
+        "PENICILLIN G"
+      ],
+      "product_ndcs": [
+        "0049-0520",
+        "0049-0530"
+      ],
+      "rxcui": [
+        "863538",
+        "995906"
+      ],
+      "setid": "d8aaefb6-3f7d-4bc5-b40a-1c58c3054320",
+      "source": "openfda",
+      "spl_version": 26,
+      "title": "PFIZERPEN (PENICILLIN G POTASSIUM) POWDER, FOR SOLUTION [ROERIG]",
+      "upload_date": "2024-12-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA060657"
+      ],
+      "brand_names": [
+        "Pfizerpen"
+      ],
+      "combination": false,
+      "home_inn": "penicillin-g",
+      "ingredients": [
+        "PENICILLIN G POTASSIUM"
+      ],
+      "labeler": "Roerig",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-06-01",
+      "moieties": [
+        "PENICILLIN G"
+      ],
+      "product_ndcs": [
+        "0049-0520",
+        "0049-0530"
+      ],
+      "rxcui": [
+        "863538",
+        "995906"
+      ],
+      "setid": "efef4846-9497-41af-8dd6-518f86eca7f2",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "PFIZERPEN (PENICILLIN G POTASSIUM) POWDER, FOR SOLUTION [ROERIG]",
+      "upload_date": "2025-12-17"
+    },
+    {
+      "application_numbers": [
+        "NDA060014"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "PERMAPEN"
+      ],
+      "first_posted": "2006-07-25",
+      "found_by": "PERMAPEN",
+      "labeler": "Roerig",
+      "labeler_unverified": false,
+      "last_posted": "2018-09-26",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2004-07-01"
+      ],
+      "product_ndcs": [
+        "0049-0210"
+      ],
+      "rxcui": [],
+      "setid": "05613e85-cc86-47fc-8ff9-15fab38ac9fa",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "PERMAPEN (penicillin g benzathine) injection, suspension"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Athenex Pharmaceutical Division, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1442486a-05d6-4dce-8b95-857a30f478c2"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8732b7ff-2e47-4f99-aadf-81861b431f4f"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fb2f3afe-0072-4383-bad8-9da9e94db4f2"
+    },
+    {
+      "combination": false,
+      "labeler": "Avenacy Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "969a421e-37d8-499e-9e89-67e210bd5d9d"
+    }
+  ]
+}

@@ -1,0 +1,512 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "DEXTROMETHORPHAN HYDROBROMIDE"
+  ],
+  "inn": "dextromethorphan",
+  "name": "DEXTROMETHORPHAN",
+  "rank": 231,
+  "rxcui": [
+    "991528",
+    "1040054",
+    "1040058",
+    "1357010",
+    "2611260",
+    "2611266",
+    "2741701",
+    "2741703",
+    "2744512",
+    "2744513",
+    "2744514",
+    "2744515"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 24,
+    "approval_holders": 21,
+    "earliest_marketing_start": "2010-12-01",
+    "latest_label_update": "2026-09-16",
+    "nda_bla_applications": 2,
+    "repackagers": 9
+  },
+  "unii": [
+    {
+      "ingredient": "DEXTROMETHORPHAN HYDROBROMIDE",
+      "unii": "9D2RTI9KYH"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021879"
+      ],
+      "brand_names": [
+        "NUEDEXTA"
+      ],
+      "combination": true,
+      "home_inn": "dextromethorphan",
+      "ingredients": [
+        "DEXTROMETHORPHAN HYDROBROMIDE",
+        "QUINIDINE SULFATE"
+      ],
+      "labeler": "Avanir Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2010-12-01",
+      "moieties": [
+        "DEXTROMETHORPHAN",
+        "QUINIDINE"
+      ],
+      "product_ndcs": [
+        "64597-301"
+      ],
+      "rxcui": [
+        "1040054",
+        "1040058"
+      ],
+      "setid": "484e0918-3442-49dc-8ccf-177f1f3ee9f3",
+      "source": "openfda",
+      "spl_version": 29,
+      "title": "NUEDEXTA (DEXTROMETHORPHAN HYDROBROMIDE AND QUINIDINE SULFATE) CAPSULE, GELATIN COATED [AVANIR PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "NDA215430"
+      ],
+      "brand_names": [
+        "AUVELITY"
+      ],
+      "combination": true,
+      "home_inn": "bupropion",
+      "ingredients": [
+        "BUPROPION HYDROCHLORIDE",
+        "DEXTROMETHORPHAN HYDROBROMIDE"
+      ],
+      "labeler": "Axsome Therapeutics, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-08-18",
+      "moieties": [
+        "BUPROPION",
+        "DEXTROMETHORPHAN"
+      ],
+      "product_ndcs": [
+        "81968-030",
+        "81968-045",
+        "81968-345",
+        "81968-453"
+      ],
+      "rxcui": [
+        "2611260",
+        "2611266",
+        "2741701",
+        "2741703",
+        "2744512",
+        "2744513",
+        "2744514",
+        "2744515"
+      ],
+      "setid": "dcefda7c-9a68-278e-e053-2995a90aec79",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "AUVELITY (DEXTROMETHORPHAN HYDROBROMIDE, BUPROPION HYDROCHLORIDE) TABLET, MULTILAYER, EXTENDED RELEASE AUVELITY (DEXTROMETHORPHAN HYDROBROMIDE, BUPROPION HYDROCHLORIDE) KIT [AXSOME THERAPEUTICS, INC.]",
+      "upload_date": "2026-08-19"
+    },
+    {
+      "application_numbers": [
+        "NDA021879"
+      ],
+      "brand_names": [
+        "Nuedexta"
+      ],
+      "combination": true,
+      "home_inn": "dextromethorphan",
+      "ingredients": [
+        "DEXTROMETHORPHAN HYDROBROMIDE",
+        "QUINIDINE SULFATE"
+      ],
+      "labeler": "Otsuka America Pharmaceutical, Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-01-03",
+      "moieties": [
+        "DEXTROMETHORPHAN",
+        "QUINIDINE"
+      ],
+      "product_ndcs": [
+        "59148-053"
+      ],
+      "rxcui": [
+        "1040054",
+        "1040058"
+      ],
+      "setid": "c8cce784-8c5f-415b-8068-76e5d481d159",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "NUEDEXTA (DEXTROMETHORPHAN HYDROBROMIDE AND QUINIDINE SULFATE) CAPSULE, GELATIN COATED [OTSUKA AMERICA PHARMACEUTICAL, INC]",
+      "upload_date": "2026-01-26"
+    },
+    {
+      "application_numbers": [
+        "NDA011265"
+      ],
+      "brand_names": [
+        "Promethazine Hydrochloride and Dextromethorphan Hydrobromide"
+      ],
+      "combination": true,
+      "home_inn": "dextromethorphan",
+      "ingredients": [
+        "DEXTROMETHORPHAN HYDROBROMIDE",
+        "PROMETHAZINE HYDROCHLORIDE"
+      ],
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2024-09-05",
+      "moieties": [
+        "DEXTROMETHORPHAN",
+        "PROMETHAZINE"
+      ],
+      "product_ndcs": [
+        "62559-758"
+      ],
+      "rxcui": [
+        "991528"
+      ],
+      "setid": "a52e210f-b99d-493e-b679-ec565c6ff72d",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "PROMETHAZINE HYDROCHLORIDE AND DEXTROMETHORPHAN HYDROBROMIDE SOLUTION [ANI PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-08-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA090575"
+      ],
+      "brand_names": [
+        "Promethazine Hydrochloride and Dextromethorphan Hydrobromide"
+      ],
+      "combination": true,
+      "home_inn": "dextromethorphan",
+      "ingredients": [
+        "DEXTROMETHORPHAN HYDROBROMIDE",
+        "PROMETHAZINE HYDROCHLORIDE"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-03-04",
+      "moieties": [
+        "DEXTROMETHORPHAN",
+        "PROMETHAZINE"
+      ],
+      "product_ndcs": [
+        "65162-680"
+      ],
+      "rxcui": [
+        "991528"
+      ],
+      "setid": "6081c216-0bed-40f0-8732-f999647003d5",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "PROMETHAZINE HYDROCHLORIDE AND DEXTROMETHORPHAN HYDROBROMIDE SOLUTION [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2024-10-31"
+    },
+    {
+      "application_numbers": [
+        "ANDA091687"
+      ],
+      "brand_names": [
+        "Promethazine Hydrochloride and Dextromethorphan Hydrobromide"
+      ],
+      "combination": true,
+      "home_inn": "dextromethorphan",
+      "ingredients": [
+        "DEXTROMETHORPHAN HYDROBROMIDE",
+        "PROMETHAZINE HYDROCHLORIDE"
+      ],
+      "labeler": "Cranbury Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-01-31",
+      "moieties": [
+        "DEXTROMETHORPHAN",
+        "PROMETHAZINE"
+      ],
+      "product_ndcs": [
+        "27808-057"
+      ],
+      "rxcui": [
+        "991528"
+      ],
+      "setid": "a8b57027-a4b8-4149-93e8-aa3e7a6d6dc3",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "PROMETHAZINE HYDROCHLORIDE AND DEXTROMETHORPHAN HYDROBROMIDE SOLUTION [CRANBURY PHARMACEUTICALS, LLC]",
+      "upload_date": "2025-12-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA205292"
+      ],
+      "brand_names": [
+        "Brompheniramine Maleate, Pseudoephedrine Hydrochloride and Dextromethorphan Hydrobromide"
+      ],
+      "combination": true,
+      "home_inn": "dextromethorphan",
+      "ingredients": [
+        "BROMPHENIRAMINE MALEATE",
+        "DEXTROMETHORPHAN HYDROBROMIDE",
+        "PSEUDOEPHEDRINE HYDROCHLORIDE"
+      ],
+      "labeler": "Padagis US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-02-06",
+      "moieties": [
+        "BROMPHENIRAMINE",
+        "DEXTROMETHORPHAN",
+        "PSEUDOEPHEDRINE"
+      ],
+      "product_ndcs": [
+        "0574-1104"
+      ],
+      "rxcui": [
+        "1357010"
+      ],
+      "setid": "06db369d-09fe-4ca2-b98c-705356b7c403",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "BROMPHENIRAMINE MALEATE, PSEUDOEPHEDRINE HYDROCHLORIDE AND DEXTROMETHORPHAN HYDROBROMIDE SYRUP [PADAGIS US LLC]",
+      "upload_date": "2026-07-22"
+    },
+    {
+      "application_numbers": [
+        "ANDA203375"
+      ],
+      "brand_names": [
+        "Brompheniramine Maleate, Pseudoephedrine Hydrochloride, Dextromethorphan Hydrobromide"
+      ],
+      "combination": true,
+      "home_inn": "dextromethorphan",
+      "ingredients": [
+        "BROMPHENIRAMINE MALEATE",
+        "DEXTROMETHORPHAN HYDROBROMIDE",
+        "PSEUDOEPHEDRINE HYDROCHLORIDE"
+      ],
+      "labeler": "Acella Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-09-21",
+      "moieties": [
+        "BROMPHENIRAMINE",
+        "DEXTROMETHORPHAN",
+        "PSEUDOEPHEDRINE"
+      ],
+      "product_ndcs": [
+        "42192-607"
+      ],
+      "rxcui": [
+        "1357010"
+      ],
+      "setid": "1045e307-f60d-482d-8e06-40e72b84c651",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "BROMPHENIRAMINE MALEATE, PSEUDOEPHEDRINE HYDROCHLORIDE, DEXTROMETHORPHAN HYDROBROMIDE (BROMPHENIRAMINE MALEATE, PSEUDOEPHEDRINE HYDROCHLORIDE, AND DEXTROMETHORPHAN HYDROBROMIDE) SYRUP [ACELLA PHARMACEUTICALS, LLC]",
+      "upload_date": "2026-03-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA213125"
+      ],
+      "brand_names": [
+        "Brompheniramine Maleate, Pseudoephedrine Hydrochloride, and Dextromethorphan Hydrobromide"
+      ],
+      "combination": true,
+      "home_inn": "dextromethorphan",
+      "ingredients": [
+        "BROMPHENIRAMINE MALEATE",
+        "DEXTROMETHORPHAN HYDROBROMIDE",
+        "PSEUDOEPHEDRINE HYDROCHLORIDE"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-04-17",
+      "moieties": [
+        "BROMPHENIRAMINE",
+        "DEXTROMETHORPHAN",
+        "PSEUDOEPHEDRINE"
+      ],
+      "product_ndcs": [
+        "62135-302"
+      ],
+      "rxcui": [
+        "1357010"
+      ],
+      "setid": "30f0317c-4793-4b88-8c06-c0f3cb12b3ea",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "BROMPHENIRAMINE MALEATE, PSEUDOEPHEDRINE HYDROCHLORIDE, AND DEXTROMETHORPHAN HYDROBROMIDE SYRUP [CHARTWELL RX, LLC]",
+      "upload_date": "2024-10-23"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": true,
+      "labeler": "Eywa Pharma Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8a4b2d13-d1c9-416f-95fd-f7d7b7970bb5"
+    },
+    {
+      "combination": true,
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "01ea6357-24dc-4056-9fd2-9e643650b91f"
+    },
+    {
+      "combination": true,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7028dcb7-f436-4cf6-9beb-23c1d215c798"
+    },
+    {
+      "combination": true,
+      "labeler": "Dr. Reddy's Labratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "79be4527-73b4-93b2-5858-1e2a9819fd50"
+    },
+    {
+      "combination": true,
+      "labeler": "Xttrium Laboratories, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "30c9d769-bc74-04d2-e063-6294a90a665a"
+    },
+    {
+      "combination": true,
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1d47280d-28c9-4701-8c5f-a6e6b524083b"
+    },
+    {
+      "combination": true,
+      "labeler": "BIONPHARMA INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3ff18027-44fb-50a1-e063-6394a90a2390"
+    },
+    {
+      "combination": true,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "036b587a-7bfe-4149-bd05-34a37e3e84b6"
+    },
+    {
+      "combination": true,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6a2cd2d6-6e0f-4b2d-be7a-8b99627f4453"
+    },
+    {
+      "combination": true,
+      "labeler": "Advagen Pharma Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8b60eff2-5759-4bc3-ac16-5ff80aa153a0"
+    },
+    {
+      "combination": true,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "92b54ac4-594e-47b8-a4d3-394a29b425f3"
+    },
+    {
+      "combination": true,
+      "labeler": "Teva Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8ef0fcf1-d0b3-45ae-bd11-479aa7ea8896"
+    },
+    {
+      "combination": true,
+      "labeler": "Chartwell Governmental & Specialty RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a19b75d4-67de-4904-8487-1f9b3368c833"
+    },
+    {
+      "combination": true,
+      "labeler": "Acella Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0c403f27-0b9b-4da3-a66b-1040eff1b2bf"
+    },
+    {
+      "combination": true,
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e7b336d9-b1df-4a08-9b67-754346d365f4"
+    }
+  ]
+}

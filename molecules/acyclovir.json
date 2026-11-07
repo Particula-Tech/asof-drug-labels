@@ -1,0 +1,1141 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "ACYCLOVIR",
+    "ACYCLOVIR SODIUM"
+  ],
+  "inn": "acyclovir",
+  "name": "ACYCLOVIR",
+  "rank": 33,
+  "rxcui": [
+    "141859",
+    "197310",
+    "197311",
+    "197312",
+    "197313",
+    "199413",
+    "209977",
+    "307730",
+    "825321",
+    "998422",
+    "998426",
+    "1734932",
+    "1734934",
+    "2734142"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 67,
+    "approval_holders": 42,
+    "earliest_marketing_start": "1982-03-29",
+    "latest_label_update": "2026-09-14",
+    "nda_bla_applications": 4,
+    "repackagers": 23
+  },
+  "unii": [
+    {
+      "ingredient": "ACYCLOVIR",
+      "unii": "X4HES1O11F"
+    },
+    {
+      "ingredient": "ACYCLOVIR SODIUM",
+      "unii": "927L42J563"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA018604"
+      ],
+      "brand_names": [
+        "Zovirax"
+      ],
+      "combination": false,
+      "home_inn": "acyclovir",
+      "ingredients": [
+        "ACYCLOVIR"
+      ],
+      "labeler": "Bausch Health US, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1982-03-29",
+      "moieties": [
+        "ACYCLOVIR"
+      ],
+      "product_ndcs": [
+        "0187-0993"
+      ],
+      "rxcui": [
+        "197312",
+        "209977"
+      ],
+      "setid": "50278e0e-da1e-45ee-9fcb-672b2a219911",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "ZOVIRAX (ACYCLOVIR) OINTMENT [BAUSCH HEALTH US, LLC]",
+      "upload_date": "2021-01-12"
+    },
+    {
+      "application_numbers": [
+        "NDA021478"
+      ],
+      "brand_names": [
+        "Zovirax"
+      ],
+      "combination": false,
+      "home_inn": "acyclovir",
+      "ingredients": [
+        "ACYCLOVIR"
+      ],
+      "labeler": "Bausch Health US, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2002-12-30",
+      "moieties": [
+        "ACYCLOVIR"
+      ],
+      "product_ndcs": [
+        "0187-0994"
+      ],
+      "rxcui": [
+        "141859",
+        "825321"
+      ],
+      "setid": "125dbe4e-94ba-45bd-a714-f9c4b8e8b5c2",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "ZOVIRAX (ACYCLOVIR) CREAM [BAUSCH HEALTH US, LLC]",
+      "upload_date": "2021-04-20"
+    },
+    {
+      "application_numbers": [
+        "NDA202408"
+      ],
+      "brand_names": [
+        "Avaclyr"
+      ],
+      "combination": false,
+      "home_inn": "acyclovir",
+      "ingredients": [
+        "ACYCLOVIR"
+      ],
+      "labeler": "Fera Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2026-01-31",
+      "moieties": [
+        "ACYCLOVIR"
+      ],
+      "product_ndcs": [
+        "48102-028"
+      ],
+      "rxcui": [
+        "199413",
+        "2734142"
+      ],
+      "setid": "3ce26231-bc40-48b0-85e5-2e7622f334d7",
+      "source": "dailymed-title-match",
+      "spl_version": 4,
+      "title": "AVACLYR (ACYCLOVIR) OINTMENT [FERA PHARMACEUTICALS, LLC]",
+      "upload_date": "2026-09-14"
+    },
+    {
+      "application_numbers": [
+        "NDA022436"
+      ],
+      "brand_names": [
+        "Xerese"
+      ],
+      "combination": true,
+      "home_inn": "hydrocortisone",
+      "ingredients": [
+        "ACYCLOVIR",
+        "HYDROCORTISONE"
+      ],
+      "labeler": "Bausch Health US LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2009-07-31",
+      "moieties": [
+        "ACYCLOVIR",
+        "HYDROCORTISONE"
+      ],
+      "product_ndcs": [
+        "0187-5104"
+      ],
+      "rxcui": [
+        "998422",
+        "998426"
+      ],
+      "setid": "3b6ac164-0f1e-4f36-94a1-1fdb07d710f5",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "XERESE (ACYCLOVIR AND HYDROCORTISONE) CREAM [BAUSCH HEALTH US LLC]",
+      "upload_date": "2020-09-08"
+    },
+    {
+      "application_numbers": [
+        "NDA018604"
+      ],
+      "brand_names": [
+        "Acyclovir"
+      ],
+      "combination": false,
+      "home_inn": "acyclovir",
+      "ingredients": [
+        "ACYCLOVIR"
+      ],
+      "labeler": "ACTAVIS PHARMA, INC.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2014-04-11",
+      "moieties": [
+        "ACYCLOVIR"
+      ],
+      "product_ndcs": [
+        "0591-1159"
+      ],
+      "rxcui": [
+        "197312"
+      ],
+      "setid": "b360a808-a24d-4f3c-89a7-9941422d17d6",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "ACYCLOVIR OINTMENT [ACTAVIS PHARMA, INC.]",
+      "upload_date": "2021-01-12"
+    },
+    {
+      "application_numbers": [
+        "NDA021478"
+      ],
+      "brand_names": [
+        "Acyclovir"
+      ],
+      "combination": false,
+      "home_inn": "acyclovir",
+      "ingredients": [
+        "ACYCLOVIR"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2019-08-29",
+      "moieties": [
+        "ACYCLOVIR"
+      ],
+      "product_ndcs": [
+        "0093-3630"
+      ],
+      "rxcui": [
+        "141859"
+      ],
+      "setid": "103f29b8-2c13-4917-a446-59d3246d48d1",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "ACYCLOVIR CREAM [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA074930"
+      ],
+      "brand_names": [
+        "Acyclovir"
+      ],
+      "combination": false,
+      "home_inn": "acyclovir",
+      "ingredients": [
+        "ACYCLOVIR SODIUM"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2000-10-17",
+      "moieties": [
+        "ACYCLOVIR"
+      ],
+      "product_ndcs": [
+        "63323-325"
+      ],
+      "rxcui": [
+        "1734932",
+        "1734934"
+      ],
+      "setid": "badf347b-eeee-4239-9c74-966f262925aa",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "ACYCLOVIR INJECTION, SOLUTION [FRESENIUS KABI USA, LLC",
+      "upload_date": "2024-09-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA074738"
+      ],
+      "brand_names": [
+        "Acyclovir"
+      ],
+      "combination": false,
+      "home_inn": "acyclovir",
+      "ingredients": [
+        "ACYCLOVIR"
+      ],
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2002-09-03",
+      "moieties": [
+        "ACYCLOVIR"
+      ],
+      "product_ndcs": [
+        "0472-0082"
+      ],
+      "rxcui": [
+        "307730"
+      ],
+      "setid": "a4c1305c-f18c-4fb0-83d8-2822341f2dfa",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "ACYCLOVIR SUSPENSION [ACTAVIS PHARMA, INC.]",
+      "upload_date": "2026-02-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA077309"
+      ],
+      "brand_names": [
+        "acyclovir"
+      ],
+      "combination": false,
+      "home_inn": "acyclovir",
+      "ingredients": [
+        "ACYCLOVIR"
+      ],
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2006-03-13",
+      "moieties": [
+        "ACYCLOVIR"
+      ],
+      "product_ndcs": [
+        "60505-5306",
+        "60505-5307"
+      ],
+      "rxcui": [
+        "197311",
+        "197313"
+      ],
+      "setid": "7fdeb609-24c4-5024-52c3-6a32bc7f3fcc",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "ACYCLOVIR TABLET [APOTEX CORP.]",
+      "upload_date": "2025-11-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA075677"
+      ],
+      "brand_names": [
+        "ACYCLOVIR"
+      ],
+      "combination": false,
+      "home_inn": "acyclovir",
+      "ingredients": [
+        "ACYCLOVIR"
+      ],
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2006-03-20",
+      "moieties": [
+        "ACYCLOVIR"
+      ],
+      "product_ndcs": [
+        "60505-0042"
+      ],
+      "rxcui": [
+        "197310"
+      ],
+      "setid": "41bea43a-f58c-2c6f-4d31-406ceb456077",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "ACYCLOVIR CAPSULE [APOTEX CORP.]",
+      "upload_date": "2025-11-19"
+    },
+    {
+      "application_numbers": [
+        "NDA021478"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "ZOVIRAX"
+      ],
+      "first_posted": "2006-09-01",
+      "found_by": "ZOVIRAX",
+      "labeler": "BTA PHARMACEUTICALS INC",
+      "labeler_unverified": true,
+      "last_posted": "2014-01-23",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-02-08"
+      ],
+      "product_ndcs": [
+        "64455-994"
+      ],
+      "rxcui": [],
+      "setid": "04af8c80-d0ff-49b0-bc82-8c644eacf067",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "103f29b8-2c13-4917-a446-59d3246d48d1",
+        "125dbe4e-94ba-45bd-a714-f9c4b8e8b5c2"
+      ],
+      "title": "ZOVIRAX (acyclovir) cream"
+    },
+    {
+      "application_numbers": [
+        "NDA018604"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "ZOVIRAX"
+      ],
+      "first_posted": "2007-05-31",
+      "found_by": "ZOVIRAX",
+      "labeler": "BTA PHARMACEUTICALS INC",
+      "labeler_unverified": true,
+      "last_posted": "2015-01-21",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-08-31"
+      ],
+      "product_ndcs": [
+        "64455-993"
+      ],
+      "rxcui": [],
+      "setid": "456071c1-74b9-42c2-a893-00f0bfbd0430",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "50278e0e-da1e-45ee-9fcb-672b2a219911",
+        "b360a808-a24d-4f3c-89a7-9941422d17d6"
+      ],
+      "title": "ZOVIRAX (acyclovir) ointment"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "ZOVIRAX"
+      ],
+      "first_posted": "2006-08-29",
+      "found_by": "ZOVIRAX",
+      "labeler": "GlaxoSmithKline",
+      "labeler_unverified": false,
+      "last_posted": "2006-08-29",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0173-0995"
+      ],
+      "rxcui": [],
+      "setid": "5b88ca70-86cf-4c6f-64a9-8196c5cba3e0",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "zovirax (acyclovir sodium) injection, powder, lyophilized, for solution"
+    },
+    {
+      "application_numbers": [
+        "NDA018603"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "ZOVIRAX"
+      ],
+      "first_posted": "2019-02-11",
+      "found_by": "ZOVIRAX",
+      "labeler": "GlaxoSmithKline LLC",
+      "labeler_unverified": false,
+      "last_posted": "2019-02-11",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2006-04-18"
+      ],
+      "product_ndcs": [
+        "0173-0952",
+        "0173-0995"
+      ],
+      "rxcui": [],
+      "setid": "6363b189-b9cb-4a17-87ef-12e43e1fdf31",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ZOVIRAX (acyclovir sodium) injection, powder, lyophilized, for solution"
+    },
+    {
+      "application_numbers": [
+        "NDA018828",
+        "NDA020089"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "ZOVIRAX"
+      ],
+      "first_posted": "2014-02-18",
+      "found_by": "ZOVIRAX",
+      "labeler": "Prestium Pharma, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2019-09-11",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-12-31",
+        "2020-03-31"
+      ],
+      "product_ndcs": [
+        "40076-945",
+        "40076-949",
+        "40076-991"
+      ],
+      "rxcui": [],
+      "setid": "6fe0ab86-9d81-461e-9c84-6ba724a91318",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ZOVIRAX (acyclovir) capsule ZOVIRAX (acyclovir) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA019909"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "ZOVIRAX"
+      ],
+      "first_posted": "2018-07-30",
+      "found_by": "ZOVIRAX",
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2022-09-12",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-02-28"
+      ],
+      "product_ndcs": [
+        "0378-9735"
+      ],
+      "rxcui": [],
+      "setid": "7cc087ad-51af-4c6a-87ef-72636b67321f",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ZOVIRAX (acyclovir) suspension"
+    },
+    {
+      "application_numbers": [
+        "NDA022436"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "XERESE"
+      ],
+      "first_posted": "2010-07-15",
+      "found_by": "XERESE",
+      "labeler": "Meda Pharmaceuticals Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2012-09-04",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-02-28"
+      ],
+      "product_ndcs": [
+        "0037-0501"
+      ],
+      "rxcui": [],
+      "setid": "b74c0c67-4ef6-11df-9879-0800200c9a66",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "3b6ac164-0f1e-4f36-94a1-1fdb07d710f5"
+      ],
+      "title": "XERESE (acyclovir and hydrocortisone) cream"
+    },
+    {
+      "application_numbers": [
+        "NDA020089"
+      ],
+      "archived_versions": 11,
+      "brand_names": [
+        "ZOVIRAX"
+      ],
+      "first_posted": "2007-11-01",
+      "found_by": "ZOVIRAX",
+      "labeler": "GlaxoSmithKline LLC",
+      "labeler_unverified": false,
+      "last_posted": "2015-08-12",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-08-31"
+      ],
+      "product_ndcs": [
+        "0173-0945"
+      ],
+      "rxcui": [],
+      "setid": "f94a46a2-2e86-4d98-ec89-9483a41d290a",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ZOVIRAX (acyclovir) tablet"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Carlsbad Technology, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a68e610a-841c-4b69-9233-673d060561e8"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0de2f5c7-9e75-4bdf-9c28-e026cc6694b4"
+    },
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ae921e4e-b8ae-4a45-acc1-32e5e719812b"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0910335b-6796-459f-b97e-d7ef5439a060"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "269e2203-347d-40dc-b794-11cf34690f27"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "85332671-0e3a-4445-a337-e1266886b9cf"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8d9fea43-6c04-40d7-8aac-398c2de2a558"
+    },
+    {
+      "combination": false,
+      "labeler": "Cadila Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dbaf4bf5-57e3-4770-a9b2-d47649e54c1b"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "babdbce2-5cbd-4943-bc38-9ebdd696a77a"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "395cd839-21e1-43e2-a8ce-078f07bc7668"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "962b2e1a-ba9d-4b39-b6d1-203947166482"
+    },
+    {
+      "combination": false,
+      "labeler": "Cadila Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "acef88f4-6456-4092-993f-27e1496097c7"
+    },
+    {
+      "combination": false,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "149f4418-7668-4d34-a6f9-69bf3a9c5049"
+    },
+    {
+      "combination": false,
+      "labeler": "Carlsbad Technology, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "37499620-6a17-40f1-b0db-dd79320ea21d"
+    },
+    {
+      "combination": false,
+      "labeler": "YILING PHARMACEUTICAL, INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "677edfd5-2d04-b932-e053-2a91aa0a26b0"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d42fce5a-9ea3-4058-a3ba-4c18a6024160"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "383b930b-6e9c-4ac9-a078-baac6276f340"
+    },
+    {
+      "combination": false,
+      "labeler": "Torrent Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1c510390-fb00-4271-967d-0883a9d5e1fd"
+    },
+    {
+      "combination": false,
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "63fadf54-e8a3-4512-8a05-d64b998f5a08"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fdf6b492-a76e-4cea-89a1-a5b19c7938ff"
+    },
+    {
+      "combination": false,
+      "labeler": "Xiromed, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3e222423-3bf2-6584-6d54-447b1b26dc42"
+    },
+    {
+      "combination": false,
+      "labeler": "SQUARE PHARMACEUTICALS LIMITED",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b24201ea-aeae-4de1-b01b-eee89068e786"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell Governmental & Specialty RX, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2757bb30-3374-4e1b-b496-14874f7ec623"
+    },
+    {
+      "combination": false,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8208711c-18ba-4615-b932-3c0bb7e6efae"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9167ea4a-959d-402c-96b4-619395821c01"
+    },
+    {
+      "combination": false,
+      "labeler": "Advagen Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6a9ea291-4ad5-48a8-8c08-5a17c8757549"
+    },
+    {
+      "combination": false,
+      "labeler": "Quinn Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9ad711e4-003d-4b58-8177-32928bc42aa9"
+    },
+    {
+      "combination": false,
+      "labeler": "Solco Healthcare US, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a1d7b8ec-309d-447e-ae05-b9e89cc29948"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "37761c4f-4378-472e-a41b-6a1d40575cb7"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2ca1395f-96b4-4543-8eed-bd07c62bbc7c"
+    },
+    {
+      "combination": false,
+      "labeler": "Viona Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a2966b6d-c6c0-4afd-8eda-045df497cb9d"
+    },
+    {
+      "combination": false,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3efa1e5e-5a14-4724-a2ca-25702f10faed"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "878615c2-09ea-44ce-8c30-7a7f16acb20c"
+    },
+    {
+      "combination": false,
+      "labeler": "Slate Run Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "889bccd1-3793-40ce-bca2-c8c9cf6b7488"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6e3b04a8-47a4-425e-931e-9a4fa260b303"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b1bb347d-74f4-4976-8450-a375a271718f"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5adf2205-5493-4e7a-bf50-01f4eb661dd8"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cfee4476-a3c9-4e0c-a235-c68c5d46931e"
+    },
+    {
+      "combination": false,
+      "labeler": "Aryeh Pharma Corp",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f60cc0c2-e0fe-406a-b5c0-90bc4b566bb3"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cb64dfab-52ee-4312-bc9c-c3d04efe9109"
+    },
+    {
+      "combination": false,
+      "labeler": "AuroMedics Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d3ab226c-677d-4cb7-85cb-1c2e5012f40d"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "edb0cd28-ee57-4b60-be94-62c797fbf5e6"
+    },
+    {
+      "combination": false,
+      "labeler": "Northstar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6788f3c6-b79c-4f3f-9a73-10c8d3a38267"
+    },
+    {
+      "combination": false,
+      "labeler": "YILING PHARMACEUTICAL, INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "67e7b340-0635-2595-e053-2a91aa0ad266"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8cd22728-34b4-4e55-8339-580138fe46d8"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "69a98000-adef-4323-89a7-09e035a257d4"
+    },
+    {
+      "combination": false,
+      "labeler": "Viona Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e580b7e9-9060-43f5-9b58-33998078d7e4"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7d2a75a5-233f-46dd-9cb0-3918ea53e554"
+    },
+    {
+      "combination": false,
+      "labeler": "Viona Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "12df1991-fb1c-45df-acf3-706b1e8ecfc3"
+    },
+    {
+      "combination": false,
+      "labeler": "Bionpharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6f1db9f0-9b41-4fb7-8798-44fdc2c128df"
+    },
+    {
+      "combination": false,
+      "labeler": "YILING PHARMACEUTICAL, INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8542495c-eef1-448b-abb5-83cb1ac589f7"
+    },
+    {
+      "combination": false,
+      "labeler": "Modavar Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8de9c4f3-b800-4419-a063-8b62a0cba0fa"
+    },
+    {
+      "combination": false,
+      "labeler": "Modavar Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c7317324-4654-4bcc-8edf-7b7cd8794d2e"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bb956f2b-627a-49bd-b258-4aac21d64b9a"
+    },
+    {
+      "combination": false,
+      "labeler": "Westminster Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f352a641-988e-4878-8016-2b69cd6ee548"
+    },
+    {
+      "combination": false,
+      "labeler": "Florida Pharmaceutical Products, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3df7fa38-a869-45fb-98a3-81c5a2527d62"
+    },
+    {
+      "combination": false,
+      "labeler": "Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4d5b5fd7-64ab-8275-e063-6394a90a2205"
+    }
+  ]
+}

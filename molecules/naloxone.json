@@ -1,0 +1,1166 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/004325",
+      "eu_number": "EU/1/17/1238",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-004325",
+      "mah": "Mundipharma Corporation (Ireland) Limited",
+      "marketing_authorisation_date": "2017-11-09",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/nyxoid",
+      "name": "Nyxoid",
+      "record_from": "2017-11-10",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 7
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 2,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-004325",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "NALOXONE",
+    "NALOXONE HYDROCHLORIDE",
+    "NALOXONE HYDROCHLORIDE DIHYDRATE"
+  ],
+  "inn": "naloxone",
+  "name": "NALOXONE",
+  "rank": 37,
+  "rxcui": [
+    "1010600",
+    "1010603",
+    "1010604",
+    "1010606",
+    "1191222",
+    "1191234",
+    "1191250",
+    "1307056",
+    "1307058",
+    "1307061",
+    "1307063",
+    "1431076",
+    "1431083",
+    "1431102",
+    "1431104",
+    "1597568",
+    "1597570",
+    "1597573",
+    "1597575",
+    "1659929",
+    "1666338",
+    "1666385",
+    "1725059",
+    "1725064",
+    "1864412",
+    "1864414",
+    "2540703",
+    "2540709",
+    "2589612",
+    "2589618",
+    "2596175",
+    "2637879",
+    "2680741",
+    "2704891",
+    "2704898"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 56,
+    "approval_holders": 39,
+    "earliest_marketing_start": "1986-09-24",
+    "latest_label_update": "2026-10-19",
+    "nda_bla_applications": 8,
+    "repackagers": 16
+  },
+  "unii": [
+    {
+      "ingredient": "NALOXONE",
+      "unii": "36B82AMQ7N"
+    },
+    {
+      "ingredient": "NALOXONE HYDROCHLORIDE",
+      "unii": "F850569PQR"
+    },
+    {
+      "ingredient": "NALOXONE HYDROCHLORIDE DIHYDRATE",
+      "unii": "5Q187997EE"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA208411"
+      ],
+      "brand_names": [
+        "Narcan"
+      ],
+      "combination": false,
+      "home_inn": "naloxone",
+      "ingredients": [
+        "NALOXONE HYDROCHLORIDE"
+      ],
+      "labeler": "Emergent Devices Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-01-24",
+      "moieties": [
+        "NALOXONE"
+      ],
+      "product_ndcs": [
+        "69547-353"
+      ],
+      "rxcui": [
+        "1725059",
+        "1725064"
+      ],
+      "setid": "724df050-5332-4d0a-9a5f-17bf08a547e1",
+      "source": "openfda",
+      "spl_version": 24,
+      "title": "NARCAN (NALOXONE HYDROCHLORIDE) SPRAY [EMERGENT DEVICES INC.]",
+      "upload_date": "2025-12-08"
+    },
+    {
+      "application_numbers": [
+        "NDA212045"
+      ],
+      "brand_names": [
+        "KLOXXADO"
+      ],
+      "combination": false,
+      "home_inn": "naloxone",
+      "ingredients": [
+        "NALOXONE HYDROCHLORIDE"
+      ],
+      "labeler": "Hikma Specialty USA Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-08-03",
+      "moieties": [
+        "NALOXONE"
+      ],
+      "product_ndcs": [
+        "59467-679"
+      ],
+      "rxcui": [
+        "2540703",
+        "2540709"
+      ],
+      "setid": "ebf0f833-c1c0-487c-8f29-01fa8c61b6cb",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "KLOXXADO (NALOXONE HCL) SPRAY [HIKMA SPECIALTY USA INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "NDA212854"
+      ],
+      "brand_names": [
+        "ZIMHI"
+      ],
+      "combination": false,
+      "home_inn": "naloxone",
+      "ingredients": [
+        "NALOXONE HYDROCHLORIDE"
+      ],
+      "labeler": "ZMI Pharma Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-01-15",
+      "moieties": [
+        "NALOXONE"
+      ],
+      "product_ndcs": [
+        "84571-140"
+      ],
+      "rxcui": [
+        "2589612",
+        "2589618"
+      ],
+      "setid": "523c0909-bff6-4010-988a-53de18b7cb3f",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "ZIMHI (NALOXONE HYDROCHLORIDE) INJECTION, SOLUTION [ZMI PHARMA INC.]",
+      "upload_date": "2025-12-05"
+    },
+    {
+      "application_numbers": [
+        "NDA215457"
+      ],
+      "brand_names": [
+        "Naloxone Hydrochloride Injection, USP, Auto-Injector"
+      ],
+      "combination": false,
+      "home_inn": "naloxone",
+      "ingredients": [
+        "NALOXONE HYDROCHLORIDE"
+      ],
+      "labeler": "Kaleo, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-02-28",
+      "moieties": [
+        "NALOXONE"
+      ],
+      "product_ndcs": [
+        "60842-002"
+      ],
+      "rxcui": [
+        "2596175"
+      ],
+      "setid": "b5463553-b775-47a3-8d10-31e01ca1ec72",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "NALOXONE HYDROCHLORIDE INJECTION, USP, AUTO-INJECTOR (NALOXONE HYDROCHLORIDE) INJECTION, SOLUTION [KALEO, INC.]",
+      "upload_date": "2022-03-15"
+    },
+    {
+      "application_numbers": [
+        "NDA208969"
+      ],
+      "brand_names": [
+        "REXTOVY"
+      ],
+      "combination": false,
+      "home_inn": "naloxone",
+      "ingredients": [
+        "NALOXONE HYDROCHLORIDE"
+      ],
+      "labeler": "International Medication Systems, Ltd.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-05-07",
+      "moieties": [
+        "NALOXONE"
+      ],
+      "product_ndcs": [
+        "76329-3669"
+      ],
+      "rxcui": [
+        "2637879",
+        "2680741"
+      ],
+      "setid": "fe9735db-c57e-44a8-bffb-b87a84c2a6f3",
+      "source": "dailymed-title-match",
+      "spl_version": 9,
+      "title": "REXTOVY (NALOXONE HYDROCHLORIDE) SPRAY [INTERNATIONAL MEDICATION SYSTEMS, LTD.]",
+      "upload_date": "2026-10-02"
+    },
+    {
+      "application_numbers": [
+        "NDA215487"
+      ],
+      "brand_names": [
+        "REZENOPY"
+      ],
+      "combination": false,
+      "home_inn": "naloxone",
+      "ingredients": [
+        "NALOXONE HYDROCHLORIDE"
+      ],
+      "labeler": "Scienture LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2026-01-29",
+      "moieties": [
+        "NALOXONE"
+      ],
+      "product_ndcs": [
+        "83245-003"
+      ],
+      "rxcui": [
+        "2704891",
+        "2704898"
+      ],
+      "setid": "5bb502aa-014f-4a36-8972-42a9439168fe",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "REZENOPY (NALOXONE HCL) SPRAY [SCIENTURE LLC]",
+      "upload_date": "2026-04-17"
+    },
+    {
+      "application_numbers": [
+        "NDA022410"
+      ],
+      "brand_names": [
+        "Suboxone"
+      ],
+      "combination": true,
+      "home_inn": "naloxone",
+      "ingredients": [
+        "BUPRENORPHINE HYDROCHLORIDE",
+        "NALOXONE HYDROCHLORIDE"
+      ],
+      "labeler": "INDIVIOR INC.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2010-09-13",
+      "moieties": [
+        "BUPRENORPHINE",
+        "NALOXONE"
+      ],
+      "product_ndcs": [
+        "12496-1202",
+        "12496-1204",
+        "12496-1208",
+        "12496-1212"
+      ],
+      "rxcui": [
+        "1010600",
+        "1010603",
+        "1010604",
+        "1010606",
+        "1307056",
+        "1307058",
+        "1307061",
+        "1307063"
+      ],
+      "setid": "8a5edcf9-828c-4f97-b671-268ab13a8ecd",
+      "source": "openfda",
+      "spl_version": 37,
+      "title": "SUBOXONE (BUPRENORPHINE HYDROCHLORIDE, NALOXONE HYDROCHLORIDE) FILM, SOLUBLE [INDIVIOR INC.]",
+      "upload_date": "2026-02-11"
+    },
+    {
+      "application_numbers": [
+        "NDA204242"
+      ],
+      "brand_names": [
+        "Zubsolv"
+      ],
+      "combination": true,
+      "home_inn": "naloxone",
+      "ingredients": [
+        "BUPRENORPHINE HYDROCHLORIDE",
+        "NALOXONE HYDROCHLORIDE"
+      ],
+      "labeler": "Orexo US, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2013-07-04",
+      "moieties": [
+        "BUPRENORPHINE",
+        "NALOXONE"
+      ],
+      "product_ndcs": [
+        "54123-114",
+        "54123-907",
+        "54123-914",
+        "54123-929",
+        "54123-957",
+        "54123-986"
+      ],
+      "rxcui": [
+        "1431076",
+        "1431083",
+        "1431102",
+        "1431104",
+        "1597568",
+        "1597570",
+        "1597573",
+        "1597575",
+        "1666338",
+        "1666385",
+        "1864412",
+        "1864414"
+      ],
+      "setid": "5f5cfcfe-d52b-49e6-8fe4-550477332dd2",
+      "source": "openfda",
+      "spl_version": 27,
+      "title": "ZUBSOLV (BUPRENORPHINE HYDROCHLORIDE AND NALOXONE HYDROCHLORIDE) TABLET, ORALLY DISINTEGRATING [OREXO US, INC.]",
+      "upload_date": "2025-12-31"
+    },
+    {
+      "application_numbers": [
+        "NDA204242"
+      ],
+      "brand_names": [
+        "Zubsolv"
+      ],
+      "combination": true,
+      "home_inn": "naloxone",
+      "ingredients": [
+        "BUPRENORPHINE HYDROCHLORIDE",
+        "NALOXONE HYDROCHLORIDE"
+      ],
+      "labeler": "Edenbridge Pharmaceuticals LLC.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2026-06-12",
+      "moieties": [
+        "BUPRENORPHINE",
+        "NALOXONE"
+      ],
+      "product_ndcs": [
+        "82111-201",
+        "82111-202",
+        "82111-203",
+        "82111-204",
+        "82111-205",
+        "82111-206"
+      ],
+      "rxcui": [
+        "1431076",
+        "1431083",
+        "1431102",
+        "1431104",
+        "1597568",
+        "1597570",
+        "1597573",
+        "1597575",
+        "1666338",
+        "1666385",
+        "1864412",
+        "1864414"
+      ],
+      "setid": "57583c1d-9c44-4503-917d-68dba7377bd1",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "ZUBSOLV (BUPRENORPHINE HYDROCHLORIDE AND NALOXONE HYDROCHLORIDE) TABLET, ORALLY DISINTEGRATING [EDENBRIDGE PHARMACEUTICALS LLC.]",
+      "upload_date": "2026-06-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA070299"
+      ],
+      "brand_names": [
+        "Naloxone Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "naloxone",
+      "ingredients": [
+        "NALOXONE HYDROCHLORIDE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1986-09-24",
+      "moieties": [
+        "NALOXONE"
+      ],
+      "product_ndcs": [
+        "0641-6132"
+      ],
+      "rxcui": [
+        "1659929"
+      ],
+      "setid": "8cc25cf1-008c-4808-baec-49f35a887fae",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "NALOXONE HYDROCHLORIDE (NALXONE HYDROCHLORIDE) INJECTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2020-04-20"
+    },
+    {
+      "application_numbers": [
+        "ANDA072076"
+      ],
+      "brand_names": [
+        "Naloxone Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "naloxone",
+      "ingredients": [
+        "NALOXONE HYDROCHLORIDE"
+      ],
+      "labeler": "International Medication Systems, Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1988-04-01",
+      "moieties": [
+        "NALOXONE"
+      ],
+      "product_ndcs": [
+        "76329-1469",
+        "76329-3369"
+      ],
+      "rxcui": [
+        "1191250"
+      ],
+      "setid": "236349ef-2cb5-47ca-a3a5-99534c3a4996",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "NALOXONE HYDROCHLORIDE INJECTION [INTERNATIONAL MEDICATION SYSTEMS, LIMITED ]",
+      "upload_date": "2024-12-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA070256",
+        "ANDA070257"
+      ],
+      "brand_names": [
+        "Naloxone Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "naloxone",
+      "ingredients": [
+        "NALOXONE HYDROCHLORIDE"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2005-07-12",
+      "moieties": [
+        "NALOXONE"
+      ],
+      "product_ndcs": [
+        "0409-1215",
+        "0409-1219"
+      ],
+      "rxcui": [
+        "1191222",
+        "1659929"
+      ],
+      "setid": "8535cc84-ad4a-4d67-8480-fb5a2e3406f8",
+      "source": "openfda",
+      "spl_version": 35,
+      "title": "NALOXONE HYDROCHLORIDE INJECTION, SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2026-05-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA070172"
+      ],
+      "brand_names": [
+        "Naloxone Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "naloxone",
+      "ingredients": [
+        "NALOXONE HYDROCHLORIDE"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2005-09-23",
+      "moieties": [
+        "NALOXONE"
+      ],
+      "product_ndcs": [
+        "0409-1782"
+      ],
+      "rxcui": [
+        "1191234"
+      ],
+      "setid": "b598c237-032d-4bb5-0e92-50eabd863dac",
+      "source": "openfda",
+      "spl_version": 23,
+      "title": "NALOXONE HYDROCHLORIDE INJECTION, SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2023-06-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA204997"
+      ],
+      "brand_names": [
+        "Naloxone Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "naloxone",
+      "ingredients": [
+        "NALOXONE HYDROCHLORIDE"
+      ],
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-03-06",
+      "moieties": [
+        "NALOXONE"
+      ],
+      "product_ndcs": [
+        "67457-292"
+      ],
+      "rxcui": [
+        "1659929"
+      ],
+      "setid": "f0932877-1f3b-4d5e-82d2-dd6c53db4730",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "NALOXONE HYDROCHLORIDE INJECTION, SOLUTION [MYLAN INSTITUTIONAL LLC]",
+      "upload_date": "2021-04-27"
+    },
+    {
+      "application_numbers": [
+        "ANDA205014"
+      ],
+      "brand_names": [
+        "Naloxone Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "naloxone",
+      "ingredients": [
+        "NALOXONE HYDROCHLORIDE"
+      ],
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-09-14",
+      "moieties": [
+        "NALOXONE"
+      ],
+      "product_ndcs": [
+        "67457-299"
+      ],
+      "rxcui": [
+        "1191222"
+      ],
+      "setid": "d96ebf2e-1051-4b5b-b1c6-2543dbbb2d04",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "NALOXONE HYDROCHLORIDE INJECTION, SOLUTION [MYLAN INSTITUTIONAL LLC]",
+      "upload_date": "2021-08-26"
+    },
+    {
+      "application_numbers": [
+        "NDA212854"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "ZIMHI"
+      ],
+      "first_posted": "2022-01-19",
+      "found_by": "ZIMHI",
+      "labeler": "USWM, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2024-06-21",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-10-31"
+      ],
+      "product_ndcs": [
+        "78670-140"
+      ],
+      "rxcui": [],
+      "setid": "52e49022-9172-4da3-ba83-5995cacca9fb",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "523c0909-bff6-4010-988a-53de18b7cb3f"
+      ],
+      "title": "ZIMHI (naloxone hydrochloride) injection, solution"
+    },
+    {
+      "application_numbers": [
+        "NDA209862"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "EVZIO"
+      ],
+      "first_posted": "2016-11-02",
+      "found_by": "EVZIO",
+      "labeler": "kaleo, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2021-04-14",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-09-30"
+      ],
+      "product_ndcs": [
+        "60842-051"
+      ],
+      "rxcui": [],
+      "setid": "5fbe8d17-a72f-406d-a736-48e61620f9d8",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "EVZIO (naloxone hydrochloride) injection, solution"
+    },
+    {
+      "application_numbers": [
+        "NDA212854"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "ZIMHI"
+      ],
+      "first_posted": "2022-01-17",
+      "found_by": "ZIMHI",
+      "labeler": "Adamis Pharmaceuticals",
+      "labeler_unverified": true,
+      "last_posted": "2022-03-15",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-03-14"
+      ],
+      "product_ndcs": [
+        "38739-600"
+      ],
+      "rxcui": [],
+      "setid": "b9cbcc31-68aa-4929-bfb8-c3c058715f19",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "523c0909-bff6-4010-988a-53de18b7cb3f"
+      ],
+      "title": "ZIMHI (naloxone hydrochloride) injection, solution"
+    },
+    {
+      "application_numbers": [
+        "NDA016636"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "NARCAN"
+      ],
+      "first_posted": "2006-09-01",
+      "found_by": "NARCAN",
+      "labeler": "Endo Pharmaceuticals Inc",
+      "labeler_unverified": false,
+      "last_posted": "2012-01-24",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2009-03-27"
+      ],
+      "product_ndcs": [
+        "63481-358",
+        "63481-359",
+        "63481-365",
+        "63481-368",
+        "63481-377"
+      ],
+      "rxcui": [],
+      "setid": "cedc622c-7f96-4fc8-a621-a5c602946396",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "NARCAN (naloxone hydrochloride) injection"
+    },
+    {
+      "application_numbers": [
+        "NDA205787"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "EVZIO"
+      ],
+      "first_posted": "2014-04-18",
+      "found_by": "EVZIO",
+      "labeler": "kaleo, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2017-11-29",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-05-31"
+      ],
+      "product_ndcs": [
+        "60842-030"
+      ],
+      "rxcui": [],
+      "setid": "df501ed0-c0f4-11e3-8a33-0800200c9a66",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "EVZIO (naloxone hydrochloride) injection, solution"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b59ee3cc-9604-4abc-81be-897e2f42aa67"
+    },
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c7fa8d4f-28a7-4ef5-aef8-cbd4328ce599"
+    },
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2725b9c0-5b1e-498b-9ec5-ee76a62e656a"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b1303f15-c48b-a44d-b28a-72f370094e02"
+    },
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8bcf426a-b4fc-4f24-9ad0-fb26168a0b56"
+    },
+    {
+      "combination": false,
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d04ae2d7-01b9-405d-bb7a-bf2d876ce26a"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e6467385-6990-498c-8a0e-f4a40ef33cb7"
+    },
+    {
+      "combination": false,
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3d8813be-6d22-46f1-ac25-0d8a817a521c"
+    },
+    {
+      "combination": false,
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7faaedb3-227b-408d-b772-6b326638b00e"
+    },
+    {
+      "combination": false,
+      "labeler": "BPI Labs LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5de44ee7-6525-4857-9a67-8882e96dbeb5"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ef647e2a-84e7-4e3e-942a-b6fc250141b6"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "201fdedf-1736-4e52-9d7d-de14292547fd"
+    },
+    {
+      "combination": false,
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3ae08e26-223b-4971-b2f1-f1e183a3f930"
+    },
+    {
+      "combination": true,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a28450a0-ac93-4235-b9a6-58cdf24773cb"
+    },
+    {
+      "combination": true,
+      "labeler": "Lupin Pharmaceuticals,Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "017ef042-40aa-44c9-baa8-037f06356845"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "17b63f10-c9df-44be-80fa-6f1c305583b8"
+    },
+    {
+      "combination": true,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6cccf229-9611-4b6f-8f1b-acc8ff1ed3f8"
+    },
+    {
+      "combination": true,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "713db2c6-0544-4633-b874-cfbeaf93db89"
+    },
+    {
+      "combination": true,
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "14eaa94a-cc8a-4e1e-8cfb-5c976c96c606"
+    },
+    {
+      "combination": true,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "91b68606-05de-4586-ae31-07e8cc9160cf"
+    },
+    {
+      "combination": true,
+      "labeler": "SpecGx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "62abde41-46cb-4e90-a798-23d6531bf9aa"
+    },
+    {
+      "combination": true,
+      "labeler": "Dr.Reddys Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "718756d7-0131-b173-6c45-5ee039b311b0"
+    },
+    {
+      "combination": true,
+      "labeler": "Dr.Reddys Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "72dc1ec0-7c59-a587-4ffd-c40ef79e6fb2"
+    },
+    {
+      "combination": true,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "41ebdaaf-3bbc-419f-b996-0341efc14623"
+    },
+    {
+      "combination": true,
+      "labeler": "Alvogen Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4210afeb-474c-d842-d68e-af7e0021851a"
+    },
+    {
+      "combination": true,
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "557d8d4d-8751-431c-b18e-9d5cf23fc579"
+    },
+    {
+      "combination": true,
+      "labeler": "Rhodes Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "794724a6-0fba-bc8d-ecdb-9e3be8ea2191"
+    },
+    {
+      "combination": true,
+      "labeler": "Accord Healthcare, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "35d29e9b-9950-452a-a795-5a7514f0edfd"
+    },
+    {
+      "combination": true,
+      "labeler": "INGENUS PHARMACEUTICALS, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4951ec29-609b-4836-b0e4-0d9c1d6ae6fe"
+    },
+    {
+      "combination": true,
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d5b011ef-f1be-47f2-8f8b-07553f36193c"
+    },
+    {
+      "combination": true,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5ab2d4e4-3c8c-413a-b147-23eafbde313a"
+    },
+    {
+      "combination": true,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "221195e4-de08-414c-af08-a611a74789de"
+    },
+    {
+      "combination": true,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2e807ed0-6df3-47b5-b7ee-b421c5bf0aa7"
+    },
+    {
+      "combination": false,
+      "labeler": "International Medication Systems, Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d2f5bfa0-933e-46d0-8b1a-9f90e6aaba54"
+    },
+    {
+      "combination": false,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dfa48492-d83b-48cc-9ad1-bdc0c2ac9931"
+    },
+    {
+      "combination": false,
+      "labeler": "Civica, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "21d20dff-6efe-481e-a5a0-9c80ded73ca9"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1bef59b9-7d51-4f19-a054-44b8eb6c6398"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d4c44b74-4e36-4b63-80eb-64ce99ccb39f"
+    },
+    {
+      "combination": false,
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "48137634-91d7-41e3-b54b-e4321d69668a"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "aef6719c-cd71-46ee-b7b1-1806b939bf3e"
+    },
+    {
+      "combination": true,
+      "labeler": "Aveva Drug Delivery Systems Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cb112448-49a1-4209-bcdb-7cfae6501f51"
+    }
+  ]
+}

@@ -1,0 +1,559 @@
+{
+  "visual": "03-label-churn",
+  "inputs": {
+    "us_head": "52a5f8078918180d0dc32992928b18b8854ad099",
+    "us_record_from": "2006-07-13",
+    "us_record_to": "2026-10-30",
+    "build_date": "2026-11-07",
+    "us_labels": 5393,
+    "us_versions": 47287
+  },
+  "rule": "a section change is a section file added, modified or deleted in a commit (one per LOINC code per commit), excluding each setid's first version, commits with a Format-Conversion trailer and label.json; year = Published-Date year; live labels in a year = setids first published on or before 31 Dec that are current or whose last version is on or after 1 Jan",
+  "group_codes": {
+    "Boxed warning": [
+      "34066-1"
+    ],
+    "Indications": [
+      "34067-9"
+    ],
+    "Dosage": [
+      "34068-7"
+    ],
+    "Contraindications": [
+      "34070-3"
+    ],
+    "Warnings and precautions": [
+      "43685-7",
+      "34071-1",
+      "42232-9"
+    ],
+    "Adverse reactions": [
+      "34084-4"
+    ],
+    "Drug interactions": [
+      "34073-7"
+    ],
+    "Use in specific populations": [
+      "43684-0"
+    ],
+    "Other": "everything else"
+  },
+  "years": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "groups": [
+    "Boxed warning",
+    "Indications",
+    "Dosage",
+    "Contraindications",
+    "Warnings and precautions",
+    "Adverse reactions",
+    "Drug interactions",
+    "Use in specific populations",
+    "Other"
+  ],
+  "rows": [
+    {
+      "year": 2009,
+      "live_labels": 1229,
+      "changes": {
+        "Boxed warning": 81,
+        "Indications": 143,
+        "Dosage": 225,
+        "Contraindications": 90,
+        "Warnings and precautions": 332,
+        "Adverse reactions": 312,
+        "Drug interactions": 43,
+        "Use in specific populations": 58,
+        "Other": 2164
+      },
+      "per_100": {
+        "Boxed warning": 6.59,
+        "Indications": 11.64,
+        "Dosage": 18.31,
+        "Contraindications": 7.32,
+        "Warnings and precautions": 27.01,
+        "Adverse reactions": 25.39,
+        "Drug interactions": 3.5,
+        "Use in specific populations": 4.72,
+        "Other": 176.08
+      },
+      "clinical_per_label": 1.04,
+      "total_per_100": 280.55
+    },
+    {
+      "year": 2010,
+      "live_labels": 1520,
+      "changes": {
+        "Boxed warning": 122,
+        "Indications": 207,
+        "Dosage": 332,
+        "Contraindications": 150,
+        "Warnings and precautions": 520,
+        "Adverse reactions": 447,
+        "Drug interactions": 94,
+        "Use in specific populations": 116,
+        "Other": 3298
+      },
+      "per_100": {
+        "Boxed warning": 8.03,
+        "Indications": 13.62,
+        "Dosage": 21.84,
+        "Contraindications": 9.87,
+        "Warnings and precautions": 34.21,
+        "Adverse reactions": 29.41,
+        "Drug interactions": 6.18,
+        "Use in specific populations": 7.63,
+        "Other": 216.97
+      },
+      "clinical_per_label": 1.31,
+      "total_per_100": 347.76
+    },
+    {
+      "year": 2011,
+      "live_labels": 1714,
+      "changes": {
+        "Boxed warning": 135,
+        "Indications": 264,
+        "Dosage": 424,
+        "Contraindications": 199,
+        "Warnings and precautions": 675,
+        "Adverse reactions": 583,
+        "Drug interactions": 151,
+        "Use in specific populations": 173,
+        "Other": 4071
+      },
+      "per_100": {
+        "Boxed warning": 7.88,
+        "Indications": 15.4,
+        "Dosage": 24.74,
+        "Contraindications": 11.61,
+        "Warnings and precautions": 39.38,
+        "Adverse reactions": 34.01,
+        "Drug interactions": 8.81,
+        "Use in specific populations": 10.09,
+        "Other": 237.51
+      },
+      "clinical_per_label": 1.52,
+      "total_per_100": 389.44
+    },
+    {
+      "year": 2012,
+      "live_labels": 1912,
+      "changes": {
+        "Boxed warning": 167,
+        "Indications": 300,
+        "Dosage": 462,
+        "Contraindications": 224,
+        "Warnings and precautions": 649,
+        "Adverse reactions": 593,
+        "Drug interactions": 212,
+        "Use in specific populations": 232,
+        "Other": 4294
+      },
+      "per_100": {
+        "Boxed warning": 8.73,
+        "Indications": 15.69,
+        "Dosage": 24.16,
+        "Contraindications": 11.72,
+        "Warnings and precautions": 33.94,
+        "Adverse reactions": 31.01,
+        "Drug interactions": 11.09,
+        "Use in specific populations": 12.13,
+        "Other": 224.58
+      },
+      "clinical_per_label": 1.48,
+      "total_per_100": 373.06
+    },
+    {
+      "year": 2013,
+      "live_labels": 2043,
+      "changes": {
+        "Boxed warning": 200,
+        "Indications": 366,
+        "Dosage": 548,
+        "Contraindications": 293,
+        "Warnings and precautions": 751,
+        "Adverse reactions": 733,
+        "Drug interactions": 254,
+        "Use in specific populations": 294,
+        "Other": 4885
+      },
+      "per_100": {
+        "Boxed warning": 9.79,
+        "Indications": 17.91,
+        "Dosage": 26.82,
+        "Contraindications": 14.34,
+        "Warnings and precautions": 36.76,
+        "Adverse reactions": 35.88,
+        "Drug interactions": 12.43,
+        "Use in specific populations": 14.39,
+        "Other": 239.11
+      },
+      "clinical_per_label": 1.68,
+      "total_per_100": 407.44
+    },
+    {
+      "year": 2014,
+      "live_labels": 2182,
+      "changes": {
+        "Boxed warning": 150,
+        "Indications": 359,
+        "Dosage": 557,
+        "Contraindications": 260,
+        "Warnings and precautions": 745,
+        "Adverse reactions": 706,
+        "Drug interactions": 298,
+        "Use in specific populations": 355,
+        "Other": 4961
+      },
+      "per_100": {
+        "Boxed warning": 6.87,
+        "Indications": 16.45,
+        "Dosage": 25.53,
+        "Contraindications": 11.92,
+        "Warnings and precautions": 34.14,
+        "Adverse reactions": 32.36,
+        "Drug interactions": 13.66,
+        "Use in specific populations": 16.27,
+        "Other": 227.36
+      },
+      "clinical_per_label": 1.57,
+      "total_per_100": 384.56
+    },
+    {
+      "year": 2015,
+      "live_labels": 2342,
+      "changes": {
+        "Boxed warning": 190,
+        "Indications": 429,
+        "Dosage": 654,
+        "Contraindications": 319,
+        "Warnings and precautions": 825,
+        "Adverse reactions": 817,
+        "Drug interactions": 362,
+        "Use in specific populations": 440,
+        "Other": 5774
+      },
+      "per_100": {
+        "Boxed warning": 8.11,
+        "Indications": 18.32,
+        "Dosage": 27.92,
+        "Contraindications": 13.62,
+        "Warnings and precautions": 35.23,
+        "Adverse reactions": 34.88,
+        "Drug interactions": 15.46,
+        "Use in specific populations": 18.79,
+        "Other": 246.54
+      },
+      "clinical_per_label": 1.72,
+      "total_per_100": 418.87
+    },
+    {
+      "year": 2016,
+      "live_labels": 2532,
+      "changes": {
+        "Boxed warning": 224,
+        "Indications": 474,
+        "Dosage": 698,
+        "Contraindications": 345,
+        "Warnings and precautions": 900,
+        "Adverse reactions": 856,
+        "Drug interactions": 357,
+        "Use in specific populations": 486,
+        "Other": 6213
+      },
+      "per_100": {
+        "Boxed warning": 8.85,
+        "Indications": 18.72,
+        "Dosage": 27.57,
+        "Contraindications": 13.63,
+        "Warnings and precautions": 35.55,
+        "Adverse reactions": 33.81,
+        "Drug interactions": 14.1,
+        "Use in specific populations": 19.19,
+        "Other": 245.38
+      },
+      "clinical_per_label": 1.71,
+      "total_per_100": 416.79
+    },
+    {
+      "year": 2017,
+      "live_labels": 2727,
+      "changes": {
+        "Boxed warning": 323,
+        "Indications": 570,
+        "Dosage": 832,
+        "Contraindications": 439,
+        "Warnings and precautions": 1153,
+        "Adverse reactions": 1100,
+        "Drug interactions": 459,
+        "Use in specific populations": 618,
+        "Other": 7503
+      },
+      "per_100": {
+        "Boxed warning": 11.84,
+        "Indications": 20.9,
+        "Dosage": 30.51,
+        "Contraindications": 16.1,
+        "Warnings and precautions": 42.28,
+        "Adverse reactions": 40.34,
+        "Drug interactions": 16.83,
+        "Use in specific populations": 22.66,
+        "Other": 275.14
+      },
+      "clinical_per_label": 2.01,
+      "total_per_100": 476.6
+    },
+    {
+      "year": 2018,
+      "live_labels": 2926,
+      "changes": {
+        "Boxed warning": 246,
+        "Indications": 453,
+        "Dosage": 809,
+        "Contraindications": 351,
+        "Warnings and precautions": 1055,
+        "Adverse reactions": 979,
+        "Drug interactions": 457,
+        "Use in specific populations": 630,
+        "Other": 7785
+      },
+      "per_100": {
+        "Boxed warning": 8.41,
+        "Indications": 15.48,
+        "Dosage": 27.65,
+        "Contraindications": 12.0,
+        "Warnings and precautions": 36.06,
+        "Adverse reactions": 33.46,
+        "Drug interactions": 15.62,
+        "Use in specific populations": 21.53,
+        "Other": 266.06
+      },
+      "clinical_per_label": 1.7,
+      "total_per_100": 436.26
+    },
+    {
+      "year": 2019,
+      "live_labels": 3104,
+      "changes": {
+        "Boxed warning": 283,
+        "Indications": 594,
+        "Dosage": 931,
+        "Contraindications": 370,
+        "Warnings and precautions": 1174,
+        "Adverse reactions": 1142,
+        "Drug interactions": 545,
+        "Use in specific populations": 901,
+        "Other": 8492
+      },
+      "per_100": {
+        "Boxed warning": 9.12,
+        "Indications": 19.14,
+        "Dosage": 29.99,
+        "Contraindications": 11.92,
+        "Warnings and precautions": 37.82,
+        "Adverse reactions": 36.79,
+        "Drug interactions": 17.56,
+        "Use in specific populations": 29.03,
+        "Other": 273.58
+      },
+      "clinical_per_label": 1.91,
+      "total_per_100": 464.95
+    },
+    {
+      "year": 2020,
+      "live_labels": 3219,
+      "changes": {
+        "Boxed warning": 218,
+        "Indications": 510,
+        "Dosage": 902,
+        "Contraindications": 342,
+        "Warnings and precautions": 1066,
+        "Adverse reactions": 1059,
+        "Drug interactions": 421,
+        "Use in specific populations": 763,
+        "Other": 7837
+      },
+      "per_100": {
+        "Boxed warning": 6.77,
+        "Indications": 15.84,
+        "Dosage": 28.02,
+        "Contraindications": 10.62,
+        "Warnings and precautions": 33.12,
+        "Adverse reactions": 32.9,
+        "Drug interactions": 13.08,
+        "Use in specific populations": 23.7,
+        "Other": 243.46
+      },
+      "clinical_per_label": 1.64,
+      "total_per_100": 407.52
+    },
+    {
+      "year": 2021,
+      "live_labels": 3382,
+      "changes": {
+        "Boxed warning": 214,
+        "Indications": 481,
+        "Dosage": 872,
+        "Contraindications": 373,
+        "Warnings and precautions": 1032,
+        "Adverse reactions": 1029,
+        "Drug interactions": 471,
+        "Use in specific populations": 696,
+        "Other": 7458
+      },
+      "per_100": {
+        "Boxed warning": 6.33,
+        "Indications": 14.22,
+        "Dosage": 25.78,
+        "Contraindications": 11.03,
+        "Warnings and precautions": 30.51,
+        "Adverse reactions": 30.43,
+        "Drug interactions": 13.93,
+        "Use in specific populations": 20.58,
+        "Other": 220.52
+      },
+      "clinical_per_label": 1.53,
+      "total_per_100": 373.33
+    },
+    {
+      "year": 2022,
+      "live_labels": 3555,
+      "changes": {
+        "Boxed warning": 134,
+        "Indications": 332,
+        "Dosage": 633,
+        "Contraindications": 254,
+        "Warnings and precautions": 711,
+        "Adverse reactions": 780,
+        "Drug interactions": 323,
+        "Use in specific populations": 471,
+        "Other": 5885
+      },
+      "per_100": {
+        "Boxed warning": 3.77,
+        "Indications": 9.34,
+        "Dosage": 17.81,
+        "Contraindications": 7.14,
+        "Warnings and precautions": 20.0,
+        "Adverse reactions": 21.94,
+        "Drug interactions": 9.09,
+        "Use in specific populations": 13.25,
+        "Other": 165.54
+      },
+      "clinical_per_label": 1.02,
+      "total_per_100": 267.88
+    },
+    {
+      "year": 2023,
+      "live_labels": 3719,
+      "changes": {
+        "Boxed warning": 250,
+        "Indications": 435,
+        "Dosage": 757,
+        "Contraindications": 335,
+        "Warnings and precautions": 872,
+        "Adverse reactions": 944,
+        "Drug interactions": 409,
+        "Use in specific populations": 622,
+        "Other": 7077
+      },
+      "per_100": {
+        "Boxed warning": 6.72,
+        "Indications": 11.7,
+        "Dosage": 20.35,
+        "Contraindications": 9.01,
+        "Warnings and precautions": 23.45,
+        "Adverse reactions": 25.38,
+        "Drug interactions": 11.0,
+        "Use in specific populations": 16.72,
+        "Other": 190.29
+      },
+      "clinical_per_label": 1.24,
+      "total_per_100": 314.63
+    },
+    {
+      "year": 2024,
+      "live_labels": 3849,
+      "changes": {
+        "Boxed warning": 240,
+        "Indications": 466,
+        "Dosage": 815,
+        "Contraindications": 327,
+        "Warnings and precautions": 1010,
+        "Adverse reactions": 1058,
+        "Drug interactions": 391,
+        "Use in specific populations": 667,
+        "Other": 7319
+      },
+      "per_100": {
+        "Boxed warning": 6.24,
+        "Indications": 12.11,
+        "Dosage": 21.17,
+        "Contraindications": 8.5,
+        "Warnings and precautions": 26.24,
+        "Adverse reactions": 27.49,
+        "Drug interactions": 10.16,
+        "Use in specific populations": 17.33,
+        "Other": 190.15
+      },
+      "clinical_per_label": 1.29,
+      "total_per_100": 319.38
+    },
+    {
+      "year": 2025,
+      "live_labels": 4009,
+      "changes": {
+        "Boxed warning": 219,
+        "Indications": 486,
+        "Dosage": 785,
+        "Contraindications": 294,
+        "Warnings and precautions": 935,
+        "Adverse reactions": 1015,
+        "Drug interactions": 374,
+        "Use in specific populations": 679,
+        "Other": 6994
+      },
+      "per_100": {
+        "Boxed warning": 5.46,
+        "Indications": 12.12,
+        "Dosage": 19.58,
+        "Contraindications": 7.33,
+        "Warnings and precautions": 23.32,
+        "Adverse reactions": 25.32,
+        "Drug interactions": 9.33,
+        "Use in specific populations": 16.94,
+        "Other": 174.46
+      },
+      "clinical_per_label": 1.19,
+      "total_per_100": 293.86
+    }
+  ],
+  "peak": {
+    "year": 2017,
+    "clinical_per_label": 2.01
+  },
+  "last": {
+    "year": 2025,
+    "clinical_per_label": 1.19
+  },
+  "molecules": 503,
+  "title": "A live US label had 2.0 clinical-section changes in 2017, the busiest year since 2009, and 1.2 in 2025"
+}

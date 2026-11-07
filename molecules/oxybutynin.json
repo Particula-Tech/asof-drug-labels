@@ -1,0 +1,710 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/000532",
+      "eu_number": "EU/1/03/270",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000532",
+      "mah": "Teva B.V. ",
+      "marketing_authorisation_date": "2004-06-15",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/kentera",
+      "name": "Kentera (previously Oxybutynin Nicobrand)",
+      "record_from": "2004-06-15",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 15
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000532",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "OXYBUTYNIN",
+    "OXYBUTYNIN CHLORIDE"
+  ],
+  "inn": "oxybutynin",
+  "name": "OXYBUTYNIN",
+  "rank": 291,
+  "rxcui": [
+    "403799",
+    "404448",
+    "863599",
+    "863619",
+    "863628",
+    "863636",
+    "863664"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 25,
+    "approval_holders": 19,
+    "earliest_marketing_start": "1990-09-30",
+    "latest_label_update": "2026-08-07",
+    "nda_bla_applications": 1,
+    "repackagers": 19
+  },
+  "unii": [
+    {
+      "ingredient": "OXYBUTYNIN",
+      "unii": "K9P6MC7092"
+    },
+    {
+      "ingredient": "OXYBUTYNIN CHLORIDE",
+      "unii": "L9F3D9RENQ"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021351"
+      ],
+      "brand_names": [
+        "OXYTROL"
+      ],
+      "combination": false,
+      "home_inn": "oxybutynin",
+      "ingredients": [
+        "OXYBUTYNIN"
+      ],
+      "labeler": "Allergan, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2003-02-26",
+      "moieties": [
+        "OXYBUTYNIN"
+      ],
+      "product_ndcs": [
+        "0023-6153"
+      ],
+      "rxcui": [
+        "403799",
+        "404448"
+      ],
+      "setid": "20dee37f-1412-44ed-9e8b-f4379ce23eb0",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "OXYTROL (OXYBUTYNIN) PATCH [ALLERGAN, INC.]",
+      "upload_date": "2025-01-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA071655"
+      ],
+      "brand_names": [
+        "Oxybutynin Chloride"
+      ],
+      "combination": false,
+      "home_inn": "oxybutynin",
+      "ingredients": [
+        "OXYBUTYNIN CHLORIDE"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1990-09-30",
+      "moieties": [
+        "OXYBUTYNIN"
+      ],
+      "product_ndcs": [
+        "50111-456"
+      ],
+      "rxcui": [
+        "863664"
+      ],
+      "setid": "cb7aba8d-6913-4f57-8eb4-c6d6ff0b2a29",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "OXYBUTYNIN CHLORIDE TABLET [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2025-07-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA074520"
+      ],
+      "brand_names": [
+        "Oxybutynin Chloride"
+      ],
+      "combination": false,
+      "home_inn": "oxybutynin",
+      "ingredients": [
+        "OXYBUTYNIN CHLORIDE"
+      ],
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1996-03-29",
+      "moieties": [
+        "OXYBUTYNIN"
+      ],
+      "product_ndcs": [
+        "54838-510"
+      ],
+      "rxcui": [
+        "863599"
+      ],
+      "setid": "615f3d95-197c-4fec-b81f-c26449c93c3b",
+      "source": "openfda",
+      "spl_version": 24,
+      "title": "OXYBUTYNIN CHLORIDE SYRUP [LANNETT COMPANY, INC.]",
+      "upload_date": "2025-04-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA075039"
+      ],
+      "brand_names": [
+        "Oxybutynin Chloride"
+      ],
+      "combination": false,
+      "home_inn": "oxybutynin",
+      "ingredients": [
+        "OXYBUTYNIN CHLORIDE"
+      ],
+      "labeler": "Chartwell Governmental & Specialty RX, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1999-01-29",
+      "moieties": [
+        "OXYBUTYNIN"
+      ],
+      "product_ndcs": [
+        "68999-520"
+      ],
+      "rxcui": [
+        "863599"
+      ],
+      "setid": "46e78c72-a5a3-472f-9125-b120fa4eee31",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "OXYBUTYNIN CHLORIDE SOLUTION [CHARTWELL GOVERNMENTAL & SPECIALTY RX, LLC.]",
+      "upload_date": "2026-02-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA078503"
+      ],
+      "brand_names": [
+        "Oxybutynin Chloride Extended Release"
+      ],
+      "combination": false,
+      "home_inn": "oxybutynin",
+      "ingredients": [
+        "OXYBUTYNIN CHLORIDE"
+      ],
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-03-01",
+      "moieties": [
+        "OXYBUTYNIN"
+      ],
+      "product_ndcs": [
+        "62175-270",
+        "62175-271",
+        "62175-272"
+      ],
+      "rxcui": [
+        "863619",
+        "863628",
+        "863636"
+      ],
+      "setid": "c5950dba-d92b-46a0-993f-af9f9ddb52bf",
+      "source": "openfda",
+      "spl_version": 42,
+      "title": "OXYBUTYNIN CHLORIDE EXTENDED RELEASE (OXYBUTYNIN CHLORIDE) TABLET, EXTENDED RELEASE [LANNETT COMPANY, INC.]",
+      "upload_date": "2023-06-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA074625"
+      ],
+      "brand_names": [
+        "Oxybutynin Chloride"
+      ],
+      "combination": false,
+      "home_inn": "oxybutynin",
+      "ingredients": [
+        "OXYBUTYNIN CHLORIDE"
+      ],
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-11-07",
+      "moieties": [
+        "OXYBUTYNIN"
+      ],
+      "product_ndcs": [
+        "0832-0038"
+      ],
+      "rxcui": [
+        "863664"
+      ],
+      "setid": "3ee6835a-7a7d-49a9-8460-2f1dd270ead3",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "OXYBUTYNIN CHLORIDE TABLET [UPSHER-SMITH LABORATORIES, LLC]",
+      "upload_date": "2025-12-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA204010"
+      ],
+      "brand_names": [
+        "Oxybutynin Chloride"
+      ],
+      "combination": false,
+      "home_inn": "oxybutynin",
+      "ingredients": [
+        "OXYBUTYNIN CHLORIDE"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-11-02",
+      "moieties": [
+        "OXYBUTYNIN"
+      ],
+      "product_ndcs": [
+        "65162-371",
+        "65162-372",
+        "65162-373"
+      ],
+      "rxcui": [
+        "863619",
+        "863628",
+        "863636"
+      ],
+      "setid": "53924eba-1919-4203-9a1e-d57dfdd3b963",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "OXYBUTYNIN CHLORIDE TABLET, EXTENDED RELEASE [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2024-10-31"
+    },
+    {
+      "application_numbers": [
+        "NDA020897"
+      ],
+      "archived_versions": 24,
+      "brand_names": [
+        "DITROPAN"
+      ],
+      "first_posted": "2009-09-09",
+      "found_by": "DITROPAN",
+      "labeler": "Janssen Pharmaceuticals, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2022-12-29",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-09-30"
+      ],
+      "product_ndcs": [
+        "50458-805",
+        "50458-810"
+      ],
+      "rxcui": [],
+      "setid": "36cc9115-bef3-48fa-93ff-bcda24cf26e2",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "DITROPAN XL (oxybutynin chloride) tablet, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA022204"
+      ],
+      "archived_versions": 11,
+      "brand_names": [
+        "GELNIQUE"
+      ],
+      "first_posted": "2017-04-04",
+      "found_by": "GELNIQUE",
+      "labeler": "Allergan, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2024-12-20",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2020-10-31",
+        "2024-08-31"
+      ],
+      "product_ndcs": [
+        "0023-5812",
+        "0023-5861"
+      ],
+      "rxcui": [],
+      "setid": "57616d79-9e68-4ec7-a25f-ebee07576351",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "GELNIQUE (oxybutynin chloride) gel"
+    },
+    {
+      "application_numbers": [
+        "NDA020897"
+      ],
+      "archived_versions": 8,
+      "brand_names": [
+        "DITROPAN"
+      ],
+      "first_posted": "2015-11-12",
+      "found_by": "DITROPAN",
+      "labeler": "Patriot Pharmaceuticals, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2019-09-30",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "10147-0761",
+        "10147-0771",
+        "10147-0781"
+      ],
+      "rxcui": [],
+      "setid": "68c23538-e459-42b5-89c7-817c77ff6d31",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "OXYBUTYNIN CHLORIDE tablet, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA017577"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "DITROPAN"
+      ],
+      "first_posted": "2008-03-19",
+      "found_by": "DITROPAN",
+      "labeler": "ALZA Corporation",
+      "labeler_unverified": true,
+      "last_posted": "2012-03-23",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2012-03-19"
+      ],
+      "product_ndcs": [
+        "17314-9200"
+      ],
+      "rxcui": [],
+      "setid": "729ece5e-101d-4a24-8193-66970906e800",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "DITROPAN (oxybutynin chloride) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA021351"
+      ],
+      "archived_versions": 9,
+      "brand_names": [
+        "OXYTROL"
+      ],
+      "first_posted": "2006-08-14",
+      "found_by": "OXYTROL",
+      "labeler": "Actavis Pharma, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2019-01-04",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2020-01-31"
+      ],
+      "product_ndcs": [
+        "52544-920"
+      ],
+      "rxcui": [],
+      "setid": "a162fd5b-b2ab-4d45-8861-71b60b92acb4",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "20dee37f-1412-44ed-9e8b-f4379ce23eb0"
+      ],
+      "title": "OXYTROL (oxybutynin) patch"
+    },
+    {
+      "application_numbers": [
+        "NDA022204"
+      ],
+      "archived_versions": 12,
+      "brand_names": [
+        "GELNIQUE"
+      ],
+      "first_posted": "2009-02-05",
+      "found_by": "GELNIQUE",
+      "labeler": "Actavis Pharma, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2018-06-12",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-06-30"
+      ],
+      "product_ndcs": [
+        "52544-084"
+      ],
+      "rxcui": [],
+      "setid": "acf0324b-2fac-4403-bac8-131b3e1cf5cd",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "GELNIQUE (oxybutynin chloride) gel"
+    },
+    {
+      "application_numbers": [
+        "NDA202513"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "GELNIQUE"
+      ],
+      "first_posted": "2012-04-02",
+      "found_by": "GELNIQUE",
+      "labeler": "Actavis Pharma, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2017-11-28",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2016-12-31"
+      ],
+      "product_ndcs": [
+        "52544-041"
+      ],
+      "rxcui": [],
+      "setid": "c6754623-b14c-4fc3-8719-48eee3119156",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "GELNIQUE (oxybutynin) gel"
+    },
+    {
+      "application_numbers": [
+        "NDA020897"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "DITROPAN"
+      ],
+      "first_posted": "2008-05-07",
+      "found_by": "DITROPAN",
+      "labeler": "ALZA Corporation",
+      "labeler_unverified": true,
+      "last_posted": "2012-05-29",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2010-01-31",
+        "2010-02-28",
+        "2010-12-31"
+      ],
+      "product_ndcs": [
+        "17314-8500",
+        "17314-8501",
+        "17314-8502"
+      ],
+      "rxcui": [],
+      "setid": "e1e7d3e3-bb89-4bc2-aa63-26f367760fee",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "DITROPAN XL (oxybutynin chloride) tablet, extended release"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ab431781-3183-4638-b656-f40a61f07940"
+    },
+    {
+      "combination": false,
+      "labeler": "Accord Healthcare, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "61496a1e-17bf-4f45-a20c-5bb98fe545ee"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c042bf06-79a3-4dc7-ae05-3ef3cfae9d44"
+    },
+    {
+      "combination": false,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3b1f5585-9b33-4a96-bf33-8e6bab14bf0c"
+    },
+    {
+      "combination": false,
+      "labeler": "KVK-Tech, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f99fdfe8-a980-4a72-bc99-aa2ce0bdfd86"
+    },
+    {
+      "combination": false,
+      "labeler": "RISING PHARMA HOLDINGS, INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f8ed80f2-6c3d-4d7f-b761-c2447973c1f9"
+    },
+    {
+      "combination": false,
+      "labeler": "TruPharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7c497c6c-2448-2c80-e053-2991aa0ab8c7"
+    },
+    {
+      "combination": false,
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "95c2a144-ba0d-4011-ae0f-0e0ca876e8a8"
+    },
+    {
+      "combination": false,
+      "labeler": "Leading Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b73b8338-8045-448f-87a6-3d289227d00e"
+    },
+    {
+      "combination": false,
+      "labeler": "Advagen Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7bd31561-4c76-4c6b-819b-492549886673"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9a551ec5-7e80-47c9-a7b9-f458c1478174"
+    },
+    {
+      "combination": false,
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9ede5def-d185-4e40-9c10-8663ac654caf"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "73d715dc-868d-4194-b668-4c39ababa698"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d02e411b-2f34-4d08-a92a-9762cab47269"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e464c8dd-5222-4a6b-b7e9-ca608a403c6e"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f405a774-bd91-4513-b7c7-c44f0596d988"
+    },
+    {
+      "combination": false,
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ac10c7b7-d0cb-4068-93e2-c0e51f15866e"
+    },
+    {
+      "combination": false,
+      "labeler": "RISING PHARMA HOLDINGS, INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9578b6b8-5b9d-4263-9142-39b2c7216b85"
+    }
+  ]
+}

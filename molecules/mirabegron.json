@@ -1,0 +1,310 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/002388",
+      "eu_number": "EU/1/12/809",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-002388",
+      "mah": "Astellas Pharma Europe B.V.",
+      "marketing_authorisation_date": "2012-12-20",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/betmiga",
+      "name": "Betmiga",
+      "record_from": "2012-12-20",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 12
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-002388",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "MIRABEGRON"
+  ],
+  "inn": "mirabegron",
+  "name": "MIRABEGRON",
+  "rank": 458,
+  "rxcui": [
+    "1300791",
+    "1300797",
+    "1300801",
+    "1300803",
+    "2541233",
+    "2541237"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 7,
+    "approval_holders": 7,
+    "earliest_marketing_start": "2012-06-28",
+    "latest_label_update": "2026-06-15",
+    "nda_bla_applications": 2,
+    "repackagers": 2
+  },
+  "unii": [
+    {
+      "ingredient": "MIRABEGRON",
+      "unii": "MVR3JL3B2V"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA202611",
+        "NDA213801"
+      ],
+      "brand_names": [
+        "Myrbetriq"
+      ],
+      "combination": false,
+      "home_inn": "mirabegron",
+      "ingredients": [
+        "MIRABEGRON"
+      ],
+      "labeler": "Astellas Pharma US, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2012-06-28",
+      "moieties": [
+        "MIRABEGRON"
+      ],
+      "product_ndcs": [
+        "0469-2601",
+        "0469-2602",
+        "0469-5020"
+      ],
+      "rxcui": [
+        "1300791",
+        "1300797",
+        "1300801",
+        "1300803",
+        "2541233",
+        "2541237"
+      ],
+      "setid": "ba9e9e15-e666-4c56-9271-2e24739cfa2d",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "MYRBETRIQ (MIRABEGRON) TABLET, FILM COATED, EXTENDED RELEASE MYRBETRIQ (MIRABEGRON) GRANULE, FOR SUSPENSION, EXTENDED RELEASE [ASTELLAS PHARMA US, INC.]",
+      "upload_date": "2024-08-20"
+    },
+    {
+      "application_numbers": [
+        "ANDA209488"
+      ],
+      "brand_names": [
+        "Mirabegron"
+      ],
+      "combination": false,
+      "home_inn": "mirabegron",
+      "ingredients": [
+        "MIRABEGRON"
+      ],
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-01-23",
+      "moieties": [
+        "MIRABEGRON"
+      ],
+      "product_ndcs": [
+        "70710-1159",
+        "70710-1160"
+      ],
+      "rxcui": [
+        "1300791",
+        "1300801"
+      ],
+      "setid": "2e40eb74-3b2a-47f7-bf31-fe27484f9bd2",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "MIRABEGRON TABLET, EXTENDED RELEASE [ZYDUS PHARMACEUTICALS (USA) INC.]",
+      "upload_date": "2024-10-14"
+    },
+    {
+      "application_numbers": [
+        "ANDA209485"
+      ],
+      "brand_names": [
+        "MIRABEGRON"
+      ],
+      "combination": false,
+      "home_inn": "mirabegron",
+      "ingredients": [
+        "MIRABEGRON"
+      ],
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-04-19",
+      "moieties": [
+        "MIRABEGRON"
+      ],
+      "product_ndcs": [
+        "68180-151",
+        "68180-152"
+      ],
+      "rxcui": [
+        "1300791",
+        "1300801"
+      ],
+      "setid": "d22d3d12-8466-46db-bc19-d13e87c6115c",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "MIRABEGRON TABLET, FILM COATED, EXTENDED RELEASE [LUPIN PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-12-31"
+    },
+    {
+      "application_numbers": [
+        "ANDA217989"
+      ],
+      "brand_names": [
+        "Mirabegron",
+        "Mirabgeorn"
+      ],
+      "combination": false,
+      "home_inn": "mirabegron",
+      "ingredients": [
+        "MIRABEGRON"
+      ],
+      "labeler": "Qilu Pharmaceutical Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-06-30",
+      "moieties": [
+        "MIRABEGRON"
+      ],
+      "product_ndcs": [
+        "67184-0571",
+        "67184-0572"
+      ],
+      "rxcui": [
+        "1300791",
+        "1300801"
+      ],
+      "setid": "98247602-29b9-4621-8eeb-519e40b883b9",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "MIRABEGRON TABLET, FILM COATED, EXTENDED RELEASE MIRABGEORN (MIRABEGRON) TABLET, FILM COATED, EXTENDED RELEASE [QILU PHARMACEUTICAL CO., LTD.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA218543"
+      ],
+      "brand_names": [
+        "Mirabegron"
+      ],
+      "combination": false,
+      "home_inn": "mirabegron",
+      "ingredients": [
+        "MIRABEGRON"
+      ],
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-04-19",
+      "moieties": [
+        "MIRABEGRON"
+      ],
+      "product_ndcs": [
+        "69238-2860",
+        "69238-2861"
+      ],
+      "rxcui": [
+        "1300791",
+        "1300801"
+      ],
+      "setid": "e597023d-6dcc-4d9e-8ce0-2d28a5d862f3",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "MIRABEGRON TABLET, FILM COATED, EXTENDED RELEASE [AMNEAL PHARMACEUTICALS NY LLC]",
+      "upload_date": "2026-04-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA219323"
+      ],
+      "brand_names": [
+        "Mirabegron"
+      ],
+      "combination": false,
+      "home_inn": "mirabegron",
+      "ingredients": [
+        "MIRABEGRON"
+      ],
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-06-15",
+      "moieties": [
+        "MIRABEGRON"
+      ],
+      "product_ndcs": [
+        "67877-890"
+      ],
+      "rxcui": [
+        "2541233"
+      ],
+      "setid": "1c9022af-4841-4f3f-9737-1c5eef58e86b",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "MIRABEGRON FOR SUSPENSION, EXTENDED RELEASE [ASCEND LABORATORIES, LLC]",
+      "upload_date": "2026-06-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA209488"
+      ],
+      "brand_names": [
+        "Mirabegron"
+      ],
+      "combination": false,
+      "home_inn": "mirabegron",
+      "ingredients": [
+        "MIRABEGRON"
+      ],
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-01-23",
+      "moieties": [
+        "MIRABEGRON"
+      ],
+      "product_ndcs": [
+        "70771-1752",
+        "70771-1753"
+      ],
+      "rxcui": [
+        "1300791",
+        "1300801"
+      ],
+      "setid": "461b2b94-205a-4860-9cb4-d30267ada9df",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "MIRABEGRON TABLET, EXTENDED RELEASE [ZYDUS LIFESCIENCES LIMITED]",
+      "upload_date": "2024-10-14"
+    }
+  ],
+  "us_excluded": []
+}

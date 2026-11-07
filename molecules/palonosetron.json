@@ -1,0 +1,621 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand ALOXI",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000563",
+      "eu_number": "EU/1/04/306",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000563",
+      "mah": "Helsinn Birex Pharmaceuticals Ltd.",
+      "marketing_authorisation_date": "2005-03-22",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/aloxi",
+      "name": "Aloxi",
+      "record_from": "2005-03-22",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 11
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/004129",
+      "eu_number": "EU/1/16/1104",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-004129",
+      "mah": "Accord Healthcare S.L.U.",
+      "marketing_authorisation_date": "2016-05-26",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/palonosetron-accord",
+      "name": "Palonosetron Accord",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 1,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000563",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "PALONOSETRON",
+    "PALONOSETRON HYDROCHLORIDE"
+  ],
+  "inn": "palonosetron",
+  "name": "PALONOSETRON",
+  "rank": 338,
+  "rxcui": [
+    "1552343",
+    "1552349",
+    "1728050",
+    "1728055",
+    "2044429",
+    "2044431",
+    "2374366",
+    "2374368",
+    "2688837",
+    "2688839"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 19,
+    "approval_holders": 16,
+    "earliest_marketing_start": "2014-10-13",
+    "latest_label_update": "2026-08-28",
+    "nda_bla_applications": 3,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "PALONOSETRON HYDROCHLORIDE",
+      "unii": "23310D4I19"
+    }
+  ],
+  "unii_unresolved": [
+    "PALONOSETRON"
+  ],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA203050"
+      ],
+      "brand_names": [
+        "posfrea"
+      ],
+      "combination": false,
+      "home_inn": "palonosetron",
+      "ingredients": [
+        "PALONOSETRON HYDROCHLORIDE"
+      ],
+      "labeler": "Avyxa Pharma, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-09-30",
+      "moieties": [
+        "PALONOSETRON"
+      ],
+      "product_ndcs": [
+        "83831-105"
+      ],
+      "rxcui": [
+        "1728050",
+        "1728055",
+        "2688837",
+        "2688839"
+      ],
+      "setid": "13a201ba-c86d-48c5-a0e1-a3e0b4e6a2a7",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "POSFREA (PALONOSETRON) INJECTION, SOLUTION [AVYXA PHARMA, LLC]",
+      "upload_date": "2025-04-30"
+    },
+    {
+      "application_numbers": [
+        "NDA205718",
+        "NDA210493"
+      ],
+      "brand_names": [
+        "AKYNZEO"
+      ],
+      "combination": true,
+      "home_inn": "palonosetron",
+      "ingredients": [
+        "FOSNETUPITANT",
+        "NETUPITANT",
+        "PALONOSETRON",
+        "PALONOSETRON HYDROCHLORIDE"
+      ],
+      "labeler": "Helsinn Therapeutics (U.S.), Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2014-10-13",
+      "moieties": [
+        "FOSNETUPITANT",
+        "NETUPITANT",
+        "PALONOSETRON"
+      ],
+      "product_ndcs": [
+        "69639-101",
+        "69639-105",
+        "69639-106"
+      ],
+      "rxcui": [
+        "1552343",
+        "1552349",
+        "2044429",
+        "2044431",
+        "2374366",
+        "2374368"
+      ],
+      "setid": "8e47618e-af46-4d82-94e8-1507c042252d",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "AKYNZEO (NETUPITANT AND PALONOSETRON) CAPSULE AKYNZEO (FOSNETUPITANT AND PALONOSETRON) INJECTION [HELSINN THERAPEUTICS (U.S.), INC.]",
+      "upload_date": "2026-06-25"
+    },
+    {
+      "application_numbers": [
+        "NDA021372"
+      ],
+      "brand_names": [
+        "palonosetron hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "palonosetron",
+      "ingredients": [
+        "PALONOSETRON HYDROCHLORIDE"
+      ],
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2018-03-23",
+      "moieties": [
+        "PALONOSETRON"
+      ],
+      "product_ndcs": [
+        "69097-927"
+      ],
+      "rxcui": [
+        "1728055"
+      ],
+      "setid": "37e7ef89-fd77-44e0-9271-ae91f8822603",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "PALONOSETRON HYDROCHLORIDE INJECTION [CIPLA USA INC.]",
+      "upload_date": "2022-01-14"
+    },
+    {
+      "application_numbers": [
+        "ANDA090713"
+      ],
+      "brand_names": [
+        "Palonosetron Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "palonosetron",
+      "ingredients": [
+        "PALONOSETRON HYDROCHLORIDE"
+      ],
+      "labeler": "Teva Parenteral Medicines, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-03-23",
+      "moieties": [
+        "PALONOSETRON"
+      ],
+      "product_ndcs": [
+        "0703-4094"
+      ],
+      "rxcui": [
+        "1728055"
+      ],
+      "setid": "911783eb-91a8-4ef4-bd6f-809211e207d6",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "PALONOSETRON HYDROCHLORIDE INJECTION, SOLUTION [TEVA PARENTERAL MEDICINES, INC.]",
+      "upload_date": "2026-03-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA201533"
+      ],
+      "brand_names": [
+        "Palonosetron"
+      ],
+      "combination": false,
+      "home_inn": "palonosetron",
+      "ingredients": [
+        "PALONOSETRON HYDROCHLORIDE"
+      ],
+      "labeler": "Dr.Reddy's Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-03-23",
+      "moieties": [
+        "PALONOSETRON"
+      ],
+      "product_ndcs": [
+        "55111-694"
+      ],
+      "rxcui": [
+        "1728050",
+        "1728055"
+      ],
+      "setid": "991b8452-852c-c55c-7b1b-e97c4964777a",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "PALONOSETRON INJECTION, SOLUTION [DR.REDDY'S LABORATORIES LIMITED]",
+      "upload_date": "2020-12-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA202521"
+      ],
+      "brand_names": [
+        "Palonosetron Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "palonosetron",
+      "ingredients": [
+        "PALONOSETRON HYDROCHLORIDE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-03-23",
+      "moieties": [
+        "PALONOSETRON"
+      ],
+      "product_ndcs": [
+        "0781-3312"
+      ],
+      "rxcui": [
+        "1728055"
+      ],
+      "setid": "aff1505c-8d34-46e6-9559-c5b112887875",
+      "source": "openfda",
+      "spl_version": 23,
+      "title": "PALONOSETRON HYDROCHLORIDE INJECTION, SOLUTION [SANDOZ INC]",
+      "upload_date": "2024-08-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA204289"
+      ],
+      "brand_names": [
+        "palonosetron hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "palonosetron",
+      "ingredients": [
+        "PALONOSETRON HYDROCHLORIDE"
+      ],
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-06-15",
+      "moieties": [
+        "PALONOSETRON"
+      ],
+      "product_ndcs": [
+        "25021-783"
+      ],
+      "rxcui": [
+        "1728055"
+      ],
+      "setid": "6e60d03d-eae6-4924-a507-e77ea077c1ab",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "PALONOSETRON HYDROCHLORIDE INJECTION, SOLUTION [SAGENT PHARMACEUTICALS]",
+      "upload_date": "2021-05-03"
+    },
+    {
+      "application_numbers": [
+        "ANDA205648"
+      ],
+      "brand_names": [
+        "Palonosetron"
+      ],
+      "combination": false,
+      "home_inn": "palonosetron",
+      "ingredients": [
+        "PALONOSETRON HYDROCHLORIDE"
+      ],
+      "labeler": "Qilu Pharmaceutical Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-09-19",
+      "moieties": [
+        "PALONOSETRON"
+      ],
+      "product_ndcs": [
+        "67184-0514",
+        "67184-0515"
+      ],
+      "rxcui": [
+        "1728050",
+        "1728055"
+      ],
+      "setid": "633abdc2-a942-4eb2-a0f8-f9f4e727211e",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "PALONOSETRON (PALONOSETRON HYDROCHLORIDE) INJECTION [QILU PHARMACEUTICAL CO., LTD.]",
+      "upload_date": "2021-10-20"
+    },
+    {
+      "application_numbers": [
+        "NDA021372"
+      ],
+      "archived_versions": 9,
+      "brand_names": [
+        "ALOXI"
+      ],
+      "first_posted": "2010-07-29",
+      "found_by": "ALOXI",
+      "labeler": "Eisai Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2020-12-29",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-10-31"
+      ],
+      "product_ndcs": [
+        "62856-797",
+        "62856-798"
+      ],
+      "rxcui": [],
+      "setid": "1b51c34d-9631-4520-83af-6f6fb21a58a4",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "37e7ef89-fd77-44e0-9271-ae91f8822603"
+      ],
+      "title": "ALOXI (palonosetron hydrochloride) injection"
+    },
+    {
+      "application_numbers": [
+        "NDA205718"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "AKYNZEO"
+      ],
+      "first_posted": "2014-10-15",
+      "found_by": "AKYNZEO",
+      "labeler": "Eisai Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2017-02-15",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-05-31"
+      ],
+      "product_ndcs": [
+        "62856-796"
+      ],
+      "rxcui": [],
+      "setid": "2daa0c22-3051-4f12-a860-e5404c862760",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "8e47618e-af46-4d82-94e8-1507c042252d"
+      ],
+      "title": "AKYNZEO (netupitant and palonosetron) capsule"
+    },
+    {
+      "application_numbers": [
+        "NDA021372"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "ALOXI"
+      ],
+      "first_posted": "2018-11-02",
+      "found_by": "ALOXI",
+      "labeler": "Helsinn Therapeutics (U.S.), Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2022-07-22",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-11-01"
+      ],
+      "product_ndcs": [
+        "69639-103"
+      ],
+      "rxcui": [],
+      "setid": "795f386e-2b44-5092-e053-2991aa0a5820",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "37e7ef89-fd77-44e0-9271-ae91f8822603"
+      ],
+      "title": "ALOXI (palonosetron hydrochloride) injection"
+    },
+    {
+      "application_numbers": [
+        "NDA022233"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "ALOXI"
+      ],
+      "first_posted": "2020-04-16",
+      "found_by": "ALOXI",
+      "labeler": "Helsinn Therapeutics (U.S.), Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2024-12-23",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2014-05-28"
+      ],
+      "product_ndcs": [
+        "69639-104"
+      ],
+      "rxcui": [],
+      "setid": "ab89d423-4275-4651-9ae7-9002f17ab0a1",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ALOXI (palonosetron hydrochloride) capsule"
+    },
+    {
+      "application_numbers": [
+        "NDA022233"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "ALOXI"
+      ],
+      "first_posted": "2008-10-30",
+      "found_by": "ALOXI",
+      "labeler": "Eisai Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2017-02-15",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2010-05-31"
+      ],
+      "product_ndcs": [
+        "62856-799"
+      ],
+      "rxcui": [],
+      "setid": "bd06f321-bb42-4748-92f3-d59626b540e0",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ALOXI (palonosetron hydrochloride) capsule, gelatin coated"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9132366b-b808-46c9-b167-c1900bc116b3"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b93fae8e-2b76-421e-95bc-ba08c211a7ea"
+    },
+    {
+      "combination": false,
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0a781796-bb74-4c5f-8d26-9ce520b818f7"
+    },
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "42e2d437-0712-4e9c-9c2a-00093c406d62"
+    },
+    {
+      "combination": false,
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0f3bfe3d-75c8-42eb-84be-570f8e251fdd"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "11bb07b2-6530-45ab-a916-ba9dd3107fc3"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "689c953c-2120-2546-67a4-22bb34ba3330"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ee6f6f94-1ca7-481e-9909-b19ae64e80c2"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "903d7aba-277e-6d28-4fee-fd2d605ab6a9"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4af600d1-0ab1-41c5-af2f-9dc24cf3c90e"
+    },
+    {
+      "combination": false,
+      "labeler": "BLuePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bb2be46a-56f7-48b6-bb05-3c6b12c8b1ea"
+    }
+  ]
+}

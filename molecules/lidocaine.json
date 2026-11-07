@@ -1,0 +1,2206 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 1,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "only combination central products under this exact INN (combinations are not built)",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "LIDOCAINE",
+    "LIDOCAINE HYDROCHLORIDE",
+    "LIDOCAINE HYDROCHLORIDE ANHYDROUS"
+  ],
+  "inn": "lidocaine",
+  "name": "LIDOCAINE",
+  "rank": 1,
+  "rxcui": [
+    "687443",
+    "728126",
+    "897114",
+    "897117",
+    "1009462",
+    "1010033",
+    "1010671",
+    "1011703",
+    "1011705",
+    "1011852",
+    "1543069",
+    "1737562",
+    "1737563",
+    "1737566",
+    "1737567",
+    "1737568",
+    "1737569",
+    "1737570",
+    "1737571",
+    "1737636",
+    "1737637",
+    "1737640",
+    "1737641",
+    "1737723",
+    "1737742",
+    "1737744",
+    "1737761",
+    "1737763",
+    "1737764",
+    "1745091",
+    "2001434",
+    "2001439",
+    "2754390",
+    "2754395"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 119,
+    "approval_holders": 72,
+    "earliest_marketing_start": "1972-02-14",
+    "latest_label_update": "2026-10-26",
+    "nda_bla_applications": 11,
+    "repackagers": 27
+  },
+  "unii": [
+    {
+      "ingredient": "LIDOCAINE",
+      "unii": "98PI200987"
+    },
+    {
+      "ingredient": "LIDOCAINE HYDROCHLORIDE",
+      "unii": "V13007Z41A"
+    },
+    {
+      "ingredient": "LIDOCAINE HYDROCHLORIDE ANHYDROUS",
+      "unii": "EC2CNF7XFP"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA018461"
+      ],
+      "brand_names": [
+        "Lidocaine Hydrochloride and Dextrose"
+      ],
+      "combination": false,
+      "home_inn": "lidocaine",
+      "ingredients": [
+        "LIDOCAINE HYDROCHLORIDE"
+      ],
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1981-04-22",
+      "moieties": [
+        "LIDOCAINE"
+      ],
+      "product_ndcs": [
+        "0338-0409",
+        "0338-0411"
+      ],
+      "rxcui": [
+        "1737723",
+        "1737742",
+        "1737744"
+      ],
+      "setid": "f21512ea-c7c3-4766-b976-b2c0b5616bf0",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "LIDOCAINE HYDROCHLORIDE AND DEXTROSE (LIDOCAINE HYDROCHLORIDE) INJECTION, SOLUTION [BAXTER HEALTHCARE CORPORATION]",
+      "upload_date": "2026-04-21"
+    },
+    {
+      "application_numbers": [
+        "NDA019830"
+      ],
+      "brand_names": [
+        "Lidocaine Hydrochloride and Dextrose"
+      ],
+      "combination": false,
+      "home_inn": "lidocaine",
+      "ingredients": [
+        "DEXTROSE MONOHYDRATE",
+        "LIDOCAINE HYDROCHLORIDE ANHYDROUS"
+      ],
+      "labeler": "B. Braun Medical Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1992-04-08",
+      "moieties": [
+        "LIDOCAINE"
+      ],
+      "product_ndcs": [
+        "0264-9594",
+        "0264-9598"
+      ],
+      "rxcui": [
+        "1737723",
+        "1737742",
+        "1737744"
+      ],
+      "setid": "7dff29d9-522d-40eb-a9d9-42377912d640",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "LIDOCAINE HYDROCHLORIDE AND DEXTROSE (LIDOCAINE HYDROCHLORIDE ANHYDROUS AND DEXTROSE MONOHYDRATE) INJECTION, SOLUTION [B. BRAUN MEDICAL INC.]",
+      "upload_date": "2026-01-23"
+    },
+    {
+      "application_numbers": [
+        "NDA017584"
+      ],
+      "brand_names": [
+        "Lidocaine"
+      ],
+      "combination": false,
+      "home_inn": "lidocaine",
+      "ingredients": [
+        "LIDOCAINE HYDROCHLORIDE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2000-09-05",
+      "moieties": [
+        "LIDOCAINE"
+      ],
+      "product_ndcs": [
+        "63323-208"
+      ],
+      "rxcui": [
+        "1737761"
+      ],
+      "setid": "f1b26274-a55e-4321-b96c-ce0df830f205",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "LIDOCAINE (LIDOCAINE HYDROCHLORIDE) INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2025-03-03"
+    },
+    {
+      "application_numbers": [
+        "NDA006488"
+      ],
+      "brand_names": [
+        "Xylocaine MPF"
+      ],
+      "combination": false,
+      "home_inn": "lidocaine",
+      "ingredients": [
+        "LIDOCAINE HYDROCHLORIDE ANHYDROUS"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2011-07-18",
+      "moieties": [
+        "LIDOCAINE"
+      ],
+      "product_ndcs": [
+        "63323-492",
+        "63323-493",
+        "63323-496"
+      ],
+      "rxcui": [
+        "1737562",
+        "1737563",
+        "1737566",
+        "1737567",
+        "1737568",
+        "1737569",
+        "1737570",
+        "1737571",
+        "1737636",
+        "1737637",
+        "1737640",
+        "1737641",
+        "1737763",
+        "1737764"
+      ],
+      "setid": "d5e0d06f-ba1e-44d4-aa89-39d6c146dc23",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "XYLOCAINE MPF (LIDOCAINE HYDROCHLORIDE) INJECTION, SOLUTION XYLOCAINE MPF (LIDOCAINE HYDROCHLORIDE) INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2024-05-17"
+    },
+    {
+      "application_numbers": [
+        "NDA207962"
+      ],
+      "brand_names": [
+        "Ztlido"
+      ],
+      "combination": false,
+      "home_inn": "lidocaine",
+      "ingredients": [
+        "LIDOCAINE"
+      ],
+      "labeler": "Scilex Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-04-26",
+      "moieties": [
+        "LIDOCAINE"
+      ],
+      "product_ndcs": [
+        "69557-111"
+      ],
+      "rxcui": [
+        "2001434",
+        "2001439"
+      ],
+      "setid": "a1b17507-4560-490d-a388-74e7fd7eaa5e",
+      "source": "openfda",
+      "spl_version": 26,
+      "title": "ZTLIDO (LIDOCAINE) PATCH [SCILEX PHARMACEUTICALS INC.]",
+      "upload_date": "2024-11-05"
+    },
+    {
+      "application_numbers": [
+        "NDA022221"
+      ],
+      "brand_names": [
+        "AKTEN"
+      ],
+      "combination": false,
+      "home_inn": "lidocaine",
+      "ingredients": [
+        "LIDOCAINE HYDROCHLORIDE ANHYDROUS"
+      ],
+      "labeler": "Thea Pharma Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-12-01",
+      "moieties": [
+        "LIDOCAINE"
+      ],
+      "product_ndcs": [
+        "82584-792"
+      ],
+      "rxcui": [
+        "1009462",
+        "1011703"
+      ],
+      "setid": "70ff9fb7-d323-4fe6-b1b1-6033e05f0749",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "AKTEN (LIDOCAINE HYDROCHLORIDE ANHYDROUS) GEL [THEA PHARMA INC.]",
+      "upload_date": "2026-05-06"
+    },
+    {
+      "application_numbers": [
+        "NDA020612"
+      ],
+      "brand_names": [
+        "LIDODERM"
+      ],
+      "combination": false,
+      "home_inn": "lidocaine",
+      "ingredients": [
+        "LIDOCAINE"
+      ],
+      "labeler": "TPU Pharma, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-03-01",
+      "moieties": [
+        "LIDOCAINE"
+      ],
+      "product_ndcs": [
+        "61959-001"
+      ],
+      "rxcui": [
+        "1011705",
+        "1745091"
+      ],
+      "setid": "db0092f5-02a0-4076-ac32-969f075a6ab1",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "LIDODERM (LIDOCAINE PATCH 5%) PATCH [TPU PHARMA, INC.]",
+      "upload_date": "2023-03-01"
+    },
+    {
+      "application_numbers": [
+        "NDA215029"
+      ],
+      "brand_names": [
+        "BONDLIDO"
+      ],
+      "combination": false,
+      "home_inn": "lidocaine",
+      "ingredients": [
+        "LIDOCAINE"
+      ],
+      "labeler": "MEDRx USA, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-10-08",
+      "moieties": [
+        "LIDOCAINE"
+      ],
+      "product_ndcs": [
+        "83708-111"
+      ],
+      "rxcui": [
+        "2754390",
+        "2754395"
+      ],
+      "setid": "17e69028-d2c2-4080-8090-cb0cab570196",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "BONDLIDO (LIDOCAINE) SYSTEM [MEDRX USA, INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "NDA021451"
+      ],
+      "brand_names": [
+        "Oraqix"
+      ],
+      "combination": true,
+      "home_inn": "lidocaine",
+      "ingredients": [
+        "LIDOCAINE",
+        "PRILOCAINE"
+      ],
+      "labeler": "Dentsply Pharmaceutical",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2004-01-02",
+      "moieties": [
+        "LIDOCAINE",
+        "PRILOCAINE"
+      ],
+      "product_ndcs": [
+        "66312-110"
+      ],
+      "rxcui": [
+        "897114",
+        "897117"
+      ],
+      "setid": "b501d239-923b-48b2-82ed-6c5c253a67e2",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "ORAQIX (LIDOCAINE AND PRILOCAINE) GEL [DENTSPLY PHARMACEUTICAL]",
+      "upload_date": "2026-04-22"
+    },
+    {
+      "application_numbers": [
+        "NDA021717"
+      ],
+      "brand_names": [
+        "PLIAGLIS"
+      ],
+      "combination": true,
+      "home_inn": "lidocaine",
+      "ingredients": [
+        "LIDOCAINE",
+        "TETRACAINE"
+      ],
+      "labeler": "IPG PHARMACEUTICALS, INC.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2026-03-06",
+      "moieties": [
+        "LIDOCAINE",
+        "TETRACAINE"
+      ],
+      "product_ndcs": [
+        "71085-100"
+      ],
+      "rxcui": [
+        "687443",
+        "728126"
+      ],
+      "setid": "d854faa5-0af8-4684-b5cd-a0b8a91fb7cd",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "PLIAGLIS (LIDOCAINE AND TETRACAINE) CREAM [IPG PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-03-10"
+    },
+    {
+      "application_numbers": [
+        "NDA020612"
+      ],
+      "brand_names": [
+        "Lidocaine"
+      ],
+      "combination": false,
+      "home_inn": "lidocaine",
+      "ingredients": [
+        "LIDOCAINE"
+      ],
+      "labeler": "Golden State Medical Supply, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "1999-03-19",
+      "moieties": [
+        "LIDOCAINE"
+      ],
+      "product_ndcs": [
+        "51407-827"
+      ],
+      "rxcui": [
+        "1745091"
+      ],
+      "setid": "0bef12dd-6cea-d12b-e063-6394a90a002e",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "LIDOCAINE PATCH [GOLDEN STATE MEDICAL SUPPLY, INC.]",
+      "upload_date": "2026-06-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA080407"
+      ],
+      "brand_names": [
+        "Lidocaine"
+      ],
+      "combination": false,
+      "home_inn": "lidocaine",
+      "ingredients": [
+        "LIDOCAINE HYDROCHLORIDE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1972-02-14",
+      "moieties": [
+        "LIDOCAINE"
+      ],
+      "product_ndcs": [
+        "0143-9172",
+        "0143-9173",
+        "0143-9575",
+        "0143-9576",
+        "0143-9577",
+        "0143-9578",
+        "0143-9579"
+      ],
+      "rxcui": [
+        "1010033",
+        "1010671"
+      ],
+      "setid": "5523fdfe-69fd-49a5-b51f-73e2223d49a9",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "LIDOCAINE (LIDOCAINE HYDROCHLORIDE) INJECTION, SOLUTION LIDOCAINE (LIDOCAINE HYDROCHLORIDE) INJECTION, SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2026-04-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA080198"
+      ],
+      "brand_names": [
+        "Lidocaine"
+      ],
+      "combination": false,
+      "home_inn": "lidocaine",
+      "ingredients": [
+        "LIDOCAINE"
+      ],
+      "labeler": "Fougera Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1972-06-30",
+      "moieties": [
+        "LIDOCAINE"
+      ],
+      "product_ndcs": [
+        "0168-0204"
+      ],
+      "rxcui": [
+        "1543069"
+      ],
+      "setid": "88ca9cba-0c4a-482f-b502-ceefdb1bfbcd",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "LIDOCAINE OINTMENT [FOUGERA PHARMACEUTICALS, LLC]",
+      "upload_date": "2026-02-27"
+    },
+    {
+      "application_numbers": [
+        "ANDA084625"
+      ],
+      "brand_names": [
+        "Lidocaine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "lidocaine",
+      "ingredients": [
+        "LIDOCAINE HYDROCHLORIDE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1975-06-16",
+      "moieties": [
+        "LIDOCAINE"
+      ],
+      "product_ndcs": [
+        "0143-9594",
+        "0143-9595"
+      ],
+      "rxcui": [
+        "1737566",
+        "1737761"
+      ],
+      "setid": "1631e5ca-03d0-4d3b-91e3-2dc14f4eb0e1",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "LIDOCAINE HYDROCHLORIDE INJECTION, SOLUTION LIDOCAINE HYDROCHLORIDE INJECTION, SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2026-04-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA086283"
+      ],
+      "brand_names": [
+        "Lidocaine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "lidocaine",
+      "ingredients": [
+        "LIDOCAINE HYDROCHLORIDE"
+      ],
+      "labeler": "International Medication Systems, Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1979-08-07",
+      "moieties": [
+        "LIDOCAINE"
+      ],
+      "product_ndcs": [
+        "76329-3011",
+        "76329-3012",
+        "76329-3013",
+        "76329-3015"
+      ],
+      "rxcui": [
+        "1011852"
+      ],
+      "setid": "0cbc37d3-c2d6-4747-9834-7c23b38fcc20",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "LIDOCAINE HYDROCHLORIDE JELLY [INTERNATIONAL MEDICATION SYSTEMS, LIMITED ]",
+      "upload_date": "2024-09-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA086724"
+      ],
+      "brand_names": [
+        "Lidocaine"
+      ],
+      "combination": false,
+      "home_inn": "lidocaine",
+      "ingredients": [
+        "LIDOCAINE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1981-08-17",
+      "moieties": [
+        "LIDOCAINE"
+      ],
+      "product_ndcs": [
+        "51672-3008"
+      ],
+      "rxcui": [
+        "1543069"
+      ],
+      "setid": "5eb2c62f-5352-41d7-bd66-c65b1988a9ab",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "LIDOCAINE OINTMENT [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2026-06-04"
+    },
+    {
+      "application_numbers": [
+        "NDA022114"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "ZINGO"
+      ],
+      "first_posted": "2024-11-04",
+      "found_by": "ZINGO",
+      "labeler": "Powder Pharmaceutical Incorporated",
+      "labeler_unverified": true,
+      "last_posted": "2026-06-08",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2026-06-05"
+      ],
+      "product_ndcs": [
+        "61388-123"
+      ],
+      "rxcui": [],
+      "setid": "25368079-b2ac-4d31-e063-6394a90aa324",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ZINGO (lidocaine hydrochloride monohydrate) powder"
+    },
+    {
+      "application_numbers": [
+        "NDA021717"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "PLIAGLIS"
+      ],
+      "first_posted": "2020-09-23",
+      "found_by": "PLIAGLIS",
+      "labeler": "Oba Pharmaceuticals, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2024-12-06",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-12-01"
+      ],
+      "product_ndcs": [
+        "73575-010"
+      ],
+      "rxcui": [],
+      "setid": "4ccdf61b-3128-4a97-a89c-a11e40823938",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "d854faa5-0af8-4684-b5cd-a0b8a91fb7cd"
+      ],
+      "title": "PLIAGLIS (lidocaine and tetracaine) cream"
+    },
+    {
+      "application_numbers": [
+        "NDA017549"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "LIDOPEN"
+      ],
+      "first_posted": "2008-05-15",
+      "found_by": "LIDOPEN",
+      "labeler": "Meridian Medical Technologies, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2017-03-24",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2005-06-30"
+      ],
+      "product_ndcs": [
+        "11704-221"
+      ],
+      "rxcui": [],
+      "setid": "4dba65c7-d0e3-493c-875f-1e1a27ad7a33",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "LIDOPEN (lidocaine hydrochloride) injection"
+    },
+    {
+      "application_numbers": [
+        "NDA022114"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "ZINGO"
+      ],
+      "first_posted": "2016-07-18",
+      "found_by": "ZINGO",
+      "labeler": "7T Pharma LLC",
+      "labeler_unverified": true,
+      "last_posted": "2024-03-08",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-03-01"
+      ],
+      "product_ndcs": [
+        "70645-123"
+      ],
+      "rxcui": [],
+      "setid": "58ccb71b-a9c2-4346-ab99-fe4e14d9faf7",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ZINGO (lidocaine hydrochloride monohydrate) powder"
+    },
+    {
+      "application_numbers": [
+        "NDA008816"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "XYLOCAINE"
+      ],
+      "first_posted": "2006-10-13",
+      "found_by": "XYLOCAINE",
+      "labeler": "AstraZeneca Pharmaceuticals LP",
+      "labeler_unverified": false,
+      "last_posted": "2016-11-10",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-05-31"
+      ],
+      "product_ndcs": [
+        "0186-0330"
+      ],
+      "rxcui": [],
+      "setid": "60ed4629-a0e6-45e2-b8a5-4323d8a693f4",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "XYLOCAINE (lidocaine hydrochloride) jelly"
+    },
+    {
+      "application_numbers": [
+        "NDA016801"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "XYLOCAINE"
+      ],
+      "first_posted": "2008-06-05",
+      "found_by": "XYLOCAINE",
+      "labeler": "AstraZeneca Pharmaceuticals LP",
+      "labeler_unverified": false,
+      "last_posted": "2016-11-14",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-10-31"
+      ],
+      "product_ndcs": [
+        "0186-0232"
+      ],
+      "rxcui": [],
+      "setid": "723c8e7e-75eb-4119-4ab0-ab52955869f7",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "XYLOCAINE (lidocaine hydrochloride) injection"
+    },
+    {
+      "application_numbers": [
+        "NDA021717"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "PLIAGLIS"
+      ],
+      "first_posted": "2020-01-31",
+      "found_by": "PLIAGLIS",
+      "labeler": "Oba Pharmaceuticals, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2024-12-06",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-12-01"
+      ],
+      "product_ndcs": [
+        "73575-009"
+      ],
+      "rxcui": [],
+      "setid": "8a1b2553-ce65-4557-b33d-cb3dd2a307fa",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "d854faa5-0af8-4684-b5cd-a0b8a91fb7cd"
+      ],
+      "title": "PLIAGLIS (lidocaine and tetracaine) cream"
+    },
+    {
+      "application_numbers": [
+        "NDA021717"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "PLIAGLIS"
+      ],
+      "first_posted": "2017-11-30",
+      "found_by": "PLIAGLIS",
+      "labeler": "Taro Pharmaceuticals U.S.A., Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2025-02-12",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-02-07"
+      ],
+      "product_ndcs": [
+        "51672-5305"
+      ],
+      "rxcui": [],
+      "setid": "9838a8a2-dd5a-4eb2-beee-2fb45d35f6de",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "d854faa5-0af8-4684-b5cd-a0b8a91fb7cd"
+      ],
+      "title": "PLIAGLIS (lidocaine and tetracaine) cream"
+    },
+    {
+      "application_numbers": [
+        "NDA008816"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "XYLOCAINE"
+      ],
+      "first_posted": "2012-07-02",
+      "found_by": "XYLOCAINE",
+      "labeler": "Oak Pharmaceuticals, Inc. (Subsidiary of Akorn, Inc.)",
+      "labeler_unverified": true,
+      "last_posted": "2021-04-22",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-02-06"
+      ],
+      "product_ndcs": [
+        "76478-479"
+      ],
+      "rxcui": [],
+      "setid": "9be07885-8116-4d10-a345-a85f60912a3e",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "XYLOCAINE (lidocaine hydrochloride) jelly"
+    },
+    {
+      "application_numbers": [
+        "NDA021717"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "PLIAGLIS"
+      ],
+      "first_posted": "2007-08-24",
+      "found_by": "PLIAGLIS",
+      "labeler": "Galderma Laboratories, L.P.",
+      "labeler_unverified": false,
+      "last_posted": "2019-10-28",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-05-03"
+      ],
+      "product_ndcs": [
+        "0299-6100"
+      ],
+      "rxcui": [],
+      "setid": "a80355e6-c235-4770-a2cd-240486874eaf",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "d854faa5-0af8-4684-b5cd-a0b8a91fb7cd"
+      ],
+      "title": "PLIAGLIS (lidocaine and tetracaine) cream"
+    },
+    {
+      "application_numbers": [
+        "NDA010417"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "XYLOCAINE"
+      ],
+      "first_posted": "2009-11-20",
+      "found_by": "XYLOCAINE",
+      "labeler": "Fresenius Kabi USA, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2018-06-15",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-08-29"
+      ],
+      "product_ndcs": [
+        "63323-490"
+      ],
+      "rxcui": [],
+      "setid": "b1a780e7-c027-4c5e-95df-d9876efb7d43",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "XYLOCAINE -MPF (lidocaine hydrochloride) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA008816"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "XYLOCAINE"
+      ],
+      "first_posted": "2010-12-03",
+      "found_by": "XYLOCAINE",
+      "labeler": "Fresenius Kabi USA, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2018-06-06",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-11-13"
+      ],
+      "product_ndcs": [
+        "63323-479"
+      ],
+      "rxcui": [],
+      "setid": "b9526a91-e6df-41d3-9794-52a521bd0a32",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "XYLOCAINE (lidocaine hydrochloride) jelly"
+    },
+    {
+      "application_numbers": [
+        "NDA010418"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "XYLOCAINE"
+      ],
+      "first_posted": "2007-11-20",
+      "found_by": "XYLOCAINE",
+      "labeler": "AstraZeneca Pharmaceuticals LP",
+      "labeler_unverified": false,
+      "last_posted": "2016-10-27",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2012-02-28",
+        "2012-04-30",
+        "2012-06-30",
+        "2012-07-31",
+        "2012-10-31",
+        "2013-03-31",
+        "2013-06-30",
+        "2013-09-30",
+        "2013-10-31",
+        "2013-12-31",
+        "2014-01-31",
+        "2014-02-28",
+        "2014-03-31",
+        "2014-05-31",
+        "2014-06-30",
+        "2014-12-31",
+        "2015-01-31",
+        "2015-02-28",
+        "2015-05-31"
+      ],
+      "product_ndcs": [
+        "0186-0110",
+        "0186-0112",
+        "0186-0114",
+        "0186-0115",
+        "0186-0117",
+        "0186-0120",
+        "0186-0122",
+        "0186-0125",
+        "0186-0135",
+        "0186-0137",
+        "0186-0140",
+        "0186-0145",
+        "0186-0150",
+        "0186-0155",
+        "0186-0160",
+        "0186-0210",
+        "0186-0215",
+        "0186-0230",
+        "0186-0240",
+        "0186-0241",
+        "0186-0242",
+        "0186-0243",
+        "0186-0244",
+        "0186-0245",
+        "0186-0250",
+        "0186-0255",
+        "0186-0260",
+        "0186-0265",
+        "0186-0275",
+        "0186-0276",
+        "0186-0277",
+        "0186-0278"
+      ],
+      "rxcui": [],
+      "setid": "c0715faa-e6e5-4556-fc9b-3e6478578435",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "XYLOCAINE (lidocaine hydrochloride) injection XYLOCAINE (lidocaine hydrochloride and epinephrine) injection"
+    },
+    {
+      "application_numbers": [
+        "NDA022114"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "ZINGO"
+      ],
+      "first_posted": "2014-02-27",
+      "found_by": "ZINGO",
+      "labeler": "Medline Industries, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2016-09-07",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-05-31"
+      ],
+      "product_ndcs": [
+        "53329-200"
+      ],
+      "rxcui": [],
+      "setid": "c913688b-c51d-44c2-8ce6-5200f1ea0bab",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ZINGO (lidocaine hydrochloride) powder"
+    },
+    {
+      "application_numbers": [
+        "NDA021380",
+        "NDA021381"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "XYLOCAINE"
+      ],
+      "first_posted": "2006-09-28",
+      "found_by": "XYLOCAINE",
+      "labeler": "Dentsply Pharmaceutical",
+      "labeler_unverified": false,
+      "last_posted": "2014-06-05",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2009-03-16",
+        "2009-03-26"
+      ],
+      "product_ndcs": [
+        "66312-170",
+        "66312-175",
+        "66312-180"
+      ],
+      "rxcui": [],
+      "setid": "dbdb55d6-7c10-41b6-8e82-47880694ca18",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "XYLOCAINE (lidocaine hydrochloride) injection XYLOCAINE WITH EPINEPHRINE (lidocaine hydrochloride and epinephrine bitartrate) injection"
+    },
+    {
+      "application_numbers": [
+        "NDA010417"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "XYLOCAINE"
+      ],
+      "first_posted": "2007-12-10",
+      "found_by": "XYLOCAINE",
+      "labeler": "AstraZeneca Pharmaceuticals LP",
+      "labeler_unverified": false,
+      "last_posted": "2016-11-10",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2014-03-31"
+      ],
+      "product_ndcs": [
+        "0186-0235"
+      ],
+      "rxcui": [],
+      "setid": "e658cc4b-da3d-4a5e-eab3-0e60a03657cd",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "XYLOCAINE MPF (lidocaine hydrochloride) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA016801"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "XYLOCAINE"
+      ],
+      "first_posted": "2009-11-19",
+      "found_by": "XYLOCAINE",
+      "labeler": "Fresenius Kabi USA, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2018-06-06",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-08-29"
+      ],
+      "product_ndcs": [
+        "63323-498"
+      ],
+      "rxcui": [],
+      "setid": "f09af962-f1af-44aa-b544-6643f64960f9",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "XYLOCAINE (lidocaine hydrochloride) injection, solution"
+    },
+    {
+      "application_numbers": [
+        "NDA020612"
+      ],
+      "archived_versions": 10,
+      "brand_names": [
+        "LIDODERM"
+      ],
+      "first_posted": "2007-03-19",
+      "found_by": "LIDODERM",
+      "labeler": "Endo Pharmaceuticals Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2023-01-23",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-03-31"
+      ],
+      "product_ndcs": [
+        "63481-687"
+      ],
+      "rxcui": [],
+      "setid": "f1c40164-4626-4290-9012-c00e33420a33",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "0bef12dd-6cea-d12b-e063-6394a90a002e",
+        "db0092f5-02a0-4076-ac32-969f075a6ab1"
+      ],
+      "title": "LIDODERM (lidocaine) patch"
+    },
+    {
+      "application_numbers": [
+        "NDA010417"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "XYLOCAINE"
+      ],
+      "first_posted": "2009-11-20",
+      "found_by": "XYLOCAINE",
+      "labeler": "Fresenius Kabi USA, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2018-06-15",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-04-10"
+      ],
+      "product_ndcs": [
+        "63323-497"
+      ],
+      "rxcui": [],
+      "setid": "f917ee72-349e-40fa-a602-d7da17fd7ee7",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "XYLOCAINE (lidocaine hydrochloride) solution"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "DENTIPATCH"
+      ],
+      "first_posted": "2006-09-21",
+      "found_by": "DENTIPATCH",
+      "labeler": "Noven Parmaceuticals, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2006-09-21",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "57616-041"
+      ],
+      "rxcui": [],
+      "setid": "l1b5826d4-5177-42b9-8ac2-d35071b4bccb",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "dentipatch (Lidocaine) patch"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": true,
+      "labeler": "Septodont, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "3f9f9b4f-bf6c-4b57-ac1a-98fd1a9a369d"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "fe265eb5-eaeb-4f47-82dd-238c1d53fec4"
+    },
+    {
+      "combination": false,
+      "labeler": "Terrain Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "4b206c72-adf2-ba48-e063-6294a90a3840"
+    },
+    {
+      "combination": true,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "4dd52202-8eef-4136-92dd-ada573b7cf74"
+    },
+    {
+      "combination": true,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "ba082c2f-64f4-419d-9c88-74f203316e17"
+    },
+    {
+      "combination": false,
+      "labeler": "Xttrium Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "31a5a48e-27d7-90f3-e063-6294a90a2d9e"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c5d27da0-e495-4bb6-a7e1-8eaa6595eb71"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "79b42076-359d-4258-b1d8-f40e67ac5424"
+    },
+    {
+      "combination": false,
+      "labeler": "International Medication Systems, Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5d3e9984-cef9-46f2-a6c9-3be8b26f45b3"
+    },
+    {
+      "combination": false,
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3b2dd84e-cee8-4e58-d494-395a65a353a0"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c05f49a2-7512-48e7-9730-f8ee05519b9d"
+    },
+    {
+      "combination": false,
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c3353e08-2a8c-4ace-ba89-114f7131b8de"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cddb2b22-fce3-8967-6e54-dca3df5ac4b3"
+    },
+    {
+      "combination": false,
+      "labeler": "International Medication Systems, Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2c48cfac-81eb-4a81-8590-bc94574dd4c3"
+    },
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5524cbfd-d6e6-42eb-aaa5-22495e0a86b6"
+    },
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "89701fac-7536-4f16-87fb-f4cc121e74ee"
+    },
+    {
+      "combination": false,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4d04052c-3e0a-469a-9265-99604f13e507"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "65760723-75cd-472c-96e1-7d05f95b4686"
+    },
+    {
+      "combination": false,
+      "labeler": "Septodont, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "82a4c16f-d47e-479f-8f85-7d1be6fc2318"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "960f6d0a-82af-45e9-89d5-cea808004ebb"
+    },
+    {
+      "combination": false,
+      "labeler": "Northstar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cde68b0c-a1ee-421d-9ca8-bc571d2990ab"
+    },
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ccc38d8a-43fd-44c0-985e-32af9ed956ab"
+    },
+    {
+      "combination": false,
+      "labeler": "Spectra Medical Devices, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e8ba012a-08a9-4f67-9f88-3284377e80be"
+    },
+    {
+      "combination": false,
+      "labeler": "B. Braun Medical Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e0e479e6-4c94-44d0-8074-d0ee7b2bde22"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "11a8b27a-1e25-46e5-bc23-ae5c894b4da4"
+    },
+    {
+      "combination": false,
+      "labeler": "Huons Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8ec2d256-fc4f-44f6-bee2-eef2bf3bf580"
+    },
+    {
+      "combination": false,
+      "labeler": "PURETEK CORPORATION",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fd8e4856-3785-4850-e053-6294a90a95b6"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1f46bdfd-3a38-49a3-a505-0192790486d0"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c788afd3-4554-40c4-8f26-2c31ab9b9b98"
+    },
+    {
+      "combination": false,
+      "labeler": "QUAGEN PHARMACEUTICALS LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f8789807-cc0c-485c-aa98-1bdc39337deb"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7f202319-effa-4dd8-b871-e720b75f4a83"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9a1418e2-b208-4e5c-b5f8-21b3a691a578"
+    },
+    {
+      "combination": false,
+      "labeler": "Novitium Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ffb2d794-2c88-48a2-beff-d01b6fcea51f"
+    },
+    {
+      "combination": false,
+      "labeler": "Xttrium Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "40339593-1142-53ef-e063-6394a90afd4f"
+    },
+    {
+      "combination": false,
+      "labeler": "Advagen Pharma Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ae40021b-8df8-4b16-aac0-dcec88f76c7d"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8149138a-4106-4ae6-b7ad-f2559c7fa7e2"
+    },
+    {
+      "combination": false,
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9920daef-b156-4a14-b641-f714191ffb5c"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9cb98fb0-5204-4973-8be7-f44ddbfde2ab"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "845b96c1-36a3-431f-8316-112ae881d934"
+    },
+    {
+      "combination": false,
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d5e23ede-957c-4a32-b1c6-268acb773c31"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "29199070-6dcb-4086-9a68-49e819965dbd"
+    },
+    {
+      "combination": false,
+      "labeler": "The J. Molner Company LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "17880468-873f-6465-e063-6294a90a9c73"
+    },
+    {
+      "combination": false,
+      "labeler": "ARMAS PHARMACEUTICALS INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2f6e0f3d-ceaf-a853-e063-6394a90a8efb"
+    },
+    {
+      "combination": false,
+      "labeler": "Anthea Pharma Private Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "240c4744-e58c-4c08-93ad-8d6418c4f8a9"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ab461805-413a-4fb3-88a1-224e1c423084"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "462e9498-9eb9-456a-9022-659bcff93e3f"
+    },
+    {
+      "combination": false,
+      "labeler": "Encube Ethicals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e9f80c8a-05ba-47f8-aff1-e2583b2f8e57"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "67a6bbbd-ab4b-414a-b85c-b7d8c0cfa9d2"
+    },
+    {
+      "combination": true,
+      "labeler": "Dentsply Pharmaceutical",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "14b55cf9-f7cd-4bb4-a7c5-aba61abadef1"
+    },
+    {
+      "combination": true,
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2f94f711-14c4-48ec-c5a3-c5ec4b8e8729"
+    },
+    {
+      "combination": true,
+      "labeler": "E. Fougera & Co. a division of Fougera Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "833cd52c-6470-49c4-937f-1393971f4db9"
+    },
+    {
+      "combination": true,
+      "labeler": "B. Braun Medical Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fc83d701-02b2-4595-8e5b-dbebc5e209d5"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7851790a-f2f3-4d65-9785-f77feafa8d93"
+    },
+    {
+      "combination": true,
+      "labeler": "Padagis US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6e1635f7-dcae-441b-bbf7-495661fb66ae"
+    },
+    {
+      "combination": true,
+      "labeler": "Encube Ethicals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a65a29ca-9476-4290-9384-67df4caec655"
+    },
+    {
+      "combination": true,
+      "labeler": "Viona Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0a3b26d3-7a32-4403-88ab-0924356b5214"
+    },
+    {
+      "combination": false,
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2ce8a4fe-8aa6-4dc5-ad0f-3984ae68c4bc"
+    },
+    {
+      "combination": false,
+      "labeler": "Civica, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3c3b3888-fad3-440b-b627-6f79a2f4668f"
+    },
+    {
+      "combination": false,
+      "labeler": "Golden State Medical Supply, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b948d6fe-3893-39a1-e053-2995a90ae64c"
+    },
+    {
+      "combination": false,
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "89a4bd73-89f4-4fd7-2c9f-921e1da8f96b"
+    },
+    {
+      "combination": false,
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9c18eaf1-4a0b-4916-70b2-88a827494711"
+    },
+    {
+      "combination": false,
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ad1ef0a8-88db-4648-c098-d009eaeb4e5b"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell Governmental & Specialty RX, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f79b8b30-67ed-4daa-8233-ee2319592ef0"
+    },
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9916b09d-a116-469d-92d5-60e50ea9782b"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ae758020-a508-4a2e-8164-e6c324e826a3"
+    },
+    {
+      "combination": false,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c18799cd-9e11-4196-9ab1-0a2a84585e56"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d1509740-f9f1-44e3-8fde-51d8683fcd87"
+    },
+    {
+      "combination": false,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "eaa15be7-11ea-49bc-ac07-739075453be6"
+    },
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ef782e5e-e2d7-465a-99c6-b12611f3158c"
+    },
+    {
+      "combination": false,
+      "labeler": "McKesson Corporation dba SKY Packaging",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e1eabd6b-9bb8-646f-e053-2a95a90a7b83"
+    },
+    {
+      "combination": false,
+      "labeler": "Brookfield Pharmaceuticals, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e824ba5b-3289-5ad4-e053-2995a90acc20"
+    },
+    {
+      "combination": false,
+      "labeler": "YARAL Pharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fc495fc8-15d6-27c7-e053-6394a90ab30d"
+    },
+    {
+      "combination": false,
+      "labeler": "AvKARE",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0a4cc4f8-9c5d-d03f-e063-6394a90a1b2e"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f065e6d2-b47e-433d-a1fb-f0449cd725f1"
+    },
+    {
+      "combination": false,
+      "labeler": "McKesson Corporation dba SKY Packaging",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "903cd7bd-6c3d-4068-bb24-e91b1ca1393d"
+    },
+    {
+      "combination": false,
+      "labeler": "Medcore LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1afe428f-e223-4ef8-a6ba-968f4cfbf476"
+    },
+    {
+      "combination": false,
+      "labeler": "Precision Dose, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "27b6ef54-a093-2bef-e063-6394a90a7912"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6a7fa6c5-b550-46ac-99a3-5c49339e6dbd"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "071b2cfd-07ad-46a3-8808-87080d545fd3"
+    },
+    {
+      "combination": false,
+      "labeler": "Novagenix Labs LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7567ffb5-953a-4be9-9a02-c5a50dcd9306"
+    },
+    {
+      "combination": false,
+      "labeler": "Avenacy, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "46480253-29b9-4d7f-98ed-10377929026b"
+    },
+    {
+      "combination": false,
+      "labeler": "Sentiss Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9b2d4f69-0c84-4956-b5c0-b4410acf62e0"
+    },
+    {
+      "combination": false,
+      "labeler": "Major Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "04e8dd94-93a8-427d-81ab-a95793d86c36"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e2748dfb-bffe-47a8-a886-853d0f7c910a"
+    },
+    {
+      "combination": false,
+      "labeler": "Sandoz Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dc476ebd-fd57-41c3-a649-7185a784a39f"
+    },
+    {
+      "combination": true,
+      "labeler": "Darby Dental Supply, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "27e8fdfb-e923-4f99-aff7-8b9e50228151"
+    },
+    {
+      "combination": true,
+      "labeler": "Henry Schein Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1ca96c77-d983-496b-84a6-54709e80f532"
+    },
+    {
+      "combination": true,
+      "labeler": "Patterson Dental",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6506755f-c9f7-4286-9ba7-ac5d5745f5e4"
+    },
+    {
+      "combination": true,
+      "labeler": "Safco Dental Supply Co",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6721c3ab-c37f-4504-aebc-0103c56ed567"
+    },
+    {
+      "combination": true,
+      "labeler": "Patterson Dental",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f074c0dc-7c3f-46fd-a480-b8337a19fe5c"
+    },
+    {
+      "combination": true,
+      "labeler": "Henry Schein Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f8d90500-f797-4238-8dd2-b59cbcd89d12"
+    },
+    {
+      "combination": true,
+      "labeler": "Benco Dental",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9419ac39-9b26-4cca-a2d6-167205fede24"
+    },
+    {
+      "combination": true,
+      "labeler": "Benco Dental",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c5cc87df-df3f-42b8-af84-5f2045d42084"
+    },
+    {
+      "combination": true,
+      "labeler": "Darby Dental Supply, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e5ed4c2a-e320-48cf-a2fd-61d48481c624"
+    },
+    {
+      "combination": true,
+      "labeler": "NDC, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "937e9341-e604-4ca7-98e1-fc7c659d82e9"
+    },
+    {
+      "combination": true,
+      "labeler": "Septodont, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f902d2b4-28fc-41b1-a9f7-0d1a63c598aa"
+    },
+    {
+      "combination": true,
+      "labeler": "Septodont, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f8ca7d03-01c8-450f-9279-59789c3497ea"
+    },
+    {
+      "combination": true,
+      "labeler": "Septodont, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "864e511b-cc50-4ed9-b122-8e1a93457332"
+    },
+    {
+      "combination": true,
+      "labeler": "Septodont, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "df130310-41db-45df-a214-9da01cf0bf41"
+    },
+    {
+      "combination": true,
+      "labeler": "Novocol Pharmaceutical of Canada, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2005680a-8a23-4403-a618-e4ee74fa1121"
+    },
+    {
+      "combination": true,
+      "labeler": "The Atlanta Dental Supply Company DBA Advanced Dental Products",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "55030c51-250b-4fc2-ba3c-ac38dab7cc8e"
+    },
+    {
+      "combination": true,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f85ec4ed-4a1b-4680-ace1-b2a0b1114af5"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "54198bf6-c93c-42cd-9b2b-63918eb32880"
+    }
+  ]
+}

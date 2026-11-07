@@ -1,0 +1,186 @@
+{
+  "biologic": true,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "HUMAN IMMUNOGLOBULIN G"
+  ],
+  "inn": "human-immunoglobulin-g",
+  "name": "HUMAN IMMUNOGLOBULIN G",
+  "rank": 226,
+  "rxcui": [
+    "1809414",
+    "1809416",
+    "1809421",
+    "1809422",
+    "2123037",
+    "2123042",
+    "2726016",
+    "2726023",
+    "2726025",
+    "2726026"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 3,
+    "approval_holders": 2,
+    "earliest_marketing_start": "2013-01-21",
+    "latest_label_update": "2026-10-05",
+    "nda_bla_applications": 3,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "HUMAN IMMUNOGLOBULIN G",
+      "unii": "66Y330CJHS"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "BLA125389"
+      ],
+      "brand_names": [
+        "BIVIGAM"
+      ],
+      "combination": false,
+      "home_inn": "human-immunoglobulin-g",
+      "ingredients": [
+        "HUMAN IMMUNOGLOBULIN G"
+      ],
+      "labeler": "ADMA Biologics, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2013-01-21",
+      "moieties": [
+        "HUMAN IMMUNOGLOBULIN G"
+      ],
+      "product_ndcs": [
+        "69800-6502",
+        "69800-6503"
+      ],
+      "rxcui": [
+        "1809414",
+        "1809416",
+        "1809421",
+        "1809422"
+      ],
+      "setid": "a2244aa0-a6d0-11df-b385-0002a5d5c51b",
+      "source": "dailymed-title-match",
+      "spl_version": 16,
+      "title": "BIVIGAM (IMMUNE GLOBULIN INTRAVENOUS (HUMAN) 10%) INJECTION, SOLUTION [ADMA BIOLOGICS, INC.]",
+      "upload_date": "2026-10-05"
+    },
+    {
+      "application_numbers": [
+        "BLA125590"
+      ],
+      "brand_names": [
+        "ASCENIV"
+      ],
+      "combination": false,
+      "home_inn": "human-immunoglobulin-g",
+      "ingredients": [
+        "HUMAN IMMUNOGLOBULIN G"
+      ],
+      "labeler": "ADMA Biologics, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2019-04-01",
+      "moieties": [
+        "HUMAN IMMUNOGLOBULIN G"
+      ],
+      "product_ndcs": [
+        "69800-0250"
+      ],
+      "rxcui": [
+        "2123037",
+        "2123042"
+      ],
+      "setid": "d74f4360-3b51-496c-96fb-84c3976958d2",
+      "source": "dailymed-title-match",
+      "spl_version": 13,
+      "title": "ASCENIV (HUMAN IMMUNOGLOBULIN G) LIQUID [ADMA BIOLOGICS, INC.]",
+      "upload_date": "2026-10-05"
+    },
+    {
+      "application_numbers": [
+        "BLA125822"
+      ],
+      "brand_names": [
+        "QIVIGY kthm"
+      ],
+      "combination": false,
+      "home_inn": "human-immunoglobulin-g",
+      "ingredients": [
+        "HUMAN IMMUNOGLOBULIN G"
+      ],
+      "labeler": "Kedrion S.p.A.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2025-09-26",
+      "moieties": [
+        "HUMAN IMMUNOGLOBULIN G"
+      ],
+      "product_ndcs": [
+        "76179-010"
+      ],
+      "rxcui": [
+        "2726016",
+        "2726023",
+        "2726025",
+        "2726026"
+      ],
+      "setid": "6f1933e0-240f-48f4-b246-8a30e63a4160",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "QIVIGY KTHM (HUMAN IMMUNOGLOBULIN G) INJECTION, SOLUTION [KEDRION S.P.A.]",
+      "upload_date": "2026-08-17"
+    },
+    {
+      "application_numbers": [
+        "BLA125389"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "BIVIGAM"
+      ],
+      "first_posted": "2014-03-28",
+      "found_by": "BIVIGAM",
+      "labeler": "ADMA Biologics, Inc",
+      "labeler_unverified": true,
+      "last_posted": "2019-12-05",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_end_dates": [
+        "2021-09-30"
+      ],
+      "product_ndcs": [
+        "59730-6502",
+        "59730-6503"
+      ],
+      "rxcui": [],
+      "setid": "a80da7b0-fd11-4dcd-b58c-1a475147476d",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "a2244aa0-a6d0-11df-b385-0002a5d5c51b"
+      ],
+      "title": "BIVIGAM (human immunoglobulin g) injection, solution"
+    }
+  ],
+  "us_excluded": []
+}

@@ -1,0 +1,702 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand INVEGA",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000746",
+      "eu_number": "EU/1/07/395",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000746",
+      "mah": "Janssen-Cilag International NV",
+      "marketing_authorisation_date": "2007-06-24",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/invega",
+      "name": "Invega",
+      "record_from": "2007-06-25",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 21
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/002105",
+      "eu_number": "EU/1/11/672",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-002105",
+      "mah": "Janssen-Cilag International",
+      "marketing_authorisation_date": "2011-03-04",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/xeplion",
+      "name": "Xeplion",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/004066",
+      "eu_number": "EU/1/14/971",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-004066",
+      "mah": "Janssen-Cilag International NV",
+      "marketing_authorisation_date": "2014-12-05",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/trevicta",
+      "name": "Trevicta (previously Paliperidone Janssen)",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/005486",
+      "eu_number": "EU/1/20/1453",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-005486",
+      "mah": "",
+      "marketing_authorisation_date": "2020-06-18",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/byannl",
+      "name": "Byannli (previously Paliperidone Janssen-Cilag International)",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/006185",
+      "eu_number": "EU/1/24/1795",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-006185",
+      "mah": "Neuraxpharm Pharmaceuticals S.L.",
+      "marketing_authorisation_date": "2024-03-31",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/niapelf",
+      "name": "Niapelf",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000746",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "PALIPERIDONE",
+    "PALIPERIDONE PALMITATE"
+  ],
+  "inn": "paliperidone",
+  "name": "PALIPERIDONE",
+  "rank": 178,
+  "rxcui": [
+    "672567",
+    "672569",
+    "672571",
+    "686441",
+    "686443",
+    "686445",
+    "858048",
+    "858051",
+    "858052",
+    "858053",
+    "858054",
+    "858055",
+    "858056",
+    "858057",
+    "858073",
+    "858074",
+    "866103",
+    "866105",
+    "1650966",
+    "1650968",
+    "1650971",
+    "1650972",
+    "1650973",
+    "1650974",
+    "1650975",
+    "1650976",
+    "2570418",
+    "2570419",
+    "2570420",
+    "2570421",
+    "2699342",
+    "2699348",
+    "2699350",
+    "2699351",
+    "2699352",
+    "2699353",
+    "2699354"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 17,
+    "approval_holders": 14,
+    "earliest_marketing_start": "2006-12-19",
+    "latest_label_update": "2026-07-29",
+    "nda_bla_applications": 4,
+    "repackagers": 6
+  },
+  "unii": [
+    {
+      "ingredient": "PALIPERIDONE",
+      "unii": "838F01T721"
+    },
+    {
+      "ingredient": "PALIPERIDONE PALMITATE",
+      "unii": "R8P8USM8FR"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021999"
+      ],
+      "brand_names": [
+        "INVEGA"
+      ],
+      "combination": false,
+      "home_inn": "paliperidone",
+      "ingredients": [
+        "PALIPERIDONE"
+      ],
+      "labeler": "Janssen Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2006-12-19",
+      "moieties": [
+        "PALIPERIDONE"
+      ],
+      "product_ndcs": [
+        "50458-550",
+        "50458-551",
+        "50458-552",
+        "50458-554"
+      ],
+      "rxcui": [
+        "672567",
+        "672569",
+        "672571",
+        "686441",
+        "686443",
+        "686445",
+        "866103",
+        "866105"
+      ],
+      "setid": "7b8e5b26-b9e4-4704-921b-3c3c0d159916",
+      "source": "openfda",
+      "spl_version": 43,
+      "title": "INVEGA (PALIPERIDONE) TABLET, EXTENDED RELEASE [JANSSEN PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-03-20"
+    },
+    {
+      "application_numbers": [
+        "NDA022264"
+      ],
+      "brand_names": [
+        "INVEGA SUSTENNA"
+      ],
+      "combination": false,
+      "home_inn": "paliperidone",
+      "ingredients": [
+        "PALIPERIDONE PALMITATE"
+      ],
+      "labeler": "Janssen Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2009-07-31",
+      "moieties": [
+        "PALIPERIDONE"
+      ],
+      "product_ndcs": [
+        "50458-560",
+        "50458-561",
+        "50458-562",
+        "50458-563",
+        "50458-564"
+      ],
+      "rxcui": [
+        "858048",
+        "858051",
+        "858052",
+        "858053",
+        "858054",
+        "858055",
+        "858056",
+        "858057",
+        "858073",
+        "858074"
+      ],
+      "setid": "1af14e42-951d-414d-8564-5d5fce138554",
+      "source": "openfda",
+      "spl_version": 41,
+      "title": "INVEGA SUSTENNA (PALIPERIDONE PALMITATE) INJECTION [JANSSEN PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-02-17"
+    },
+    {
+      "application_numbers": [
+        "NDA207946"
+      ],
+      "brand_names": [
+        "INVEGA TRINZA"
+      ],
+      "combination": false,
+      "home_inn": "paliperidone",
+      "ingredients": [
+        "PALIPERIDONE PALMITATE"
+      ],
+      "labeler": "Janssen Pharmaceuticals, Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-05-19",
+      "moieties": [
+        "PALIPERIDONE"
+      ],
+      "product_ndcs": [
+        "50458-606",
+        "50458-607",
+        "50458-608",
+        "50458-609"
+      ],
+      "rxcui": [
+        "1650966",
+        "1650968",
+        "1650971",
+        "1650972",
+        "1650973",
+        "1650974",
+        "1650975",
+        "1650976"
+      ],
+      "setid": "c39e65d7-fa44-4e4c-8b12-a654d3ed0eae",
+      "source": "openfda",
+      "spl_version": 25,
+      "title": "INVEGA TRINZA (PALIPERIDONE PALMITATE) INJECTION, SUSPENSION, EXTENDED RELEASE [JANSSEN PHARMACEUTICALS, INC]",
+      "upload_date": "2025-02-17"
+    },
+    {
+      "application_numbers": [
+        "NDA216352"
+      ],
+      "brand_names": [
+        "Erzofri extended-release"
+      ],
+      "combination": false,
+      "home_inn": "paliperidone",
+      "ingredients": [
+        "PALIPERIDONE PALMITATE"
+      ],
+      "labeler": "Shandong Luye Pharmaceutical Co., Ltd.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-12-10",
+      "moieties": [
+        "PALIPERIDONE"
+      ],
+      "product_ndcs": [
+        "72526-105",
+        "72526-106",
+        "72526-107",
+        "72526-108",
+        "72526-109",
+        "72526-110"
+      ],
+      "rxcui": [
+        "858048",
+        "858052",
+        "858054",
+        "858056",
+        "858073",
+        "2699342",
+        "2699348",
+        "2699350",
+        "2699351",
+        "2699352",
+        "2699353",
+        "2699354"
+      ],
+      "setid": "492bf9dd-868e-421a-92db-8cca8973aac1",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "ERZOFRI EXTENDED-RELEASE (PALIPERIDONE PALMITATE) INJECTION [SHANDONG LUYE PHARMACEUTICAL CO., LTD.]",
+      "upload_date": "2026-03-10"
+    },
+    {
+      "application_numbers": [
+        "NDA207946"
+      ],
+      "brand_names": [
+        "INVEGA HAFYERA"
+      ],
+      "combination": false,
+      "home_inn": "paliperidone",
+      "ingredients": [
+        "PALIPERIDONE PALMITATE"
+      ],
+      "labeler": "Janssen Pharmaceuticals, Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-08-30",
+      "moieties": [
+        "PALIPERIDONE"
+      ],
+      "product_ndcs": [
+        "50458-611",
+        "50458-612"
+      ],
+      "rxcui": [
+        "2570418",
+        "2570419",
+        "2570420",
+        "2570421"
+      ],
+      "setid": "6cd61892-d2cb-434d-83ed-5c1b2c4e7a0b",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "INVEGA HAFYERA (PALIPERIDONE PALMITATE) INJECTION, SUSPENSION, EXTENDED RELEASE [JANSSEN PHARMACEUTICALS, INC]",
+      "upload_date": "2025-02-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA205618"
+      ],
+      "brand_names": [
+        "Paliperidone"
+      ],
+      "combination": false,
+      "home_inn": "paliperidone",
+      "ingredients": [
+        "PALIPERIDONE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-08-01",
+      "moieties": [
+        "PALIPERIDONE"
+      ],
+      "product_ndcs": [
+        "47335-744",
+        "47335-765",
+        "47335-766",
+        "47335-767"
+      ],
+      "rxcui": [
+        "672567",
+        "672569",
+        "672571",
+        "866103"
+      ],
+      "setid": "0dc3a9b2-2edf-4fa2-a949-459b4218e763",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "PALIPERIDONE TABLET, FILM COATED, EXTENDED RELEASE [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2026-04-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA204707"
+      ],
+      "brand_names": [
+        "Paliperidone"
+      ],
+      "combination": false,
+      "home_inn": "paliperidone",
+      "ingredients": [
+        "PALIPERIDONE"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-09-24",
+      "moieties": [
+        "PALIPERIDONE"
+      ],
+      "product_ndcs": [
+        "65162-280",
+        "65162-281",
+        "65162-282",
+        "65162-283"
+      ],
+      "rxcui": [
+        "672567",
+        "672569",
+        "672571",
+        "866103"
+      ],
+      "setid": "7b269778-803b-4ce2-a8c0-636fb131d16a",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "PALIPERIDONE TABLET, EXTENDED RELEASE [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2025-09-08"
+    },
+    {
+      "application_numbers": [
+        "ANDA204452"
+      ],
+      "brand_names": [
+        "PALIPERIDONE"
+      ],
+      "combination": false,
+      "home_inn": "paliperidone",
+      "ingredients": [
+        "PALIPERIDONE"
+      ],
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-11-27",
+      "moieties": [
+        "PALIPERIDONE"
+      ],
+      "product_ndcs": [
+        "43975-349",
+        "43975-350",
+        "43975-351",
+        "43975-352"
+      ],
+      "rxcui": [
+        "672567",
+        "672569",
+        "672571",
+        "866103"
+      ],
+      "setid": "bbbaa057-f587-4eb9-a0d2-463dbcd57661",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "PALIPERIDONE TABLET, EXTENDED RELEASE [ANI PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-07-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA212807"
+      ],
+      "brand_names": [
+        "Paliperidone"
+      ],
+      "combination": false,
+      "home_inn": "paliperidone",
+      "ingredients": [
+        "PALIPERIDONE"
+      ],
+      "labeler": "Tris Pharma Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-10-29",
+      "moieties": [
+        "PALIPERIDONE"
+      ],
+      "product_ndcs": [
+        "27808-222",
+        "27808-223",
+        "27808-224",
+        "27808-225"
+      ],
+      "rxcui": [
+        "672567",
+        "672569",
+        "672571",
+        "866103"
+      ],
+      "setid": "d7033e52-3df2-48e2-adda-15a57c2f148f",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "PALIPERIDONE TABLET, EXTENDED RELEASE [TRIS PHARMA INC]",
+      "upload_date": "2024-11-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA203802"
+      ],
+      "brand_names": [
+        "Paliperidone"
+      ],
+      "combination": false,
+      "home_inn": "paliperidone",
+      "ingredients": [
+        "PALIPERIDONE"
+      ],
+      "labeler": "Archis Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-04-27",
+      "moieties": [
+        "PALIPERIDONE"
+      ],
+      "product_ndcs": [
+        "72819-158",
+        "72819-159",
+        "72819-160"
+      ],
+      "rxcui": [
+        "672567",
+        "672569",
+        "672571"
+      ],
+      "setid": "e713556e-028e-0f4c-e053-2995a90a9e9f",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "PALIPERIDONE TABLET, FILM COATED, EXTENDED RELEASE [ARCHIS PHARMA LLC]",
+      "upload_date": "2026-01-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA216174"
+      ],
+      "brand_names": [
+        "PALIPERIDONE"
+      ],
+      "combination": false,
+      "home_inn": "paliperidone",
+      "ingredients": [
+        "PALIPERIDONE"
+      ],
+      "labeler": "Camber Pharmaceuticals, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-08-23",
+      "moieties": [
+        "PALIPERIDONE"
+      ],
+      "product_ndcs": [
+        "31722-317",
+        "31722-318",
+        "31722-319",
+        "31722-320"
+      ],
+      "rxcui": [
+        "672567",
+        "672569",
+        "672571",
+        "866103"
+      ],
+      "setid": "1cfcad42-da71-457d-b1e1-aee806642d0c",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "PALIPERIDONE TABLET, EXTENDED RELEASE [CAMBER PHARMACEUTICALS, INC]",
+      "upload_date": "2026-04-30"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "INVEGA"
+      ],
+      "first_posted": "2007-05-22",
+      "found_by": "INVEGA",
+      "labeler": "ALZA Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2007-05-22",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "50458-550",
+        "50458-551",
+        "50458-552"
+      ],
+      "rxcui": [],
+      "setid": "6524a778-b952-4bdc-9b81-7a2f77da4005",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "invega (paliperidone) tablet, extended release"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "71985eb4-07df-41c9-8b9a-85f39e92b7d0"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "45fc28d1-132f-413b-a407-dc90e1229ee2"
+    },
+    {
+      "combination": false,
+      "labeler": "Eskayef Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "de95e29f-a030-4777-a601-874500ab8e91"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5589ec69-c49c-44a7-9561-bbffeb918d1f"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "be30f3cc-55fb-4a74-9778-60573a7f18c6"
+    },
+    {
+      "combination": false,
+      "labeler": "Westminster Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1745a460-5e3a-4a1f-8eb3-64bb112f47a4"
+    }
+  ]
+}

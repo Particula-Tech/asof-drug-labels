@@ -1,0 +1,709 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/000141",
+      "eu_number": "EU/1/97/046",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000141",
+      "mah": "Sanofi Winthrop Industrie",
+      "marketing_authorisation_date": "1997-08-26",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/aprovel",
+      "name": "Aprovel",
+      "record_from": "1997-08-27",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 42
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/000142",
+      "eu_number": "EU/1/97/049",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-000142",
+      "mah": "Sanofi Winthrop Industrie",
+      "marketing_authorisation_date": "1997-08-26",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/karvea",
+      "name": "Karvea",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/000785",
+      "eu_number": "EU/1/06/376",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-000785",
+      "mah": "Zentiva k.s.",
+      "marketing_authorisation_date": "2007-01-19",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/irbesartan-zentiva",
+      "name": "Irbesartan Zentiva (previously Irbesartan Winthrop)",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/000962",
+      "eu_number": "EU/1/08/480",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-000962",
+      "mah": "Krka, d.d., Novo mesto",
+      "marketing_authorisation_date": "2008-12-01",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ifirmasta",
+      "name": "Ifirmasta (previously Irbesartan Krka)",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/001093",
+      "eu_number": "EU/1/09/576",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-001093",
+      "mah": "Teva B.V.",
+      "marketing_authorisation_date": "2009-10-30",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/irbesartan-teva",
+      "name": "Irbesartan Teva",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 5,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000141",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "IRBESARTAN"
+  ],
+  "inn": "irbesartan",
+  "name": "IRBESARTAN",
+  "rank": 265,
+  "rxcui": [
+    "153666",
+    "153667",
+    "200094",
+    "200095",
+    "200096",
+    "310792",
+    "310793",
+    "823934",
+    "823938"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 27,
+    "approval_holders": 20,
+    "earliest_marketing_start": "2012-09-27",
+    "latest_label_update": "2026-08-31",
+    "nda_bla_applications": 2,
+    "repackagers": 7
+  },
+  "unii": [
+    {
+      "ingredient": "IRBESARTAN",
+      "unii": "J0E2756Z7N"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020757"
+      ],
+      "brand_names": [
+        "Avapro"
+      ],
+      "combination": false,
+      "home_inn": "irbesartan",
+      "ingredients": [
+        "IRBESARTAN"
+      ],
+      "labeler": "Sanofi-Aventis U.S. LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2013-01-01",
+      "moieties": [
+        "IRBESARTAN"
+      ],
+      "product_ndcs": [
+        "0024-5851",
+        "0024-5852"
+      ],
+      "rxcui": [
+        "153666",
+        "153667",
+        "200095",
+        "200096"
+      ],
+      "setid": "7885b2a8-be4e-48ab-8113-4e6ab791eb98",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "AVAPRO (IRBESARTAN) TABLET, FILM COATED [SANOFI-AVENTIS U.S. LLC]",
+      "upload_date": "2026-08-31"
+    },
+    {
+      "application_numbers": [
+        "NDA020758"
+      ],
+      "brand_names": [
+        "Avalide"
+      ],
+      "combination": true,
+      "home_inn": "hydrochlorothiazide",
+      "ingredients": [
+        "HYDROCHLOROTHIAZIDE",
+        "IRBESARTAN"
+      ],
+      "labeler": "Sanofi-Aventis U.S. LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2013-01-01",
+      "moieties": [
+        "HYDROCHLOROTHIAZIDE",
+        "IRBESARTAN"
+      ],
+      "product_ndcs": [
+        "0024-5855",
+        "0024-5856"
+      ],
+      "rxcui": [
+        "310792",
+        "310793",
+        "823934",
+        "823938"
+      ],
+      "setid": "0d91895e-c869-4b33-9b83-d55c1ad6317e",
+      "source": "openfda",
+      "spl_version": 24,
+      "title": "AVALIDE (IRBESARTAN AND HYDROCHLOROTHIAZIDE) TABLET, FILM COATED [SANOFI-AVENTIS U.S. LLC]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA203081"
+      ],
+      "brand_names": [
+        "Irbesartan"
+      ],
+      "combination": false,
+      "home_inn": "irbesartan",
+      "ingredients": [
+        "IRBESARTAN"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-09-27",
+      "moieties": [
+        "IRBESARTAN"
+      ],
+      "product_ndcs": [
+        "65862-637",
+        "65862-638",
+        "65862-639"
+      ],
+      "rxcui": [
+        "200094",
+        "200095",
+        "200096"
+      ],
+      "setid": "2113a901-2612-4557-b86d-3afc006fb8bb",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "IRBESARTAN TABLET [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2025-11-25"
+    },
+    {
+      "application_numbers": [
+        "ANDA202910"
+      ],
+      "brand_names": [
+        "Irbesartan"
+      ],
+      "combination": false,
+      "home_inn": "irbesartan",
+      "ingredients": [
+        "IRBESARTAN"
+      ],
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-09-27",
+      "moieties": [
+        "IRBESARTAN"
+      ],
+      "product_ndcs": [
+        "31722-729",
+        "31722-730",
+        "31722-731"
+      ],
+      "rxcui": [
+        "200094",
+        "200095",
+        "200096"
+      ],
+      "setid": "33416f1e-adee-4a45-b6fe-1fc39044e307",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "IRBESARTAN (IRBESARTAN) TABLET [CAMBER PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-03-16"
+    },
+    {
+      "application_numbers": [
+        "ANDA202254"
+      ],
+      "brand_names": [
+        "Irbesartan"
+      ],
+      "combination": false,
+      "home_inn": "irbesartan",
+      "ingredients": [
+        "IRBESARTAN"
+      ],
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-09-27",
+      "moieties": [
+        "IRBESARTAN"
+      ],
+      "product_ndcs": [
+        "33342-047",
+        "33342-048",
+        "33342-049"
+      ],
+      "rxcui": [
+        "200094",
+        "200095",
+        "200096"
+      ],
+      "setid": "e8635a1c-ae06-4e23-99f7-e704f91d6f43",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "IRBESARTAN TABLET [MACLEODS PHARMACEUTICALS LIMITED]",
+      "upload_date": "2026-08-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA201531"
+      ],
+      "brand_names": [
+        "Irbesartan"
+      ],
+      "combination": false,
+      "home_inn": "irbesartan",
+      "ingredients": [
+        "IRBESARTAN"
+      ],
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-10-23",
+      "moieties": [
+        "IRBESARTAN"
+      ],
+      "product_ndcs": [
+        "68180-411",
+        "68180-412"
+      ],
+      "rxcui": [
+        "200094",
+        "200095",
+        "200096"
+      ],
+      "setid": "a7c093c2-3eef-4956-8a14-c36aada0304f",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "IRBESARTAN TABLET [LUPIN PHARMACEUTICALS, INC.]",
+      "upload_date": "2023-11-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA077205"
+      ],
+      "brand_names": [
+        "IRBESARTAN"
+      ],
+      "combination": false,
+      "home_inn": "irbesartan",
+      "ingredients": [
+        "IRBESARTAN"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-11-14",
+      "moieties": [
+        "IRBESARTAN"
+      ],
+      "product_ndcs": [
+        "62135-976",
+        "62135-977",
+        "62135-978"
+      ],
+      "rxcui": [
+        "200094",
+        "200095",
+        "200096"
+      ],
+      "setid": "6eb0cb56-2e51-45ef-9fd5-5646cf9f78a3",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "IRBESARTAN TABLET [CHARTWELL RX, LLC]",
+      "upload_date": "2026-06-22"
+    },
+    {
+      "application_numbers": [
+        "ANDA203534"
+      ],
+      "brand_names": [
+        "IRBESARTAN"
+      ],
+      "combination": false,
+      "home_inn": "irbesartan",
+      "ingredients": [
+        "IRBESARTAN"
+      ],
+      "labeler": "Jubilant Cadista Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-02-24",
+      "moieties": [
+        "IRBESARTAN"
+      ],
+      "product_ndcs": [
+        "59746-447",
+        "59746-448",
+        "59746-449"
+      ],
+      "rxcui": [
+        "200094",
+        "200095",
+        "200096"
+      ],
+      "setid": "068224c4-a34d-32d7-bb2a-7eed44ccf7d3",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "IRBESARTAN TABLET [JUBILANT CADISTA PHARMACEUTICALS INC.]",
+      "upload_date": "2026-04-22"
+    },
+    {
+      "application_numbers": [
+        "NDA020758"
+      ],
+      "archived_versions": 13,
+      "brand_names": [
+        "AVALIDE"
+      ],
+      "first_posted": "2007-01-26",
+      "found_by": "AVALIDE",
+      "labeler": "Bristol-Myers Squibb Company",
+      "labeler_unverified": true,
+      "last_posted": "2013-02-11",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-11-30",
+        "2014-06-30",
+        "2014-11-30",
+        "2015-08-31",
+        "2015-11-30"
+      ],
+      "product_ndcs": [
+        "0087-2775",
+        "0087-2776",
+        "0087-2788",
+        "0087-2875",
+        "0087-2876"
+      ],
+      "rxcui": [],
+      "setid": "9ac8b9fe-dfb9-0151-30b3-f9da72d74ac2",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "0d91895e-c869-4b33-9b83-d55c1ad6317e"
+      ],
+      "title": "AVALIDE (irbesartan and hydrochlorothiazide) tablet AVALIDE (irbesartan and hydrochlorothiazide) tablet, film coated"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "AVALIDE"
+      ],
+      "first_posted": "2008-02-08",
+      "found_by": "AVALIDE",
+      "labeler": "Bristol-Myers Squibb",
+      "labeler_unverified": true,
+      "last_posted": "2008-02-08",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0087-2775",
+        "0087-2776",
+        "0087-2788"
+      ],
+      "rxcui": [],
+      "setid": "ac9f00e6-651e-4480-9a21-e01f2bc9e97c",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "avalide (irbesartan and hydrochlorothiazide) tablet for oral use avalide (irbesartan and hydrochlorothiazide) tablet, film coated for oral use"
+    },
+    {
+      "application_numbers": [
+        "NDA020757"
+      ],
+      "archived_versions": 8,
+      "brand_names": [
+        "AVAPRO"
+      ],
+      "first_posted": "2007-12-12",
+      "found_by": "AVAPRO",
+      "labeler": "Bristol-Myers Squibb Company",
+      "labeler_unverified": true,
+      "last_posted": "2013-02-26",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-08-31",
+        "2016-03-31"
+      ],
+      "product_ndcs": [
+        "0087-2771",
+        "0087-2772",
+        "0087-2773"
+      ],
+      "rxcui": [],
+      "setid": "b7f1a9ef-c7bb-465c-e4d7-a41395205cad",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "7885b2a8-be4e-48ab-8113-4e6ab791eb98"
+      ],
+      "title": "AVAPRO (irbesartan) tablet"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "ScieGen Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ddca7d7c-07fe-4df6-83ae-a9c05048b66e"
+    },
+    {
+      "combination": false,
+      "labeler": "Unichem Pharmaceuticals (USA), Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fdf196d5-e933-49de-9c4c-bde50149c7d4"
+    },
+    {
+      "combination": false,
+      "labeler": "Solco Healthcare U.S., LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6916c617-92d2-44f5-b968-6267517a2ce6"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0898f423-0aa9-409c-8d4e-1349b59141d1"
+    },
+    {
+      "combination": false,
+      "labeler": "Hisun Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "61ab1b6e-c849-49ca-a3f0-150774db649d"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8c9bb449-6341-4f24-9d38-6ca952e07122"
+    },
+    {
+      "combination": false,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1f98fd95-e564-45b3-947f-45eba77f2af5"
+    },
+    {
+      "combination": true,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1898f438-4571-4aab-ae06-9bf1aabf0486"
+    },
+    {
+      "combination": true,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "17561aae-f0bc-4ffc-a007-985b17e9baf0"
+    },
+    {
+      "combination": true,
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "83f4acc1-697a-4770-b554-1b9a8fb5de74"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "466dd0d2-9815-4c3e-b66b-d0732b3ba8e9"
+    },
+    {
+      "combination": true,
+      "labeler": "Solco Healthcare US, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "72fa8cd4-bc2a-4a7d-8feb-2d60e077d801"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9492a1cd-c012-4b43-931d-235220065e1e"
+    },
+    {
+      "combination": true,
+      "labeler": "Unichem Pharmaceuticals (USA), Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "181324c5-256f-4570-a0bb-8bc908deb2e2"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "83f5d5c8-27c0-4208-a291-0c4aa55a1ff5"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0f3408b4-44be-4a92-a59f-9b5a9716bc9a"
+    },
+    {
+      "combination": false,
+      "labeler": "AvKARE",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2d80abcb-c995-82bc-e063-6294a90aa530"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "08c85ada-de6f-4cff-bc81-2332a22bef45"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e842fa14-b18e-4463-9bf1-a1c8700fe33c"
+    }
+  ]
+}

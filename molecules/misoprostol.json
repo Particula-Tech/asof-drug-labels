@@ -1,0 +1,383 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "MISOPROSTOL"
+  ],
+  "inn": "misoprostol",
+  "name": "MISOPROSTOL",
+  "rank": 418,
+  "rxcui": [
+    "104098",
+    "209177",
+    "311727",
+    "317128",
+    "857706",
+    "1359105",
+    "1359107",
+    "1359109"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 14,
+    "approval_holders": 12,
+    "earliest_marketing_start": "1986-12-27",
+    "latest_label_update": "2026-10-23",
+    "nda_bla_applications": 2,
+    "repackagers": 11
+  },
+  "unii": [
+    {
+      "ingredient": "MISOPROSTOL",
+      "unii": "0E43V0BB57"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA019268"
+      ],
+      "brand_names": [
+        "Cytotec"
+      ],
+      "combination": false,
+      "home_inn": "misoprostol",
+      "ingredients": [
+        "MISOPROSTOL"
+      ],
+      "labeler": "Pfizer Laboratories Div Pfizer Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1986-12-27",
+      "moieties": [
+        "MISOPROSTOL"
+      ],
+      "product_ndcs": [
+        "0025-1451",
+        "0025-1461"
+      ],
+      "rxcui": [
+        "104098",
+        "209177",
+        "311727",
+        "317128"
+      ],
+      "setid": "4ab12da7-5731-4e06-bf1c-bc3f2e711f12",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "CYTOTEC (MISOPROSTOL) TABLET [PFIZER LABORATORIES DIV PFIZER INC]",
+      "upload_date": "2026-06-05"
+    },
+    {
+      "application_numbers": [
+        "NDA020607"
+      ],
+      "brand_names": [
+        "ARTHROTEC"
+      ],
+      "combination": true,
+      "home_inn": "diclofenac",
+      "ingredients": [
+        "DICLOFENAC SODIUM",
+        "MISOPROSTOL"
+      ],
+      "labeler": "Pfizer Laboratories Div Pfizer Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1997-12-24",
+      "moieties": [
+        "DICLOFENAC",
+        "MISOPROSTOL"
+      ],
+      "product_ndcs": [
+        "0025-1411",
+        "0025-1421"
+      ],
+      "rxcui": [
+        "857706",
+        "1359105",
+        "1359107",
+        "1359109"
+      ],
+      "setid": "600fe842-45d9-4d68-9ef2-456dbbebaa11",
+      "source": "openfda",
+      "spl_version": 38,
+      "title": "ARTHROTEC (DICLOFENAC SODIUM AND MISOPROSTOL) TABLET, FILM COATED [PFIZER LABORATORIES DIV PFIZER INC]",
+      "upload_date": "2025-08-15"
+    },
+    {
+      "application_numbers": [
+        "NDA019268"
+      ],
+      "brand_names": [
+        "misoprostol"
+      ],
+      "combination": false,
+      "home_inn": "misoprostol",
+      "ingredients": [
+        "MISOPROSTOL"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2009-12-27",
+      "moieties": [
+        "MISOPROSTOL"
+      ],
+      "product_ndcs": [
+        "59762-5007",
+        "59762-5008"
+      ],
+      "rxcui": [
+        "311727",
+        "317128"
+      ],
+      "setid": "c4fe14fb-0a43-4c31-9cd6-29eb0d156705",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "MISOPROSTOL TABLET [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2026-08-27"
+    },
+    {
+      "application_numbers": [
+        "ANDA091667"
+      ],
+      "brand_names": [
+        "Misoprostol"
+      ],
+      "combination": false,
+      "home_inn": "misoprostol",
+      "ingredients": [
+        "MISOPROSTOL"
+      ],
+      "labeler": "Lupin Pharmaceuticals,Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-07-25",
+      "moieties": [
+        "MISOPROSTOL"
+      ],
+      "product_ndcs": [
+        "43386-160",
+        "43386-161"
+      ],
+      "rxcui": [
+        "311727",
+        "317128"
+      ],
+      "setid": "14f73ae3-7d8d-4d10-b668-8bd5adf8032c",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "MISOPROSTOL TABLET [LUPIN PHARMACEUTICALS,INC.]",
+      "upload_date": "2020-12-22"
+    },
+    {
+      "application_numbers": [
+        "ANDA076095"
+      ],
+      "brand_names": [
+        "Misoprostol"
+      ],
+      "combination": false,
+      "home_inn": "misoprostol",
+      "ingredients": [
+        "MISOPROSTOL"
+      ],
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-04-11",
+      "moieties": [
+        "MISOPROSTOL"
+      ],
+      "product_ndcs": [
+        "70954-443",
+        "70954-444"
+      ],
+      "rxcui": [
+        "311727",
+        "317128"
+      ],
+      "setid": "21386aa1-dc51-41c9-8872-dec4c71ebb46",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "MISOPROSTOL TABLET [ANI PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA210201"
+      ],
+      "brand_names": [
+        "Misoprostol"
+      ],
+      "combination": false,
+      "home_inn": "misoprostol",
+      "ingredients": [
+        "MISOPROSTOL"
+      ],
+      "labeler": "GenBioPro, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-09-30",
+      "moieties": [
+        "MISOPROSTOL"
+      ],
+      "product_ndcs": [
+        "43393-200"
+      ],
+      "rxcui": [
+        "317128"
+      ],
+      "setid": "21e20753-4a67-ce4e-e063-6394a90aa598",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "MISOPROSTOL TABLET [GENBIOPRO, INC.]",
+      "upload_date": "2026-06-10"
+    },
+    {
+      "application_numbers": [
+        "NDA020607"
+      ],
+      "brand_names": [
+        "Diclofenac sodium and Misoprostol"
+      ],
+      "combination": true,
+      "home_inn": "misoprostol",
+      "ingredients": [
+        "DICLOFENAC SODIUM",
+        "MISOPROSTOL"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2012-11-01",
+      "moieties": [
+        "DICLOFENAC",
+        "MISOPROSTOL"
+      ],
+      "product_ndcs": [
+        "59762-0028",
+        "59762-0029"
+      ],
+      "rxcui": [
+        "857706",
+        "1359105"
+      ],
+      "setid": "a7701e8c-4e16-4165-8b83-de2c08d5ded3",
+      "source": "openfda",
+      "spl_version": 24,
+      "title": "DICLOFENAC SODIUM AND MISOPROSTOL TABLET, FILM COATED [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2026-09-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA201089"
+      ],
+      "brand_names": [
+        "Diclofenac Sodium and Misoprostol"
+      ],
+      "combination": true,
+      "home_inn": "misoprostol",
+      "ingredients": [
+        "DICLOFENAC SODIUM",
+        "MISOPROSTOL"
+      ],
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-11-01",
+      "moieties": [
+        "DICLOFENAC",
+        "MISOPROSTOL"
+      ],
+      "product_ndcs": [
+        "0591-0397",
+        "0591-0398"
+      ],
+      "rxcui": [
+        "857706",
+        "1359105"
+      ],
+      "setid": "df8b8660-0c24-4848-8bea-c1b935090c66",
+      "source": "dailymed-title-match",
+      "spl_version": 39,
+      "title": "DICLOFENAC SODIUM AND MISOPROSTOL TABLET, DELAYED RELEASE [ACTAVIS PHARMA, INC.]",
+      "upload_date": "2026-10-23"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "afd30051-8f59-474b-9972-962a5a871dfb"
+    },
+    {
+      "combination": true,
+      "labeler": "Nivagen Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2acf46ac-8ba8-444d-b421-19d5ad49644c"
+    },
+    {
+      "combination": true,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c61df58d-d6bb-4d3e-9ef8-60caa7d4e762"
+    },
+    {
+      "combination": false,
+      "labeler": "Novel Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a46d05a2-5014-40ff-8f1b-9eca1b0aff3a"
+    },
+    {
+      "combination": false,
+      "labeler": "AvPAK",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2396e9c0-3742-69cf-e063-6394a90adb13"
+    },
+    {
+      "combination": true,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9a22cb4b-e49a-4bd7-b235-47405c302658"
+    }
+  ]
+}

@@ -1,0 +1,882 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand Viread",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000419",
+      "eu_number": "EU/1/01/200",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000419",
+      "mah": "Gilead Sciences Ireland UC",
+      "marketing_authorisation_date": "2002-02-04",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/viread",
+      "name": "Viread",
+      "record_from": "2002-02-05",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 52
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/004049",
+      "eu_number": "EU/1/16/1129",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-004049",
+      "mah": "Viatris Limited",
+      "marketing_authorisation_date": "2016-12-08",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tenofovir-disoproxil-viatris",
+      "name": "Tenofovir disoproxil Viatris (previously Tenofovir disoproxil Mylan)",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/004120",
+      "eu_number": "EU/1/16/1127",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-004120",
+      "mah": "Zentiva k.s.",
+      "marketing_authorisation_date": "2016-09-15",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tenofovir-disoproxil-zentiva",
+      "name": "Tenofovir disoproxil Zentiva",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 11,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000419",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "TENOFOVIR DISOPROXIL FUMARATE"
+  ],
+  "inn": "tenofovir-disoproxil",
+  "name": "TENOFOVIR DISOPROXIL",
+  "rank": 46,
+  "rxcui": [
+    "349251",
+    "352050",
+    "476556",
+    "639888",
+    "864661",
+    "1147334",
+    "1147337",
+    "1243227",
+    "1243229",
+    "1243324",
+    "1243326",
+    "1243328",
+    "1243330",
+    "1243343",
+    "1243346",
+    "1306292",
+    "1306298",
+    "1744001",
+    "1744003",
+    "1744005",
+    "1744007",
+    "1744009",
+    "1744011",
+    "2003249",
+    "2003255",
+    "2043464",
+    "2055813",
+    "2055815"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 44,
+    "approval_holders": 22,
+    "earliest_marketing_start": "2001-10-26",
+    "latest_label_update": "2026-07-13",
+    "nda_bla_applications": 8,
+    "repackagers": 12
+  },
+  "unii": [
+    {
+      "ingredient": "TENOFOVIR DISOPROXIL FUMARATE",
+      "unii": "OTT9J7900I"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021356",
+        "NDA022577"
+      ],
+      "brand_names": [
+        "Viread"
+      ],
+      "combination": false,
+      "home_inn": "tenofovir-disoproxil",
+      "ingredients": [
+        "TENOFOVIR DISOPROXIL FUMARATE"
+      ],
+      "labeler": "Gilead Sciences, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2001-10-26",
+      "moieties": [
+        "TENOFOVIR DISOPROXIL"
+      ],
+      "product_ndcs": [
+        "61958-0401",
+        "61958-0403",
+        "61958-0404",
+        "61958-0405",
+        "61958-0406"
+      ],
+      "rxcui": [
+        "349251",
+        "352050",
+        "1243227",
+        "1243229",
+        "1243324",
+        "1243326",
+        "1243328",
+        "1243330",
+        "1243343",
+        "1243346"
+      ],
+      "setid": "33fd6418-fbdc-42ca-a50d-ce2a476a5418",
+      "source": "openfda",
+      "spl_version": 31,
+      "title": "VIREAD (TENOFOVIR DISOPROXIL FUMARATE) TABLET, COATED VIREAD (TENOFOVIR DISOPROXIL FUMARATE) POWDER [GILEAD SCIENCES, INC.]",
+      "upload_date": "2025-02-24"
+    },
+    {
+      "application_numbers": [
+        "NDA021752"
+      ],
+      "brand_names": [
+        "Truvada"
+      ],
+      "combination": true,
+      "home_inn": "emtricitabine",
+      "ingredients": [
+        "EMTRICITABINE",
+        "TENOFOVIR DISOPROXIL FUMARATE"
+      ],
+      "labeler": "Gilead Sciences, Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2004-08-02",
+      "moieties": [
+        "EMTRICITABINE",
+        "TENOFOVIR DISOPROXIL"
+      ],
+      "product_ndcs": [
+        "61958-0701",
+        "61958-0703",
+        "61958-0704",
+        "61958-0705"
+      ],
+      "rxcui": [
+        "476556",
+        "639888",
+        "1744001",
+        "1744003",
+        "1744005",
+        "1744007",
+        "1744009",
+        "1744011"
+      ],
+      "setid": "54e82b13-a037-49ed-b4b3-030b37c0ecdd",
+      "source": "openfda",
+      "spl_version": 32,
+      "title": "TRUVADA (EMTRICITABINE AND TENOFOVIR DISOPROXIL FUMARATE) TABLET, FILM COATED [GILEAD SCIENCES, INC]",
+      "upload_date": "2025-07-25"
+    },
+    {
+      "application_numbers": [
+        "NDA202123"
+      ],
+      "brand_names": [
+        "COMPLERA"
+      ],
+      "combination": true,
+      "home_inn": "emtricitabine",
+      "ingredients": [
+        "EMTRICITABINE",
+        "RILPIVIRINE HYDROCHLORIDE",
+        "TENOFOVIR DISOPROXIL FUMARATE"
+      ],
+      "labeler": "Gilead Sciences, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2011-08-10",
+      "moieties": [
+        "EMTRICITABINE",
+        "RILPIVIRINE",
+        "TENOFOVIR DISOPROXIL"
+      ],
+      "product_ndcs": [
+        "61958-1101"
+      ],
+      "rxcui": [
+        "1147334",
+        "1147337"
+      ],
+      "setid": "d637cfab-f1e8-4eb3-a1b3-f85ca3bec612",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "COMPLERA (EMTRICITABINE, RILPIVIRINE HYDROCHLORIDE, AND TENOFOVIR DISOPROXIL FUMARATE) TABLET, FILM COATED [GILEAD SCIENCES, INC.]",
+      "upload_date": "2025-07-25"
+    },
+    {
+      "application_numbers": [
+        "NDA203100"
+      ],
+      "brand_names": [
+        "Stribild"
+      ],
+      "combination": true,
+      "home_inn": "emtricitabine",
+      "ingredients": [
+        "COBICISTAT",
+        "ELVITEGRAVIR",
+        "EMTRICITABINE",
+        "TENOFOVIR DISOPROXIL FUMARATE"
+      ],
+      "labeler": "Gilead Sciences, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2012-08-27",
+      "moieties": [
+        "COBICISTAT",
+        "ELVITEGRAVIR",
+        "EMTRICITABINE",
+        "TENOFOVIR DISOPROXIL"
+      ],
+      "product_ndcs": [
+        "61958-1201"
+      ],
+      "rxcui": [
+        "1306292",
+        "1306298"
+      ],
+      "setid": "74ae2a93-b267-444c-8f0f-a2a6522260ee",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "STRIBILD (ELVITEGRAVIR, COBICISTAT, EMTRICITABINE, AND TENOFOVIR DISOPROXIL FUMARATE) TABLET, FILM COATED [GILEAD SCIENCES, INC.]",
+      "upload_date": "2025-02-14"
+    },
+    {
+      "application_numbers": [
+        "NDA022142"
+      ],
+      "brand_names": [
+        "SYMFI"
+      ],
+      "combination": true,
+      "home_inn": "lamivudine",
+      "ingredients": [
+        "EFAVIRENZ",
+        "LAMIVUDINE",
+        "TENOFOVIR DISOPROXIL FUMARATE"
+      ],
+      "labeler": "Viatris Specialty LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-04-25",
+      "moieties": [
+        "EFAVIRENZ",
+        "LAMIVUDINE",
+        "TENOFOVIR DISOPROXIL"
+      ],
+      "product_ndcs": [
+        "49502-475"
+      ],
+      "rxcui": [
+        "864661",
+        "2043464"
+      ],
+      "setid": "81a55dd9-78a8-49c3-88ab-8f5bffafa359",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "SYMFI (EFAVIRENZ, LAMIVUDINE AND TENOFOVIR DISOPROXIL FUMARATE) TABLET, FILM COATED [VIATRIS SPECIALTY LLC]",
+      "upload_date": "2025-02-12"
+    },
+    {
+      "application_numbers": [
+        "NDA022141"
+      ],
+      "brand_names": [
+        "CIMDUO"
+      ],
+      "combination": true,
+      "home_inn": "lamivudine",
+      "ingredients": [
+        "LAMIVUDINE",
+        "TENOFOVIR DISOPROXIL FUMARATE"
+      ],
+      "labeler": "Viatris Specialty LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-06-25",
+      "moieties": [
+        "LAMIVUDINE",
+        "TENOFOVIR DISOPROXIL"
+      ],
+      "product_ndcs": [
+        "49502-450"
+      ],
+      "rxcui": [
+        "2003249",
+        "2003255"
+      ],
+      "setid": "a300f04d-118f-4136-aaf3-ddfd00197f86",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "CIMDUO (LAMIVUDINE AND TENOFOVIR DISOPROXIL FUMARATE) TABLET, FILM COATED [VIATRIS SPECIALTY LLC]",
+      "upload_date": "2025-02-10"
+    },
+    {
+      "application_numbers": [
+        "NDA210807"
+      ],
+      "brand_names": [
+        "DELSTRIGO"
+      ],
+      "combination": true,
+      "home_inn": "lamivudine",
+      "ingredients": [
+        "DORAVIRINE",
+        "LAMIVUDINE",
+        "TENOFOVIR DISOPROXIL FUMARATE"
+      ],
+      "labeler": "Merck Sharp & Dohme LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-07-20",
+      "moieties": [
+        "DORAVIRINE",
+        "LAMIVUDINE",
+        "TENOFOVIR DISOPROXIL"
+      ],
+      "product_ndcs": [
+        "0006-5007"
+      ],
+      "rxcui": [
+        "2055813",
+        "2055815"
+      ],
+      "setid": "cd1e9f84-607a-46d3-b01e-2736018d67b6",
+      "source": "openfda",
+      "spl_version": 24,
+      "title": "DELSTRIGO (DORAVIRINE, LAMIVUDINE, AND TENOFOVIR DISOPROXIL FUMARATE) TABLET, FILM COATED [MERCK SHARP & DOHME LLC]",
+      "upload_date": "2026-07-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA090636"
+      ],
+      "brand_names": [
+        "Tenofovir Disoproxil Fumarate"
+      ],
+      "combination": false,
+      "home_inn": "tenofovir-disoproxil",
+      "ingredients": [
+        "TENOFOVIR DISOPROXIL FUMARATE"
+      ],
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-01-26",
+      "moieties": [
+        "TENOFOVIR DISOPROXIL"
+      ],
+      "product_ndcs": [
+        "31722-535"
+      ],
+      "rxcui": [
+        "349251"
+      ],
+      "setid": "1ac4c628-f01f-42d4-b8e6-d12273aefc6d",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "TENOFOVIR DISOPROXIL FUMARATE (TENOFOVIR DISOPROXIL FUMARATE) TABLET, FILM COATED [CAMBER PHARMACEUTICALS, INC.]",
+      "upload_date": "2023-01-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA203232"
+      ],
+      "brand_names": [
+        "tenofovir disoproxil fumarate"
+      ],
+      "combination": false,
+      "home_inn": "tenofovir-disoproxil",
+      "ingredients": [
+        "TENOFOVIR DISOPROXIL FUMARATE"
+      ],
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-01-26",
+      "moieties": [
+        "TENOFOVIR DISOPROXIL"
+      ],
+      "product_ndcs": [
+        "33342-096"
+      ],
+      "rxcui": [
+        "349251"
+      ],
+      "setid": "532755cb-1cd3-4774-97af-05a53779b65f",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "TENOFOVIR DISOPROXIL FUMARATE TABLET, FILM COATED [MACLEODS PHARMACEUTICALS LIMITED]",
+      "upload_date": "2025-03-06"
+    },
+    {
+      "application_numbers": [
+        "ANDA090647"
+      ],
+      "brand_names": [
+        "Tenofovir Disoproxil Fumarate"
+      ],
+      "combination": false,
+      "home_inn": "tenofovir-disoproxil",
+      "ingredients": [
+        "TENOFOVIR DISOPROXIL FUMARATE"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-01-26",
+      "moieties": [
+        "TENOFOVIR DISOPROXIL"
+      ],
+      "product_ndcs": [
+        "65862-421",
+        "65862-818",
+        "65862-819",
+        "65862-820"
+      ],
+      "rxcui": [
+        "349251",
+        "1243227",
+        "1243324",
+        "1243328"
+      ],
+      "setid": "a75c6be8-3719-4bb3-8a9e-06e5254d2a82",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "TENOFOVIR DISOPROXIL FUMARATE TABLET, FILM COATED [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2024-06-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA090742"
+      ],
+      "brand_names": [
+        "TENOFOVIR DISOPROXIL FUMARATE"
+      ],
+      "combination": false,
+      "home_inn": "tenofovir-disoproxil",
+      "ingredients": [
+        "TENOFOVIR DISOPROXIL FUMARATE"
+      ],
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-01-26",
+      "moieties": [
+        "TENOFOVIR DISOPROXIL"
+      ],
+      "product_ndcs": [
+        "64380-714"
+      ],
+      "rxcui": [
+        "349251"
+      ],
+      "setid": "bcd3120b-60f6-41d8-a512-ed4a62c836b4",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "TENOFOVIR DISOPROXIL FUMARATE TABLET [STRIDES PHARMA SCIENCE LIMITED]",
+      "upload_date": "2026-06-08"
+    },
+    {
+      "application_numbers": [
+        "ANDA078800"
+      ],
+      "brand_names": [
+        "Tenofovir disoproxil fumarate"
+      ],
+      "combination": false,
+      "home_inn": "tenofovir-disoproxil",
+      "ingredients": [
+        "TENOFOVIR DISOPROXIL FUMARATE"
+      ],
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-01-26",
+      "moieties": [
+        "TENOFOVIR DISOPROXIL"
+      ],
+      "product_ndcs": [
+        "69097-533"
+      ],
+      "rxcui": [
+        "349251"
+      ],
+      "setid": "de27413a-6579-4586-80dc-39c712652952",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "TENOFOVIR DISOPROXIL FUMARATE TABLET [CIPLA USA INC.]",
+      "upload_date": "2024-03-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA206481"
+      ],
+      "brand_names": [
+        "TENOFOVIR DISOPROXIL FUMARATE"
+      ],
+      "combination": false,
+      "home_inn": "tenofovir-disoproxil",
+      "ingredients": [
+        "TENOFOVIR DISOPROXIL FUMARATE"
+      ],
+      "labeler": "Chartwell RX, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-07-31",
+      "moieties": [
+        "TENOFOVIR DISOPROXIL"
+      ],
+      "product_ndcs": [
+        "62135-466"
+      ],
+      "rxcui": [
+        "349251"
+      ],
+      "setid": "9cf11bd3-01b9-4ac8-96cc-55d57998b51d",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "TENOFOVIR DISOPROXIL FUMARATE (TENOFOVIR DISOPROXIL FUMARATE TABLETS) TABLET, FILM COATED [CHARTWELL RX, LLC.]",
+      "upload_date": "2022-12-13"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Quinn Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "92569e53-507e-7a5b-e053-2995a90aca35"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "94d78028-4ba5-4a5d-bd6f-5eca2a1b4b9d"
+    },
+    {
+      "combination": true,
+      "labeler": "Laurus Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4a7ccbbf-da20-4012-9717-31c411efb3fb"
+    },
+    {
+      "combination": true,
+      "labeler": "Laurus Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1f8f9fe1-b8fd-4f65-8832-9d3d6802d076"
+    },
+    {
+      "combination": true,
+      "labeler": "Laurus Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "98342153-b9de-4318-aac4-9f8d19590cd7"
+    },
+    {
+      "combination": true,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bc858a35-e0e1-450b-95c3-db3a4fe51a4c"
+    },
+    {
+      "combination": true,
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fc9c2149-8d40-401b-af13-5ae7f953950a"
+    },
+    {
+      "combination": true,
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e1e4d828-7870-4ea9-a66a-e658487bd859"
+    },
+    {
+      "combination": true,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7def7a95-e69e-4985-974a-efacadcecc95"
+    },
+    {
+      "combination": true,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1ac2a796-495e-4182-8eec-40363d8a85c0"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1b71df95-b1ce-4e40-908a-67fb336457f4"
+    },
+    {
+      "combination": true,
+      "labeler": "Strides Pharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7ecc604c-c4b4-4419-a733-ecb11662fc81"
+    },
+    {
+      "combination": true,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a7d94a1c-31b0-4272-8f8d-186d580e16e0"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d8c32565-9ff2-4bfb-a5cf-ae6e0e498ccc"
+    },
+    {
+      "combination": true,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e4fb5710-e23b-429e-9b51-c12366e614fc"
+    },
+    {
+      "combination": true,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3b244bb3-2e8b-4fde-b69d-330aca56fb8e"
+    },
+    {
+      "combination": true,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7fa6961e-3602-4e31-a60a-e5735899f63b"
+    },
+    {
+      "combination": true,
+      "labeler": "Laurus Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "aca22076-f435-4533-9fcf-566b0734c313"
+    },
+    {
+      "combination": true,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5f261872-d705-4549-a43d-2ad6b0164dc3"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "974d2ec8-1b51-4e69-991d-0d5dea8360f4"
+    },
+    {
+      "combination": true,
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d9a4185e-43fa-4aeb-9b0f-8db01b166038"
+    },
+    {
+      "combination": true,
+      "labeler": "Laurus Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7193c90e-456c-4cfb-8181-65a1618dae51"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "eaeb1670-4e39-4541-8ff7-47057f3f5c36"
+    },
+    {
+      "combination": false,
+      "labeler": "Florida Pharmaceutical Products, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0c7d72d6-bf80-49e0-921c-20169e87e62f"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b0459301-2bff-4336-9172-b90c7a582433"
+    },
+    {
+      "combination": true,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a0ee89b6-72c3-4b99-8d1c-d7473f1d5ef3"
+    },
+    {
+      "combination": true,
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bc37cba9-83c8-4660-a527-cd77fae9ea87"
+    },
+    {
+      "combination": true,
+      "labeler": "Exelan Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "31af598d-6ef2-469b-ac4c-3ac805e6fa44"
+    },
+    {
+      "combination": true,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d08c9455-e788-435c-9076-2bdb1a4f5b37"
+    },
+    {
+      "combination": true,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fbbc7b73-eddf-40b5-8ebb-7b3d9c42dba6"
+    },
+    {
+      "combination": true,
+      "labeler": "QUALLENT PHARMACEUTICALS HEALTH LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4af2529d-a14f-4337-87ed-04f8f27da746"
+    }
+  ]
+}

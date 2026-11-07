@@ -1,0 +1,802 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/000463",
+      "eu_number": "EU/1/02/219",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000463",
+      "mah": "H. Lundbeck A/S",
+      "marketing_authorisation_date": "2002-05-15",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ebixa",
+      "name": "Ebixa",
+      "record_from": "2002-05-15",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 26
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/000378",
+      "eu_number": "EU/1/02/218",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-000378",
+      "mah": "Merz Pharmaceuticals GmbH",
+      "marketing_authorisation_date": "2002-05-17",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/axura",
+      "name": "Axura",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/002658",
+      "eu_number": "EU/1/13/820",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-002658",
+      "mah": "KRKA, d.d.",
+      "marketing_authorisation_date": "2013-04-28",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/marixino",
+      "name": "Marixino (previously Maruxa)",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/002660",
+      "eu_number": "EU/1/13/827",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-002660",
+      "mah": "Mylan Pharmaceuticals Limited",
+      "marketing_authorisation_date": "2013-04-21",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/memantine-mylan",
+      "name": "Memantine Mylan",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/002671",
+      "eu_number": "EU/1/13/836",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-002671",
+      "mah": "Ratiopharm GmbH",
+      "marketing_authorisation_date": "2013-06-12",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/memantine-ratiopharm",
+      "name": "Memantine ratiopharm",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/002680",
+      "eu_number": "EU/1/13/824",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-002680",
+      "mah": "Actavis Group PTC ehf",
+      "marketing_authorisation_date": "2013-04-22",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/nemdatine",
+      "name": "Nemdatine",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/002766",
+      "eu_number": "EU/1/13/880",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-002766",
+      "mah": "Accord Healthcare S.L.U.",
+      "marketing_authorisation_date": "2013-12-03",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/memantine-accord",
+      "name": "Memantine Accord",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [
+      {
+        "ema_product_number": "EMEA/H/C/002711",
+        "kind": "salt",
+        "name": "Memantine Merz"
+      }
+    ],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000463",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "MEMANTINE HYDROCHLORIDE"
+  ],
+  "inn": "memantine",
+  "name": "MEMANTINE",
+  "rank": 113,
+  "rxcui": [
+    "996561",
+    "996571",
+    "996572",
+    "1599803",
+    "1599805",
+    "1602588",
+    "1602594",
+    "1805420",
+    "1805422",
+    "1805425",
+    "1805427",
+    "1858970",
+    "1858971"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 38,
+    "approval_holders": 29,
+    "earliest_marketing_start": "2014-12-24",
+    "latest_label_update": "2026-09-23",
+    "nda_bla_applications": 1,
+    "repackagers": 14
+  },
+  "unii": [
+    {
+      "ingredient": "MEMANTINE HYDROCHLORIDE",
+      "unii": "JY0WD0UA60"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA206439"
+      ],
+      "brand_names": [
+        "Namzaric"
+      ],
+      "combination": true,
+      "home_inn": "memantine",
+      "ingredients": [
+        "DONEPEZIL HYDROCHLORIDE",
+        "MEMANTINE HYDROCHLORIDE"
+      ],
+      "labeler": "Allergan, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2014-12-24",
+      "moieties": [
+        "DONEPEZIL",
+        "MEMANTINE"
+      ],
+      "product_ndcs": [
+        "0456-1207",
+        "0456-1214",
+        "0456-1221",
+        "0456-1228"
+      ],
+      "rxcui": [
+        "1599803",
+        "1599805",
+        "1602588",
+        "1602594",
+        "1805420",
+        "1805422",
+        "1805425",
+        "1805427",
+        "1858970",
+        "1858971"
+      ],
+      "setid": "90fedc32-19e5-480c-afc6-f35a5cf4b9aa",
+      "source": "openfda",
+      "spl_version": 23,
+      "title": "NAMZARIC (MEMANTINE HYDROCHLORIDE AND DONEPEZIL HYDROCHLORIDE) CAPSULE NAMZARIC (MEMANTINE HYDROCHLORIDE AND DONEPEZIL HYDROCHLORIDE) KIT [ALLERGAN, INC.]",
+      "upload_date": "2026-05-06"
+    },
+    {
+      "application_numbers": [
+        "NDA021487"
+      ],
+      "brand_names": [
+        "memantine hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "memantine",
+      "ingredients": [
+        "MEMANTINE HYDROCHLORIDE"
+      ],
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2015-04-01",
+      "moieties": [
+        "MEMANTINE"
+      ],
+      "product_ndcs": [
+        "0591-3870",
+        "0591-3875",
+        "0591-3900"
+      ],
+      "rxcui": [
+        "996561",
+        "996571",
+        "996572"
+      ],
+      "setid": "72973b46-f307-4a9e-8fb1-ad2cbccfd736",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "MEMANTINE HYDROCHLORIDE TABLET MEMANTINE HYDROCHLORIDE KIT [ACTAVIS PHARMA, INC.]",
+      "upload_date": "2024-05-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA090041"
+      ],
+      "brand_names": [
+        "Memantine hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "memantine",
+      "ingredients": [
+        "MEMANTINE HYDROCHLORIDE"
+      ],
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-04-30",
+      "moieties": [
+        "MEMANTINE"
+      ],
+      "product_ndcs": [
+        "53746-169",
+        "53746-173"
+      ],
+      "rxcui": [
+        "996561",
+        "996571"
+      ],
+      "setid": "054069b5-7aac-4106-821f-ebf7fd531b4f",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "MEMANTINE HYDROCHLORIDE (MEMANTINE) TABLET, FILM COATED [AMNEAL PHARMACEUTICALS OF NEW YORK LLC]",
+      "upload_date": "2023-11-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA090048"
+      ],
+      "brand_names": [
+        "Memantine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "memantine",
+      "ingredients": [
+        "MEMANTINE HYDROCHLORIDE"
+      ],
+      "labeler": "Dr. Reddys Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-07-11",
+      "moieties": [
+        "MEMANTINE"
+      ],
+      "product_ndcs": [
+        "55111-596",
+        "55111-597"
+      ],
+      "rxcui": [
+        "996561",
+        "996571"
+      ],
+      "setid": "a71e2482-5266-d03e-8b36-862afe78c9a4",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "MEMANTINE HYDROCHLORIDE TABLET, FILM COATED [DR. REDDYS LABORATORIES LIMITED]",
+      "upload_date": "2025-11-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA090058"
+      ],
+      "brand_names": [
+        "Memantine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "memantine",
+      "ingredients": [
+        "MEMANTINE HYDROCHLORIDE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-07-11",
+      "moieties": [
+        "MEMANTINE"
+      ],
+      "product_ndcs": [
+        "47335-321",
+        "47335-322"
+      ],
+      "rxcui": [
+        "996561",
+        "996571"
+      ],
+      "setid": "d1963395-3cf7-4433-bf2c-06295bb1c5b0",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "MEMANTINE HYDROCHLORIDE TABLET, FILM COATED [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2023-10-06"
+    },
+    {
+      "application_numbers": [
+        "ANDA090051"
+      ],
+      "brand_names": [
+        "Memantine hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "memantine",
+      "ingredients": [
+        "MEMANTINE HYDROCHLORIDE"
+      ],
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-07-13",
+      "moieties": [
+        "MEMANTINE"
+      ],
+      "product_ndcs": [
+        "68180-229",
+        "68180-230"
+      ],
+      "rxcui": [
+        "996561",
+        "996571"
+      ],
+      "setid": "1b4a0162-9cb4-4ba6-8c02-95c2955734ae",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "MEMANTINE HYDROCHLORIDE TABLET, FILM COATED [LUPIN PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-12-31"
+    },
+    {
+      "application_numbers": [
+        "ANDA090043"
+      ],
+      "brand_names": [
+        "Memantine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "memantine",
+      "ingredients": [
+        "MEMANTINE HYDROCHLORIDE"
+      ],
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-07-31",
+      "moieties": [
+        "MEMANTINE"
+      ],
+      "product_ndcs": [
+        "0832-1112",
+        "0832-1113"
+      ],
+      "rxcui": [
+        "996561",
+        "996571"
+      ],
+      "setid": "6e0ade9e-b721-4701-bcb7-de464e19e707",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "MEMANTINE HYDROCHLORIDE TABLET, FILM COATED [UPSHER-SMITH LABORATORIES, LLC]",
+      "upload_date": "2025-12-12"
+    },
+    {
+      "application_numbers": [
+        "NDA022525"
+      ],
+      "archived_versions": 13,
+      "brand_names": [
+        "NAMENDA"
+      ],
+      "first_posted": "2011-11-09",
+      "found_by": "NAMENDA",
+      "labeler": "Allergan, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2026-01-02",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-12-31",
+        "2022-07-31",
+        "2024-10-31"
+      ],
+      "product_ndcs": [
+        "0456-3400",
+        "0456-3407",
+        "0456-3414",
+        "0456-3421",
+        "0456-3428"
+      ],
+      "rxcui": [],
+      "setid": "710f523f-0158-4639-8ce7-57598247d48c",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "NAMENDA XR (memantine hydrochloride) capsule, extended release NAMENDA XR (memantine hydrochloride) kit"
+    },
+    {
+      "application_numbers": [
+        "NDA021487"
+      ],
+      "archived_versions": 13,
+      "brand_names": [
+        "NAMENDA"
+      ],
+      "first_posted": "2007-09-14",
+      "found_by": "NAMENDA",
+      "labeler": "Allergan, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2024-12-20",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-01-31",
+        "2024-02-29",
+        "2025-10-31"
+      ],
+      "product_ndcs": [
+        "0456-3200",
+        "0456-3205",
+        "0456-3210"
+      ],
+      "rxcui": [],
+      "setid": "b9f27baf-aa2a-443a-9ef5-e002d23407ba",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "72973b46-f307-4a9e-8fb1-ad2cbccfd736"
+      ],
+      "title": "NAMENDA (memantine hydrochloride) tablet NAMENDA (memantine hydrochloride) kit"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "292671f2-f221-4a3d-a110-a266a9527e04"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "42f0a9f2-4aa4-46fb-bc24-d3df843bb906"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "989fa756-7d70-4ea7-bb5e-f4395e48589d"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a7b76864-6de7-45f6-be5b-5ecfca811627"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "af2b73da-1be4-4b7f-929b-acb3b9a10f78"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ceb733fa-4526-4b76-ab6a-bd4c5638afff"
+    },
+    {
+      "combination": false,
+      "labeler": "Unichem Pharmaceuticals (USA), Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ff74edcb-d7ed-4b70-8f22-4cb5ccc58f90"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "514421f3-f525-43e8-aecc-8b2bbffd00dc"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f2b7538d-8ca1-4ac7-a172-d268e2fa9a52"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "24290655-47f3-4042-a977-a832c5161d2c"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "eac265e6-6ea4-4368-acff-2efe6a8dd40a"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4076d3ef-d0a9-96c5-1a15-812c1e42929c"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6906b0b4-1944-40f0-844a-e0db72ba4675"
+    },
+    {
+      "combination": false,
+      "labeler": "Seton Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "421f6478-09df-49d3-a7c4-52814b4aa90e"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2b2dcd54-47e0-494b-85d2-c28c3adbe737"
+    },
+    {
+      "combination": false,
+      "labeler": "Slate Run Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a74050c4-5a37-4fa1-85d9-85831525cfeb"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "910827aa-5320-446c-8f66-3f17c0ee36d9"
+    },
+    {
+      "combination": false,
+      "labeler": "Vitruvias Therapeutics, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0c7fd6ab-2ce5-4110-b6e6-9103c8da0765"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a282fbed-8304-458e-a0e9-5eaccc95339b"
+    },
+    {
+      "combination": false,
+      "labeler": "Carlsbad Technology, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "30b4d5c4-0a31-c385-e063-6394a90adbce"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "62e32b0b-1eb2-424d-bfd2-d27ef27d35f3"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2335950c-be3b-4248-ad04-e9763aee47d2"
+    },
+    {
+      "combination": true,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c42a995d-cd0f-466c-8f47-43c7f32d9675"
+    },
+    {
+      "combination": true,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3d9a23dc-8cbe-47c3-a048-70d86cb9dc14"
+    },
+    {
+      "combination": true,
+      "labeler": "Vitruvias Therapeutics, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c888a2b2-92c6-46ae-99ea-21de616208b6"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b86c0f6e-480b-40e7-aa4d-21bd0659101d"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell Governmental & Specialty RX, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d1f97615-e888-421e-b50a-95a87a1965ff"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ec825bef-2313-45c2-8858-b43197680155"
+    },
+    {
+      "combination": false,
+      "labeler": "Viona Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dcbdb62a-a4e2-4058-b73c-46005f2a5d51"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f73e0df0-4af4-42f1-bde6-3cccb47ca378"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7a40ed9d-8853-b616-ff47-0c7b0fd28959"
+    }
+  ]
+}

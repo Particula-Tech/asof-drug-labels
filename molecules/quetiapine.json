@@ -1,0 +1,725 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "QUETIAPINE",
+    "QUETIAPINE FUMARATE"
+  ],
+  "inn": "quetiapine",
+  "name": "QUETIAPINE",
+  "rank": 167,
+  "rxcui": [
+    "153638",
+    "153639",
+    "153640",
+    "284509",
+    "312743",
+    "312744",
+    "312745",
+    "317174",
+    "389201",
+    "616483",
+    "616485",
+    "616487",
+    "616489",
+    "721791",
+    "721793",
+    "721794",
+    "721795",
+    "721796",
+    "721797",
+    "853201",
+    "853202",
+    "895670",
+    "895671"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 34,
+    "approval_holders": 25,
+    "earliest_marketing_start": "1997-10-01",
+    "latest_label_update": "2026-09-23",
+    "nda_bla_applications": 2,
+    "repackagers": 18
+  },
+  "unii": [
+    {
+      "ingredient": "QUETIAPINE",
+      "unii": "BGL0JSY5SI"
+    },
+    {
+      "ingredient": "QUETIAPINE FUMARATE",
+      "unii": "2S3PL1B6UJ"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020639"
+      ],
+      "brand_names": [
+        "SEROQUEL"
+      ],
+      "combination": false,
+      "home_inn": "quetiapine",
+      "ingredients": [
+        "QUETIAPINE FUMARATE"
+      ],
+      "labeler": "AstraZeneca Pharmaceuticals LP",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1997-10-01",
+      "moieties": [
+        "QUETIAPINE"
+      ],
+      "product_ndcs": [
+        "0310-0271",
+        "0310-0272",
+        "0310-0274",
+        "0310-0275",
+        "0310-0278",
+        "0310-0279"
+      ],
+      "rxcui": [
+        "153638",
+        "153639",
+        "153640",
+        "284509",
+        "312743",
+        "312744",
+        "312745",
+        "317174",
+        "616483",
+        "616485",
+        "616487",
+        "616489"
+      ],
+      "setid": "0584dda8-bc3c-48fe-1a90-79608f78e8a0",
+      "source": "openfda",
+      "spl_version": 50,
+      "title": "SEROQUEL (QUETIAPINE) TABLET, FILM COATED [ASTRAZENECA PHARMACEUTICALS LP]",
+      "upload_date": "2025-03-12"
+    },
+    {
+      "application_numbers": [
+        "NDA022047"
+      ],
+      "brand_names": [
+        "SEROQUEL XR"
+      ],
+      "combination": false,
+      "home_inn": "quetiapine",
+      "ingredients": [
+        "QUETIAPINE FUMARATE"
+      ],
+      "labeler": "AstraZeneca Pharmaceuticals LP",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2007-07-16",
+      "moieties": [
+        "QUETIAPINE"
+      ],
+      "product_ndcs": [
+        "0310-0281",
+        "0310-0282",
+        "0310-0283",
+        "0310-0284"
+      ],
+      "rxcui": [
+        "721791",
+        "721793",
+        "721794",
+        "721795",
+        "721796",
+        "721797",
+        "853201",
+        "853202",
+        "895670",
+        "895671"
+      ],
+      "setid": "473a3ac4-67f4-4782-baa9-7f9bdd8761f4",
+      "source": "openfda",
+      "spl_version": 47,
+      "title": "SEROQUEL XR (QUETIAPINE) TABLET, EXTENDED RELEASE [ASTRAZENECA PHARMACEUTICALS LP]",
+      "upload_date": "2025-03-13"
+    },
+    {
+      "application_numbers": [
+        "NDA020639"
+      ],
+      "brand_names": [
+        "SEROQUEL"
+      ],
+      "combination": false,
+      "home_inn": "quetiapine",
+      "ingredients": [
+        "QUETIAPINE FUMARATE"
+      ],
+      "labeler": "H2-Pharma, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1997-10-01",
+      "moieties": [
+        "QUETIAPINE"
+      ],
+      "product_ndcs": [
+        "61269-250",
+        "61269-251",
+        "61269-252",
+        "61269-253",
+        "61269-254",
+        "61269-255"
+      ],
+      "rxcui": [
+        "153638",
+        "153639",
+        "153640",
+        "284509",
+        "312743",
+        "312744",
+        "312745",
+        "317174",
+        "616483",
+        "616485",
+        "616487",
+        "616489"
+      ],
+      "setid": "8ae62aaf-f8c5-417f-baac-0098369ca322",
+      "source": "openfda",
+      "spl_version": 53,
+      "title": "SEROQUEL (QUETIAPINE) TABLET, FILM COATED [H2-PHARMA, LLC]",
+      "upload_date": "2026-04-13"
+    },
+    {
+      "application_numbers": [
+        "NDA022047"
+      ],
+      "brand_names": [
+        "SEROQUEL XR"
+      ],
+      "combination": false,
+      "home_inn": "quetiapine",
+      "ingredients": [
+        "QUETIAPINE FUMARATE"
+      ],
+      "labeler": "H2-Pharma, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2007-07-16",
+      "moieties": [
+        "QUETIAPINE"
+      ],
+      "product_ndcs": [
+        "61269-270",
+        "61269-271",
+        "61269-272",
+        "61269-273",
+        "61269-274"
+      ],
+      "rxcui": [
+        "721791",
+        "721793",
+        "721794",
+        "721795",
+        "721796",
+        "721797",
+        "853201",
+        "853202",
+        "895670",
+        "895671"
+      ],
+      "setid": "ab959a35-d0ba-4f18-8f2e-6619d88b16e3",
+      "source": "openfda",
+      "spl_version": 50,
+      "title": "SEROQUEL XR (QUETIAPINE) TABLET, EXTENDED RELEASE [H2-PHARMA, LLC]",
+      "upload_date": "2026-04-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA090120",
+        "ANDA090749"
+      ],
+      "brand_names": [
+        "Quetiapine Fumarate"
+      ],
+      "combination": false,
+      "home_inn": "quetiapine",
+      "ingredients": [
+        "QUETIAPINE FUMARATE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-03-27",
+      "moieties": [
+        "QUETIAPINE"
+      ],
+      "product_ndcs": [
+        "0054-0220",
+        "0054-0221",
+        "0054-0222",
+        "0054-0223",
+        "0054-0229",
+        "0054-0230"
+      ],
+      "rxcui": [
+        "312743",
+        "312744",
+        "312745",
+        "317174",
+        "616483",
+        "616487"
+      ],
+      "setid": "271e9fb7-3c70-43fc-8279-5adf189f3c22",
+      "source": "openfda",
+      "spl_version": 26,
+      "title": "QUETIAPINE FUMARATE TABLET [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2025-03-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA091388"
+      ],
+      "brand_names": [
+        "Quetiapine Fumarate"
+      ],
+      "combination": false,
+      "home_inn": "quetiapine",
+      "ingredients": [
+        "QUETIAPINE FUMARATE"
+      ],
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-03-27",
+      "moieties": [
+        "QUETIAPINE"
+      ],
+      "product_ndcs": [
+        "16571-717",
+        "16571-718",
+        "16571-719",
+        "16571-720",
+        "16571-721",
+        "16571-722",
+        "16571-809"
+      ],
+      "rxcui": [
+        "312743",
+        "312744",
+        "312745",
+        "317174",
+        "389201",
+        "616483",
+        "616487"
+      ],
+      "setid": "532c8ace-4cf5-4a08-bae7-2af8c41ffa3d",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "QUETIAPINE FUMARATE TABLET, FILM COATED [RISING PHARMA HOLDINGS, INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA201109"
+      ],
+      "brand_names": [
+        "Quetiapine fumarate"
+      ],
+      "combination": false,
+      "home_inn": "quetiapine",
+      "ingredients": [
+        "QUETIAPINE FUMARATE"
+      ],
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-03-27",
+      "moieties": [
+        "QUETIAPINE"
+      ],
+      "product_ndcs": [
+        "68180-445",
+        "68180-446",
+        "68180-447",
+        "68180-448",
+        "68180-449",
+        "68180-450"
+      ],
+      "rxcui": [
+        "312743",
+        "312744",
+        "312745",
+        "317174",
+        "616483",
+        "616487"
+      ],
+      "setid": "a951cd63-d329-47c9-965a-582fa73a07c6",
+      "source": "openfda",
+      "spl_version": 29,
+      "title": "QUETIAPINE FUMARATE TABLET [LUPIN PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-06-08"
+    },
+    {
+      "application_numbers": [
+        "ANDA077745"
+      ],
+      "brand_names": [
+        "Quetiapine"
+      ],
+      "combination": false,
+      "home_inn": "quetiapine",
+      "ingredients": [
+        "QUETIAPINE FUMARATE"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-03-27",
+      "moieties": [
+        "QUETIAPINE"
+      ],
+      "product_ndcs": [
+        "0093-2063",
+        "0093-8162",
+        "0093-8163",
+        "0093-8164",
+        "0093-8165",
+        "0093-8166"
+      ],
+      "rxcui": [
+        "312743",
+        "312744",
+        "312745",
+        "317174",
+        "616483",
+        "616487"
+      ],
+      "setid": "c1d4ef59-bf58-44fe-9b46-1af42e2f7f8b",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "QUETIAPINE TABLET, FILM COATED [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2026-02-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA202152"
+      ],
+      "brand_names": [
+        "Quetiapine"
+      ],
+      "combination": false,
+      "home_inn": "quetiapine",
+      "ingredients": [
+        "QUETIAPINE FUMARATE"
+      ],
+      "labeler": "Accord Healthcare Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-03-28",
+      "moieties": [
+        "QUETIAPINE"
+      ],
+      "product_ndcs": [
+        "16729-145",
+        "16729-146",
+        "16729-147",
+        "16729-148",
+        "16729-149",
+        "16729-150"
+      ],
+      "rxcui": [
+        "312743",
+        "312744",
+        "312745",
+        "317174",
+        "616483",
+        "616487"
+      ],
+      "setid": "2d77412a-e084-4406-ac33-d882aece9354",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "QUETIAPINE TABLET, FILM COATED [ACCORD HEALTHCARE INC.]",
+      "upload_date": "2025-11-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA201190"
+      ],
+      "brand_names": [
+        "Quetiapine fumarate"
+      ],
+      "combination": false,
+      "home_inn": "quetiapine",
+      "ingredients": [
+        "QUETIAPINE FUMARATE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-03-28",
+      "moieties": [
+        "QUETIAPINE"
+      ],
+      "product_ndcs": [
+        "47335-902",
+        "47335-903",
+        "47335-904",
+        "47335-905",
+        "47335-906",
+        "47335-907"
+      ],
+      "rxcui": [
+        "312743",
+        "312744",
+        "312745",
+        "317174",
+        "616483",
+        "616487"
+      ],
+      "setid": "ffe52b98-9872-48c1-90fd-8fcd37c3432f",
+      "source": "openfda",
+      "spl_version": 24,
+      "title": "QUETIAPINE FUMARATE TABLET, FILM COATED QUETIAPINE FUMARATE (QUETIAPINE FUMARATE) TABLET, FILM COATED [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2026-06-03"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3112a006-1c61-47f2-84f5-9a7670d09c9b"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "531cbe20-dff2-4983-9788-4543079f83ff"
+    },
+    {
+      "combination": false,
+      "labeler": "Unichem Pharmaceuticals (USA), Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bdc9354b-172e-4bb3-895a-6c7cfef0ef14"
+    },
+    {
+      "combination": false,
+      "labeler": "Accord Healthcare Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3ffe0294-3959-2755-e054-00144ff8d46c"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "93ab6237-321e-4a2c-b0ca-3fc9acb31f9a"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7803a290-91c0-4e7f-90b5-d2ff33a46cee"
+    },
+    {
+      "combination": false,
+      "labeler": "Ingenus Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8923c441-c9aa-4b30-89d7-dbaaa7f66656"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d699b8c7-8a1c-44ed-85d8-c821a9c8c848"
+    },
+    {
+      "combination": false,
+      "labeler": "ACI Healthcare USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "07e4f3f4-42cb-4b22-bf8d-8c3279d26e97"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6562eb60-0d70-4909-bd07-88d5c9241516"
+    },
+    {
+      "combination": false,
+      "labeler": "Accord Healthcare Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "72111c36-c625-434f-9f16-7f25e0ff75f3"
+    },
+    {
+      "combination": false,
+      "labeler": "AlignScience Pharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "db3ba268-21a2-4988-b5c1-353741bcaee5"
+    },
+    {
+      "combination": false,
+      "labeler": "Solco Healthcare U.S., LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b0cce89c-0e84-4f60-8e50-0e26c41c2613"
+    },
+    {
+      "combination": false,
+      "labeler": "Solco Healthcare US, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "61b1230e-c0dc-46c6-a577-7d5dd2515eb7"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5c6aeb85-3ac2-4448-b544-9a4c5f562ed3"
+    },
+    {
+      "combination": false,
+      "labeler": "Unichem Pharmaceuticals (USA), Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "61695b42-cf71-43e3-8b5d-788fd439489f"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8df82f5a-aa0e-4f8c-bae1-2f32ede3d7b6"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e6e25ef9-2671-489e-8eca-58bedb4f59ab"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "874e50ad-5da0-4ac3-9290-79442c91399e"
+    },
+    {
+      "combination": false,
+      "labeler": "AvPAK",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6b7d7d2f-a50b-8e21-2de4-ccc102016384"
+    },
+    {
+      "combination": false,
+      "labeler": "ScieGen Pharmaceuticals, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5e4a84b1-fb8c-44d0-8213-51e43d71db69"
+    },
+    {
+      "combination": false,
+      "labeler": "Quallent Pharmaceuticals Health LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d51c5bf6-950d-493b-be55-de575c5ef2e7"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "186c5cde-5066-4436-99ef-28049c12826b"
+    },
+    {
+      "combination": false,
+      "labeler": "XLCare Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "070faf07-0ce7-4354-8643-9d222b72ecad"
+    }
+  ]
+}

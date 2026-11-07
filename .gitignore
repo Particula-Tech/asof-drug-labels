@@ -1,0 +1,19 @@
+# Large or regenerable data: never committed
+m0-data/
+raw/
+build/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS and editor junk
+.DS_Store
+.idea/
+.vscode/
+
+# Draft commit messages (local only)
+.commits/
+
+# Python virtual environments (EU PDF extraction)
+.venv*/

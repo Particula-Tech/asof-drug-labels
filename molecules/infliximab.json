@@ -1,0 +1,340 @@
+{
+  "biologic": true,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand REMICADE",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000240",
+      "eu_number": "EU/1/99/116",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000240",
+      "mah": "Janssen Cilag International NV",
+      "marketing_authorisation_date": "1999-08-13",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/remicade",
+      "name": "Remicade",
+      "record_from": "1999-08-13",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 71
+    },
+    {
+      "biosimilar": true,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/002576",
+      "eu_number": "EU/1/13/853",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-002576",
+      "mah": "Celltrion Healthcare Hungary Kft.",
+      "marketing_authorisation_date": "2013-09-10",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/remsima",
+      "name": "Remsima",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": true,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/004020",
+      "eu_number": "EU/1/16/1106",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-004020",
+      "mah": "Samsung Bioepis NL B.V.",
+      "marketing_authorisation_date": "2016-05-26",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/flixabi",
+      "name": "Flixabi",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": true,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/004647",
+      "eu_number": "EU/1/18/1280",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-004647",
+      "mah": "Sandoz GmbH",
+      "marketing_authorisation_date": "2018-05-18",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/zessly",
+      "name": "Zessly",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000240",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "INFLIXIMAB",
+    "INFLIXIMAB-DYYB"
+  ],
+  "inn": "infliximab",
+  "name": "INFLIXIMAB",
+  "rank": 120,
+  "rxcui": [
+    "213361",
+    "310994",
+    "797544",
+    "1790541",
+    "1790546",
+    "1927285",
+    "1927290",
+    "2266525",
+    "2266530",
+    "2675742",
+    "2675749",
+    "2675753",
+    "2675757"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 6,
+    "approval_holders": 5,
+    "earliest_marketing_start": "1998-08-24",
+    "latest_label_update": "2026-09-01",
+    "nda_bla_applications": 5,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "INFLIXIMAB",
+      "unii": "B72HH48FLU"
+    },
+    {
+      "ingredient": "INFLIXIMAB-DYYB",
+      "unii": "B72HH48FLU"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "BLA103772"
+      ],
+      "brand_names": [
+        "REMICADE"
+      ],
+      "combination": false,
+      "home_inn": "infliximab",
+      "ingredients": [
+        "INFLIXIMAB"
+      ],
+      "labeler": "Janssen Biotech, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "1998-08-24",
+      "moieties": [
+        "INFLIXIMAB"
+      ],
+      "product_ndcs": [
+        "57894-030"
+      ],
+      "rxcui": [
+        "213361",
+        "310994"
+      ],
+      "setid": "a0a046c1-056d-45a9-bfd9-13b47c24f257",
+      "source": "openfda",
+      "spl_version": 37,
+      "title": "REMICADE (INFLIXIMAB) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [JANSSEN BIOTECH, INC.]",
+      "upload_date": "2025-06-05"
+    },
+    {
+      "application_numbers": [
+        "BLA125544"
+      ],
+      "brand_names": [
+        "INFLECTRA"
+      ],
+      "combination": false,
+      "home_inn": "infliximab",
+      "ingredients": [
+        "INFLIXIMAB"
+      ],
+      "labeler": "Pfizer Laboratories Div Pfizer Inc",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2016-11-21",
+      "moieties": [
+        "INFLIXIMAB"
+      ],
+      "product_ndcs": [
+        "0069-0809"
+      ],
+      "rxcui": [
+        "1790541",
+        "1790546"
+      ],
+      "setid": "37eaca10-d812-48bc-8b8e-b836bfa9968f",
+      "source": "dailymed-title-match",
+      "spl_version": 24,
+      "title": "INFLECTRA (INFLIXIMAB-DYYB) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [PFIZER LABORATORIES DIV PFIZER INC]",
+      "upload_date": "2026-07-28"
+    },
+    {
+      "application_numbers": [
+        "BLA761054"
+      ],
+      "brand_names": [
+        "Renflexis"
+      ],
+      "combination": false,
+      "home_inn": "infliximab",
+      "ingredients": [
+        "INFLIXIMAB"
+      ],
+      "labeler": "Organon LLC",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2017-04-21",
+      "moieties": [
+        "INFLIXIMAB"
+      ],
+      "product_ndcs": [
+        "78206-162"
+      ],
+      "rxcui": [
+        "1927285",
+        "1927290"
+      ],
+      "setid": "dbf738c4-3fac-4422-a9d8-51d9c83a8789",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "RENFLEXIS (INFLIXIMAB) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [ORGANON LLC]",
+      "upload_date": "2026-09-01"
+    },
+    {
+      "application_numbers": [
+        "BLA761086"
+      ],
+      "brand_names": [
+        "AVSOLA"
+      ],
+      "combination": false,
+      "home_inn": "infliximab",
+      "ingredients": [
+        "INFLIXIMAB"
+      ],
+      "labeler": "Amgen, Inc",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2019-12-12",
+      "moieties": [
+        "INFLIXIMAB"
+      ],
+      "product_ndcs": [
+        "55513-670"
+      ],
+      "rxcui": [
+        "2266525",
+        "2266530"
+      ],
+      "setid": "de34bcb7-b524-45c8-9181-61c6f48d540e",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "AVSOLA (INFLIXIMAB-AXXQ) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [AMGEN, INC]",
+      "upload_date": "2026-07-29"
+    },
+    {
+      "application_numbers": [
+        "BLA761358"
+      ],
+      "brand_names": [
+        "ZYMFENTRA"
+      ],
+      "combination": false,
+      "home_inn": "infliximab",
+      "ingredients": [
+        "INFLIXIMAB-DYYB"
+      ],
+      "labeler": "CELLTRION USA Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2024-03-01",
+      "moieties": [
+        "INFLIXIMAB"
+      ],
+      "product_ndcs": [
+        "72606-025",
+        "72606-047"
+      ],
+      "rxcui": [
+        "797544",
+        "2675742",
+        "2675749",
+        "2675753",
+        "2675757"
+      ],
+      "setid": "93a193ab-9f96-4da6-aa7c-31212e81879a",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "ZYMFENTRA (INFLIXIMAB-DYYB) KIT ZYMFENTRA (INFLIXIMAB-DYYB) INJECTION [CELLTRION USA INC.]",
+      "upload_date": "2026-08-20"
+    },
+    {
+      "application_numbers": [
+        "BLA103772"
+      ],
+      "brand_names": [
+        "INFLIXIMAB"
+      ],
+      "combination": false,
+      "home_inn": "infliximab",
+      "ingredients": [
+        "INFLIXIMAB"
+      ],
+      "labeler": "Janssen Biotech, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2021-10-05",
+      "moieties": [
+        "INFLIXIMAB"
+      ],
+      "product_ndcs": [
+        "57894-160"
+      ],
+      "rxcui": [
+        "310994"
+      ],
+      "setid": "b05c174f-832c-4321-b34f-2c4ad3742269",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "INFLIXIMAB INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [JANSSEN BIOTECH, INC.]",
+      "upload_date": "2026-02-19"
+    }
+  ],
+  "us_excluded": []
+}

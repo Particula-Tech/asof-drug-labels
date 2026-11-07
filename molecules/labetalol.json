@@ -1,0 +1,576 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "LABETALOL",
+    "LABETALOL HYDROCHLORIDE"
+  ],
+  "inn": "labetalol",
+  "name": "LABETALOL",
+  "rank": 133,
+  "rxcui": [
+    "896758",
+    "896762",
+    "896766",
+    "896771",
+    "1234256",
+    "2477889",
+    "2479564",
+    "2479566",
+    "2479567"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 34,
+    "approval_holders": 28,
+    "earliest_marketing_start": "1999-11-29",
+    "latest_label_update": "2026-09-24",
+    "nda_bla_applications": 1,
+    "repackagers": 15
+  },
+  "unii": [
+    {
+      "ingredient": "LABETALOL",
+      "unii": "R5H8897N95"
+    },
+    {
+      "ingredient": "LABETALOL HYDROCHLORIDE",
+      "unii": "1GEV3BAW9J"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA213330"
+      ],
+      "brand_names": [
+        "Labetalol HCl in Dextrose",
+        "Labetalol HCl in Sodium Chloride",
+        "Labetalol Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "labetalol",
+      "ingredients": [
+        "LABETALOL HYDROCHLORIDE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2020-11-09",
+      "moieties": [
+        "LABETALOL"
+      ],
+      "product_ndcs": [
+        "0143-9183",
+        "0143-9363",
+        "0143-9364",
+        "0143-9365",
+        "0143-9366"
+      ],
+      "rxcui": [
+        "2477889",
+        "2479564",
+        "2479566",
+        "2479567"
+      ],
+      "setid": "99a715a0-4579-410c-b102-7ef6fab8db55",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "LABETALOL HCL IN SODIUM CHLORIDE (LABETALOL HYDROCHLORIDE) INJECTION LABETALOL HCL IN DEXTROSE (LABETALOL HYDROCHLORIDE) INJECTION LABETALOL HYDROCHLORIDE INJECTION, SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2025-12-22"
+    },
+    {
+      "application_numbers": [
+        "ANDA075303"
+      ],
+      "brand_names": [
+        "Labetalol Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "labetalol",
+      "ingredients": [
+        "LABETALOL HYDROCHLORIDE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1999-11-29",
+      "moieties": [
+        "LABETALOL"
+      ],
+      "product_ndcs": [
+        "0143-9622",
+        "0143-9623"
+      ],
+      "rxcui": [
+        "896771"
+      ],
+      "setid": "30f9fdef-8781-4327-9a8d-812cb31ff041",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "LABETALOL HYDROCHLORIDE INJECTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2024-07-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA075239"
+      ],
+      "brand_names": [
+        "Labetalol Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "labetalol",
+      "ingredients": [
+        "LABETALOL HYDROCHLORIDE"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2005-10-18",
+      "moieties": [
+        "LABETALOL"
+      ],
+      "product_ndcs": [
+        "0409-2339"
+      ],
+      "rxcui": [
+        "1234256"
+      ],
+      "setid": "d3579d45-a964-40fe-e3a2-a3a997c8b7b9",
+      "source": "openfda",
+      "spl_version": 20,
+      "title": "LABETALOL HYDROCHLORIDE INJECTION, SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2021-06-01"
+    },
+    {
+      "application_numbers": [
+        "ANDA090699"
+      ],
+      "brand_names": [
+        "Labetalol Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "labetalol",
+      "ingredients": [
+        "LABETALOL HYDROCHLORIDE"
+      ],
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-04-19",
+      "moieties": [
+        "LABETALOL"
+      ],
+      "product_ndcs": [
+        "68083-111"
+      ],
+      "rxcui": [
+        "896771"
+      ],
+      "setid": "48caf986-3126-48e1-afcd-16d65c9cfe00",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "LABETALOL HYDROCHLORIDE INJECTION, SOLUTION [GLAND PHARMA LIMITED]",
+      "upload_date": "2024-05-22"
+    },
+    {
+      "application_numbers": [
+        "ANDA207743"
+      ],
+      "brand_names": [
+        "Labetalol Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "labetalol",
+      "ingredients": [
+        "LABETALOL HYDROCHLORIDE"
+      ],
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-12-05",
+      "moieties": [
+        "LABETALOL"
+      ],
+      "product_ndcs": [
+        "68382-798",
+        "68382-799",
+        "68382-800"
+      ],
+      "rxcui": [
+        "896758",
+        "896762",
+        "896766"
+      ],
+      "setid": "5942a5a8-c3c1-4ecb-921e-9bc92393bdf8",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "LABETALOL HYDROCHLORIDE TABLET, FILM COATED [ZYDUS PHARMACEUTICALS USA INC.]",
+      "upload_date": "2026-03-06"
+    },
+    {
+      "application_numbers": [
+        "ANDA211325"
+      ],
+      "brand_names": [
+        "Labetalol Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "labetalol",
+      "ingredients": [
+        "LABETALOL HYDROCHLORIDE"
+      ],
+      "labeler": "Cadila Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-03-05",
+      "moieties": [
+        "LABETALOL"
+      ],
+      "product_ndcs": [
+        "71209-083",
+        "71209-084",
+        "71209-085"
+      ],
+      "rxcui": [
+        "896758",
+        "896762",
+        "896766"
+      ],
+      "setid": "5fba93fc-4580-48c2-a1ec-5d446680adcf",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "LABETALOL HYDROCHLORIDE TABLET, FILM COATED [CADILA PHARMACEUTICALS LIMITED]",
+      "upload_date": "2022-12-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA075215"
+      ],
+      "brand_names": [
+        "Labetalol Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "labetalol",
+      "ingredients": [
+        "LABETALOL"
+      ],
+      "labeler": "Method Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-11-22",
+      "moieties": [
+        "LABETALOL"
+      ],
+      "product_ndcs": [
+        "58657-602",
+        "58657-603",
+        "58657-604",
+        "58657-906",
+        "58657-907",
+        "58657-908"
+      ],
+      "rxcui": [
+        "896758",
+        "896762",
+        "896766"
+      ],
+      "setid": "733d6e32-ac90-4796-bf25-9d5887c897a5",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "LABETALOL HYDROCHLORIDE TABLET, FILM COATED [METHOD PHARMACEUTICALS, LLC]",
+      "upload_date": "2025-12-25"
+    },
+    {
+      "application_numbers": [
+        "NDA019425"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "TRANDATE"
+      ],
+      "first_posted": "2009-04-14",
+      "found_by": "TRANDATE",
+      "labeler": "Prometheus Laboratories Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2010-12-07",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2006-03-01"
+      ],
+      "product_ndcs": [
+        "65483-355"
+      ],
+      "rxcui": [],
+      "setid": "61dd5e94-9c88-49c5-81ad-deef90639fc9",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "TRANDATE (labetalol hydrochloride) injection, solution"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ac439c08-1e47-4306-8308-b31d7a1a443c"
+    },
+    {
+      "combination": false,
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b17a7b3a-e7a5-4987-ae85-ad970e7540c7"
+    },
+    {
+      "combination": false,
+      "labeler": "Biocon Pharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "27e4ab03-c17b-4268-912c-e45a5e8f8dd8"
+    },
+    {
+      "combination": false,
+      "labeler": "Advagen Pharma Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1c680447-b43a-4ff1-bc64-2c2174ca1c9a"
+    },
+    {
+      "combination": false,
+      "labeler": "Epic Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b950655d-a9f8-4ace-bb56-0c7abbca231e"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "da8af6c2-d822-4ae5-9c2d-a1d161bdefd0"
+    },
+    {
+      "combination": false,
+      "labeler": "Unichem Pharmaceuticals (USA), Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ed0188ba-3fd3-4680-a829-ba242a115fab"
+    },
+    {
+      "combination": false,
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "abfc6b75-1ed5-41f1-0484-4597488237bc"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "366134cd-6244-45fc-99f1-0193a0221b3a"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dbf1e4c7-7c0c-4f2f-8cad-96bc6b800cfc"
+    },
+    {
+      "combination": false,
+      "labeler": "Onesource Specialty Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6cb2c117-584c-4440-acfb-e4b1af4dc509"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5b059ef2-dec0-4cea-b8df-d87df3fea9e2"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a3c0cc1e-1c01-4009-afdc-d35a66546aec"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "63ede355-42ec-4c52-a941-51e5f6b35ed6"
+    },
+    {
+      "combination": false,
+      "labeler": "Fosun Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4a5ffab2-a3b8-411e-992d-7f38d508643a"
+    },
+    {
+      "combination": false,
+      "labeler": "Civica, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d7c53b1c-b6a5-482a-a7c8-7425d9cd9ef8"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bf84ebae-3c91-4448-b1db-8e5ed3053866"
+    },
+    {
+      "combination": false,
+      "labeler": "Marlex Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "28c91727-e5a8-48b3-a4df-d7bec8feda40"
+    },
+    {
+      "combination": false,
+      "labeler": "Innogenix, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "82fc2d64-0572-4a9b-94fc-f6eb8d930c54"
+    },
+    {
+      "combination": false,
+      "labeler": "Fosun Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f18dff28-f6f5-4ecb-9797-25062e247559"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a2d07ec0-3718-40eb-9d0a-79c557c486b9"
+    },
+    {
+      "combination": false,
+      "labeler": "Caplin Steriles Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "77152699-1ca8-442a-8cb4-80b0ffbec6f2"
+    },
+    {
+      "combination": false,
+      "labeler": "Advagen Pharma Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "106a0959-5830-489f-ba60-afd4eb0fac36"
+    },
+    {
+      "combination": false,
+      "labeler": "Mullan Pharmaceutical Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fb5ef3ba-0a7e-4f41-9547-d734983da0d3"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e4562c70-f245-4dbe-8fe1-0bb64a91a315"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5bd81a8a-a480-4c8d-bd4f-3158412e6a73"
+    },
+    {
+      "combination": false,
+      "labeler": "Armas Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "502bb655-9ad8-481b-9e26-1dec8adef471"
+    }
+  ]
+}

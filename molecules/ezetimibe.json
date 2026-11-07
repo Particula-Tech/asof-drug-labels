@@ -1,0 +1,571 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 1,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "only combination central products under this exact INN (combinations are not built)",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "EZETIMIBE"
+  ],
+  "inn": "ezetimibe",
+  "name": "EZETIMIBE",
+  "rank": 264,
+  "rxcui": [
+    "349556",
+    "352304",
+    "476345",
+    "476349",
+    "476350",
+    "476351",
+    "1245420",
+    "1245430",
+    "1245441",
+    "1245449",
+    "2283230",
+    "2283236"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 23,
+    "approval_holders": 18,
+    "earliest_marketing_start": "2017-06-12",
+    "latest_label_update": "2026-09-02",
+    "nda_bla_applications": 3,
+    "repackagers": 7
+  },
+  "unii": [
+    {
+      "ingredient": "EZETIMIBE",
+      "unii": "EOR26LQQ24"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021445"
+      ],
+      "brand_names": [
+        "Zetia"
+      ],
+      "combination": false,
+      "home_inn": "ezetimibe",
+      "ingredients": [
+        "EZETIMIBE"
+      ],
+      "labeler": "Organon LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-06-01",
+      "moieties": [
+        "EZETIMIBE"
+      ],
+      "product_ndcs": [
+        "78206-178"
+      ],
+      "rxcui": [
+        "349556",
+        "352304"
+      ],
+      "setid": "174e45e0-45bb-48b7-9e60-8f6cfc1d22bb",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "ZETIA (EZETIMIBE) TABLET [ORGANON LLC]",
+      "upload_date": "2025-11-26"
+    },
+    {
+      "application_numbers": [
+        "NDA211617"
+      ],
+      "brand_names": [
+        "Nexlizet"
+      ],
+      "combination": true,
+      "home_inn": "ezetimibe",
+      "ingredients": [
+        "BEMPEDOIC ACID",
+        "EZETIMIBE"
+      ],
+      "labeler": "Esperion Therapeutics, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2020-03-09",
+      "moieties": [
+        "BEMPEDOIC ACID",
+        "EZETIMIBE"
+      ],
+      "product_ndcs": [
+        "72426-818"
+      ],
+      "rxcui": [
+        "2283230",
+        "2283236"
+      ],
+      "setid": "3fa2108c-0300-47b8-9d34-f762af7c93c6",
+      "source": "openfda",
+      "spl_version": 23,
+      "title": "NEXLIZET (BEMPEDOIC ACID AND EZETIMIBE) TABLET, FILM COATED [ESPERION THERAPEUTICS, INC.]",
+      "upload_date": "2026-07-20"
+    },
+    {
+      "application_numbers": [
+        "NDA021687"
+      ],
+      "brand_names": [
+        "VYTORIN"
+      ],
+      "combination": true,
+      "home_inn": "ezetimibe",
+      "ingredients": [
+        "EZETIMIBE",
+        "SIMVASTATIN"
+      ],
+      "labeler": "Organon LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-06-01",
+      "moieties": [
+        "EZETIMIBE",
+        "SIMVASTATIN"
+      ],
+      "product_ndcs": [
+        "78206-174",
+        "78206-175",
+        "78206-176",
+        "78206-177"
+      ],
+      "rxcui": [
+        "476345",
+        "476349",
+        "476350",
+        "476351",
+        "1245420",
+        "1245430",
+        "1245441",
+        "1245449"
+      ],
+      "setid": "89b860d2-de83-468e-b7e8-76aeec2edca2",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "VYTORIN (EZETIMIBE AND SIMVASTATIN) TABLET [ORGANON LLC]",
+      "upload_date": "2026-01-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA208803"
+      ],
+      "brand_names": [
+        "Ezetimibe"
+      ],
+      "combination": false,
+      "home_inn": "ezetimibe",
+      "ingredients": [
+        "EZETIMIBE"
+      ],
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-06-12",
+      "moieties": [
+        "EZETIMIBE"
+      ],
+      "product_ndcs": [
+        "69238-1154"
+      ],
+      "rxcui": [
+        "349556"
+      ],
+      "setid": "3fadf4e9-017d-4ccd-91dc-a89b981eb138",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "EZETIMIBE TABLET [AMNEAL PHARMACEUTICALS NY LLC]",
+      "upload_date": "2025-04-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA207311"
+      ],
+      "brand_names": [
+        "Ezetimibe"
+      ],
+      "combination": false,
+      "home_inn": "ezetimibe",
+      "ingredients": [
+        "EZETIMIBE"
+      ],
+      "labeler": "Ohm Laboratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-06-12",
+      "moieties": [
+        "EZETIMIBE"
+      ],
+      "product_ndcs": [
+        "51660-200"
+      ],
+      "rxcui": [
+        "349556"
+      ],
+      "setid": "5b3842f6-c80a-47b8-8a82-b69e465b05f7",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "EZETIMIBE TABLET [OHM LABORATORIES INC.]",
+      "upload_date": "2024-03-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA204331"
+      ],
+      "brand_names": [
+        "ezetimibe"
+      ],
+      "combination": false,
+      "home_inn": "ezetimibe",
+      "ingredients": [
+        "EZETIMIBE"
+      ],
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-08-09",
+      "moieties": [
+        "EZETIMIBE"
+      ],
+      "product_ndcs": [
+        "70771-1109"
+      ],
+      "rxcui": [
+        "349556"
+      ],
+      "setid": "de814dcd-4759-4e9c-a650-335fb885a79d",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "EZETIMIBE TABLET [ZYDUS LIFESCIENCES LIMITED]",
+      "upload_date": "2024-12-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA209838"
+      ],
+      "brand_names": [
+        "Ezetimibe"
+      ],
+      "combination": false,
+      "home_inn": "ezetimibe",
+      "ingredients": [
+        "EZETIMIBE"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-08-25",
+      "moieties": [
+        "EZETIMIBE"
+      ],
+      "product_ndcs": [
+        "59651-052"
+      ],
+      "rxcui": [
+        "349556"
+      ],
+      "setid": "726b1e63-437a-4b3b-b773-3ac47a5c0f38",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "EZETIMIBE TABLET [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2025-03-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA209234"
+      ],
+      "brand_names": [
+        "Ezetimibe"
+      ],
+      "combination": false,
+      "home_inn": "ezetimibe",
+      "ingredients": [
+        "EZETIMIBE"
+      ],
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-12-23",
+      "moieties": [
+        "EZETIMIBE"
+      ],
+      "product_ndcs": [
+        "67877-490"
+      ],
+      "rxcui": [
+        "349556"
+      ],
+      "setid": "206d702c-b09a-4555-972b-6555d6d6d6e6",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "EZETIMIBE TABLET [ASCEND LABORATORIES, LLC]",
+      "upload_date": "2025-06-16"
+    },
+    {
+      "application_numbers": [
+        "ANDA211550"
+      ],
+      "brand_names": [
+        "EZETIMIBE"
+      ],
+      "combination": false,
+      "home_inn": "ezetimibe",
+      "ingredients": [
+        "EZETIMIBE"
+      ],
+      "labeler": "Accord Healthcare Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-10-07",
+      "moieties": [
+        "EZETIMIBE"
+      ],
+      "product_ndcs": [
+        "16729-433"
+      ],
+      "rxcui": [
+        "349556"
+      ],
+      "setid": "ceecdbe9-5404-4a93-a488-9211cd103058",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "EZETIMIBE TABLET [ACCORD HEALTHCARE INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "NDA021687"
+      ],
+      "archived_versions": 27,
+      "brand_names": [
+        "VYTORIN"
+      ],
+      "first_posted": "2008-07-25",
+      "found_by": "VYTORIN",
+      "labeler": "Merck Sharp & Dohme Corp.",
+      "labeler_unverified": true,
+      "last_posted": "2022-03-18",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-12-31"
+      ],
+      "product_ndcs": [
+        "66582-311",
+        "66582-312",
+        "66582-313",
+        "66582-315"
+      ],
+      "rxcui": [],
+      "setid": "2f58df9c-59fb-4d13-65be-4aff52f223e2",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "89b860d2-de83-468e-b7e8-76aeec2edca2"
+      ],
+      "title": "VYTORIN (ezetimibe and simvastatin) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA021445"
+      ],
+      "archived_versions": 16,
+      "brand_names": [
+        "ZETIA"
+      ],
+      "first_posted": "2008-09-11",
+      "found_by": "ZETIA",
+      "labeler": "Merck Sharp & Dohme Corp.",
+      "labeler_unverified": true,
+      "last_posted": "2022-03-17",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-12-31"
+      ],
+      "product_ndcs": [
+        "66582-414"
+      ],
+      "rxcui": [],
+      "setid": "a773b0b2-d31c-4ff4-b9e8-1eb2d3a4d62a",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "174e45e0-45bb-48b7-9e60-8f6cfc1d22bb"
+      ],
+      "title": "ZETIA (ezetimibe) tablet"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "ZETIA"
+      ],
+      "first_posted": "2007-05-04",
+      "found_by": "ZETIA",
+      "labeler": "Merck/Schering-Plough Pharmaceuticals",
+      "labeler_unverified": true,
+      "last_posted": "2007-05-04",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "66582-414"
+      ],
+      "rxcui": [],
+      "setid": "ec03e221-b2dd-4c10-8c2c-8e2213cd2394",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "zetia (Ezetimibe) tablet"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "ScieGen Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "11de499b-ad8a-46a6-9021-c8eba72ae414"
+    },
+    {
+      "combination": false,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ac539a72-77e4-419c-b1d9-42002e9cecf7"
+    },
+    {
+      "combination": false,
+      "labeler": "Orient Pharma Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b6e77d9b-a553-63e0-e053-2a95a90a18fe"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c07fe2e0-dad4-48b5-8a07-7d57a4035ccd"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ebe3fa4e-82c4-4a9a-9aec-f64019391f4e"
+    },
+    {
+      "combination": true,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c90e8c96-e130-42d7-bf0d-5833652e40d5"
+    },
+    {
+      "combination": true,
+      "labeler": "Dr.Reddys Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "023ca87a-1b04-8c17-dc4f-e2758b0771e2"
+    },
+    {
+      "combination": true,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "32d0e130-1211-44ca-be60-5379ffec96fd"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "79dadfde-35c7-4937-9c82-1728fb6be2fb"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f852b12f-e25f-415b-b1e2-58955d609507"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5f5644a9-e019-4e5d-ab6f-3d30b1024c5a"
+    },
+    {
+      "combination": false,
+      "labeler": "Quallent Pharmaceuticals Health LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "68247ce8-e812-42f2-a3ba-0f6e49acca63"
+    },
+    {
+      "combination": false,
+      "labeler": "Marlex Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "109a22f4-a7cb-96c6-e063-6394a90ad7f6"
+    },
+    {
+      "combination": true,
+      "labeler": "NORTHSTAR RX LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "52a46269-2262-4052-a3ff-5455523f591f"
+    }
+  ]
+}

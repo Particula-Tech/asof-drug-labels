@@ -1,0 +1,575 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "PROGESTERONE"
+  ],
+  "inn": "progesterone",
+  "name": "PROGESTERONE",
+  "rank": 254,
+  "rxcui": [
+    "153579",
+    "153580",
+    "260243",
+    "261319",
+    "262080",
+    "312641",
+    "312643",
+    "312644",
+    "312645",
+    "725094",
+    "725098"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 22,
+    "approval_holders": 16,
+    "earliest_marketing_start": "1997-05-13",
+    "latest_label_update": "2026-10-23",
+    "nda_bla_applications": 3,
+    "repackagers": 11
+  },
+  "unii": [
+    {
+      "ingredient": "PROGESTERONE",
+      "unii": "4G7DS2Q64Y"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020701"
+      ],
+      "brand_names": [
+        "Crinone"
+      ],
+      "combination": false,
+      "home_inn": "progesterone",
+      "ingredients": [
+        "PROGESTERONE"
+      ],
+      "labeler": "Allergan, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1997-05-13",
+      "moieties": [
+        "PROGESTERONE"
+      ],
+      "product_ndcs": [
+        "0023-6150",
+        "0023-6151"
+      ],
+      "rxcui": [
+        "153579",
+        "153580",
+        "312643",
+        "312645"
+      ],
+      "setid": "75e97aa1-daa4-45f9-b2e2-1a371302914e",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "CRINONE (PROGESTERONE) GEL [ALLERGAN, INC.]",
+      "upload_date": "2026-05-20"
+    },
+    {
+      "application_numbers": [
+        "NDA022057"
+      ],
+      "brand_names": [
+        "ENDOMETRIN"
+      ],
+      "combination": false,
+      "home_inn": "progesterone",
+      "ingredients": [
+        "PROGESTERONE"
+      ],
+      "labeler": "Ferring Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2007-06-21",
+      "moieties": [
+        "PROGESTERONE"
+      ],
+      "product_ndcs": [
+        "55566-6500"
+      ],
+      "rxcui": [
+        "725094",
+        "725098"
+      ],
+      "setid": "2ba50fa9-b349-40cb-9a4b-1af8faa4ec09",
+      "source": "openfda",
+      "spl_version": 27,
+      "title": "ENDOMETRIN (PROGESTERONE) INSERT [FERRING PHARMACEUTICALS INC.]",
+      "upload_date": "2026-08-05"
+    },
+    {
+      "application_numbers": [
+        "NDA019781"
+      ],
+      "brand_names": [
+        "Prometrium"
+      ],
+      "combination": false,
+      "home_inn": "progesterone",
+      "ingredients": [
+        "PROGESTERONE"
+      ],
+      "labeler": "Acertis Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-11-01",
+      "moieties": [
+        "PROGESTERONE"
+      ],
+      "product_ndcs": [
+        "72989-372",
+        "72989-373"
+      ],
+      "rxcui": [
+        "260243",
+        "261319",
+        "262080",
+        "312641"
+      ],
+      "setid": "1cf237ff-c4f8-4faa-a7aa-77599c856889",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "PROMETRIUM (PROGESTERONE) CAPSULE [ACERTIS PHARMACEUTICALS, LLC]",
+      "upload_date": "2026-07-27"
+    },
+    {
+      "application_numbers": [
+        "NDA022057"
+      ],
+      "brand_names": [
+        "PROGESTERONE"
+      ],
+      "combination": false,
+      "home_inn": "progesterone",
+      "ingredients": [
+        "PROGESTERONE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2026-04-27",
+      "moieties": [
+        "PROGESTERONE"
+      ],
+      "product_ndcs": [
+        "70095-136"
+      ],
+      "rxcui": [
+        "725094"
+      ],
+      "setid": "fcdde0d0-4329-4725-a76b-684f9d97fe95",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "PROGESTERONE INSERT [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2026-05-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA075906"
+      ],
+      "brand_names": [
+        "Progesterone"
+      ],
+      "combination": false,
+      "home_inn": "progesterone",
+      "ingredients": [
+        "PROGESTERONE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2001-07-19",
+      "moieties": [
+        "PROGESTERONE"
+      ],
+      "product_ndcs": [
+        "63323-261"
+      ],
+      "rxcui": [
+        "312644"
+      ],
+      "setid": "a479b395-1e1a-4d2a-8feb-68a15c47225f",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "PROGESTERONE (PROGESTERONE) INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2024-10-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA091033"
+      ],
+      "brand_names": [
+        "Progesterone"
+      ],
+      "combination": false,
+      "home_inn": "progesterone",
+      "ingredients": [
+        "PROGESTERONE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-10-28",
+      "moieties": [
+        "PROGESTERONE"
+      ],
+      "product_ndcs": [
+        "0143-9725"
+      ],
+      "rxcui": [
+        "312644"
+      ],
+      "setid": "83cfc12e-75d1-4284-bcc3-beadcbd27171",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "PROGESTERONE INJECTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2024-07-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA200900"
+      ],
+      "brand_names": [
+        "PROGESTERONE"
+      ],
+      "combination": false,
+      "home_inn": "progesterone",
+      "ingredients": [
+        "PROGESTERONE"
+      ],
+      "labeler": "Bionpharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-09-20",
+      "moieties": [
+        "PROGESTERONE"
+      ],
+      "product_ndcs": [
+        "69452-148",
+        "69452-149"
+      ],
+      "rxcui": [
+        "260243",
+        "312641"
+      ],
+      "setid": "3acad9b0-7ec6-4d5e-9852-32ffadbbed6d",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "PROGESTERONE CAPSULE [BIONPHARMA INC.]",
+      "upload_date": "2018-04-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA208801"
+      ],
+      "brand_names": [
+        "Progesterone"
+      ],
+      "combination": false,
+      "home_inn": "progesterone",
+      "ingredients": [
+        "PROGESTERONE"
+      ],
+      "labeler": "Dr. Reddys Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-03-25",
+      "moieties": [
+        "PROGESTERONE"
+      ],
+      "product_ndcs": [
+        "43598-349",
+        "43598-350"
+      ],
+      "rxcui": [
+        "260243",
+        "312641"
+      ],
+      "setid": "efded380-02ff-68c9-13e4-47a561ede440",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "PROGESTERONE CAPSULE [DR. REDDY&RSQUO;S LABORATORIES, INC.]",
+      "upload_date": "2024-03-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA207724"
+      ],
+      "brand_names": [
+        "Progesterone"
+      ],
+      "combination": false,
+      "home_inn": "progesterone",
+      "ingredients": [
+        "PROGESTERONE"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-09-11",
+      "moieties": [
+        "PROGESTERONE"
+      ],
+      "product_ndcs": [
+        "65162-807",
+        "65162-808"
+      ],
+      "rxcui": [
+        "260243",
+        "312641"
+      ],
+      "setid": "4de0715d-a3b9-42fa-b4e4-6371151fd75c",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "PROGESTERONE CAPSULE [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2026-03-05"
+    },
+    {
+      "application_numbers": [
+        "NDA019781"
+      ],
+      "archived_versions": 8,
+      "brand_names": [
+        "PROMETRIUM"
+      ],
+      "first_posted": "2008-04-04",
+      "found_by": "PROMETRIUM",
+      "labeler": "AbbVie Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2017-08-25",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-07-31",
+        "2018-09-30"
+      ],
+      "product_ndcs": [
+        "0032-1708",
+        "0032-1711"
+      ],
+      "rxcui": [],
+      "setid": "0224b5a6-25a3-44c9-b94f-90e2e064c164",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "1cf237ff-c4f8-4faa-a7aa-77599c856889"
+      ],
+      "title": "PROMETRIUM (progesterone) capsule"
+    },
+    {
+      "application_numbers": [
+        "NDA020701"
+      ],
+      "archived_versions": 9,
+      "brand_names": [
+        "CRINONE"
+      ],
+      "first_posted": "2010-10-28",
+      "found_by": "CRINONE",
+      "labeler": "Actavis Pharma, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2018-12-20",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-02-28",
+        "2015-03-31",
+        "2020-02-29",
+        "2020-10-31"
+      ],
+      "product_ndcs": [
+        "52544-255",
+        "52544-256",
+        "52544-283",
+        "52544-284"
+      ],
+      "rxcui": [],
+      "setid": "7def92fe-d521-41c0-b419-48e028f59f15",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "75e97aa1-daa4-45f9-b2e2-1a371302914e"
+      ],
+      "title": "CRINONE (progesterone) gel"
+    },
+    {
+      "application_numbers": [
+        "NDA019781"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "PROMETRIUM"
+      ],
+      "first_posted": "2016-07-15",
+      "found_by": "PROMETRIUM",
+      "labeler": "Virtus Pharmaceuticals",
+      "labeler_unverified": false,
+      "last_posted": "2024-12-12",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-08-31",
+        "2024-02-29"
+      ],
+      "product_ndcs": [
+        "69543-372",
+        "69543-373"
+      ],
+      "rxcui": [],
+      "setid": "a451784e-f6a0-414a-8409-3407f1d1d086",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "1cf237ff-c4f8-4faa-a7aa-77599c856889"
+      ],
+      "title": "PROMETRIUM (progesterone) capsule"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7d73f08d-2de7-44b6-9e44-2d488fe02517"
+    },
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7d19df3b-94ed-4681-beae-9caaf137d014"
+    },
+    {
+      "combination": false,
+      "labeler": "Xiromed, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0bf317a8-96d6-849d-7850-9084205a5315"
+    },
+    {
+      "combination": false,
+      "labeler": "XIROMED, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dcfa4050-d142-b774-369f-8a421eb23c62"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d8bcc439-c21d-4eeb-9159-f51e0c60bd70"
+    },
+    {
+      "combination": false,
+      "labeler": "XIROMED, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "473ab609-5b9e-3cb8-68d5-4a459a2ea6c1"
+    },
+    {
+      "combination": false,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "41682665-e889-4e2a-9382-88f6bcc30237"
+    },
+    {
+      "combination": false,
+      "labeler": "Ingenus Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "abf1bc06-1783-4774-b629-722aa503a898"
+    },
+    {
+      "combination": false,
+      "labeler": "Bionpharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "41b3c3a7-5fb8-4451-a96c-2bd02613c021"
+    },
+    {
+      "combination": false,
+      "labeler": "Northstar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "73229a76-8de3-4cea-886f-568f0b817fea"
+    },
+    {
+      "combination": false,
+      "labeler": "AvKARE",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1637ac18-3a37-f3d5-e063-6394a90af157"
+    },
+    {
+      "combination": false,
+      "labeler": "AvKARE",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "42c84fec-e5eb-78f7-e063-6294a90a4c0e"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f392c6d9-1420-4735-aa01-f434da9b31b3"
+    }
+  ]
+}

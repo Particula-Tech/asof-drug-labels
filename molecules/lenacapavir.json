@@ -1,0 +1,214 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand Sunlenca",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/005638",
+      "eu_number": "EU/1/22/1671",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-005638",
+      "mah": "Gilead Sciences Ireland Unlimited Company",
+      "marketing_authorisation_date": "2022-08-17",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/sunlenca",
+      "name": "Sunlenca",
+      "record_from": "2022-08-17",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 4
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/006658",
+      "eu_number": "EU/1/25/1976",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-006658",
+      "mah": "Gilead Sciences Ireland Unlimited Company",
+      "marketing_authorisation_date": "2025-08-25",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/yeytuo",
+      "name": "Yeytuo",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-005638",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "LENACAPAVIR SODIUM"
+  ],
+  "inn": "lenacapavir",
+  "name": "LENACAPAVIR",
+  "rank": 156,
+  "rxcui": [
+    "2625890",
+    "2625896",
+    "2625897",
+    "2625898",
+    "2625899",
+    "2625900",
+    "2625904",
+    "2625909",
+    "2625911",
+    "2625912",
+    "2717197",
+    "2717201",
+    "2717203",
+    "2750177",
+    "2750183"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 3,
+    "approval_holders": 1,
+    "earliest_marketing_start": "2022-12-22",
+    "latest_label_update": "2026-09-07",
+    "nda_bla_applications": 5,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "LENACAPAVIR SODIUM",
+      "unii": "BDT58WJ9WE"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA215973",
+        "NDA215974"
+      ],
+      "brand_names": [
+        "Sunlenca"
+      ],
+      "combination": false,
+      "home_inn": "lenacapavir",
+      "ingredients": [
+        "LENACAPAVIR SODIUM"
+      ],
+      "labeler": "Gilead Sciences, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-12-22",
+      "moieties": [
+        "LENACAPAVIR"
+      ],
+      "product_ndcs": [
+        "61958-3001",
+        "61958-3002",
+        "61958-3005"
+      ],
+      "rxcui": [
+        "2625890",
+        "2625896",
+        "2625897",
+        "2625898",
+        "2625899",
+        "2625900",
+        "2625904",
+        "2625909",
+        "2625911",
+        "2625912"
+      ],
+      "setid": "e5652804-29c4-40d7-aeb2-0142ed2a7b5b",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "SUNLENCA (LENACAPAVIR SODIUM) TABLET, FILM COATED SUNLENCA (LENACAPAVIR SODIUM) KIT [GILEAD SCIENCES, INC.]",
+      "upload_date": "2026-09-07"
+    },
+    {
+      "application_numbers": [
+        "NDA220018",
+        "NDA220020"
+      ],
+      "brand_names": [
+        "Yeztugo"
+      ],
+      "combination": false,
+      "home_inn": "lenacapavir",
+      "ingredients": [
+        "LENACAPAVIR SODIUM"
+      ],
+      "labeler": "Gilead Sciences, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-06-18",
+      "moieties": [
+        "LENACAPAVIR"
+      ],
+      "product_ndcs": [
+        "61958-3401",
+        "61958-3402"
+      ],
+      "rxcui": [
+        "2625890",
+        "2625904",
+        "2625911",
+        "2717197",
+        "2717201",
+        "2717203"
+      ],
+      "setid": "1c241af1-ce62-4b0a-9eb7-f6b626174f01",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "YEZTUGO (LENACAPAVIR SODIUM) TABLET, FILM COATED YEZTUGO (LENACAPAVIR SODIUM) KIT [GILEAD SCIENCES, INC.]",
+      "upload_date": "2026-08-20"
+    },
+    {
+      "application_numbers": [
+        "NDA221104"
+      ],
+      "brand_names": [
+        "BIXLENVO"
+      ],
+      "combination": true,
+      "home_inn": "lenacapavir",
+      "ingredients": [
+        "BICTEGRAVIR SODIUM",
+        "LENACAPAVIR SODIUM"
+      ],
+      "labeler": "Gilead Sciences, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2026-08-27",
+      "moieties": [
+        "BICTEGRAVIR",
+        "LENACAPAVIR"
+      ],
+      "product_ndcs": [
+        "61958-3601"
+      ],
+      "rxcui": [
+        "2750177",
+        "2750183"
+      ],
+      "setid": "072a3c7e-33fb-4a87-ba21-3d8dad3f5c48",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "BIXLENVO (BICTEGRAVIR/LENACAPAVIR) TABLET, FILM COATED [GILEAD SCIENCES, INC.]",
+      "upload_date": "2026-08-31"
+    }
+  ],
+  "us_excluded": []
+}

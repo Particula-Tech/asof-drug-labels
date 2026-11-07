@@ -1,0 +1,445 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/000777",
+      "eu_number": "EU/1/08/447",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000777",
+      "mah": "Menarini International Operations Luxembourg S.A. (MIOL)",
+      "marketing_authorisation_date": "2008-04-21",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/adenuric",
+      "name": "Adenuric",
+      "record_from": "2008-04-21",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 21
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/004374",
+      "eu_number": "EU/1/17/1194",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-004374",
+      "mah": "Viatris Limited",
+      "marketing_authorisation_date": "2017-06-15",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/febuxostat-viatris",
+      "name": "Febuxostat Viatris (previously Febuxostat Mylan)",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/004773",
+      "eu_number": "EU/1/18/1347",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-004773",
+      "mah": "Krka, d.d., Novo mesto",
+      "marketing_authorisation_date": "2019-03-28",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/febuxostat-krka",
+      "name": "Febuxostat Krka",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000777",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "FEBUXOSTAT"
+  ],
+  "inn": "febuxostat",
+  "name": "FEBUXOSTAT",
+  "rank": 307,
+  "rxcui": [
+    "834235",
+    "834239",
+    "834241",
+    "834243"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 18,
+    "approval_holders": 18,
+    "earliest_marketing_start": "2009-02-13",
+    "latest_label_update": "2026-04-14",
+    "nda_bla_applications": 1,
+    "repackagers": 5
+  },
+  "unii": [
+    {
+      "ingredient": "FEBUXOSTAT",
+      "unii": "101V0R1N2E"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021856"
+      ],
+      "brand_names": [
+        "ULORIC"
+      ],
+      "combination": false,
+      "home_inn": "febuxostat",
+      "ingredients": [
+        "FEBUXOSTAT"
+      ],
+      "labeler": "Takeda Pharmaceuticals America, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2009-02-13",
+      "moieties": [
+        "FEBUXOSTAT"
+      ],
+      "product_ndcs": [
+        "64764-677",
+        "64764-918"
+      ],
+      "rxcui": [
+        "834235",
+        "834239",
+        "834241",
+        "834243"
+      ],
+      "setid": "54de10ef-fe5f-4930-b91d-6bbb04c664bd",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "ULORIC (FEBUXOSTAT) TABLET [TAKEDA PHARMACEUTICALS AMERICA, INC.]",
+      "upload_date": "2025-12-25"
+    },
+    {
+      "application_numbers": [
+        "ANDA207293"
+      ],
+      "brand_names": [
+        "Febuxostat"
+      ],
+      "combination": false,
+      "home_inn": "febuxostat",
+      "ingredients": [
+        "FEBUXOSTAT"
+      ],
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-04-04",
+      "moieties": [
+        "FEBUXOSTAT"
+      ],
+      "product_ndcs": [
+        "33342-274",
+        "33342-275"
+      ],
+      "rxcui": [
+        "834235",
+        "834241"
+      ],
+      "setid": "77875ed1-049e-421b-a8d5-569b4af4a1b5",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "FEBUXOSTAT (FEBUXOSTAT TABLETS 40 MG) FILM FEBUXOSTAT (FEBUXOSTAT TABLETS 80 MG) FILM [MACLEODS PHARMACEUTICALS LIMITED]",
+      "upload_date": "2023-10-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA205421"
+      ],
+      "brand_names": [
+        "Febuxostat"
+      ],
+      "combination": false,
+      "home_inn": "febuxostat",
+      "ingredients": [
+        "FEBUXOSTAT"
+      ],
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-07-01",
+      "moieties": [
+        "FEBUXOSTAT"
+      ],
+      "product_ndcs": [
+        "46708-190",
+        "46708-191"
+      ],
+      "rxcui": [
+        "834235",
+        "834241"
+      ],
+      "setid": "41a95424-046e-413b-a121-cd7335e67135",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "FEBUXOSTAT TABLET, COATED [ALEMBIC PHARMACEUTICALS LIMITED]",
+      "upload_date": "2023-01-20"
+    },
+    {
+      "application_numbers": [
+        "ANDA205467"
+      ],
+      "brand_names": [
+        "Febuxostat"
+      ],
+      "combination": false,
+      "home_inn": "febuxostat",
+      "ingredients": [
+        "FEBUXOSTAT"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-07-05",
+      "moieties": [
+        "FEBUXOSTAT"
+      ],
+      "product_ndcs": [
+        "47335-721",
+        "47335-722"
+      ],
+      "rxcui": [
+        "834235",
+        "834241"
+      ],
+      "setid": "1f7541bd-bf32-422b-b99a-89193cf193ca",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "FEBUXOSTAT TABLET, FILM COATED [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2023-11-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA205414"
+      ],
+      "brand_names": [
+        "Febuxostat"
+      ],
+      "combination": false,
+      "home_inn": "febuxostat",
+      "ingredients": [
+        "FEBUXOSTAT"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-11-11",
+      "moieties": [
+        "FEBUXOSTAT"
+      ],
+      "product_ndcs": [
+        "0054-0413",
+        "0054-0414"
+      ],
+      "rxcui": [
+        "834235",
+        "834241"
+      ],
+      "setid": "14f1555c-2565-42c7-b3f5-dd5f03fed67a",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "FEBUXOSTAT TABLET [HIKMA PHARMACEUTICALS USA INC]",
+      "upload_date": "2023-06-08"
+    },
+    {
+      "application_numbers": [
+        "ANDA210461"
+      ],
+      "brand_names": [
+        "Febuxostat"
+      ],
+      "combination": false,
+      "home_inn": "febuxostat",
+      "ingredients": [
+        "FEBUXOSTAT"
+      ],
+      "labeler": "MAJOR PHARMACEUTICALS",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-12-30",
+      "moieties": [
+        "FEBUXOSTAT"
+      ],
+      "product_ndcs": [
+        "0904-7395",
+        "0904-7396"
+      ],
+      "rxcui": [
+        "834235",
+        "834241"
+      ],
+      "setid": "13a80059-46f7-4453-ab37-72744657a08a",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "FEBUXOSTAT TABLET, FILM COATED [MAJOR PHARMACEUTICALS]",
+      "upload_date": "2024-07-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA213069"
+      ],
+      "brand_names": [
+        "FEBUXOSTAT"
+      ],
+      "combination": false,
+      "home_inn": "febuxostat",
+      "ingredients": [
+        "FEBUXOSTAT"
+      ],
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-06-02",
+      "moieties": [
+        "FEBUXOSTAT"
+      ],
+      "product_ndcs": [
+        "0527-2244",
+        "0527-2248"
+      ],
+      "rxcui": [
+        "834235",
+        "834241"
+      ],
+      "setid": "73b07a94-c044-42dc-abe4-7d7c860c9638",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "FEBUXOSTAT TABLET [LANNETT COMPANY, INC.]",
+      "upload_date": "2024-01-25"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Tris Pharma Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d3b18653-9487-4a78-82c0-80ee024b8ef6"
+    },
+    {
+      "combination": false,
+      "labeler": "DR REDDY'S LABORATORIES LIMITED",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ccf2c4b1-e9a3-c7b7-ac42-79e1988fc211"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "154ad94e-b775-4a10-ab0f-2874a0782db9"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0629ab39-196e-4198-902a-3c16277ba205"
+    },
+    {
+      "combination": false,
+      "labeler": "Solco Healthcare US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4f5f8f2b-7200-4d76-9049-11dbc6cbd2ca"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "04f80eb2-8171-4e18-93e4-514440e84b75"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9a87099f-d82d-42c7-872a-b87d3917e960"
+    },
+    {
+      "combination": false,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d1969ea8-5178-42ee-97fc-feee8595e677"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ad40e0f6-850c-429a-87fc-f1eb2361e962"
+    },
+    {
+      "combination": false,
+      "labeler": "Viona Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b2aeb900-d792-48b2-b678-94f82d68be32"
+    },
+    {
+      "combination": false,
+      "labeler": "HEC Pharm USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4f1d0452-e041-cda6-e063-6394a90a2aef"
+    }
+  ]
+}

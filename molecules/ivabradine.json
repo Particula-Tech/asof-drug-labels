@@ -1,0 +1,419 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/000597",
+      "eu_number": "EU/1/05/316",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000597",
+      "mah": "Les Laboratoires Servier",
+      "marketing_authorisation_date": "2005-10-25",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/procoralan",
+      "name": "Procoralan",
+      "record_from": "2005-10-25",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 19
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/000598",
+      "eu_number": "EU/1/05/317",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-000598",
+      "mah": "Les Laboratoires Servier",
+      "marketing_authorisation_date": "2005-10-25",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/corlentor",
+      "name": "Corlentor",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/004117",
+      "eu_number": "EU/1/16/1144",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-004117",
+      "mah": "Zentiva k.s.",
+      "marketing_authorisation_date": "2016-11-11",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ivabradine-zentiva",
+      "name": "Ivabradine Zentiva",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/004187",
+      "eu_number": "EU/1/15/1041",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-004187",
+      "mah": "\"Anpharm\" Przedsiębiorstwo Farmaceutyczne S.A.",
+      "marketing_authorisation_date": "2015-09-08",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ivabradine-anpharm",
+      "name": "Ivabradine Anpharm",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/004241",
+      "eu_number": "EU/1/17/1190",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-004241",
+      "mah": "Accord Healthcare S.L.U.",
+      "marketing_authorisation_date": "2017-05-22",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ivabradine-accord",
+      "name": "Ivabradine Accord",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000597",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "IVABRADINE HYDROCHLORIDE"
+  ],
+  "inn": "ivabradine",
+  "name": "IVABRADINE",
+  "rank": 454,
+  "rxcui": [
+    "1649485",
+    "1649491",
+    "1649493",
+    "1649495",
+    "2168592",
+    "2168596"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 10,
+    "approval_holders": 10,
+    "earliest_marketing_start": "2015-04-20",
+    "latest_label_update": "2026-08-26",
+    "nda_bla_applications": 2,
+    "repackagers": 2
+  },
+  "unii": [
+    {
+      "ingredient": "IVABRADINE HYDROCHLORIDE",
+      "unii": "TP19837BZK"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA206143",
+        "NDA209964"
+      ],
+      "brand_names": [
+        "Corlanor"
+      ],
+      "combination": false,
+      "home_inn": "ivabradine",
+      "ingredients": [
+        "IVABRADINE HYDROCHLORIDE"
+      ],
+      "labeler": "Amgen Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-04-20",
+      "moieties": [
+        "IVABRADINE"
+      ],
+      "product_ndcs": [
+        "55513-800",
+        "55513-810",
+        "55513-813"
+      ],
+      "rxcui": [
+        "1649485",
+        "1649491",
+        "1649493",
+        "1649495",
+        "2168592",
+        "2168596"
+      ],
+      "setid": "92018a65-38f6-45f7-91d4-a34921b81d0d",
+      "source": "openfda",
+      "spl_version": 33,
+      "title": "CORLANOR (IVABRADINE) TABLET, FILM COATED CORLANOR (IVABRADINE) SOLUTION [AMGEN INC]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA213366"
+      ],
+      "brand_names": [
+        "Ivabradine"
+      ],
+      "combination": false,
+      "home_inn": "ivabradine",
+      "ingredients": [
+        "IVABRADINE HYDROCHLORIDE"
+      ],
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-10-05",
+      "moieties": [
+        "IVABRADINE"
+      ],
+      "product_ndcs": [
+        "31722-053",
+        "31722-054"
+      ],
+      "rxcui": [
+        "1649485",
+        "1649493"
+      ],
+      "setid": "602d1c55-0e4d-452a-a087-888fdbaa7568",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "IVABRADINE (IVABRADINE) TABLET, FILM COATED [CAMBER PHARMACEUTICALS, INC.]",
+      "upload_date": "2024-05-01"
+    },
+    {
+      "application_numbers": [
+        "ANDA213442"
+      ],
+      "brand_names": [
+        "ivabradine"
+      ],
+      "combination": false,
+      "home_inn": "ivabradine",
+      "ingredients": [
+        "IVABRADINE HYDROCHLORIDE"
+      ],
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-07-02",
+      "moieties": [
+        "IVABRADINE"
+      ],
+      "product_ndcs": [
+        "70771-1863",
+        "70771-1864"
+      ],
+      "rxcui": [
+        "1649485",
+        "1649493"
+      ],
+      "setid": "246b495a-ea7b-4cbe-9a5f-87c2c0a59cb3",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "IVABRADINE TABLET [ZYDUS LIFESCIENCES LIMITED]",
+      "upload_date": "2024-12-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA214051"
+      ],
+      "brand_names": [
+        "IVABRADINE"
+      ],
+      "combination": false,
+      "home_inn": "ivabradine",
+      "ingredients": [
+        "IVABRADINE HYDROCHLORIDE"
+      ],
+      "labeler": "Ingenus Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-07-15",
+      "moieties": [
+        "IVABRADINE"
+      ],
+      "product_ndcs": [
+        "50742-362",
+        "50742-363"
+      ],
+      "rxcui": [
+        "1649485",
+        "1649493"
+      ],
+      "setid": "2e70f883-8c01-4ac2-815d-4a6d561c711a",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "IVABRADINE TABLET, FILM COATED [INGENUS PHARMACEUTICALS, LLC]",
+      "upload_date": "2025-03-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA215238"
+      ],
+      "brand_names": [
+        "Ivabradine"
+      ],
+      "combination": false,
+      "home_inn": "ivabradine",
+      "ingredients": [
+        "IVABRADINE HYDROCHLORIDE"
+      ],
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-12-20",
+      "moieties": [
+        "IVABRADINE"
+      ],
+      "product_ndcs": [
+        "46708-679",
+        "46708-680"
+      ],
+      "rxcui": [
+        "1649485",
+        "1649493"
+      ],
+      "setid": "51ac7345-3188-4382-ab1d-9120d6c88927",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "IVABRADINE TABLET, FILM COATED [ALEMBIC PHARMACEUTICALS LIMITED]",
+      "upload_date": "2024-12-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA213276"
+      ],
+      "brand_names": [
+        "ivabradine"
+      ],
+      "combination": false,
+      "home_inn": "ivabradine",
+      "ingredients": [
+        "IVABRADINE HYDROCHLORIDE"
+      ],
+      "labeler": "Bionpharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-03-01",
+      "moieties": [
+        "IVABRADINE"
+      ],
+      "product_ndcs": [
+        "69452-190",
+        "69452-191"
+      ],
+      "rxcui": [
+        "1649485",
+        "1649493"
+      ],
+      "setid": "2ead1cf3-e61a-49c4-e063-6294a90a330f",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "IVABRADINE TABLET, FILM COATED [BIONPHARMA INC.]",
+      "upload_date": "2025-03-03"
+    },
+    {
+      "application_numbers": [
+        "ANDA213483"
+      ],
+      "brand_names": [
+        "Ivabradine"
+      ],
+      "combination": false,
+      "home_inn": "ivabradine",
+      "ingredients": [
+        "IVABRADINE HYDROCHLORIDE"
+      ],
+      "labeler": "Northstar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-04-28",
+      "moieties": [
+        "IVABRADINE"
+      ],
+      "product_ndcs": [
+        "72603-934",
+        "72603-935"
+      ],
+      "rxcui": [
+        "1649485",
+        "1649493"
+      ],
+      "setid": "5157767b-16d5-4a69-b6bd-95d360d19fda",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "IVABRADINE TABLET, FILM COATED [NORTHSTAR RX LLC]",
+      "upload_date": "2026-04-27"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "89134202-971b-4413-a9c9-d31a5c29722b"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "53f15531-796d-442b-a73c-05f048218531"
+    },
+    {
+      "combination": false,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "676907d3-b374-4baa-8422-c04706409540"
+    }
+  ]
+}

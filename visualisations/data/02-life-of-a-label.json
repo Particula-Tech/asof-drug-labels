@@ -1,0 +1,1276 @@
+{
+  "visual": "02-life-of-a-label",
+  "inputs": {
+    "us_head": "52a5f8078918180d0dc32992928b18b8854ad099",
+    "us_record_from": "2006-07-13",
+    "us_record_to": "2026-10-30",
+    "build_date": "2026-11-07",
+    "us_labels": 5393,
+    "us_versions": 47287
+  },
+  "rule": "current single-ingredient NDA/BLA labels with at least 40 versions and a first Published-Date before 2010-01-01 whose boxed-warning file (34066-1) was added after the first version and later deleted; ties by more versions",
+  "candidates": [
+    {
+      "setid": "f0ff4f27-5185-4881-a749-c6b7a0ca5696",
+      "versions": 43,
+      "first_published": "2007-06-07",
+      "last_published": "2026-01-23",
+      "title": "CHANTIX (varenicline tartrate) kit",
+      "added_index": 6,
+      "added_version": 8,
+      "added_date": "2009-07-29",
+      "last_present_index": 24,
+      "last_present_version": 30,
+      "last_present_date": "2016-08-23",
+      "removed_index": 25,
+      "removed_version": 31,
+      "removed_date": "2017-03-14",
+      "changed_while_present": 6,
+      "boxed_warning_changes": 3,
+      "boxed_warning_change_versions": [
+        13,
+        25,
+        30
+      ],
+      "boxed_warning_conversions": 3,
+      "boxed_warning_conversion_versions": [
+        9,
+        10,
+        11
+      ]
+    }
+  ],
+  "hero": {
+    "setid": "f0ff4f27-5185-4881-a749-c6b7a0ca5696",
+    "versions": 43,
+    "first_published": "2007-06-07",
+    "last_published": "2026-01-23",
+    "title": "CHANTIX (varenicline tartrate) kit",
+    "added_index": 6,
+    "added_version": 8,
+    "added_date": "2009-07-29",
+    "last_present_index": 24,
+    "last_present_version": 30,
+    "last_present_date": "2016-08-23",
+    "removed_index": 25,
+    "removed_version": 31,
+    "removed_date": "2017-03-14",
+    "changed_while_present": 6,
+    "boxed_warning_changes": 3,
+    "boxed_warning_change_versions": [
+      13,
+      25,
+      30
+    ],
+    "boxed_warning_conversions": 3,
+    "boxed_warning_conversion_versions": [
+      9,
+      10,
+      11
+    ],
+    "name": "CHANTIX",
+    "display_name": "Chantix",
+    "first_year": 2007
+  },
+  "format_conversions": [
+    {
+      "index": 7,
+      "version": 9,
+      "date": "2010-03-04",
+      "kind": "old-to-PLR"
+    },
+    {
+      "index": 8,
+      "version": 10,
+      "date": "2010-03-22",
+      "kind": "PLR-to-old"
+    },
+    {
+      "index": 9,
+      "version": 11,
+      "date": "2010-04-30",
+      "kind": "old-to-PLR"
+    }
+  ],
+  "rows": [
+    {
+      "row": "Boxed warning",
+      "codes": [
+        "34066-1"
+      ],
+      "ticks": [
+        {
+          "index": 6,
+          "version": 8,
+          "date": "2009-07-29",
+          "status": "A",
+          "format_conversion": false
+        },
+        {
+          "index": 7,
+          "version": 9,
+          "date": "2010-03-04",
+          "status": "M",
+          "format_conversion": true
+        },
+        {
+          "index": 8,
+          "version": 10,
+          "date": "2010-03-22",
+          "status": "M",
+          "format_conversion": true
+        },
+        {
+          "index": 9,
+          "version": 11,
+          "date": "2010-04-30",
+          "status": "M",
+          "format_conversion": true
+        },
+        {
+          "index": 11,
+          "version": 13,
+          "date": "2011-07-26",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 20,
+          "version": 25,
+          "date": "2014-10-01",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 24,
+          "version": 30,
+          "date": "2016-08-23",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 25,
+          "version": 31,
+          "date": "2017-03-14",
+          "status": "D",
+          "format_conversion": false
+        }
+      ]
+    },
+    {
+      "row": "Indications",
+      "codes": [
+        "34067-9"
+      ],
+      "ticks": [
+        {
+          "index": 1,
+          "version": 1,
+          "date": "2007-06-07",
+          "status": "A",
+          "format_conversion": false
+        },
+        {
+          "index": 2,
+          "version": 2,
+          "date": "2008-01-11",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 7,
+          "version": 9,
+          "date": "2010-03-04",
+          "status": "M",
+          "format_conversion": true
+        },
+        {
+          "index": 8,
+          "version": 10,
+          "date": "2010-03-22",
+          "status": "M",
+          "format_conversion": true
+        },
+        {
+          "index": 9,
+          "version": 11,
+          "date": "2010-04-30",
+          "status": "M",
+          "format_conversion": true
+        },
+        {
+          "index": 41,
+          "version": 47,
+          "date": "2025-11-18",
+          "status": "M",
+          "format_conversion": false
+        }
+      ]
+    },
+    {
+      "row": "Dosage",
+      "codes": [
+        "34068-7"
+      ],
+      "ticks": [
+        {
+          "index": 1,
+          "version": 1,
+          "date": "2007-06-07",
+          "status": "A",
+          "format_conversion": false
+        },
+        {
+          "index": 7,
+          "version": 9,
+          "date": "2010-03-04",
+          "status": "M",
+          "format_conversion": true
+        },
+        {
+          "index": 8,
+          "version": 10,
+          "date": "2010-03-22",
+          "status": "M",
+          "format_conversion": true
+        },
+        {
+          "index": 9,
+          "version": 11,
+          "date": "2010-04-30",
+          "status": "M",
+          "format_conversion": true
+        },
+        {
+          "index": 11,
+          "version": 13,
+          "date": "2011-07-26",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 21,
+          "version": 27,
+          "date": "2015-02-03",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 24,
+          "version": 30,
+          "date": "2016-08-23",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 41,
+          "version": 47,
+          "date": "2025-11-18",
+          "status": "M",
+          "format_conversion": false
+        }
+      ]
+    },
+    {
+      "row": "Contraindications",
+      "codes": [
+        "34070-3"
+      ],
+      "ticks": [
+        {
+          "index": 7,
+          "version": 9,
+          "date": "2010-03-04",
+          "status": "A",
+          "format_conversion": true
+        },
+        {
+          "index": 8,
+          "version": 10,
+          "date": "2010-03-22",
+          "status": "D",
+          "format_conversion": true
+        },
+        {
+          "index": 9,
+          "version": 11,
+          "date": "2010-04-30",
+          "status": "A",
+          "format_conversion": true
+        },
+        {
+          "index": 21,
+          "version": 27,
+          "date": "2015-02-03",
+          "status": "M",
+          "format_conversion": false
+        }
+      ]
+    },
+    {
+      "row": "Warnings and precautions",
+      "codes": [
+        "43685-7",
+        "34071-1",
+        "42232-9"
+      ],
+      "ticks": [
+        {
+          "index": 1,
+          "version": 1,
+          "date": "2007-06-07",
+          "status": "A",
+          "format_conversion": false
+        },
+        {
+          "index": 2,
+          "version": 2,
+          "date": "2008-01-11",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 3,
+          "version": 3,
+          "date": "2008-02-08",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 4,
+          "version": 4,
+          "date": "2008-09-04",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 6,
+          "version": 8,
+          "date": "2009-07-29",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 7,
+          "version": 9,
+          "date": "2010-03-04",
+          "status": "M",
+          "format_conversion": true
+        },
+        {
+          "index": 8,
+          "version": 10,
+          "date": "2010-03-22",
+          "status": "M",
+          "format_conversion": true
+        },
+        {
+          "index": 9,
+          "version": 11,
+          "date": "2010-04-30",
+          "status": "M",
+          "format_conversion": true
+        },
+        {
+          "index": 11,
+          "version": 13,
+          "date": "2011-07-26",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 13,
+          "version": 17,
+          "date": "2011-12-22",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 14,
+          "version": 18,
+          "date": "2012-12-26",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 16,
+          "version": 21,
+          "date": "2013-02-25",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 20,
+          "version": 25,
+          "date": "2014-10-01",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 21,
+          "version": 27,
+          "date": "2015-02-03",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 24,
+          "version": 30,
+          "date": "2016-08-23",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 25,
+          "version": 31,
+          "date": "2017-03-14",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 27,
+          "version": 33,
+          "date": "2018-06-05",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 28,
+          "version": 34,
+          "date": "2018-06-12",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 29,
+          "version": 35,
+          "date": "2018-06-14",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 41,
+          "version": 47,
+          "date": "2025-11-18",
+          "status": "M",
+          "format_conversion": false
+        }
+      ]
+    },
+    {
+      "row": "Adverse reactions",
+      "codes": [
+        "34084-4"
+      ],
+      "ticks": [
+        {
+          "index": 1,
+          "version": 1,
+          "date": "2007-06-07",
+          "status": "A",
+          "format_conversion": false
+        },
+        {
+          "index": 2,
+          "version": 2,
+          "date": "2008-01-11",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 3,
+          "version": 3,
+          "date": "2008-02-08",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 4,
+          "version": 4,
+          "date": "2008-09-04",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 5,
+          "version": 5,
+          "date": "2009-05-15",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 6,
+          "version": 8,
+          "date": "2009-07-29",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 7,
+          "version": 9,
+          "date": "2010-03-04",
+          "status": "M",
+          "format_conversion": true
+        },
+        {
+          "index": 8,
+          "version": 10,
+          "date": "2010-03-22",
+          "status": "M",
+          "format_conversion": true
+        },
+        {
+          "index": 9,
+          "version": 11,
+          "date": "2010-04-30",
+          "status": "M",
+          "format_conversion": true
+        },
+        {
+          "index": 10,
+          "version": 12,
+          "date": "2010-12-03",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 11,
+          "version": 13,
+          "date": "2011-07-26",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 13,
+          "version": 17,
+          "date": "2011-12-22",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 14,
+          "version": 18,
+          "date": "2012-12-26",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 16,
+          "version": 21,
+          "date": "2013-02-25",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 20,
+          "version": 25,
+          "date": "2014-10-01",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 21,
+          "version": 27,
+          "date": "2015-02-03",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 24,
+          "version": 30,
+          "date": "2016-08-23",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 25,
+          "version": 31,
+          "date": "2017-03-14",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 27,
+          "version": 33,
+          "date": "2018-06-05",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 28,
+          "version": 34,
+          "date": "2018-06-12",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 29,
+          "version": 35,
+          "date": "2018-06-14",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 36,
+          "version": 42,
+          "date": "2023-10-31",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 37,
+          "version": 43,
+          "date": "2024-04-26",
+          "status": "M",
+          "format_conversion": false
+        }
+      ]
+    },
+    {
+      "row": "Drug interactions",
+      "codes": [
+        "34073-7"
+      ],
+      "ticks": [
+        {
+          "index": 7,
+          "version": 9,
+          "date": "2010-03-04",
+          "status": "A",
+          "format_conversion": true
+        },
+        {
+          "index": 8,
+          "version": 10,
+          "date": "2010-03-22",
+          "status": "D",
+          "format_conversion": true
+        },
+        {
+          "index": 9,
+          "version": 11,
+          "date": "2010-04-30",
+          "status": "A",
+          "format_conversion": true
+        },
+        {
+          "index": 24,
+          "version": 30,
+          "date": "2016-08-23",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 27,
+          "version": 33,
+          "date": "2018-06-05",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 28,
+          "version": 34,
+          "date": "2018-06-12",
+          "status": "M",
+          "format_conversion": false
+        }
+      ]
+    },
+    {
+      "row": "Use in specific populations",
+      "codes": [
+        "43684-0"
+      ],
+      "ticks": [
+        {
+          "index": 7,
+          "version": 9,
+          "date": "2010-03-04",
+          "status": "A",
+          "format_conversion": true
+        },
+        {
+          "index": 8,
+          "version": 10,
+          "date": "2010-03-22",
+          "status": "D",
+          "format_conversion": true
+        },
+        {
+          "index": 9,
+          "version": 11,
+          "date": "2010-04-30",
+          "status": "A",
+          "format_conversion": true
+        },
+        {
+          "index": 11,
+          "version": 13,
+          "date": "2011-07-26",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 24,
+          "version": 30,
+          "date": "2016-08-23",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 27,
+          "version": 33,
+          "date": "2018-06-05",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 28,
+          "version": 34,
+          "date": "2018-06-12",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 29,
+          "version": 35,
+          "date": "2018-06-14",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 30,
+          "version": 36,
+          "date": "2019-03-11",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 41,
+          "version": 47,
+          "date": "2025-11-18",
+          "status": "M",
+          "format_conversion": false
+        }
+      ]
+    },
+    {
+      "row": "Patient information",
+      "codes": [
+        "42230-3",
+        "42231-1",
+        "34076-0",
+        "59845-8"
+      ],
+      "ticks": [
+        {
+          "index": 6,
+          "version": 8,
+          "date": "2009-07-29",
+          "status": "A",
+          "format_conversion": false
+        },
+        {
+          "index": 7,
+          "version": 9,
+          "date": "2010-03-04",
+          "status": "AM",
+          "format_conversion": true
+        },
+        {
+          "index": 8,
+          "version": 10,
+          "date": "2010-03-22",
+          "status": "DM",
+          "format_conversion": true
+        },
+        {
+          "index": 9,
+          "version": 11,
+          "date": "2010-04-30",
+          "status": "AM",
+          "format_conversion": true
+        },
+        {
+          "index": 11,
+          "version": 13,
+          "date": "2011-07-26",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 14,
+          "version": 18,
+          "date": "2012-12-26",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 16,
+          "version": 21,
+          "date": "2013-02-25",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 20,
+          "version": 25,
+          "date": "2014-10-01",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 21,
+          "version": 27,
+          "date": "2015-02-03",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 24,
+          "version": 30,
+          "date": "2016-08-23",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 25,
+          "version": 31,
+          "date": "2017-03-14",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 27,
+          "version": 33,
+          "date": "2018-06-05",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 28,
+          "version": 34,
+          "date": "2018-06-12",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 29,
+          "version": 35,
+          "date": "2018-06-14",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 30,
+          "version": 36,
+          "date": "2019-03-11",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 36,
+          "version": 42,
+          "date": "2023-10-31",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 37,
+          "version": 43,
+          "date": "2024-04-26",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 41,
+          "version": 47,
+          "date": "2025-11-18",
+          "status": "M",
+          "format_conversion": false
+        }
+      ]
+    },
+    {
+      "row": "Package label",
+      "codes": [
+        "51945-4",
+        "42229-5",
+        "34069-5"
+      ],
+      "ticks": [
+        {
+          "index": 1,
+          "version": 1,
+          "date": "2007-06-07",
+          "status": "A",
+          "format_conversion": false
+        },
+        {
+          "index": 2,
+          "version": 2,
+          "date": "2008-01-11",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 3,
+          "version": 3,
+          "date": "2008-02-08",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 4,
+          "version": 4,
+          "date": "2008-09-04",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 5,
+          "version": 5,
+          "date": "2009-05-15",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 6,
+          "version": 8,
+          "date": "2009-07-29",
+          "status": "AM",
+          "format_conversion": false
+        },
+        {
+          "index": 7,
+          "version": 9,
+          "date": "2010-03-04",
+          "status": "M",
+          "format_conversion": true
+        },
+        {
+          "index": 8,
+          "version": 10,
+          "date": "2010-03-22",
+          "status": "M",
+          "format_conversion": true
+        },
+        {
+          "index": 9,
+          "version": 11,
+          "date": "2010-04-30",
+          "status": "M",
+          "format_conversion": true
+        },
+        {
+          "index": 10,
+          "version": 12,
+          "date": "2010-12-03",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 11,
+          "version": 13,
+          "date": "2011-07-26",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 12,
+          "version": 15,
+          "date": "2011-12-02",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 13,
+          "version": 17,
+          "date": "2011-12-22",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 14,
+          "version": 18,
+          "date": "2012-12-26",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 16,
+          "version": 21,
+          "date": "2013-02-25",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 17,
+          "version": 22,
+          "date": "2013-06-14",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 18,
+          "version": 23,
+          "date": "2014-06-10",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 20,
+          "version": 25,
+          "date": "2014-10-01",
+          "status": "DM",
+          "format_conversion": false
+        },
+        {
+          "index": 21,
+          "version": 27,
+          "date": "2015-02-03",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 22,
+          "version": 28,
+          "date": "2015-05-27",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 23,
+          "version": 29,
+          "date": "2016-06-15",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 24,
+          "version": 30,
+          "date": "2016-08-23",
+          "status": "A",
+          "format_conversion": false
+        },
+        {
+          "index": 25,
+          "version": 31,
+          "date": "2017-03-14",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 26,
+          "version": 32,
+          "date": "2017-05-23",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 27,
+          "version": 33,
+          "date": "2018-06-05",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 28,
+          "version": 34,
+          "date": "2018-06-12",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 29,
+          "version": 35,
+          "date": "2018-06-14",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 30,
+          "version": 36,
+          "date": "2019-03-11",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 32,
+          "version": 38,
+          "date": "2019-05-16",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 33,
+          "version": 39,
+          "date": "2019-05-30",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 41,
+          "version": 47,
+          "date": "2025-11-18",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 43,
+          "version": 49,
+          "date": "2026-01-23",
+          "status": "M",
+          "format_conversion": false
+        }
+      ]
+    },
+    {
+      "row": "Other",
+      "codes": [],
+      "ticks": [
+        {
+          "index": 1,
+          "version": 1,
+          "date": "2007-06-07",
+          "status": "A",
+          "format_conversion": false
+        },
+        {
+          "index": 2,
+          "version": 2,
+          "date": "2008-01-11",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 3,
+          "version": 3,
+          "date": "2008-02-08",
+          "status": "D",
+          "format_conversion": false
+        },
+        {
+          "index": 4,
+          "version": 4,
+          "date": "2008-09-04",
+          "status": "AM",
+          "format_conversion": false
+        },
+        {
+          "index": 6,
+          "version": 8,
+          "date": "2009-07-29",
+          "status": "D",
+          "format_conversion": false
+        },
+        {
+          "index": 7,
+          "version": 9,
+          "date": "2010-03-04",
+          "status": "AM",
+          "format_conversion": true
+        },
+        {
+          "index": 8,
+          "version": 10,
+          "date": "2010-03-22",
+          "status": "DM",
+          "format_conversion": true
+        },
+        {
+          "index": 9,
+          "version": 11,
+          "date": "2010-04-30",
+          "status": "AM",
+          "format_conversion": true
+        },
+        {
+          "index": 11,
+          "version": 13,
+          "date": "2011-07-26",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 12,
+          "version": 15,
+          "date": "2011-12-02",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 14,
+          "version": 18,
+          "date": "2012-12-26",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 20,
+          "version": 25,
+          "date": "2014-10-01",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 21,
+          "version": 27,
+          "date": "2015-02-03",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 24,
+          "version": 30,
+          "date": "2016-08-23",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 25,
+          "version": 31,
+          "date": "2017-03-14",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 27,
+          "version": 33,
+          "date": "2018-06-05",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 28,
+          "version": 34,
+          "date": "2018-06-12",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 29,
+          "version": 35,
+          "date": "2018-06-14",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 30,
+          "version": 36,
+          "date": "2019-03-11",
+          "status": "M",
+          "format_conversion": false
+        },
+        {
+          "index": 41,
+          "version": 47,
+          "date": "2025-11-18",
+          "status": "M",
+          "format_conversion": false
+        }
+      ]
+    }
+  ],
+  "title": "Chantix: 43 label versions since 2007. The boxed warning appeared on 29 Jul 2009, changed 3 times (plus 3 format conversions), and was gone on 14 Mar 2017."
+}

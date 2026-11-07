@@ -1,0 +1,672 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "METHOCARBAMOL"
+  ],
+  "inn": "methocarbamol",
+  "name": "METHOCARBAMOL",
+  "rank": 83,
+  "rxcui": [
+    "197943",
+    "197944",
+    "207014",
+    "238175",
+    "2729335",
+    "2729341"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 35,
+    "approval_holders": 32,
+    "earliest_marketing_start": "1959-06-16",
+    "latest_label_update": "2026-10-16",
+    "nda_bla_applications": 2,
+    "repackagers": 31
+  },
+  "unii": [
+    {
+      "ingredient": "METHOCARBAMOL",
+      "unii": "125OD7737X"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA011790"
+      ],
+      "brand_names": [
+        "ROBAXIN"
+      ],
+      "combination": false,
+      "home_inn": "methocarbamol",
+      "ingredients": [
+        "METHOCARBAMOL"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1959-06-16",
+      "moieties": [
+        "METHOCARBAMOL"
+      ],
+      "product_ndcs": [
+        "0641-6103"
+      ],
+      "rxcui": [
+        "207014",
+        "238175"
+      ],
+      "setid": "090a3d3d-92c3-4c30-a648-436461f81702",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "ROBAXIN (METHOCARBAMOL) INJECTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2024-04-12"
+    },
+    {
+      "application_numbers": [
+        "NDA219843"
+      ],
+      "brand_names": [
+        "ATMEKSI"
+      ],
+      "combination": false,
+      "home_inn": "methocarbamol",
+      "ingredients": [
+        "METHOCARBAMOL"
+      ],
+      "labeler": "Rosemont Pharmaceuticals LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-12-22",
+      "moieties": [
+        "METHOCARBAMOL"
+      ],
+      "product_ndcs": [
+        "69528-701"
+      ],
+      "rxcui": [
+        "2729335",
+        "2729341"
+      ],
+      "setid": "62de7345-613b-4838-96e5-aceca3cea6b2",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "ATMEKSI (METHOCARBAMOL) SUSPENSION [ROSEMONT PHARMACEUTICALS LLC]",
+      "upload_date": "2026-03-16"
+    },
+    {
+      "application_numbers": [
+        "NDA011790"
+      ],
+      "brand_names": [
+        "ROBAXIN"
+      ],
+      "combination": false,
+      "home_inn": "methocarbamol",
+      "ingredients": [
+        "METHOCARBAMOL"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-10-17",
+      "moieties": [
+        "METHOCARBAMOL"
+      ],
+      "product_ndcs": [
+        "0641-6217"
+      ],
+      "rxcui": [
+        "207014",
+        "238175"
+      ],
+      "setid": "a418c43a-afe8-4a19-a57a-95c8dbe3d3d8",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "ROBAXIN (METHOCARBAMOL) INJECTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2024-04-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA086988"
+      ],
+      "brand_names": [
+        "Methocarbamol"
+      ],
+      "combination": false,
+      "home_inn": "methocarbamol",
+      "ingredients": [
+        "METHOCARBAMOL"
+      ],
+      "labeler": "Solco Healthcare LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-01-15",
+      "moieties": [
+        "METHOCARBAMOL"
+      ],
+      "product_ndcs": [
+        "43547-226",
+        "43547-405"
+      ],
+      "rxcui": [
+        "197943",
+        "197944"
+      ],
+      "setid": "32863f21-30ff-4a8b-a2e6-8ab14a37af0d",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "METHOCARBAMOL TABLET [SOLCO HEALTHCARE LLC]",
+      "upload_date": "2025-12-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA090200"
+      ],
+      "brand_names": [
+        "Methocarbamol"
+      ],
+      "combination": false,
+      "home_inn": "methocarbamol",
+      "ingredients": [
+        "METHOCARBAMOL"
+      ],
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-03-20",
+      "moieties": [
+        "METHOCARBAMOL"
+      ],
+      "product_ndcs": [
+        "31722-533",
+        "31722-534"
+      ],
+      "rxcui": [
+        "197943",
+        "197944"
+      ],
+      "setid": "43af0c41-9990-4902-9384-75de5ea08283",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "METHOCARBAMOL (METHOCARBAMOL) TABLET [CAMBER PHARMACEUTICALS, INC.]",
+      "upload_date": "2021-05-27"
+    },
+    {
+      "application_numbers": [
+        "ANDA206128"
+      ],
+      "brand_names": [
+        "Methocarbamol"
+      ],
+      "combination": false,
+      "home_inn": "methocarbamol",
+      "ingredients": [
+        "METHOCARBAMOL"
+      ],
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-05-27",
+      "moieties": [
+        "METHOCARBAMOL"
+      ],
+      "product_ndcs": [
+        "55150-223"
+      ],
+      "rxcui": [
+        "238175"
+      ],
+      "setid": "e8e8da30-64cf-42ea-bf71-d085b0be8a09",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "METHOCARBAMOL INJECTION, SOLUTION [EUGIA US LLC]",
+      "upload_date": "2023-10-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA207522"
+      ],
+      "brand_names": [
+        "Methocarbamol"
+      ],
+      "combination": false,
+      "home_inn": "methocarbamol",
+      "ingredients": [
+        "METHOCARBAMOL"
+      ],
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-07-31",
+      "moieties": [
+        "METHOCARBAMOL"
+      ],
+      "product_ndcs": [
+        "70069-101"
+      ],
+      "rxcui": [
+        "238175"
+      ],
+      "setid": "68dd9c24-4d41-48be-9f54-fceb787bb443",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "METHOCARBAMOL INJECTION [SOMERSET THERAPEUTICS, LLC]",
+      "upload_date": "2025-03-25"
+    },
+    {
+      "application_numbers": [
+        "ANDA208507"
+      ],
+      "brand_names": [
+        "Methocarbamol"
+      ],
+      "combination": false,
+      "home_inn": "methocarbamol",
+      "ingredients": [
+        "METHOCARBAMOL"
+      ],
+      "labeler": "UNICHEM PHARMACEUTICALS (USA), INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-01-15",
+      "moieties": [
+        "METHOCARBAMOL"
+      ],
+      "product_ndcs": [
+        "76385-123",
+        "76385-124"
+      ],
+      "rxcui": [
+        "197943",
+        "197944"
+      ],
+      "setid": "5777cbb0-b5fd-4b36-ac1d-bc105fe96888",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "METHOCARBAMOL TABLET, FILM COATED [UNICHEM PHARMACEUTICALS (USA), INC.]",
+      "upload_date": "2026-01-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA205404"
+      ],
+      "brand_names": [
+        "Methocarbamol"
+      ],
+      "combination": false,
+      "home_inn": "methocarbamol",
+      "ingredients": [
+        "METHOCARBAMOL"
+      ],
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-02-15",
+      "moieties": [
+        "METHOCARBAMOL"
+      ],
+      "product_ndcs": [
+        "25021-675"
+      ],
+      "rxcui": [
+        "238175"
+      ],
+      "setid": "bc925726-4949-4647-bce8-e1180d36abe4",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "METHOCARBAMOL INJECTION, SOLUTION [SAGENT PHARMACEUTICALS]",
+      "upload_date": "2023-08-10"
+    },
+    {
+      "application_numbers": [
+        "NDA011011"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "ROBAXIN"
+      ],
+      "first_posted": "2012-05-15",
+      "found_by": "ROBAXIN",
+      "labeler": "Endo Pharmaceuticals Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2020-10-27",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-02-28",
+        "2021-03-31"
+      ],
+      "product_ndcs": [
+        "52244-429",
+        "52244-449"
+      ],
+      "rxcui": [],
+      "setid": "0db1e8dd-b4fa-491b-a529-0fb939710759",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ROBAXIN (methocarbamol) tablet, film coated"
+    },
+    {
+      "application_numbers": [
+        "NDA011790"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "ROBAXIN"
+      ],
+      "first_posted": "2006-09-01",
+      "found_by": "ROBAXIN",
+      "labeler": "Baxter Healthcare Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2015-11-04",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2014-04-30"
+      ],
+      "product_ndcs": [
+        "60977-150"
+      ],
+      "rxcui": [],
+      "setid": "8f91e243-7395-4ec9-adf5-37520983daf2",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "090a3d3d-92c3-4c30-a648-436461f81702",
+        "a418c43a-afe8-4a19-a57a-95c8dbe3d3d8"
+      ],
+      "title": "ROBAXIN (methocarbamol) injection, solution"
+    },
+    {
+      "application_numbers": [
+        "NDA011011"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "ROBAXIN"
+      ],
+      "first_posted": "2007-11-16",
+      "found_by": "ROBAXIN",
+      "labeler": "UCB, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2015-07-20",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-01-17",
+        "2014-10-31"
+      ],
+      "product_ndcs": [
+        "0091-7429",
+        "0091-7449"
+      ],
+      "rxcui": [],
+      "setid": "c0975b4b-73b4-4292-b50f-ff3b925c8577",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ROBAXIN (methocarbamol) tablet, film coated"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bdf17640-221c-4c80-b48c-101daaece1d6"
+    },
+    {
+      "combination": false,
+      "labeler": "Granules India Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "42c0a177-7d62-4bcf-9fce-7dd484cda4d5"
+    },
+    {
+      "combination": false,
+      "labeler": "Bostal LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d8f10211-f96e-4cf3-9b49-986eb51b703d"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "44c7fe99-8999-4747-9376-f13d3f9e5688"
+    },
+    {
+      "combination": false,
+      "labeler": "Oxford Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "06dc72a6-ef3a-425a-9194-a9d228093cc4"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f83dd093-ea53-44c1-a40d-682ebc494b62"
+    },
+    {
+      "combination": false,
+      "labeler": "Marlex Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d2e38ac9-1cf3-14ca-e053-2a95a90a8522"
+    },
+    {
+      "combination": false,
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a7f70b19-75ba-4e3d-b4fe-277fe7305bf0"
+    },
+    {
+      "combination": false,
+      "labeler": "Slate Run Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bc16295e-f3aa-4ed5-9fd6-ac4c750e0bba"
+    },
+    {
+      "combination": false,
+      "labeler": "FH2 PHARMA LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1dd56e3d-7ca7-1443-e063-6294a90a13c5"
+    },
+    {
+      "combination": false,
+      "labeler": "Granules Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6f0d3966-962d-fa7c-e053-2a91aa0a8e3c"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b60000fc-e99b-4994-9d36-3907e0da9e06"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr.Reddys Laboratories Inc.,",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c88898af-5cd8-7bed-a03e-2ab4488e2040"
+    },
+    {
+      "combination": false,
+      "labeler": "Key Therapeutics",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a88a6c84-b55a-4b6b-ac01-554079f6e304"
+    },
+    {
+      "combination": false,
+      "labeler": "Key Therapeutics",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cf931001-95bd-4900-98d5-f5ef54b49d99"
+    },
+    {
+      "combination": false,
+      "labeler": "Misemer Pharmaceutical",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e89ae224-ed25-4ae7-e053-2a95a90a9c0e"
+    },
+    {
+      "combination": false,
+      "labeler": "XLCare Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f8bfb5cb-b7d0-4e09-b6bd-97a51d82c991"
+    },
+    {
+      "combination": false,
+      "labeler": "Forte Bio-Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1dd5f7fd-7b3b-8669-e063-6394a90abe95"
+    },
+    {
+      "combination": false,
+      "labeler": "Trifluent Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "de2e3af9-03ab-4dc8-b480-6866474ad1bd"
+    },
+    {
+      "combination": false,
+      "labeler": "GENTEX PHARMA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "35c044a6-90c0-55f8-e063-6294a90aad48"
+    },
+    {
+      "combination": false,
+      "labeler": "Granulation Technology, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "70c5342c-9597-4fe6-863c-f8ae4adc063a"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "01e7e2c7-49eb-4afb-a496-f2bd901622e9"
+    },
+    {
+      "combination": false,
+      "labeler": "Oncora Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "440d6c99-8aca-af07-e063-6294a90aee3d"
+    },
+    {
+      "combination": false,
+      "labeler": "JVET PHARMACEUTICALS LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d9e4748f-11c5-4d87-b260-1be94febe806"
+    },
+    {
+      "combination": false,
+      "labeler": "Medcore LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1a6b7327-fd42-4de0-bd0d-2dd478502d52"
+    },
+    {
+      "combination": false,
+      "labeler": "REGIMED MEDICAL",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d4433a71-5cf9-4a32-8902-1c522f1a9acd"
+    }
+  ]
+}

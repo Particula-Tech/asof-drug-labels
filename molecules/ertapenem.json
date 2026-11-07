@@ -1,0 +1,481 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand INVANZ",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000389",
+      "eu_number": "EU/1/02/216",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000389",
+      "mah": "Merck Sharp & Dohme B.V.",
+      "marketing_authorisation_date": "2002-04-18",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/invanz",
+      "name": "Invanz",
+      "record_from": "2002-04-18",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 27
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/005815",
+      "eu_number": "EU/1/22/1656",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-005815",
+      "mah": "SUN Pharmaceutical Industries (Europe) B.V.",
+      "marketing_authorisation_date": "2022-07-15",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ertapenem-sun",
+      "name": "Ertapenem SUN",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000389",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "ERTAPENEM SODIUM"
+  ],
+  "inn": "ertapenem",
+  "name": "ERTAPENEM",
+  "rank": 369,
+  "rxcui": [
+    "1734683",
+    "1734686"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 21,
+    "approval_holders": 16,
+    "earliest_marketing_start": "2001-11-21",
+    "latest_label_update": "2026-10-01",
+    "nda_bla_applications": 1,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "ERTAPENEM SODIUM",
+      "unii": "2T90KE67L0"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021337"
+      ],
+      "brand_names": [
+        "INVANZ"
+      ],
+      "combination": false,
+      "home_inn": "ertapenem",
+      "ingredients": [
+        "ERTAPENEM SODIUM"
+      ],
+      "labeler": "Merck Sharp & Dohme LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2001-11-21",
+      "moieties": [
+        "ERTAPENEM"
+      ],
+      "product_ndcs": [
+        "0006-3843"
+      ],
+      "rxcui": [
+        "1734683",
+        "1734686"
+      ],
+      "setid": "33f3b99b-fa82-42e0-26bf-f49891ae3d22",
+      "source": "openfda",
+      "spl_version": 42,
+      "title": "INVANZ (ERTAPENEM SODIUM) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [MERCK SHARP & DOHME LLC]",
+      "upload_date": "2026-04-09"
+    },
+    {
+      "application_numbers": [
+        "NDA021337"
+      ],
+      "brand_names": [
+        "ERTAPENEM"
+      ],
+      "combination": false,
+      "home_inn": "ertapenem",
+      "ingredients": [
+        "ERTAPENEM SODIUM"
+      ],
+      "labeler": "ENDO USA, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-07-26",
+      "moieties": [
+        "ERTAPENEM"
+      ],
+      "product_ndcs": [
+        "42023-221"
+      ],
+      "rxcui": [
+        "1734683"
+      ],
+      "setid": "657855f2-7c92-4aa8-9c3d-51d08e56a09a",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "ERTAPENEM (ERTAPENEM SODIUM) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [ENDO USA, INC.]",
+      "upload_date": "2026-04-09"
+    },
+    {
+      "application_numbers": [
+        "NDA021337"
+      ],
+      "brand_names": [
+        "ERTAPENEM"
+      ],
+      "combination": false,
+      "home_inn": "ertapenem",
+      "ingredients": [
+        "ERTAPENEM SODIUM"
+      ],
+      "labeler": "ENDO USA, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-11-01",
+      "moieties": [
+        "ERTAPENEM"
+      ],
+      "product_ndcs": [
+        "42023-221"
+      ],
+      "rxcui": [
+        "1734683"
+      ],
+      "setid": "41304b1d-7db4-468a-ab1d-04e56fb50de4",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "ERTAPENEM (ERTAPENEM SODIUM) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [ENDO USA, INC.]",
+      "upload_date": "2026-04-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA209133"
+      ],
+      "brand_names": [
+        "Ertapenem"
+      ],
+      "combination": false,
+      "home_inn": "ertapenem",
+      "ingredients": [
+        "ERTAPENEM SODIUM"
+      ],
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-06-25",
+      "moieties": [
+        "ERTAPENEM"
+      ],
+      "product_ndcs": [
+        "55150-282"
+      ],
+      "rxcui": [
+        "1734683"
+      ],
+      "setid": "31bcf16f-e0c1-47d1-9852-de898a856f6e",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "ERTAPENEM INJECTION [EUGIA US LLC]",
+      "upload_date": "2024-07-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA207647"
+      ],
+      "brand_names": [
+        "Ertapenem"
+      ],
+      "combination": false,
+      "home_inn": "ertapenem",
+      "ingredients": [
+        "ERTAPENEM SODIUM"
+      ],
+      "labeler": "Savior Lifetec Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-03-19",
+      "moieties": [
+        "ERTAPENEM"
+      ],
+      "product_ndcs": [
+        "44647-051"
+      ],
+      "rxcui": [
+        "1734683"
+      ],
+      "setid": "c4da28cb-6725-4fa1-a7b0-e84f408fb36b",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "ERTAPENEM (ERTAPENEM SODIUM) INJECTION [SAVIOR LIFETEC CORPORATION]",
+      "upload_date": "2023-11-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA208790"
+      ],
+      "brand_names": [
+        "Ertapenem"
+      ],
+      "combination": false,
+      "home_inn": "ertapenem",
+      "ingredients": [
+        "ERTAPENEM SODIUM"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-10-10",
+      "moieties": [
+        "ERTAPENEM"
+      ],
+      "product_ndcs": [
+        "63323-823"
+      ],
+      "rxcui": [
+        "1734683"
+      ],
+      "setid": "666c9f33-ea9e-4667-b8bd-f8b1b6b6be51",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "ERTAPENEM (ERTAPENEM SODIUM) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2022-11-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA212040"
+      ],
+      "brand_names": [
+        "Ertapenem"
+      ],
+      "combination": false,
+      "home_inn": "ertapenem",
+      "ingredients": [
+        "ERTAPENEM SODIUM"
+      ],
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-03-26",
+      "moieties": [
+        "ERTAPENEM"
+      ],
+      "product_ndcs": [
+        "68083-351"
+      ],
+      "rxcui": [
+        "1734683"
+      ],
+      "setid": "f74cca2f-e775-4580-acae-3a0c47dd24d9",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "ERTAPENEM (ERTAPENEM SODIUM) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [GLAND PHARMA LIMITED]",
+      "upload_date": "2022-04-14"
+    },
+    {
+      "application_numbers": [
+        "ANDA218067"
+      ],
+      "brand_names": [
+        "Ertapenem"
+      ],
+      "combination": false,
+      "home_inn": "ertapenem",
+      "ingredients": [
+        "ERTAPENEM SODIUM"
+      ],
+      "labeler": "Qilu Antibiotics Pharmaceutical Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-10-31",
+      "moieties": [
+        "ERTAPENEM"
+      ],
+      "product_ndcs": [
+        "51810-504"
+      ],
+      "rxcui": [
+        "1734683"
+      ],
+      "setid": "44496f7c-8407-4765-9cd6-1daa619a6db6",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "ERTAPENEM (ERTAPENEM SODIUM) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [QILU ANTIBIOTICS PHARMACEUTICAL CO., LTD.]",
+      "upload_date": "2025-09-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA209133"
+      ],
+      "brand_names": [
+        "Ertapenem"
+      ],
+      "combination": false,
+      "home_inn": "ertapenem",
+      "ingredients": [
+        "ERTAPENEM SODIUM"
+      ],
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-06-25",
+      "moieties": [
+        "ERTAPENEM"
+      ],
+      "product_ndcs": [
+        "55150-282"
+      ],
+      "rxcui": [
+        "1734683"
+      ],
+      "setid": "f725a68c-31a2-482a-9744-19adc47506b5",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "ERTAPENEM INJECTION [EUGIA US LLC]",
+      "upload_date": "2024-07-10"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Apotex Corp",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "468105b9-48b3-4477-82c7-e7fb92460e28"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8eccc96f-4b59-49ee-9997-365a24f59a24"
+    },
+    {
+      "combination": false,
+      "labeler": "WG Critical Care, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cf3cfa6b-211c-452b-b18b-e462b21e6909"
+    },
+    {
+      "combination": false,
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "178a0356-4f6c-47fb-9913-f325a3c72f7b"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr.Reddys Laboratories Inc.,",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "32d9f095-ca39-7e22-6264-b54f2daaee57"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2398d418-6efc-b4d2-3265-936001df9b8b"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a400707f-763f-43f6-989e-0d2569d822d8"
+    },
+    {
+      "combination": false,
+      "labeler": "Fosun Pharma USA Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c398450c-2b72-86a4-e053-2995a90ad1f0"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b88c0709-33fe-47db-8ae8-8bad6692d5d5"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "39bd4d41-36f8-4826-a733-a5ad1a531c02"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "124775ed-1271-4581-be52-b7a08c91283d"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5b050245-aa03-4e28-e063-6394a90aeabc"
+    }
+  ]
+}

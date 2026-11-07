@@ -1,0 +1,466 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand NORVIR",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000127",
+      "eu_number": "EU/1/96/016",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000127",
+      "mah": "AbbVie Deutschland GmbH & Co. KG",
+      "marketing_authorisation_date": "1996-08-25",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/norvir",
+      "name": "Norvir",
+      "record_from": "1996-08-26",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 57
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/004549",
+      "eu_number": "EU/1/17/1242",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-004549",
+      "mah": "Viatris Limited",
+      "marketing_authorisation_date": "2017-11-09",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ritonavir-viatris",
+      "name": "Ritonavir Viatris (previously Ritonavir Mylan)",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 3,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000127",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "RITONAVIR"
+  ],
+  "inn": "ritonavir",
+  "name": "RITONAVIR",
+  "rank": 192,
+  "rxcui": [
+    "152971",
+    "199249",
+    "311369",
+    "597730",
+    "746645",
+    "847741",
+    "847745",
+    "847749",
+    "900575",
+    "900577",
+    "1926066",
+    "1926069"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 9,
+    "approval_holders": 7,
+    "earliest_marketing_start": "2010-06-18",
+    "latest_label_update": "2026-09-24",
+    "nda_bla_applications": 4,
+    "repackagers": 3
+  },
+  "unii": [
+    {
+      "ingredient": "RITONAVIR",
+      "unii": "O3J8G9O825"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA022417",
+        "NDA209512"
+      ],
+      "brand_names": [
+        "Norvir"
+      ],
+      "combination": false,
+      "home_inn": "ritonavir",
+      "ingredients": [
+        "RITONAVIR"
+      ],
+      "labeler": "AbbVie Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-06-07",
+      "moieties": [
+        "RITONAVIR"
+      ],
+      "product_ndcs": [
+        "0074-2340",
+        "0074-3399"
+      ],
+      "rxcui": [
+        "152971",
+        "199249",
+        "900575",
+        "900577",
+        "1926066",
+        "1926069"
+      ],
+      "setid": "2849298e-de6e-47bb-8194-56e075b33fc3",
+      "source": "openfda",
+      "spl_version": 1653,
+      "title": "NORVIR (RITONAVIR) TABLET, FILM COATED NORVIR (RITONAVIR) SOLUTION NORVIR (RITONAVIR) POWDER [ABBVIE INC.]",
+      "upload_date": "2026-08-07"
+    },
+    {
+      "application_numbers": [
+        "NDA021251",
+        "NDA021906"
+      ],
+      "brand_names": [
+        "Kaletra"
+      ],
+      "combination": true,
+      "home_inn": "ritonavir",
+      "ingredients": [
+        "LOPINAVIR",
+        "RITONAVIR"
+      ],
+      "labeler": "AbbVie Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2010-06-18",
+      "moieties": [
+        "LOPINAVIR",
+        "RITONAVIR"
+      ],
+      "product_ndcs": [
+        "0074-3008",
+        "0074-3956",
+        "0074-4014"
+      ],
+      "rxcui": [
+        "311369",
+        "597730",
+        "746645",
+        "847741",
+        "847745",
+        "847749"
+      ],
+      "setid": "8290add3-4449-4e58-6c97-8fe1eec972e3",
+      "source": "openfda",
+      "spl_version": 1702,
+      "title": "KALETRA (LOPINAVIR AND RITONAVIR) SOLUTION KALETRA (LOPINAVIR AND RITONAVIR) TABLET, FILM COATED [ABBVIE INC.]",
+      "upload_date": "2026-08-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA206614"
+      ],
+      "brand_names": [
+        "Ritonavir"
+      ],
+      "combination": false,
+      "home_inn": "ritonavir",
+      "ingredients": [
+        "RITONAVIR"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-09-17",
+      "moieties": [
+        "RITONAVIR"
+      ],
+      "product_ndcs": [
+        "65862-687"
+      ],
+      "rxcui": [
+        "900575"
+      ],
+      "setid": "11f757f1-cf48-47a8-925e-918359cbd2d4",
+      "source": "dailymed-title-match",
+      "spl_version": 9,
+      "title": "RITONAVIR TABLET, FILM COATED [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2026-09-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA204587"
+      ],
+      "brand_names": [
+        "Ritonavir"
+      ],
+      "combination": false,
+      "home_inn": "ritonavir",
+      "ingredients": [
+        "RITONAVIR"
+      ],
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-09-17",
+      "moieties": [
+        "RITONAVIR"
+      ],
+      "product_ndcs": [
+        "31722-597"
+      ],
+      "rxcui": [
+        "900575"
+      ],
+      "setid": "db633374-6d8e-4622-9fe1-f9d68baa59bb",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "RITONAVIR (RITONAVIR) TABLET [CAMBER PHARMACEUTICALS, INC.]",
+      "upload_date": "2023-02-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA208890"
+      ],
+      "brand_names": [
+        "Ritonavir"
+      ],
+      "combination": false,
+      "home_inn": "ritonavir",
+      "ingredients": [
+        "RITONAVIR"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-09-21",
+      "moieties": [
+        "RITONAVIR"
+      ],
+      "product_ndcs": [
+        "65162-061"
+      ],
+      "rxcui": [
+        "900575"
+      ],
+      "setid": "a32cb2e3-d4e5-4bbf-9d88-20b2b249e779",
+      "source": "openfda",
+      "spl_version": 25,
+      "title": "RITONAVIR TABLET [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2026-08-20"
+    },
+    {
+      "application_numbers": [
+        "ANDA202573"
+      ],
+      "brand_names": [
+        "Ritonavir film coated"
+      ],
+      "combination": false,
+      "home_inn": "ritonavir",
+      "ingredients": [
+        "RITONAVIR"
+      ],
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-03-23",
+      "moieties": [
+        "RITONAVIR"
+      ],
+      "product_ndcs": [
+        "69097-655"
+      ],
+      "rxcui": [
+        "900575"
+      ],
+      "setid": "4633c6ba-168d-426f-acae-7843e167743a",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "RITONAVIR FILM COATED (RITONAVIR 100 MG) TABLET [CIPLA USA INC.]",
+      "upload_date": "2023-03-16"
+    },
+    {
+      "application_numbers": [
+        "ANDA091677"
+      ],
+      "brand_names": [
+        "Lopinavir and ritonavir"
+      ],
+      "combination": true,
+      "home_inn": "ritonavir",
+      "ingredients": [
+        "LOPINAVIR",
+        "RITONAVIR"
+      ],
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-06-07",
+      "moieties": [
+        "LOPINAVIR",
+        "RITONAVIR"
+      ],
+      "product_ndcs": [
+        "31722-556",
+        "31722-603"
+      ],
+      "rxcui": [
+        "597730",
+        "746645"
+      ],
+      "setid": "4e5005b8-f00c-4671-be09-bb927190760f",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "LOPINAVIR AND RITONAVIR (LOPINAVIR AND RITONAVIR) TABLET, FILM COATED [CAMBER PHARMACEUTICALS, INC.]",
+      "upload_date": "2021-06-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA213857"
+      ],
+      "brand_names": [
+        "Lopinavir and Ritonavir"
+      ],
+      "combination": true,
+      "home_inn": "ritonavir",
+      "ingredients": [
+        "LOPINAVIR",
+        "RITONAVIR"
+      ],
+      "labeler": "Laurus Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-03-22",
+      "moieties": [
+        "LOPINAVIR",
+        "RITONAVIR"
+      ],
+      "product_ndcs": [
+        "42385-933",
+        "42385-934"
+      ],
+      "rxcui": [
+        "597730",
+        "746645"
+      ],
+      "setid": "a7072c60-6dbf-4125-95e7-497c05a9e6a6",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "LOPINAVIR AND RITONAVIR TABLET, FILM COATED [LAURUS LABS LIMITED]",
+      "upload_date": "2023-10-23"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "KALETRA"
+      ],
+      "first_posted": "2006-09-18",
+      "found_by": "KALETRA",
+      "labeler": "Abbott Laboratories",
+      "labeler_unverified": false,
+      "last_posted": "2006-09-18",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0074-3956",
+        "0074-3959"
+      ],
+      "rxcui": [],
+      "setid": "0c94605f-904b-4e1e-4e9a-c7f20562bc9a",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "kaletra (lopinavir and ritonavir) capsule, liquid filled kaletra (lopinavir and ritonavir) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA020945"
+      ],
+      "archived_versions": 24,
+      "brand_names": [
+        "NORVIR"
+      ],
+      "first_posted": "2007-07-06",
+      "found_by": "NORVIR",
+      "labeler": "AbbVie Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2020-10-29",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2016-05-21"
+      ],
+      "product_ndcs": [
+        "0074-6633"
+      ],
+      "rxcui": [],
+      "setid": "13b059c6-0c6c-49a5-b985-a4b05caf9ac9",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "NORVIR (ritonavir) capsule"
+    },
+    {
+      "application_numbers": [
+        "NDA022417"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "NORVIR"
+      ],
+      "first_posted": "2018-03-21",
+      "found_by": "NORVIR",
+      "labeler": "Zydus Pharmaceuticals USA Inc",
+      "labeler_unverified": false,
+      "last_posted": "2020-01-13",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "68382-696"
+      ],
+      "rxcui": [],
+      "setid": "70f03898-ef3e-d090-71ed-7d3bd0e92098",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "2849298e-de6e-47bb-8194-56e075b33fc3"
+      ],
+      "title": "RITONAVIR tablet, film coated"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": true,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "115178c8-5ee2-4d96-820e-ea8264c1ac10"
+    }
+  ]
+}

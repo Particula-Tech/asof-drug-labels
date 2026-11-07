@@ -1,0 +1,623 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "DORZOLAMIDE HYDROCHLORIDE"
+  ],
+  "inn": "dorzolamide",
+  "name": "DORZOLAMIDE",
+  "rank": 323,
+  "rxcui": [
+    "310015",
+    "1922783",
+    "1922784",
+    "1923432",
+    "1923433"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 30,
+    "approval_holders": 17,
+    "earliest_marketing_start": "2009-06-01",
+    "latest_label_update": "2026-10-23",
+    "nda_bla_applications": 2,
+    "repackagers": 2
+  },
+  "unii": [
+    {
+      "ingredient": "DORZOLAMIDE HYDROCHLORIDE",
+      "unii": "QZO5366EW7"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA202667"
+      ],
+      "brand_names": [
+        "Dorzolamide Hydrochloride and Timolol Maleate"
+      ],
+      "combination": true,
+      "home_inn": "timolol",
+      "ingredients": [
+        "DORZOLAMIDE HYDROCHLORIDE",
+        "TIMOLOL MALEATE"
+      ],
+      "labeler": "Akorn",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2019-02-01",
+      "moieties": [
+        "DORZOLAMIDE",
+        "TIMOLOL"
+      ],
+      "product_ndcs": [
+        "50383-261"
+      ],
+      "rxcui": [
+        "1922783"
+      ],
+      "setid": "4e90c721-21e8-46ea-ab49-19f535bf7202",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "DORZOLAMIDE HYDROCHLORIDE AND TIMOLOL MALEATE SOLUTION/ DROPS [AKORN]",
+      "upload_date": "2025-09-12"
+    },
+    {
+      "application_numbers": [
+        "NDA020869"
+      ],
+      "brand_names": [
+        "COSOPT"
+      ],
+      "combination": true,
+      "home_inn": "timolol",
+      "ingredients": [
+        "DORZOLAMIDE HYDROCHLORIDE",
+        "TIMOLOL MALEATE"
+      ],
+      "labeler": "Thea Pharma Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-11-10",
+      "moieties": [
+        "DORZOLAMIDE",
+        "TIMOLOL"
+      ],
+      "product_ndcs": [
+        "82584-605"
+      ],
+      "rxcui": [
+        "1923432",
+        "1923433"
+      ],
+      "setid": "23bdf1c1-3134-4ad1-8e7c-bc655156bdc6",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "COSOPT (DORZOLAMIDE HYDROCHLORIDE AND TIMOLOL MALEATE) SOLUTION/ DROPS [THEA PHARMA INC.]",
+      "upload_date": "2024-04-30"
+    },
+    {
+      "application_numbers": [
+        "NDA202667"
+      ],
+      "brand_names": [
+        "COSOPT PF"
+      ],
+      "combination": true,
+      "home_inn": "timolol",
+      "ingredients": [
+        "DORZOLAMIDE HYDROCHLORIDE",
+        "TIMOLOL MALEATE"
+      ],
+      "labeler": "Thea Pharma Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-12-10",
+      "moieties": [
+        "DORZOLAMIDE",
+        "TIMOLOL"
+      ],
+      "product_ndcs": [
+        "82584-604"
+      ],
+      "rxcui": [
+        "1922783",
+        "1922784"
+      ],
+      "setid": "535fc801-8c3f-4974-a120-3eff1d5a5062",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "COSOPT PF (DORZOLAMIDE HYDROCHLORIDE AND TIMOLOL MALEATE) SOLUTION/ DROPS [THEA PHARMA INC.]",
+      "upload_date": "2026-05-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA078981"
+      ],
+      "brand_names": [
+        "DORZOLAMIDE HYDROCHLORIDE"
+      ],
+      "combination": false,
+      "home_inn": "dorzolamide",
+      "ingredients": [
+        "DORZOLAMIDE HYDROCHLORIDE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-06-01",
+      "moieties": [
+        "DORZOLAMIDE"
+      ],
+      "product_ndcs": [
+        "61314-019"
+      ],
+      "rxcui": [
+        "310015"
+      ],
+      "setid": "29157995-fa61-4425-86a5-5bd0e4718cd8",
+      "source": "dailymed-title-match",
+      "spl_version": 16,
+      "title": "DORZOLAMIDE HYDROCHLORIDE SOLUTION/ DROPS [SANDOZ INC]",
+      "upload_date": "2026-10-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA090143"
+      ],
+      "brand_names": [
+        "Dorzolamide HCl"
+      ],
+      "combination": false,
+      "home_inn": "dorzolamide",
+      "ingredients": [
+        "DORZOLAMIDE HYDROCHLORIDE"
+      ],
+      "labeler": "Bausch & Lomb Incorporated",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-06-25",
+      "moieties": [
+        "DORZOLAMIDE"
+      ],
+      "product_ndcs": [
+        "24208-485"
+      ],
+      "rxcui": [
+        "310015"
+      ],
+      "setid": "8417d162-65a1-4266-bca7-707af1193bf3",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "DORZOLAMIDE HCL SOLUTION/ DROPS [BAUSCH & LOMB INCORPORATED]",
+      "upload_date": "2026-07-01"
+    },
+    {
+      "application_numbers": [
+        "ANDA212639"
+      ],
+      "brand_names": [
+        "Dorzolamide Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "dorzolamide",
+      "ingredients": [
+        "DORZOLAMIDE HYDROCHLORIDE"
+      ],
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-08-09",
+      "moieties": [
+        "DORZOLAMIDE"
+      ],
+      "product_ndcs": [
+        "62332-519"
+      ],
+      "rxcui": [
+        "310015"
+      ],
+      "setid": "5ad43fd4-19f0-448f-97a8-625ada4cb147",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "DORZOLAMIDE HYDROCHLORIDE SOLUTION/ DROPS [ALEMBIC PHARMACEUTICALS INC.]",
+      "upload_date": "2024-08-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA204778"
+      ],
+      "brand_names": [
+        "Dorzolamide Hydrochloride Ophthalmic Solution"
+      ],
+      "combination": false,
+      "home_inn": "dorzolamide",
+      "ingredients": [
+        "DORZOLAMIDE HYDROCHLORIDE"
+      ],
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-11-11",
+      "moieties": [
+        "DORZOLAMIDE"
+      ],
+      "product_ndcs": [
+        "42571-141"
+      ],
+      "rxcui": [
+        "310015"
+      ],
+      "setid": "4698e4e1-c5f6-4db1-9328-74464a85afea",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "DORZOLAMIDE HYDROCHLORIDE OPHTHALMIC SOLUTION (DORZOLAMIDE HYDROCHLORIDE) SOLUTION/ DROPS [MICRO LABS LIMITED]",
+      "upload_date": "2025-01-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA205294"
+      ],
+      "brand_names": [
+        "Dorzolamide hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "dorzolamide",
+      "ingredients": [
+        "DORZOLAMIDE HYDROCHLORIDE"
+      ],
+      "labeler": "Leading Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-12-01",
+      "moieties": [
+        "DORZOLAMIDE"
+      ],
+      "product_ndcs": [
+        "69315-304"
+      ],
+      "rxcui": [
+        "310015"
+      ],
+      "setid": "7d4cb6cd-86d0-41d9-baa9-bca0fa7b0694",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "DORZOLAMIDE HYDROCHLORIDE SOLUTION [LEADING PHARMA, LLC]",
+      "upload_date": "2024-05-27"
+    },
+    {
+      "application_numbers": [
+        "ANDA202053"
+      ],
+      "brand_names": [
+        "Dorzolamide Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "dorzolamide",
+      "ingredients": [
+        "DORZOLAMIDE HYDROCHLORIDE"
+      ],
+      "labeler": "Indoco Remedies Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-05-14",
+      "moieties": [
+        "DORZOLAMIDE"
+      ],
+      "product_ndcs": [
+        "14445-404"
+      ],
+      "rxcui": [
+        "310015"
+      ],
+      "setid": "462a61b2-1ec6-4d18-bc6b-fc03e027caa0",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "DORZOLAMIDE HYDROCHLORIDE (DORZOLAMIDE) SOLUTION/ DROPS [INDOCO REMEDIES LIMITED ]",
+      "upload_date": "2024-11-22"
+    },
+    {
+      "application_numbers": [
+        "NDA202667"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "COSOPT"
+      ],
+      "first_posted": "2012-02-13",
+      "found_by": "COSOPT",
+      "labeler": "Merck Sharp & Dohme Corp.",
+      "labeler_unverified": false,
+      "last_posted": "2016-04-12",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2016-03-31"
+      ],
+      "product_ndcs": [
+        "0006-3629"
+      ],
+      "rxcui": [],
+      "setid": "06c062ca-add7-4ddf-ba7c-7b5dd531e9ec",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "4e90c721-21e8-46ea-ab49-19f535bf7202",
+        "535fc801-8c3f-4974-a120-3eff1d5a5062"
+      ],
+      "title": "COSOPT PF (dorzolamide hydrochloride and timolol maleate) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA020408"
+      ],
+      "archived_versions": 10,
+      "brand_names": [
+        "TRUSOPT"
+      ],
+      "first_posted": "2007-02-16",
+      "found_by": "TRUSOPT",
+      "labeler": "Merck Sharp & Dohme LLC",
+      "labeler_unverified": false,
+      "last_posted": "2023-08-09",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-02-28"
+      ],
+      "product_ndcs": [
+        "0006-3519"
+      ],
+      "rxcui": [],
+      "setid": "26d26f80-aebf-441c-6383-327cb95eae4d",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "TRUSOPT (dorzolamide hydrochloride) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA020869"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "COSOPT"
+      ],
+      "first_posted": "2008-06-12",
+      "found_by": "COSOPT",
+      "labeler": "Merck Sharp & Dohme Corp.",
+      "labeler_unverified": false,
+      "last_posted": "2016-02-19",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-12-31"
+      ],
+      "product_ndcs": [
+        "0006-3628"
+      ],
+      "rxcui": [],
+      "setid": "3092b5b7-ef53-480c-968a-09c9c5df7bf8",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "23bdf1c1-3134-4ad1-8e7c-bc655156bdc6"
+      ],
+      "title": "COSOPT (dorzolamide hydrochloride and timolol maleate) solution"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2023e603-12bb-4502-9f93-0126e0cc24ed"
+    },
+    {
+      "combination": false,
+      "labeler": "Advagen Pharma Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ed9d1658-43cc-4c78-b3d8-e7d980a6b673"
+    },
+    {
+      "combination": false,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0832960f-0a6f-4fd1-bf55-be9bebde53bd"
+    },
+    {
+      "combination": true,
+      "labeler": "Bausch & Lomb Incorporated",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7f6ab3f6-3644-434c-b6cf-e4f111d18962"
+    },
+    {
+      "combination": true,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "78f39126-3e3b-4633-a4e0-c1f09a794eec"
+    },
+    {
+      "combination": true,
+      "labeler": "Leading Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c9ae08c5-275d-44b3-9d1e-5d8fedc21b96"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f41a9cd5-48c8-42eb-bb1b-d0355d981201"
+    },
+    {
+      "combination": true,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "17f04726-725f-4839-911d-47fc5e02baae"
+    },
+    {
+      "combination": true,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f45cce05-fb47-4607-b68e-5a3d47e7235a"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2b1fa44a-3890-4634-bcfc-c7310b51128e"
+    },
+    {
+      "combination": true,
+      "labeler": "Indoco Remedies Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0b75a79a-e048-4bf1-b02b-a72a8b8a0b3b"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2d5dcaa5-97ee-40c3-aa29-fcfb91fb78e1"
+    },
+    {
+      "combination": true,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b0a1d984-efee-4751-9797-c09adc2d307d"
+    },
+    {
+      "combination": true,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "efab039e-a69d-4306-8305-b1d27781cfe0"
+    },
+    {
+      "combination": true,
+      "labeler": "Ingenus Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "36c0e765-dfda-4b3b-8a98-a5f8b32607f7"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fb2e0729-b0bc-4c3f-9961-8bb38f84a032"
+    },
+    {
+      "combination": false,
+      "labeler": "FOSUN PHARMA USA INC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ef173b63-499f-301b-e053-2995a90a4771"
+    },
+    {
+      "combination": false,
+      "labeler": "Florida Pharmaceutical Products, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e4e6a5a8-f7be-4424-83f2-d6bb4d57443e"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0246463c-6c24-4611-8e22-2d5254ace66a"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6b9c446e-7068-479b-8611-aead7a8d2f50"
+    },
+    {
+      "combination": true,
+      "labeler": "Florida Pharmaceutical Products, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "02d89d37-cbca-4e06-83ef-2a10f988f1ea"
+    }
+  ]
+}

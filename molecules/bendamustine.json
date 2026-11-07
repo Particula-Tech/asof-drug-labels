@@ -1,0 +1,519 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "BENDAMUSTINE HYDROCHLORIDE"
+  ],
+  "inn": "bendamustine",
+  "name": "BENDAMUSTINE",
+  "rank": 74,
+  "rxcui": [
+    "1726097",
+    "1726102",
+    "1805001",
+    "1805004",
+    "1805007",
+    "1805009",
+    "1805011",
+    "1805012",
+    "1805015",
+    "1805016",
+    "2178266",
+    "2622914",
+    "2754334"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 13,
+    "approval_holders": 12,
+    "earliest_marketing_start": "2008-03-31",
+    "latest_label_update": "2026-10-05",
+    "nda_bla_applications": 7,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "BENDAMUSTINE HYDROCHLORIDE",
+      "unii": "981Y8SX18M"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA022249"
+      ],
+      "brand_names": [
+        "TREANDA"
+      ],
+      "combination": false,
+      "home_inn": "bendamustine",
+      "ingredients": [
+        "BENDAMUSTINE HYDROCHLORIDE"
+      ],
+      "labeler": "Cephalon, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2008-03-31",
+      "moieties": [
+        "BENDAMUSTINE"
+      ],
+      "product_ndcs": [
+        "63459-390",
+        "63459-391"
+      ],
+      "rxcui": [
+        "1805001",
+        "1805004",
+        "1805007",
+        "1805009",
+        "1805011",
+        "1805012",
+        "1805015",
+        "1805016"
+      ],
+      "setid": "39d53698-57fa-7c99-fc5b-f52a55684826",
+      "source": "dailymed-title-match",
+      "spl_version": 27,
+      "title": "TREANDA (BENDAMUSTINE HYDROCHLORIDE) INJECTION, SOLUTION, CONCENTRATE TREANDA (BENDAMUSTINE HYDROCHLORIDE) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [CEPHALON, LLC]",
+      "upload_date": "2026-09-24"
+    },
+    {
+      "application_numbers": [
+        "NDA208194"
+      ],
+      "brand_names": [
+        "Bendeka"
+      ],
+      "combination": false,
+      "home_inn": "bendamustine",
+      "ingredients": [
+        "BENDAMUSTINE HYDROCHLORIDE"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-12-08",
+      "moieties": [
+        "BENDAMUSTINE"
+      ],
+      "product_ndcs": [
+        "63459-348"
+      ],
+      "rxcui": [
+        "1726097",
+        "1726102"
+      ],
+      "setid": "ace9a43b-f9bd-4896-abfe-0ef4fec67ddf",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "BENDEKA (BENDAMUSTINE HYDROCHLORIDE) INJECTION, SOLUTION [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2024-01-24"
+    },
+    {
+      "application_numbers": [
+        "NDA205580"
+      ],
+      "brand_names": [
+        "BELRAPZO"
+      ],
+      "combination": false,
+      "home_inn": "bendamustine",
+      "ingredients": [
+        "BENDAMUSTINE HYDROCHLORIDE"
+      ],
+      "labeler": "Eagle Pharmaceuticals, Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2019-06-03",
+      "moieties": [
+        "BENDAMUSTINE"
+      ],
+      "product_ndcs": [
+        "42367-521"
+      ],
+      "rxcui": [
+        "1726097",
+        "2178266"
+      ],
+      "setid": "9759a4ae-82ca-40cf-9c02-e1cadb21cbdc",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "BELRAPZO (BENDAMUSTINE HYDROCHLORIDE) INJECTION [EAGLE PHARMACEUTICALS, INC]",
+      "upload_date": "2024-10-03"
+    },
+    {
+      "application_numbers": [
+        "NDA212209"
+      ],
+      "brand_names": [
+        "VIVIMUSTA"
+      ],
+      "combination": false,
+      "home_inn": "bendamustine",
+      "ingredients": [
+        "BENDAMUSTINE HYDROCHLORIDE"
+      ],
+      "labeler": "Slayback Pharma LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-12-07",
+      "moieties": [
+        "BENDAMUSTINE"
+      ],
+      "product_ndcs": [
+        "71225-120"
+      ],
+      "rxcui": [
+        "1726097",
+        "2622914"
+      ],
+      "setid": "cbcc6eb7-aa62-4599-af49-05203fedb4bb",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "VIVIMUSTA (BENDAMUSTINE HYDROCHLORIDE) INJECTION [SLAYBACK PHARMA LLC]",
+      "upload_date": "2024-09-25"
+    },
+    {
+      "application_numbers": [
+        "NDA216078"
+      ],
+      "brand_names": [
+        "BENDAMUSTINE HYDROCHLORIDE"
+      ],
+      "combination": false,
+      "home_inn": "bendamustine",
+      "ingredients": [
+        "BENDAMUSTINE HYDROCHLORIDE"
+      ],
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-12-15",
+      "moieties": [
+        "BENDAMUSTINE"
+      ],
+      "product_ndcs": [
+        "10019-079"
+      ],
+      "rxcui": [
+        "1726097"
+      ],
+      "setid": "766b73e2-49bb-47f9-bbb1-44cfa1a3197e",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "BENDAMUSTINE HYDROCHLORIDE INJECTION [BAXTER HEALTHCARE CORPORATION]",
+      "upload_date": "2026-04-17"
+    },
+    {
+      "application_numbers": [
+        "NDA215033"
+      ],
+      "brand_names": [
+        "Bendamustine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "bendamustine",
+      "ingredients": [
+        "BENDAMUSTINE HYDROCHLORIDE"
+      ],
+      "labeler": "Apotex Corp",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-04-26",
+      "moieties": [
+        "BENDAMUSTINE"
+      ],
+      "product_ndcs": [
+        "60505-6228"
+      ],
+      "rxcui": [
+        "1726097"
+      ],
+      "setid": "085dd54c-4212-d879-afef-ee52732a48c0",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "BENDAMUSTINE HYDROCHLORIDE INJECTION, SOLUTION [APOTEX CORP]",
+      "upload_date": "2026-09-10"
+    },
+    {
+      "application_numbers": [
+        "NDA219014"
+      ],
+      "brand_names": [
+        "BENDAMUSTINE HYDROCHLORIDE"
+      ],
+      "combination": false,
+      "home_inn": "bendamustine",
+      "ingredients": [
+        "BENDAMUSTINE HYDROCHLORIDE"
+      ],
+      "labeler": "Avyxa Pharma, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2026-05-29",
+      "moieties": [
+        "BENDAMUSTINE"
+      ],
+      "product_ndcs": [
+        "83831-183"
+      ],
+      "rxcui": [
+        "1726097"
+      ],
+      "setid": "f359e7c6-d104-457d-a7fe-597c74440353",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "BENDAMUSTINE HYDROCHLORIDE INJECTION [AVYXA PHARMA, LLC]",
+      "upload_date": "2026-05-29"
+    },
+    {
+      "application_numbers": [
+        "NDA212209"
+      ],
+      "brand_names": [
+        "VIVIMUSTA"
+      ],
+      "combination": false,
+      "home_inn": "bendamustine",
+      "ingredients": [
+        "BENDAMUSTINE HYDROCHLORIDE"
+      ],
+      "labeler": "Azurity Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-04-01",
+      "moieties": [
+        "BENDAMUSTINE"
+      ],
+      "product_ndcs": [
+        "24338-270"
+      ],
+      "rxcui": [
+        "1726097",
+        "2622914"
+      ],
+      "setid": "4df6548f-c4ad-4eb2-a54f-19766a3d90ca",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "VIVIMUSTA (BENDAMUSTINE HYDROCHLORIDE) INJECTION [AZURITY PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-04-07"
+    },
+    {
+      "application_numbers": [
+        "NDA219014"
+      ],
+      "brand_names": [
+        "GOBARDEN"
+      ],
+      "combination": false,
+      "home_inn": "bendamustine",
+      "ingredients": [
+        "BENDAMUSTINE HYDROCHLORIDE"
+      ],
+      "labeler": "AVYXA Pharma, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2026-09-25",
+      "moieties": [
+        "BENDAMUSTINE"
+      ],
+      "product_ndcs": [
+        "83831-176"
+      ],
+      "rxcui": [
+        "1726097",
+        "2754334"
+      ],
+      "setid": "353fdf70-2720-41d3-a6fc-7baf0d793282",
+      "source": "dailymed-title-match",
+      "spl_version": 2,
+      "title": "GOBARDEN (BENDAMUSTINE HYDROCHLORIDE) INJECTION, SOLUTION [AVYXA PHARMA, LLC]",
+      "upload_date": "2026-10-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA205574"
+      ],
+      "brand_names": [
+        "bendamustine hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "bendamustine",
+      "ingredients": [
+        "BENDAMUSTINE HYDROCHLORIDE"
+      ],
+      "labeler": "Accord Healthcare, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-12-07",
+      "moieties": [
+        "BENDAMUSTINE"
+      ],
+      "product_ndcs": [
+        "16729-250",
+        "16729-251"
+      ],
+      "rxcui": [
+        "1805001",
+        "1805007"
+      ],
+      "setid": "33867f0f-f317-1fd0-e054-00144ff8d46c",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "BENDAMUSTINE HYDROCHLORIDE INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [ACCORD HEALTHCARE, INC.]",
+      "upload_date": "2024-07-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA211001"
+      ],
+      "brand_names": [
+        "Bendamustine"
+      ],
+      "combination": false,
+      "home_inn": "bendamustine",
+      "ingredients": [
+        "BENDAMUSTINE HYDROCHLORIDE"
+      ],
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-06-05",
+      "moieties": [
+        "BENDAMUSTINE"
+      ],
+      "product_ndcs": [
+        "71288-102",
+        "71288-103"
+      ],
+      "rxcui": [
+        "1805001",
+        "1805007"
+      ],
+      "setid": "40f6f58d-d9ac-4f65-9fc7-16984bf1f180",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "BENDAMUSTINE (BENDAMUSTINE HCL) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION BENDAMUSTINE (BENDAMUSTINE HCL) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [MEITHEAL PHARMACEUTICALS INC.]",
+      "upload_date": "2026-05-20"
+    },
+    {
+      "application_numbers": [
+        "ANDA214739"
+      ],
+      "brand_names": [
+        "BENDAMUSTINE HYDROCHLORIDE"
+      ],
+      "combination": false,
+      "home_inn": "bendamustine",
+      "ingredients": [
+        "BENDAMUSTINE HYDROCHLORIDE"
+      ],
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-06-05",
+      "moieties": [
+        "BENDAMUSTINE"
+      ],
+      "product_ndcs": [
+        "55150-391",
+        "55150-392"
+      ],
+      "rxcui": [
+        "1805001",
+        "1805007"
+      ],
+      "setid": "dbe34bc1-06b2-493f-8859-e8b143357aa8",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "BENDAMUSTINE HYDROCHLORIDE INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [EUGIA US LLC]",
+      "upload_date": "2023-07-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA205574"
+      ],
+      "brand_names": [
+        "bendamustine hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "bendamustine",
+      "ingredients": [
+        "BENDAMUSTINE HYDROCHLORIDE"
+      ],
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-09-15",
+      "moieties": [
+        "BENDAMUSTINE"
+      ],
+      "product_ndcs": [
+        "68001-572"
+      ],
+      "rxcui": [
+        "1805001",
+        "1805007"
+      ],
+      "setid": "0df025d2-c093-427a-b599-f605e71fe835",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "BENDAMUSTINE HYDROCHLORIDE INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [BLUEPOINT LABORATORIES]",
+      "upload_date": "2024-04-01"
+    },
+    {
+      "application_numbers": [
+        "NDA022249"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "TREANDA"
+      ],
+      "first_posted": "2014-11-07",
+      "found_by": "TREANDA",
+      "labeler": "Cephalon, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2014-12-23",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "63459-395",
+        "63459-396"
+      ],
+      "rxcui": [],
+      "setid": "981bea96-b753-4d57-a0fd-5d0f29078dd7",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "39d53698-57fa-7c99-fc5b-f52a55684826"
+      ],
+      "title": "TREANDA (bendamustine hydrochloride) injection, solution, concentrate"
+    }
+  ],
+  "us_excluded": []
+}

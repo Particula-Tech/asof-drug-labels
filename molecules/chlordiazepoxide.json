@@ -1,0 +1,378 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "CHLORDIAZEPOXIDE",
+    "CHLORDIAZEPOXIDE HYDROCHLORIDE"
+  ],
+  "inn": "chlordiazepoxide",
+  "name": "CHLORDIAZEPOXIDE",
+  "rank": 427,
+  "rxcui": [
+    "856769",
+    "856792",
+    "889614",
+    "889616",
+    "905369",
+    "905495",
+    "905516"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 15,
+    "approval_holders": 14,
+    "earliest_marketing_start": "1966-09-01",
+    "latest_label_update": "2026-04-17",
+    "nda_bla_applications": 1,
+    "repackagers": 11
+  },
+  "unii": [
+    {
+      "ingredient": "CHLORDIAZEPOXIDE",
+      "unii": "6RZ6XEZ3CR"
+    },
+    {
+      "ingredient": "CHLORDIAZEPOXIDE HYDROCHLORIDE",
+      "unii": "MFM6K1XWDK"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA012750"
+      ],
+      "brand_names": [
+        "Librax"
+      ],
+      "combination": true,
+      "home_inn": "chlordiazepoxide",
+      "ingredients": [
+        "CHLORDIAZEPOXIDE HYDROCHLORIDE",
+        "CLIDINIUM BROMIDE"
+      ],
+      "labeler": "Bausch Health US, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1966-09-01",
+      "moieties": [
+        "CHLORDIAZEPOXIDE",
+        "CLIDINIUM"
+      ],
+      "product_ndcs": [
+        "0187-4100"
+      ],
+      "rxcui": [
+        "889614",
+        "889616"
+      ],
+      "setid": "f99ebf66-f207-4a97-9666-4da1d72b061c",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "LIBRAX (CHLORDIAZEPOXIDE HYDROCHLORIDE AND CLIDINIUM BROMIDE) CAPSULE [BAUSCH HEALTH US, LLC]",
+      "upload_date": "2023-04-25"
+    },
+    {
+      "application_numbers": [
+        "ANDA084041",
+        "ANDA084678",
+        "ANDA084679"
+      ],
+      "brand_names": [
+        "Chlordiazepoxide Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "chlordiazepoxide",
+      "ingredients": [
+        "CHLORDIAZEPOXIDE HYDROCHLORIDE"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1976-06-15",
+      "moieties": [
+        "CHLORDIAZEPOXIDE"
+      ],
+      "product_ndcs": [
+        "62135-220",
+        "62135-221",
+        "62135-222"
+      ],
+      "rxcui": [
+        "905369",
+        "905495",
+        "905516"
+      ],
+      "setid": "dd5f82b0-5a56-4728-941a-c8c2a0d51cc4",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "CHLORDIAZEPOXIDE HYDROCHLORIDE CAPSULE [CHARTWELL RX, LLC]",
+      "upload_date": "2025-12-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA083116",
+        "ANDA084768",
+        "ANDA084769"
+      ],
+      "brand_names": [
+        "Chlordiazepoxide Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "chlordiazepoxide",
+      "ingredients": [
+        "CHLORDIAZEPOXIDE HYDROCHLORIDE"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1976-07-01",
+      "moieties": [
+        "CHLORDIAZEPOXIDE"
+      ],
+      "product_ndcs": [
+        "0555-0033",
+        "0555-0158",
+        "0555-0159"
+      ],
+      "rxcui": [
+        "905369",
+        "905495",
+        "905516"
+      ],
+      "setid": "e3ff8641-ae8a-4016-acb1-cb1b7890f5ed",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "CHLORDIAZEPOXIDE HYDROCHLORIDE CAPSULE [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2025-06-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA085461",
+        "ANDA085472",
+        "ANDA085475"
+      ],
+      "brand_names": [
+        "CHLORDIAZEPOXIDE HYDROCHLORIDE"
+      ],
+      "combination": false,
+      "home_inn": "chlordiazepoxide",
+      "ingredients": [
+        "CHLORDIAZEPOXIDE HYDROCHLORIDE"
+      ],
+      "labeler": "Epic Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-08-13",
+      "moieties": [
+        "CHLORDIAZEPOXIDE"
+      ],
+      "product_ndcs": [
+        "42806-564",
+        "42806-565",
+        "42806-566"
+      ],
+      "rxcui": [
+        "905369",
+        "905495",
+        "905516"
+      ],
+      "setid": "2e198c16-a929-4028-8f96-25dd23f74b10",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "CHLORDIAZEPOXIDE HYDROCHLORIDE CAPSULE, GELATIN COATED [EPIC PHARMA, LLC]",
+      "upload_date": "2023-02-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA071297"
+      ],
+      "brand_names": [
+        "Chlordiazepoxide and Amitriptyline Hydrochloride"
+      ],
+      "combination": true,
+      "home_inn": "chlordiazepoxide",
+      "ingredients": [
+        "AMITRIPTYLINE HYDROCHLORIDE",
+        "CHLORDIAZEPOXIDE"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1986-12-10",
+      "moieties": [
+        "AMITRIPTYLINE",
+        "CHLORDIAZEPOXIDE"
+      ],
+      "product_ndcs": [
+        "0378-0211",
+        "0378-0277"
+      ],
+      "rxcui": [
+        "856769",
+        "856792"
+      ],
+      "setid": "66a756f2-ac77-451c-a19a-08896d73b15c",
+      "source": "openfda",
+      "spl_version": 27,
+      "title": "CHLORDIAZEPOXIDE AND AMITRIPTYLINE HYDROCHLORIDE TABLET, FILM COATED [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2026-04-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA211421"
+      ],
+      "brand_names": [
+        "Chlordiazepoxide Hydrochloride and Clidinium Bromide"
+      ],
+      "combination": true,
+      "home_inn": "chlordiazepoxide",
+      "ingredients": [
+        "CHLORDIAZEPOXIDE HYDROCHLORIDE",
+        "CLIDINIUM BROMIDE"
+      ],
+      "labeler": "Sunrise Pharmaceutical, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-07-09",
+      "moieties": [
+        "CHLORDIAZEPOXIDE",
+        "CLIDINIUM"
+      ],
+      "product_ndcs": [
+        "11534-197"
+      ],
+      "rxcui": [
+        "889614"
+      ],
+      "setid": "3cce1912-e7c8-4f30-bd76-dfa4b9d65bac",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "CHLORDIAZEPOXIDE HYDROCHLORIDE AND CLIDINIUM BROMIDE CAPSULE [SUNRISE PHARMACEUTICAL, INC.]",
+      "upload_date": "2022-08-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA210579"
+      ],
+      "brand_names": [
+        "Chlordiazepoxide Hydrochloride and Clidinium Bromide"
+      ],
+      "combination": true,
+      "home_inn": "chlordiazepoxide",
+      "ingredients": [
+        "CHLORDIAZEPOXIDE HYDROCHLORIDE",
+        "CLIDINIUM BROMIDE"
+      ],
+      "labeler": "Misemer Pharmaceuticals, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-09-03",
+      "moieties": [
+        "CHLORDIAZEPOXIDE",
+        "CLIDINIUM"
+      ],
+      "product_ndcs": [
+        "0276-0500"
+      ],
+      "rxcui": [
+        "889614"
+      ],
+      "setid": "a42fc981-77bc-4c9e-a79d-b821bffb65b4",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "CHLORDIAZEPOXIDE HYDROCHLORIDE AND CLIDINIUM BROMIDE (CHLORDIAZEPOXIDE HYDROCHLORIDE, CLIDINIUM BROMIDE) CAPSULE [MISEMER PHARMACEUTICALS, INC]",
+      "upload_date": "2025-12-04"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": true,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a0d735c2-e7a9-4843-a78d-203c9598682d"
+    },
+    {
+      "combination": true,
+      "labeler": "Winder Laboratories LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "87d1a147-d3c3-4097-aac0-4b19c49eabe3"
+    },
+    {
+      "combination": true,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "19fdde81-e0f2-4269-bd57-252a759b7593"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b4ef805f-9fc3-47f7-b1f7-328c54970e5d"
+    },
+    {
+      "combination": true,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cd820fcb-b6a8-43f4-a6d9-f94546d380c8"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0fda7521-a452-4bac-953d-7d464d75ca22"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "398931c6-4954-4bbc-8b63-ea382e5864fc"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e37c96f1-0738-49c7-ad46-c8ae0a998cf7"
+    }
+  ]
+}

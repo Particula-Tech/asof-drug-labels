@@ -1,0 +1,499 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 1,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "only combination central products under this exact INN (combinations are not built)",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "CEFEPIME HYDROCHLORIDE"
+  ],
+  "inn": "cefepime",
+  "name": "CEFEPIME",
+  "rank": 318,
+  "rxcui": [
+    "1665088",
+    "1665093",
+    "1665097",
+    "2058953",
+    "2744819",
+    "2744824"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 15,
+    "approval_holders": 11,
+    "earliest_marketing_start": "2008-05-01",
+    "latest_label_update": "2026-10-19",
+    "nda_bla_applications": 3,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "CEFEPIME HYDROCHLORIDE",
+      "unii": "I8X1O0607P"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA050817"
+      ],
+      "brand_names": [
+        "Cefepime"
+      ],
+      "combination": false,
+      "home_inn": "cefepime",
+      "ingredients": [
+        "CEFEPIME HYDROCHLORIDE"
+      ],
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2008-08-05",
+      "moieties": [
+        "CEFEPIME"
+      ],
+      "product_ndcs": [
+        "0338-1301"
+      ],
+      "rxcui": [
+        "1665088",
+        "1665093"
+      ],
+      "setid": "be5f8ca6-7232-423a-a2d5-cccb7abe7921",
+      "source": "openfda",
+      "spl_version": 29,
+      "title": "CEFEPIME INJECTION, SOLUTION [BAXTER HEALTHCARE CORPORATION]",
+      "upload_date": "2026-07-01"
+    },
+    {
+      "application_numbers": [
+        "NDA050821"
+      ],
+      "brand_names": [
+        "CEFEPIME HYDROCHLORIDE AND DEXTROSE"
+      ],
+      "combination": false,
+      "home_inn": "cefepime",
+      "ingredients": [
+        "CEFEPIME HYDROCHLORIDE"
+      ],
+      "labeler": "B. Braun Medical Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2010-05-06",
+      "moieties": [
+        "CEFEPIME"
+      ],
+      "product_ndcs": [
+        "0264-3193",
+        "0264-3195"
+      ],
+      "rxcui": [
+        "1665088",
+        "1665093"
+      ],
+      "setid": "57517a0e-ec1b-4605-a7cc-7e3801158ec9",
+      "source": "openfda",
+      "spl_version": 25,
+      "title": "CEFEPIME HYDROCHLORIDE AND DEXTROSE (CEFEPIME HYDROCHLORIDE) INJECTION, SOLUTION [B. BRAUN MEDICAL INC.]",
+      "upload_date": "2026-04-22"
+    },
+    {
+      "application_numbers": [
+        "NDA220787"
+      ],
+      "brand_names": [
+        "ZAYNICH"
+      ],
+      "combination": true,
+      "home_inn": "cefepime",
+      "ingredients": [
+        "CEFEPIME HYDROCHLORIDE",
+        "ZIDEBACTAM DIHYDRATE"
+      ],
+      "labeler": "Wockhardt Suisse USA LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2026-05-29",
+      "moieties": [
+        "CEFEPIME",
+        "ZIDEBACTAM"
+      ],
+      "product_ndcs": [
+        "87706-866"
+      ],
+      "rxcui": [
+        "2744819",
+        "2744824"
+      ],
+      "setid": "c84e652e-5e76-4568-8812-bd5fa34803b6",
+      "source": "dailymed-title-match",
+      "spl_version": 3,
+      "title": "ZAYNICH (ZIDEBACTAM DIHYDRATE AND CEFEPIME HYDROCHLORIDE) INJECTION, POWDER, FOR SOLUTION [WOCKHARDT SUISSE USA LLC]",
+      "upload_date": "2026-10-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA065441"
+      ],
+      "brand_names": [
+        "cefepime"
+      ],
+      "combination": false,
+      "home_inn": "cefepime",
+      "ingredients": [
+        "CEFEPIME HYDROCHLORIDE"
+      ],
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2008-05-01",
+      "moieties": [
+        "CEFEPIME"
+      ],
+      "product_ndcs": [
+        "25021-121",
+        "25021-122"
+      ],
+      "rxcui": [
+        "1665088",
+        "1665093"
+      ],
+      "setid": "de477f37-40f6-4295-ae72-a2ee36a8922e",
+      "source": "dailymed-title-match",
+      "spl_version": 24,
+      "title": "CEFEPIME (CEFEPIME HYDROCHLORIDE) INJECTION, POWDER, FOR SOLUTION [SAGENT PHARMACEUTICALS]",
+      "upload_date": "2026-09-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA203704"
+      ],
+      "brand_names": [
+        "Cefepime"
+      ],
+      "combination": false,
+      "home_inn": "cefepime",
+      "ingredients": [
+        "CEFEPIME HYDROCHLORIDE"
+      ],
+      "labeler": "Qilu Pharmaceutical Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-02-01",
+      "moieties": [
+        "CEFEPIME"
+      ],
+      "product_ndcs": [
+        "67184-1002",
+        "67184-1003",
+        "67184-1004"
+      ],
+      "rxcui": [
+        "1665088",
+        "1665093",
+        "1665097"
+      ],
+      "setid": "80b4c811-4a71-47fb-8565-85ce9d0f782c",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "CEFEPIME (CEFEPIME HYDROCHLORIDE) INJECTION, POWDER, FOR SOLUTION [QILU PHARMACEUTICAL CO., LTD.]",
+      "upload_date": "2021-11-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA209408"
+      ],
+      "brand_names": [
+        "CEFEPIME"
+      ],
+      "combination": false,
+      "home_inn": "cefepime",
+      "ingredients": [
+        "CEFEPIME HYDROCHLORIDE"
+      ],
+      "labeler": "SAMSON MEDICAL TECHNOLOGIES LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-10-01",
+      "moieties": [
+        "CEFEPIME"
+      ],
+      "product_ndcs": [
+        "66288-8100"
+      ],
+      "rxcui": [
+        "2058953"
+      ],
+      "setid": "f776421b-bd46-4664-b9ff-533d805e1277",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "CEFEPIME INJECTION, POWDER, FOR SOLUTION [SAMSON MEDICAL TECHNOLOGIES LLC]",
+      "upload_date": "2024-03-14"
+    },
+    {
+      "application_numbers": [
+        "ANDA214402"
+      ],
+      "brand_names": [
+        "Cefepime Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "cefepime",
+      "ingredients": [
+        "CEFEPIME HYDROCHLORIDE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-09-22",
+      "moieties": [
+        "CEFEPIME"
+      ],
+      "product_ndcs": [
+        "0143-9382",
+        "0143-9383"
+      ],
+      "rxcui": [
+        "1665088",
+        "1665093"
+      ],
+      "setid": "b9914e7e-13f6-42d4-9cbb-8c7ed1ce7a01",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "CEFEPIME HYDROCHLORIDE INJECTION, POWDER, FOR SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA065441"
+      ],
+      "brand_names": [
+        "Cefepime"
+      ],
+      "combination": false,
+      "home_inn": "cefepime",
+      "ingredients": [
+        "CEFEPIME HYDROCHLORIDE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-08-30",
+      "moieties": [
+        "CEFEPIME"
+      ],
+      "product_ndcs": [
+        "63323-326",
+        "63323-340"
+      ],
+      "rxcui": [
+        "1665088",
+        "1665093"
+      ],
+      "setid": "5e1695e0-1310-4cd8-a5da-ad1a7dcd1792",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "CEFEPIME INJECTION, POWDER, FOR SOLUTION CEFEPIME (CEFEPIME) INJECTION, POWDER, FOR SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2023-10-16"
+    },
+    {
+      "application_numbers": [
+        "ANDA065441"
+      ],
+      "brand_names": [
+        "Cefepime"
+      ],
+      "combination": false,
+      "home_inn": "cefepime",
+      "ingredients": [
+        "CEFEPIME HYDROCHLORIDE"
+      ],
+      "labeler": "WG Critical Care, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-10-10",
+      "moieties": [
+        "CEFEPIME"
+      ],
+      "product_ndcs": [
+        "44567-240",
+        "44567-241"
+      ],
+      "rxcui": [
+        "1665088",
+        "1665093"
+      ],
+      "setid": "5fd857e5-591f-44ca-80cf-fd903660b03c",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "CEFEPIME INJECTION, POWDER, FOR SOLUTION [WG CRITICAL CARE, LLC]",
+      "upload_date": "2026-07-03"
+    },
+    {
+      "application_numbers": [
+        "NDA050679"
+      ],
+      "archived_versions": 14,
+      "brand_names": [
+        "MAXIPIME"
+      ],
+      "first_posted": "2013-01-08",
+      "found_by": "MAXIPIME",
+      "labeler": "Hospira, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2021-08-27",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-02-18",
+        "2019-05-31",
+        "2019-11-30"
+      ],
+      "product_ndcs": [
+        "0409-0217",
+        "0409-0218",
+        "0409-0219",
+        "0409-0220",
+        "0409-0221"
+      ],
+      "rxcui": [],
+      "setid": "a96295cf-e652-4f10-9e25-9f2a2cc036f6",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "MAXIPIME (cefepime) injection, powder, for solution"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "MAXIPIME"
+      ],
+      "first_posted": "2007-02-16",
+      "found_by": "MAXIPIME",
+      "labeler": "Bristol-Myers Squibb Company",
+      "labeler_unverified": true,
+      "last_posted": "2007-02-16",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "51479-053",
+        "51479-054",
+        "51479-055"
+      ],
+      "rxcui": [],
+      "setid": "b7b29385-e08e-4de9-9c9e-da3b1122b386",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "maxipime (cefepime hydrochloride) injection, powder, for solution"
+    },
+    {
+      "application_numbers": [
+        "NDA050679"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "MAXIPIME"
+      ],
+      "first_posted": "2008-09-24",
+      "found_by": "MAXIPIME",
+      "labeler": "Elan Pharmaceuticals, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2010-08-13",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2011-11-30",
+        "2013-05-31"
+      ],
+      "product_ndcs": [
+        "51479-053",
+        "51479-054",
+        "51479-055"
+      ],
+      "rxcui": [],
+      "setid": "d93bc81a-650f-4070-beb4-3a5fa4d27a7d",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "MAXIPIME (cefepime hydrochloride) injection, powder, for solution"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dd641c7f-b857-48ff-bd9d-747e0c3cc89f"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d63d360a-15ec-44a4-b80d-b2a5cb5759eb"
+    },
+    {
+      "combination": false,
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e80c27e2-164d-4836-ba24-c160d75dc5d3"
+    },
+    {
+      "combination": false,
+      "labeler": "WG Critical Care, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c654ef2e-1067-4026-8931-6a0dc2a17ad1"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "02aa374f-37b4-456a-b5de-cfd3bbb6ce6e"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f64c181e-28c5-48ab-aa67-5ca0e3fd079c"
+    }
+  ]
+}

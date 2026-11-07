@@ -1,0 +1,863 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "DOXEPIN HYDROCHLORIDE"
+  ],
+  "inn": "doxepin",
+  "name": "DOXEPIN",
+  "rank": 73,
+  "rxcui": [
+    "966787",
+    "966791",
+    "966793",
+    "966795",
+    "1000048",
+    "1000054",
+    "1000058",
+    "1000070",
+    "1000076",
+    "1000091",
+    "1000093",
+    "1000095",
+    "1000097"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 41,
+    "approval_holders": 33,
+    "earliest_marketing_start": "1986-05-13",
+    "latest_label_update": "2026-10-02",
+    "nda_bla_applications": 2,
+    "repackagers": 17
+  },
+  "unii": [
+    {
+      "ingredient": "DOXEPIN HYDROCHLORIDE",
+      "unii": "3U9A0FE9N5"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA022036"
+      ],
+      "brand_names": [
+        "Silenor"
+      ],
+      "combination": false,
+      "home_inn": "doxepin",
+      "ingredients": [
+        "DOXEPIN HYDROCHLORIDE"
+      ],
+      "labeler": "Currax Pharmaceuticals LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2010-08-01",
+      "moieties": [
+        "DOXEPIN"
+      ],
+      "product_ndcs": [
+        "42847-103",
+        "42847-106"
+      ],
+      "rxcui": [
+        "966787",
+        "966791",
+        "966793",
+        "966795"
+      ],
+      "setid": "1bec1223-5239-4eb6-a9e8-62444106d2c0",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "SILENOR (DOXEPIN HYDROCHLORIDE) TABLET [CURRAX PHARMACEUTICALS LLC]",
+      "upload_date": "2026-04-24"
+    },
+    {
+      "application_numbers": [
+        "NDA020126"
+      ],
+      "brand_names": [
+        "PRUDOXIN"
+      ],
+      "combination": false,
+      "home_inn": "doxepin",
+      "ingredients": [
+        "DOXEPIN HYDROCHLORIDE"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-08-01",
+      "moieties": [
+        "DOXEPIN"
+      ],
+      "product_ndcs": [
+        "0378-8130"
+      ],
+      "rxcui": [
+        "1000091",
+        "1000093"
+      ],
+      "setid": "ca53346b-8ab3-4722-98f6-cf272706d3fa",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "PRUDOXIN (DOXEPIN HYDROCHLORIDE) CREAM [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2018-11-21"
+    },
+    {
+      "application_numbers": [
+        "NDA020126"
+      ],
+      "brand_names": [
+        "Zonalon"
+      ],
+      "combination": false,
+      "home_inn": "doxepin",
+      "ingredients": [
+        "DOXEPIN HYDROCHLORIDE"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-11-14",
+      "moieties": [
+        "DOXEPIN"
+      ],
+      "product_ndcs": [
+        "0378-8123"
+      ],
+      "rxcui": [
+        "1000091",
+        "1000095"
+      ],
+      "setid": "5f302247-525e-4acc-852b-00eb1d79af4b",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "ZONALON (DOXEPIN HYDROCHLORIDE) CREAM [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2018-11-27"
+    },
+    {
+      "application_numbers": [
+        "NDA022036"
+      ],
+      "brand_names": [
+        "doxepin hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "doxepin",
+      "ingredients": [
+        "DOXEPIN HYDROCHLORIDE"
+      ],
+      "labeler": "Currax Pharmaceuticals LLC dba Cypress, Hawthorn, Macoven",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2010-08-01",
+      "moieties": [
+        "DOXEPIN"
+      ],
+      "product_ndcs": [
+        "44183-103",
+        "44183-106"
+      ],
+      "rxcui": [
+        "966787",
+        "966793"
+      ],
+      "setid": "5b4dba99-6b66-4091-94f1-bf5f021c688a",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "DOXEPIN HYDROCHLORIDE TABLET [CURRAX PHARMACEUTICALS LLC DBA CYPRESS, HAWTHORN, MACOVEN]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "NDA020126"
+      ],
+      "brand_names": [
+        "Doxepin Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "doxepin",
+      "ingredients": [
+        "DOXEPIN HYDROCHLORIDE"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2019-01-04",
+      "moieties": [
+        "DOXEPIN"
+      ],
+      "product_ndcs": [
+        "0378-8117"
+      ],
+      "rxcui": [
+        "1000091"
+      ],
+      "setid": "b4771ea7-c19b-4182-bb23-c1473ab583fa",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "DOXEPIN HYDROCHLORIDE CREAM [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2019-01-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA070791"
+      ],
+      "brand_names": [
+        "Doxepin Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "doxepin",
+      "ingredients": [
+        "DOXEPIN HYDROCHLORIDE"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1986-05-13",
+      "moieties": [
+        "DOXEPIN"
+      ],
+      "product_ndcs": [
+        "0378-1049",
+        "0378-3125",
+        "0378-4250",
+        "0378-5375",
+        "0378-6410"
+      ],
+      "rxcui": [
+        "1000048",
+        "1000058",
+        "1000070",
+        "1000076",
+        "1000097"
+      ],
+      "setid": "1533343b-f1ed-4c3a-bb36-23a748452b05",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "DOXEPIN HYDROCHLORIDE CAPSULE [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA074721"
+      ],
+      "brand_names": [
+        "Doxepin Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "doxepin",
+      "ingredients": [
+        "DOXEPIN HYDROCHLORIDE"
+      ],
+      "labeler": "Lannett Company, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1998-12-29",
+      "moieties": [
+        "DOXEPIN"
+      ],
+      "product_ndcs": [
+        "54838-512"
+      ],
+      "rxcui": [
+        "1000054"
+      ],
+      "setid": "f350afed-120b-422d-9e6e-3aaa0f72a5fb",
+      "source": "dailymed-title-match",
+      "spl_version": 25,
+      "title": "DOXEPIN HYDROCHLORIDE SOLUTION [LANNETT COMPANY, LLC]",
+      "upload_date": "2026-09-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA207482"
+      ],
+      "brand_names": [
+        "Doxepin Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "doxepin",
+      "ingredients": [
+        "DOXEPIN HYDROCHLORIDE"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-06-28",
+      "moieties": [
+        "DOXEPIN"
+      ],
+      "product_ndcs": [
+        "69238-1166",
+        "69238-1170",
+        "69238-1171",
+        "69238-1172",
+        "69238-1173"
+      ],
+      "rxcui": [
+        "1000048",
+        "1000058",
+        "1000070",
+        "1000076",
+        "1000097"
+      ],
+      "setid": "20bfb8af-7933-4e5c-a2b5-010659d9125b",
+      "source": "dailymed-title-match",
+      "spl_version": 16,
+      "title": "DOXEPIN HYDROCHLORIDE CAPSULE [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2026-09-16"
+    },
+    {
+      "application_numbers": [
+        "ANDA210675"
+      ],
+      "brand_names": [
+        "Doxepin Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "doxepin",
+      "ingredients": [
+        "DOXEPIN HYDROCHLORIDE"
+      ],
+      "labeler": "Epic Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-06-06",
+      "moieties": [
+        "DOXEPIN"
+      ],
+      "product_ndcs": [
+        "42806-529",
+        "42806-530",
+        "42806-531",
+        "42806-532",
+        "42806-533"
+      ],
+      "rxcui": [
+        "1000048",
+        "1000058",
+        "1000070",
+        "1000076",
+        "1000097"
+      ],
+      "setid": "5f0f6fee-2497-4915-b58b-bf369efcfd79",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "DOXEPIN HYDROCHLORIDE CAPSULE [EPIC PHARMA, LLC]",
+      "upload_date": "2025-12-19"
+    },
+    {
+      "application_numbers": [
+        "NDA020126"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "PRUDOXIN"
+      ],
+      "first_posted": "2010-08-06",
+      "found_by": "PRUDOXIN",
+      "labeler": "HEALTHPOINT, LTD",
+      "labeler_unverified": true,
+      "last_posted": "2015-11-18",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-11-30"
+      ],
+      "product_ndcs": [
+        "0064-3600"
+      ],
+      "rxcui": [],
+      "setid": "64311378-2da2-4835-a222-5df5204c59c2",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "5f302247-525e-4acc-852b-00eb1d79af4b",
+        "b4771ea7-c19b-4182-bb23-c1473ab583fa",
+        "ca53346b-8ab3-4722-98f6-cf272706d3fa"
+      ],
+      "title": "PRUDOXIN (doxepin hydrochloride) cream"
+    },
+    {
+      "application_numbers": [
+        "NDA016798",
+        "NDA017516"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "SINEQUAN"
+      ],
+      "first_posted": "2008-02-08",
+      "found_by": "SINEQUAN",
+      "labeler": "Roerig",
+      "labeler_unverified": false,
+      "last_posted": "2025-07-16",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2010-01-01"
+      ],
+      "product_ndcs": [
+        "0049-5100",
+        "0049-5340",
+        "0049-5350",
+        "0049-5360",
+        "0049-5370",
+        "0049-5380",
+        "0049-5390"
+      ],
+      "rxcui": [],
+      "setid": "880ecbfb-a1fa-463f-9e20-3cba4b6db963",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "SINEQUAN (doxepin hydrochloride) capsule SINEQUAN (doxepin hydrochloride) solution, concentrate"
+    },
+    {
+      "application_numbers": [
+        "NDA020126"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "PRUDOXIN"
+      ],
+      "first_posted": "2015-06-01",
+      "found_by": "PRUDOXIN",
+      "labeler": "Prestium Pharma, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2019-03-28",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-07-31"
+      ],
+      "product_ndcs": [
+        "40076-511"
+      ],
+      "rxcui": [],
+      "setid": "9756deca-4d3f-4b8f-bbdc-5f3d61793c34",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "5f302247-525e-4acc-852b-00eb1d79af4b",
+        "b4771ea7-c19b-4182-bb23-c1473ab583fa",
+        "ca53346b-8ab3-4722-98f6-cf272706d3fa"
+      ],
+      "title": "PRUDOXIN (doxepin hydrochloride) cream"
+    },
+    {
+      "application_numbers": [
+        "NDA020126"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "PRUDOXIN"
+      ],
+      "first_posted": "2015-02-13",
+      "found_by": "PRUDOXIN",
+      "labeler": "Smith & Nephew, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2015-11-10",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-11-30"
+      ],
+      "product_ndcs": [
+        "50484-600"
+      ],
+      "rxcui": [],
+      "setid": "c66a11c1-3093-45ef-b348-3b196c05ba0c",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "5f302247-525e-4acc-852b-00eb1d79af4b",
+        "b4771ea7-c19b-4182-bb23-c1473ab583fa",
+        "ca53346b-8ab3-4722-98f6-cf272706d3fa"
+      ],
+      "title": "PRUDOXIN (doxepin hydrochloride) cream"
+    },
+    {
+      "application_numbers": [
+        "NDA020126"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "ZONALON"
+      ],
+      "first_posted": "2007-01-11",
+      "found_by": "ZONALON",
+      "labeler": "PharmaDerm A division of Fougera Pharmaceuticals Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2019-02-13",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-02-28"
+      ],
+      "product_ndcs": [
+        "10337-804"
+      ],
+      "rxcui": [],
+      "setid": "e3a51eb8-cb8b-498f-bf3e-e464cc4acdca",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "5f302247-525e-4acc-852b-00eb1d79af4b",
+        "b4771ea7-c19b-4182-bb23-c1473ab583fa",
+        "ca53346b-8ab3-4722-98f6-cf272706d3fa"
+      ],
+      "title": "ZONALON (doxepin hydrochloride) cream"
+    },
+    {
+      "application_numbers": [
+        "NDA020126"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "ZONALON"
+      ],
+      "first_posted": "2015-03-12",
+      "found_by": "ZONALON",
+      "labeler": "Prestium Pharma, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2019-11-25",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-10-31"
+      ],
+      "product_ndcs": [
+        "40076-715"
+      ],
+      "rxcui": [],
+      "setid": "ea3b314f-473f-45cb-bab2-8a89ef632030",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "5f302247-525e-4acc-852b-00eb1d79af4b",
+        "b4771ea7-c19b-4182-bb23-c1473ab583fa",
+        "ca53346b-8ab3-4722-98f6-cf272706d3fa"
+      ],
+      "title": "ZONALON (doxepin hydrochloride) cream"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f3c242dd-426e-4c69-8f21-2645361d5f27"
+    },
+    {
+      "combination": false,
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1513c98c-e7ef-4009-b932-6757048bb86a"
+    },
+    {
+      "combination": false,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c42333f8-1add-4f33-9458-6fe4436874a1"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "33a15c3f-bec0-4703-a4e9-f8f78f8b5fd3"
+    },
+    {
+      "combination": false,
+      "labeler": "Contract Pharmacal Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "abbf7078-a012-4e1a-e053-2995a90a792d"
+    },
+    {
+      "combination": false,
+      "labeler": "Leading Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d5df4beb-8048-4b83-aa59-19876437001d"
+    },
+    {
+      "combination": false,
+      "labeler": "Leading Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e6a4cb10-1928-4abe-8797-404c9ddc37dd"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4920401a-cde5-404b-82aa-c3c0e8911065"
+    },
+    {
+      "combination": false,
+      "labeler": "Appco Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "abf4c515-8888-4733-80a0-fd4e1cdb84a2"
+    },
+    {
+      "combination": false,
+      "labeler": "Archis Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e3eac8e4-224e-4b7b-81d3-071301f914fa"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fdaf3bd7-c456-40bd-8bc3-2b67eb1846c8"
+    },
+    {
+      "combination": false,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2b1f0144-65d8-451f-8054-6be1675f102c"
+    },
+    {
+      "combination": false,
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "399866d5-3fa6-46d0-9c62-492d5997bc4f"
+    },
+    {
+      "combination": false,
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4a4eab1c-8e19-48f5-9216-09ab83eaa5f8"
+    },
+    {
+      "combination": false,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "96086fd8-8fa3-4a2b-ac12-fe1a3ad4f384"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dd8d5edd-7b08-4061-86e6-c4179da89c0d"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "66c6af99-9909-4b18-a43b-898a1c4a34d7"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1461ede6-24f0-42a1-b801-0cf4ef404985"
+    },
+    {
+      "combination": false,
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b198ade7-fe78-437e-82b4-693dfe45ab51"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "29b3bf98-2c57-4d87-b5eb-5232e46dc639"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "554ab06f-6420-42b3-89d1-d97554c237d8"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "842b595b-dc54-4898-a178-1d2241cc065f"
+    },
+    {
+      "combination": false,
+      "labeler": "Florida Pharmaceutical Products, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b787a283-f882-e1f0-e053-2a95a90a8975"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "89ed6385-cf6a-458e-81ea-c7f3fead41c5"
+    },
+    {
+      "combination": false,
+      "labeler": "First Nation Group, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3d4f84a4-07a1-4d0e-85f5-dcd43b236a42"
+    },
+    {
+      "combination": false,
+      "labeler": "PURACAP LABORATORIES LLC DBA BLU PHARMACEUTICALS",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "14002bad-2577-436d-91ca-ec1b80ab0c97"
+    },
+    {
+      "combination": false,
+      "labeler": "Marlex Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "06e79a65-1455-804e-e063-6394a90a2f3d"
+    },
+    {
+      "combination": false,
+      "labeler": "North Star Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "12edd5c6-c863-b83a-e063-6294a90a2f36"
+    },
+    {
+      "combination": false,
+      "labeler": "Viona Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3377541d-db46-4fd9-9a4b-faa5f6108e67"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "03cef3a6-a63d-4082-a491-451b24227d9d"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "77782f36-d120-4c3d-bebd-c8b0f4749d98"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0d4bff5c-4e3d-459e-aba2-9c4c34b5ba7b"
+    }
+  ]
+}

@@ -1,0 +1,610 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "DEXMETHYLPHENIDATE HYDROCHLORIDE"
+  ],
+  "inn": "dexmethylphenidate",
+  "name": "DEXMETHYLPHENIDATE",
+  "rank": 300,
+  "rxcui": [
+    "899439",
+    "899441",
+    "899461",
+    "899463",
+    "899485",
+    "899487",
+    "899495",
+    "899497",
+    "899511",
+    "899513",
+    "899518",
+    "899519",
+    "899548",
+    "899549",
+    "899557",
+    "899559",
+    "1006608",
+    "1006610",
+    "1101926",
+    "1101928",
+    "1101932",
+    "1101934",
+    "2562186",
+    "2562187",
+    "2562191",
+    "2562194",
+    "2562199",
+    "2562204"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 19,
+    "approval_holders": 15,
+    "earliest_marketing_start": "2001-11-30",
+    "latest_label_update": "2026-10-12",
+    "nda_bla_applications": 3,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "DEXMETHYLPHENIDATE HYDROCHLORIDE",
+      "unii": "1678OK0E08"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021278"
+      ],
+      "brand_names": [
+        "Focalin"
+      ],
+      "combination": false,
+      "home_inn": "dexmethylphenidate",
+      "ingredients": [
+        "DEXMETHYLPHENIDATE HYDROCHLORIDE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2001-11-30",
+      "moieties": [
+        "DEXMETHYLPHENIDATE"
+      ],
+      "product_ndcs": [
+        "66758-250",
+        "66758-251",
+        "66758-252"
+      ],
+      "rxcui": [
+        "899518",
+        "899519",
+        "899548",
+        "899549",
+        "899557",
+        "899559"
+      ],
+      "setid": "2016f5c2-95d2-4655-af65-c588c2bf5e6d",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "FOCALIN (DEXMETHYLPHENIDATE HYDROCHLORIDE) TABLET [SANDOZ INC]",
+      "upload_date": "2025-12-12"
+    },
+    {
+      "application_numbers": [
+        "NDA021802"
+      ],
+      "brand_names": [
+        "Focalin XR"
+      ],
+      "combination": false,
+      "home_inn": "dexmethylphenidate",
+      "ingredients": [
+        "DEXMETHYLPHENIDATE HYDROCHLORIDE"
+      ],
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2005-05-31",
+      "moieties": [
+        "DEXMETHYLPHENIDATE"
+      ],
+      "product_ndcs": [
+        "0078-0430",
+        "0078-0431",
+        "0078-0432",
+        "0078-0433",
+        "0078-0434",
+        "0078-0493",
+        "0078-0608",
+        "0078-0609"
+      ],
+      "rxcui": [
+        "899439",
+        "899441",
+        "899461",
+        "899463",
+        "899485",
+        "899487",
+        "899495",
+        "899497",
+        "899511",
+        "899513",
+        "1006608",
+        "1006610",
+        "1101926",
+        "1101928",
+        "1101932",
+        "1101934"
+      ],
+      "setid": "1a1da905-42a0-4748-9c39-67eca45deccc",
+      "source": "openfda",
+      "spl_version": 36,
+      "title": "FOCALIN XR (DEXMETHYLPHENIDATE HYDROCHLORIDE) CAPSULE, EXTENDED RELEASE [NOVARTIS PHARMACEUTICALS CORPORATION]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "NDA212994"
+      ],
+      "brand_names": [
+        "AZSTARYS"
+      ],
+      "combination": true,
+      "home_inn": "dexmethylphenidate",
+      "ingredients": [
+        "DEXMETHYLPHENIDATE HYDROCHLORIDE",
+        "SERDEXMETHYLPHENIDATE CHLORIDE"
+      ],
+      "labeler": "Commave Sub, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-07-16",
+      "moieties": [
+        "DEXMETHYLPHENIDATE",
+        "SERDEXMETHYLPHENIDATE"
+      ],
+      "product_ndcs": [
+        "65038-286",
+        "65038-429",
+        "65038-561"
+      ],
+      "rxcui": [
+        "2562186",
+        "2562187",
+        "2562191",
+        "2562194",
+        "2562199",
+        "2562204"
+      ],
+      "setid": "00b5e716-5564-4bbd-acaf-df2bc45a5663",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "AZSTARYS (SERDEXMETHYLPHENIDATE AND DEXMETHYLPHENIDATE) CAPSULE [COMMAVE SUB, LLC]",
+      "upload_date": "2026-05-13"
+    },
+    {
+      "application_numbers": [
+        "NDA021802"
+      ],
+      "brand_names": [
+        "Focalin XR"
+      ],
+      "combination": false,
+      "home_inn": "dexmethylphenidate",
+      "ingredients": [
+        "DEXMETHYLPHENIDATE HYDROCHLORIDE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2005-05-31",
+      "moieties": [
+        "DEXMETHYLPHENIDATE"
+      ],
+      "product_ndcs": [
+        "66758-235",
+        "66758-236",
+        "66758-237",
+        "66758-238",
+        "66758-239",
+        "66758-240",
+        "66758-241",
+        "66758-242"
+      ],
+      "rxcui": [
+        "899439",
+        "899441",
+        "899461",
+        "899463",
+        "899485",
+        "899487",
+        "899495",
+        "899497",
+        "899511",
+        "899513",
+        "1006608",
+        "1006610",
+        "1101926",
+        "1101928",
+        "1101932",
+        "1101934"
+      ],
+      "setid": "9cf76f62-48aa-4065-94fd-6fc910391ab5",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "FOCALIN XR (DEXMETHYLPHENIDATE HYDROCHLORIDE) CAPSULE, EXTENDED RELEASE [SANDOZ INC]",
+      "upload_date": "2025-11-18"
+    },
+    {
+      "application_numbers": [
+        "NDA021802"
+      ],
+      "brand_names": [
+        "Dexmethylphenidate Hydrochloride Extended-Release"
+      ],
+      "combination": false,
+      "home_inn": "dexmethylphenidate",
+      "ingredients": [
+        "DEXMETHYLPHENIDATE HYDROCHLORIDE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2026-09-24",
+      "moieties": [
+        "DEXMETHYLPHENIDATE"
+      ],
+      "product_ndcs": [
+        "0781-2727",
+        "0781-2728",
+        "0781-2729",
+        "0781-2730",
+        "0781-2731",
+        "0781-2732",
+        "0781-2733",
+        "0781-2734"
+      ],
+      "rxcui": [
+        "899439",
+        "899461",
+        "899485",
+        "899495",
+        "899511",
+        "1006608",
+        "1101926",
+        "1101932"
+      ],
+      "setid": "71f56227-d87a-4bc0-a879-c1993c6ccba6",
+      "source": "dailymed-title-match",
+      "spl_version": 1,
+      "title": "DEXMETHYLPHENIDATE HYDROCHLORIDE EXTENDED-RELEASE (DEXMETHYLPHENIDATE HYDROCHLORIDE) CAPSULE, EXTENDED RELEASE [SANDOZ INC]",
+      "upload_date": "2026-10-01"
+    },
+    {
+      "application_numbers": [
+        "ANDA207901"
+      ],
+      "brand_names": [
+        "Dexmethylphenidate Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "dexmethylphenidate",
+      "ingredients": [
+        "DEXMETHYLPHENIDATE HYDROCHLORIDE"
+      ],
+      "labeler": "Cranbury Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2001-11-30",
+      "moieties": [
+        "DEXMETHYLPHENIDATE"
+      ],
+      "product_ndcs": [
+        "27808-091",
+        "27808-092",
+        "27808-093"
+      ],
+      "rxcui": [
+        "899518",
+        "899548",
+        "899557"
+      ],
+      "setid": "1f2aa66a-51dc-459c-a765-5364bccd310f",
+      "source": "openfda",
+      "spl_version": 23,
+      "title": "DEXMETHYLPHENIDATE HYDROCHLORIDE TABLET [CRANBURY PHARMACEUTICALS, LLC]",
+      "upload_date": "2025-03-31"
+    },
+    {
+      "application_numbers": [
+        "ANDA201231"
+      ],
+      "brand_names": [
+        "Dexmethylphenidate hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "dexmethylphenidate",
+      "ingredients": [
+        "DEXMETHYLPHENIDATE HYDROCHLORIDE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-09-26",
+      "moieties": [
+        "DEXMETHYLPHENIDATE"
+      ],
+      "product_ndcs": [
+        "57664-376",
+        "57664-378",
+        "57664-379"
+      ],
+      "rxcui": [
+        "899518",
+        "899548",
+        "899557"
+      ],
+      "setid": "987b4983-1edc-40f1-adc9-724747080969",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "DEXMETHYLPHENIDATE HYDROCHLORIDE TABLET [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2024-01-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA078992"
+      ],
+      "brand_names": [
+        "Dexmethylphenidate Hydrochloride Extended-Release"
+      ],
+      "combination": false,
+      "home_inn": "dexmethylphenidate",
+      "ingredients": [
+        "DEXMETHYLPHENIDATE HYDROCHLORIDE"
+      ],
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-11-19",
+      "moieties": [
+        "DEXMETHYLPHENIDATE"
+      ],
+      "product_ndcs": [
+        "49884-428",
+        "49884-430"
+      ],
+      "rxcui": [
+        "899461",
+        "899495"
+      ],
+      "setid": "4ed9f3c8-c71f-499e-bb91-c19847bf4444",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "DEXMETHYLPHENIDATE HYDROCHLORIDE EXTENDED-RELEASE (DEXMETHYLPHENIDATE HYDROCHLORIDE) CAPSULE, EXTENDED RELEASE [PAR HEALTH USA, LLC]",
+      "upload_date": "2026-01-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA078908",
+        "ANDA202731"
+      ],
+      "brand_names": [
+        "Dexmethylphenidate Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "dexmethylphenidate",
+      "ingredients": [
+        "DEXMETHYLPHENIDATE HYDROCHLORIDE"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-11-21",
+      "moieties": [
+        "DEXMETHYLPHENIDATE"
+      ],
+      "product_ndcs": [
+        "0093-5045",
+        "0093-5046",
+        "0093-5550",
+        "0093-5551",
+        "0093-5552",
+        "0093-5553",
+        "0093-5554",
+        "0093-5562"
+      ],
+      "rxcui": [
+        "899439",
+        "899461",
+        "899485",
+        "899495",
+        "899511",
+        "1006608",
+        "1101926",
+        "1101932"
+      ],
+      "setid": "dd659d39-41f5-4612-8f17-bad602b4784d",
+      "source": "openfda",
+      "spl_version": 25,
+      "title": "DEXMETHYLPHENIDATE HYDROCHLORIDE CAPSULE, EXTENDED RELEASE [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2026-09-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA079108"
+      ],
+      "brand_names": [
+        "Dexmethylphenidate hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "dexmethylphenidate",
+      "ingredients": [
+        "DEXMETHYLPHENIDATE HYDROCHLORIDE"
+      ],
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-02-24",
+      "moieties": [
+        "DEXMETHYLPHENIDATE"
+      ],
+      "product_ndcs": [
+        "0115-9918",
+        "0115-9919",
+        "0115-9920",
+        "0115-9921",
+        "0115-9922"
+      ],
+      "rxcui": [
+        "899439",
+        "899461",
+        "899485",
+        "899495",
+        "899511"
+      ],
+      "setid": "93e56455-0f15-4ed9-a63a-7fbd0697d520",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "DEXMETHYLPHENIDATE HYDROCHLORIDE CAPSULE, EXTENDED RELEASE [AMNEAL PHARMACEUTICALS OF NEW YORK LLC]",
+      "upload_date": "2026-05-04"
+    },
+    {
+      "application_numbers": [
+        "NDA021278"
+      ],
+      "archived_versions": 21,
+      "brand_names": [
+        "FOCALIN"
+      ],
+      "first_posted": "2007-05-10",
+      "found_by": "FOCALIN",
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2025-09-05",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2026-07-31"
+      ],
+      "product_ndcs": [
+        "0078-0380",
+        "0078-0381",
+        "0078-0382"
+      ],
+      "rxcui": [],
+      "setid": "7c552f11-e24a-4d9b-bb8d-be10c928eca8",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "2016f5c2-95d2-4655-af65-c588c2bf5e6d"
+      ],
+      "title": "FOCALIN (dexmethylphenidate hydrochloride) tablet"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "KVK-TECH, INC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0c717ae4-ec27-47db-ac1b-e504dbb379be"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals,Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a61932ef-c2b6-4363-a21d-1f0358f317b6"
+    },
+    {
+      "combination": false,
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e304388e-86a6-4335-abae-0ce79c7c99c6"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "be7019d7-eb3e-48eb-b6ba-0ffefae6dcd0"
+    },
+    {
+      "combination": false,
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "edad7c67-a872-41ad-a8bd-169278693cc2"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "830df993-db01-40df-beef-90af6b86f561"
+    },
+    {
+      "combination": false,
+      "labeler": "Granules Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "abe6862b-3cf3-4aad-98ea-05a5fb54ebec"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "77659abe-74be-4092-90fe-cc475726d4ec"
+    },
+    {
+      "combination": false,
+      "labeler": "Nivagen Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "638f614c-bf91-4bf6-876f-bf25fa273bc4"
+    }
+  ]
+}

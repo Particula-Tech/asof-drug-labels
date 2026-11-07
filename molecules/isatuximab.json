@@ -1,0 +1,136 @@
+{
+  "biologic": true,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand Sarclisa",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/004977",
+      "eu_number": "EU/1/20/1435",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-004977",
+      "mah": "Sanofi Winthrop Industrie",
+      "marketing_authorisation_date": "2020-05-30",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/sarclisa",
+      "name": "Sarclisa",
+      "record_from": "2020-05-30",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 11
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-004977",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "ISATUXIMAB"
+  ],
+  "inn": "isatuximab",
+  "name": "ISATUXIMAB",
+  "rank": 390,
+  "rxcui": [
+    "2282023",
+    "2282028",
+    "2282031",
+    "2282032",
+    "2747132",
+    "2747135"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 2,
+    "approval_holders": 1,
+    "earliest_marketing_start": "2020-03-02",
+    "latest_label_update": "2026-07-13",
+    "nda_bla_applications": 2,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "ISATUXIMAB",
+      "unii": "R30772KCU0"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "BLA761113"
+      ],
+      "brand_names": [
+        "Sarclisa"
+      ],
+      "combination": false,
+      "home_inn": "isatuximab",
+      "ingredients": [
+        "ISATUXIMAB"
+      ],
+      "labeler": "Sanofi-Aventis U.S. LLC",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2020-03-02",
+      "moieties": [
+        "ISATUXIMAB"
+      ],
+      "product_ndcs": [
+        "0024-0654",
+        "0024-0656"
+      ],
+      "rxcui": [
+        "2282023",
+        "2282028",
+        "2282031",
+        "2282032"
+      ],
+      "setid": "a0473462-6f9d-4eca-a5bf-8620aea68e8a",
+      "source": "openfda",
+      "spl_version": 20,
+      "title": "SARCLISA (ISATUXIMAB) INJECTION, SOLUTION, CONCENTRATE [SANOFI-AVENTIS U.S. LLC]",
+      "upload_date": "2026-07-09"
+    },
+    {
+      "application_numbers": [
+        "BLA761445"
+      ],
+      "brand_names": [
+        "Sarclisa Escena"
+      ],
+      "combination": false,
+      "home_inn": "isatuximab",
+      "ingredients": [
+        "ISATUXIMAB"
+      ],
+      "labeler": "Sanofi-Aventis U.S. LLC",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2026-07-09",
+      "moieties": [
+        "ISATUXIMAB"
+      ],
+      "product_ndcs": [
+        "0024-0674"
+      ],
+      "rxcui": [
+        "2747132",
+        "2747135"
+      ],
+      "setid": "07730e8c-1340-4d30-8d71-e20f850db8da",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "SARCLISA ESCENA (ISATUXIMAB-IRFC) INJECTION, SOLUTION [SANOFI-AVENTIS U.S. LLC]",
+      "upload_date": "2026-07-13"
+    }
+  ],
+  "us_excluded": []
+}

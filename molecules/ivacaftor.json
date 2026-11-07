@@ -1,0 +1,180 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand Kalydeco",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/002494",
+      "eu_number": "EU/1/12/782",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-002494",
+      "mah": "Vertex Pharmaceuticals (Ireland) Limited",
+      "marketing_authorisation_date": "2012-07-23",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/kalydeco",
+      "name": "Kalydeco",
+      "record_from": "2012-07-23",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 25
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 3,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-002494",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "IVACAFTOR"
+  ],
+  "inn": "ivacaftor",
+  "name": "IVACAFTOR",
+  "rank": 222,
+  "rxcui": [
+    "1243046",
+    "1243052",
+    "1606862",
+    "1606866",
+    "1606868",
+    "1606870",
+    "1655928",
+    "1655934",
+    "1812468",
+    "1812470",
+    "2053509",
+    "2053512",
+    "2053517",
+    "2053519",
+    "2166399",
+    "2166401",
+    "2611458",
+    "2611460",
+    "2636787",
+    "2636789",
+    "2636791",
+    "2636793"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 2,
+    "approval_holders": 1,
+    "earliest_marketing_start": "2012-01-31",
+    "latest_label_update": "2026-03-31",
+    "nda_bla_applications": 4,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "IVACAFTOR",
+      "unii": "1Y740ILL1Z"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA203188",
+        "NDA207925"
+      ],
+      "brand_names": [
+        "Kalydeco"
+      ],
+      "combination": false,
+      "home_inn": "ivacaftor",
+      "ingredients": [
+        "IVACAFTOR"
+      ],
+      "labeler": "Vertex Pharmaceuticals Incorporated",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2012-01-31",
+      "moieties": [
+        "IVACAFTOR"
+      ],
+      "product_ndcs": [
+        "51167-200",
+        "51167-300",
+        "51167-400",
+        "51167-600",
+        "51167-770",
+        "51167-785"
+      ],
+      "rxcui": [
+        "1243046",
+        "1243052",
+        "1606862",
+        "1606866",
+        "1606868",
+        "1606870",
+        "2166399",
+        "2166401",
+        "2636787",
+        "2636789",
+        "2636791",
+        "2636793"
+      ],
+      "setid": "0ab0c9f8-3eee-4e0f-9f3f-c1e16aaffe25",
+      "source": "openfda",
+      "spl_version": 36,
+      "title": "KALYDECO (IVACAFTOR) TABLET, FILM COATED KALYDECO (IVACAFTOR) GRANULE [VERTEX PHARMACEUTICALS INCORPORATED]",
+      "upload_date": "2026-03-30"
+    },
+    {
+      "application_numbers": [
+        "NDA206038",
+        "NDA211358"
+      ],
+      "brand_names": [
+        "ORKAMBI"
+      ],
+      "combination": true,
+      "home_inn": "ivacaftor",
+      "ingredients": [
+        "IVACAFTOR",
+        "LUMACAFTOR"
+      ],
+      "labeler": "Vertex Pharmaceuticals Incorporated",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-07-02",
+      "moieties": [
+        "IVACAFTOR",
+        "LUMACAFTOR"
+      ],
+      "product_ndcs": [
+        "51167-122",
+        "51167-500",
+        "51167-700",
+        "51167-809",
+        "51167-900"
+      ],
+      "rxcui": [
+        "1655928",
+        "1655934",
+        "1812468",
+        "1812470",
+        "2053509",
+        "2053512",
+        "2053517",
+        "2053519",
+        "2611458",
+        "2611460"
+      ],
+      "setid": "3fc1c40e-cfac-47a1-9e1a-61ead3570600",
+      "source": "openfda",
+      "spl_version": 24,
+      "title": "ORKAMBI (LUMACAFTOR AND IVACAFTOR) TABLET, FILM COATED ORKAMBI (LUMACAFTOR AND IVACAFTOR) GRANULE [VERTEX PHARMACEUTICALS INCORPORATED]",
+      "upload_date": "2026-03-31"
+    }
+  ],
+  "us_excluded": []
+}

@@ -1,0 +1,400 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand Azilect",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000574",
+      "eu_number": "EU/1/04/304",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000574",
+      "mah": "Teva B.V.",
+      "marketing_authorisation_date": "2005-02-21",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/azilect",
+      "name": "Azilect",
+      "record_from": "2005-02-21",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 15
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/003957",
+      "eu_number": "EU/1/14/977",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-003957",
+      "mah": "Teva B.V.",
+      "marketing_authorisation_date": "2015-01-12",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/rasagiline-ratiopharm",
+      "name": "Rasagiline ratiopharm",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/004064",
+      "eu_number": "EU/1/16/1090",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-004064",
+      "mah": "Viatris Limited",
+      "marketing_authorisation_date": "2016-04-04",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/rasagiline-viatris",
+      "name": "Rasagiline Viatris (previously Rasagiline Mylan)",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000574",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "RASAGILINE MESYLATE"
+  ],
+  "inn": "rasagiline",
+  "name": "RASAGILINE",
+  "rank": 469,
+  "rxcui": [
+    "608328",
+    "636664",
+    "637185",
+    "637218"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 13,
+    "approval_holders": 13,
+    "earliest_marketing_start": "2006-07-10",
+    "latest_label_update": "2026-10-09",
+    "nda_bla_applications": 1,
+    "repackagers": 3
+  },
+  "unii": [
+    {
+      "ingredient": "RASAGILINE MESYLATE",
+      "unii": "LH8C2JI290"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021641"
+      ],
+      "brand_names": [
+        "Azilect"
+      ],
+      "combination": false,
+      "home_inn": "rasagiline",
+      "ingredients": [
+        "RASAGILINE MESYLATE"
+      ],
+      "labeler": "Teva Neuroscience, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2006-07-10",
+      "moieties": [
+        "RASAGILINE"
+      ],
+      "product_ndcs": [
+        "68546-142",
+        "68546-229"
+      ],
+      "rxcui": [
+        "608328",
+        "636664",
+        "637185",
+        "637218"
+      ],
+      "setid": "a40d0e73-3f9f-4b01-979d-402c9cdaeb60",
+      "source": "openfda",
+      "spl_version": 26,
+      "title": "AZILECT (RASAGILINE MESYLATE) TABLET [TEVA NEUROSCIENCE, INC.]",
+      "upload_date": "2026-09-02"
+    },
+    {
+      "application_numbers": [
+        "NDA021641"
+      ],
+      "brand_names": [
+        "Rasagiline"
+      ],
+      "combination": false,
+      "home_inn": "rasagiline",
+      "ingredients": [
+        "RASAGILINE MESYLATE"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2017-01-03",
+      "moieties": [
+        "RASAGILINE"
+      ],
+      "product_ndcs": [
+        "0093-3060",
+        "0093-3061"
+      ],
+      "rxcui": [
+        "608328",
+        "636664"
+      ],
+      "setid": "e802c83c-e581-4a11-b83d-1df47120078d",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "RASAGILINE TABLET [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2026-09-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA201889"
+      ],
+      "brand_names": [
+        "Rasagiline"
+      ],
+      "combination": false,
+      "home_inn": "rasagiline",
+      "ingredients": [
+        "RASAGILINE MESYLATE"
+      ],
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-10-30",
+      "moieties": [
+        "RASAGILINE"
+      ],
+      "product_ndcs": [
+        "67877-259",
+        "67877-260"
+      ],
+      "rxcui": [
+        "608328",
+        "636664"
+      ],
+      "setid": "5dfeec8f-f4f3-4e06-915e-3244467516a6",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "RASAGILINE TABLET [ASCEND LABORATORIES, LLC]",
+      "upload_date": "2026-08-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA201892"
+      ],
+      "brand_names": [
+        "Rasagiline"
+      ],
+      "combination": false,
+      "home_inn": "rasagiline",
+      "ingredients": [
+        "RASAGILINE MESYLATE"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-07-27",
+      "moieties": [
+        "RASAGILINE"
+      ],
+      "product_ndcs": [
+        "62135-676",
+        "62135-677"
+      ],
+      "rxcui": [
+        "608328",
+        "636664"
+      ],
+      "setid": "d9168d62-814a-444f-9d70-11674def339d",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "RASAGILINE TABLET [CHARTWELL RX, LLC]",
+      "upload_date": "2024-05-08"
+    },
+    {
+      "application_numbers": [
+        "ANDA201970"
+      ],
+      "brand_names": [
+        "Rasagiline"
+      ],
+      "combination": false,
+      "home_inn": "rasagiline",
+      "ingredients": [
+        "RASAGILINE MESYLATE"
+      ],
+      "labeler": "Alvogen, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-03-01",
+      "moieties": [
+        "RASAGILINE"
+      ],
+      "product_ndcs": [
+        "47781-683",
+        "47781-690"
+      ],
+      "rxcui": [
+        "608328",
+        "636664"
+      ],
+      "setid": "a62a9946-755f-47d0-afe6-edc8f7d641fe",
+      "source": "dailymed-title-match",
+      "spl_version": 8,
+      "title": "RASAGILINE TABLET [ALVOGEN, INC.]",
+      "upload_date": "2026-10-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA207004"
+      ],
+      "brand_names": [
+        "RASAGILINE"
+      ],
+      "combination": false,
+      "home_inn": "rasagiline",
+      "ingredients": [
+        "RASAGILINE MESYLATE"
+      ],
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-04-03",
+      "moieties": [
+        "RASAGILINE"
+      ],
+      "product_ndcs": [
+        "42571-220",
+        "42571-221"
+      ],
+      "rxcui": [
+        "608328",
+        "636664"
+      ],
+      "setid": "42f8d62f-2c57-47bc-92e7-b28111aa8cd1",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "RASAGILINE (RASAGILINE) TABLET [MICRO LABS LIMITED]",
+      "upload_date": "2025-05-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA208866"
+      ],
+      "brand_names": [
+        "Rasagiline"
+      ],
+      "combination": false,
+      "home_inn": "rasagiline",
+      "ingredients": [
+        "RASAGILINE MESYLATE"
+      ],
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-06-29",
+      "moieties": [
+        "RASAGILINE"
+      ],
+      "product_ndcs": [
+        "33342-308",
+        "33342-309"
+      ],
+      "rxcui": [
+        "608328",
+        "636664"
+      ],
+      "setid": "e8771c7e-5ecf-47dc-a0fd-4d12e85631a6",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "RASAGILINE TABLET [MACLEODS PHARMACEUTICALS LIMITED]",
+      "upload_date": "2025-08-27"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "SKG Pharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5c234b28-29e7-4149-9505-e2818a692bca"
+    },
+    {
+      "combination": false,
+      "labeler": "Torrent Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2c5e3cde-1158-4b5a-9a2b-ea6c987a65e4"
+    },
+    {
+      "combination": false,
+      "labeler": "Carnegie Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e84da5ee-f93a-4e0e-9120-7dfcb9d18430"
+    },
+    {
+      "combination": false,
+      "labeler": "Florida Pharmaceutical Products, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3b57a1c9-0ad9-40cf-a972-29851a658489"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8bf8e76c-27cb-42a4-aa9c-bdade68c463b"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7d9eac3f-7441-45cf-a603-ea18c116e2c0"
+    }
+  ]
+}

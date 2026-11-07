@@ -1,0 +1,909 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "FAMOTIDINE"
+  ],
+  "inn": "famotidine",
+  "name": "FAMOTIDINE",
+  "rank": 43,
+  "rxcui": [
+    "104094",
+    "104095",
+    "199739",
+    "204441",
+    "284245",
+    "310273",
+    "1743833",
+    "2727402",
+    "2727403"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 56,
+    "approval_holders": 39,
+    "earliest_marketing_start": "2001-03-15",
+    "latest_label_update": "2026-10-26",
+    "nda_bla_applications": 1,
+    "repackagers": 32
+  },
+  "unii": [
+    {
+      "ingredient": "FAMOTIDINE",
+      "unii": "5QZO15J2Z8"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA219935"
+      ],
+      "brand_names": [
+        "Famotidine"
+      ],
+      "combination": false,
+      "home_inn": "famotidine",
+      "ingredients": [
+        "FAMOTIDINE"
+      ],
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-10-15",
+      "moieties": [
+        "FAMOTIDINE"
+      ],
+      "product_ndcs": [
+        "25021-755",
+        "25021-756"
+      ],
+      "rxcui": [
+        "2727402",
+        "2727403"
+      ],
+      "setid": "9710995d-b518-40ce-bc2b-8b5dcf002c31",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "FAMOTIDINE INJECTION, SOLUTION [SAGENT PHARMACEUTICALS]",
+      "upload_date": "2026-06-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA075813"
+      ],
+      "brand_names": [
+        "Famotidine"
+      ],
+      "combination": false,
+      "home_inn": "famotidine",
+      "ingredients": [
+        "FAMOTIDINE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2001-03-15",
+      "moieties": [
+        "FAMOTIDINE"
+      ],
+      "product_ndcs": [
+        "63323-739"
+      ],
+      "rxcui": [
+        "1743833"
+      ],
+      "setid": "aeb27cea-1ff7-4a6e-93f1-d4c4dac5faa7",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "FAMOTIDINE (FAMOTIDINE) INJECTION, SOLUTION [FRESENIUS KABI USA, LLC",
+      "upload_date": "2022-11-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA075718"
+      ],
+      "brand_names": [
+        "Famotidine"
+      ],
+      "combination": false,
+      "home_inn": "famotidine",
+      "ingredients": [
+        "FAMOTIDINE"
+      ],
+      "labeler": "Dr.Reddy's Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2001-04-16",
+      "moieties": [
+        "FAMOTIDINE"
+      ],
+      "product_ndcs": [
+        "55111-119",
+        "55111-120"
+      ],
+      "rxcui": [
+        "284245",
+        "310273"
+      ],
+      "setid": "06d286ce-14b3-4b66-8b42-ac4a10a0fc90",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "FAMOTIDINE TABLET, FILM COATED [DR.REDDY'S LABORATORIES LIMITED]",
+      "upload_date": "2021-05-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA075486",
+        "ANDA075488"
+      ],
+      "brand_names": [
+        "Famotidine"
+      ],
+      "combination": false,
+      "home_inn": "famotidine",
+      "ingredients": [
+        "FAMOTIDINE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2001-04-16",
+      "moieties": [
+        "FAMOTIDINE"
+      ],
+      "product_ndcs": [
+        "0641-6021",
+        "0641-6022",
+        "0641-6023"
+      ],
+      "rxcui": [
+        "204441",
+        "1743833"
+      ],
+      "setid": "1fdf16e5-145d-4c19-a318-fc6c10794b50",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "FAMOTIDINE INJECTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2024-04-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA075511"
+      ],
+      "brand_names": [
+        "Famotidine"
+      ],
+      "combination": false,
+      "home_inn": "famotidine",
+      "ingredients": [
+        "FAMOTIDINE"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2001-04-16",
+      "moieties": [
+        "FAMOTIDINE"
+      ],
+      "product_ndcs": [
+        "0172-5728",
+        "0172-5729"
+      ],
+      "rxcui": [
+        "284245",
+        "310273"
+      ],
+      "setid": "4c6f4f9e-f3f5-4ecf-9f40-887e037e8847",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "FAMOTIDINE TABLET, FILM COATED [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2026-08-14"
+    },
+    {
+      "application_numbers": [
+        "ANDA075805"
+      ],
+      "brand_names": [
+        "Pepcid"
+      ],
+      "combination": false,
+      "home_inn": "famotidine",
+      "ingredients": [
+        "FAMOTIDINE"
+      ],
+      "labeler": "Bausch Health US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2001-04-16",
+      "moieties": [
+        "FAMOTIDINE"
+      ],
+      "product_ndcs": [
+        "0187-4420",
+        "0187-4440"
+      ],
+      "rxcui": [
+        "104094",
+        "104095",
+        "284245",
+        "310273"
+      ],
+      "setid": "a06502d9-7903-4f37-833e-e5763d502def",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "PEPCID (FAMOTIDINE) TABLET, FILM COATED [BAUSCH HEALTH US LLC]",
+      "upload_date": "2024-08-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA075591"
+      ],
+      "brand_names": [
+        "Famotidine"
+      ],
+      "combination": false,
+      "home_inn": "famotidine",
+      "ingredients": [
+        "FAMOTIDINE"
+      ],
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2001-05-10",
+      "moieties": [
+        "FAMOTIDINE"
+      ],
+      "product_ndcs": [
+        "0338-5197"
+      ],
+      "rxcui": [
+        "199739"
+      ],
+      "setid": "97c33213-f415-4718-8466-9aa50371af70",
+      "source": "openfda",
+      "spl_version": 20,
+      "title": "FAMOTIDINE INJECTION, SOLUTION [BAXTER HEALTHCARE CORPORATION]",
+      "upload_date": "2026-05-21"
+    },
+    {
+      "application_numbers": [
+        "NDA019510",
+        "NDA020249"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "PEPCID"
+      ],
+      "first_posted": "2007-06-14",
+      "found_by": "PEPCID",
+      "labeler": "Merck Sharp & Dohme Corp.",
+      "labeler_unverified": false,
+      "last_posted": "2012-10-23",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2006-08-24",
+        "2007-06-30"
+      ],
+      "product_ndcs": [
+        "0006-3537",
+        "0006-3539",
+        "0006-3541"
+      ],
+      "rxcui": [],
+      "setid": "4acdfa96-bd62-4289-8454-276d3886a1a7",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "PEPCID (famotidine) injection, solution PEPCID (famotidine) injection, solution, concentrate"
+    },
+    {
+      "application_numbers": [
+        "NDA019527"
+      ],
+      "archived_versions": 8,
+      "brand_names": [
+        "PEPCID"
+      ],
+      "first_posted": "2008-02-27",
+      "found_by": "PEPCID",
+      "labeler": "Salix Pharmaceuticals, Inc",
+      "labeler_unverified": false,
+      "last_posted": "2022-08-15",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-04-30"
+      ],
+      "product_ndcs": [
+        "65649-211"
+      ],
+      "rxcui": [],
+      "setid": "4f1a0b58-f7c8-485e-a317-432e1c374d2f",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "PEPCID (famotidine) powder, for suspension"
+    },
+    {
+      "application_numbers": [
+        "NDA019462"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "PEPCID"
+      ],
+      "first_posted": "2011-12-08",
+      "found_by": "PEPCID",
+      "labeler": "Marathon Pharmaceuticals, LLC",
+      "labeler_unverified": true,
+      "last_posted": "2016-08-31",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-02-10"
+      ],
+      "product_ndcs": [
+        "42998-639",
+        "42998-649"
+      ],
+      "rxcui": [],
+      "setid": "76be6dfc-d06b-4f91-a895-6dade0e14fe3",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "PEPCID (famotidine) tablet, film coated"
+    },
+    {
+      "application_numbers": [
+        "NDA020801"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "PEPCID"
+      ],
+      "first_posted": "2012-09-25",
+      "found_by": "PEPCID",
+      "labeler": "Johnson & Johnson Consumer Inc., McNeil Consumer Healthcare Division",
+      "labeler_unverified": false,
+      "last_posted": "2017-03-02",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2012-07-31"
+      ],
+      "product_ndcs": [
+        "16837-854"
+      ],
+      "rxcui": [],
+      "setid": "7ac09d0a-9bce-447b-b3a1-3296687f12e6",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "PEPCID AC (famotidine) tablet, chewable"
+    },
+    {
+      "application_numbers": [
+        "NDA020801"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "PEPCID"
+      ],
+      "first_posted": "2012-10-24",
+      "found_by": "PEPCID",
+      "labeler": "McNeil Consumer Pharmaceuticals Co.",
+      "labeler_unverified": false,
+      "last_posted": "2013-11-14",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2011-03-31"
+      ],
+      "product_ndcs": [
+        "16837-867"
+      ],
+      "rxcui": [],
+      "setid": "bffa809f-78fd-488d-9d6e-72bdd484089d",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "PEPCID AC MAXIMUM STRENGTH (famotidine) tablet, chewable"
+    },
+    {
+      "application_numbers": [
+        "NDA019462"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "PEPCID"
+      ],
+      "first_posted": "2007-06-14",
+      "found_by": "PEPCID",
+      "labeler": "Merck Sharp & Dohme Corp.",
+      "labeler_unverified": false,
+      "last_posted": "2013-12-12",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-11-19"
+      ],
+      "product_ndcs": [
+        "0006-0963",
+        "0006-0964"
+      ],
+      "rxcui": [],
+      "setid": "f7cadf45-ffe6-43d1-d5aa-a880506bb782",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "PEPCID (famotidine) tablet, film coated"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5995d726-f3f8-4c2d-af19-1b12e3f769c6"
+    },
+    {
+      "combination": false,
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e3b13e23-122b-4bd4-95cf-b5a14b7afc05"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2caaf94b-b382-4573-8614-57815776b659"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals,Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a0bdf4d1-8458-4e4f-95aa-bcc38c0f32f8"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b0798337-1a73-415e-8416-613984ce5c65"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7c0f3fa5-0a44-4a98-bc43-8bff8e95c462"
+    },
+    {
+      "combination": false,
+      "labeler": "Akorn",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "354a5a02-45cb-4ab0-88ee-6635d5a43b01"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "70714491-1368-4824-98af-03fda52139a9"
+    },
+    {
+      "combination": false,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8e41e259-b161-4f11-a6f7-14e6b60885b8"
+    },
+    {
+      "combination": false,
+      "labeler": "Navinta LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0f34a3be-7554-4040-b808-5ba8bf064abc"
+    },
+    {
+      "combination": false,
+      "labeler": "XLCare Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7b550cf9-221f-4f28-ba99-414ad7d5612f"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "902b5d4b-1707-4312-9f46-ef5ab86b00f0"
+    },
+    {
+      "combination": false,
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a88e7069-230c-4105-ade0-a98968e18671"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8c17f9e3-9827-4bf9-85ca-72e08a8518ca"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "be69d9f9-f4ad-4cfe-bab2-e07186b25c1e"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bb602b05-0ce6-4029-bd6e-291076e64efb"
+    },
+    {
+      "combination": false,
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d528fadf-316f-4fea-9bec-070c01f80d64"
+    },
+    {
+      "combination": false,
+      "labeler": "Carnegie Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "45df5fae-b28a-4b48-95ef-96e4faad883f"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8e7f9c85-d165-47c7-8950-b22adcd6cece"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b2228be0-472b-4e47-9910-af0bf12fde77"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "044a510f-33df-4484-8f07-d821f52b9376"
+    },
+    {
+      "combination": false,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1756ab7d-05c4-4726-8f72-4e8363440968"
+    },
+    {
+      "combination": false,
+      "labeler": "DR. REDDY'S LABORATORIES INC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "88ac92eb-5684-46c8-8cd2-3d4aefee26cf"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "15b87f7f-1abf-4d8a-bdbe-03bea0021a68"
+    },
+    {
+      "combination": false,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "74a24590-a0b6-4607-8e67-9fadce53389b"
+    },
+    {
+      "combination": false,
+      "labeler": "Contract Pharmacal Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "273deac8-c2b0-423f-8662-4f16d91df216"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2c4fe4e4-9ef2-4bc9-9016-e30ed9a5c958"
+    },
+    {
+      "combination": false,
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7e0da8be-b001-400e-99d1-37f335b1d7b3"
+    },
+    {
+      "combination": false,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "21953598-e7ec-45c2-8fca-05550a1ddf38"
+    },
+    {
+      "combination": true,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4493d4cd-ca8e-4b0a-9b65-b75e55bf8b9e"
+    },
+    {
+      "combination": true,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7dc158a2-fdfa-4a5f-8c28-0ce5650991db"
+    },
+    {
+      "combination": true,
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b6895176-efb1-472e-8b6f-2987e8e67684"
+    },
+    {
+      "combination": true,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "24204938-0989-42ad-8ad8-89979e62d700"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "21688404-41fb-487e-8ba0-aea4431a42fa"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ce533636-cc9b-45d0-87a6-5390377ff28a"
+    },
+    {
+      "combination": false,
+      "labeler": "Carlsbad Technology, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a8b5c855-053d-4295-8f57-1a96a6ccaa92"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f149ecc1-d66c-42f9-a3f4-2ab6a522942b"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8c7ca3cc-ff90-42a7-9218-554cf15348a3"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a8010e10-68fd-455f-968f-d62a1c3e0ffd"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b165979b-7ed0-423e-9aeb-2e061df0cd45"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ea50552f-f9b9-467f-a925-62ff027df607"
+    },
+    {
+      "combination": false,
+      "labeler": "Biocon Pharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ea7287a4-75e0-39d2-5b2e-b72b7cb386b9"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "04aaf296-f136-29d7-e063-6294a90affe1"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "443e8ea6-7d51-4db7-8f0b-7a854d45bf23"
+    },
+    {
+      "combination": false,
+      "labeler": "Westminster Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c0e15f57-ab20-4030-b1d1-6aff33be7d76"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "18066b80-1ec6-4092-80d9-70adb0ecac85"
+    },
+    {
+      "combination": false,
+      "labeler": "RISING PHARMA HOLDINGS, INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c013654e-9cad-4c59-8fea-b00ae1567c18"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4af90b5d-f47a-4436-8e24-4cb7e5b758b3"
+    },
+    {
+      "combination": true,
+      "labeler": "Viona Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "66524c84-35bc-4e7f-897a-f63fa4bca432"
+    }
+  ]
+}

@@ -1,0 +1,356 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand AZOPT",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000267",
+      "eu_number": "EU/1/00/129",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000267",
+      "mah": "Novartis Europharm Limited",
+      "marketing_authorisation_date": "2000-03-09",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/azopt",
+      "name": "Azopt",
+      "record_from": "2000-03-09",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 18
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 2,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000267",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "BRINZOLAMIDE"
+  ],
+  "inn": "brinzolamide",
+  "name": "BRINZOLAMIDE",
+  "rank": 474,
+  "rxcui": [
+    "213272",
+    "308805",
+    "1421451",
+    "1421456"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 6,
+    "approval_holders": 5,
+    "earliest_marketing_start": "1998-04-30",
+    "latest_label_update": "2026-09-29",
+    "nda_bla_applications": 2,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "BRINZOLAMIDE",
+      "unii": "9451Z89515"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020816"
+      ],
+      "brand_names": [
+        "Azopt"
+      ],
+      "combination": false,
+      "home_inn": "brinzolamide",
+      "ingredients": [
+        "BRINZOLAMIDE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1998-04-30",
+      "moieties": [
+        "BRINZOLAMIDE"
+      ],
+      "product_ndcs": [
+        "66758-085"
+      ],
+      "rxcui": [
+        "213272",
+        "308805"
+      ],
+      "setid": "0afb6589-51ba-432c-aed1-20a12d5d3455",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "AZOPT (BRINZOLAMIDE) SUSPENSION/ DROPS [SANDOZ INC]",
+      "upload_date": "2024-10-25"
+    },
+    {
+      "application_numbers": [
+        "NDA204251"
+      ],
+      "brand_names": [
+        "SIMBRINZA"
+      ],
+      "combination": true,
+      "home_inn": "brimonidine",
+      "ingredients": [
+        "BRIMONIDINE TARTRATE",
+        "BRINZOLAMIDE"
+      ],
+      "labeler": "Alcon Laboratories, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2013-05-06",
+      "moieties": [
+        "BRIMONIDINE",
+        "BRINZOLAMIDE"
+      ],
+      "product_ndcs": [
+        "0065-4147"
+      ],
+      "rxcui": [
+        "1421451",
+        "1421456"
+      ],
+      "setid": "a49c157e-6310-0011-7b7f-e26fc1820d59",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "SIMBRINZA (BRINZOLAMIDE/BRIMONIDINE TARTRATE) SUSPENSION/ DROPS [ALCON LABORATORIES, INC.]",
+      "upload_date": "2025-03-17"
+    },
+    {
+      "application_numbers": [
+        "NDA020816"
+      ],
+      "brand_names": [
+        "Brinzolamide"
+      ],
+      "combination": false,
+      "home_inn": "brinzolamide",
+      "ingredients": [
+        "BRINZOLAMIDE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2021-03-08",
+      "moieties": [
+        "BRINZOLAMIDE"
+      ],
+      "product_ndcs": [
+        "0781-6014"
+      ],
+      "rxcui": [
+        "308805"
+      ],
+      "setid": "ed6dbc25-47d7-42db-9787-5814d71f45ce",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "BRINZOLAMIDE SUSPENSION/ DROPS [SANDOZ INC]",
+      "upload_date": "2025-11-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA204884"
+      ],
+      "brand_names": [
+        "BRINZOLAMIDE"
+      ],
+      "combination": false,
+      "home_inn": "brinzolamide",
+      "ingredients": [
+        "BRINZOLAMIDE"
+      ],
+      "labeler": "Oceanside Pharmaceuticals.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-08-25",
+      "moieties": [
+        "BRINZOLAMIDE"
+      ],
+      "product_ndcs": [
+        "68682-464"
+      ],
+      "rxcui": [
+        "308805"
+      ],
+      "setid": "fb7229d4-522e-4cb2-b513-9d34f3ded591",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "BRINZOLAMIDE SUSPENSION/ DROPS [OCEANSIDE PHARMACEUTICALS.]",
+      "upload_date": "2026-04-22"
+    },
+    {
+      "application_numbers": [
+        "ANDA211914"
+      ],
+      "brand_names": [
+        "BRINZOLAMIDE"
+      ],
+      "combination": false,
+      "home_inn": "brinzolamide",
+      "ingredients": [
+        "BRINZOLAMIDE"
+      ],
+      "labeler": "Padagis US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-10-10",
+      "moieties": [
+        "BRINZOLAMIDE"
+      ],
+      "product_ndcs": [
+        "0574-4012"
+      ],
+      "rxcui": [
+        "308805"
+      ],
+      "setid": "b56a2e4b-7502-4831-a5b1-0370bdb987b1",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "BRINZOLAMIDE SUSPENSION/ DROPS [PADAGIS US LLC]",
+      "upload_date": "2025-09-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA204884"
+      ],
+      "brand_names": [
+        "BRINZOLAMIDE"
+      ],
+      "combination": false,
+      "home_inn": "brinzolamide",
+      "ingredients": [
+        "BRINZOLAMIDE"
+      ],
+      "labeler": "Bausch & Lomb Incorporated",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-03-31",
+      "moieties": [
+        "BRINZOLAMIDE"
+      ],
+      "product_ndcs": [
+        "24208-464"
+      ],
+      "rxcui": [
+        "308805"
+      ],
+      "setid": "37b19837-fcab-4536-abad-6f4f92dfe794",
+      "source": "dailymed-title-match",
+      "spl_version": 9,
+      "title": "BRINZOLAMIDE SUSPENSION/ DROPS [BAUSCH & LOMB INCORPORATED]",
+      "upload_date": "2026-09-29"
+    },
+    {
+      "application_numbers": [
+        "NDA204251"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "SIMBRINZA"
+      ],
+      "first_posted": "2020-08-04",
+      "found_by": "SIMBRINZA",
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2022-10-10",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-02-28"
+      ],
+      "product_ndcs": [
+        "0078-0904"
+      ],
+      "rxcui": [],
+      "setid": "9524ff62-7850-405a-9b93-311e8dde17ea",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "a49c157e-6310-0011-7b7f-e26fc1820d59"
+      ],
+      "title": "SIMBRINZA (brinzolamide/brimonidine tartrate) suspension/ drops"
+    },
+    {
+      "application_numbers": [
+        "NDA020816"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "AZOPT"
+      ],
+      "first_posted": "2021-12-27",
+      "found_by": "AZOPT",
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2025-09-08",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2026-02-28"
+      ],
+      "product_ndcs": [
+        "0078-0722"
+      ],
+      "rxcui": [],
+      "setid": "acc89925-3ee3-4632-98ae-38a546848346",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "0afb6589-51ba-432c-aed1-20a12d5d3455",
+        "ed6dbc25-47d7-42db-9787-5814d71f45ce"
+      ],
+      "title": "AZOPT (brinzolamide) suspension/ drops"
+    },
+    {
+      "application_numbers": [
+        "NDA020816"
+      ],
+      "archived_versions": 12,
+      "brand_names": [
+        "AZOPT"
+      ],
+      "first_posted": "2008-07-25",
+      "found_by": "AZOPT",
+      "labeler": "Alcon Laboratories, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2022-10-27",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-07-31"
+      ],
+      "product_ndcs": [
+        "0065-0275"
+      ],
+      "rxcui": [],
+      "setid": "e9ea2ae7-1b98-4034-9fba-8ce2225e0145",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "0afb6589-51ba-432c-aed1-20a12d5d3455",
+        "ed6dbc25-47d7-42db-9787-5814d71f45ce"
+      ],
+      "title": "AZOPT (brinzolamide) suspension/ drops"
+    }
+  ],
+  "us_excluded": []
+}

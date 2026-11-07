@@ -1,0 +1,528 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand TRAVATAN",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000390",
+      "eu_number": "EU/1/01/199",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000390",
+      "mah": "Novartis Europharm Limited",
+      "marketing_authorisation_date": "2001-11-27",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/travatan",
+      "name": "Travatan",
+      "record_from": "2001-11-27",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 20
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/002738",
+      "eu_number": "EU/1/13/905",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-002738",
+      "mah": "Novartis Europharm Limited",
+      "marketing_authorisation_date": "2014-02-20",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/izba",
+      "name": "Izba",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 1,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000390",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "TRAVOPROST"
+  ],
+  "inn": "travoprost",
+  "name": "TRAVOPROST",
+  "rank": 446,
+  "rxcui": [
+    "284008",
+    "285032",
+    "2672088",
+    "2672093"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 13,
+    "approval_holders": 12,
+    "earliest_marketing_start": "2006-10-20",
+    "latest_label_update": "2026-10-20",
+    "nda_bla_applications": 2,
+    "repackagers": 2
+  },
+  "unii": [
+    {
+      "ingredient": "TRAVOPROST",
+      "unii": "WJ68R08KX9"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021994"
+      ],
+      "brand_names": [
+        "Travatan Z"
+      ],
+      "combination": false,
+      "home_inn": "travoprost",
+      "ingredients": [
+        "TRAVOPROST"
+      ],
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2006-10-20",
+      "moieties": [
+        "TRAVOPROST"
+      ],
+      "product_ndcs": [
+        "0078-0946"
+      ],
+      "rxcui": [
+        "284008",
+        "285032"
+      ],
+      "setid": "028455e0-ae77-4213-8819-3b58ef7d6a14",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "TRAVATAN Z (TRAVOPROST) SOLUTION/ DROPS [NOVARTIS PHARMACEUTICALS CORPORATION]",
+      "upload_date": "2026-04-02"
+    },
+    {
+      "application_numbers": [
+        "NDA218010"
+      ],
+      "brand_names": [
+        "iDose TR"
+      ],
+      "combination": false,
+      "home_inn": "travoprost",
+      "ingredients": [
+        "TRAVOPROST"
+      ],
+      "labeler": "Glaukos Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-12-13",
+      "moieties": [
+        "TRAVOPROST"
+      ],
+      "product_ndcs": [
+        "25357-100"
+      ],
+      "rxcui": [
+        "2672088",
+        "2672093"
+      ],
+      "setid": "92f6d3e2-8328-47df-972c-23008f4a1c1c",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "IDOSE TR (TRAVOPROST INTRACAMERAL) IMPLANT [GLAUKOS CORPORATION]",
+      "upload_date": "2026-03-20"
+    },
+    {
+      "application_numbers": [
+        "NDA021994"
+      ],
+      "brand_names": [
+        "Travatan Z"
+      ],
+      "combination": false,
+      "home_inn": "travoprost",
+      "ingredients": [
+        "TRAVOPROST"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2006-10-20",
+      "moieties": [
+        "TRAVOPROST"
+      ],
+      "product_ndcs": [
+        "66758-095"
+      ],
+      "rxcui": [
+        "284008",
+        "285032"
+      ],
+      "setid": "4b5cffb0-74e0-44e4-8e18-f5d56e9db450",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "TRAVATAN Z (TRAVOPROST) SOLUTION/ DROPS [SANDOZ INC]",
+      "upload_date": "2025-03-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA205050"
+      ],
+      "brand_names": [
+        "Travoprost Ophthalmic Solution, 0.004%"
+      ],
+      "combination": false,
+      "home_inn": "travoprost",
+      "ingredients": [
+        "TRAVOPROST"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-12-18",
+      "moieties": [
+        "TRAVOPROST"
+      ],
+      "product_ndcs": [
+        "0378-9651"
+      ],
+      "rxcui": [
+        "284008"
+      ],
+      "setid": "00dc284f-fd96-423b-bb8f-b90ee13439bf",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "TRAVOPROST OPHTHALMIC SOLUTION, 0.004% SOLUTION/ DROPS [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2026-04-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA203431"
+      ],
+      "brand_names": [
+        "Travoprost"
+      ],
+      "combination": false,
+      "home_inn": "travoprost",
+      "ingredients": [
+        "TRAVOPROST"
+      ],
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-12-18",
+      "moieties": [
+        "TRAVOPROST"
+      ],
+      "product_ndcs": [
+        "60505-0593"
+      ],
+      "rxcui": [
+        "284008"
+      ],
+      "setid": "98fb77b8-ee41-e2fc-7bcd-bc350e19cc10",
+      "source": "dailymed-title-match",
+      "spl_version": 13,
+      "title": "TRAVOPROST SOLUTION [APOTEX CORP.]",
+      "upload_date": "2026-09-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA210458"
+      ],
+      "brand_names": [
+        "Travoprost Ophthalmic Solution USP, 0.004% Travoprost"
+      ],
+      "combination": false,
+      "home_inn": "travoprost",
+      "ingredients": [
+        "TRAVOPROST"
+      ],
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-12-20",
+      "moieties": [
+        "TRAVOPROST"
+      ],
+      "product_ndcs": [
+        "62332-510"
+      ],
+      "rxcui": [
+        "284008"
+      ],
+      "setid": "be3bdc10-b5eb-4b4b-9a00-1f8c03ccb3b5",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "TRAVOPROST OPHTHALMIC SOLUTION USP, 0.004% TRAVOPROST (TRAVOPROST OPHTHALMIC SOLUTION USP, 0.004%) SOLUTION/ DROPS [ALEMBIC PHARMACEUTICALS INC.]",
+      "upload_date": "2022-07-14"
+    },
+    {
+      "application_numbers": [
+        "ANDA203767"
+      ],
+      "brand_names": [
+        "Travoprost Ophthalmic"
+      ],
+      "combination": false,
+      "home_inn": "travoprost",
+      "ingredients": [
+        "TRAVOPROST"
+      ],
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-04-15",
+      "moieties": [
+        "TRAVOPROST"
+      ],
+      "product_ndcs": [
+        "42571-130"
+      ],
+      "rxcui": [
+        "284008"
+      ],
+      "setid": "39c8f172-9dc6-4adf-8e7f-4d1cb6940926",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "TRAVOPROST OPHTHALMIC (TRAVOPROST OPHTHALMIC SOLUTION) SOLUTION [MICRO LABS LIMITED]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA218159"
+      ],
+      "brand_names": [
+        "Travoprost Ophthalmic Solution"
+      ],
+      "combination": false,
+      "home_inn": "travoprost",
+      "ingredients": [
+        "TRAVOPROST"
+      ],
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-07-12",
+      "moieties": [
+        "TRAVOPROST"
+      ],
+      "product_ndcs": [
+        "68083-601",
+        "68083-602"
+      ],
+      "rxcui": [
+        "284008"
+      ],
+      "setid": "71c9ea95-f577-411a-8e22-819e44d9680e",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "TRAVOPROST OPHTHALMIC SOLUTION SOLUTION/ DROPS [GLAND PHARMA LIMITED]",
+      "upload_date": "2025-12-03"
+    },
+    {
+      "application_numbers": [
+        "ANDA217228"
+      ],
+      "brand_names": [
+        "Travoprost"
+      ],
+      "combination": false,
+      "home_inn": "travoprost",
+      "ingredients": [
+        "TRAVOPROST"
+      ],
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-10-10",
+      "moieties": [
+        "TRAVOPROST"
+      ],
+      "product_ndcs": [
+        "70069-586",
+        "70069-587"
+      ],
+      "rxcui": [
+        "284008"
+      ],
+      "setid": "e9dd2388-afd3-4f40-b35d-54df8c239d29",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "TRAVOPROST (TRAVOPROST (ISOMER FREE)) SOLUTION/ DROPS [SOMERSET THERAPEUTICS, LLC]",
+      "upload_date": "2024-10-14"
+    },
+    {
+      "application_numbers": [
+        "NDA021257"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "TRAVATAN"
+      ],
+      "first_posted": "2008-03-14",
+      "found_by": "TRAVATAN",
+      "labeler": "Alcon Laboratories, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2011-09-21",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2010-07-01"
+      ],
+      "product_ndcs": [
+        "0065-0266"
+      ],
+      "rxcui": [],
+      "setid": "338e7ff4-0d91-4208-a45d-bfa2be52334d",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "TRAVATAN (travoprost) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA021994"
+      ],
+      "archived_versions": 13,
+      "brand_names": [
+        "TRAVATAN"
+      ],
+      "first_posted": "2008-12-05",
+      "found_by": "TRAVATAN",
+      "labeler": "Alcon Laboratories, Inc",
+      "labeler_unverified": false,
+      "last_posted": "2021-10-07",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-08-31"
+      ],
+      "product_ndcs": [
+        "0065-0260"
+      ],
+      "rxcui": [],
+      "setid": "5549684b-1724-45ca-b67b-590c62b7c149",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "028455e0-ae77-4213-8819-3b58ef7d6a14",
+        "4b5cffb0-74e0-44e4-8e18-f5d56e9db450"
+      ],
+      "title": "TRAVATAN Z (travoprost) solution/ drops"
+    },
+    {
+      "application_numbers": [
+        "NDA204822"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "IZBA"
+      ],
+      "first_posted": "2014-06-03",
+      "found_by": "IZBA",
+      "labeler": "Alcon Laboratories, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2021-06-18",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2014-06-02"
+      ],
+      "product_ndcs": [
+        "0065-2800"
+      ],
+      "rxcui": [],
+      "setid": "b4c28134-71d7-2d6e-b894-2c4cfc000864",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "IZBA (travoprost) solution"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "TRAVATAN"
+      ],
+      "first_posted": "2008-01-31",
+      "found_by": "TRAVATAN",
+      "labeler": "ALCON LABORATORIES, INC.",
+      "labeler_unverified": false,
+      "last_posted": "2008-01-31",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0065-0266"
+      ],
+      "rxcui": [],
+      "setid": "l338e7ff4-0d91-4208-a45d-bfa2be52334d",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "travatan (travoprost) solution"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "45953a4b-5080-4959-a1e8-d1559f2e5010"
+    },
+    {
+      "combination": false,
+      "labeler": "GLENMARK PHARMACEUTICALS INC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2b64a309-c7c1-4f12-9c1e-99fa8310612c"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "498a376e-a74e-48d8-a022-ad15a1ecadb5"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "da11bb76-fa62-4800-8a4e-cc76f4351e0d"
+    }
+  ]
+}

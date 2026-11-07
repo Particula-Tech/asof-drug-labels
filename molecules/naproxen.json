@@ -1,0 +1,1073 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "NAPROXEN",
+    "NAPROXEN SODIUM"
+  ],
+  "inn": "naproxen",
+  "name": "NAPROXEN",
+  "rank": 69,
+  "rxcui": [
+    "198012",
+    "198013",
+    "198014",
+    "311913",
+    "311915",
+    "849398",
+    "849431",
+    "849450",
+    "849452",
+    "849574",
+    "1116320",
+    "1116331",
+    "1116339",
+    "1116341",
+    "1116349",
+    "1116351"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 49,
+    "approval_holders": 34,
+    "earliest_marketing_start": "2007-07-01",
+    "latest_label_update": "2026-10-28",
+    "nda_bla_applications": 2,
+    "repackagers": 26
+  },
+  "unii": [
+    {
+      "ingredient": "NAPROXEN",
+      "unii": "57Y76R9ATQ"
+    },
+    {
+      "ingredient": "NAPROXEN SODIUM",
+      "unii": "9TN87S3A3C"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020353"
+      ],
+      "brand_names": [
+        "Naprelan"
+      ],
+      "combination": false,
+      "home_inn": "naproxen",
+      "ingredients": [
+        "NAPROXEN SODIUM"
+      ],
+      "labeler": "Almatica Pharma LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2014-01-17",
+      "moieties": [
+        "NAPROXEN"
+      ],
+      "product_ndcs": [
+        "52427-272",
+        "52427-273"
+      ],
+      "rxcui": [
+        "1116320",
+        "1116331",
+        "1116339",
+        "1116341",
+        "1116349",
+        "1116351"
+      ],
+      "setid": "e633ff0b-eab7-f167-8d08-e9236e54042b",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "NAPRELAN (NAPROXEN SODIUM) TABLET, FILM COATED, EXTENDED RELEASE [ALMATICA PHARMA LLC]",
+      "upload_date": "2025-09-11"
+    },
+    {
+      "application_numbers": [
+        "NDA021926"
+      ],
+      "brand_names": [
+        "Treximet"
+      ],
+      "combination": true,
+      "home_inn": "naproxen",
+      "ingredients": [
+        "NAPROXEN SODIUM",
+        "SUMATRIPTAN SUCCINATE"
+      ],
+      "labeler": "Currax Pharmaceuticals LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2008-04-25",
+      "moieties": [
+        "NAPROXEN",
+        "SUMATRIPTAN"
+      ],
+      "product_ndcs": [
+        "42847-850"
+      ],
+      "rxcui": [
+        "849450",
+        "849452"
+      ],
+      "setid": "42ddf376-8dc0-4236-be2a-0c6ae92ece04",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "TREXIMET (SUMATRIPTAN SUCCINATE AND NAPROXEN SODIUM) TABLET, FILM COATED [CURRAX PHARMACEUTICALS LLC]",
+      "upload_date": "2024-12-26"
+    },
+    {
+      "application_numbers": [
+        "NDA020353"
+      ],
+      "brand_names": [
+        "Naprelan"
+      ],
+      "combination": false,
+      "home_inn": "naproxen",
+      "ingredients": [
+        "NAPROXEN SODIUM"
+      ],
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-12-31",
+      "moieties": [
+        "NAPROXEN"
+      ],
+      "product_ndcs": [
+        "24979-249",
+        "24979-250",
+        "24979-251"
+      ],
+      "rxcui": [
+        "1116320",
+        "1116331",
+        "1116339",
+        "1116341",
+        "1116349",
+        "1116351"
+      ],
+      "setid": "b8a51c9a-488e-4377-a041-436f6a2f8893",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "NAPRELAN (NAPROXEN SODIUM) TABLET, FILM COATED, EXTENDED RELEASE [UPSHER-SMITH LABORATORIES, LLC]",
+      "upload_date": "2026-01-09"
+    },
+    {
+      "application_numbers": [
+        "NDA020353"
+      ],
+      "brand_names": [
+        "Naproxen Sodium"
+      ],
+      "combination": false,
+      "home_inn": "naproxen",
+      "ingredients": [
+        "NAPROXEN SODIUM"
+      ],
+      "labeler": "Alvogen Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2015-03-11",
+      "moieties": [
+        "NAPROXEN"
+      ],
+      "product_ndcs": [
+        "47781-153",
+        "47781-154"
+      ],
+      "rxcui": [
+        "1116320",
+        "1116339",
+        "1116349"
+      ],
+      "setid": "9225acaa-209f-958b-2c51-9a46995dec33",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "NAPROXEN SODIUM TABLET, FILM COATED, EXTENDED RELEASE [ALVOGEN INC.]",
+      "upload_date": "2025-09-11"
+    },
+    {
+      "application_numbers": [
+        "NDA018965"
+      ],
+      "brand_names": [
+        "Naproxen"
+      ],
+      "combination": false,
+      "home_inn": "naproxen",
+      "ingredients": [
+        "NAPROXEN"
+      ],
+      "labeler": "Acella Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2020-11-12",
+      "moieties": [
+        "NAPROXEN"
+      ],
+      "product_ndcs": [
+        "42192-619"
+      ],
+      "rxcui": [
+        "311913"
+      ],
+      "setid": "7e6f03fb-4b36-4418-9684-f45637abbb78",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "NAPROXEN SUSPENSION [ACELLA PHARMACEUTICALS, LLC]",
+      "upload_date": "2026-01-06"
+    },
+    {
+      "application_numbers": [
+        "NDA020067"
+      ],
+      "brand_names": [
+        "Naproxen"
+      ],
+      "combination": false,
+      "home_inn": "naproxen",
+      "ingredients": [
+        "NAPROXEN"
+      ],
+      "labeler": "Zameer Pharmaceuticals LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2025-08-31",
+      "moieties": [
+        "NAPROXEN"
+      ],
+      "product_ndcs": [
+        "90096-161"
+      ],
+      "rxcui": [
+        "311915"
+      ],
+      "setid": "d2e5553a-7c90-407c-9f07-3be65560c23a",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "NAPROXEN TABLET, DELAYED RELEASE [ZAMEER PHARMACEUTICALS LLC]",
+      "upload_date": "2025-09-01"
+    },
+    {
+      "application_numbers": [
+        "ANDA078250",
+        "ANDA078314"
+      ],
+      "brand_names": [
+        "Naproxen",
+        "Naproxen Sodium"
+      ],
+      "combination": false,
+      "home_inn": "naproxen",
+      "ingredients": [
+        "NAPROXEN",
+        "NAPROXEN SODIUM"
+      ],
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2007-07-01",
+      "moieties": [
+        "NAPROXEN"
+      ],
+      "product_ndcs": [
+        "68462-178",
+        "68462-179",
+        "68462-188",
+        "68462-189",
+        "68462-190"
+      ],
+      "rxcui": [
+        "198012",
+        "198013",
+        "198014",
+        "849398",
+        "849431"
+      ],
+      "setid": "6c5bb008-e66f-4ef0-bf84-aca7eb5983e9",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "NAPROXEN TABLET NAPROXEN SODIUM TABLET [GLENMARK PHARMACEUTICALS INC., USA]",
+      "upload_date": "2025-12-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA075927"
+      ],
+      "brand_names": [
+        "Naproxen"
+      ],
+      "combination": false,
+      "home_inn": "naproxen",
+      "ingredients": [
+        "NAPROXEN"
+      ],
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-02-18",
+      "moieties": [
+        "NAPROXEN"
+      ],
+      "product_ndcs": [
+        "53746-188",
+        "53746-189",
+        "53746-190"
+      ],
+      "rxcui": [
+        "849574"
+      ],
+      "setid": "0bb41b8c-6031-4e96-95e1-31adab811837",
+      "source": "dailymed-title-match",
+      "spl_version": 13,
+      "title": "NAPROXEN SODIUM (NSAID) FEVER REDUCER/ PAIN RELIEVER (NAPROXEN SODIUM) TABLET [AMNEAL PHARMACEUTICALS OF NEW YORK LLC]",
+      "upload_date": "2024-01-01"
+    },
+    {
+      "application_numbers": [
+        "ANDA091416"
+      ],
+      "brand_names": [
+        "Naproxen"
+      ],
+      "combination": false,
+      "home_inn": "naproxen",
+      "ingredients": [
+        "NAPROXEN"
+      ],
+      "labeler": "MARKSANS PHARMA LIMITED",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-02-28",
+      "moieties": [
+        "NAPROXEN"
+      ],
+      "product_ndcs": [
+        "25000-138",
+        "25000-139",
+        "25000-140"
+      ],
+      "rxcui": [
+        "198012",
+        "198013",
+        "198014"
+      ],
+      "setid": "1fdb4cbd-e9e8-47bb-b3d8-1f1ec8f411c8",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "NAPROXEN TABLET [MARKSANS PHARMA LIMITED]",
+      "upload_date": "2024-12-19"
+    },
+    {
+      "application_numbers": [
+        "NDA020353"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "NAPRELAN"
+      ],
+      "first_posted": "2009-10-20",
+      "found_by": "NAPRELAN",
+      "labeler": "Victory Pharma, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2016-11-30",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-10-31"
+      ],
+      "product_ndcs": [
+        "68453-375",
+        "68453-777",
+        "68453-850",
+        "68453-900"
+      ],
+      "rxcui": [],
+      "setid": "09c49d97-1423-4527-aaf0-fc2eb6688487",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "9225acaa-209f-958b-2c51-9a46995dec33",
+        "b8a51c9a-488e-4377-a041-436f6a2f8893",
+        "e633ff0b-eab7-f167-8d08-e9236e54042b"
+      ],
+      "title": "NAPRELAN (naproxen sodium) tablet, film coated, extended release NAPRELAN (naproxen sodium) kit"
+    },
+    {
+      "application_numbers": [
+        "NDA020353"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "NAPRELAN"
+      ],
+      "first_posted": "2012-09-06",
+      "found_by": "NAPRELAN",
+      "labeler": "SHIONOGI INC.",
+      "labeler_unverified": false,
+      "last_posted": "2025-02-13",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2016-07-31"
+      ],
+      "product_ndcs": [
+        "59630-375",
+        "59630-777",
+        "59630-850"
+      ],
+      "rxcui": [],
+      "setid": "15ab6690-53bf-4669-950f-35db4dba8fac",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "9225acaa-209f-958b-2c51-9a46995dec33",
+        "b8a51c9a-488e-4377-a041-436f6a2f8893",
+        "e633ff0b-eab7-f167-8d08-e9236e54042b"
+      ],
+      "title": "NAPRELAN (naproxen sodium) tablet, film coated, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA018965"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "NAPROSYN"
+      ],
+      "first_posted": "2017-05-19",
+      "found_by": "NAPROSYN",
+      "labeler": "Key Therapeutics, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2018-01-19",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-01-08"
+      ],
+      "product_ndcs": [
+        "70868-700"
+      ],
+      "rxcui": [],
+      "setid": "50209631-d098-4769-86fd-3a0f7cf73e7a",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "7e6f03fb-4b36-4418-9684-f45637abbb78"
+      ],
+      "title": "NAPROSYN (naproxen) suspension"
+    },
+    {
+      "application_numbers": [
+        "NDA018965"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "NAPROSYN"
+      ],
+      "first_posted": "2018-01-30",
+      "found_by": "NAPROSYN",
+      "labeler": "Entreprises ImportFAB Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2018-03-08",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-03-07"
+      ],
+      "product_ndcs": [
+        "62973-126"
+      ],
+      "rxcui": [],
+      "setid": "63f0f870-36c8-52a0-e053-2a91aa0a1619",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "7e6f03fb-4b36-4418-9684-f45637abbb78"
+      ],
+      "title": "NAPROSYN (naproxen) suspension"
+    },
+    {
+      "application_numbers": [
+        "NDA021926"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "TREXIMET"
+      ],
+      "first_posted": "2015-06-12",
+      "found_by": "TREXIMET",
+      "labeler": "Pernix Therapeutics",
+      "labeler_unverified": true,
+      "last_posted": "2020-01-30",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-09-30"
+      ],
+      "product_ndcs": [
+        "65224-850",
+        "65224-860"
+      ],
+      "rxcui": [],
+      "setid": "67311f35-35cc-469d-a6eb-cf615af5403a",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "42ddf376-8dc0-4236-be2a-0c6ae92ece04"
+      ],
+      "title": "TREXIMET (sumatriptan succinate and naproxen sodium) tablet, film coated"
+    },
+    {
+      "application_numbers": [
+        "NDA017581",
+        "NDA018164",
+        "NDA020067"
+      ],
+      "archived_versions": 8,
+      "brand_names": [
+        "NAPROSYN"
+      ],
+      "first_posted": "2008-08-28",
+      "found_by": "NAPROSYN",
+      "labeler": "Genentech, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2018-01-19",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-07-31",
+        "2018-10-31",
+        "2019-05-31"
+      ],
+      "product_ndcs": [
+        "0004-6203",
+        "0004-6316",
+        "0004-6415",
+        "0004-6416"
+      ],
+      "rxcui": [],
+      "setid": "68848217-03c9-4377-9be6-6f567e629129",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "d2e5553a-7c90-407c-9f07-3be65560c23a"
+      ],
+      "title": "NAPROSYN (naproxen) tablet EC-NAPROSYN (naproxen) tablet, delayed release ANAPROX DS (naproxen sodium) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA017581",
+        "NDA018164",
+        "NDA020067"
+      ],
+      "archived_versions": 11,
+      "brand_names": [
+        "NAPROSYN"
+      ],
+      "first_posted": "2016-06-03",
+      "found_by": "NAPROSYN",
+      "labeler": "Canton Laboratories",
+      "labeler_unverified": true,
+      "last_posted": "2025-09-25",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-03-09",
+        "2023-12-04",
+        "2024-10-20",
+        "2024-10-21"
+      ],
+      "product_ndcs": [
+        "69437-203",
+        "69437-316",
+        "69437-415",
+        "69437-416"
+      ],
+      "rxcui": [],
+      "setid": "8bff5df5-d856-4237-b6a8-ae445b454844",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "d2e5553a-7c90-407c-9f07-3be65560c23a"
+      ],
+      "title": "NAPROSYN (naproxen) tablet EC-NAPROSYN (naproxen) tablet, delayed release ANAPROX DS (naproxen sodium) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA021926"
+      ],
+      "archived_versions": 15,
+      "brand_names": [
+        "TREXIMET"
+      ],
+      "first_posted": "2008-07-25",
+      "found_by": "TREXIMET",
+      "labeler": "GlaxoSmithKline LLC",
+      "labeler_unverified": false,
+      "last_posted": "2016-03-11",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-07-31"
+      ],
+      "product_ndcs": [
+        "0173-0750"
+      ],
+      "rxcui": [],
+      "setid": "a94abb11-06e4-4be1-319a-9dfcdc613617",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "42ddf376-8dc0-4236-be2a-0c6ae92ece04"
+      ],
+      "title": "TREXIMET (sumatriptan and naproxen sodium) tablet, film coated"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "TREXIMET"
+      ],
+      "first_posted": "2018-02-14",
+      "found_by": "TREXIMET",
+      "labeler": "Glaxo Operations UK Ltd",
+      "labeler_unverified": true,
+      "last_posted": "2018-02-14",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "63379-039"
+      ],
+      "rxcui": [],
+      "setid": "d2329b4d-1359-4d8c-b58d-d7e7ceceb3bb",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "TREXIMET (sumatriptan and naproxen sodium) tablet, film coated"
+    },
+    {
+      "application_numbers": [
+        "NDA018965"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "NAPROSYN"
+      ],
+      "first_posted": "2018-01-23",
+      "found_by": "NAPROSYN",
+      "labeler": "Athena Bioscience, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2025-02-21",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-07-09"
+      ],
+      "product_ndcs": [
+        "71511-701"
+      ],
+      "rxcui": [],
+      "setid": "f9b4173d-7836-4d7d-b149-1d96f9377ad0",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "7e6f03fb-4b36-4418-9684-f45637abbb78"
+      ],
+      "title": "NAPROSYN (naproxen) suspension"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "37b264f9-b46d-4635-8fab-246b1e08b653"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0e5315bc-c02f-4749-be69-b5b528327d58"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Laboratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "12e45b43-eca2-73f4-1d68-07d4238f8c70"
+    },
+    {
+      "combination": false,
+      "labeler": "Exelan Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "46dbdb95-a0d0-4410-8d64-b22763b12af7"
+    },
+    {
+      "combination": false,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e06c2b43-9882-442e-8413-10d9a33aecb9"
+    },
+    {
+      "combination": false,
+      "labeler": "ScieGen Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "79f48c92-783d-40f2-9865-89958a9f9de6"
+    },
+    {
+      "combination": false,
+      "labeler": "ScieGen Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "81e22c1f-f94d-46e9-8b7d-72dc2518319e"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "985aedc1-8b3c-4cb4-af13-7203a2b57ab7"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a5757b1a-62c9-4421-9794-6fb121ce9b7e"
+    },
+    {
+      "combination": false,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "252726a7-757a-4b97-b5b8-ffff4ac1d103"
+    },
+    {
+      "combination": false,
+      "labeler": "Granules India Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0d59780a-ef22-4b67-8b42-9795dbec8db0"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fd5e8d84-f92c-4f4b-ab0d-4cda7cf826bd"
+    },
+    {
+      "combination": false,
+      "labeler": "Teva Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "826fd9e3-22fe-408b-820c-f2b710189555"
+    },
+    {
+      "combination": false,
+      "labeler": "TruPharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "004bb832-29d5-add0-e063-6394a90a90f4"
+    },
+    {
+      "combination": false,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "052e6fe3-d619-42c3-b64e-67c7aaf7271c"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "67815abd-5e97-4ccb-ac9b-28c2ef6123e7"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "570974d4-0d5b-4df2-b307-37380511835d"
+    },
+    {
+      "combination": true,
+      "labeler": "Currax Pharmaceuticals LLC dba Cypress, Hawthorn, Macoven",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5762bbe6-bddf-495c-adf8-9096f98a3a9c"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f5203c66-0a40-4263-a237-b71e930e4697"
+    },
+    {
+      "combination": true,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "96ed12a3-fa76-4afd-bee8-1ab19eb607f3"
+    },
+    {
+      "combination": true,
+      "labeler": "Dr. Reddy's Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1ef3fe94-9bbb-934d-a09b-d19a1d23a4d5"
+    },
+    {
+      "combination": true,
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7ca657dc-4376-4693-8568-99351fac8186"
+    },
+    {
+      "combination": true,
+      "labeler": "ScieGen Pharmaceuticals, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "167340c2-1234-4d00-b4e2-cccf3d270fda"
+    },
+    {
+      "combination": false,
+      "labeler": "SA3, LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "313dd447-4b9f-4e5b-8ca9-4a2a5a1a53d9"
+    },
+    {
+      "combination": false,
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7c22a2d6-821c-4f83-aead-e756aed930e5"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2718e0b7-1ce6-457e-bee9-11b634dfd353"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c43a43e2-e867-448d-8f59-3efc7c077cbc"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Laboratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "37de42a6-701b-7f6e-e631-519e2ea78b54"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Laboratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "605ca130-88aa-27d5-330c-6d9c95987f1f"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Laboratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ee0463bc-e939-1ecf-5a86-d045c426fecf"
+    },
+    {
+      "combination": false,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a9549a47-3fa4-4a2b-95ac-b00e43aedae7"
+    },
+    {
+      "combination": false,
+      "labeler": "TIME CAP LABORATORIES",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4350a2d9-5228-460e-b7b1-27e8fa846787"
+    },
+    {
+      "combination": false,
+      "labeler": "Granules India Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1f8da545-bcfe-4c22-a9f1-d34108120aa0"
+    },
+    {
+      "combination": false,
+      "labeler": "Granules India Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "95ba1722-60ed-4a83-9f26-50c4de8cf180"
+    },
+    {
+      "combination": false,
+      "labeler": "Granules Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c1cb9bb9-fbae-5e5c-e053-2995a90a0d21"
+    },
+    {
+      "combination": false,
+      "labeler": "Radha Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1a2b9a82-5b79-45ee-94ed-7a6f8c8b5170"
+    },
+    {
+      "combination": false,
+      "labeler": "Cameron Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2ae474dd-eaae-4401-8d42-613d672daea0"
+    },
+    {
+      "combination": false,
+      "labeler": "Medcore LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "129392c8-8ce1-4b78-8863-042db880095f"
+    },
+    {
+      "combination": false,
+      "labeler": "Sunrise Pharmaceutical, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f2fb222a-b854-4e6f-9027-2e08aed24185"
+    },
+    {
+      "combination": true,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3f2ec27e-0e96-4028-a1fa-114e6d501464"
+    }
+  ]
+}

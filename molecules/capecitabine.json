@@ -1,0 +1,514 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand XELODA",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000316",
+      "eu_number": "EU/1/00/163",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000316",
+      "mah": "CHEPLAPHARM Arzneimittel GmbH",
+      "marketing_authorisation_date": "2001-02-02",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/xeloda",
+      "name": "Xeloda",
+      "record_from": "2001-02-02",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 25
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/002362",
+      "eu_number": "EU/1/12/761",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-002362",
+      "mah": "Teva Pharma B.V.",
+      "marketing_authorisation_date": "2012-04-20",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/capecitabine-teva",
+      "name": "Capecitabine Teva",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/002386",
+      "eu_number": "EU/1/12/762",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-002386",
+      "mah": "Accord Healthcare S.L.U.",
+      "marketing_authorisation_date": "2012-04-20",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/capecitabine-accord",
+      "name": "Capecitabine Accord",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/002568",
+      "eu_number": "EU/1/12/802",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-002568",
+      "mah": "medac Gesellschaft für klinische Spezialpräparate mbH",
+      "marketing_authorisation_date": "2012-11-19",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/capecitabine-medac",
+      "name": "Capecitabine Medac",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/002605",
+      "eu_number": "EU/1/12/763",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-002605",
+      "mah": "Krka, d.d., Novo mesto",
+      "marketing_authorisation_date": "2012-04-20",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ecansya",
+      "name": "Ecansya (previously Capecitabine Krka)",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000316",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "CAPECITABINE"
+  ],
+  "inn": "capecitabine",
+  "name": "CAPECITABINE",
+  "rank": 343,
+  "rxcui": [
+    "200327",
+    "200328",
+    "213292",
+    "213293"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 18,
+    "approval_holders": 17,
+    "earliest_marketing_start": "1998-04-30",
+    "latest_label_update": "2026-07-23",
+    "nda_bla_applications": 1,
+    "repackagers": 2
+  },
+  "unii": [
+    {
+      "ingredient": "CAPECITABINE",
+      "unii": "6804DJ8Z9U"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020896"
+      ],
+      "brand_names": [
+        "XELODA"
+      ],
+      "combination": false,
+      "home_inn": "capecitabine",
+      "ingredients": [
+        "CAPECITABINE"
+      ],
+      "labeler": "H2-Pharma, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1998-04-30",
+      "moieties": [
+        "CAPECITABINE"
+      ],
+      "product_ndcs": [
+        "61269-475"
+      ],
+      "rxcui": [
+        "200327",
+        "200328",
+        "213292",
+        "213293"
+      ],
+      "setid": "e702d84d-7162-4751-bf37-d724cc7e45a5",
+      "source": "openfda",
+      "spl_version": 32,
+      "title": "XELODA (CAPECITABINE) TABLET, FILM COATED [H2-PHARMA, LLC]",
+      "upload_date": "2026-02-06"
+    },
+    {
+      "application_numbers": [
+        "ANDA091649"
+      ],
+      "brand_names": [
+        "Capecitabine"
+      ],
+      "combination": false,
+      "home_inn": "capecitabine",
+      "ingredients": [
+        "CAPECITABINE"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-03-07",
+      "moieties": [
+        "CAPECITABINE"
+      ],
+      "product_ndcs": [
+        "0093-7473",
+        "0093-7474"
+      ],
+      "rxcui": [
+        "200327",
+        "200328"
+      ],
+      "setid": "5753679a-506c-4ac4-b8b2-b27c664d1d40",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "CAPECITABINE TABLET, FILM COATED [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2026-03-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA202593"
+      ],
+      "brand_names": [
+        "CAPECITABINE"
+      ],
+      "combination": false,
+      "home_inn": "capecitabine",
+      "ingredients": [
+        "CAPECITABINE"
+      ],
+      "labeler": "Accord Healthcare Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-05-20",
+      "moieties": [
+        "CAPECITABINE"
+      ],
+      "product_ndcs": [
+        "16729-072",
+        "16729-073"
+      ],
+      "rxcui": [
+        "200327",
+        "200328"
+      ],
+      "setid": "8345d55e-ad02-4726-a04b-1a46e3337a4b",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "CAPECITABINE TABLET, FILM COATED [ACCORD HEALTHCARE INC.]",
+      "upload_date": "2024-01-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA207652"
+      ],
+      "brand_names": [
+        "Capecitabine"
+      ],
+      "combination": false,
+      "home_inn": "capecitabine",
+      "ingredients": [
+        "CAPECITABINE"
+      ],
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-11-25",
+      "moieties": [
+        "CAPECITABINE"
+      ],
+      "product_ndcs": [
+        "67877-458",
+        "67877-459"
+      ],
+      "rxcui": [
+        "200327",
+        "200328"
+      ],
+      "setid": "06a88b03-6c06-4dae-b3bc-1e8dd81c9067",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "CAPECITABINE TABLET, FILM COATED [ASCEND LABORATORIES, LLC]",
+      "upload_date": "2026-06-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA210604"
+      ],
+      "brand_names": [
+        "Capecitabine"
+      ],
+      "combination": false,
+      "home_inn": "capecitabine",
+      "ingredients": [
+        "CAPECITABINE"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-04-17",
+      "moieties": [
+        "CAPECITABINE"
+      ],
+      "product_ndcs": [
+        "59651-204",
+        "59651-205"
+      ],
+      "rxcui": [
+        "200327",
+        "200328"
+      ],
+      "setid": "56441153-a1e5-4fdc-96d6-f21baa6b5fbe",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "CAPECITABINE TABLET [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2026-07-22"
+    },
+    {
+      "application_numbers": [
+        "ANDA209365"
+      ],
+      "brand_names": [
+        "Capecitabine"
+      ],
+      "combination": false,
+      "home_inn": "capecitabine",
+      "ingredients": [
+        "CAPECITABINE"
+      ],
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-07-21",
+      "moieties": [
+        "CAPECITABINE"
+      ],
+      "product_ndcs": [
+        "72205-006",
+        "72205-007"
+      ],
+      "rxcui": [
+        "200327",
+        "200328"
+      ],
+      "setid": "29885ada-b743-419c-8f15-edd4247c76ca",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "CAPECITABINE TABLET, FILM COATED [NOVADOZ PHARMACEUTICALS LLC]",
+      "upload_date": "2024-08-20"
+    },
+    {
+      "application_numbers": [
+        "ANDA207456"
+      ],
+      "brand_names": [
+        "Capecitabine 150mg"
+      ],
+      "combination": false,
+      "home_inn": "capecitabine",
+      "ingredients": [
+        "CAPECITABINE"
+      ],
+      "labeler": "Armas Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-03-01",
+      "moieties": [
+        "CAPECITABINE"
+      ],
+      "product_ndcs": [
+        "72485-204"
+      ],
+      "rxcui": [
+        "200327"
+      ],
+      "setid": "7f555b6b-60db-45e2-a61e-537e57f43fdc",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "CAPECITABINE 150MG (CAPECITABINE) TABLET, FILM COATED [ARMAS PHARMACEUTICALS INC.]",
+      "upload_date": "2020-12-28"
+    },
+    {
+      "application_numbers": [
+        "NDA020896"
+      ],
+      "archived_versions": 26,
+      "brand_names": [
+        "XELODA"
+      ],
+      "first_posted": "2006-07-25",
+      "found_by": "XELODA",
+      "labeler": "Genentech, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2024-11-25",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-07-31"
+      ],
+      "product_ndcs": [
+        "0004-1100",
+        "0004-1101"
+      ],
+      "rxcui": [],
+      "setid": "a1de8bba-3b1d-4c9d-ab8a-32d2c05e67c8",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "e702d84d-7162-4751-bf37-d724cc7e45a5"
+      ],
+      "title": "XELODA (capecitabine) tablet, film coated"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e3b1a2b5-f1ce-45ea-afd8-68aac53665fa"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "643a31d6-0e30-4602-a9b4-355fe944bfea"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "007e3432-c8aa-2a76-52ba-c346924c08a7"
+    },
+    {
+      "combination": false,
+      "labeler": "Teyro Labs Private Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0c873e5b-51c2-4685-86c5-53f98563b093"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3e7d6317-1439-4976-ae00-6f62619ec3dd"
+    },
+    {
+      "combination": false,
+      "labeler": "Armas Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f050d16c-ab76-489d-b92c-8c155b4e3f7c"
+    },
+    {
+      "combination": false,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2871c37d-5e55-437b-a434-fc86d845492a"
+    },
+    {
+      "combination": false,
+      "labeler": "Quallent Pharmaceuticals Health LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d23f023a-ea62-4ac0-f615-d5d26d59526d"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0b59e98c-5b34-4b93-90f6-20526f4d4f88"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "88c5af84-900a-4372-b056-bfea70c129cf"
+    },
+    {
+      "combination": false,
+      "labeler": "CivicaScript LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4ec2cfc1-e8ca-4109-8b90-1aab07cbab21"
+    }
+  ]
+}

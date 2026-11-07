@@ -1,0 +1,543 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand RANEXA",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000805",
+      "eu_number": "EU/1/08/462",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000805",
+      "mah": "Menarini International Operations Luxembourg S.A. (MIOL)",
+      "marketing_authorisation_date": "2008-07-08",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ranexa",
+      "name": "Ranexa (previously Latixa)",
+      "record_from": "2008-07-09",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 18
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000805",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "RANOLAZINE"
+  ],
+  "inn": "ranolazine",
+  "name": "RANOLAZINE",
+  "rank": 247,
+  "rxcui": [
+    "616749",
+    "728231",
+    "2594753",
+    "2594759",
+    "2594760",
+    "2594762"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 21,
+    "approval_holders": 21,
+    "earliest_marketing_start": "2019-02-27",
+    "latest_label_update": "2026-10-26",
+    "nda_bla_applications": 1,
+    "repackagers": 7
+  },
+  "unii": [
+    {
+      "ingredient": "RANOLAZINE",
+      "unii": "A6IEZ5M406"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA216018"
+      ],
+      "brand_names": [
+        "ASPRUZYO SPRINKLE"
+      ],
+      "combination": false,
+      "home_inn": "ranolazine",
+      "ingredients": [
+        "RANOLAZINE"
+      ],
+      "labeler": "SUN PHARMACEUTICAL INDUSTRIES, INC.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-02-28",
+      "moieties": [
+        "RANOLAZINE"
+      ],
+      "product_ndcs": [
+        "47335-625"
+      ],
+      "rxcui": [
+        "2594753",
+        "2594759",
+        "2594760",
+        "2594762"
+      ],
+      "setid": "dd9f81e4-50da-4551-aed5-559d304df42e",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "ASPRUZYO SPRINKLE (RANOLAZINE) GRANULE [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2025-01-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA201046"
+      ],
+      "brand_names": [
+        "RANOLAZINE"
+      ],
+      "combination": false,
+      "home_inn": "ranolazine",
+      "ingredients": [
+        "RANOLAZINE"
+      ],
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-02-27",
+      "moieties": [
+        "RANOLAZINE"
+      ],
+      "product_ndcs": [
+        "68180-354",
+        "68180-355"
+      ],
+      "rxcui": [
+        "616749",
+        "728231"
+      ],
+      "setid": "595821d7-1fbf-49a5-9c62-d78f27af39b4",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "RANOLAZINE TABLET, FILM COATED, EXTENDED RELEASE [LUPIN PHARMACEUTICALS, INC.]",
+      "upload_date": "2023-12-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA211829"
+      ],
+      "brand_names": [
+        "RANOLAZINE"
+      ],
+      "combination": false,
+      "home_inn": "ranolazine",
+      "ingredients": [
+        "RANOLAZINE"
+      ],
+      "labeler": "ScieGen Pharmaceuticals, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-06-04",
+      "moieties": [
+        "RANOLAZINE"
+      ],
+      "product_ndcs": [
+        "50228-423",
+        "50228-424"
+      ],
+      "rxcui": [
+        "616749",
+        "728231"
+      ],
+      "setid": "71d50258-75b7-4801-b0f4-c34fe883d57d",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "RANOLAZINE TABLET, FILM COATED, EXTENDED RELEASE [SCIEGEN PHARMACEUTICALS, INC]",
+      "upload_date": "2024-12-26"
+    },
+    {
+      "application_numbers": [
+        "ANDA211082"
+      ],
+      "brand_names": [
+        "Ranolazine"
+      ],
+      "combination": false,
+      "home_inn": "ranolazine",
+      "ingredients": [
+        "RANOLAZINE"
+      ],
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-07-05",
+      "moieties": [
+        "RANOLAZINE"
+      ],
+      "product_ndcs": [
+        "68462-319",
+        "68462-320"
+      ],
+      "rxcui": [
+        "616749",
+        "728231"
+      ],
+      "setid": "0cf58732-c242-49b0-8e3f-248778b4458d",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "RANOLAZINE TABLET, FILM COATED, EXTENDED RELEASE [GLENMARK PHARMACEUTICALS INC., USA]",
+      "upload_date": "2026-01-26"
+    },
+    {
+      "application_numbers": [
+        "ANDA210054"
+      ],
+      "brand_names": [
+        "Ranolazine"
+      ],
+      "combination": false,
+      "home_inn": "ranolazine",
+      "ingredients": [
+        "RANOLAZINE"
+      ],
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-08-23",
+      "moieties": [
+        "RANOLAZINE"
+      ],
+      "product_ndcs": [
+        "27241-125",
+        "27241-126"
+      ],
+      "rxcui": [
+        "616749",
+        "728231"
+      ],
+      "setid": "8bfd1a61-547a-4847-ae4e-480b17da6272",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "RANOLAZINE TABLET, EXTENDED RELEASE [AJANTA PHARMA USA INC.]",
+      "upload_date": "2025-12-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA210188"
+      ],
+      "brand_names": [
+        "Ranolazine"
+      ],
+      "combination": false,
+      "home_inn": "ranolazine",
+      "ingredients": [
+        "RANOLAZINE"
+      ],
+      "labeler": "Viona Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-09-10",
+      "moieties": [
+        "RANOLAZINE"
+      ],
+      "product_ndcs": [
+        "72578-064",
+        "72578-065"
+      ],
+      "rxcui": [
+        "616749",
+        "728231"
+      ],
+      "setid": "00979fb3-d70f-493d-94ca-2914cbadaa9d",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "RANOLAZINE TABLET, EXTENDED RELEASE [VIONA PHARMACEUTICALS INC]",
+      "upload_date": "2026-01-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA212284"
+      ],
+      "brand_names": [
+        "Ranolazine"
+      ],
+      "combination": false,
+      "home_inn": "ranolazine",
+      "ingredients": [
+        "RANOLAZINE"
+      ],
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-04-01",
+      "moieties": [
+        "RANOLAZINE"
+      ],
+      "product_ndcs": [
+        "70756-703",
+        "70756-704"
+      ],
+      "rxcui": [
+        "616749",
+        "728231"
+      ],
+      "setid": "195c4b51-fec2-410d-8d90-487c536a8728",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "RANOLAZINE TABLET, FILM COATED, EXTENDED RELEASE [LIFESTAR PHARMA LLC]",
+      "upload_date": "2026-05-07"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "RANEXA"
+      ],
+      "first_posted": "2008-02-22",
+      "found_by": "RANEXA",
+      "labeler": "CV Therapeutics, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2008-02-22",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "67159-112",
+        "67159-114"
+      ],
+      "rxcui": [],
+      "setid": "10bd89e9-2d00-430c-8f55-81a37fed5fab",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ranexa (Ranolazine) tablet, film coated, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA021526"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "RANEXA"
+      ],
+      "first_posted": "2008-12-05",
+      "found_by": "RANEXA",
+      "labeler": "Gilead Palo Alto, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2013-04-09",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2011-05-31",
+        "2013-03-31"
+      ],
+      "product_ndcs": [
+        "67159-112",
+        "67159-114"
+      ],
+      "rxcui": [],
+      "setid": "739d7705-907b-4408-8490-2052514a1a50",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "RANEXA (ranolazine) tablet, film coated, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA021526"
+      ],
+      "archived_versions": 14,
+      "brand_names": [
+        "RANEXA"
+      ],
+      "first_posted": "2011-12-23",
+      "found_by": "RANEXA",
+      "labeler": "Gilead Sciences, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2023-03-06",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-12-31",
+        "2024-01-31"
+      ],
+      "product_ndcs": [
+        "61958-1003",
+        "61958-1004"
+      ],
+      "rxcui": [],
+      "setid": "beb482de-f251-476b-9d38-40577c36f5a3",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "RANEXA (ranolazine) tablet, film coated, extended release"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "RANEXA"
+      ],
+      "first_posted": "2007-08-24",
+      "found_by": "RANEXA",
+      "labeler": "CV Therapeutics, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2007-08-24",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "67159-112",
+        "67159-114"
+      ],
+      "rxcui": [],
+      "setid": "l10bd89e9-2d00-430c-8f55-81a37fed5fab",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ranexa (Ranolazine) tablet, film coated, extended release"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "SunGen Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f3c09979-a44a-4197-97d2-29a207b6fc73"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5b254a8e-db88-49be-bb48-e6d2847f8ab3"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "82948cdb-73af-4f3f-bd03-628ed0fdbfba"
+    },
+    {
+      "combination": false,
+      "labeler": "i3 Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "de3185bf-448a-15f7-e053-2995a90a9a2e"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "49873158-5c0a-41da-86a2-369ef6b0cbc8"
+    },
+    {
+      "combination": false,
+      "labeler": "Unichem Pharmaceuticals (USA), Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e2a8c9f9-5f6a-4496-8fd6-2439e564db4f"
+    },
+    {
+      "combination": false,
+      "labeler": "Zameer Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5f4fc8a4-2bd5-4378-8882-e739c951390e"
+    },
+    {
+      "combination": false,
+      "labeler": "Torrent Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d2454377-2abd-4d9f-85f1-12f1adbb10e5"
+    },
+    {
+      "combination": false,
+      "labeler": "Umedica Laboratories USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a624dc7f-921d-4554-a813-f72dca0133c3"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d74f3dea-7357-4e9a-be9a-2f498a44108a"
+    },
+    {
+      "combination": false,
+      "labeler": "AvKARE",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b2a8dc3e-a880-5241-e053-2995a90a933a"
+    },
+    {
+      "combination": false,
+      "labeler": "Westminster Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b91e88a0-04d0-4d0d-92d8-966b27a48e29"
+    },
+    {
+      "combination": false,
+      "labeler": "A2A Integrated Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9fb62878-c76a-4be2-99be-962ce2956af2"
+    },
+    {
+      "combination": false,
+      "labeler": "Radha Pharmaceuticals, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "38d2833d-44b8-8d46-e063-6394a90a74d8"
+    }
+  ]
+}

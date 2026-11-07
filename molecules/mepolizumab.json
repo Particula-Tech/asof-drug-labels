@@ -1,0 +1,131 @@
+{
+  "biologic": true,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand Nucala",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/003860",
+      "eu_number": "EU/1/15/1043",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-003860",
+      "mah": "GlaxoSmithKline Trading Services Limited",
+      "marketing_authorisation_date": "2015-12-01",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/nucala",
+      "name": "Nucala",
+      "record_from": "2015-12-02",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 12
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-003860",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "MEPOLIZUMAB"
+  ],
+  "inn": "mepolizumab",
+  "name": "MEPOLIZUMAB",
+  "rank": 362,
+  "rxcui": [
+    "1720601",
+    "1720606",
+    "2170990",
+    "2170993",
+    "2173820",
+    "2173822",
+    "2596444",
+    "2596445"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 1,
+    "approval_holders": 1,
+    "earliest_marketing_start": "2015-11-04",
+    "latest_label_update": "2026-10-23",
+    "nda_bla_applications": 2,
+    "repackagers": 0
+  },
+  "unii": [],
+  "unii_unresolved": [
+    "MEPOLIZUMAB"
+  ],
+  "us": [
+    {
+      "application_numbers": [
+        "BLA125526",
+        "BLA761122"
+      ],
+      "brand_names": [
+        "Nucala"
+      ],
+      "combination": false,
+      "home_inn": "mepolizumab",
+      "ingredients": [
+        "MEPOLIZUMAB"
+      ],
+      "labeler": "GlaxoSmithKline LLC",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2015-11-04",
+      "moieties": [
+        "MEPOLIZUMAB"
+      ],
+      "product_ndcs": [
+        "0173-0881",
+        "0173-0892",
+        "0173-0904"
+      ],
+      "rxcui": [
+        "1720601",
+        "1720606",
+        "2170990",
+        "2170993",
+        "2173820",
+        "2173822",
+        "2596444",
+        "2596445"
+      ],
+      "setid": "fefb887c-e4ac-431e-8893-e9d1a5a63fea",
+      "source": "dailymed-title-match",
+      "spl_version": 25,
+      "title": "NUCALA (MEPOLIZUMAB) INJECTION, POWDER, FOR SOLUTION NUCALA (MEPOLIZUMAB) INJECTION, SOLUTION [GLAXOSMITHKLINE LLC]",
+      "upload_date": "2026-10-23"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "NUCALA"
+      ],
+      "first_posted": "2017-12-12",
+      "found_by": "NUCALA",
+      "labeler": "GlaxoSmithKline Manufacturing SpA",
+      "labeler_unverified": true,
+      "last_posted": "2017-12-12",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "12064-018"
+      ],
+      "rxcui": [],
+      "setid": "4b7574ab-c677-4206-bdf3-9ced88fb09ff",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "NUCALA (mepolizumab) injection, powder, for solution"
+    }
+  ],
+  "us_excluded": []
+}

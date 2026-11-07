@@ -1,0 +1,1203 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "OLMESARTAN MEDOXOMIL"
+  ],
+  "inn": "olmesartan",
+  "name": "OLMESARTAN",
+  "rank": 91,
+  "rxcui": [
+    "349373",
+    "349401",
+    "349405",
+    "352199",
+    "352200",
+    "352201",
+    "403853",
+    "403854",
+    "403855",
+    "730861",
+    "730866",
+    "730869",
+    "730872",
+    "744624",
+    "744628",
+    "744632",
+    "744636",
+    "847042",
+    "847055",
+    "847060",
+    "999967",
+    "999971",
+    "999986",
+    "999990",
+    "999991",
+    "999995",
+    "999996",
+    "1000000",
+    "1000001",
+    "1000005"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 60,
+    "approval_holders": 31,
+    "earliest_marketing_start": "2016-04-01",
+    "latest_label_update": "2026-10-26",
+    "nda_bla_applications": 4,
+    "repackagers": 7
+  },
+  "unii": [
+    {
+      "ingredient": "OLMESARTAN MEDOXOMIL",
+      "unii": "6M97XTV3HD"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021286"
+      ],
+      "brand_names": [
+        "Benicar"
+      ],
+      "combination": false,
+      "home_inn": "olmesartan",
+      "ingredients": [
+        "OLMESARTAN MEDOXOMIL"
+      ],
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-09-01",
+      "moieties": [
+        "OLMESARTAN"
+      ],
+      "product_ndcs": [
+        "0713-0860",
+        "0713-0861",
+        "0713-0862"
+      ],
+      "rxcui": [
+        "349373",
+        "349401",
+        "349405",
+        "352199",
+        "352200",
+        "352201"
+      ],
+      "setid": "5b6f8a18-8f8a-4521-81c3-3a39c73c6646",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "BENICAR (OLMESARTAN MEDOXOMIL) TABLET, FILM COATED [COSETTE PHARMACEUTICALS, INC.]",
+      "upload_date": "2023-07-13"
+    },
+    {
+      "application_numbers": [
+        "NDA200175"
+      ],
+      "brand_names": [
+        "Tribenzor"
+      ],
+      "combination": true,
+      "home_inn": "amlodipine",
+      "ingredients": [
+        "AMLODIPINE BESYLATE",
+        "HYDROCHLOROTHIAZIDE",
+        "OLMESARTAN MEDOXOMIL"
+      ],
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-09-01",
+      "moieties": [
+        "AMLODIPINE",
+        "HYDROCHLOROTHIAZIDE",
+        "OLMESARTAN"
+      ],
+      "product_ndcs": [
+        "0713-0874",
+        "0713-0875",
+        "0713-0876",
+        "0713-0877",
+        "0713-0878"
+      ],
+      "rxcui": [
+        "999967",
+        "999971",
+        "999986",
+        "999990",
+        "999991",
+        "999995",
+        "999996",
+        "1000000",
+        "1000001",
+        "1000005"
+      ],
+      "setid": "2f56d0bc-236b-41a0-9fc0-21cdfea8d890",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "TRIBENZOR (OLMESARTAN MEDOXOMIL / AMLODIPINE BESYLATE / HYDROCHLOROTHIAZIDE) TABLET, FILM COATED [COSETTE PHARMACEUTICALS, INC.]",
+      "upload_date": "2023-07-13"
+    },
+    {
+      "application_numbers": [
+        "NDA021532"
+      ],
+      "brand_names": [
+        "Benicar HCT"
+      ],
+      "combination": true,
+      "home_inn": "olmesartan",
+      "ingredients": [
+        "HYDROCHLOROTHIAZIDE",
+        "OLMESARTAN MEDOXOMIL"
+      ],
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-09-01",
+      "moieties": [
+        "HYDROCHLOROTHIAZIDE",
+        "OLMESARTAN"
+      ],
+      "product_ndcs": [
+        "0713-0863",
+        "0713-0864",
+        "0713-0865"
+      ],
+      "rxcui": [
+        "403853",
+        "403854",
+        "403855",
+        "847042",
+        "847055",
+        "847060"
+      ],
+      "setid": "881a1c32-c209-4038-9c5e-c5e46c6e0546",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "BENICAR HCT (OLMESARTAN MEDOXOMIL-HYDROCHLOROTHIAZIDE) TABLET, FILM COATED [COSETTE PHARMACEUTICALS, INC.]",
+      "upload_date": "2023-07-13"
+    },
+    {
+      "application_numbers": [
+        "NDA022100"
+      ],
+      "brand_names": [
+        "Azor"
+      ],
+      "combination": true,
+      "home_inn": "amlodipine",
+      "ingredients": [
+        "AMLODIPINE BESYLATE",
+        "OLMESARTAN MEDOXOMIL"
+      ],
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-09-01",
+      "moieties": [
+        "AMLODIPINE",
+        "OLMESARTAN"
+      ],
+      "product_ndcs": [
+        "0713-0870",
+        "0713-0871",
+        "0713-0872",
+        "0713-0873"
+      ],
+      "rxcui": [
+        "730861",
+        "730866",
+        "730869",
+        "730872",
+        "744624",
+        "744628",
+        "744632",
+        "744636"
+      ],
+      "setid": "c5535406-b63b-49aa-88b9-169aaf0ed08e",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "AZOR (AMLODIPINE BESYLATE AND OLMESARTAN MEDOXOMIL) TABLET, FILM COATED [COSETTE PHARMACEUTICALS, INC.]",
+      "upload_date": "2023-07-13"
+    },
+    {
+      "application_numbers": [
+        "NDA021286"
+      ],
+      "brand_names": [
+        "Benicar"
+      ],
+      "combination": false,
+      "home_inn": "olmesartan",
+      "ingredients": [
+        "OLMESARTAN MEDOXOMIL"
+      ],
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-08-01",
+      "moieties": [
+        "OLMESARTAN"
+      ],
+      "product_ndcs": [
+        "0713-0940",
+        "0713-0941",
+        "0713-0942"
+      ],
+      "rxcui": [
+        "349373",
+        "349401",
+        "349405",
+        "352199",
+        "352200",
+        "352201"
+      ],
+      "setid": "dc3f1fd4-5578-4c5d-be7b-12e3f8f3e7df",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "BENICAR (OLMESARTAN MEDOXOMIL) TABLET, FILM COATED [COSETTE PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-09-25"
+    },
+    {
+      "application_numbers": [
+        "NDA021532"
+      ],
+      "brand_names": [
+        "Benicar HCT"
+      ],
+      "combination": true,
+      "home_inn": "olmesartan",
+      "ingredients": [
+        "HYDROCHLOROTHIAZIDE",
+        "OLMESARTAN MEDOXOMIL"
+      ],
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2026-03-03",
+      "moieties": [
+        "HYDROCHLOROTHIAZIDE",
+        "OLMESARTAN"
+      ],
+      "product_ndcs": [
+        "0713-0943",
+        "0713-0944",
+        "0713-0945"
+      ],
+      "rxcui": [
+        "403853",
+        "403854",
+        "403855",
+        "847042",
+        "847055",
+        "847060"
+      ],
+      "setid": "a90915ca-f9d3-4fff-8370-d5dc4cdfc521",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "BENICAR HCT (OLMESARTAN MEDOXOMIL-HYDROCHLOROTHIAZIDE) TABLET, FILM COATED [COSETTE PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-04-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA205482"
+      ],
+      "brand_names": [
+        "olmesartan medoxomil"
+      ],
+      "combination": false,
+      "home_inn": "olmesartan",
+      "ingredients": [
+        "OLMESARTAN MEDOXOMIL"
+      ],
+      "labeler": "Jubilant Cadista Pharmacuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-04-01",
+      "moieties": [
+        "OLMESARTAN"
+      ],
+      "product_ndcs": [
+        "59746-463",
+        "59746-465",
+        "59746-466"
+      ],
+      "rxcui": [
+        "349373",
+        "349401",
+        "349405"
+      ],
+      "setid": "d5658d8a-f8e9-454d-89a9-34884e753001",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "OLMESARTAN MEDOXOMIL TABLET, FILM COATED [JUBILANT CADISTA PHARMACUTICALS INC.]",
+      "upload_date": "2025-03-26"
+    },
+    {
+      "application_numbers": [
+        "ANDA206763"
+      ],
+      "brand_names": [
+        "Olmesartan Medoxomil"
+      ],
+      "combination": false,
+      "home_inn": "olmesartan",
+      "ingredients": [
+        "OLMESARTAN MEDOXOMIL"
+      ],
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-04-24",
+      "moieties": [
+        "OLMESARTAN"
+      ],
+      "product_ndcs": [
+        "67877-445",
+        "67877-446",
+        "67877-447"
+      ],
+      "rxcui": [
+        "349373",
+        "349401",
+        "349405"
+      ],
+      "setid": "142b735a-e1cd-46e1-a523-3ef061001bf9",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "OLMESARTAN MEDOXOMIL TABLET, COATED [ASCEND LABORATORIES, LLC]",
+      "upload_date": "2025-08-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA204798"
+      ],
+      "brand_names": [
+        "Olmesartan Medoxomil"
+      ],
+      "combination": false,
+      "home_inn": "olmesartan",
+      "ingredients": [
+        "OLMESARTAN MEDOXOMIL"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-04-24",
+      "moieties": [
+        "OLMESARTAN"
+      ],
+      "product_ndcs": [
+        "65862-741",
+        "65862-742",
+        "65862-743"
+      ],
+      "rxcui": [
+        "349373",
+        "349401",
+        "349405"
+      ],
+      "setid": "8c94d403-809b-43b9-834f-3ecd330d2dd9",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "OLMESARTAN MEDOXOMIL TABLET, FILM COATED [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2025-01-08"
+    },
+    {
+      "application_numbers": [
+        "ANDA203012"
+      ],
+      "brand_names": [
+        "Olmesartan Medoxomil"
+      ],
+      "combination": false,
+      "home_inn": "olmesartan",
+      "ingredients": [
+        "OLMESARTAN MEDOXOMIL"
+      ],
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-04-24",
+      "moieties": [
+        "OLMESARTAN"
+      ],
+      "product_ndcs": [
+        "46708-131",
+        "46708-132",
+        "46708-133"
+      ],
+      "rxcui": [
+        "349373",
+        "349401",
+        "349405"
+      ],
+      "setid": "ac08ea7d-f529-42ca-850a-a0ecce7dc830",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "OLMESARTAN MEDOXOMIL TABLET, FILM COATED [ALEMBIC PHARMACEUTICALS LIMITED]",
+      "upload_date": "2023-01-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA204814"
+      ],
+      "brand_names": [
+        "Olmesartan medoxomil"
+      ],
+      "combination": false,
+      "home_inn": "olmesartan",
+      "ingredients": [
+        "OLMESARTAN MEDOXOMIL"
+      ],
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-04-25",
+      "moieties": [
+        "OLMESARTAN"
+      ],
+      "product_ndcs": [
+        "33342-178",
+        "33342-179",
+        "33342-180"
+      ],
+      "rxcui": [
+        "349373",
+        "349401",
+        "349405"
+      ],
+      "setid": "24e308cc-7cec-4054-9627-66f743ed71b0",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "OLMESARTAN MEDOXOMIL TABLET [MACLEODS PHARMACEUTICALS LIMITED]",
+      "upload_date": "2026-06-03"
+    },
+    {
+      "application_numbers": [
+        "ANDA207662"
+      ],
+      "brand_names": [
+        "olmesartan medoxomil"
+      ],
+      "combination": false,
+      "home_inn": "olmesartan",
+      "ingredients": [
+        "OLMESARTAN MEDOXOMIL"
+      ],
+      "labeler": "Accord Healthcare Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-04-27",
+      "moieties": [
+        "OLMESARTAN"
+      ],
+      "product_ndcs": [
+        "16729-320",
+        "16729-321",
+        "16729-322"
+      ],
+      "rxcui": [
+        "349373",
+        "349401",
+        "349405"
+      ],
+      "setid": "e5dbca00-4e1b-4479-b829-021b11bc021e",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "OLMESARTAN MEDOXOMIL TABLET, FILM COATED [ACCORD HEALTHCARE INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "NDA021286"
+      ],
+      "archived_versions": 23,
+      "brand_names": [
+        "BENICAR"
+      ],
+      "first_posted": "2010-06-08",
+      "found_by": "BENICAR",
+      "labeler": "Daiichi Sankyo, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2022-06-14",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-01-31",
+        "2024-03-31"
+      ],
+      "product_ndcs": [
+        "65597-101",
+        "65597-103",
+        "65597-104"
+      ],
+      "rxcui": [],
+      "setid": "33770d80-754f-11de-8dba-0002a5d5c51b",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "5b6f8a18-8f8a-4521-81c3-3a39c73c6646",
+        "dc3f1fd4-5578-4c5d-be7b-12e3f8f3e7df"
+      ],
+      "title": "BENICAR (olmesartan medoxomil) tablet, film coated"
+    },
+    {
+      "application_numbers": [
+        "NDA021286"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "BENICAR"
+      ],
+      "first_posted": "2008-07-02",
+      "found_by": "BENICAR",
+      "labeler": "DAIICHI SANKYO",
+      "labeler_unverified": true,
+      "last_posted": "2021-02-04",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2002-04-26"
+      ],
+      "product_ndcs": [
+        "69957-101",
+        "69957-103",
+        "69957-104"
+      ],
+      "rxcui": [],
+      "setid": "4a9c6e0e-72dd-4ed4-a8bb-8a6aee506681",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "5b6f8a18-8f8a-4521-81c3-3a39c73c6646",
+        "dc3f1fd4-5578-4c5d-be7b-12e3f8f3e7df"
+      ],
+      "title": "BENICAR (olmesartan medoxomil) tablet, film coated"
+    },
+    {
+      "application_numbers": [
+        "NDA200175"
+      ],
+      "archived_versions": 22,
+      "brand_names": [
+        "TRIBENZOR"
+      ],
+      "first_posted": "2010-08-06",
+      "found_by": "TRIBENZOR",
+      "labeler": "Daiichi Sankyo, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2022-06-14",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-07-31",
+        "2024-02-29",
+        "2024-05-31",
+        "2024-06-30",
+        "2024-08-31"
+      ],
+      "product_ndcs": [
+        "65597-114",
+        "65597-115",
+        "65597-116",
+        "65597-117",
+        "65597-118"
+      ],
+      "rxcui": [],
+      "setid": "5562b3f5-8757-11de-8a39-0800200c9a66",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "2f56d0bc-236b-41a0-9fc0-21cdfea8d890"
+      ],
+      "title": "TRIBENZOR (olmesartan medoxomil / amlodipine besylate / hydrochlorothiazide) tablet, film coated"
+    },
+    {
+      "application_numbers": [
+        "NDA021532"
+      ],
+      "archived_versions": 21,
+      "brand_names": [
+        "BENICAR"
+      ],
+      "first_posted": "2008-03-13",
+      "found_by": "BENICAR",
+      "labeler": "Daiichi Sankyo, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2022-06-14",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-09-30",
+        "2023-12-31",
+        "2024-02-29"
+      ],
+      "product_ndcs": [
+        "65597-105",
+        "65597-106",
+        "65597-107"
+      ],
+      "rxcui": [],
+      "setid": "6bbc032a-3cc4-4b1d-8124-1784214a2821",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "881a1c32-c209-4038-9c5e-c5e46c6e0546",
+        "a90915ca-f9d3-4fff-8370-d5dc4cdfc521"
+      ],
+      "title": "BENICAR HCT (olmesartan medoxomil-hydrochlorothiazide) tablet, film coated"
+    },
+    {
+      "application_numbers": [
+        "NDA022100"
+      ],
+      "archived_versions": 22,
+      "brand_names": [
+        "AZOR"
+      ],
+      "first_posted": "2007-10-19",
+      "found_by": "AZOR",
+      "labeler": "Daiichi Sankyo Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2022-06-09",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-05-31",
+        "2023-10-31",
+        "2024-08-31",
+        "2025-02-28"
+      ],
+      "product_ndcs": [
+        "65597-110",
+        "65597-111",
+        "65597-112",
+        "65597-113"
+      ],
+      "rxcui": [],
+      "setid": "f48911e0-705f-11dc-afc9-0002a5d5c51b",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "c5535406-b63b-49aa-88b9-169aaf0ed08e"
+      ],
+      "title": "AZOR (amlodipine besylate and olmesartan medoxomil) tablet, film coated"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "BENICAR"
+      ],
+      "first_posted": "2006-11-22",
+      "found_by": "BENICAR",
+      "labeler": "Sankyo Pharma Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2006-11-22",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "65597-101",
+        "65597-103",
+        "65597-104"
+      ],
+      "rxcui": [],
+      "setid": "l3fc75eaf-60b2-4cc4-8db2-01161eb1230e",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "benicar (olemesartan medoxomil) tablet, film coated"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "BENICAR"
+      ],
+      "first_posted": "2008-03-12",
+      "found_by": "BENICAR",
+      "labeler": "Daiichi Sankyo, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2008-03-12",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "65597-105",
+        "65597-106",
+        "65597-107"
+      ],
+      "rxcui": [],
+      "setid": "l6bbc032a-3cc4-4b1d-8124-1784214a2821",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "benicar hct (olmesartan medoxomil and hydrochlorothiazide) tablet, film coated"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8e0adf3d-7569-4909-bab1-5fed9578ad77"
+    },
+    {
+      "combination": false,
+      "labeler": "ScieGen Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f15664a4-6b5f-4e88-ad56-c827ed90a40c"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7835d2b0-8e5d-4d3f-a95f-9252fb65025b"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a337a621-bf57-4aa4-8224-4356fa2cdbc4"
+    },
+    {
+      "combination": false,
+      "labeler": "Inventia Healthcare Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "05a807bf-5175-43a2-a676-215bba2645a8"
+    },
+    {
+      "combination": false,
+      "labeler": "Solco Healthcare US, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6e602f81-1cc3-4ae1-8bdf-85572e35cf73"
+    },
+    {
+      "combination": false,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4238a064-1bfd-4ce3-b9d9-12c96eee8af0"
+    },
+    {
+      "combination": false,
+      "labeler": "Cadila Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c5416a9f-1dcc-4851-bbc0-6664d22fc8fa"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "53b8d406-a4f3-46ee-9aec-d70f7d806876"
+    },
+    {
+      "combination": true,
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "268d12e8-1cfc-4086-b613-8fd94f2d7c4e"
+    },
+    {
+      "combination": true,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c86a3c45-c906-46c9-9f7b-6c3d89bbe48f"
+    },
+    {
+      "combination": true,
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5c128ef2-60a6-40f3-b37f-ee139fe27987"
+    },
+    {
+      "combination": true,
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "69fa6293-b10a-4473-ab9b-1bd53f099bdd"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "744c1785-42b2-46a5-b0f4-2887a9ec2051"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8c65d555-8db8-40d9-be30-309ef09f19be"
+    },
+    {
+      "combination": true,
+      "labeler": "Solco Healthcare US, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bdca31d3-60b1-4659-aef7-56530b4f9039"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b13a8b46-104e-4b75-8f4a-928d2204eff5"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1eb78d80-701d-4766-98c3-feee6790de1a"
+    },
+    {
+      "combination": true,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c1204fbe-d086-43cf-bbaa-efec9cd0487c"
+    },
+    {
+      "combination": true,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7fcf6a87-7b3e-4cef-8c47-c8a008cfea82"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "02f9b562-6f7f-4783-bb0d-67c318073e1c"
+    },
+    {
+      "combination": true,
+      "labeler": "Accord Healthcare Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d858a6de-dda5-4bcd-a255-5723d01d896f"
+    },
+    {
+      "combination": true,
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9771066e-c05d-6a93-e053-2995a90a7e87"
+    },
+    {
+      "combination": true,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "03ff0f7e-6aa1-4c38-8c9a-5f1c6a56c747"
+    },
+    {
+      "combination": true,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "99865c67-5475-4e60-98d5-a8fa850fe9ba"
+    },
+    {
+      "combination": true,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "798fee33-51ad-45d0-82f3-09289304139f"
+    },
+    {
+      "combination": true,
+      "labeler": "Slate Run Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a469adff-25a6-4983-b471-60924d920a86"
+    },
+    {
+      "combination": true,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "52c013e1-8c31-4bed-9241-e7845873ebe8"
+    },
+    {
+      "combination": true,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d421f352-9500-4d3e-8bc3-0cdcc2050514"
+    },
+    {
+      "combination": true,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c8197eea-e990-4c0e-bc2d-f080bac8de17"
+    },
+    {
+      "combination": true,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "45e975ff-07b1-411a-96ee-a011d1619b1e"
+    },
+    {
+      "combination": true,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9fb71df8-f70f-47dc-9465-8d8748261caf"
+    },
+    {
+      "combination": true,
+      "labeler": "Golden State Medical Supply, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "574d2679-c036-fa12-e063-6394a90aef33"
+    },
+    {
+      "combination": true,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "576b315a-4830-42b5-bf5f-76fe4bbc0f8c"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cf4f62f9-5a00-4313-b703-ec0ac6380b5e"
+    },
+    {
+      "combination": false,
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c620361a-dc2d-28a1-e053-2995a90abd14"
+    },
+    {
+      "combination": false,
+      "labeler": "QUALLENT PHARMACEUTICALS HEALTH LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "98f930d5-f7c2-4870-92b4-0ad37ce45797"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b02ff20e-3f0e-43f4-a7b5-6ce56295d023"
+    },
+    {
+      "combination": false,
+      "labeler": "Modavar Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1f430fc9-bd4c-4328-a4a2-501ec991029b"
+    },
+    {
+      "combination": false,
+      "labeler": "Umedica Laboratories USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c49a7f23-2af0-4607-9f21-114970f8630d"
+    },
+    {
+      "combination": false,
+      "labeler": "HEC Pharm USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4f4d89ab-58c8-27ea-e063-6394a90a8723"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "812d2d57-14d6-48a9-9687-85c2d125197e"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ca1a0aac-d81d-4c0a-91ea-cb719af772bf"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cb2df7f7-fee8-42ba-8936-0788c4fcc0cb"
+    },
+    {
+      "combination": true,
+      "labeler": "ScieGen Pharmaceuticals, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c531fceb-09aa-492b-a5a3-2b004e9eadda"
+    },
+    {
+      "combination": true,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "364af4fe-cde8-466f-b56f-d93d532b56f5"
+    },
+    {
+      "combination": true,
+      "labeler": "Umedica Laboratories USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "55d6aee1-01ca-4791-8404-386664b4ab07"
+    },
+    {
+      "combination": true,
+      "labeler": "ScieGen Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "52332190-2a12-d205-e063-6394a90ab7c5"
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "biologic": true,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand Tresiba",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/002498",
+      "eu_number": "EU/1/12/807",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-002498",
+      "mah": "Novo Nordisk A/S",
+      "marketing_authorisation_date": "2013-01-20",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tresiba",
+      "name": "Tresiba",
+      "record_from": "2013-01-21",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 13
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 2,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-002498",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "INSULIN DEGLUDEC"
+  ],
+  "inn": "insulin-degludec",
+  "name": "INSULIN DEGLUDEC",
+  "rank": 356,
+  "rxcui": [
+    "1670011",
+    "1670016",
+    "1670021",
+    "1670023",
+    "1860167",
+    "1860172",
+    "2107520",
+    "2107522"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 3,
+    "approval_holders": 2,
+    "earliest_marketing_start": "2015-09-25",
+    "latest_label_update": "2026-06-17",
+    "nda_bla_applications": 2,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "INSULIN DEGLUDEC",
+      "unii": "54Q18076QB"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "BLA203314"
+      ],
+      "brand_names": [
+        "Tresiba"
+      ],
+      "combination": false,
+      "home_inn": "insulin-degludec",
+      "ingredients": [
+        "INSULIN DEGLUDEC"
+      ],
+      "labeler": "Novo Nordisk",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2015-09-25",
+      "moieties": [
+        "INSULIN DEGLUDEC"
+      ],
+      "product_ndcs": [
+        "0169-2550",
+        "0169-2660",
+        "0169-2662"
+      ],
+      "rxcui": [
+        "1670011",
+        "1670016",
+        "1670021",
+        "1670023",
+        "2107520",
+        "2107522"
+      ],
+      "setid": "456c5e87-3dfd-46fa-8ac0-c6128d4c97c6",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "TRESIBA (INSULIN DEGLUDEC) INJECTION, SOLUTION [NOVO NORDISK]",
+      "upload_date": "2022-07-20"
+    },
+    {
+      "application_numbers": [
+        "BLA208583"
+      ],
+      "brand_names": [
+        "Xultophy 100/3.6"
+      ],
+      "combination": true,
+      "home_inn": "liraglutide",
+      "ingredients": [
+        "INSULIN DEGLUDEC",
+        "LIRAGLUTIDE"
+      ],
+      "labeler": "Novo Nordisk",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2016-11-21",
+      "moieties": [
+        "INSULIN DEGLUDEC",
+        "LIRAGLUTIDE"
+      ],
+      "product_ndcs": [
+        "0169-2911"
+      ],
+      "rxcui": [
+        "1860167",
+        "1860172"
+      ],
+      "setid": "21335fe4-d395-4501-ac2a-2f20d7520da9",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "XULTOPHY 100/3.6 (INSULIN DEGLUDEC AND LIRAGLUTIDE) INJECTION, SOLUTION [NOVO NORDISK]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "BLA203314"
+      ],
+      "brand_names": [
+        "Insulin Degludec"
+      ],
+      "combination": false,
+      "home_inn": "insulin-degludec",
+      "ingredients": [
+        "INSULIN DEGLUDEC"
+      ],
+      "labeler": "Novo Nordisk Pharma, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2022-07-01",
+      "moieties": [
+        "INSULIN DEGLUDEC"
+      ],
+      "product_ndcs": [
+        "73070-400",
+        "73070-403",
+        "73070-503"
+      ],
+      "rxcui": [
+        "1670011",
+        "1670021",
+        "2107520"
+      ],
+      "setid": "c1be283d-4b1d-4996-b2a7-4488dbff3037",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "INSULIN DEGLUDEC INJECTION, SOLUTION [NOVO NORDISK PHARMA, INC.]",
+      "upload_date": "2026-06-17"
+    }
+  ],
+  "us_excluded": []
+}

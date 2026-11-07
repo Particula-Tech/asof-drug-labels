@@ -1,0 +1,534 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/006653",
+      "eu_number": "EU/1/26/2048",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-006653",
+      "mah": "Agepha Pharma s.r.o.",
+      "marketing_authorisation_date": "2026-07-24",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/colchicine-agepha-pharma",
+      "name": "Colchicine Agepha Pharma",
+      "record_from": "2026-07-24",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 1
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-006653",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "COLCHICINE"
+  ],
+  "inn": "colchicine",
+  "name": "COLCHICINE",
+  "rank": 299,
+  "rxcui": [
+    "197540",
+    "197541",
+    "1550940",
+    "2118892",
+    "2180558",
+    "2663988"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 21,
+    "approval_holders": 18,
+    "earliest_marketing_start": "1982-10-01",
+    "latest_label_update": "2026-10-22",
+    "nda_bla_applications": 2,
+    "repackagers": 14
+  },
+  "unii": [
+    {
+      "ingredient": "COLCHICINE",
+      "unii": "SML2Y3J35T"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA215727"
+      ],
+      "brand_names": [
+        "LODOCO"
+      ],
+      "combination": false,
+      "home_inn": "colchicine",
+      "ingredients": [
+        "COLCHICINE"
+      ],
+      "labeler": "AGEPHA Pharma USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-06-16",
+      "moieties": [
+        "COLCHICINE"
+      ],
+      "product_ndcs": [
+        "82867-001"
+      ],
+      "rxcui": [
+        "197540",
+        "2663988"
+      ],
+      "setid": "ff06d68f-d65f-d097-e053-6294a90a7e5f",
+      "source": "dailymed-title-match",
+      "spl_version": 5,
+      "title": "LODOCO (COLCHICINE TABLETS 0.5 MG) TABLET [AGEPHA PHARMA USA, LLC]",
+      "upload_date": "2026-10-22"
+    },
+    {
+      "application_numbers": [
+        "NDA210942"
+      ],
+      "brand_names": [
+        "Gloperba"
+      ],
+      "combination": false,
+      "home_inn": "colchicine",
+      "ingredients": [
+        "COLCHICINE"
+      ],
+      "labeler": "Scilex Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-01-31",
+      "moieties": [
+        "COLCHICINE"
+      ],
+      "product_ndcs": [
+        "69557-222"
+      ],
+      "rxcui": [
+        "2118892",
+        "2180558"
+      ],
+      "setid": "467cd83f-d695-4040-9434-10e80b4271da",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "GLOPERBA (COLCHICINE) SOLUTION [SCILEX PHARMACEUTICALS INC.]",
+      "upload_date": "2024-11-05"
+    },
+    {
+      "application_numbers": [
+        "NDA204820"
+      ],
+      "brand_names": [
+        "Colchicine"
+      ],
+      "combination": false,
+      "home_inn": "colchicine",
+      "ingredients": [
+        "COLCHICINE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2014-10-01",
+      "moieties": [
+        "COLCHICINE"
+      ],
+      "product_ndcs": [
+        "0143-3018"
+      ],
+      "rxcui": [
+        "1550940"
+      ],
+      "setid": "ee1583ac-c308-4beb-b602-9ecac4977026",
+      "source": "dailymed-title-match",
+      "spl_version": 23,
+      "title": "COLCHICINE CAPSULE [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2026-10-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA204711"
+      ],
+      "brand_names": [
+        "Colchicine"
+      ],
+      "combination": false,
+      "home_inn": "colchicine",
+      "ingredients": [
+        "COLCHICINE"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-09-30",
+      "moieties": [
+        "COLCHICINE"
+      ],
+      "product_ndcs": [
+        "65162-710"
+      ],
+      "rxcui": [
+        "197541"
+      ],
+      "setid": "7daef7e2-888d-4116-81a9-2c02b9ef97ef",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "COLCHICINE TABLET [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2025-03-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA210633"
+      ],
+      "brand_names": [
+        "Colchicine"
+      ],
+      "combination": false,
+      "home_inn": "colchicine",
+      "ingredients": [
+        "COLCHICINE"
+      ],
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-04-24",
+      "moieties": [
+        "COLCHICINE"
+      ],
+      "product_ndcs": [
+        "33342-341"
+      ],
+      "rxcui": [
+        "197541"
+      ],
+      "setid": "9111bbad-b020-44fb-b276-d7853e5acd2c",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "COLCHICINE TABLET [MACLEODS PHARMACEUTICALS LIMITED]",
+      "upload_date": "2026-04-20"
+    },
+    {
+      "application_numbers": [
+        "ANDA211250"
+      ],
+      "brand_names": [
+        "colchicine"
+      ],
+      "combination": false,
+      "home_inn": "colchicine",
+      "ingredients": [
+        "COLCHICINE"
+      ],
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-02-10",
+      "moieties": [
+        "COLCHICINE"
+      ],
+      "product_ndcs": [
+        "67877-589"
+      ],
+      "rxcui": [
+        "197541"
+      ],
+      "setid": "a4284783-fea6-4af2-9a8d-79c929176c05",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "COLCHICINE TABLET [ASCEND LABORATORIES, LLC]",
+      "upload_date": "2026-06-26"
+    },
+    {
+      "application_numbers": [
+        "ANDA209470"
+      ],
+      "brand_names": [
+        "Colchicine"
+      ],
+      "combination": false,
+      "home_inn": "colchicine",
+      "ingredients": [
+        "COLCHICINE"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-11-25",
+      "moieties": [
+        "COLCHICINE"
+      ],
+      "product_ndcs": [
+        "0378-1086"
+      ],
+      "rxcui": [
+        "197541"
+      ],
+      "setid": "85acf34c-06c6-40ea-95f4-060d5de99277",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "COLCHICINE TABLET, FILM COATED [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2024-06-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA210425"
+      ],
+      "brand_names": [
+        "Colchicine"
+      ],
+      "combination": false,
+      "home_inn": "colchicine",
+      "ingredients": [
+        "COLCHICINE"
+      ],
+      "labeler": "Granules Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-05-13",
+      "moieties": [
+        "COLCHICINE"
+      ],
+      "product_ndcs": [
+        "70010-002"
+      ],
+      "rxcui": [
+        "197541"
+      ],
+      "setid": "dcf97364-b35f-4bc9-8a92-d3d2e05f47ac",
+      "source": "dailymed-title-match",
+      "spl_version": 13,
+      "title": "COLCHICINE TABLET, FILM COATED [GRANULES PHARMACEUTICALS INC.]",
+      "upload_date": "2026-10-12"
+    },
+    {
+      "application_numbers": [
+        "NDA022352"
+      ],
+      "archived_versions": 13,
+      "brand_names": [
+        "COLCRYS"
+      ],
+      "first_posted": "2012-07-02",
+      "found_by": "COLCRYS",
+      "labeler": "Takeda Pharmaceuticals America, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2025-07-25",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2026-04-30"
+      ],
+      "product_ndcs": [
+        "64764-119"
+      ],
+      "rxcui": [],
+      "setid": "56c130d1-7581-4152-99a2-0014ee9366c0",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "COLCRYS (colchicine) tablet, film coated"
+    },
+    {
+      "application_numbers": [
+        "NDA210942"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "GLOPERBA"
+      ],
+      "first_posted": "2019-08-08",
+      "found_by": "GLOPERBA",
+      "labeler": "Avion Pharmaceuticals, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2023-09-29",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-10-31"
+      ],
+      "product_ndcs": [
+        "75854-801"
+      ],
+      "rxcui": [],
+      "setid": "8f9ba661-b7aa-11fc-e053-2995a90a0bd1",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "467cd83f-d695-4040-9434-10e80b4271da"
+      ],
+      "title": "GLOPERBA (colchicine) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA204820"
+      ],
+      "archived_versions": 11,
+      "brand_names": [
+        "MITIGARE"
+      ],
+      "first_posted": "2014-10-01",
+      "found_by": "MITIGARE",
+      "labeler": "Hikma Specialty USA Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2026-10-19",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-11-24"
+      ],
+      "product_ndcs": [
+        "59467-318"
+      ],
+      "rxcui": [],
+      "setid": "cb5f9d85-6b81-49f8-bcd6-17b7bfbc10f2",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "ee1583ac-c308-4beb-b602-9ecac4977026"
+      ],
+      "title": "MITIGARE (colchicine) capsule"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Dr.Reddys Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2cd5298e-43c6-a8dc-4467-9a3e1ade9307"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1e7ef16d-262b-4dc0-92d6-7afe4aa21ebd"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dd93a40f-92ab-47ac-9083-b8a7a0b18ad6"
+    },
+    {
+      "combination": false,
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "72984aa2-6df9-4460-9926-399ffed30e36"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "16d8e0f4-567d-4de1-ac25-6e2527f1d58e"
+    },
+    {
+      "combination": false,
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "eb509994-6ecc-4599-b87a-98495fef6129"
+    },
+    {
+      "combination": false,
+      "labeler": "Granules Pharmaceutical Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "16d49c45-5b0a-a7fa-e063-6294a90a7320"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a1ff526f-e89f-4dca-80b6-653d6bdfd895"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b280f0dc-b24c-4606-aaf4-0673070d5b64"
+    },
+    {
+      "combination": false,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "efe34b7c-0e6e-4aeb-9718-cf9b8e19a302"
+    },
+    {
+      "combination": true,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a0567fe6-132b-463b-bc46-9f5a2a2478fb"
+    },
+    {
+      "combination": true,
+      "labeler": "Ingenus Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b85d3e27-70ff-4533-b463-410e4fb23813"
+    },
+    {
+      "combination": true,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3d2a3d4f-38a3-4669-ad78-ab1d7aef4ec3"
+    }
+  ]
+}

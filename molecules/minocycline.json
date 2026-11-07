@@ -1,0 +1,1002 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "MINOCYCLINE HYDROCHLORIDE"
+  ],
+  "inn": "minocycline",
+  "name": "MINOCYCLINE",
+  "rank": 132,
+  "rxcui": [
+    "197984",
+    "197985",
+    "207358",
+    "207362",
+    "207364",
+    "314108",
+    "317127",
+    "351121",
+    "351974",
+    "403840",
+    "629695",
+    "629697",
+    "629699",
+    "858062",
+    "858372",
+    "1013659",
+    "1013662",
+    "1013665",
+    "2257673",
+    "2257678",
+    "2375333",
+    "2375338",
+    "2706371",
+    "2706378"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 19,
+    "approval_holders": 12,
+    "earliest_marketing_start": "1993-05-01",
+    "latest_label_update": "2026-08-11",
+    "nda_bla_applications": 5,
+    "repackagers": 10
+  },
+  "unii": [
+    {
+      "ingredient": "MINOCYCLINE HYDROCHLORIDE",
+      "unii": "0020414E5U"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA050781"
+      ],
+      "brand_names": [
+        "Arestin"
+      ],
+      "combination": false,
+      "home_inn": "minocycline",
+      "ingredients": [
+        "MINOCYCLINE HYDROCHLORIDE"
+      ],
+      "labeler": "OraPharma, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2011-03-21",
+      "moieties": [
+        "MINOCYCLINE"
+      ],
+      "product_ndcs": [
+        "65976-100"
+      ],
+      "rxcui": [
+        "351121",
+        "351974"
+      ],
+      "setid": "8515df41-1936-4f3b-86ba-d2bb2a8441fb",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "ARESTIN (MINOCYCLINE HYDROCHLORIDE) POWDER [ORAPHARMA, INC.]",
+      "upload_date": "2024-08-16"
+    },
+    {
+      "application_numbers": [
+        "NDA050444"
+      ],
+      "brand_names": [
+        "Minocin"
+      ],
+      "combination": false,
+      "home_inn": "minocycline",
+      "ingredients": [
+        "MINOCYCLINE HYDROCHLORIDE"
+      ],
+      "labeler": "Melinta Therapeutics, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2013-04-19",
+      "moieties": [
+        "MINOCYCLINE"
+      ],
+      "product_ndcs": [
+        "70842-160"
+      ],
+      "rxcui": [
+        "207358",
+        "317127"
+      ],
+      "setid": "e415c323-8219-464b-9e3e-72c5a796cdaa",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "MINOCIN (MINOCYCLINE HYDROCHLORIDE) INJECTION [MELINTA THERAPEUTICS, LLC]",
+      "upload_date": "2025-09-18"
+    },
+    {
+      "application_numbers": [
+        "NDA212379"
+      ],
+      "brand_names": [
+        "AMZEEQ"
+      ],
+      "combination": false,
+      "home_inn": "minocycline",
+      "ingredients": [
+        "MINOCYCLINE HYDROCHLORIDE"
+      ],
+      "labeler": "Journey Medical Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-03-25",
+      "moieties": [
+        "MINOCYCLINE"
+      ],
+      "product_ndcs": [
+        "69489-201"
+      ],
+      "rxcui": [
+        "2257673",
+        "2257678"
+      ],
+      "setid": "cc251492-977b-4eb1-a088-a90831324bad",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "AMZEEQ (MINOCYCLINE) AEROSOL, FOAM [JOURNEY MEDICAL CORPORATION]",
+      "upload_date": "2024-12-12"
+    },
+    {
+      "application_numbers": [
+        "NDA213690"
+      ],
+      "brand_names": [
+        "ZILXI"
+      ],
+      "combination": false,
+      "home_inn": "minocycline",
+      "ingredients": [
+        "MINOCYCLINE HYDROCHLORIDE"
+      ],
+      "labeler": "Journey Medical Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-10-01",
+      "moieties": [
+        "MINOCYCLINE"
+      ],
+      "product_ndcs": [
+        "69489-212"
+      ],
+      "rxcui": [
+        "2375333",
+        "2375338"
+      ],
+      "setid": "cbffa96e-2446-43cf-ba5e-38c645302afd",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "ZILXI (MINOCYCLINE) AEROSOL, FOAM [JOURNEY MEDICAL CORPORATION]",
+      "upload_date": "2024-02-12"
+    },
+    {
+      "application_numbers": [
+        "NDA219015"
+      ],
+      "brand_names": [
+        "EMROSI"
+      ],
+      "combination": false,
+      "home_inn": "minocycline",
+      "ingredients": [
+        "MINOCYCLINE HYDROCHLORIDE"
+      ],
+      "labeler": "Journey Medical Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-03-01",
+      "moieties": [
+        "MINOCYCLINE"
+      ],
+      "product_ndcs": [
+        "69489-131"
+      ],
+      "rxcui": [
+        "2706371",
+        "2706378"
+      ],
+      "setid": "0899eb25-8807-037c-f66c-141a2696b1c0",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "EMROSI (MINOCYCLINE HYDROCHLORIDE EXTENDED-RELEASE) CAPSULE [JOURNEY MEDICAL CORPORATION]",
+      "upload_date": "2025-04-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA063065"
+      ],
+      "brand_names": [
+        "Minocycline Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "minocycline",
+      "ingredients": [
+        "MINOCYCLINE HYDROCHLORIDE"
+      ],
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1993-05-01",
+      "moieties": [
+        "MINOCYCLINE"
+      ],
+      "product_ndcs": [
+        "0591-5695"
+      ],
+      "rxcui": [
+        "197984",
+        "197985",
+        "314108"
+      ],
+      "setid": "a5fc4d50-50b2-46e0-b722-4c6b2ec47d06",
+      "source": "openfda",
+      "spl_version": 24,
+      "title": "MINOCYCLINE HYDROCHLORIDE CAPSULE [ACTAVIS PHARMA, INC.]",
+      "upload_date": "2026-08-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA065436"
+      ],
+      "brand_names": [
+        "Minocycline Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "minocycline",
+      "ingredients": [
+        "MINOCYCLINE HYDROCHLORIDE"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2007-12-26",
+      "moieties": [
+        "MINOCYCLINE"
+      ],
+      "product_ndcs": [
+        "62135-887",
+        "62135-888",
+        "62135-889"
+      ],
+      "rxcui": [
+        "207362",
+        "207364",
+        "403840"
+      ],
+      "setid": "43fbe7ff-4b67-474d-bf27-e5710d8d10ac",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "MINOCYCLINE HYDROCHLORIDE TABLET [CHARTWELL RX, LLC]",
+      "upload_date": "2025-06-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA065470"
+      ],
+      "brand_names": [
+        "Minocycline Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "minocycline",
+      "ingredients": [
+        "MINOCYCLINE HYDROCHLORIDE"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2008-03-11",
+      "moieties": [
+        "MINOCYCLINE"
+      ],
+      "product_ndcs": [
+        "65862-209",
+        "65862-210",
+        "65862-211"
+      ],
+      "rxcui": [
+        "197984",
+        "197985",
+        "314108"
+      ],
+      "setid": "9013ca48-15f2-43cd-a51d-91cf65c72a7c",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "MINOCYCLINE HYDROCHLORIDE CAPSULE [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2025-04-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA091424"
+      ],
+      "brand_names": [
+        "Minocycline Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "minocycline",
+      "ingredients": [
+        "MINOCYCLINE HYDROCHLORIDE"
+      ],
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-02-14",
+      "moieties": [
+        "MINOCYCLINE"
+      ],
+      "product_ndcs": [
+        "68180-379",
+        "68180-380",
+        "68180-381",
+        "68180-460"
+      ],
+      "rxcui": [
+        "629695",
+        "629697",
+        "629699",
+        "1013662"
+      ],
+      "setid": "3b1e1cf1-ebd2-4aba-a219-9f9939fdb03b",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "MINOCYCLINE HYDROCHLORIDE TABLET, EXTENDED RELEASE [LUPIN PHARMACEUTICALS, INC.]",
+      "upload_date": "2023-11-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA202261"
+      ],
+      "brand_names": [
+        "Minocycline Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "minocycline",
+      "ingredients": [
+        "MINOCYCLINE HYDROCHLORIDE"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-11-19",
+      "moieties": [
+        "MINOCYCLINE"
+      ],
+      "product_ndcs": [
+        "65862-554",
+        "65862-555",
+        "65862-556",
+        "65862-557",
+        "65862-558",
+        "65862-883",
+        "65862-884",
+        "65862-885"
+      ],
+      "rxcui": [
+        "629695",
+        "629697",
+        "629699",
+        "858062",
+        "858372",
+        "1013659",
+        "1013662",
+        "1013665"
+      ],
+      "setid": "e7b88a48-12b3-461d-b356-0d7ae4e8fd44",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "MINOCYCLINE HYDROCHLORIDE TABLET, FILM COATED, EXTENDED RELEASE [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2025-04-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA065156"
+      ],
+      "brand_names": [
+        "MINOCYCLINE HYDROCHLORIDE"
+      ],
+      "combination": false,
+      "home_inn": "minocycline",
+      "ingredients": [
+        "MINOCYCLINE HYDROCHLORIDE"
+      ],
+      "labeler": "Torrent Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-04-02",
+      "moieties": [
+        "MINOCYCLINE"
+      ],
+      "product_ndcs": [
+        "13668-485",
+        "13668-486",
+        "13668-487"
+      ],
+      "rxcui": [
+        "207362",
+        "207364",
+        "403840"
+      ],
+      "setid": "3539f84e-b489-4914-96c1-ac3731032971",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "MINOCYCLINE HYDROCHLORIDE TABLET [TORRENT PHARMACEUTICALS LIMITED]",
+      "upload_date": "2026-04-09"
+    },
+    {
+      "application_numbers": [
+        "NDA213690"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "ZILXI"
+      ],
+      "first_posted": "2020-10-01",
+      "found_by": "ZILXI",
+      "labeler": "Journey Medical Corporation",
+      "labeler_unverified": true,
+      "last_posted": "2026-01-12",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-12-31"
+      ],
+      "product_ndcs": [
+        "72356-103"
+      ],
+      "rxcui": [],
+      "setid": "116f9ade-1bdc-4162-98d8-d3a0c592f419",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "cbffa96e-2446-43cf-ba5e-38c645302afd"
+      ],
+      "title": "ZILXI (minocycline) aerosol, foam"
+    },
+    {
+      "application_numbers": [
+        "NDA050808"
+      ],
+      "archived_versions": 22,
+      "brand_names": [
+        "SOLODYN"
+      ],
+      "first_posted": "2007-08-15",
+      "found_by": "SOLODYN",
+      "labeler": "Bausch Health US LLC",
+      "labeler_unverified": false,
+      "last_posted": "2024-06-06",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-05-31",
+        "2014-02-28",
+        "2024-03-31",
+        "2024-06-30",
+        "2024-07-31",
+        "2024-10-31"
+      ],
+      "product_ndcs": [
+        "99207-460",
+        "99207-461",
+        "99207-462",
+        "99207-463",
+        "99207-464",
+        "99207-465",
+        "99207-466",
+        "99207-467"
+      ],
+      "rxcui": [],
+      "setid": "1b9dfa57-f295-4038-8aec-8efc54817d07",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "SOLODYN (minocycline hydrochloride) tablet, film coated, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA050444"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "MINOCIN"
+      ],
+      "first_posted": "2010-09-21",
+      "found_by": "MINOCIN",
+      "labeler": "Triax Pharmaceuticals, LLC",
+      "labeler_unverified": true,
+      "last_posted": "2013-04-23",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-04-18"
+      ],
+      "product_ndcs": [
+        "14290-545"
+      ],
+      "rxcui": [],
+      "setid": "3636a53b-caaf-4af9-8105-9a27ec7473c4",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "e415c323-8219-464b-9e3e-72c5a796cdaa"
+      ],
+      "title": "MINOCIN (minocycline hydrochloride) injection"
+    },
+    {
+      "application_numbers": [
+        "NDA050649"
+      ],
+      "archived_versions": 12,
+      "brand_names": [
+        "MINOCIN"
+      ],
+      "first_posted": "2014-11-13",
+      "found_by": "MINOCIN",
+      "labeler": "Bausch Health US, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2020-09-17",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2020-01-31",
+        "2020-08-31"
+      ],
+      "product_ndcs": [
+        "16781-400",
+        "16781-403"
+      ],
+      "rxcui": [],
+      "setid": "39aee369-b5dc-4ff4-98de-06fb4189c733",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "MINOCIN (minocycline hydrochloride) capsule, coated pellets"
+    },
+    {
+      "application_numbers": [
+        "NDA212379"
+      ],
+      "archived_versions": 10,
+      "brand_names": [
+        "AMZEEQ"
+      ],
+      "first_posted": "2019-11-04",
+      "found_by": "AMZEEQ",
+      "labeler": "Journey Medical Corporation",
+      "labeler_unverified": true,
+      "last_posted": "2023-12-18",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-03-31"
+      ],
+      "product_ndcs": [
+        "72356-101"
+      ],
+      "rxcui": [],
+      "setid": "5fd99a72-047f-4fd9-93c1-712599fd3870",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "cc251492-977b-4eb1-a088-a90831324bad"
+      ],
+      "title": "AMZEEQ (minocycline) aerosol, foam"
+    },
+    {
+      "application_numbers": [
+        "NDA050444"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "MINOCIN"
+      ],
+      "first_posted": "2013-04-23",
+      "found_by": "MINOCIN",
+      "labeler": "Rempex Pharmaceuticals, Inc",
+      "labeler_unverified": true,
+      "last_posted": "2020-02-14",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2016-12-31"
+      ],
+      "product_ndcs": [
+        "54531-100"
+      ],
+      "rxcui": [],
+      "setid": "609de469-5f90-405b-85c9-0a39133b916e",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "e415c323-8219-464b-9e3e-72c5a796cdaa"
+      ],
+      "title": "MINOCIN (minocycline hydrochloride) injection"
+    },
+    {
+      "application_numbers": [
+        "NDA050649"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "MINOCIN"
+      ],
+      "first_posted": "2008-03-19",
+      "found_by": "MINOCIN",
+      "labeler": "Triax Pharmaceuticals, LLC",
+      "labeler_unverified": true,
+      "last_posted": "2013-12-12",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-08-31"
+      ],
+      "product_ndcs": [
+        "14290-500",
+        "14290-501"
+      ],
+      "rxcui": [],
+      "setid": "614401aa-cda6-4cea-88e8-11967fbdde6b",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "MINOCIN (minocycline hydrochloride) capsule, coated pellets"
+    },
+    {
+      "application_numbers": [
+        "NDA201922"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "XIMINO"
+      ],
+      "first_posted": "2012-09-04",
+      "found_by": "XIMINO",
+      "labeler": "Sun Pharmaceutical Industries, Inc",
+      "labeler_unverified": false,
+      "last_posted": "2023-07-06",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-08-31"
+      ],
+      "product_ndcs": [
+        "10631-330",
+        "10631-331",
+        "10631-332"
+      ],
+      "rxcui": [],
+      "setid": "6e7d2a2f-e4b2-4d12-8d5d-e1c3a832b35c",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "XIMINO (minocycline hydrochloride) capsule, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA201922"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "XIMINO"
+      ],
+      "first_posted": "2021-01-21",
+      "found_by": "XIMINO",
+      "labeler": "Journey Medical Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2023-12-19",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "69489-121",
+        "69489-122",
+        "69489-123"
+      ],
+      "rxcui": [],
+      "setid": "8244053f-e89b-430b-97a7-021a0ed0151a",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "XIMINO (minocycline hydrochloride) capsule, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA050444"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "MINOCIN"
+      ],
+      "first_posted": "2015-04-30",
+      "found_by": "MINOCIN",
+      "labeler": "The Medicines Company",
+      "labeler_unverified": true,
+      "last_posted": "2020-02-19",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2020-09-30"
+      ],
+      "product_ndcs": [
+        "65293-014"
+      ],
+      "rxcui": [],
+      "setid": "84acbae4-d385-49d0-9e7b-5ae0e8de3053",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "e415c323-8219-464b-9e3e-72c5a796cdaa"
+      ],
+      "title": "MINOCIN (minocycline hydrochloride) injection"
+    },
+    {
+      "application_numbers": [
+        "NDA050649"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "MINOCIN"
+      ],
+      "first_posted": "2010-11-22",
+      "found_by": "MINOCIN",
+      "labeler": "Triax Pharmaceuticals, LLC",
+      "labeler_unverified": true,
+      "last_posted": "2013-11-20",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2016-01-31"
+      ],
+      "product_ndcs": [
+        "14290-570",
+        "14290-571"
+      ],
+      "rxcui": [],
+      "setid": "b1a6939e-8d77-449d-b55f-0fd9a500352a",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "MINOCIN KIT (minocycline hydrochloride) capsule, coated pellets"
+    },
+    {
+      "application_numbers": [
+        "NDA050649"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "MINOCIN"
+      ],
+      "first_posted": "2013-07-19",
+      "found_by": "MINOCIN",
+      "labeler": "Onset Dermatologics, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2015-06-24",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2016-01-31"
+      ],
+      "product_ndcs": [
+        "16781-401",
+        "16781-404"
+      ],
+      "rxcui": [],
+      "setid": "b87e8230-9631-4544-a6b8-251b415f44a9",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "MINOCIN (minocycline hydrochloride) kit"
+    },
+    {
+      "application_numbers": [
+        "NDA050808"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "SOLODYN"
+      ],
+      "first_posted": "2012-08-06",
+      "found_by": "SOLODYN",
+      "labeler": "WellSpring Pharmaceutical Canada Corp",
+      "labeler_unverified": true,
+      "last_posted": "2012-08-30",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2012-08-28"
+      ],
+      "product_ndcs": [
+        "67209-0460",
+        "67209-0461",
+        "67209-0462",
+        "67209-0463",
+        "67209-0464",
+        "67209-0465",
+        "67209-0466",
+        "67209-0467"
+      ],
+      "rxcui": [],
+      "setid": "c6472eca-af2b-4700-b1cf-36fb8564d649",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "SOLODYN (minocycline hydrochloride) tablet, film coated, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA050649"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "MINOCIN"
+      ],
+      "first_posted": "2013-05-23",
+      "found_by": "MINOCIN",
+      "labeler": "Onset Dermatologics, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2015-11-16",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-08-31",
+        "2016-01-31"
+      ],
+      "product_ndcs": [
+        "16781-400",
+        "16781-403"
+      ],
+      "rxcui": [],
+      "setid": "cc5f8686-1973-4ca4-8669-7c35c32bef73",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "MINOCIN (minocycline hydrochloride) capsule, coated pellets"
+    },
+    {
+      "application_numbers": [
+        "NDA209269"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "MINOLIRA"
+      ],
+      "first_posted": "2017-08-08",
+      "found_by": "MINOLIRA",
+      "labeler": "Dr. Reddys Laboratories Inc",
+      "labeler_unverified": false,
+      "last_posted": "2019-04-23",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-04-22"
+      ],
+      "product_ndcs": [
+        "43598-539",
+        "43598-540"
+      ],
+      "rxcui": [],
+      "setid": "f732096d-9e6d-2026-59f1-ee0dd412bb4d",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "MINOLIRA tablet, extended release"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Torrent Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "55df55fb-18ec-4e00-9ed0-10bba0da513b"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a8f95207-b259-4f50-87f2-3652d9268890"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "25acb785-6838-4e62-9e86-ddc30b2b759a"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "85f082a5-bba1-4441-ba28-4b8ec9a537f2"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "799a9871-3249-471e-b88d-5d8f7d4b96ad"
+    },
+    {
+      "combination": false,
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d6e136ba-c9b1-4846-ae2a-98a29cb4504d"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "26ee99af-f44b-4076-a08c-0a0dedc9edfe"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8bf9cf23-8ffc-401f-981d-4878d694a468"
+    }
+  ]
+}

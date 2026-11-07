@@ -1,0 +1,1250 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 9,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "only combination central products under this exact INN (combinations are not built)",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "VALSARTAN"
+  ],
+  "inn": "valsartan",
+  "name": "VALSARTAN",
+  "rank": 27,
+  "rxcui": [
+    "200284",
+    "200285",
+    "349199",
+    "349200",
+    "349201",
+    "349353",
+    "349483",
+    "351761",
+    "351762",
+    "352001",
+    "352274",
+    "636042",
+    "636045",
+    "722126",
+    "722131",
+    "722134",
+    "722137",
+    "724879",
+    "724887",
+    "724891",
+    "724895",
+    "809014",
+    "809018",
+    "809022",
+    "809026",
+    "809030",
+    "1656340",
+    "1656346",
+    "1656349",
+    "1656351",
+    "1656354",
+    "1656356",
+    "1996254",
+    "2679793",
+    "2679797",
+    "2679800",
+    "2679802"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 82,
+    "approval_holders": 42,
+    "earliest_marketing_start": "1998-03-06",
+    "latest_label_update": "2026-10-30",
+    "nda_bla_applications": 7,
+    "repackagers": 11
+  },
+  "unii": [
+    {
+      "ingredient": "VALSARTAN",
+      "unii": "80M03YXJ7I"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021283"
+      ],
+      "brand_names": [
+        "Diovan"
+      ],
+      "combination": false,
+      "home_inn": "valsartan",
+      "ingredients": [
+        "VALSARTAN"
+      ],
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2001-07-01",
+      "moieties": [
+        "VALSARTAN"
+      ],
+      "product_ndcs": [
+        "0078-0358",
+        "0078-0359",
+        "0078-0360",
+        "0078-0423",
+        "0078-1245",
+        "0078-1252",
+        "0078-1259"
+      ],
+      "rxcui": [
+        "349199",
+        "349200",
+        "349201",
+        "349483",
+        "351761",
+        "351762",
+        "352001",
+        "352274"
+      ],
+      "setid": "5ddba454-f3e6-43c2-a7a6-58365d297213",
+      "source": "openfda",
+      "spl_version": 32,
+      "title": "DIOVAN (VALSARTAN) TABLET [NOVARTIS PHARMACEUTICALS CORPORATION]",
+      "upload_date": "2026-08-13"
+    },
+    {
+      "application_numbers": [
+        "NDA209139"
+      ],
+      "brand_names": [
+        "PREXXARTAN"
+      ],
+      "combination": false,
+      "home_inn": "valsartan",
+      "ingredients": [
+        "VALSARTAN"
+      ],
+      "labeler": "AptaPharma Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2026-05-05",
+      "moieties": [
+        "VALSARTAN"
+      ],
+      "product_ndcs": [
+        "76281-155"
+      ],
+      "rxcui": [
+        "1996254"
+      ],
+      "setid": "508c5de8-9c70-57f5-e063-6394a90af295",
+      "source": "dailymed-title-match",
+      "spl_version": 2,
+      "title": "PREXXARTAN SOLUTION [APTAPHARMA INC.]",
+      "upload_date": "2026-09-28"
+    },
+    {
+      "application_numbers": [
+        "NDA020818"
+      ],
+      "brand_names": [
+        "Diovan HCT"
+      ],
+      "combination": true,
+      "home_inn": "hydrochlorothiazide",
+      "ingredients": [
+        "HYDROCHLOROTHIAZIDE",
+        "VALSARTAN"
+      ],
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1998-03-06",
+      "moieties": [
+        "HYDROCHLOROTHIAZIDE",
+        "VALSARTAN"
+      ],
+      "product_ndcs": [
+        "0078-0314",
+        "0078-0315",
+        "0078-0383",
+        "0078-0471",
+        "0078-0472"
+      ],
+      "rxcui": [
+        "200284",
+        "200285",
+        "349353",
+        "636042",
+        "636045",
+        "809014",
+        "809018",
+        "809022",
+        "809026",
+        "809030"
+      ],
+      "setid": "d76a0419-05ee-437e-884c-65807aea9569",
+      "source": "openfda",
+      "spl_version": 34,
+      "title": "DIOVAN HCT (VALSARTAN AND HYDROCHLOROTHIAZIDE) TABLET, FILM COATED [NOVARTIS PHARMACEUTICALS CORPORATION]",
+      "upload_date": "2026-02-16"
+    },
+    {
+      "application_numbers": [
+        "NDA021990"
+      ],
+      "brand_names": [
+        "Exforge"
+      ],
+      "combination": true,
+      "home_inn": "amlodipine",
+      "ingredients": [
+        "AMLODIPINE BESYLATE",
+        "VALSARTAN"
+      ],
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2007-06-20",
+      "moieties": [
+        "AMLODIPINE",
+        "VALSARTAN"
+      ],
+      "product_ndcs": [
+        "0078-0488",
+        "0078-0489",
+        "0078-0490",
+        "0078-0491"
+      ],
+      "rxcui": [
+        "722126",
+        "722131",
+        "722134",
+        "722137",
+        "724879",
+        "724887",
+        "724891",
+        "724895"
+      ],
+      "setid": "d0caec89-96ec-411d-a933-63eda74a6da7",
+      "source": "openfda",
+      "spl_version": 36,
+      "title": "EXFORGE (AMLODIPINE BESYLATE AND VALSARTAN) TABLET, FILM COATED [NOVARTIS PHARMACEUTICALS CORPORATION]",
+      "upload_date": "2026-02-18"
+    },
+    {
+      "application_numbers": [
+        "NDA022314"
+      ],
+      "brand_names": [
+        "Exforge HCT"
+      ],
+      "combination": true,
+      "home_inn": "hydrochlorothiazide",
+      "ingredients": [
+        "AMLODIPINE BESYLATE",
+        "HYDROCHLOROTHIAZIDE",
+        "VALSARTAN"
+      ],
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2009-04-04",
+      "moieties": [
+        "AMLODIPINE",
+        "HYDROCHLOROTHIAZIDE",
+        "VALSARTAN"
+      ],
+      "product_ndcs": [
+        "0078-0559",
+        "0078-0560",
+        "0078-0561",
+        "0078-0562",
+        "0078-0563"
+      ],
+      "rxcui": [],
+      "setid": "18d7820d-471f-4ee2-9ec6-25d8d27c77de",
+      "source": "dailymed-title-match",
+      "spl_version": 34,
+      "title": "EXFORGE HCT (AMLODIPINE VALSARTAN AND HYDROCHLOROTHIAZIDE) TABLET, FILM COATED [NOVARTIS PHARMACEUTICALS CORPORATION]",
+      "upload_date": "2026-10-30"
+    },
+    {
+      "application_numbers": [
+        "NDA207620",
+        "NDA218591"
+      ],
+      "brand_names": [
+        "ENTRESTO"
+      ],
+      "combination": true,
+      "home_inn": "valsartan",
+      "ingredients": [
+        "SACUBITRIL",
+        "VALSARTAN"
+      ],
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-07-07",
+      "moieties": [
+        "SACUBITRIL",
+        "VALSARTAN"
+      ],
+      "product_ndcs": [
+        "0078-0659",
+        "0078-0696",
+        "0078-0777",
+        "0078-1231",
+        "0078-1238",
+        "0078-9659",
+        "0078-9777"
+      ],
+      "rxcui": [
+        "1656340",
+        "1656346",
+        "1656349",
+        "1656351",
+        "1656354",
+        "1656356",
+        "2679793",
+        "2679797",
+        "2679800",
+        "2679802"
+      ],
+      "setid": "000dc81d-ab91-450c-8eae-8eb74e72296f",
+      "source": "openfda",
+      "spl_version": 25,
+      "title": "ENTRESTO (SACUBITRIL AND VALSARTAN) TABLET, FILM COATED ENTRESTO (SACUBITRIL AND VALSARTAN) PELLET [NOVARTIS PHARMACEUTICALS CORPORATION]",
+      "upload_date": "2026-07-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA077492"
+      ],
+      "brand_names": [
+        "VALSARTAN"
+      ],
+      "combination": false,
+      "home_inn": "valsartan",
+      "ingredients": [
+        "VALSARTAN"
+      ],
+      "labeler": "Ohm Laboratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-07-07",
+      "moieties": [
+        "VALSARTAN"
+      ],
+      "product_ndcs": [
+        "51660-140",
+        "51660-141",
+        "51660-142",
+        "51660-143"
+      ],
+      "rxcui": [
+        "349199",
+        "349200",
+        "349201",
+        "349483"
+      ],
+      "setid": "ab5e0e5a-5bdf-4cfc-9d18-57ea4d642f65",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "VALSARTAN TABLET, FILM COATED [OHM LABORATORIES INC.]",
+      "upload_date": "2026-08-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA203311"
+      ],
+      "brand_names": [
+        "Valsartan"
+      ],
+      "combination": false,
+      "home_inn": "valsartan",
+      "ingredients": [
+        "VALSARTAN"
+      ],
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-01-05",
+      "moieties": [
+        "VALSARTAN"
+      ],
+      "product_ndcs": [
+        "31722-745",
+        "31722-746",
+        "31722-747",
+        "31722-748"
+      ],
+      "rxcui": [
+        "349199",
+        "349200",
+        "349201",
+        "349483"
+      ],
+      "setid": "0ff36e83-b307-42db-a2ab-bae3f6805c20",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "VALSARTAN (VALSARTAN) TABLET, FILM COATED [CAMBER PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-01-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA090866"
+      ],
+      "brand_names": [
+        "Valsartan"
+      ],
+      "combination": false,
+      "home_inn": "valsartan",
+      "ingredients": [
+        "VALSARTAN"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-01-05",
+      "moieties": [
+        "VALSARTAN"
+      ],
+      "product_ndcs": [
+        "0378-5807",
+        "0378-5813",
+        "0378-5814",
+        "0378-5815"
+      ],
+      "rxcui": [
+        "349199",
+        "349200",
+        "349201",
+        "349483"
+      ],
+      "setid": "73e01dc6-7dd4-421a-a4f6-137e75f69f9a",
+      "source": "dailymed-title-match",
+      "spl_version": 16,
+      "title": "VALSARTAN TABLET, FILM COATED [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2026-09-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA203536"
+      ],
+      "brand_names": [
+        "valsartan"
+      ],
+      "combination": false,
+      "home_inn": "valsartan",
+      "ingredients": [
+        "VALSARTAN"
+      ],
+      "labeler": "Jubilant Cadista Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-01-05",
+      "moieties": [
+        "VALSARTAN"
+      ],
+      "product_ndcs": [
+        "59746-360",
+        "59746-361",
+        "59746-362",
+        "59746-393"
+      ],
+      "rxcui": [
+        "349199",
+        "349200",
+        "349201",
+        "349483"
+      ],
+      "setid": "9402b022-5809-4251-dfef-54f6ef5723fe",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "VALSARTAN TABLET VALSARTAN TABLET [JUBILANT CADISTA PHARMACEUTICALS INC.]",
+      "upload_date": "2026-08-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA201677"
+      ],
+      "brand_names": [
+        "Valsartan"
+      ],
+      "combination": false,
+      "home_inn": "valsartan",
+      "ingredients": [
+        "VALSARTAN"
+      ],
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-01-05",
+      "moieties": [
+        "VALSARTAN"
+      ],
+      "product_ndcs": [
+        "68180-276"
+      ],
+      "rxcui": [
+        "349199",
+        "349200",
+        "349201",
+        "349483"
+      ],
+      "setid": "9eb9d98e-7057-4ca0-91ab-2030bc0120a6",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "VALSARTAN TABLET [LUPIN PHARMACEUTICALS, INC.]",
+      "upload_date": "2024-03-25"
+    },
+    {
+      "application_numbers": [
+        "ANDA202223"
+      ],
+      "brand_names": [
+        "Valsartan"
+      ],
+      "combination": false,
+      "home_inn": "valsartan",
+      "ingredients": [
+        "VALSARTAN"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-01-05",
+      "moieties": [
+        "VALSARTAN"
+      ],
+      "product_ndcs": [
+        "65862-570",
+        "65862-571",
+        "65862-572",
+        "65862-573"
+      ],
+      "rxcui": [
+        "349199",
+        "349200",
+        "349201",
+        "349483"
+      ],
+      "setid": "a81a72dd-e828-4208-af9b-bb9ac4938537",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "VALSARTAN TABLET, FILM COATED [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2024-05-21"
+    },
+    {
+      "application_numbers": [
+        "NDA020665"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "DIOVAN"
+      ],
+      "first_posted": "2006-07-18",
+      "found_by": "DIOVAN",
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "labeler_unverified": true,
+      "last_posted": "2017-02-17",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2004-08-01"
+      ],
+      "product_ndcs": [
+        "0083-4000",
+        "0083-4001"
+      ],
+      "rxcui": [],
+      "setid": "0dd5fd1c-ab03-4860-87d6-4a95df6e7b7a",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "DIOVAN (valsartan) capsule"
+    },
+    {
+      "application_numbers": [
+        "NDA209139"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "PREXXARTAN"
+      ],
+      "first_posted": "2018-01-16",
+      "found_by": "PREXXARTAN",
+      "labeler": "Medicure International Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2026-03-16",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-01-02"
+      ],
+      "product_ndcs": [
+        "25208-100"
+      ],
+      "rxcui": [],
+      "setid": "df73d781-65d8-4aaa-9b0f-de4341f639ec",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "508c5de8-9c70-57f5-e063-6394a90af295"
+      ],
+      "title": "PREXXARTAN solution"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6e2cd953-88bf-4094-8ba8-2c9ba020f4d7"
+    },
+    {
+      "combination": false,
+      "labeler": "Solco Healthcare US, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "26080940-bcd3-446d-9026-3ddfb58e281e"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f4a5df78-157b-4996-845c-235234250f11"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "251ccff4-bf86-453b-9d1c-e3c1ecfd3a46"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "75235313-8a07-8849-9b5a-12887992033e"
+    },
+    {
+      "combination": false,
+      "labeler": "Unichem Pharmaceuticals (USA), Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "93b82a9f-dc0a-4f7d-b0d4-4adf0d917b7e"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7b4ecaf9-e84c-4660-9cd1-65a238efd8a8"
+    },
+    {
+      "combination": false,
+      "labeler": "ScieGen Pharmaceuticals, INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1a8af3d9-4053-4233-82a7-e8c7bc9e302f"
+    },
+    {
+      "combination": false,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "959b6790-feb7-45a9-9ea4-0ee1a7fce048"
+    },
+    {
+      "combination": false,
+      "labeler": "SQUARE PHARMACEUTICALS LIMITED",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5ee97546-2a7c-40fa-9e05-b7993a72dfbf"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1b60c816-7399-42c3-8b74-4dc9d82873ec"
+    },
+    {
+      "combination": false,
+      "labeler": "Advagen Pharma Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "47137b1a-f2b0-49af-99f0-6fb4f5a16578"
+    },
+    {
+      "combination": false,
+      "labeler": "Laurus Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6e1f63ad-e554-421b-a699-4e8c9bd4d239"
+    },
+    {
+      "combination": true,
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3ba1f9f9-0037-4522-8605-e27dc8552b5b"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c5bc7c55-b50c-4e61-ad1f-5ebb607c262f"
+    },
+    {
+      "combination": true,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d74a85de-5917-401a-b92d-6a95da5d30a6"
+    },
+    {
+      "combination": true,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "771afba6-8769-4ea8-afec-358dba0aaefe"
+    },
+    {
+      "combination": true,
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "aa7e7d95-520a-461c-b1b3-e588aeb6a613"
+    },
+    {
+      "combination": true,
+      "labeler": "Lupin Pharmaceuticals,Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e05dd72c-7475-422e-bf8e-73148929450e"
+    },
+    {
+      "combination": true,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "35086164-bf92-4b3c-9845-f8cd7464c7d6"
+    },
+    {
+      "combination": true,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5dbb43b1-3ea4-4fa5-a9aa-95d869ae65fe"
+    },
+    {
+      "combination": true,
+      "labeler": "Solco Healthcare US, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f8b0a8ab-4549-4553-a127-bf2c0291a4b1"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7fa25f10-29e0-4162-81a8-9d2e03054ded"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3b80f726-9e1e-4d44-ad4f-afd10e26292f"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6894085d-6076-4e2e-8105-a9bbb0bd93ef"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6fba5243-ee00-4825-a04a-321cb6b49c56"
+    },
+    {
+      "combination": true,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bd199010-1d85-4011-939c-4704ecfaba1f"
+    },
+    {
+      "combination": true,
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9b76e441-e6a5-4036-8276-b7788ade5c44"
+    },
+    {
+      "combination": true,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "55a1d22e-04ad-4475-9b05-0d534e289160"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c9acbc95-3629-4276-842b-5c074844dba7"
+    },
+    {
+      "combination": true,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "103c39e2-f3c8-40fc-a57e-3af018fb4af4"
+    },
+    {
+      "combination": true,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5dfadaf0-c333-4b79-9a97-e42f77505c40"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5928f174-83e5-4c74-b15a-138338a70295"
+    },
+    {
+      "combination": true,
+      "labeler": "Laurus Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b47b5c7e-1c20-429c-9560-07f5f06cdce3"
+    },
+    {
+      "combination": true,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1ea4f227-b97a-49f1-bbc3-1dede2c1866d"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e4011f11-2035-4f32-8df6-b1580c2a6e2a"
+    },
+    {
+      "combination": true,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4c871c01-0564-411f-87e2-478aa42503cf"
+    },
+    {
+      "combination": true,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "44db8114-622e-41f6-96a1-447d47b0267c"
+    },
+    {
+      "combination": true,
+      "labeler": "Torrent Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "59b7a07a-96ee-44b1-8dae-2b42169aa2c5"
+    },
+    {
+      "combination": true,
+      "labeler": "Novugen Pharma (USA) LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "747eeb5c-ac2f-474f-b6d2-0586d12653a6"
+    },
+    {
+      "combination": true,
+      "labeler": "Dr. Reddy's Laboratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f4789255-b59b-544b-bbbe-2edd07da6079"
+    },
+    {
+      "combination": true,
+      "labeler": "Biocon Pharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7de9b8e0-195a-b59e-7bbf-3e95c4096af9"
+    },
+    {
+      "combination": true,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "65a3e298-279d-4498-a7be-5f9ee5bc77d8"
+    },
+    {
+      "combination": true,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "98d838f6-03a9-43e9-b8dd-8882c6df1631"
+    },
+    {
+      "combination": true,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "76cbb87b-6356-4ead-af7f-faffb6e79743"
+    },
+    {
+      "combination": true,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4f88efbb-3718-43a1-91d4-da5943ccfca1"
+    },
+    {
+      "combination": true,
+      "labeler": "ScieGen Pharmaceuticals, INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "17362ff8-07bb-42c6-a100-8adb93be0348"
+    },
+    {
+      "combination": true,
+      "labeler": "Umedica Laboratories USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3173e592-6f28-4864-9bf0-0ef0452da3de"
+    },
+    {
+      "combination": true,
+      "labeler": "Cadila Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "97be7df1-143e-4bff-aed3-2b9ec11d30b3"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ccfa182e-8a23-42e1-9062-be2655c96208"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8478a05f-38fd-412d-af49-69a73a787c8f"
+    },
+    {
+      "combination": false,
+      "labeler": "AvKARE",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a8c61488-4219-dfcb-e053-2a95a90a98a4"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d6e84105-9394-4ef0-928c-20d07d3fbaa9"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifsa Drugs LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "130e1659-9c2d-49ca-9db8-d28aa23fd133"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f13587f8-76cb-49ad-9291-5907249d6b8e"
+    },
+    {
+      "combination": false,
+      "labeler": "Viona Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bd7b35c7-9f01-4afd-b497-bbe0f3d69b29"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "973973a3-9fec-4afc-910f-187f099dfe2d"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a9c442dc-749e-4de0-bca3-1044eb78da72"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d5a1db33-3046-407c-a557-6b41642164a9"
+    },
+    {
+      "combination": true,
+      "labeler": "AvKARE",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "05ba1369-6484-75d4-e063-6294a90a63e4"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e4716fc9-5f73-4303-8a4e-e8f9129b6e2d"
+    },
+    {
+      "combination": true,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4ed0dbe4-8752-43c5-8c28-17c9638a52d6"
+    },
+    {
+      "combination": true,
+      "labeler": "Novugen Pharma (USA) LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ec37696b-eaac-4c74-9328-94857ce998e5"
+    },
+    {
+      "combination": true,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a0f23b69-5a1b-4aa8-8f0c-5818bd609492"
+    },
+    {
+      "combination": true,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a1fa7066-8ab4-47e3-a701-6c5170700d11"
+    },
+    {
+      "combination": true,
+      "labeler": "XLCare Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "064a7c51-de30-4759-8210-e18438e6a187"
+    },
+    {
+      "combination": true,
+      "labeler": "Major Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f2cba3db-0256-422a-a8a4-7afb3a9970d0"
+    },
+    {
+      "combination": true,
+      "labeler": "AvKARE",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "43bcdbc7-a635-bb4e-e063-6294a90a990f"
+    },
+    {
+      "combination": true,
+      "labeler": "Golden State Medical Supply, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8290ae4c-0d1e-47f6-8029-ddc1c0bd6f6d"
+    },
+    {
+      "combination": true,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "998db1e1-3f32-4812-a64b-5a6870ef7f8f"
+    }
+  ]
+}

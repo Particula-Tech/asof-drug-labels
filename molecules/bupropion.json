@@ -1,0 +1,1327 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 1,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "only combination central products under this exact INN (combinations are not built)",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "BUPROPION HYDROBROMIDE",
+    "BUPROPION HYDROCHLORIDE"
+  ],
+  "inn": "bupropion",
+  "name": "BUPROPION",
+  "rank": 25,
+  "rxcui": [
+    "993503",
+    "993511",
+    "993518",
+    "993528",
+    "993536",
+    "993537",
+    "993541",
+    "993545",
+    "993550",
+    "993552",
+    "993557",
+    "993564",
+    "993567",
+    "993569",
+    "993681",
+    "993683",
+    "993687",
+    "993691",
+    "1232585",
+    "1232591",
+    "1551468",
+    "1551474",
+    "2611260",
+    "2611266",
+    "2741701",
+    "2741703",
+    "2744512",
+    "2744513",
+    "2744514",
+    "2744515"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 68,
+    "approval_holders": 43,
+    "earliest_marketing_start": "1996-11-15",
+    "latest_label_update": "2026-10-30",
+    "nda_bla_applications": 6,
+    "repackagers": 27
+  },
+  "unii": [
+    {
+      "ingredient": "BUPROPION HYDROBROMIDE",
+      "unii": "E70G3G5863"
+    },
+    {
+      "ingredient": "BUPROPION HYDROCHLORIDE",
+      "unii": "ZG7E5POY8O"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020358"
+      ],
+      "brand_names": [
+        "WELLBUTRIN SR"
+      ],
+      "combination": false,
+      "home_inn": "bupropion",
+      "ingredients": [
+        "BUPROPION HYDROCHLORIDE"
+      ],
+      "labeler": "GlaxoSmithKline LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1996-11-15",
+      "moieties": [
+        "BUPROPION"
+      ],
+      "product_ndcs": [
+        "0173-0135",
+        "0173-0722",
+        "0173-0947"
+      ],
+      "rxcui": [
+        "993503",
+        "993511",
+        "993518",
+        "993528",
+        "993536",
+        "993537"
+      ],
+      "setid": "cbc8c074-f080-4489-a5ae-207b5fadeba3",
+      "source": "openfda",
+      "spl_version": 39,
+      "title": "WELLBUTRIN SR (BUPROPION HYDROCHLORIDE) TABLET, FILM COATED [GLAXOSMITHKLINE LLC]",
+      "upload_date": "2026-04-30"
+    },
+    {
+      "application_numbers": [
+        "NDA021515"
+      ],
+      "brand_names": [
+        "WELLBUTRIN XL"
+      ],
+      "combination": false,
+      "home_inn": "bupropion",
+      "ingredients": [
+        "BUPROPION HYDROCHLORIDE"
+      ],
+      "labeler": "Bausch Health US LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2003-08-29",
+      "moieties": [
+        "BUPROPION"
+      ],
+      "product_ndcs": [
+        "0187-0730",
+        "0187-0731"
+      ],
+      "rxcui": [
+        "993541",
+        "993545",
+        "993557",
+        "993564"
+      ],
+      "setid": "a435da9d-f6e8-4ddc-897d-8cd2bf777b21",
+      "source": "openfda",
+      "spl_version": 27,
+      "title": "WELLBUTRIN XL (BUPROPION HYDROCHLORIDE) TABLET, EXTENDED RELEASE [BAUSCH HEALTH US LLC]",
+      "upload_date": "2026-02-06"
+    },
+    {
+      "application_numbers": [
+        "NDA022108"
+      ],
+      "brand_names": [
+        "Aplenzin"
+      ],
+      "combination": false,
+      "home_inn": "bupropion",
+      "ingredients": [
+        "BUPROPION HYDROBROMIDE"
+      ],
+      "labeler": "Bausch Health US, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2008-04-23",
+      "moieties": [
+        "BUPROPION"
+      ],
+      "product_ndcs": [
+        "0187-5810",
+        "0187-5811",
+        "0187-5812"
+      ],
+      "rxcui": [
+        "993550",
+        "993552",
+        "993567",
+        "993569",
+        "993681",
+        "993683"
+      ],
+      "setid": "6494d2d9-0ce4-4126-b1c7-49684395942b",
+      "source": "openfda",
+      "spl_version": 27,
+      "title": "APLENZIN (BUPROPION HYDROBROMIDE) TABLET, EXTENDED RELEASE [BAUSCH HEALTH US, LLC]",
+      "upload_date": "2026-03-05"
+    },
+    {
+      "application_numbers": [
+        "NDA022497"
+      ],
+      "brand_names": [
+        "Forfivo XL"
+      ],
+      "combination": false,
+      "home_inn": "bupropion",
+      "ingredients": [
+        "BUPROPION HYDROCHLORIDE"
+      ],
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-12-15",
+      "moieties": [
+        "BUPROPION"
+      ],
+      "product_ndcs": [
+        "24979-247"
+      ],
+      "rxcui": [
+        "1232585",
+        "1232591"
+      ],
+      "setid": "80b01182-dc94-4990-8ebb-55c306d7e536",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "FORFIVO XL (BUPROPION HYDROCHLORIDE) TABLET, FILM COATED, EXTENDED RELEASE [UPSHER-SMITH LABORATORIES, LLC]",
+      "upload_date": "2025-12-08"
+    },
+    {
+      "application_numbers": [
+        "NDA200063"
+      ],
+      "brand_names": [
+        "Contrave Extended-Release"
+      ],
+      "combination": true,
+      "home_inn": "bupropion",
+      "ingredients": [
+        "BUPROPION HYDROCHLORIDE",
+        "NALTREXONE HYDROCHLORIDE"
+      ],
+      "labeler": "Nalpropion Pharmaceuticals LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2014-10-22",
+      "moieties": [
+        "BUPROPION",
+        "NALTREXONE"
+      ],
+      "product_ndcs": [
+        "51267-890"
+      ],
+      "rxcui": [
+        "1551468",
+        "1551474"
+      ],
+      "setid": "485ff360-32c8-11df-928b-0002a5d5c51b",
+      "source": "openfda",
+      "spl_version": 27,
+      "title": "CONTRAVE EXTENDED-RELEASE (NALTREXONE HYDROCHLORIDE AND BUPROPION HYDROCHLORIDE) TABLET, EXTENDED RELEASE [NALPROPION PHARMACEUTICALS LLC]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "NDA215430"
+      ],
+      "brand_names": [
+        "AUVELITY"
+      ],
+      "combination": true,
+      "home_inn": "bupropion",
+      "ingredients": [
+        "BUPROPION HYDROCHLORIDE",
+        "DEXTROMETHORPHAN HYDROBROMIDE"
+      ],
+      "labeler": "Axsome Therapeutics, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-08-18",
+      "moieties": [
+        "BUPROPION",
+        "DEXTROMETHORPHAN"
+      ],
+      "product_ndcs": [
+        "81968-030",
+        "81968-045",
+        "81968-345",
+        "81968-453"
+      ],
+      "rxcui": [
+        "2611260",
+        "2611266",
+        "2741701",
+        "2741703",
+        "2744512",
+        "2744513",
+        "2744514",
+        "2744515"
+      ],
+      "setid": "dcefda7c-9a68-278e-e053-2995a90aec79",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "AUVELITY (DEXTROMETHORPHAN HYDROBROMIDE, BUPROPION HYDROCHLORIDE) TABLET, MULTILAYER, EXTENDED RELEASE AUVELITY (DEXTROMETHORPHAN HYDROBROMIDE, BUPROPION HYDROCHLORIDE) KIT [AXSOME THERAPEUTICS, INC.]",
+      "upload_date": "2026-08-19"
+    },
+    {
+      "application_numbers": [
+        "NDA022497"
+      ],
+      "brand_names": [
+        "BUPROPION HCl ER (XL)"
+      ],
+      "combination": false,
+      "home_inn": "bupropion",
+      "ingredients": [
+        "BUPROPION HYDROCHLORIDE"
+      ],
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2026-05-01",
+      "moieties": [
+        "BUPROPION"
+      ],
+      "product_ndcs": [
+        "70756-830"
+      ],
+      "rxcui": [
+        "1232585"
+      ],
+      "setid": "df959e1b-3f6d-42cf-8521-fe03b5a4ceb8",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "BUPROPION HCL ER (XL) (BUPROPION HCL ER) TABLET, EXTENDED RELEASE [LIFESTAR PHARMA LLC]",
+      "upload_date": "2026-05-01"
+    },
+    {
+      "application_numbers": [
+        "NDA022497"
+      ],
+      "brand_names": [
+        "bupropion hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "bupropion",
+      "ingredients": [
+        "BUPROPION HYDROCHLORIDE"
+      ],
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2023-12-15",
+      "moieties": [
+        "BUPROPION"
+      ],
+      "product_ndcs": [
+        "24979-248"
+      ],
+      "rxcui": [
+        "1232585"
+      ],
+      "setid": "98d5977f-9b32-46db-bd36-a2c4d1b0710a",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "BUPROPION HYDROCHLORIDE TABLET, FILM COATED, EXTENDED RELEASE [UPSHER-SMITH LABORATORIES, LLC]",
+      "upload_date": "2026-07-23"
+    },
+    {
+      "application_numbers": [
+        "NDA022108"
+      ],
+      "brand_names": [
+        "Bupropion Hydrobromide"
+      ],
+      "combination": false,
+      "home_inn": "bupropion",
+      "ingredients": [
+        "BUPROPION HYDROBROMIDE"
+      ],
+      "labeler": "Oceanside Pharmaceuticals",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2026-06-29",
+      "moieties": [
+        "BUPROPION"
+      ],
+      "product_ndcs": [
+        "68682-580",
+        "68682-581",
+        "68682-582"
+      ],
+      "rxcui": [
+        "993550",
+        "993567",
+        "993681"
+      ],
+      "setid": "3ec04240-baef-44d7-8d73-a181171eec43",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "BUPROPION HYDROBROMIDE TABLET, EXTENDED RELEASE [OCEANSIDE PHARMACEUTICALS]",
+      "upload_date": "2026-07-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA076711"
+      ],
+      "brand_names": [
+        "Bupropion Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "bupropion",
+      "ingredients": [
+        "BUPROPION HYDROCHLORIDE"
+      ],
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2004-12-03",
+      "moieties": [
+        "BUPROPION"
+      ],
+      "product_ndcs": [
+        "0115-5445"
+      ],
+      "rxcui": [
+        "993536"
+      ],
+      "setid": "e962fb9a-d9fb-49c5-a8b4-0b355b8f829b",
+      "source": "openfda",
+      "spl_version": 27,
+      "title": "BUPROPION HYDROCHLORIDE TABLET, FILM COATED, EXTENDED RELEASE [AMNEAL PHARMACEUTICALS OF NEW YORK LLC]",
+      "upload_date": "2024-05-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA076143",
+        "ANDA210497",
+        "ANDA215568"
+      ],
+      "brand_names": [
+        "BUPROPION HYDROCHLORIDE",
+        "Bupropion Hydrochloride",
+        "Bupropion hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "bupropion",
+      "ingredients": [
+        "BUPROPION HYDROCHLORIDE"
+      ],
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2006-01-17",
+      "moieties": [
+        "BUPROPION"
+      ],
+      "product_ndcs": [
+        "68001-308",
+        "68001-309",
+        "68001-519",
+        "68001-520",
+        "68001-613",
+        "68001-614"
+      ],
+      "rxcui": [
+        "993687",
+        "993691"
+      ],
+      "setid": "7d035056-44ab-444d-9d27-125b3f571140",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "BUPROPION HYDROCHLORIDE TABLET, FILM COATED [BLUEPOINT LABORATORIES]",
+      "upload_date": "2025-12-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA077285",
+        "ANDA077715"
+      ],
+      "brand_names": [
+        "Bupropion Hydrochloride",
+        "Bupropion Hydrochloride XL"
+      ],
+      "combination": false,
+      "home_inn": "bupropion",
+      "ingredients": [
+        "BUPROPION HYDROCHLORIDE"
+      ],
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2008-11-26",
+      "moieties": [
+        "BUPROPION"
+      ],
+      "product_ndcs": [
+        "0591-3331",
+        "45963-142"
+      ],
+      "rxcui": [
+        "993541"
+      ],
+      "setid": "a1e768fd-c28f-4b49-822d-ccc315b4099c",
+      "source": "dailymed-title-match",
+      "spl_version": 42,
+      "title": "BUPROPION HYDROCHLORIDE XL (BUPROPION HYDROCHLORIDE) TABLET, FILM COATED, EXTENDED RELEASE [ACTAVIS PHARMA, INC.]",
+      "upload_date": "2026-10-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA077415"
+      ],
+      "brand_names": [
+        "Bupropion Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "bupropion",
+      "ingredients": [
+        "BUPROPION HYDROCHLORIDE"
+      ],
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-05-01",
+      "moieties": [
+        "BUPROPION"
+      ],
+      "product_ndcs": [
+        "0115-6811"
+      ],
+      "rxcui": [
+        "993541"
+      ],
+      "setid": "fddc9630-2f9a-4104-888f-3714587d4fe7",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "BUPROPION HYDROCHLORIDE TABLET, FILM COATED, EXTENDED RELEASE [AMNEAL PHARMACEUTICALS OF NEW YORK LLC]",
+      "upload_date": "2025-03-28"
+    },
+    {
+      "application_numbers": [
+        "NDA022497"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "FORFIVO"
+      ],
+      "first_posted": "2012-06-29",
+      "found_by": "FORFIVO",
+      "labeler": "IntelGenx Corp",
+      "labeler_unverified": true,
+      "last_posted": "2012-08-07",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2012-07-31"
+      ],
+      "product_ndcs": [
+        "14350-450"
+      ],
+      "rxcui": [],
+      "setid": "54c6ab59-6645-ae3e-810c-9c1a698feefb",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "80b01182-dc94-4990-8ebb-55c306d7e536",
+        "98d5977f-9b32-46db-bd36-a2c4d1b0710a",
+        "df959e1b-3f6d-42cf-8521-fe03b5a4ceb8"
+      ],
+      "title": "FORFIVO XL (bupropion hydrochloride) tablet, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA022108"
+      ],
+      "archived_versions": 11,
+      "brand_names": [
+        "APLENZIN"
+      ],
+      "first_posted": "2010-03-05",
+      "found_by": "APLENZIN",
+      "labeler": "sanofi-aventis U.S. LLC",
+      "labeler_unverified": false,
+      "last_posted": "2018-09-26",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-03-31"
+      ],
+      "product_ndcs": [
+        "0024-5810",
+        "0024-5811",
+        "0024-5812"
+      ],
+      "rxcui": [],
+      "setid": "5cb7fd36-ae36-409b-af79-9c432e1cf5d9",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "3ec04240-baef-44d7-8d73-a181171eec43",
+        "6494d2d9-0ce4-4126-b1c7-49684395942b"
+      ],
+      "title": "APLENZIN (bupropion hydrobromide) tablet, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA018644"
+      ],
+      "archived_versions": 24,
+      "brand_names": [
+        "WELLBUTRIN"
+      ],
+      "first_posted": "2008-09-11",
+      "found_by": "WELLBUTRIN",
+      "labeler": "GlaxoSmithKline LLC",
+      "labeler_unverified": false,
+      "last_posted": "2024-06-17",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2016-08-31",
+        "2016-11-30"
+      ],
+      "product_ndcs": [
+        "0173-0177",
+        "0173-0178"
+      ],
+      "rxcui": [],
+      "setid": "60525754-0d2b-4ba4-918a-1c9d3eff89b2",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "WELLBUTRIN (bupropion hydrochloride) tablet, film coated"
+    },
+    {
+      "application_numbers": [
+        "NDA022497"
+      ],
+      "archived_versions": 8,
+      "brand_names": [
+        "FORFIVO"
+      ],
+      "first_posted": "2012-10-01",
+      "found_by": "FORFIVO",
+      "labeler": "Edgemont Pharmaceuticals, LLC",
+      "labeler_unverified": true,
+      "last_posted": "2018-07-03",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2020-01-31"
+      ],
+      "product_ndcs": [
+        "49909-010"
+      ],
+      "rxcui": [],
+      "setid": "677a2372-2789-4fe0-8482-43d95d16975a",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "80b01182-dc94-4990-8ebb-55c306d7e536",
+        "98d5977f-9b32-46db-bd36-a2c4d1b0710a",
+        "df959e1b-3f6d-42cf-8521-fe03b5a4ceb8"
+      ],
+      "title": "FORFIVO XL (bupropion hydrochloride) tablet, film coated, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA022497"
+      ],
+      "archived_versions": 8,
+      "brand_names": [
+        "FORFIVO"
+      ],
+      "first_posted": "2017-05-16",
+      "found_by": "FORFIVO",
+      "labeler": "Almatica Pharma Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2024-04-30",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-01-01"
+      ],
+      "product_ndcs": [
+        "52427-575"
+      ],
+      "rxcui": [],
+      "setid": "6917be04-3eff-be1f-99cc-1a20093a6ef0",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "80b01182-dc94-4990-8ebb-55c306d7e536",
+        "98d5977f-9b32-46db-bd36-a2c4d1b0710a",
+        "df959e1b-3f6d-42cf-8521-fe03b5a4ceb8"
+      ],
+      "title": "FORFIVO XL (bupropion hydrochloride) tablet, film coated, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA021515"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "WELLBUTRIN"
+      ],
+      "first_posted": "2008-09-11",
+      "found_by": "WELLBUTRIN",
+      "labeler": "GlaxoSmithKline LLC",
+      "labeler_unverified": false,
+      "last_posted": "2010-02-12",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2009-05-14"
+      ],
+      "product_ndcs": [
+        "0173-0730",
+        "0173-0731"
+      ],
+      "rxcui": [],
+      "setid": "791508a9-1463-4a2d-84bf-a5ac0c6f591b",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "a435da9d-f6e8-4ddc-897d-8cd2bf777b21"
+      ],
+      "title": "WELLBUTRIN (bupropion hydrochloride) tablet, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA021515"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "WELLBUTRIN"
+      ],
+      "first_posted": "2009-12-24",
+      "found_by": "WELLBUTRIN",
+      "labeler": "BTA Pharmaceuticals",
+      "labeler_unverified": true,
+      "last_posted": "2013-05-03",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-10-31",
+        "2014-04-30"
+      ],
+      "product_ndcs": [
+        "64455-730",
+        "64455-731"
+      ],
+      "rxcui": [],
+      "setid": "9bfe1903-3313-44b7-a27c-fc0775426f94",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "a435da9d-f6e8-4ddc-897d-8cd2bf777b21"
+      ],
+      "title": "WELLBUTRIN XL (bupropion hydrochloride) tablet, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA020711"
+      ],
+      "archived_versions": 26,
+      "brand_names": [
+        "ZYBAN"
+      ],
+      "first_posted": "2008-09-11",
+      "found_by": "ZYBAN",
+      "labeler": "GlaxoSmithKline LLC",
+      "labeler_unverified": false,
+      "last_posted": "2021-03-18",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2020-01-31"
+      ],
+      "product_ndcs": [
+        "0173-0556"
+      ],
+      "rxcui": [],
+      "setid": "a3327c31-d987-40ec-b3b5-097bbf2f4f8c",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ZYBAN (bupropion hydrochloride) tablet, film coated"
+    },
+    {
+      "application_numbers": [
+        "NDA200063"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "CONTRAVE"
+      ],
+      "first_posted": "2014-09-26",
+      "found_by": "CONTRAVE",
+      "labeler": "Takeda Pharmaceuticals America, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2019-08-20",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-08-15"
+      ],
+      "product_ndcs": [
+        "64764-890"
+      ],
+      "rxcui": [],
+      "setid": "ed2da3a6-0614-4bea-8e82-962cbaae6428",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "485ff360-32c8-11df-928b-0002a5d5c51b"
+      ],
+      "title": "CONTRAVE (naltrexone hydrochloride and bupropion hydrochloride) tablet, film coated, extended release"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "78d34aad-9d4f-48c4-91eb-536e31c6b6c9"
+    },
+    {
+      "combination": false,
+      "labeler": "Solco Healthcare US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "39b2d509-1281-4464-9cf1-a94bbc18b84b"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e4e38abf-ef67-405b-af2d-3d8e4533654d"
+    },
+    {
+      "combination": false,
+      "labeler": "Cipla USA Inc.,",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9d2c209b-248e-4e26-9cde-fe0abe4428c1"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddys Laboratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6948f63b-599c-4956-a249-e9544beda9fc"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8069c521-c49a-4b6d-baa8-4b0be897d585"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "620fab1e-aafb-444d-ab81-63281cd139c5"
+    },
+    {
+      "combination": false,
+      "labeler": "CIPLA USA INC.,",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c2cf79d7-1aba-4391-980b-5e218781f7c6"
+    },
+    {
+      "combination": false,
+      "labeler": "ScieGen Pharmaceuticals,Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "05f82eca-cc87-4580-acd7-e6491c651881"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1af14d2e-c64d-44b7-a402-8869e8e30661"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8d9779e7-300e-4720-8ba5-2272b2506cd9"
+    },
+    {
+      "combination": false,
+      "labeler": "Epic Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "178c7129-a752-4ad9-ac82-4473e23bbacc"
+    },
+    {
+      "combination": false,
+      "labeler": "CIPLA USA INC.,",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e4100232-a25d-4468-9057-af7e66205154"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ef0bb8f2-7710-4236-8b47-57b74c8bca3e"
+    },
+    {
+      "combination": false,
+      "labeler": "Slate Run Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "06d4d890-11ed-4f31-8778-c73432e3ea69"
+    },
+    {
+      "combination": false,
+      "labeler": "Oryza pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "004d8121-59d4-46c4-acb8-b2dd097bf556"
+    },
+    {
+      "combination": false,
+      "labeler": "Modavar Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0961f83e-25e9-4ffc-8669-44e4e9169978"
+    },
+    {
+      "combination": false,
+      "labeler": "Slate Run Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7c4313fa-bb29-dd50-e053-2991aa0a3005"
+    },
+    {
+      "combination": false,
+      "labeler": "Epic Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9fb44e96-6160-4a4a-90cb-91764c0dcd89"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e4f4d3fa-ddf6-4125-8486-8157efc095c1"
+    },
+    {
+      "combination": false,
+      "labeler": "Epic Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f56ccdb1-f9d9-3e5f-e053-2995a90a8f16"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f69b322b-93ab-407a-bf25-fe13c6896ca6"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6563b923-269f-40c3-b992-cbacdfca6e16"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8f86f677-2ebd-43c4-b2dd-2e07d4d54147"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c71f18b7-36a3-4489-96b4-e8fbec4f73a1"
+    },
+    {
+      "combination": false,
+      "labeler": "Amici Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fbb587fa-75c0-4f4d-8eaf-f0e7ba8b5c75"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6127b24e-261c-4b64-8423-ebe583676abe"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cc344f7c-0eb3-4e63-a09e-b682acca2bb5"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "86530199-999b-9f92-b1bc-b8515ec829f3"
+    },
+    {
+      "combination": false,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a591e33a-52f0-41c8-a00b-4a1afcc3dc4c"
+    },
+    {
+      "combination": false,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cec41945-8d64-4793-8784-4c2b8ec37b0f"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8d937ca3-3351-40f1-8192-348ba0c68162"
+    },
+    {
+      "combination": false,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "df923448-4f81-47af-8e55-f7359746b05f"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9196568e-aec8-4d56-993e-4cbb78d4a3a6"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddys Laboratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d5469d64-5e74-4b7a-b4cd-551665f6adaa"
+    },
+    {
+      "combination": false,
+      "labeler": "Exelan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8a0781c0-e7d5-498e-b7d3-d6bd457f175f"
+    },
+    {
+      "combination": false,
+      "labeler": "Lannett Company Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "15c4e95a-d203-4caf-b6c7-44792355cb76"
+    },
+    {
+      "combination": false,
+      "labeler": "ScieGen Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "092da413-ec60-4577-ac57-51e3e42d55c9"
+    },
+    {
+      "combination": false,
+      "labeler": "ScieGen Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2bb61b34-653a-43b4-9682-705d5b82d18e"
+    },
+    {
+      "combination": false,
+      "labeler": "Accord Healthcare Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "34686e9d-c106-4276-8b47-7460cca8860e"
+    },
+    {
+      "combination": false,
+      "labeler": "Cadila Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "33210109-2ddb-4b0f-a45e-988e493ca628"
+    },
+    {
+      "combination": false,
+      "labeler": "Radha Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "161637d2-bc9d-4a2b-ad1f-6cc39ffd69ce"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4956af38-182a-4015-a945-67e40bd38772"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5ccec958-998d-43a1-86fb-eb2b5e697b77"
+    },
+    {
+      "combination": false,
+      "labeler": "RADHA PHARMACEUTICALS, INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "16a788ff-8bd5-4f70-a3fd-a89db019e435"
+    },
+    {
+      "combination": false,
+      "labeler": "Granules Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d9eb0939-63c1-48c4-a444-a899d7924d06"
+    },
+    {
+      "combination": false,
+      "labeler": "Vitruvias Therapeutics",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f53704b2-3d3c-47e8-9fd6-a0f5240c0593"
+    },
+    {
+      "combination": false,
+      "labeler": "Epic Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f79d1422-a9b6-41c2-a46d-22886605f94d"
+    },
+    {
+      "combination": false,
+      "labeler": "Quallent Pharmaceuticals Health LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "56df4e22-81ca-48a4-a8e2-038448417355"
+    },
+    {
+      "combination": false,
+      "labeler": "Epic Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f8ad76a2-9f75-4660-973d-34402f314e9c"
+    },
+    {
+      "combination": false,
+      "labeler": "Cipla USA., Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0abd64f7-5142-48f6-a487-3f5bdc3400de"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b303a0ad-5971-44ab-937c-bcf3ff650358"
+    },
+    {
+      "combination": false,
+      "labeler": "Mullan Pharmaceutical Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "75b1e027-4c5d-46e5-98ee-033e67bd411c"
+    },
+    {
+      "combination": false,
+      "labeler": "MAJOR PHARMACEUTICALS",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3c6b5ab4-9671-4fcd-8b4c-7f230dcfe6c9"
+    },
+    {
+      "combination": false,
+      "labeler": "Granules Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "61e9cbe3-8211-42f3-b68f-581f56651919"
+    }
+  ]
+}

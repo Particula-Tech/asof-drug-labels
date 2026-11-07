@@ -1,0 +1,5 @@
+# EU annex PDF text extraction (tools/eu_qrd.py only). Install into .venv-eu with:
+#   python3 -m venv .venv-eu && .venv-eu/bin/pip install --require-hashes --only-binary :all: -r tools/requirements-eu.txt
+# Every other tool, including the MCP server, uses the standard library only.
+pymupdf==1.27.2.2 \
+    --hash=sha256:8e2e4299ef1ac0c9dff9be096cbd22783699673abecfa7c3f73173ae06421d73

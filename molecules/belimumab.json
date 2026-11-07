@@ -1,0 +1,135 @@
+{
+  "biologic": true,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand BENLYSTA",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/002015",
+      "eu_number": "EU/1/11/700",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-002015",
+      "mah": "GlaxoSmithKline (Ireland) Limited",
+      "marketing_authorisation_date": "2011-07-13",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/benlysta",
+      "name": "Benlysta",
+      "record_from": "2011-07-13",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 20
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-002015",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "BELIMUMAB"
+  ],
+  "inn": "belimumab",
+  "name": "BELIMUMAB",
+  "rank": 380,
+  "rxcui": [
+    "1656395",
+    "1656398",
+    "1656400",
+    "1656402",
+    "1939296",
+    "1939299",
+    "1939346",
+    "1939348"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 1,
+    "approval_holders": 1,
+    "earliest_marketing_start": "2011-03-10",
+    "latest_label_update": "2026-09-02",
+    "nda_bla_applications": 2,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "BELIMUMAB",
+      "unii": "73B0K5S26A"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "BLA125370",
+        "BLA761043"
+      ],
+      "brand_names": [
+        "BENLYSTA"
+      ],
+      "combination": false,
+      "home_inn": "belimumab",
+      "ingredients": [
+        "BELIMUMAB"
+      ],
+      "labeler": "GlaxoSmithKline LLC",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2011-03-10",
+      "moieties": [
+        "BELIMUMAB"
+      ],
+      "product_ndcs": [
+        "49401-088",
+        "49401-101",
+        "49401-102"
+      ],
+      "rxcui": [
+        "1656395",
+        "1656398",
+        "1656400",
+        "1656402",
+        "1939296",
+        "1939299",
+        "1939346",
+        "1939348"
+      ],
+      "setid": "2fa3c528-1777-4628-8a55-a69dae2381a3",
+      "source": "openfda",
+      "spl_version": 38,
+      "title": "BENLYSTA (BELIMUMAB) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION BENLYSTA (BELIMUMAB) SOLUTION [GLAXOSMITHKLINE LLC]",
+      "upload_date": "2026-09-02"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "BENLYSTA"
+      ],
+      "first_posted": "2018-03-12",
+      "found_by": "BENLYSTA",
+      "labeler": "GlaxoSmithKline Manufacturing SpA",
+      "labeler_unverified": true,
+      "last_posted": "2018-03-12",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "12064-009",
+        "12064-010"
+      ],
+      "rxcui": [],
+      "setid": "6fbb0330-d529-4cce-9b4a-006a89e30c6a",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "BENLYSTA (belimumab) injection, powder, lyophilized, for solution"
+    }
+  ],
+  "us_excluded": []
+}

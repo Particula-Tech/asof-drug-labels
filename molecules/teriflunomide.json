@@ -1,0 +1,429 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand Aubagio",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/002514",
+      "eu_number": "EU/1/13/838",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-002514",
+      "mah": "Sanofi Winthrop Industrie",
+      "marketing_authorisation_date": "2013-08-26",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/aubagio",
+      "name": "Aubagio",
+      "record_from": "2013-08-26",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 14
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/005960",
+      "eu_number": "EU/1/22/1693",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-005960",
+      "mah": "Accord Healthcare S.L.U.",
+      "marketing_authorisation_date": "2022-11-09",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/teriflunomide-accord",
+      "name": "Teriflunomide Accord",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/005962",
+      "eu_number": "EU/1/22/1698",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-005962",
+      "mah": "Viatris Limited",
+      "marketing_authorisation_date": "2022-11-09",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/teriflunomide-viatris",
+      "name": "Teriflunomide Viatris (previously Teriflunomide Mylan)",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-002514",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "TERIFLUNOMIDE"
+  ],
+  "inn": "teriflunomide",
+  "name": "TERIFLUNOMIDE",
+  "rank": 379,
+  "rxcui": [
+    "1310525",
+    "1310531",
+    "1310533",
+    "1310535"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 16,
+    "approval_holders": 16,
+    "earliest_marketing_start": "2013-05-01",
+    "latest_label_update": "2026-10-26",
+    "nda_bla_applications": 1,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "TERIFLUNOMIDE",
+      "unii": "1C058IKG3B"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA202992"
+      ],
+      "brand_names": [
+        "Aubagio"
+      ],
+      "combination": false,
+      "home_inn": "teriflunomide",
+      "ingredients": [
+        "TERIFLUNOMIDE"
+      ],
+      "labeler": "Genzyme Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2013-05-01",
+      "moieties": [
+        "TERIFLUNOMIDE"
+      ],
+      "product_ndcs": [
+        "58468-0210",
+        "58468-0211"
+      ],
+      "rxcui": [
+        "1310525",
+        "1310531",
+        "1310533",
+        "1310535"
+      ],
+      "setid": "4650d12c-b9c8-4525-b07f-a2d773eca155",
+      "source": "openfda",
+      "spl_version": 28,
+      "title": "AUBAGIO (TERIFLUNOMIDE) TABLET, FILM COATED [GENZYME CORPORATION]",
+      "upload_date": "2026-02-25"
+    },
+    {
+      "application_numbers": [
+        "ANDA209623"
+      ],
+      "brand_names": [
+        "Teriflunomide"
+      ],
+      "combination": false,
+      "home_inn": "teriflunomide",
+      "ingredients": [
+        "TERIFLUNOMIDE"
+      ],
+      "labeler": "MSN LABORATORIES PRIVATE LIMITED",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-04-24",
+      "moieties": [
+        "TERIFLUNOMIDE"
+      ],
+      "product_ndcs": [
+        "69539-032",
+        "69539-033",
+        "69539-315",
+        "69539-316"
+      ],
+      "rxcui": [
+        "1310525",
+        "1310533"
+      ],
+      "setid": "63ba28ef-5055-461a-99ef-c49e8ece4b54",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "TERIFLUNOMIDE TABLET, FILM COATED [MSN LABORATORIES PRIVATE LIMITED]",
+      "upload_date": "2023-02-08"
+    },
+    {
+      "application_numbers": [
+        "ANDA209663"
+      ],
+      "brand_names": [
+        "teriflunomide"
+      ],
+      "combination": false,
+      "home_inn": "teriflunomide",
+      "ingredients": [
+        "TERIFLUNOMIDE"
+      ],
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-01-19",
+      "moieties": [
+        "TERIFLUNOMIDE"
+      ],
+      "product_ndcs": [
+        "68462-423",
+        "68462-424"
+      ],
+      "rxcui": [
+        "1310525",
+        "1310533"
+      ],
+      "setid": "cb431ea0-ba0f-4b5d-a50d-f8c050762242",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "TERIFLUNOMIDE TABLET, FILM COATED [GLENMARK PHARMACEUTICALS INC., USA]",
+      "upload_date": "2026-03-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA209572"
+      ],
+      "brand_names": [
+        "TERIFLUNOMIDE"
+      ],
+      "combination": false,
+      "home_inn": "teriflunomide",
+      "ingredients": [
+        "TERIFLUNOMIDE"
+      ],
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-01-25",
+      "moieties": [
+        "TERIFLUNOMIDE"
+      ],
+      "product_ndcs": [
+        "46708-313",
+        "46708-314"
+      ],
+      "rxcui": [
+        "1310525",
+        "1310533"
+      ],
+      "setid": "2b084b44-f15b-4b16-b700-4382434f2136",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "TERIFLUNOMIDE TABLET, FILM COATED [ALEMBIC PHARMACEUTICALS LIMITED]",
+      "upload_date": "2023-02-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA209702"
+      ],
+      "brand_names": [
+        "Teriflunomide"
+      ],
+      "combination": false,
+      "home_inn": "teriflunomide",
+      "ingredients": [
+        "TERIFLUNOMIDE"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-02-14",
+      "moieties": [
+        "TERIFLUNOMIDE"
+      ],
+      "product_ndcs": [
+        "0378-0627",
+        "0378-0628"
+      ],
+      "rxcui": [
+        "1310525",
+        "1310533"
+      ],
+      "setid": "1824aae5-58af-43da-8231-435c8f118bc0",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "TERIFLUNOMIDE TABLET, FILM COATED [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2023-02-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA209668"
+      ],
+      "brand_names": [
+        "Teriflunomide"
+      ],
+      "combination": false,
+      "home_inn": "teriflunomide",
+      "ingredients": [
+        "TERIFLUNOMIDE"
+      ],
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-02-14",
+      "moieties": [
+        "TERIFLUNOMIDE"
+      ],
+      "product_ndcs": [
+        "70771-1010",
+        "70771-1011"
+      ],
+      "rxcui": [
+        "1310525",
+        "1310533"
+      ],
+      "setid": "58991a51-d40e-476f-8f5f-ac89e68e7107",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "TERIFLUNOMIDE TABLET, FILM COATED [ZYDUS LIFESCIENCES LIMITED]",
+      "upload_date": "2024-08-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA209638"
+      ],
+      "brand_names": [
+        "Teriflunomide"
+      ],
+      "combination": false,
+      "home_inn": "teriflunomide",
+      "ingredients": [
+        "TERIFLUNOMIDE"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-02-28",
+      "moieties": [
+        "TERIFLUNOMIDE"
+      ],
+      "product_ndcs": [
+        "59651-054",
+        "59651-055"
+      ],
+      "rxcui": [
+        "1310525",
+        "1310533"
+      ],
+      "setid": "2fd80242-c607-4c50-b497-8259abb4a2f8",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "TERIFLUNOMIDE TABLET [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2026-04-09"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Accord Healthcare Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "246d42e5-5418-42ba-aff9-ae399b166c69"
+    },
+    {
+      "combination": false,
+      "labeler": "Biocon Pharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "37f04f8b-001e-66ff-4574-cc34cebce61c"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9b25c24e-a4a9-43b4-a33f-75bef3a96d5f"
+    },
+    {
+      "combination": false,
+      "labeler": "Teva Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c424959d-00c9-4e76-aba6-cc7464d8e903"
+    },
+    {
+      "combination": false,
+      "labeler": "Natco Pharma USA LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8219b4a2-fb9d-4387-ba33-96d28aad71dd"
+    },
+    {
+      "combination": false,
+      "labeler": "CONCORD BIOTECH LIMITED",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2d2724f6-8812-4a26-b2ec-936b71f868e1"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8c1bc23b-a62b-4172-a603-8b97761514b4"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cbf32b27-e63a-4544-9c1f-6564e82200e5"
+    },
+    {
+      "combination": false,
+      "labeler": "Civica Script LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bb9b9381-dc5a-4d90-a54e-5f08a03d3796"
+    }
+  ]
+}

@@ -1,0 +1,430 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/005055",
+      "eu_number": "EU/1/21/1557",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-005055",
+      "mah": "Lipomed GmbH",
+      "marketing_authorisation_date": "2021-06-21",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/jayempi",
+      "name": "Jayempi",
+      "record_from": "2021-06-21",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 5
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-005055",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "AZATHIOPRINE",
+    "AZATHIOPRINE SODIUM"
+  ],
+  "inn": "azathioprine",
+  "name": "AZATHIOPRINE",
+  "rank": 487,
+  "rxcui": [
+    "105611",
+    "197388",
+    "199310",
+    "239983",
+    "359228",
+    "359229"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 14,
+    "approval_holders": 12,
+    "earliest_marketing_start": "1995-05-01",
+    "latest_label_update": "2026-09-22",
+    "nda_bla_applications": 1,
+    "repackagers": 7
+  },
+  "unii": [
+    {
+      "ingredient": "AZATHIOPRINE",
+      "unii": "MRK240IY2L"
+    },
+    {
+      "ingredient": "AZATHIOPRINE SODIUM",
+      "unii": "AM94R510MS"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA016324"
+      ],
+      "brand_names": [
+        "IMURAN"
+      ],
+      "combination": false,
+      "home_inn": "azathioprine",
+      "ingredients": [
+        "AZATHIOPRINE"
+      ],
+      "labeler": "Sebela Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-12-01",
+      "moieties": [
+        "AZATHIOPRINE"
+      ],
+      "product_ndcs": [
+        "54766-590"
+      ],
+      "rxcui": [
+        "105611",
+        "197388"
+      ],
+      "setid": "606101a0-6244-7eff-e053-2a91aa0acadd",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "IMURAN (AZATHIOPRINE) TABLET [SEBELA PHARMACEUTICALS INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "NDA016324"
+      ],
+      "brand_names": [
+        "IMURAN"
+      ],
+      "combination": false,
+      "home_inn": "azathioprine",
+      "ingredients": [
+        "AZATHIOPRINE"
+      ],
+      "labeler": "Legacy Pharma USA Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2026-09-10",
+      "moieties": [
+        "AZATHIOPRINE"
+      ],
+      "product_ndcs": [
+        "83107-025"
+      ],
+      "rxcui": [
+        "105611",
+        "197388"
+      ],
+      "setid": "4d62b6e4-a9d4-4818-e063-6394a90aa208",
+      "source": "dailymed-title-match",
+      "spl_version": 1,
+      "title": "IMURAN (AZATHIOPRINE) TABLET [LEGACY PHARMA USA INC.]",
+      "upload_date": "2026-09-14"
+    },
+    {
+      "application_numbers": [
+        "ANDA074419"
+      ],
+      "brand_names": [
+        "Azathioprine Sodium"
+      ],
+      "combination": false,
+      "home_inn": "azathioprine",
+      "ingredients": [
+        "AZATHIOPRINE SODIUM"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1995-05-01",
+      "moieties": [
+        "AZATHIOPRINE"
+      ],
+      "product_ndcs": [
+        "0143-9566"
+      ],
+      "rxcui": [
+        "239983"
+      ],
+      "setid": "9ffe79a1-ac91-4a7b-a9e3-7c84bfa9ddf0",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "AZATHIOPRINE SODIUM INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2025-01-27"
+    },
+    {
+      "application_numbers": [
+        "ANDA075252"
+      ],
+      "brand_names": [
+        "Azathioprine"
+      ],
+      "combination": false,
+      "home_inn": "azathioprine",
+      "ingredients": [
+        "AZATHIOPRINE"
+      ],
+      "labeler": "Glenmark Pharmaceuticals, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1999-08-01",
+      "moieties": [
+        "AZATHIOPRINE"
+      ],
+      "product_ndcs": [
+        "68462-502"
+      ],
+      "rxcui": [
+        "197388"
+      ],
+      "setid": "ceab8e8b-d022-4d0c-a552-cc5782446248",
+      "source": "dailymed-title-match",
+      "spl_version": 37,
+      "title": "AZATHIOPRINE TABLET [GLENMARK PHARMACEUTICALS, INC]",
+      "upload_date": "2026-09-22"
+    },
+    {
+      "application_numbers": [
+        "ANDA077621"
+      ],
+      "brand_names": [
+        "Azathioprine"
+      ],
+      "combination": false,
+      "home_inn": "azathioprine",
+      "ingredients": [
+        "AZATHIOPRINE"
+      ],
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2007-07-11",
+      "moieties": [
+        "AZATHIOPRINE"
+      ],
+      "product_ndcs": [
+        "68382-003",
+        "68382-118",
+        "68382-119",
+        "68382-120"
+      ],
+      "rxcui": [
+        "197388",
+        "199310",
+        "359228",
+        "359229"
+      ],
+      "setid": "b1b0fa3e-11c3-46d0-9537-6b372c2a1b56",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "AZATHIOPRINE TABLET [ZYDUS PHARMACEUTICALS USA INC.]",
+      "upload_date": "2024-08-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA074069"
+      ],
+      "brand_names": [
+        "AZATHIOPRINE"
+      ],
+      "combination": false,
+      "home_inn": "azathioprine",
+      "ingredients": [
+        "AZATHIOPRINE"
+      ],
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-02-02",
+      "moieties": [
+        "AZATHIOPRINE"
+      ],
+      "product_ndcs": [
+        "60219-1076",
+        "60219-2036",
+        "60219-2037"
+      ],
+      "rxcui": [
+        "197388",
+        "359228",
+        "359229"
+      ],
+      "setid": "59f3219f-898f-4d05-a430-c2b3f5255af1",
+      "source": "dailymed-title-match",
+      "spl_version": 17,
+      "title": "AZATHIOPRINE TABLET [AMNEAL PHARMACEUTICALS NY LLC]",
+      "upload_date": "2026-09-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA208687"
+      ],
+      "brand_names": [
+        "Azathioprine"
+      ],
+      "combination": false,
+      "home_inn": "azathioprine",
+      "ingredients": [
+        "AZATHIOPRINE"
+      ],
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-03-29",
+      "moieties": [
+        "AZATHIOPRINE"
+      ],
+      "product_ndcs": [
+        "67877-492",
+        "67877-493",
+        "67877-494",
+        "67877-495"
+      ],
+      "rxcui": [
+        "197388",
+        "199310",
+        "359228",
+        "359229"
+      ],
+      "setid": "bc6dc4bd-2121-4613-9d90-4a504010c98a",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "AZATHIOPRINE TABLET [ASCEND LABORATORIES, LLC]",
+      "upload_date": "2025-04-25"
+    },
+    {
+      "application_numbers": [
+        "ANDA075568"
+      ],
+      "brand_names": [
+        "AZATHIOPRINE"
+      ],
+      "combination": false,
+      "home_inn": "azathioprine",
+      "ingredients": [
+        "AZATHIOPRINE"
+      ],
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-06-06",
+      "moieties": [
+        "AZATHIOPRINE"
+      ],
+      "product_ndcs": [
+        "16571-835"
+      ],
+      "rxcui": [
+        "197388"
+      ],
+      "setid": "2ffa2fce-895d-469e-8667-b078560aec5f",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "AZATHIOPRINE TABLET [RISING PHARMA HOLDINGS, INC.]",
+      "upload_date": "2025-02-06"
+    },
+    {
+      "application_numbers": [
+        "NDA017391"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "IMURAN"
+      ],
+      "first_posted": "2011-06-21",
+      "found_by": "IMURAN",
+      "labeler": "Prometheus Laboratories Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2014-03-19",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2001-05-21"
+      ],
+      "product_ndcs": [
+        "65483-551"
+      ],
+      "rxcui": [],
+      "setid": "9550b97e-66e6-48a5-af3e-2a1c20106091",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "IMURAN (azathioprine) injection, powder, lyophilized, for solution"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Salix Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9050af7a-19c6-4670-937a-9445605de995"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d65bc662-2ae8-4ddb-acc8-f616e72e6140"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c49b7cc5-0eed-43b7-b7ad-cbb1b6f0cd2c"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "89b272f0-ef5c-49e4-820f-fcd7ea8ef066"
+    },
+    {
+      "combination": false,
+      "labeler": "AvKARE",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d4c7d621-9642-4027-e053-2995a90a9220"
+    },
+    {
+      "combination": false,
+      "labeler": "Oceanside Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d72ede2c-1a9b-4717-80a7-b76a6a499936"
+    }
+  ]
+}

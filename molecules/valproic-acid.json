@@ -1,0 +1,851 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "DIVALPROEX SODIUM",
+    "VALPROATE SODIUM",
+    "VALPROIC ACID"
+  ],
+  "inn": "valproic-acid",
+  "name": "VALPROIC ACID",
+  "rank": 65,
+  "rxcui": [
+    "1099563",
+    "1099565",
+    "1099569",
+    "1099571",
+    "1099596",
+    "1099598",
+    "1099625",
+    "1099626",
+    "1099648",
+    "1099678",
+    "1099679",
+    "1099687",
+    "1099870",
+    "1099871"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 49,
+    "approval_holders": 34,
+    "earliest_marketing_start": "1983-03-10",
+    "latest_label_update": "2026-10-26",
+    "nda_bla_applications": 3,
+    "repackagers": 23
+  },
+  "unii": [
+    {
+      "ingredient": "DIVALPROEX SODIUM",
+      "unii": "644VL95AO6"
+    },
+    {
+      "ingredient": "VALPROATE SODIUM",
+      "unii": "5VOM6GYJ0D"
+    },
+    {
+      "ingredient": "VALPROIC ACID",
+      "unii": "614OI1Z5WI"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA018723"
+      ],
+      "brand_names": [
+        "Depakote"
+      ],
+      "combination": false,
+      "home_inn": "valproic-acid",
+      "ingredients": [
+        "DIVALPROEX SODIUM"
+      ],
+      "labeler": "AbbVie Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1983-03-10",
+      "moieties": [
+        "VALPROIC ACID"
+      ],
+      "product_ndcs": [
+        "0074-7325",
+        "0074-7326",
+        "0074-7327"
+      ],
+      "rxcui": [
+        "1099625",
+        "1099626",
+        "1099678",
+        "1099679",
+        "1099870",
+        "1099871"
+      ],
+      "setid": "08a65cf4-7749-4ceb-6895-8f4805e2b01f",
+      "source": "openfda",
+      "spl_version": 1621,
+      "title": "DEPAKOTE (DIVALPROEX SODIUM) TABLET, DELAYED RELEASE [ABBVIE INC.]",
+      "upload_date": "2026-04-14"
+    },
+    {
+      "application_numbers": [
+        "NDA019680"
+      ],
+      "brand_names": [
+        "Depakote Sprinkles"
+      ],
+      "combination": false,
+      "home_inn": "valproic-acid",
+      "ingredients": [
+        "DIVALPROEX SODIUM"
+      ],
+      "labeler": "AbbVie Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1989-09-12",
+      "moieties": [
+        "VALPROIC ACID"
+      ],
+      "product_ndcs": [
+        "0074-6114"
+      ],
+      "rxcui": [
+        "1099596",
+        "1099598"
+      ],
+      "setid": "4619aff4-0f80-444f-858d-42e4137aa809",
+      "source": "openfda",
+      "spl_version": 1631,
+      "title": "DEPAKOTE SPRINKLES (DIVALPROEX SODIUM) CAPSULE [ABBVIE INC.]",
+      "upload_date": "2026-04-10"
+    },
+    {
+      "application_numbers": [
+        "NDA021168"
+      ],
+      "brand_names": [
+        "Depakote ER"
+      ],
+      "combination": false,
+      "home_inn": "valproic-acid",
+      "ingredients": [
+        "DIVALPROEX SODIUM"
+      ],
+      "labeler": "AbbVie Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2000-08-04",
+      "moieties": [
+        "VALPROIC ACID"
+      ],
+      "product_ndcs": [
+        "0074-7401",
+        "0074-7402"
+      ],
+      "rxcui": [
+        "1099563",
+        "1099565",
+        "1099569",
+        "1099571"
+      ],
+      "setid": "0dc024ce-efc8-4690-7cb5-639c728fccac",
+      "source": "openfda",
+      "spl_version": 1658,
+      "title": "DEPAKOTE ER (DIVALPROEX SODIUM) TABLET, EXTENDED RELEASE [ABBVIE INC.]",
+      "upload_date": "2026-04-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA070868"
+      ],
+      "brand_names": [
+        "Valproic Acid"
+      ],
+      "combination": false,
+      "home_inn": "valproic-acid",
+      "ingredients": [
+        "VALPROIC ACID"
+      ],
+      "labeler": "Xttrium Laboratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1986-07-01",
+      "moieties": [
+        "VALPROIC ACID"
+      ],
+      "product_ndcs": [
+        "0116-4021"
+      ],
+      "rxcui": [
+        "1099687"
+      ],
+      "setid": "3b124a29-30bd-d30e-e063-6294a90ac4ca",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "VALPROIC ACID SOLUTION [XTTRIUM LABORATORIES INC.]",
+      "upload_date": "2026-04-06"
+    },
+    {
+      "application_numbers": [
+        "ANDA075782"
+      ],
+      "brand_names": [
+        "Valproic Acid"
+      ],
+      "combination": false,
+      "home_inn": "valproic-acid",
+      "ingredients": [
+        "VALPROIC ACID"
+      ],
+      "labeler": "Chartwell Governmental & Specialty RX, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2000-12-22",
+      "moieties": [
+        "VALPROIC ACID"
+      ],
+      "product_ndcs": [
+        "68999-196",
+        "68999-874"
+      ],
+      "rxcui": [
+        "1099687"
+      ],
+      "setid": "5d19f389-7180-4e01-845f-519b7ea60ba0",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "VALPROIC ACID SOLUTION [CHARTWELL GOVERNMENTAL & SPECIALTY RX, LLC.]",
+      "upload_date": "2025-11-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA076539"
+      ],
+      "brand_names": [
+        "Valproate Sodium"
+      ],
+      "combination": false,
+      "home_inn": "valproic-acid",
+      "ingredients": [
+        "VALPROATE SODIUM"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2003-08-18",
+      "moieties": [
+        "VALPROIC ACID"
+      ],
+      "product_ndcs": [
+        "63323-494"
+      ],
+      "rxcui": [
+        "1099648"
+      ],
+      "setid": "3dfb6da1-f66a-4618-9f74-d2d6c16c0b58",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "VALPROATE SODIUM INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2025-02-03"
+    },
+    {
+      "application_numbers": [
+        "ANDA075379"
+      ],
+      "brand_names": [
+        "VALPROIC ACID"
+      ],
+      "combination": false,
+      "home_inn": "valproic-acid",
+      "ingredients": [
+        "VALPROIC ACID"
+      ],
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2005-04-11",
+      "moieties": [
+        "VALPROIC ACID"
+      ],
+      "product_ndcs": [
+        "0121-0675",
+        "0121-1350",
+        "0121-4675"
+      ],
+      "rxcui": [
+        "1099687"
+      ],
+      "setid": "7d5cb52e-37dd-4dfa-a6f4-09f9548846c6",
+      "source": "dailymed-title-match",
+      "spl_version": 23,
+      "title": "VALPROIC ACID SOLUTION [PAI HOLDINGS, LLC DBA PAI PHARMA]",
+      "upload_date": "2026-10-26"
+    },
+    {
+      "application_numbers": [
+        "ANDA078755"
+      ],
+      "brand_names": [
+        "divalproex sodium"
+      ],
+      "combination": false,
+      "home_inn": "valproic-acid",
+      "ingredients": [
+        "DIVALPROEX SODIUM"
+      ],
+      "labeler": "Dr.Reddy's Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2008-07-29",
+      "moieties": [
+        "VALPROIC ACID"
+      ],
+      "product_ndcs": [
+        "55111-529",
+        "55111-530",
+        "55111-531"
+      ],
+      "rxcui": [
+        "1099625",
+        "1099678",
+        "1099870"
+      ],
+      "setid": "15f8a5be-e269-2e07-60d9-1dd7bf5f5281",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "DIVALPROEX SODIUM TABLET, DELAYED RELEASE [DR.REDDY'S LABORATORIES LIMITED]",
+      "upload_date": "2019-03-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA078790"
+      ],
+      "brand_names": [
+        "Divalproex Sodium"
+      ],
+      "combination": false,
+      "home_inn": "valproic-acid",
+      "ingredients": [
+        "DIVALPROEX SODIUM"
+      ],
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2008-07-29",
+      "moieties": [
+        "VALPROIC ACID"
+      ],
+      "product_ndcs": [
+        "68180-265",
+        "68180-266",
+        "68180-267"
+      ],
+      "rxcui": [
+        "1099625",
+        "1099678",
+        "1099870"
+      ],
+      "setid": "33798a7c-c5a9-49a5-be5d-1312910ef468",
+      "source": "openfda",
+      "spl_version": 28,
+      "title": "DIVALPROEX SODIUM TABLET, DELAYED RELEASE [LUPIN PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-05-07"
+    },
+    {
+      "application_numbers": [
+        "NDA018081",
+        "NDA018082"
+      ],
+      "archived_versions": 27,
+      "brand_names": [
+        "DEPAKENE"
+      ],
+      "first_posted": "2008-02-08",
+      "found_by": "DEPAKENE",
+      "labeler": "AbbVie Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2020-05-29",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-07-17",
+        "2019-10-11"
+      ],
+      "product_ndcs": [
+        "0074-5681",
+        "0074-5682"
+      ],
+      "rxcui": [],
+      "setid": "6b4331f5-4475-417a-6a9d-09c2f8334235",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "DEPAKENE (valproic acid) solution DEPAKENE (valproic acid) capsule, liquid filled"
+    },
+    {
+      "application_numbers": [
+        "NDA022152"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "STAVZOR"
+      ],
+      "first_posted": "2010-06-16",
+      "found_by": "STAVZOR",
+      "labeler": "Noven Therapeutics, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2014-09-12",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-02-28"
+      ],
+      "product_ndcs": [
+        "68968-3125",
+        "68968-3250",
+        "68968-3500"
+      ],
+      "rxcui": [],
+      "setid": "95a4ddd8-b76a-4128-b2ed-8a36cd5738f9",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "STAVZOR (valproic acid) capsule, delayed release"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "DEPACON"
+      ],
+      "first_posted": "2006-07-18",
+      "found_by": "DEPACON",
+      "labeler": "Abbott Laboratories",
+      "labeler_unverified": false,
+      "last_posted": "2006-07-18",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0074-1564"
+      ],
+      "rxcui": [],
+      "setid": "cc728e6d-c0b7-4d91-5bb3-062c2d4d4e83",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "depacon (valproate sodium) injection"
+    },
+    {
+      "application_numbers": [
+        "NDA020593"
+      ],
+      "archived_versions": 27,
+      "brand_names": [
+        "DEPACON"
+      ],
+      "first_posted": "2007-09-14",
+      "found_by": "DEPACON",
+      "labeler": "AbbVie Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2020-05-29",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-11-01"
+      ],
+      "product_ndcs": [
+        "0074-1564"
+      ],
+      "rxcui": [],
+      "setid": "da030cbb-40f6-4805-9883-0d8945afbcc3",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "DEPACON (valproate sodium) injection"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "64797788-fdcb-4d12-a1a4-743ad71bd17b"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Laboratories Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f911748c-fb3a-fe1a-ab2a-4b40455e05ef"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b0f33792-dd96-40cc-a28e-acdcdca2f4b8"
+    },
+    {
+      "combination": false,
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "00332c65-edad-a153-9c78-628931daa732"
+    },
+    {
+      "combination": false,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cef3e335-5891-412f-89c4-79fcd2f145b7"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bcf57b31-4811-4104-82b3-46fb91a53ee0"
+    },
+    {
+      "combination": false,
+      "labeler": "Unichem Pharmaceuticals (USA), Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1ec1a441-218a-4c80-a0cb-69bcc327f472"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Laboratories Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2e35f833-1cf7-12eb-9567-7a191e32e138"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Laboratories Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fa823ee0-0c69-6b85-da1e-9bb2e2150ea5"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1b12c694-e120-45f6-ad28-36373e2c5378"
+    },
+    {
+      "combination": false,
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "02304a23-4a5f-47bc-9687-4044b43f7a20"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6240cee7-6aa8-425c-ba46-f889a640f0fa"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7d3352ee-a240-43ff-a243-29ad2bc989c7"
+    },
+    {
+      "combination": false,
+      "labeler": "Bionpharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ceb52870-76d0-4108-a1d4-ba7096fbacdd"
+    },
+    {
+      "combination": false,
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "773a289b-65ed-4045-80c5-f00e28c1c079"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1f081c74-9f73-4ed9-9157-8d73d586a409"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e8e954d4-54e3-491c-867c-b3b656b70f23"
+    },
+    {
+      "combination": false,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2314af65-b928-42a9-91eb-6372909ab4f5"
+    },
+    {
+      "combination": false,
+      "labeler": "QUAGEN PHARMACEUTICALS LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "531c0fc7-5e80-49a5-a9d1-0916ec45d52c"
+    },
+    {
+      "combination": false,
+      "labeler": "Bionpharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "19064624-81d1-4ce3-bfe4-955bad6af6a2"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8d5fc1c1-d3c0-497e-971b-6c4dba9a3fad"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f34c4504-5409-406e-995b-138e5f700242"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b2388bfd-7455-48ae-b396-463df0c278f0"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8051ad62-3b6e-461e-8090-60f5c0a904f4"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c572ece7-03d3-4c2a-aeb5-61f2023b28ea"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ed710c62-8ba6-4f19-b240-3ee73cd03d67"
+    },
+    {
+      "combination": false,
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7d4df6ad-3d53-4664-9200-749487bf3689"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7a687b2f-246d-4736-a20c-92421c263268"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "352b4c3c-e419-4827-9e00-febb0164e0f5"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b95494e2-ee7a-7415-e053-2995a90ae852"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "aab6b411-11e9-4a16-afb6-d471ba4756e9"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dbd47222-14f1-4588-a009-9b81b55ca60d"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6316061c-9758-4f38-9cb2-7ca833dd20bf"
+    },
+    {
+      "combination": false,
+      "labeler": "Unichem Pharmaceuticals (USA), Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1d4129ae-0ce8-4a04-9f9d-c770508de8ed"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1286ab49-fa34-488e-e063-6394a90ad582"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "589ae3a6-8b2e-d931-d36b-1937287ab5c0"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fea19b14-d8ed-4954-bc54-b9240f78b3c3"
+    },
+    {
+      "combination": false,
+      "labeler": "First Nation Group, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a76f9909-28c9-4eb7-8ffd-ff6222fea079"
+    },
+    {
+      "combination": false,
+      "labeler": "Major Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a33f7657-ad0f-43e9-ba48-024746e6d08e"
+    },
+    {
+      "combination": false,
+      "labeler": "American Health Packaging",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4b619f73-44e5-4a99-b425-a96cb2228c87"
+    }
+  ]
+}

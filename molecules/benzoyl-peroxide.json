@@ -1,0 +1,912 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "BENZOYL PEROXIDE"
+  ],
+  "inn": "benzoyl-peroxide",
+  "name": "BENZOYL PEROXIDE",
+  "rank": 148,
+  "rxcui": [
+    "244374",
+    "829539",
+    "885131",
+    "1540241",
+    "1598470",
+    "1598826",
+    "1663745",
+    "1663747",
+    "2565807",
+    "2565812",
+    "2668198",
+    "2668204"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 38,
+    "approval_holders": 21,
+    "earliest_marketing_start": "2010-07-26",
+    "latest_label_update": "2026-10-26",
+    "nda_bla_applications": 5,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "BENZOYL PEROXIDE",
+      "unii": "W9WZN9A0GM"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA214510"
+      ],
+      "brand_names": [
+        "Epsolay"
+      ],
+      "combination": false,
+      "home_inn": "benzoyl-peroxide",
+      "ingredients": [
+        "BENZOYL PEROXIDE"
+      ],
+      "labeler": "Mayne Pharma Commercial LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-08-01",
+      "moieties": [
+        "BENZOYL PEROXIDE"
+      ],
+      "product_ndcs": [
+        "51862-772"
+      ],
+      "rxcui": [],
+      "setid": "641981e6-460b-44dd-8146-306c47e5367c",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "EPSOLAY (BENZOYL PEROXIDE) CREAM [MAYNE PHARMA COMMERCIAL LLC]",
+      "upload_date": "2025-08-14"
+    },
+    {
+      "application_numbers": [
+        "NDA050819"
+      ],
+      "brand_names": [
+        "Acanya"
+      ],
+      "combination": true,
+      "home_inn": "benzoyl-peroxide",
+      "ingredients": [
+        "BENZOYL PEROXIDE",
+        "CLINDAMYCIN PHOSPHATE"
+      ],
+      "labeler": "Bausch Health US, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2010-07-26",
+      "moieties": [
+        "BENZOYL PEROXIDE",
+        "CLINDAMYCIN"
+      ],
+      "product_ndcs": [
+        "13548-132"
+      ],
+      "rxcui": [],
+      "setid": "3dcd2c96-72b1-4a9f-b65c-08198d63b7df",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "ACANYA (CLINDAMYCIN PHOSPHATE AND BENZOYL PEROXIDE) GEL [BAUSCH HEALTH US, LLC]",
+      "upload_date": "2020-12-10"
+    },
+    {
+      "application_numbers": [
+        "NDA207917"
+      ],
+      "brand_names": [
+        "epiduo forte"
+      ],
+      "combination": true,
+      "home_inn": "benzoyl-peroxide",
+      "ingredients": [
+        "ADAPALENE",
+        "BENZOYL PEROXIDE"
+      ],
+      "labeler": "Galderma Laboratories, L.P.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-07-01",
+      "moieties": [
+        "ADAPALENE",
+        "BENZOYL PEROXIDE"
+      ],
+      "product_ndcs": [
+        "0299-5906"
+      ],
+      "rxcui": [
+        "1663745",
+        "1663747"
+      ],
+      "setid": "f4e5d381-098a-4c93-9ff0-002cae46daac",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "EPIDUO FORTE (ADAPALENE AND BENZOYL PEROXIDE) GEL [GALDERMA LABORATORIES, L.P.]",
+      "upload_date": "2024-10-28"
+    },
+    {
+      "application_numbers": [
+        "NDA214902"
+      ],
+      "brand_names": [
+        "TWYNEO"
+      ],
+      "combination": true,
+      "home_inn": "tretinoin",
+      "ingredients": [
+        "BENZOYL PEROXIDE",
+        "TRETINOIN"
+      ],
+      "labeler": "Galderma Laboratories, L.P.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-03-15",
+      "moieties": [
+        "BENZOYL PEROXIDE",
+        "TRETINOIN"
+      ],
+      "product_ndcs": [
+        "0299-5945"
+      ],
+      "rxcui": [
+        "2565807",
+        "2565812"
+      ],
+      "setid": "27208dff-e376-4c18-b56e-0a260f685a39",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "TWYNEO (TRETINOIN AND BENZOYL PEROXIDE) CREAM [GALDERMA LABORATORIES, L.P.]",
+      "upload_date": "2025-07-07"
+    },
+    {
+      "application_numbers": [
+        "NDA216632"
+      ],
+      "brand_names": [
+        "Cabtreo"
+      ],
+      "combination": true,
+      "home_inn": "benzoyl-peroxide",
+      "ingredients": [
+        "ADAPALENE",
+        "BENZOYL PEROXIDE",
+        "CLINDAMYCIN PHOSPHATE"
+      ],
+      "labeler": "Bausch Health US LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-10-20",
+      "moieties": [
+        "ADAPALENE",
+        "BENZOYL PEROXIDE",
+        "CLINDAMYCIN"
+      ],
+      "product_ndcs": [
+        "0187-0006"
+      ],
+      "rxcui": [
+        "2668198",
+        "2668204"
+      ],
+      "setid": "9468da0f-9978-4c58-8135-0274c3415084",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "CABTREO (CLINDAMYCIN PHOSPHATE/BENZOYL PEROXIDE/ADAPALENE) GEL [BAUSCH HEALTH US LLC]",
+      "upload_date": "2025-04-28"
+    },
+    {
+      "application_numbers": [
+        "NDA050819"
+      ],
+      "brand_names": [
+        "ONEXTON"
+      ],
+      "combination": true,
+      "home_inn": "benzoyl-peroxide",
+      "ingredients": [
+        "BENZOYL PEROXIDE",
+        "CLINDAMYCIN PHOSPHATE"
+      ],
+      "labeler": "Bausch Health US, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2014-11-24",
+      "moieties": [
+        "BENZOYL PEROXIDE",
+        "CLINDAMYCIN"
+      ],
+      "product_ndcs": [
+        "0187-3050"
+      ],
+      "rxcui": [
+        "1598470",
+        "1598826"
+      ],
+      "setid": "697e760a-c206-4565-8f4e-a8085e215827",
+      "source": "openfda",
+      "spl_version": 20,
+      "title": "ONEXTON (CLINDAMYCIN PHOSPHATE AND BENZOYL PEROXIDE) GEL [BAUSCH HEALTH US, LLC]",
+      "upload_date": "2025-08-21"
+    },
+    {
+      "application_numbers": [
+        "NDA214902"
+      ],
+      "brand_names": [
+        "Twyneo"
+      ],
+      "combination": true,
+      "home_inn": "tretinoin",
+      "ingredients": [
+        "BENZOYL PEROXIDE",
+        "TRETINOIN"
+      ],
+      "labeler": "Mayne Pharma Commercial LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-08-01",
+      "moieties": [
+        "BENZOYL PEROXIDE",
+        "TRETINOIN"
+      ],
+      "product_ndcs": [
+        "51862-771"
+      ],
+      "rxcui": [
+        "2565807",
+        "2565812"
+      ],
+      "setid": "654ae869-5bc0-40b3-a423-dcc3270c05d8",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "TWYNEO (BENZOYL PEROXIDE AND TRETINOIN) CREAM [MAYNE PHARMA COMMERCIAL LLC]",
+      "upload_date": "2025-08-14"
+    },
+    {
+      "application_numbers": [
+        "NDA050819"
+      ],
+      "brand_names": [
+        "Clindamycin Phosphate and Benzoyl Peroxide"
+      ],
+      "combination": true,
+      "home_inn": "benzoyl-peroxide",
+      "ingredients": [
+        "BENZOYL PEROXIDE",
+        "CLINDAMYCIN PHOSPHATE"
+      ],
+      "labeler": "Oceanside Pharmaceuticals",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2018-07-02",
+      "moieties": [
+        "BENZOYL PEROXIDE",
+        "CLINDAMYCIN"
+      ],
+      "product_ndcs": [
+        "68682-132"
+      ],
+      "rxcui": [
+        "885131"
+      ],
+      "setid": "edae294f-cc8b-4f94-8d90-4c764fda307b",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "CLINDAMYCIN PHOSPHATE AND BENZOYL PEROXIDE GEL [OCEANSIDE PHARMACEUTICALS]",
+      "upload_date": "2020-12-11"
+    },
+    {
+      "application_numbers": [
+        "NDA207917"
+      ],
+      "brand_names": [
+        "adapalene and benzoyl peroxide"
+      ],
+      "combination": true,
+      "home_inn": "benzoyl-peroxide",
+      "ingredients": [
+        "ADAPALENE",
+        "BENZOYL PEROXIDE"
+      ],
+      "labeler": "Mayne Pharma Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2022-02-01",
+      "moieties": [
+        "ADAPALENE",
+        "BENZOYL PEROXIDE"
+      ],
+      "product_ndcs": [
+        "68308-662"
+      ],
+      "rxcui": [
+        "1663745"
+      ],
+      "setid": "56541736-c70e-4fcd-9614-6cfdc5044136",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "ADAPALENE AND BENZOYL PEROXIDE GEL [MAYNE PHARMA INC.]",
+      "upload_date": "2023-02-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA090979",
+        "ANDA209610"
+      ],
+      "brand_names": [
+        "Clindamycin Phosphate and Benzoyl Peroxide",
+        "clindamycin phosphate and benzoyl peroxide"
+      ],
+      "combination": true,
+      "home_inn": "benzoyl-peroxide",
+      "ingredients": [
+        "BENZOYL PEROXIDE",
+        "CLINDAMYCIN PHOSPHATE"
+      ],
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-06-26",
+      "moieties": [
+        "BENZOYL PEROXIDE",
+        "CLINDAMYCIN"
+      ],
+      "product_ndcs": [
+        "45802-383",
+        "45802-736"
+      ],
+      "rxcui": [
+        "1540241"
+      ],
+      "setid": "1c7040f2-e503-408a-b07e-72c7972ce78d",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "CLINDAMYCIN PHOSPHATE AND BENZOYL PEROXIDE (CLINDAMYCIN, BENZOYL PEROXIDE) GEL [PADAGIS ISRAEL PHARMACEUTICALS LTD]",
+      "upload_date": "2023-07-31"
+    },
+    {
+      "application_numbers": [
+        "ANDA065385"
+      ],
+      "brand_names": [
+        "Erythromycin and Benzoyl Peroxide"
+      ],
+      "combination": true,
+      "home_inn": "benzoyl-peroxide",
+      "ingredients": [
+        "BENZOYL PEROXIDE",
+        "ERYTHROMYCIN"
+      ],
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-10-18",
+      "moieties": [
+        "BENZOYL PEROXIDE",
+        "ERYTHROMYCIN"
+      ],
+      "product_ndcs": [
+        "64980-328"
+      ],
+      "rxcui": [
+        "244374"
+      ],
+      "setid": "d449d7e2-5c25-406d-87ab-30809d292476",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "ERYTHROMYCIN AND BENZOYL PEROXIDE GEL [RISING PHARMA HOLDINGS, INC.]",
+      "upload_date": "2025-09-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA206218"
+      ],
+      "brand_names": [
+        "Clindamycin Phosphate and Benzoyl Peroxide"
+      ],
+      "combination": true,
+      "home_inn": "benzoyl-peroxide",
+      "ingredients": [
+        "BENZOYL PEROXIDE",
+        "CLINDAMYCIN PHOSPHATE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-12-15",
+      "moieties": [
+        "BENZOYL PEROXIDE",
+        "CLINDAMYCIN"
+      ],
+      "product_ndcs": [
+        "51672-1366"
+      ],
+      "rxcui": [],
+      "setid": "b39aaacb-f429-4cb4-b88b-341b8b8b217c",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "CLINDAMYCIN PHOSPHATE AND BENZOYL PEROXIDE GEL [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2025-07-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA206959"
+      ],
+      "brand_names": [
+        "ADAPALENE and BENZOYL PEROXIDE"
+      ],
+      "combination": true,
+      "home_inn": "benzoyl-peroxide",
+      "ingredients": [
+        "ADAPALENE",
+        "BENZOYL PEROXIDE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-01-24",
+      "moieties": [
+        "ADAPALENE",
+        "BENZOYL PEROXIDE"
+      ],
+      "product_ndcs": [
+        "51672-1364"
+      ],
+      "rxcui": [
+        "829539"
+      ],
+      "setid": "a53f1aa5-d3d1-45af-8728-8f36090f49da",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "ADAPALENE AND BENZOYL PEROXIDE GEL [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2025-07-07"
+    },
+    {
+      "application_numbers": [
+        "NDA214902"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "TWYNEO"
+      ],
+      "first_posted": "2022-03-01",
+      "found_by": "TWYNEO",
+      "labeler": "Sol-Gel Technologies, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2022-03-31",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-03-02"
+      ],
+      "product_ndcs": [
+        "79167-301"
+      ],
+      "rxcui": [],
+      "setid": "0a4e3970-4945-4569-8dd9-d39289aa7308",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "27208dff-e376-4c18-b56e-0a260f685a39",
+        "654ae869-5bc0-40b3-a423-dcc3270c05d8"
+      ],
+      "title": "TWYNEO (tretinoin and benzoyl peroxide) cream"
+    },
+    {
+      "application_numbers": [
+        "NDA214510"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "EPSOLAY"
+      ],
+      "first_posted": "2022-05-30",
+      "found_by": "EPSOLAY",
+      "labeler": "Sol-Gel Technologies Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2022-12-08",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-12-01"
+      ],
+      "product_ndcs": [
+        "79167-005"
+      ],
+      "rxcui": [],
+      "setid": "2bb9bab5-770e-4e91-8d51-b9750454daf8",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "641981e6-460b-44dd-8146-306c47e5367c"
+      ],
+      "title": "EPSOLAY (benzoyl peroxide) cream"
+    },
+    {
+      "application_numbers": [
+        "NDA214510"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "EPSOLAY"
+      ],
+      "first_posted": "2022-05-11",
+      "found_by": "EPSOLAY",
+      "labeler": "Galderma Laboratories, L.P.",
+      "labeler_unverified": false,
+      "last_posted": "2025-07-07",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2026-06-30"
+      ],
+      "product_ndcs": [
+        "0299-5890"
+      ],
+      "rxcui": [],
+      "setid": "507e2cd7-6bcf-4606-bc62-694d64537701",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "641981e6-460b-44dd-8146-306c47e5367c"
+      ],
+      "title": "EPSOLAY (benzoyl peroxide) cream"
+    },
+    {
+      "application_numbers": [
+        "NDA050819"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "ACANYA"
+      ],
+      "first_posted": "2009-01-05",
+      "found_by": "ACANYA",
+      "labeler": "Dow Pharmaceuticals Sciences",
+      "labeler_unverified": true,
+      "last_posted": "2014-05-23",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2014-04-30"
+      ],
+      "product_ndcs": [
+        "59987-101"
+      ],
+      "rxcui": [],
+      "setid": "dabcc73b-e02f-4ebf-85f0-91d33daaf8c5",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "3dcd2c96-72b1-4a9f-b65c-08198d63b7df",
+        "697e760a-c206-4565-8f4e-a8085e215827",
+        "edae294f-cc8b-4f94-8d90-4c764fda307b"
+      ],
+      "title": "ACANYA (clindamycin phosphate and benzoyl peroxide) kit"
+    },
+    {
+      "application_numbers": [
+        "NDA214510"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "EPSOLAY"
+      ],
+      "first_posted": "2025-08-04",
+      "found_by": "EPSOLAY",
+      "labeler": "Mayne Pharma Commercial LLC",
+      "labeler_unverified": false,
+      "last_posted": "2025-08-18",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-08-01"
+      ],
+      "product_ndcs": [
+        "68308-772"
+      ],
+      "rxcui": [],
+      "setid": "e911466f-55d3-4b35-a2ae-59fd562e6a5b",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "641981e6-460b-44dd-8146-306c47e5367c"
+      ],
+      "title": "EPSOLAY (benzoyl peroxide) cream"
+    },
+    {
+      "application_numbers": [
+        "NDA214902"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "TWYNEO"
+      ],
+      "first_posted": "2025-08-04",
+      "found_by": "TWYNEO",
+      "labeler": "Mayne Pharma Commercial LLC",
+      "labeler_unverified": false,
+      "last_posted": "2025-08-18",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-08-01"
+      ],
+      "product_ndcs": [
+        "68308-771"
+      ],
+      "rxcui": [],
+      "setid": "ebeff220-d843-4279-b6a0-17555a8ed432",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "27208dff-e376-4c18-b56e-0a260f685a39",
+        "654ae869-5bc0-40b3-a423-dcc3270c05d8"
+      ],
+      "title": "TWYNEO (benzoyl peroxide and tretinoin) cream"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": true,
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e50e3ef9-3a9b-4172-a908-71c973a7fb5c"
+    },
+    {
+      "combination": true,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "449884c1-cf3b-4e2c-b8a0-82442ea8523a"
+    },
+    {
+      "combination": true,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "13fc72e9-7178-4a8b-9fe8-d88ba591dac8"
+    },
+    {
+      "combination": true,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "83d52507-99a1-4461-b067-5ec01dc6c5d3"
+    },
+    {
+      "combination": true,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "76795d1b-e1f2-4d1d-b42a-f1d4448c63c0"
+    },
+    {
+      "combination": true,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0a98fc1e-be75-4c22-a7a7-2e4f033b3701"
+    },
+    {
+      "combination": true,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fc8e868f-9699-4ae6-83d5-fa27789336cd"
+    },
+    {
+      "combination": true,
+      "labeler": "Encube Ethicals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8ca01174-431e-449a-a85e-8c68d506776c"
+    },
+    {
+      "combination": true,
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "92dcba02-f42f-482d-8cd5-2b5ab8fa540a"
+    },
+    {
+      "combination": true,
+      "labeler": "Viona Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3a0fa489-4720-4760-a476-2317aef5a231"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "73a32997-23da-46b6-8652-7197f55c9847"
+    },
+    {
+      "combination": true,
+      "labeler": "Teva Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "05babd5f-18ab-4646-8962-cb000ed0f9a8"
+    },
+    {
+      "combination": true,
+      "labeler": "Encube Ethicals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "66858a82-cfda-4ba9-aac7-cf65499f4b1a"
+    },
+    {
+      "combination": true,
+      "labeler": "Encube Ethicals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "977b2395-14ff-4c64-9a1e-77ef75805a83"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "25e4ee12-f43a-4c87-9e34-64e91d06a368"
+    },
+    {
+      "combination": true,
+      "labeler": "Oceanside Pharmaceuticals",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1d53ec2b-d33d-4245-99f1-e41b30303660"
+    },
+    {
+      "combination": true,
+      "labeler": "Medimetriks Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e2cd1c2a-00ee-465e-a4f4-9c0a0bc6266f"
+    },
+    {
+      "combination": true,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cc45f9bc-4639-4d95-b12d-01f6504592bb"
+    },
+    {
+      "combination": true,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e19de12c-f29b-42ab-9e81-1af8e4a66643"
+    },
+    {
+      "combination": true,
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "221de6a3-c1d7-4dcf-a47b-51edaa682c2a"
+    },
+    {
+      "combination": true,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d374a9b9-3ee9-4bc4-bcb9-a947d76cb6e5"
+    },
+    {
+      "combination": true,
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2dfc025a-8eac-4e05-a1fe-dc22914002bb"
+    },
+    {
+      "combination": true,
+      "labeler": "Northstar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2fcf4e8d-dd05-49c2-948b-10abbb52e4bc"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2d4e5111-4f9f-42dd-8cf7-56bdc51fbbad"
+    },
+    {
+      "combination": true,
+      "labeler": "Mayne Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c7381600-2e4c-4e7b-aa67-fe7d5fae7b40"
+    }
+  ]
+}

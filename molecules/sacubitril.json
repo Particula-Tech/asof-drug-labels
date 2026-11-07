@@ -1,0 +1,509 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 2,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "only combination central products under this exact INN (combinations are not built)",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "SACUBITRIL"
+  ],
+  "inn": "sacubitril",
+  "name": "SACUBITRIL",
+  "rank": 169,
+  "rxcui": [
+    "1656340",
+    "1656346",
+    "1656349",
+    "1656351",
+    "1656354",
+    "1656356",
+    "2679793",
+    "2679797",
+    "2679800",
+    "2679802"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 27,
+    "approval_holders": 25,
+    "earliest_marketing_start": "2015-07-07",
+    "latest_label_update": "2026-10-28",
+    "nda_bla_applications": 2,
+    "repackagers": 4
+  },
+  "unii": [
+    {
+      "ingredient": "SACUBITRIL",
+      "unii": "17ERJ0MKGI"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA207620",
+        "NDA218591"
+      ],
+      "brand_names": [
+        "ENTRESTO"
+      ],
+      "combination": true,
+      "home_inn": "valsartan",
+      "ingredients": [
+        "SACUBITRIL",
+        "VALSARTAN"
+      ],
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-07-07",
+      "moieties": [
+        "SACUBITRIL",
+        "VALSARTAN"
+      ],
+      "product_ndcs": [
+        "0078-0659",
+        "0078-0696",
+        "0078-0777",
+        "0078-1231",
+        "0078-1238",
+        "0078-9659",
+        "0078-9777"
+      ],
+      "rxcui": [
+        "1656340",
+        "1656346",
+        "1656349",
+        "1656351",
+        "1656354",
+        "1656356",
+        "2679793",
+        "2679797",
+        "2679800",
+        "2679802"
+      ],
+      "setid": "000dc81d-ab91-450c-8eae-8eb74e72296f",
+      "source": "openfda",
+      "spl_version": 25,
+      "title": "ENTRESTO (SACUBITRIL AND VALSARTAN) TABLET, FILM COATED ENTRESTO (SACUBITRIL AND VALSARTAN) PELLET [NOVARTIS PHARMACEUTICALS CORPORATION]",
+      "upload_date": "2026-07-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA213728"
+      ],
+      "brand_names": [
+        "Sacubitril and Valsartan"
+      ],
+      "combination": true,
+      "home_inn": "sacubitril",
+      "ingredients": [
+        "SACUBITRIL",
+        "VALSARTAN"
+      ],
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-10-16",
+      "moieties": [
+        "SACUBITRIL",
+        "VALSARTAN"
+      ],
+      "product_ndcs": [
+        "33342-570",
+        "33342-571",
+        "33342-572"
+      ],
+      "rxcui": [
+        "1656340",
+        "1656349",
+        "1656354"
+      ],
+      "setid": "103c39e2-f3c8-40fc-a57e-3af018fb4af4",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "SACUBITRIL AND VALSARTAN TABLET [MACLEODS PHARMACEUTICALS LIMITED]",
+      "upload_date": "2025-06-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA213682"
+      ],
+      "brand_names": [
+        "sacubitril and valsartan"
+      ],
+      "combination": true,
+      "home_inn": "sacubitril",
+      "ingredients": [
+        "SACUBITRIL",
+        "VALSARTAN"
+      ],
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-11-04",
+      "moieties": [
+        "SACUBITRIL",
+        "VALSARTAN"
+      ],
+      "product_ndcs": [
+        "62332-556",
+        "62332-557",
+        "62332-558"
+      ],
+      "rxcui": [
+        "1656340",
+        "1656349",
+        "1656354"
+      ],
+      "setid": "5928f174-83e5-4c74-b15a-138338a70295",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "SACUBITRIL AND VALSARTAN TABLET, FILM COATED [ALEMBIC PHARMACEUTICALS INC.]",
+      "upload_date": "2024-11-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA213676"
+      ],
+      "brand_names": [
+        "Sacubitril and Valsartan"
+      ],
+      "combination": true,
+      "home_inn": "sacubitril",
+      "ingredients": [
+        "SACUBITRIL",
+        "VALSARTAN"
+      ],
+      "labeler": "Laurus Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-11-11",
+      "moieties": [
+        "SACUBITRIL",
+        "VALSARTAN"
+      ],
+      "product_ndcs": [
+        "42385-930",
+        "42385-931",
+        "42385-932"
+      ],
+      "rxcui": [
+        "1656340",
+        "1656349",
+        "1656354"
+      ],
+      "setid": "b47b5c7e-1c20-429c-9560-07f5f06cdce3",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "SACUBITRIL AND VALSARTAN TABLET, FILM COATED [LAURUS LABS LIMITED]",
+      "upload_date": "2024-11-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA213605"
+      ],
+      "brand_names": [
+        "Sacubitril and Valsartan"
+      ],
+      "combination": true,
+      "home_inn": "sacubitril",
+      "ingredients": [
+        "SACUBITRIL",
+        "VALSARTAN"
+      ],
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-06-02",
+      "moieties": [
+        "SACUBITRIL",
+        "VALSARTAN"
+      ],
+      "product_ndcs": [
+        "69238-2731",
+        "69238-2732",
+        "69238-2733"
+      ],
+      "rxcui": [
+        "1656340",
+        "1656349",
+        "1656354"
+      ],
+      "setid": "e4011f11-2035-4f32-8df6-b1580c2a6e2a",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "SACUBITRIL AND VALSARTAN TABLET, FILM COATED [AMNEAL PHARMACEUTICALS NY LLC]",
+      "upload_date": "2025-07-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA213719"
+      ],
+      "brand_names": [
+        "sacubitril and valsartan"
+      ],
+      "combination": true,
+      "home_inn": "sacubitril",
+      "ingredients": [
+        "SACUBITRIL",
+        "VALSARTAN"
+      ],
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-07-08",
+      "moieties": [
+        "SACUBITRIL",
+        "VALSARTAN"
+      ],
+      "product_ndcs": [
+        "70771-1921",
+        "70771-1922",
+        "70771-1923"
+      ],
+      "rxcui": [
+        "1656340",
+        "1656349",
+        "1656354"
+      ],
+      "setid": "4c871c01-0564-411f-87e2-478aa42503cf",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "SACUBITRIL AND VALSARTAN TABLET [ZYDUS LIFESCIENCES LIMITED]",
+      "upload_date": "2025-07-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA213748"
+      ],
+      "brand_names": [
+        "Sacubitril and Valsartan"
+      ],
+      "combination": true,
+      "home_inn": "sacubitril",
+      "ingredients": [
+        "SACUBITRIL",
+        "VALSARTAN"
+      ],
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-07-16",
+      "moieties": [
+        "SACUBITRIL",
+        "VALSARTAN"
+      ],
+      "product_ndcs": [
+        "72205-280",
+        "72205-281",
+        "72205-282"
+      ],
+      "rxcui": [
+        "1656340",
+        "1656349",
+        "1656354"
+      ],
+      "setid": "44db8114-622e-41f6-96a1-447d47b0267c",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "SACUBITRIL AND VALSARTAN TABLET, FILM COATED [NOVADOZ PHARMACEUTICALS LLC]",
+      "upload_date": "2025-07-25"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": true,
+      "labeler": "Torrent Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "59b7a07a-96ee-44b1-8dae-2b42169aa2c5"
+    },
+    {
+      "combination": true,
+      "labeler": "Novugen Pharma (USA) LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "747eeb5c-ac2f-474f-b6d2-0586d12653a6"
+    },
+    {
+      "combination": true,
+      "labeler": "Dr. Reddy's Laboratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f4789255-b59b-544b-bbbe-2edd07da6079"
+    },
+    {
+      "combination": true,
+      "labeler": "Biocon Pharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7de9b8e0-195a-b59e-7bbf-3e95c4096af9"
+    },
+    {
+      "combination": true,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "65a3e298-279d-4498-a7be-5f9ee5bc77d8"
+    },
+    {
+      "combination": true,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "98d838f6-03a9-43e9-b8dd-8882c6df1631"
+    },
+    {
+      "combination": true,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "76cbb87b-6356-4ead-af7f-faffb6e79743"
+    },
+    {
+      "combination": true,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4f88efbb-3718-43a1-91d4-da5943ccfca1"
+    },
+    {
+      "combination": true,
+      "labeler": "Umedica Laboratories USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3173e592-6f28-4864-9bf0-0ef0452da3de"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ccfa182e-8a23-42e1-9062-be2655c96208"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e4716fc9-5f73-4303-8a4e-e8f9129b6e2d"
+    },
+    {
+      "combination": true,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4ed0dbe4-8752-43c5-8c28-17c9638a52d6"
+    },
+    {
+      "combination": true,
+      "labeler": "Novugen Pharma (USA) LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ec37696b-eaac-4c74-9328-94857ce998e5"
+    },
+    {
+      "combination": true,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a0f23b69-5a1b-4aa8-8f0c-5818bd609492"
+    },
+    {
+      "combination": true,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a1fa7066-8ab4-47e3-a701-6c5170700d11"
+    },
+    {
+      "combination": true,
+      "labeler": "XLCare Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "064a7c51-de30-4759-8210-e18438e6a187"
+    },
+    {
+      "combination": true,
+      "labeler": "Major Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f2cba3db-0256-422a-a8a4-7afb3a9970d0"
+    },
+    {
+      "combination": true,
+      "labeler": "AvKARE",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "43bcdbc7-a635-bb4e-e063-6294a90a990f"
+    },
+    {
+      "combination": true,
+      "labeler": "Golden State Medical Supply, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8290ae4c-0d1e-47f6-8029-ddc1c0bd6f6d"
+    },
+    {
+      "combination": true,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "998db1e1-3f32-4812-a64b-5a6870ef7f8f"
+    }
+  ]
+}

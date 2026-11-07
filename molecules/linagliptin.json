@@ -1,0 +1,496 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/002110",
+      "eu_number": "EU/1/11/707",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-002110",
+      "mah": "Boehringer Ingelheim International GmbH",
+      "marketing_authorisation_date": "2011-08-23",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/trajenta",
+      "name": "Trajenta",
+      "record_from": "2011-08-24",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 15
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 2,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-002110",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "LINAGLIPTIN"
+  ],
+  "inn": "linagliptin",
+  "name": "LINAGLIPTIN",
+  "rank": 146,
+  "rxcui": [
+    "1100702",
+    "1100706",
+    "1243020",
+    "1243026",
+    "1243027",
+    "1243033",
+    "1243034",
+    "1243040",
+    "1602109",
+    "1602115",
+    "1602118",
+    "1602120",
+    "1796089",
+    "1796091",
+    "1796094",
+    "1796096",
+    "2359279",
+    "2359285",
+    "2359288",
+    "2359290",
+    "2359351",
+    "2359353",
+    "2359356",
+    "2359358"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 6,
+    "approval_holders": 2,
+    "earliest_marketing_start": "2011-05-09",
+    "latest_label_update": "2026-08-27",
+    "nda_bla_applications": 5,
+    "repackagers": 2
+  },
+  "unii": [
+    {
+      "ingredient": "LINAGLIPTIN",
+      "unii": "3X29ZEJ4R2"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA201280"
+      ],
+      "brand_names": [
+        "Tradjenta"
+      ],
+      "combination": false,
+      "home_inn": "linagliptin",
+      "ingredients": [
+        "LINAGLIPTIN"
+      ],
+      "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2011-05-09",
+      "moieties": [
+        "LINAGLIPTIN"
+      ],
+      "product_ndcs": [
+        "0597-0140"
+      ],
+      "rxcui": [
+        "1100702",
+        "1100706"
+      ],
+      "setid": "c797ea5c-cab7-494b-9044-27eba0cfe40f",
+      "source": "openfda",
+      "spl_version": 32,
+      "title": "TRADJENTA (LINAGLIPTIN) TABLET, FILM COATED [BOEHRINGER INGELHEIM PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-03-27"
+    },
+    {
+      "application_numbers": [
+        "NDA201281"
+      ],
+      "brand_names": [
+        "Jentadueto"
+      ],
+      "combination": true,
+      "home_inn": "metformin",
+      "ingredients": [
+        "LINAGLIPTIN",
+        "METFORMIN HYDROCHLORIDE"
+      ],
+      "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2012-02-13",
+      "moieties": [
+        "LINAGLIPTIN",
+        "METFORMIN"
+      ],
+      "product_ndcs": [
+        "0597-0146",
+        "0597-0147",
+        "0597-0148"
+      ],
+      "rxcui": [
+        "1243020",
+        "1243026",
+        "1243027",
+        "1243033",
+        "1243034",
+        "1243040"
+      ],
+      "setid": "f6dd9b86-0d18-95d4-2bc7-05591bfdd597",
+      "source": "openfda",
+      "spl_version": 46,
+      "title": "JENTADUETO (LINAGLIPTIN AND METFORMIN HYDROCHLORIDE) TABLET, FILM COATED [BOEHRINGER INGELHEIM PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-08-26"
+    },
+    {
+      "application_numbers": [
+        "NDA206073"
+      ],
+      "brand_names": [
+        "Glyxambi"
+      ],
+      "combination": true,
+      "home_inn": "empagliflozin",
+      "ingredients": [
+        "EMPAGLIFLOZIN",
+        "LINAGLIPTIN"
+      ],
+      "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-01-30",
+      "moieties": [
+        "EMPAGLIFLOZIN",
+        "LINAGLIPTIN"
+      ],
+      "product_ndcs": [
+        "0597-0164",
+        "0597-0182"
+      ],
+      "rxcui": [
+        "1602109",
+        "1602115",
+        "1602118",
+        "1602120"
+      ],
+      "setid": "ddbab689-f76c-488c-9613-4168d41dd730",
+      "source": "openfda",
+      "spl_version": 23,
+      "title": "GLYXAMBI (EMPAGLIFLOZIN AND LINAGLIPTIN) TABLET, FILM COATED [BOEHRINGER INGELHEIM PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-02-02"
+    },
+    {
+      "application_numbers": [
+        "NDA208026"
+      ],
+      "brand_names": [
+        "Jentadueto XR"
+      ],
+      "combination": true,
+      "home_inn": "metformin",
+      "ingredients": [
+        "LINAGLIPTIN",
+        "METFORMIN HYDROCHLORIDE"
+      ],
+      "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2016-05-27",
+      "moieties": [
+        "LINAGLIPTIN",
+        "METFORMIN"
+      ],
+      "product_ndcs": [
+        "0597-0270",
+        "0597-0275"
+      ],
+      "rxcui": [
+        "1796089",
+        "1796091",
+        "1796094",
+        "1796096"
+      ],
+      "setid": "3d02a4d4-d312-80b4-05c4-691b8f0aa7aa",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "JENTADUETO XR (LINAGLIPTIN AND METFORMIN HYDROCHLORIDE) TABLET, FILM COATED, EXTENDED RELEASE [BOEHRINGER INGELHEIM PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-08-27"
+    },
+    {
+      "application_numbers": [
+        "NDA212614"
+      ],
+      "brand_names": [
+        "Trijardy XR"
+      ],
+      "combination": true,
+      "home_inn": "empagliflozin",
+      "ingredients": [
+        "EMPAGLIFLOZIN",
+        "LINAGLIPTIN",
+        "METFORMIN HYDROCHLORIDE"
+      ],
+      "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2020-04-23",
+      "moieties": [
+        "EMPAGLIFLOZIN",
+        "LINAGLIPTIN",
+        "METFORMIN"
+      ],
+      "product_ndcs": [
+        "0597-0380",
+        "0597-0385",
+        "0597-0390",
+        "0597-0395"
+      ],
+      "rxcui": [
+        "2359279",
+        "2359285",
+        "2359288",
+        "2359290",
+        "2359351",
+        "2359353",
+        "2359356",
+        "2359358"
+      ],
+      "setid": "71873567-9594-452a-bb92-34a129adecac",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "TRIJARDY XR (EMPAGLIFLOZIN, LINAGLIPTIN, METFORMIN HYDROCHLORIDE) TABLET, EXTENDED RELEASE [BOEHRINGER INGELHEIM PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-08-25"
+    },
+    {
+      "application_numbers": [
+        "ANDA208459"
+      ],
+      "brand_names": [
+        "Linagliptin and metformin hydrochloride"
+      ],
+      "combination": true,
+      "home_inn": "linagliptin",
+      "ingredients": [
+        "LINAGLIPTIN",
+        "METFORMIN HYDROCHLORIDE"
+      ],
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-11-03",
+      "moieties": [
+        "LINAGLIPTIN",
+        "METFORMIN"
+      ],
+      "product_ndcs": [
+        "72205-407",
+        "72205-408",
+        "72205-409"
+      ],
+      "rxcui": [
+        "1243020",
+        "1243027",
+        "1243034"
+      ],
+      "setid": "5cff87ef-97f9-4e3c-9e06-fd257f3cb3fb",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "LINAGLIPTIN AND METFORMIN HYDROCHLORIDE TABLET, FILM COATED [NOVADOZ PHARMACEUTICALS LLC]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "NDA201281"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "JENTADUETO"
+      ],
+      "first_posted": "2024-07-09",
+      "found_by": "JENTADUETO",
+      "labeler": "Praxis, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2024-07-09",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "59368-036",
+        "59368-037",
+        "59368-038"
+      ],
+      "rxcui": [],
+      "setid": "1cc1b612-dc13-c230-e063-6294a90a8566",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "f6dd9b86-0d18-95d4-2bc7-05591bfdd597"
+      ],
+      "title": "JENTADUETO (linagliptin and metformin hydrochloride) tablet, film coated"
+    },
+    {
+      "application_numbers": [
+        "NDA201280"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "TRADJENTA"
+      ],
+      "first_posted": "2024-07-09",
+      "found_by": "TRADJENTA",
+      "labeler": "Praxis,LLC",
+      "labeler_unverified": false,
+      "last_posted": "2024-07-09",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "59368-043"
+      ],
+      "rxcui": [],
+      "setid": "1cc2940c-35be-99a6-e063-6294a90a0329",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "c797ea5c-cab7-494b-9044-27eba0cfe40f"
+      ],
+      "title": "TRADJENTA (linagliptin) tablet, film coated"
+    },
+    {
+      "application_numbers": [
+        "NDA206073"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "GLYXAMBI"
+      ],
+      "first_posted": "2025-06-09",
+      "found_by": "GLYXAMBI",
+      "labeler": "Praxis, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2025-06-09",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "59368-378"
+      ],
+      "rxcui": [],
+      "setid": "36d5d11a-69bb-c05b-e063-6394a90ac06e",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "ddbab689-f76c-488c-9613-4168d41dd730"
+      ],
+      "title": "GLYXAMBI (empagliflozin and linagliptin) tablet, film coated"
+    },
+    {
+      "application_numbers": [
+        "NDA208026"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "JENTADUETO"
+      ],
+      "first_posted": "2025-06-09",
+      "found_by": "JENTADUETO",
+      "labeler": "Praxis, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2025-06-09",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "59368-381"
+      ],
+      "rxcui": [],
+      "setid": "36d616e1-c256-ce92-e063-6394a90ab94b",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "3d02a4d4-d312-80b4-05c4-691b8f0aa7aa"
+      ],
+      "title": "JENTADUETO XR (linagliptin and metformin hydrochloride) tablet, film coated, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA201280"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "TRADJENTA"
+      ],
+      "first_posted": "2025-06-09",
+      "found_by": "TRADJENTA",
+      "labeler": "Praxis, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2025-06-09",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "59368-388"
+      ],
+      "rxcui": [],
+      "setid": "36d73f3a-d6f3-5c1c-e063-6394a90a2542",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "c797ea5c-cab7-494b-9044-27eba0cfe40f"
+      ],
+      "title": "TRADJENTA (linagliptin) tablet, film coated"
+    },
+    {
+      "application_numbers": [
+        "NDA212614"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "TRIJARDY"
+      ],
+      "first_posted": "2025-06-09",
+      "found_by": "TRIJARDY",
+      "labeler": "Praxis, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2025-06-09",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "59368-389",
+        "59368-390"
+      ],
+      "rxcui": [],
+      "setid": "36d750ca-0eb4-e88c-e063-6294a90a76f6",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "71873567-9594-452a-bb92-34a129adecac"
+      ],
+      "title": "TRIJARDY XR (empagliflozin, linagliptin, metformin hydrochloride) tablet, extended release"
+    }
+  ],
+  "us_excluded": []
+}

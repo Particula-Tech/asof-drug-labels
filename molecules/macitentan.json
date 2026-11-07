@@ -1,0 +1,443 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand OPSUMIT",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/002697",
+      "eu_number": "EU/1/13/893",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-002697",
+      "mah": "",
+      "marketing_authorisation_date": "2013-12-20",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/opsumit",
+      "name": "Opsumit",
+      "record_from": "2013-12-20",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 12
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/006523",
+      "eu_number": "EU/1/25/1971",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-006523",
+      "mah": "Accord Healthcare",
+      "marketing_authorisation_date": "2025-09-24",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/macitentan-accordpharma",
+      "name": "Macitentan AccordPharma",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/006524",
+      "eu_number": "EU/1/25/1970",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-006524",
+      "mah": "Accord Healthcare",
+      "marketing_authorisation_date": "2025-09-24",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/macitentan-accord",
+      "name": "Macitentan Accord",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 1,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-002697",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "MACITENTAN"
+  ],
+  "inn": "macitentan",
+  "name": "MACITENTAN",
+  "rank": 393,
+  "rxcui": [
+    "1442137",
+    "1442143",
+    "2677765",
+    "2677771",
+    "2677773",
+    "2677775"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 16,
+    "approval_holders": 15,
+    "earliest_marketing_start": "2013-11-04",
+    "latest_label_update": "2026-10-09",
+    "nda_bla_applications": 2,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "MACITENTAN",
+      "unii": "Z9K9Y9WMVL"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA204410"
+      ],
+      "brand_names": [
+        "OPSUMIT"
+      ],
+      "combination": false,
+      "home_inn": "macitentan",
+      "ingredients": [
+        "MACITENTAN"
+      ],
+      "labeler": "Actelion Pharmaceuticals US, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2013-11-04",
+      "moieties": [
+        "MACITENTAN"
+      ],
+      "product_ndcs": [
+        "66215-501"
+      ],
+      "rxcui": [
+        "1442137",
+        "1442143"
+      ],
+      "setid": "1e484a50-55db-4b85-8c57-6cd1b0353abd",
+      "source": "openfda",
+      "spl_version": 35,
+      "title": "OPSUMIT (MACITENTAN) TABLET, FILM COATED [ACTELION PHARMACEUTICALS US, INC.]",
+      "upload_date": "2025-04-14"
+    },
+    {
+      "application_numbers": [
+        "NDA218490"
+      ],
+      "brand_names": [
+        "OPSYNVI"
+      ],
+      "combination": true,
+      "home_inn": "tadalafil",
+      "ingredients": [
+        "MACITENTAN",
+        "TADALAFIL"
+      ],
+      "labeler": "Actelion Pharmaceuticals US, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-03-22",
+      "moieties": [
+        "MACITENTAN",
+        "TADALAFIL"
+      ],
+      "product_ndcs": [
+        "66215-812",
+        "66215-814"
+      ],
+      "rxcui": [
+        "2677765",
+        "2677771",
+        "2677773",
+        "2677775"
+      ],
+      "setid": "6945b183-18d3-40de-afd1-c88e33cc1a63",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "OPSYNVI (MACITENTAN AND TADALAFIL) TABLET, FILM COATED [ACTELION PHARMACEUTICALS US, INC.]",
+      "upload_date": "2025-04-14"
+    },
+    {
+      "application_numbers": [
+        "ANDA211136"
+      ],
+      "brand_names": [
+        "macitentan"
+      ],
+      "combination": false,
+      "home_inn": "macitentan",
+      "ingredients": [
+        "MACITENTAN"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-08-20",
+      "moieties": [
+        "MACITENTAN"
+      ],
+      "product_ndcs": [
+        "0781-8135"
+      ],
+      "rxcui": [
+        "1442137"
+      ],
+      "setid": "91232484-55b7-47dc-bc30-e63a6b469df6",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "MACITENTAN TABLET, FILM COATED [SANDOZ INC]",
+      "upload_date": "2026-04-20"
+    },
+    {
+      "application_numbers": [
+        "ANDA211224"
+      ],
+      "brand_names": [
+        "MACITENTAN"
+      ],
+      "combination": false,
+      "home_inn": "macitentan",
+      "ingredients": [
+        "MACITENTAN"
+      ],
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-11-05",
+      "moieties": [
+        "MACITENTAN"
+      ],
+      "product_ndcs": [
+        "70710-1166"
+      ],
+      "rxcui": [
+        "1442137"
+      ],
+      "setid": "39ed1c20-99ae-4780-b040-dbebfc90018f",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "MACITENTAN TABLET, FILM COATED [ZYDUS PHARMACEUTICALS USA INC.]",
+      "upload_date": "2026-05-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA211026"
+      ],
+      "brand_names": [
+        "Macitentan"
+      ],
+      "combination": false,
+      "home_inn": "macitentan",
+      "ingredients": [
+        "MACITENTAN"
+      ],
+      "labeler": "Novugen Pharma (USA) LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-05-07",
+      "moieties": [
+        "MACITENTAN"
+      ],
+      "product_ndcs": [
+        "82293-041"
+      ],
+      "rxcui": [
+        "1442137"
+      ],
+      "setid": "8cabe7dd-1592-4764-a48a-f086288cae61",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "MACITENTAN TABLET, FILM COATED [NOVUGEN PHARMA (USA) LLC]",
+      "upload_date": "2026-05-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA211120"
+      ],
+      "brand_names": [
+        "Macitentan"
+      ],
+      "combination": false,
+      "home_inn": "macitentan",
+      "ingredients": [
+        "MACITENTAN"
+      ],
+      "labeler": "Laurus Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-05-15",
+      "moieties": [
+        "MACITENTAN"
+      ],
+      "product_ndcs": [
+        "42385-907"
+      ],
+      "rxcui": [
+        "1442137"
+      ],
+      "setid": "93f0ab4a-4756-4915-a000-ed65b26cd61c",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "MACITENTAN TABLET, FILM COATED [LAURUS LABS LIMITED]",
+      "upload_date": "2026-05-20"
+    },
+    {
+      "application_numbers": [
+        "ANDA211107"
+      ],
+      "brand_names": [
+        "Macitentan"
+      ],
+      "combination": false,
+      "home_inn": "macitentan",
+      "ingredients": [
+        "MACITENTAN"
+      ],
+      "labeler": "Torrent Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-06-01",
+      "moieties": [
+        "MACITENTAN"
+      ],
+      "product_ndcs": [
+        "13668-542"
+      ],
+      "rxcui": [
+        "1442137"
+      ],
+      "setid": "fbfae088-44e6-4296-81d1-c2b6eecacc81",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "MACITENTAN TABLET [TORRENT PHARMACEUTICALS LIMITED]",
+      "upload_date": "2026-06-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA211128"
+      ],
+      "brand_names": [
+        "Macitentan"
+      ],
+      "combination": false,
+      "home_inn": "macitentan",
+      "ingredients": [
+        "MACITENTAN"
+      ],
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-06-06",
+      "moieties": [
+        "MACITENTAN"
+      ],
+      "product_ndcs": [
+        "46708-373"
+      ],
+      "rxcui": [
+        "1442137"
+      ],
+      "setid": "4d9d9a84-6853-4004-b20a-8849b34453a4",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "MACITENTAN TABLET, FILM COATED [ALEMBIC PHARMACEUTICALS LIMITED]",
+      "upload_date": "2026-06-08"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8de5c74f-b172-4485-a3f0-95e0172299d8"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "88b9f3b0-3f8f-47e4-bbd7-a2a785ed4ac0"
+    },
+    {
+      "combination": false,
+      "labeler": "Teva Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b196010f-2ba2-4fa7-8e19-a58000a9563d"
+    },
+    {
+      "combination": false,
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d88a13e7-cf08-4632-86be-dcd979516296"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e153997b-7b61-4737-97bd-ff8be3c09795"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "226049ba-9c76-0798-6725-ee027a041820"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "98b3309a-5012-42b5-b773-a38c2f52296c"
+    },
+    {
+      "combination": false,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a654726e-f12f-4b03-8bfe-727f26761dce"
+    }
+  ]
+}

@@ -1,0 +1,1120 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "CIPROFLOXACIN",
+    "CIPROFLOXACIN HYDROCHLORIDE"
+  ],
+  "inn": "ciprofloxacin",
+  "name": "CIPROFLOXACIN",
+  "rank": 97,
+  "rxcui": [
+    "197511",
+    "197512",
+    "205769",
+    "205770",
+    "213224",
+    "213226",
+    "213307",
+    "213320",
+    "309305",
+    "309306",
+    "309307",
+    "309308",
+    "309309",
+    "309310",
+    "1665210",
+    "1665212"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 37,
+    "approval_holders": 30,
+    "earliest_marketing_start": "1987-10-22",
+    "latest_label_update": "2026-10-26",
+    "nda_bla_applications": 4,
+    "repackagers": 29
+  },
+  "unii": [
+    {
+      "ingredient": "CIPROFLOXACIN",
+      "unii": "5E8K9I0O4U"
+    },
+    {
+      "ingredient": "CIPROFLOXACIN HYDROCHLORIDE",
+      "unii": "4BA73M5E37"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA019537",
+        "NDA020780"
+      ],
+      "brand_names": [
+        "Cipro"
+      ],
+      "combination": false,
+      "home_inn": "ciprofloxacin",
+      "ingredients": [
+        "CIPROFLOXACIN HYDROCHLORIDE"
+      ],
+      "labeler": "Bayer HealthCare Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1987-10-22",
+      "moieties": [
+        "CIPROFLOXACIN"
+      ],
+      "product_ndcs": [
+        "50419-754",
+        "50419-758",
+        "50419-773",
+        "50419-777"
+      ],
+      "rxcui": [
+        "197511",
+        "205769",
+        "205770",
+        "213224",
+        "213226",
+        "309308",
+        "309309",
+        "309310"
+      ],
+      "setid": "888dc7f9-ad9c-4c00-8d50-8ddfd9bd27c0",
+      "source": "openfda",
+      "spl_version": 32,
+      "title": "CIPRO (CIPROFLOXACIN HYDROCHLORIDE) TABLET, FILM COATED CIPRO (CIPROFLOXACIN) KIT [BAYER HEALTHCARE PHARMACEUTICALS INC.]",
+      "upload_date": "2026-03-04"
+    },
+    {
+      "application_numbers": [
+        "NDA020369"
+      ],
+      "brand_names": [
+        "CILOXAN"
+      ],
+      "combination": false,
+      "home_inn": "ciprofloxacin",
+      "ingredients": [
+        "CIPROFLOXACIN HYDROCHLORIDE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1998-06-02",
+      "moieties": [
+        "CIPROFLOXACIN"
+      ],
+      "product_ndcs": [
+        "66758-071"
+      ],
+      "rxcui": [
+        "213307",
+        "309306"
+      ],
+      "setid": "09ca5374-2a16-4a95-91b3-70591d78254e",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "CILOXAN (CIPROFLOXACIN HYDROCHLORIDE) OINTMENT [SANDOZ INC]",
+      "upload_date": "2025-04-14"
+    },
+    {
+      "application_numbers": [
+        "NDA020805"
+      ],
+      "brand_names": [
+        "CIPRO HC"
+      ],
+      "combination": true,
+      "home_inn": "hydrocortisone",
+      "ingredients": [
+        "CIPROFLOXACIN HYDROCHLORIDE",
+        "HYDROCORTISONE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1999-03-15",
+      "moieties": [
+        "CIPROFLOXACIN",
+        "HYDROCORTISONE"
+      ],
+      "product_ndcs": [
+        "66758-087"
+      ],
+      "rxcui": [
+        "213320",
+        "309305"
+      ],
+      "setid": "b26594a3-2adf-4954-8be0-5bd6f8de9671",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "CIPRO HC (CIPROFLOXACIN HYDROCHLORIDE AND HYDROCORTISONE) SUSPENSION/ DROPS [SANDOZ INC]",
+      "upload_date": "2025-12-02"
+    },
+    {
+      "application_numbers": [
+        "NDA019992"
+      ],
+      "brand_names": [
+        "Ciprofloxacin Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "ciprofloxacin",
+      "ingredients": [
+        "CIPROFLOXACIN HYDROCHLORIDE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2004-05-07",
+      "moieties": [
+        "CIPROFLOXACIN"
+      ],
+      "product_ndcs": [
+        "61314-656"
+      ],
+      "rxcui": [
+        "309307"
+      ],
+      "setid": "ab52b14d-345b-47ff-a832-465caddd3801",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "CIPROFLOXACIN HYDROCHLORIDE SOLUTION/ DROPS [SANDOZ INC]",
+      "upload_date": "2022-07-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA076558"
+      ],
+      "brand_names": [
+        "Ciprofloxacin"
+      ],
+      "combination": false,
+      "home_inn": "ciprofloxacin",
+      "ingredients": [
+        "CIPROFLOXACIN HYDROCHLORIDE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2004-06-09",
+      "moieties": [
+        "CIPROFLOXACIN"
+      ],
+      "product_ndcs": [
+        "0143-9928",
+        "0143-9929"
+      ],
+      "rxcui": [
+        "197511",
+        "197512",
+        "309309"
+      ],
+      "setid": "3b3d22dc-df09-4910-8c9b-1204eeedbd68",
+      "source": "dailymed-title-match",
+      "spl_version": 28,
+      "title": "CIPROFLOXACIN TABLET, FILM COATED [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2026-10-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA076639"
+      ],
+      "brand_names": [
+        "ciprofloxacin"
+      ],
+      "combination": false,
+      "home_inn": "ciprofloxacin",
+      "ingredients": [
+        "CIPROFLOXACIN HYDROCHLORIDE"
+      ],
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2004-09-10",
+      "moieties": [
+        "CIPROFLOXACIN"
+      ],
+      "product_ndcs": [
+        "16571-411",
+        "16571-412",
+        "16571-413"
+      ],
+      "rxcui": [
+        "197511",
+        "197512",
+        "309309"
+      ],
+      "setid": "ef468722-68cd-440b-afd7-2285029db41f",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "CIPROFLOXACIN TABLET, FILM COATED [RISING PHARMA HOLDINGS, INC.]",
+      "upload_date": "2025-07-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA076794"
+      ],
+      "brand_names": [
+        "Ciprofloxacin"
+      ],
+      "combination": false,
+      "home_inn": "ciprofloxacin",
+      "ingredients": [
+        "CIPROFLOXACIN HYDROCHLORIDE"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2006-11-01",
+      "moieties": [
+        "CIPROFLOXACIN"
+      ],
+      "product_ndcs": [
+        "16252-515"
+      ],
+      "rxcui": [
+        "197511",
+        "197512",
+        "309309"
+      ],
+      "setid": "3e4402d4-e0d3-9846-3e81-ed46f34137fe",
+      "source": "openfda",
+      "spl_version": 36,
+      "title": "CIPROFLOXACIN TABLET, FILM COATED [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2025-04-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA077859"
+      ],
+      "brand_names": [
+        "Ciprofloxacin"
+      ],
+      "combination": false,
+      "home_inn": "ciprofloxacin",
+      "ingredients": [
+        "CIPROFLOXACIN HYDROCHLORIDE"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2007-04-26",
+      "moieties": [
+        "CIPROFLOXACIN"
+      ],
+      "product_ndcs": [
+        "65862-076",
+        "65862-077",
+        "65862-078"
+      ],
+      "rxcui": [
+        "197511",
+        "197512",
+        "309309"
+      ],
+      "setid": "2b3b6a9f-259c-4736-b88f-f49d1eb64286",
+      "source": "openfda",
+      "spl_version": 33,
+      "title": "CIPROFLOXACIN (CIPROFLOXACIN HYDROCHLORIDE) TABLET, FILM COATED [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2025-08-01"
+    },
+    {
+      "application_numbers": [
+        "ANDA078252"
+      ],
+      "brand_names": [
+        "Ciprofloxacin"
+      ],
+      "combination": false,
+      "home_inn": "ciprofloxacin",
+      "ingredients": [
+        "CIPROFLOXACIN"
+      ],
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2008-03-24",
+      "moieties": [
+        "CIPROFLOXACIN"
+      ],
+      "product_ndcs": [
+        "25021-114"
+      ],
+      "rxcui": [
+        "1665210",
+        "1665212"
+      ],
+      "setid": "7049f870-6741-4a67-8033-398c36126a06",
+      "source": "openfda",
+      "spl_version": 24,
+      "title": "CIPROFLOXACIN INJECTION, SOLUTION [SAGENT PHARMACEUTICALS]",
+      "upload_date": "2023-03-22"
+    },
+    {
+      "application_numbers": [
+        "NDA020369"
+      ],
+      "archived_versions": 9,
+      "brand_names": [
+        "CILOXAN"
+      ],
+      "first_posted": "2008-03-13",
+      "found_by": "CILOXAN",
+      "labeler": "Alcon Laboratories, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2021-09-10",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-01-31"
+      ],
+      "product_ndcs": [
+        "0065-0654"
+      ],
+      "rxcui": [],
+      "setid": "1c292706-a900-4d6f-979e-9c42d6ff2fb2",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "09ca5374-2a16-4a95-91b3-70591d78254e"
+      ],
+      "title": "CILOXAN (ciprofloxacin hydrochloride) ointment"
+    },
+    {
+      "application_numbers": [
+        "NDA207986"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "OTIPRIO"
+      ],
+      "first_posted": "2022-04-04",
+      "found_by": "OTIPRIO",
+      "labeler": "ALK-Abello, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2022-12-02",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-12-31"
+      ],
+      "product_ndcs": [
+        "0268-8200"
+      ],
+      "rxcui": [],
+      "setid": "31e8074e-63a7-409b-bd85-b6102199618b",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "OTIPRIO suspension"
+    },
+    {
+      "application_numbers": [
+        "NDA021473"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "CIPRO"
+      ],
+      "first_posted": "2008-07-25",
+      "found_by": "CIPRO",
+      "labeler": "Schering Plough Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2013-07-31",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-07-29"
+      ],
+      "product_ndcs": [
+        "0085-1775",
+        "0085-1778"
+      ],
+      "rxcui": [],
+      "setid": "42f6c7bd-9bd3-42d1-9f7e-e762cab1e0f0",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "CIPRO (ciprofloxacin) tablet, film coated"
+    },
+    {
+      "application_numbers": [
+        "NDA019857"
+      ],
+      "archived_versions": 14,
+      "brand_names": [
+        "CIPRO"
+      ],
+      "first_posted": "2011-04-21",
+      "found_by": "CIPRO",
+      "labeler": "Bayer HealthCare Pharmaceuticals Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2019-05-10",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-06-30"
+      ],
+      "product_ndcs": [
+        "50419-759"
+      ],
+      "rxcui": [],
+      "setid": "457d7810-23f1-4318-9561-2cd58a9cf973",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "CIPRO (ciprofloxacin) solution, concentrate"
+    },
+    {
+      "application_numbers": [
+        "NDA021473"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "CIPRO"
+      ],
+      "first_posted": "2012-10-01",
+      "found_by": "CIPRO",
+      "labeler": "Bayer HealthCare Pharmaceuticals Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2019-05-10",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2016-07-27"
+      ],
+      "product_ndcs": [
+        "50419-788",
+        "50419-789"
+      ],
+      "rxcui": [],
+      "setid": "4a3cec22-74d0-440a-a9f4-4d5f02e8417a",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "CIPRO (ciprofloxacin) tablet, film coated, extended release"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "OTIPRIO"
+      ],
+      "first_posted": "2018-03-13",
+      "found_by": "OTIPRIO",
+      "labeler": "Alliance Medical Products Inc. (dba Siegfried Irvine)",
+      "labeler_unverified": true,
+      "last_posted": "2018-03-13",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "71991-003"
+      ],
+      "rxcui": [],
+      "setid": "60b6362b-123b-0a1f-e053-2991aa0a1812",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "OTIPRIO (ciprofloxacin otic suspension) suspension"
+    },
+    {
+      "application_numbers": [
+        "NDA019992"
+      ],
+      "archived_versions": 11,
+      "brand_names": [
+        "CILOXAN"
+      ],
+      "first_posted": "2008-03-13",
+      "found_by": "CILOXAN",
+      "labeler": "Alcon Laboratories, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2022-06-07",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-04-30"
+      ],
+      "product_ndcs": [
+        "0065-0656"
+      ],
+      "rxcui": [],
+      "setid": "614af481-f9ef-44ac-9cb8-f421660d9cdd",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "ab52b14d-345b-47ff-a832-465caddd3801"
+      ],
+      "title": "CILOXAN (ciprofloxacin hydrochloride) solution/ drops"
+    },
+    {
+      "application_numbers": [
+        "NDA019857"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "CIPRO"
+      ],
+      "first_posted": "2008-06-20",
+      "found_by": "CIPRO",
+      "labeler": "Schering Plough Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2013-07-31",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-07-29"
+      ],
+      "product_ndcs": [
+        "0085-1731",
+        "0085-1741",
+        "0085-1755",
+        "0085-1759",
+        "0085-1762",
+        "0085-1763",
+        "0085-1781",
+        "0085-1782"
+      ],
+      "rxcui": [],
+      "setid": "63bb3dc4-3bdd-4a7e-a3a3-bf6a0c8c0598",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "CIPRO (ciprofloxacin) solution, concentrate"
+    },
+    {
+      "application_numbers": [
+        "NDA020805"
+      ],
+      "archived_versions": 8,
+      "brand_names": [
+        "CIPRO"
+      ],
+      "first_posted": "2008-03-13",
+      "found_by": "CIPRO",
+      "labeler": "Alcon Laboratories, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2022-07-12",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-05-31"
+      ],
+      "product_ndcs": [
+        "0065-8531"
+      ],
+      "rxcui": [],
+      "setid": "70b19501-34b6-4f95-a8dd-dd3e67d22399",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "b26594a3-2adf-4954-8be0-5bd6f8de9671"
+      ],
+      "title": "CIPRO HC (ciprofloxacin hydrochloride and hydrocortisone) suspension"
+    },
+    {
+      "application_numbers": [
+        "NDA020369"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "CILOXAN"
+      ],
+      "first_posted": "2021-03-01",
+      "found_by": "CILOXAN",
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2025-09-10",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-10-31"
+      ],
+      "product_ndcs": [
+        "0078-0841"
+      ],
+      "rxcui": [],
+      "setid": "7b557d15-bd97-42d2-adcb-d172b4216cb6",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "09ca5374-2a16-4a95-91b3-70591d78254e"
+      ],
+      "title": "CILOXAN (ciprofloxacin hydrochloride) ointment"
+    },
+    {
+      "application_numbers": [
+        "NDA207986"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "OTIPRIO"
+      ],
+      "first_posted": "2016-02-11",
+      "found_by": "OTIPRIO",
+      "labeler": "Otonomy, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2022-06-23",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-06-30"
+      ],
+      "product_ndcs": [
+        "69251-201"
+      ],
+      "rxcui": [],
+      "setid": "8365e37a-0b35-497c-aab4-f25053378154",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "OTIPRIO (ciprofloxacin) suspension"
+    },
+    {
+      "application_numbers": [
+        "NDA019537",
+        "NDA020780"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "CIPRO"
+      ],
+      "first_posted": "2008-01-11",
+      "found_by": "CIPRO",
+      "labeler": "Schering Plough Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2013-07-09",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-07-01"
+      ],
+      "product_ndcs": [
+        "0085-1754",
+        "0085-1756",
+        "0085-1758",
+        "0085-1773",
+        "0085-1777"
+      ],
+      "rxcui": [],
+      "setid": "cf856e2f-eaf7-4898-994c-91ae310a82b0",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "888dc7f9-ad9c-4c00-8d50-8ddfd9bd27c0"
+      ],
+      "title": "CIPRO (ciprofloxacin hydrochloride) tablet, film coated CIPRO (ciprofloxacin) kit"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "PROQUIN"
+      ],
+      "first_posted": "2006-09-28",
+      "found_by": "PROQUIN",
+      "labeler": "Esprit Pharma",
+      "labeler_unverified": true,
+      "last_posted": "2006-09-28",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "15456-001"
+      ],
+      "rxcui": [],
+      "setid": "d464bf74-5934-45f7-b6c0-a55a6e788ba3",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "proquin xr (ciprofloxacin hydrochloride) tablet, film coated, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA020805"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "CIPRO"
+      ],
+      "first_posted": "2022-03-09",
+      "found_by": "CIPRO",
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2025-09-10",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-11-30"
+      ],
+      "product_ndcs": [
+        "0078-0855"
+      ],
+      "rxcui": [],
+      "setid": "eff6ee40-6e52-4f61-b54d-edc612543f71",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "b26594a3-2adf-4954-8be0-5bd6f8de9671"
+      ],
+      "title": "CIPRO HC (ciprofloxacin hydrochloride and hydrocortisone) suspension/ drops"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "CILOXAN"
+      ],
+      "first_posted": "2006-11-14",
+      "found_by": "CILOXAN",
+      "labeler": "ALCON LABORATORIES, INC.",
+      "labeler_unverified": false,
+      "last_posted": "2006-11-14",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0065-0654"
+      ],
+      "rxcui": [],
+      "setid": "l1c292706-a900-4d6f-979e-9c42d6ff2fb2",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ciloxan (ciprofloxacin hydrochloride) ointment"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "CILOXAN"
+      ],
+      "first_posted": "2007-05-31",
+      "found_by": "CILOXAN",
+      "labeler": "Alcon Pharmaceuticals",
+      "labeler_unverified": false,
+      "last_posted": "2007-05-31",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0065-0656"
+      ],
+      "rxcui": [],
+      "setid": "l614af481-f9ef-44ac-9cb8-f421660d9cdd",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ciloxan (ciprofloxacin hydrochloride) solution"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "CIPRO"
+      ],
+      "first_posted": "2007-06-29",
+      "found_by": "CIPRO",
+      "labeler": "Alcon",
+      "labeler_unverified": false,
+      "last_posted": "2007-06-29",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0065-8531"
+      ],
+      "rxcui": [],
+      "setid": "l70b19501-34b6-4f95-a8dd-dd3e67d22399",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "cipro (ciprofloxacin hydrochloride, hydrocortisone and benzyl alcohol) suspension"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Carlsbad Technology, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "37527eca-115e-4582-88cd-bba851ac6069"
+    },
+    {
+      "combination": false,
+      "labeler": "Altaire Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "41363a06-d6f5-4bc6-b0e9-34e5616ae387"
+    },
+    {
+      "combination": false,
+      "labeler": "Leading Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "545527e7-05c7-4dbf-ab32-b3fa463d55b0"
+    },
+    {
+      "combination": false,
+      "labeler": "Yiling Pharmaceutical, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6fd3da0b-7428-ac8f-e053-2a91aa0aed9f"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6c64aa79-d087-4568-904c-3a0638b91e69"
+    },
+    {
+      "combination": false,
+      "labeler": "Advagen Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "74af98f1-eb6d-473b-94a9-67920dba8c3d"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b996e81b-36ec-4ad7-a7c4-bc6700a06648"
+    },
+    {
+      "combination": false,
+      "labeler": "Westminster Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c47250c2-bece-46b5-8b3b-b7c97d9005d8"
+    },
+    {
+      "combination": false,
+      "labeler": "Genus Lifesciences",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "51dde3f2-adb1-4ed8-83c6-1f63723a2529"
+    },
+    {
+      "combination": true,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c0881bbe-cc95-45d4-9878-3bc8946eff26"
+    },
+    {
+      "combination": true,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "89fef4d2-7078-47f1-96bf-aca50b135a97"
+    },
+    {
+      "combination": true,
+      "labeler": "Dr. Reddy's Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f07cf7d6-c233-884e-342d-c6c8cd2c8438"
+    },
+    {
+      "combination": true,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "641bad60-9b9e-43ea-936e-5c38f27835b2"
+    },
+    {
+      "combination": true,
+      "labeler": "ARMAS PHARMACEUTICALS INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "eed6b293-6bbe-4bd3-ad9d-3849e0eb6c05"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "55426495-5fd1-44ca-afcc-ffbbb0a0a569"
+    },
+    {
+      "combination": true,
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6848cb55-7ca4-40ca-9751-f1fc262b8336"
+    },
+    {
+      "combination": true,
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9c5994d1-01d1-493c-a6ae-94754cd59389"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5f69b7b6-6fb8-417a-bc0e-995419b952b7"
+    },
+    {
+      "combination": false,
+      "labeler": "Method Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "acb03e72-ce94-58c5-e053-2a95a90a683a"
+    },
+    {
+      "combination": false,
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cbbbf939-3219-4515-a48e-ca264daa4d07"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f406e796-17d9-4465-b8a7-00d966a4ba74"
+    },
+    {
+      "combination": false,
+      "labeler": "Solco Healthcare US, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b6dcfcef-d4ec-4463-a6b5-192cd8c7c0c3"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7041828f-d4ec-4813-bcac-cb335c6c312a"
+    },
+    {
+      "combination": false,
+      "labeler": "Umasuto, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0c355077-7361-41d0-9e82-eb31beaf5daa"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6a935846-3c97-4517-bc4e-2377f673285e"
+    },
+    {
+      "combination": true,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "130deaf4-ced5-abcb-2a01-205c640ddf96"
+    },
+    {
+      "combination": true,
+      "labeler": "Sentiss Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "355fa56f-d7a8-444e-9dec-8ba1fa4ab0d8"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "79344381-dcfe-41bd-a997-5c303c81d4e1"
+    }
+  ]
+}

@@ -1,0 +1,513 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand PREZISTA",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000707",
+      "eu_number": "EU/1/06/380",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000707",
+      "mah": "Janssen-Cilag International NV",
+      "marketing_authorisation_date": "2007-02-11",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/prezista",
+      "name": "Prezista",
+      "record_from": "2007-02-12",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 41
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/004068",
+      "eu_number": "EU/1/16/1140",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-004068",
+      "mah": "Viatris Limited",
+      "marketing_authorisation_date": "2017-01-03",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/darunavir-viatris",
+      "name": "Darunavir Viatris (previously Darunavir Mylan)",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/004273",
+      "eu_number": "EU/1/17/1249",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-004273",
+      "mah": "KRKA, d.d., Novo mesto",
+      "marketing_authorisation_date": "2018-01-26",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/darunavir-krka",
+      "name": "Darunavir Krka",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 2,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000707",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "DARUNAVIR",
+    "DARUNAVIR ETHANOLATE",
+    "DARUNAVIR HYDRATE",
+    "DARUNAVIR PROPYLENE GLYCOLATE"
+  ],
+  "inn": "darunavir",
+  "name": "DARUNAVIR",
+  "rank": 142,
+  "rxcui": [
+    "670026",
+    "794610",
+    "824338",
+    "831868",
+    "831870",
+    "850455",
+    "850457",
+    "1236628",
+    "1236632",
+    "1359269",
+    "1359271",
+    "1600704",
+    "1600710",
+    "2049671",
+    "2049677",
+    "2710424",
+    "2710426",
+    "2738995",
+    "2738999"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 14,
+    "approval_holders": 11,
+    "earliest_marketing_start": "2008-03-08",
+    "latest_label_update": "2026-08-17",
+    "nda_bla_applications": 5,
+    "repackagers": 3
+  },
+  "unii": [
+    {
+      "ingredient": "DARUNAVIR",
+      "unii": "YO603Y8113"
+    },
+    {
+      "ingredient": "DARUNAVIR ETHANOLATE",
+      "unii": "33O78XF0BW"
+    },
+    {
+      "ingredient": "DARUNAVIR HYDRATE",
+      "unii": "KPC4NRB25L"
+    },
+    {
+      "ingredient": "DARUNAVIR PROPYLENE GLYCOLATE",
+      "unii": "6M6D7F3VC7"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021976",
+        "NDA202895"
+      ],
+      "brand_names": [
+        "PREZISTA"
+      ],
+      "combination": false,
+      "home_inn": "darunavir",
+      "ingredients": [
+        "DARUNAVIR ETHANOLATE"
+      ],
+      "labeler": "Janssen Products LP",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2008-03-08",
+      "moieties": [
+        "DARUNAVIR"
+      ],
+      "product_ndcs": [
+        "59676-562",
+        "59676-563",
+        "59676-564",
+        "59676-565",
+        "59676-566"
+      ],
+      "rxcui": [
+        "670026",
+        "794610",
+        "831868",
+        "831870",
+        "850455",
+        "850457",
+        "1236628",
+        "1236632",
+        "1359269",
+        "1359271"
+      ],
+      "setid": "814301f9-c990-46a5-b481-2879a521a16f",
+      "source": "openfda",
+      "spl_version": 58,
+      "title": "PREZISTA (DARUNAVIR) TABLET, FILM COATED PREZISTA (DARUNAVIR) SUSPENSION [JANSSEN PRODUCTS LP]",
+      "upload_date": "2025-09-01"
+    },
+    {
+      "application_numbers": [
+        "NDA205395",
+        "NDA220092"
+      ],
+      "brand_names": [
+        "PREZCOBIX",
+        "PREZCOBIX PED"
+      ],
+      "combination": true,
+      "home_inn": "cobicistat",
+      "ingredients": [
+        "COBICISTAT",
+        "DARUNAVIR ETHANOLATE"
+      ],
+      "labeler": "Janssen Products, LP",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-01-31",
+      "moieties": [
+        "COBICISTAT",
+        "DARUNAVIR"
+      ],
+      "product_ndcs": [
+        "59676-575",
+        "59676-577",
+        "59676-578"
+      ],
+      "rxcui": [
+        "1600704",
+        "1600710",
+        "2710424",
+        "2710426",
+        "2738995",
+        "2738999"
+      ],
+      "setid": "9c38fdb6-d0ba-4f16-a0e3-85d9ec334d9f",
+      "source": "openfda",
+      "spl_version": 29,
+      "title": "PREZCOBIX (DARUNAVIR ETHANOLATE AND COBICISTAT) TABLET, FILM COATED PREZCOBIX PED (DARUNAVIR ETHANOLATE AND COBICISTAT) TABLET, FOR SUSPENSION [JANSSEN PRODUCTS, LP]",
+      "upload_date": "2026-08-17"
+    },
+    {
+      "application_numbers": [
+        "NDA210455"
+      ],
+      "brand_names": [
+        "Symtuza"
+      ],
+      "combination": true,
+      "home_inn": "emtricitabine",
+      "ingredients": [
+        "COBICISTAT",
+        "DARUNAVIR",
+        "EMTRICITABINE",
+        "TENOFOVIR ALAFENAMIDE"
+      ],
+      "labeler": "Janssen Products LP",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-07-17",
+      "moieties": [
+        "COBICISTAT",
+        "DARUNAVIR",
+        "EMTRICITABINE",
+        "TENOFOVIR ALAFENAMIDE"
+      ],
+      "product_ndcs": [
+        "59676-800"
+      ],
+      "rxcui": [
+        "2049671",
+        "2049677"
+      ],
+      "setid": "85a17d00-6b7c-41ea-a6b3-5ad924820dab",
+      "source": "openfda",
+      "spl_version": 23,
+      "title": "SYMTUZA (DARUNAVIR, COBICISTAT, EMTRICITABINE, AND TENOFOVIR ALAFENAMIDE) TABLET, FILM COATED [JANSSEN PRODUCTS LP]",
+      "upload_date": "2026-04-20"
+    },
+    {
+      "application_numbers": [
+        "ANDA202073"
+      ],
+      "brand_names": [
+        "DARUNAVIR"
+      ],
+      "combination": false,
+      "home_inn": "darunavir",
+      "ingredients": [
+        "DARUNAVIR ETHANOLATE"
+      ],
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-06-01",
+      "moieties": [
+        "DARUNAVIR"
+      ],
+      "product_ndcs": [
+        "68180-345",
+        "68180-346"
+      ],
+      "rxcui": [
+        "670026",
+        "1359269"
+      ],
+      "setid": "56daf67e-7501-4cd5-be22-566d7997d42e",
+      "source": "openfda",
+      "spl_version": 24,
+      "title": "DARUNAVIR TABLET, FILM COATED [LUPIN PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA202083"
+      ],
+      "brand_names": [
+        "Darunavir"
+      ],
+      "combination": false,
+      "home_inn": "darunavir",
+      "ingredients": [
+        "DARUNAVIR"
+      ],
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-09-14",
+      "moieties": [
+        "DARUNAVIR"
+      ],
+      "product_ndcs": [
+        "31722-567",
+        "31722-568"
+      ],
+      "rxcui": [
+        "670026",
+        "824338"
+      ],
+      "setid": "64160982-e682-4e8d-8800-a89321112211",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "DARUNAVIR (DARUNAVIR) TABLET, FILM COATED [CAMBER PHARMACEUTICALS, INC.]",
+      "upload_date": "2023-10-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA210677"
+      ],
+      "brand_names": [
+        "Darunavir"
+      ],
+      "combination": false,
+      "home_inn": "darunavir",
+      "ingredients": [
+        "DARUNAVIR PROPYLENE GLYCOLATE"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-11-28",
+      "moieties": [
+        "DARUNAVIR"
+      ],
+      "product_ndcs": [
+        "59651-085",
+        "59651-086"
+      ],
+      "rxcui": [
+        "670026",
+        "1359269"
+      ],
+      "setid": "88910ad0-6dc3-4a47-8a6b-5c6ee79f2a93",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "DARUNAVIR TABLET, FILM COATED [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2024-06-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA215389"
+      ],
+      "brand_names": [
+        "Darunavir"
+      ],
+      "combination": false,
+      "home_inn": "darunavir",
+      "ingredients": [
+        "DARUNAVIR"
+      ],
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-11-28",
+      "moieties": [
+        "DARUNAVIR"
+      ],
+      "product_ndcs": [
+        "72205-184",
+        "72205-185"
+      ],
+      "rxcui": [
+        "670026",
+        "1359269"
+      ],
+      "setid": "ea6e0136-75b2-4793-9500-04e6658a0a73",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "DARUNAVIR TABLET, FILM COATED [NOVADOZ PHARMACEUTICALS LLC]",
+      "upload_date": "2023-12-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA206288"
+      ],
+      "brand_names": [
+        "Darunavir 600 and 800 mg"
+      ],
+      "combination": false,
+      "home_inn": "darunavir",
+      "ingredients": [
+        "DARUNAVIR HYDRATE"
+      ],
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-11-29",
+      "moieties": [
+        "DARUNAVIR"
+      ],
+      "product_ndcs": [
+        "69097-244",
+        "69097-248"
+      ],
+      "rxcui": [
+        "670026",
+        "1359269"
+      ],
+      "setid": "5624cc30-d484-458e-b234-9bb745a118ca",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "DARUNAVIR 600 AND 800 MG (DARUNAVIR) TABLET [CIPLA USA INC.]",
+      "upload_date": "2024-01-22"
+    },
+    {
+      "application_numbers": [
+        "ANDA211578"
+      ],
+      "brand_names": [
+        "Darunavir"
+      ],
+      "combination": false,
+      "home_inn": "darunavir",
+      "ingredients": [
+        "DARUNAVIR"
+      ],
+      "labeler": "Dr.Reddys Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-11-29",
+      "moieties": [
+        "DARUNAVIR"
+      ],
+      "product_ndcs": [
+        "43598-704",
+        "43598-705"
+      ],
+      "rxcui": [
+        "670026",
+        "1359269"
+      ],
+      "setid": "f5c9cb01-6530-4db0-a326-22a499d1efdf",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "DARUNAVIR TABLET, FILM COATED [DR.REDDYS LABORATORIES INC]",
+      "upload_date": "2023-12-01"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "92b286d5-1ee5-435b-9e1d-2e95c7f2ec69"
+    },
+    {
+      "combination": false,
+      "labeler": "Viona Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "04a542b3-15ad-4a8a-aab4-ace8e08732f3"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "49606d5e-f45f-45eb-9ab8-15aa6a233875"
+    },
+    {
+      "combination": false,
+      "labeler": "EXELAN PHARMACEUTICALS INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ed977166-7ac0-4a8c-a10c-4b19a69403c0"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6a029063-b14c-4eee-9958-0d9eecb27726"
+    }
+  ]
+}

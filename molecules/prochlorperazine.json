@@ -1,0 +1,499 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "PROCHLORPERAZINE",
+    "PROCHLORPERAZINE EDISYLATE",
+    "PROCHLORPERAZINE MALEATE"
+  ],
+  "inn": "prochlorperazine",
+  "name": "PROCHLORPERAZINE",
+  "rank": 145,
+  "rxcui": [
+    "198159",
+    "198365",
+    "284254",
+    "312635",
+    "314192",
+    "2102949"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 30,
+    "approval_holders": 27,
+    "earliest_marketing_start": "1989-08-29",
+    "latest_label_update": "2026-10-26",
+    "nda_bla_applications": 0,
+    "repackagers": 15
+  },
+  "unii": [
+    {
+      "ingredient": "PROCHLORPERAZINE",
+      "unii": "YHP6YLT61T"
+    },
+    {
+      "ingredient": "PROCHLORPERAZINE EDISYLATE",
+      "unii": "PG20W5VQZS"
+    },
+    {
+      "ingredient": "PROCHLORPERAZINE MALEATE",
+      "unii": "I1T8O1JTL6"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "ANDA089903"
+      ],
+      "brand_names": [
+        "Prochlorperazine Edisylate"
+      ],
+      "combination": false,
+      "home_inn": "prochlorperazine",
+      "ingredients": [
+        "PROCHLORPERAZINE EDISYLATE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1989-08-29",
+      "moieties": [
+        "PROCHLORPERAZINE"
+      ],
+      "product_ndcs": [
+        "0641-6135"
+      ],
+      "rxcui": [
+        "314192"
+      ],
+      "setid": "baf59816-7577-4652-b065-fb6de9e54569",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "PROCHLORPERAZINE EDISYLATE INJECTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2025-01-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA040058"
+      ],
+      "brand_names": [
+        "Prochlorperazine"
+      ],
+      "combination": false,
+      "home_inn": "prochlorperazine",
+      "ingredients": [
+        "PROCHLORPERAZINE"
+      ],
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1993-11-30",
+      "moieties": [
+        "PROCHLORPERAZINE"
+      ],
+      "product_ndcs": [
+        "0713-0135"
+      ],
+      "rxcui": [
+        "198159"
+      ],
+      "setid": "9595346e-76e5-e155-341b-ffaaafb885ab",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "PROCHLORPERAZINE SUPPOSITORY [COSETTE PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-12-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA040101"
+      ],
+      "brand_names": [
+        "Prochlorperazine Maleate"
+      ],
+      "combination": false,
+      "home_inn": "prochlorperazine",
+      "ingredients": [
+        "PROCHLORPERAZINE MALEATE"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1996-07-19",
+      "moieties": [
+        "PROCHLORPERAZINE"
+      ],
+      "product_ndcs": [
+        "62135-673",
+        "62135-674"
+      ],
+      "rxcui": [
+        "198365",
+        "312635"
+      ],
+      "setid": "91adec24-fac8-4a56-b2c3-ae4bbc1160bf",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "PROCHLORPERAZINE MALEATE TABLET, FILM COATED [CHARTWELL RX, LLC]",
+      "upload_date": "2024-04-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA040268"
+      ],
+      "brand_names": [
+        "PROCHLORPERAZINE MALEATE"
+      ],
+      "combination": false,
+      "home_inn": "prochlorperazine",
+      "ingredients": [
+        "PROCHLORPERAZINE MALEATE"
+      ],
+      "labeler": "Jubilant Cadista Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1998-03-01",
+      "moieties": [
+        "PROCHLORPERAZINE"
+      ],
+      "product_ndcs": [
+        "59746-113",
+        "59746-115"
+      ],
+      "rxcui": [
+        "198365",
+        "312635"
+      ],
+      "setid": "b05bc20e-cd19-ab40-1ad0-84a115d6d69e",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "PROCHLORPERAZINE MALEATE TABLET PROCHLORPERAZINE MALEATE TABLET [JUBILANT CADISTA PHARMACEUTICALS INC.]",
+      "upload_date": "2025-12-08"
+    },
+    {
+      "application_numbers": [
+        "ANDA040246"
+      ],
+      "brand_names": [
+        "Compro"
+      ],
+      "combination": false,
+      "home_inn": "prochlorperazine",
+      "ingredients": [
+        "PROCHLORPERAZINE"
+      ],
+      "labeler": "Padagis US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2000-09-01",
+      "moieties": [
+        "PROCHLORPERAZINE"
+      ],
+      "product_ndcs": [
+        "0574-7226"
+      ],
+      "rxcui": [
+        "198159",
+        "284254"
+      ],
+      "setid": "ea381bc5-0957-4c91-826a-0ff680cebacc",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "COMPRO (PROCHLORPERAZINE) SUPPOSITORY [PADAGIS US LLC]",
+      "upload_date": "2024-11-25"
+    },
+    {
+      "application_numbers": [
+        "ANDA204147"
+      ],
+      "brand_names": [
+        "Prochlorperazine Edisylate"
+      ],
+      "combination": false,
+      "home_inn": "prochlorperazine",
+      "ingredients": [
+        "PROCHLORPERAZINE EDISYLATE"
+      ],
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-03-26",
+      "moieties": [
+        "PROCHLORPERAZINE"
+      ],
+      "product_ndcs": [
+        "23155-294"
+      ],
+      "rxcui": [
+        "2102949"
+      ],
+      "setid": "0dc48e66-6081-421b-952b-4867c9c4c794",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "PROCHLORPERAZINE EDISYLATE INJECTION [HERITAGE PHARMACEUTICALS INC. D/B/A AVET PHARMACEUTICALS INC.]",
+      "upload_date": "2025-04-10"
+    },
+    {
+      "application_numbers": [
+        "NDA010571"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "COMPAZINE"
+      ],
+      "first_posted": "2007-05-22",
+      "found_by": "COMPAZINE",
+      "labeler": "GlaxoSmithKline LLC",
+      "labeler_unverified": true,
+      "last_posted": "2012-01-24",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2011-02-11"
+      ],
+      "product_ndcs": [
+        "0007-3366"
+      ],
+      "rxcui": [],
+      "setid": "702122eb-f9e0-4fa9-5e99-ee091e8c20b1",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "COMPAZINE (prochlorperazine maleate) tablet, coated"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "185c1647-06ea-401e-ad1d-8727d77eb827"
+    },
+    {
+      "combination": false,
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "11cb37c7-01b4-4223-b2ea-a3695639b80b"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a0fd3d58-7470-4d0f-9e6c-84e92c02a97f"
+    },
+    {
+      "combination": false,
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4687b9f5-2d67-4fe0-af4d-2415a42b5292"
+    },
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "24358d03-d06d-4946-8ebd-a62bc15d33c0"
+    },
+    {
+      "combination": false,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "50ce4381-94ef-49ff-8794-cfde0ee803b4"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1e7fd1f5-c9cc-45a2-8974-4e0ceab8406c"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e913d678-7a5d-4e74-9e9c-1b9a3affd265"
+    },
+    {
+      "combination": false,
+      "labeler": "GLENMARK PHARMACEUTICALS INC., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9c806152-70d0-43eb-b183-b51b12b82b31"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a2a48790-0634-4b46-b362-98b7c252836f"
+    },
+    {
+      "combination": false,
+      "labeler": "Bionpharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "052d351a-978b-6fc3-e063-6294a90aef55"
+    },
+    {
+      "combination": false,
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9ab78746-b302-4836-95f3-343799929c0e"
+    },
+    {
+      "combination": false,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d382e3d4-3175-42f2-b9eb-d9a7b97cbbfc"
+    },
+    {
+      "combination": false,
+      "labeler": "Leading Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c93494ef-c510-4e46-a1b1-362624200223"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7ec4df20-9ea5-4a68-a43f-5ded4eaed235"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0338b221-db43-45c9-a829-d970fe6643ab"
+    },
+    {
+      "combination": false,
+      "labeler": "Civica, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e3e0c6c5-6b92-40e0-a926-29c64846be93"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fed5ed29-7091-4b3c-bf67-64f32cd189bb"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d4a34138-a01b-418f-8e0f-e81f6e1cfd89"
+    },
+    {
+      "combination": false,
+      "labeler": "FOSUN PHARMA USA INC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f793cdb3-9fd8-79e1-e053-6394a90ae08b"
+    },
+    {
+      "combination": false,
+      "labeler": "Northstar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "04bf8a16-218a-c648-e063-6294a90a1afb"
+    },
+    {
+      "combination": false,
+      "labeler": "Avenacy Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fd07a1a3-c0df-4926-9964-07348e45a5fd"
+    },
+    {
+      "combination": false,
+      "labeler": "Bionpharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2cf363d6-b9e4-2c22-e063-6394a90a7649"
+    },
+    {
+      "combination": false,
+      "labeler": "Caplin Steriles Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "29f0e68d-4653-472d-bd86-e87a8e2cb529"
+    }
+  ]
+}

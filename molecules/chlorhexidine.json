@@ -1,0 +1,612 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "CHLORHEXIDINE GLUCONATE"
+  ],
+  "inn": "chlorhexidine",
+  "name": "CHLORHEXIDINE",
+  "rank": 281,
+  "rxcui": [
+    "211365",
+    "834127",
+    "834135",
+    "834137",
+    "834150"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 33,
+    "approval_holders": 19,
+    "earliest_marketing_start": "1986-08-13",
+    "latest_label_update": "2026-10-16",
+    "nda_bla_applications": 2,
+    "repackagers": 12
+  },
+  "unii": [
+    {
+      "ingredient": "CHLORHEXIDINE GLUCONATE",
+      "unii": "MOR84MUD8E"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA019028"
+      ],
+      "brand_names": [
+        "Peridex"
+      ],
+      "combination": false,
+      "home_inn": "chlorhexidine",
+      "ingredients": [
+        "CHLORHEXIDINE GLUCONATE"
+      ],
+      "labeler": "Solventum US LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1986-08-13",
+      "moieties": [
+        "CHLORHEXIDINE"
+      ],
+      "product_ndcs": [
+        "48878-0620"
+      ],
+      "rxcui": [
+        "834127",
+        "834135"
+      ],
+      "setid": "3fcd41c4-875a-4e54-b533-261f198011af",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "PERIDEX (CHLORHEXIDINE GLUCONATE) RINSE [SOLVENTUM US LLC]",
+      "upload_date": "2024-08-08"
+    },
+    {
+      "application_numbers": [
+        "NDA019125"
+      ],
+      "brand_names": [
+        "BETASEPT"
+      ],
+      "combination": false,
+      "home_inn": "chlorhexidine",
+      "ingredients": [
+        "CHLORHEXIDINE GLUCONATE"
+      ],
+      "labeler": "Xttrium Laboratories, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1993-06-01",
+      "moieties": [
+        "CHLORHEXIDINE"
+      ],
+      "product_ndcs": [
+        "0116-0200"
+      ],
+      "rxcui": [
+        "211365",
+        "834150"
+      ],
+      "setid": "4a6451d7-b347-37ac-e054-00144ff8d46c",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "BETASEPT (ANTISEPTIC SURGICAL SCRUB) SOLUTION [XTTRIUM LABORATORIES, INC.]",
+      "upload_date": "2025-05-05"
+    },
+    {
+      "application_numbers": [
+        "NDA019125"
+      ],
+      "brand_names": [
+        "ANTISEPTIC SKIN CLEANSER"
+      ],
+      "combination": false,
+      "home_inn": "chlorhexidine",
+      "ingredients": [
+        "CHLORHEXIDINE GLUCONATE"
+      ],
+      "labeler": "Xttrium Laboratories, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2012-01-01",
+      "moieties": [
+        "CHLORHEXIDINE"
+      ],
+      "product_ndcs": [
+        "0116-0407"
+      ],
+      "rxcui": [
+        "211365"
+      ],
+      "setid": "4a9eda34-d85c-4b66-e054-00144ff88e88",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "ANTISEPTIC SKIN CLEANSER (CHLORHEXIDINE GLUCONATE) SOLUTION [XTTRIUM LABORATORIES, INC.]",
+      "upload_date": "2026-04-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA074522"
+      ],
+      "brand_names": [
+        "CHLORHEXIDINE GLUCONATE"
+      ],
+      "combination": false,
+      "home_inn": "chlorhexidine",
+      "ingredients": [
+        "CHLORHEXIDINE GLUCONATE"
+      ],
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1995-12-15",
+      "moieties": [
+        "CHLORHEXIDINE"
+      ],
+      "product_ndcs": [
+        "0121-0893",
+        "0121-1786"
+      ],
+      "rxcui": [
+        "834127"
+      ],
+      "setid": "d3c2d8a7-bad5-410f-af83-e78a45e4b93f",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "CHLORHEXIDINE GLUCONATE RINSE [PAI HOLDINGS, LLC DBA PAI PHARMA]",
+      "upload_date": "2026-08-26"
+    },
+    {
+      "application_numbers": [
+        "ANDA075006"
+      ],
+      "brand_names": [
+        "Chlorhexidine Gluconate 0.12% Oral Rinse"
+      ],
+      "combination": false,
+      "home_inn": "chlorhexidine",
+      "ingredients": [
+        "CHLORHEXIDINE GLUCONATE"
+      ],
+      "labeler": "Chartwell Governmental & Specialty RX, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2004-03-03",
+      "moieties": [
+        "CHLORHEXIDINE"
+      ],
+      "product_ndcs": [
+        "68999-650"
+      ],
+      "rxcui": [
+        "834127"
+      ],
+      "setid": "8c71f7a2-7c35-4897-b850-de677a34f5bd",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "CHLORHEXIDINE GLUCONATE 0.12% ORAL RINSE SOLUTION [CHARTWELL GOVERNMENTAL & SPECIALTY RX, LLC.]",
+      "upload_date": "2026-01-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA077789"
+      ],
+      "brand_names": [
+        "Chlorhexidine Gluconate"
+      ],
+      "combination": false,
+      "home_inn": "chlorhexidine",
+      "ingredients": [
+        "CHLORHEXIDINE GLUCONATE"
+      ],
+      "labeler": "Darby Dental Supply, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2006-07-02",
+      "moieties": [
+        "CHLORHEXIDINE"
+      ],
+      "product_ndcs": [
+        "66467-2560"
+      ],
+      "rxcui": [
+        "834127"
+      ],
+      "setid": "0f8bc307-3069-45f2-aa03-8a4178d562a9",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "CHLORHEXIDINE GLUCONATE RINSE [DARBY DENTAL SUPPLY, LLC]",
+      "upload_date": "2023-01-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA074291"
+      ],
+      "brand_names": [
+        "CHLORHEXIDINE GLUCONATE"
+      ],
+      "combination": false,
+      "home_inn": "chlorhexidine",
+      "ingredients": [
+        "CHLORHEXIDINE GLUCONATE"
+      ],
+      "labeler": "Lyne Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-11-01",
+      "moieties": [
+        "CHLORHEXIDINE"
+      ],
+      "product_ndcs": [
+        "0374-5080"
+      ],
+      "rxcui": [
+        "834127"
+      ],
+      "setid": "0348006f-b818-4465-a896-bc0d42294cf4",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "CHLORHEXIDINE GLUCONATE RINSE [LYNE LABORATORIES, INC.]",
+      "upload_date": "2019-01-03"
+    },
+    {
+      "application_numbers": [
+        "ANDA203212"
+      ],
+      "brand_names": [
+        "Periogard Alcohol Free"
+      ],
+      "combination": false,
+      "home_inn": "chlorhexidine",
+      "ingredients": [
+        "CHLORHEXIDINE GLUCONATE"
+      ],
+      "labeler": "Colgate Oral Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-11-18",
+      "moieties": [
+        "CHLORHEXIDINE"
+      ],
+      "product_ndcs": [
+        "0126-0272"
+      ],
+      "rxcui": [
+        "834127",
+        "834137"
+      ],
+      "setid": "1aaad8d7-b6be-43a2-b3a2-12501a2fcdca",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "PERIOGARD ALCOHOL FREE (CHLORHEXIDINE GLUCONATE) RINSE [COLGATE ORAL PHARMACEUTICALS, INC.]",
+      "upload_date": "2021-01-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA075561"
+      ],
+      "brand_names": [
+        "Chlorhexidine Gluconate, 0.12% Oral Rinse Solution"
+      ],
+      "combination": false,
+      "home_inn": "chlorhexidine",
+      "ingredients": [
+        "CHLORHEXIDINE GLUCONATE"
+      ],
+      "labeler": "Bajaj Medical, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-11-17",
+      "moieties": [
+        "CHLORHEXIDINE"
+      ],
+      "product_ndcs": [
+        "61037-469"
+      ],
+      "rxcui": [
+        "834127"
+      ],
+      "setid": "d44f4e79-e684-a1ef-e053-2995a90a4620",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "CHLORHEXIDINE GLUCONATE, 0.12% ORAL RINSE SOLUTION SOLUTION [BAJAJ MEDICAL, LLC]",
+      "upload_date": "2024-01-03"
+    },
+    {
+      "application_numbers": [
+        "NDA020774"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "PERIOCHIP"
+      ],
+      "first_posted": "2013-11-25",
+      "found_by": "PERIOCHIP",
+      "labeler": "Dexcel Pharma Technologies Ltd.",
+      "labeler_unverified": true,
+      "last_posted": "2022-09-09",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-06-30"
+      ],
+      "product_ndcs": [
+        "64239-101"
+      ],
+      "rxcui": [],
+      "setid": "3808cb8a-c3e2-4406-957d-c57705d0a650",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "PERIOCHIP (chlorhexidine gluconate) insert, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA019028"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "PERIDEX"
+      ],
+      "first_posted": "2019-11-13",
+      "found_by": "PERIDEX",
+      "labeler": "Xttrium Laboratories, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2025-06-02",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0116-0620"
+      ],
+      "rxcui": [],
+      "setid": "4703eff7-b30b-5a7d-e054-00144ff88e88",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "3fcd41c4-875a-4e54-b533-261f198011af"
+      ],
+      "title": "PERIDEX (chlorhexidine gluconate) rinse"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "923e22b1-0fa2-4a3c-900d-2d2eb63f841c"
+    },
+    {
+      "combination": false,
+      "labeler": "Xttrium Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4a3a4cfe-88e0-0a10-e054-00144ff88e88"
+    },
+    {
+      "combination": false,
+      "labeler": "Den-mat Holdings, Llc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a2d2d555-89a5-42d7-81d5-50fd7e741f83"
+    },
+    {
+      "combination": false,
+      "labeler": "Xttrium Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4a2bd280-918d-0e26-e054-00144ff88e88"
+    },
+    {
+      "combination": false,
+      "labeler": "Xttrium Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "34d15e72-8770-49dc-a514-d44ae4468a1e"
+    },
+    {
+      "combination": false,
+      "labeler": "Xttrium Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4a3a684f-5f72-347a-e054-00144ff8d46c"
+    },
+    {
+      "combination": false,
+      "labeler": "Benco Dental",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "21b03b2a-44ee-41c0-e054-00144ff8d46c"
+    },
+    {
+      "combination": false,
+      "labeler": "Xttrium Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4a2c3c98-4e4e-1c9b-e054-00144ff88e88"
+    },
+    {
+      "combination": false,
+      "labeler": "Xttrium Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4a2a6bb8-85b0-6c36-e054-00144ff8d46c"
+    },
+    {
+      "combination": false,
+      "labeler": "Sage Products LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3c754532-d9a5-f876-00c4-05a4c9b21efa"
+    },
+    {
+      "combination": false,
+      "labeler": "Xttrium Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4a3a4cfe-88e2-0a10-e054-00144ff88e88"
+    },
+    {
+      "combination": false,
+      "labeler": "Xttrium Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "47057d87-e142-222a-e054-00144ff8d46c"
+    },
+    {
+      "combination": false,
+      "labeler": "Xttrium Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4a3b87bc-d913-6c88-e054-00144ff8d46c"
+    },
+    {
+      "combination": false,
+      "labeler": "Dentsply LLC. Professional Division Trading as \"DENTSPLY Professional\"",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d9d25abd-c3b4-4713-91c7-538f98e8fb70"
+    },
+    {
+      "combination": false,
+      "labeler": "Natco Pharma USA LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "12a11cd7-5087-4eb8-aa52-4fad402450f7"
+    },
+    {
+      "combination": false,
+      "labeler": "Major Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b48e69dc-0913-423f-e053-2a95a90a53df"
+    },
+    {
+      "combination": false,
+      "labeler": "McKesson",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b479c166-899b-0565-e053-2995a90a2094"
+    },
+    {
+      "combination": false,
+      "labeler": "Colgate Oral Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4993fc4a-bbe2-5ccb-de4d-44d73d484d39"
+    },
+    {
+      "combination": false,
+      "labeler": "Safco Dental Supply LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0d950be9-9d25-202c-e063-6294a90ada7d"
+    },
+    {
+      "combination": false,
+      "labeler": "Safco Dental Supply LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0d9624f6-2a0b-c30f-e063-6294a90ae717"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b6b45b87-aa53-4d3a-be59-f3d3b0774a7b"
+    },
+    {
+      "combination": false,
+      "labeler": "A2A Integrated Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "27d81483-e58c-593d-e063-6394a90a0db4"
+    },
+    {
+      "combination": false,
+      "labeler": "Xttrium Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5c8c8ee8-ce1c-2418-e063-6294a90a8584"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1039435d-e249-4c25-9b26-deb8e0314a37"
+    }
+  ]
+}

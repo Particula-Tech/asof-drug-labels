@@ -1,0 +1,728 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "POLYMYXIN B SULFATE"
+  ],
+  "inn": "polymyxin-b",
+  "name": "POLYMYXIN B",
+  "rank": 331,
+  "rxcui": [
+    "204509",
+    "208591",
+    "208601",
+    "309679",
+    "309680"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 35,
+    "approval_holders": 17,
+    "earliest_marketing_start": "1964-11-15",
+    "latest_label_update": "2026-10-16",
+    "nda_bla_applications": 2,
+    "repackagers": 12
+  },
+  "unii": [
+    {
+      "ingredient": "POLYMYXIN B SULFATE",
+      "unii": "19371312D4"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA050023"
+      ],
+      "brand_names": [
+        "Maxitrol"
+      ],
+      "combination": true,
+      "home_inn": "dexamethasone",
+      "ingredients": [
+        "DEXAMETHASONE",
+        "NEOMYCIN SULFATE",
+        "POLYMYXIN B SULFATE"
+      ],
+      "labeler": "Harrow Eye, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1964-11-15",
+      "moieties": [
+        "DEXAMETHASONE",
+        "NEOMYCIN",
+        "POLYMYXIN B"
+      ],
+      "product_ndcs": [
+        "82667-100"
+      ],
+      "rxcui": [
+        "208591",
+        "309680"
+      ],
+      "setid": "ecfb954f-5554-0ad2-e053-2995a90a7516",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "MAXITROL (NEOMYCIN SULFATE, POLYMYXIN B SULFATE AND DEXAMETHASONE) SUSPENSION [HARROW EYE, LLC]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "NDA050065"
+      ],
+      "brand_names": [
+        "MAXITROL"
+      ],
+      "combination": true,
+      "home_inn": "dexamethasone",
+      "ingredients": [
+        "DEXAMETHASONE",
+        "NEOMYCIN SULFATE",
+        "POLYMYXIN B SULFATE"
+      ],
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1972-01-17",
+      "moieties": [
+        "DEXAMETHASONE",
+        "NEOMYCIN",
+        "POLYMYXIN B"
+      ],
+      "product_ndcs": [
+        "0078-0771"
+      ],
+      "rxcui": [
+        "208601",
+        "309679"
+      ],
+      "setid": "22c6d2db-85af-4a3b-a014-80d901a86717",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "MAXITROL (NEOMYCIN SULFATE, POLYMYXIN B SULFATE AND DEXAMETHASONE) OINTMENT [NOVARTIS PHARMACEUTICALS CORPORATION]",
+      "upload_date": "2025-09-10"
+    },
+    {
+      "application_numbers": [
+        "NDA050065"
+      ],
+      "brand_names": [
+        "MAXITROL"
+      ],
+      "combination": true,
+      "home_inn": "dexamethasone",
+      "ingredients": [
+        "DEXAMETHASONE",
+        "NEOMYCIN SULFATE",
+        "POLYMYXIN B SULFATE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1972-01-17",
+      "moieties": [
+        "DEXAMETHASONE",
+        "NEOMYCIN",
+        "POLYMYXIN B"
+      ],
+      "product_ndcs": [
+        "66758-070"
+      ],
+      "rxcui": [
+        "208601",
+        "309679"
+      ],
+      "setid": "5776c435-ac60-49b6-8db1-23a3012b9155",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "MAXITROL (NEOMYCIN SULFATE, POLYMYXIN B SULFATE AND DEXAMETHASONE) OINTMENT [SANDOZ INC]",
+      "upload_date": "2025-08-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA060716"
+      ],
+      "brand_names": [
+        "Polymyxin B"
+      ],
+      "combination": false,
+      "home_inn": "polymyxin-b",
+      "ingredients": [
+        "POLYMYXIN B SULFATE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1998-06-01",
+      "moieties": [
+        "POLYMYXIN B"
+      ],
+      "product_ndcs": [
+        "0143-9941"
+      ],
+      "rxcui": [
+        "204509"
+      ],
+      "setid": "18daf0d1-b6f5-46f4-ab2f-01a594f3959c",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "POLYMYXIN B (POLYMYXIN B SULFATE) INJECTION, POWDER, FOR SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2022-04-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA065372"
+      ],
+      "brand_names": [
+        "POLYMYXIN B"
+      ],
+      "combination": false,
+      "home_inn": "polymyxin-b",
+      "ingredients": [
+        "POLYMYXIN B SULFATE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-11-17",
+      "moieties": [
+        "POLYMYXIN B"
+      ],
+      "product_ndcs": [
+        "63323-321"
+      ],
+      "rxcui": [
+        "204509"
+      ],
+      "setid": "704a41f5-b109-4c16-8d3e-1495c9917952",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "POLYMYXIN B (POLYMYXIN B SULFATE) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [FRESENIUS KABI USA, LLC",
+      "upload_date": "2021-06-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA202766"
+      ],
+      "brand_names": [
+        "Polymyxin B"
+      ],
+      "combination": false,
+      "home_inn": "polymyxin-b",
+      "ingredients": [
+        "POLYMYXIN B SULFATE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-09-09",
+      "moieties": [
+        "POLYMYXIN B"
+      ],
+      "product_ndcs": [
+        "63323-367"
+      ],
+      "rxcui": [
+        "204509"
+      ],
+      "setid": "72dd6de6-31d6-4a8f-881b-91af91ed9314",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "POLYMYXIN B (POLYMYXIN B SULFATE) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2022-12-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA206589"
+      ],
+      "brand_names": [
+        "Polymyxin B"
+      ],
+      "combination": false,
+      "home_inn": "polymyxin-b",
+      "ingredients": [
+        "POLYMYXIN B SULFATE"
+      ],
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-04-04",
+      "moieties": [
+        "POLYMYXIN B"
+      ],
+      "product_ndcs": [
+        "55150-234"
+      ],
+      "rxcui": [
+        "204509"
+      ],
+      "setid": "a974c557-e88f-451b-a1bd-d2c656be226e",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "POLYMYXIN B INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [EUGIA US LLC]",
+      "upload_date": "2025-05-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA207322"
+      ],
+      "brand_names": [
+        "POLYMYXIN B"
+      ],
+      "combination": false,
+      "home_inn": "polymyxin-b",
+      "ingredients": [
+        "POLYMYXIN B SULFATE"
+      ],
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-06-01",
+      "moieties": [
+        "POLYMYXIN B"
+      ],
+      "product_ndcs": [
+        "68083-174"
+      ],
+      "rxcui": [
+        "204509"
+      ],
+      "setid": "dc74dee2-1d0b-4fab-a29b-1755fdb5da75",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "POLYMYXIN B (POLYMYXIN B SULFATE) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [GLAND PHARMA LIMITED]",
+      "upload_date": "2025-05-14"
+    },
+    {
+      "application_numbers": [
+        "NDA050065"
+      ],
+      "brand_names": [
+        "Neomycin and Polymyxin B Sulfates and Dexamethasone"
+      ],
+      "combination": true,
+      "home_inn": "neomycin",
+      "ingredients": [
+        "DEXAMETHASONE",
+        "NEOMYCIN SULFATE",
+        "POLYMYXIN B SULFATE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "1996-02-21",
+      "moieties": [
+        "DEXAMETHASONE",
+        "NEOMYCIN",
+        "POLYMYXIN B"
+      ],
+      "product_ndcs": [
+        "61314-631"
+      ],
+      "rxcui": [
+        "309679"
+      ],
+      "setid": "7f2e3c46-9f39-45e7-99a9-64cc4f6f649d",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "NEOMYCIN AND POLYMYXIN B SULFATES AND DEXAMETHASONE OINTMENT [SANDOZ INC]",
+      "upload_date": "2025-11-24"
+    },
+    {
+      "application_numbers": [
+        "NDA050023"
+      ],
+      "archived_versions": 10,
+      "brand_names": [
+        "MAXITROL"
+      ],
+      "first_posted": "2008-06-17",
+      "found_by": "MAXITROL",
+      "labeler": "Alcon Laboratories, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2024-05-06",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-07-31"
+      ],
+      "product_ndcs": [
+        "0998-0630"
+      ],
+      "rxcui": [],
+      "setid": "277ff310-b7dc-43b6-8a16-885b58882bc0",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "ecfb954f-5554-0ad2-e053-2995a90a7516"
+      ],
+      "title": "MAXITROL (neomycin sulfate, polymyxin b sulfate and dexamethasone) suspension"
+    },
+    {
+      "application_numbers": [
+        "NDA050065"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "MAXITROL"
+      ],
+      "first_posted": "2008-03-13",
+      "found_by": "MAXITROL",
+      "labeler": "Alcon Laboratories, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2020-10-29",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-05-31"
+      ],
+      "product_ndcs": [
+        "0065-0631"
+      ],
+      "rxcui": [],
+      "setid": "d17cecdb-c7cb-41cc-a11e-00c6ed0dcc11",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "22c6d2db-85af-4a3b-a014-80d901a86717",
+        "5776c435-ac60-49b6-8db1-23a3012b9155",
+        "7f2e3c46-9f39-45e7-99a9-64cc4f6f649d"
+      ],
+      "title": "MAXITROL (neomycin sulfate, polymyxin b sulfate and dexamethasone) ointment"
+    },
+    {
+      "application_numbers": [
+        "NDA050023"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "MAXITROL"
+      ],
+      "first_posted": "2022-11-30",
+      "found_by": "MAXITROL",
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2023-11-23",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-10-31"
+      ],
+      "product_ndcs": [
+        "0078-0792"
+      ],
+      "rxcui": [],
+      "setid": "ed267dad-a3d5-f4e9-e053-2a95a90a6143",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "ecfb954f-5554-0ad2-e053-2995a90a7516"
+      ],
+      "title": "MAXITROL (neomycin sulfate, polymyxin b sulfate and dexamethasone) suspension"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "MAXITROL"
+      ],
+      "first_posted": "2006-12-01",
+      "found_by": "MAXITROL",
+      "labeler": "ALCON LABORATORIES, INC.",
+      "labeler_unverified": false,
+      "last_posted": "2006-12-01",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0998-0630"
+      ],
+      "rxcui": [],
+      "setid": "lba8392bf-f59e-4b4f-962c-d3f717fbc064",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "maxitrol (neomycin sulfate, polymyxin B sulfate and dexamethasone) suspension"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "MAXITROL"
+      ],
+      "first_posted": "2006-11-22",
+      "found_by": "MAXITROL",
+      "labeler": "ALCON LABORATORIES, INC.",
+      "labeler_unverified": false,
+      "last_posted": "2006-11-22",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0065-0631"
+      ],
+      "rxcui": [],
+      "setid": "ld17cecdb-c7cb-41cc-a11e-00c6ed0dcc11",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "maxitrol (neomycin sulfate, polymyxin B sulfate and dexamethasone) ointment"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": true,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "35768adc-b578-4c2e-b461-22de3135a789"
+    },
+    {
+      "combination": true,
+      "labeler": "Nordic Pharma, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "191c1a56-194f-4876-b501-2f8aee447d83"
+    },
+    {
+      "combination": true,
+      "labeler": "Bausch & Lomb Incorporated",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4456d10b-9995-4430-b692-a8859ea36deb"
+    },
+    {
+      "combination": true,
+      "labeler": "Bausch & Lomb Incorporated",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d6d78668-a978-4cd3-bbcd-1293b5044ec9"
+    },
+    {
+      "combination": true,
+      "labeler": "Bausch & Lomb Incorporated",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3b00eb5c-dd98-467e-a883-04c37a8ecc42"
+    },
+    {
+      "combination": true,
+      "labeler": "Bausch & Lomb Incorporated",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f3231f1c-665e-4efa-baa1-83bf296b2f8f"
+    },
+    {
+      "combination": true,
+      "labeler": "Bausch & Lomb Incoporated",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "986e5b75-39fc-480f-9026-191b2d15dea1"
+    },
+    {
+      "combination": true,
+      "labeler": "Bausch & Lomb Incorporated",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e6f8d2f6-adff-4ae1-982c-45562f0a8e28"
+    },
+    {
+      "combination": true,
+      "labeler": "Sandoz Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cf1a6da8-ba79-4bff-a13b-6effb67f6c1c"
+    },
+    {
+      "combination": true,
+      "labeler": "Bausch & Lomb Incorporated",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b0ee85dd-5fe1-46a3-9bff-606e489d20b1"
+    },
+    {
+      "combination": true,
+      "labeler": "Bausch & Lomb Incorporated",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "87999254-1857-4d3c-817a-cb8f6a5b0cf7"
+    },
+    {
+      "combination": true,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "71900075-5288-4f4b-afe2-098436fa2173"
+    },
+    {
+      "combination": true,
+      "labeler": "Sandoz Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "99d9030f-9118-412c-a377-d1df1c8fa723"
+    },
+    {
+      "combination": true,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ff34da77-5e96-4ed1-8c28-ba0b2f35576a"
+    },
+    {
+      "combination": true,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "96a7b0a5-030a-42dc-80cd-35c4e9aa1b6d"
+    },
+    {
+      "combination": true,
+      "labeler": "Bausch & Lomb Incorporated",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1b317249-30eb-4415-8a1c-cfedb4ba3549"
+    },
+    {
+      "combination": true,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "93d52a75-9a96-4f96-be41-9ccdcabc0933"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bea0457d-40a7-4af9-ac77-b04235680176"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6fff6c70-ea1f-449c-be0c-b989de36bd67"
+    },
+    {
+      "combination": true,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2846b507-f92d-45e0-9807-f68bdf4de56c"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fbc12c18-567b-41bc-89d0-efd29616615c"
+    },
+    {
+      "combination": false,
+      "labeler": "Xellia Pharmaceuticals USA LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b56f18c0-ef5e-4ed9-a5af-f79f3cd189b6"
+    },
+    {
+      "combination": false,
+      "labeler": "FOSUN PHARMA USA INC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fd664927-db58-a1af-e053-6294a90a9048"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d2bf65f6-2763-4859-a665-ad5e6cde71ee"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7dc505aa-64b0-4b7f-8ee3-2945bde40a34"
+    },
+    {
+      "combination": true,
+      "labeler": "Orbicular Pharmaceutical Technologies Private Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5eae31aa-ec63-4b93-9859-8d718a8ac8ef"
+    }
+  ]
+}

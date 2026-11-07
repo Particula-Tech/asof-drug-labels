@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, cite it as below. If you use the corpora, also name the corpus state you read: the daily/YYYY-MM-DD tag of asof-drug-labels-us or asof-drug-labels-eu, or the record end date (record_to) in manifest.json. The label text in the corpora is not Particula Tech's and keeps its source terms."
+type: software
+title: As-of Drug Labels
+abstract: "What US and EU drug labels said on any date, as git history."
+authors:
+  - name: "Particula Tech"
+    website: "https://particula.tech"
+repository-code: "https://github.com/Particula-Tech/asof-drug-labels"
+license: Apache-2.0
+license-url: "https://github.com/Particula-Tech/asof-drug-labels/blob/main/LICENSE"
+# The MCP server version (SERVER_VERSION in tools/mcp_server.py, server_version in manifest.json).
+version: 0.6.0
+date-released: 2026-11-05

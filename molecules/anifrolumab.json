@@ -1,0 +1,103 @@
+{
+  "biologic": true,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand SAPHNELO",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/004975",
+      "eu_number": "EU/1/21/1623",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-004975",
+      "mah": "AstraZeneca AB",
+      "marketing_authorisation_date": "2022-02-14",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/saphnelo",
+      "name": "Saphnelo",
+      "record_from": "2022-02-14",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 4
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-004975",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "ANIFROLUMAB"
+  ],
+  "inn": "anifrolumab",
+  "name": "ANIFROLUMAB",
+  "rank": 372,
+  "rxcui": [
+    "2565280",
+    "2565286",
+    "2741470",
+    "2741474",
+    "2741478",
+    "2741482"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 1,
+    "approval_holders": 1,
+    "earliest_marketing_start": "2021-07-30",
+    "latest_label_update": "2026-10-05",
+    "nda_bla_applications": 2,
+    "repackagers": 0
+  },
+  "unii": [],
+  "unii_unresolved": [
+    "ANIFROLUMAB"
+  ],
+  "us": [
+    {
+      "application_numbers": [
+        "BLA761123",
+        "BLA761451"
+      ],
+      "brand_names": [
+        "SAPHNELO"
+      ],
+      "combination": false,
+      "home_inn": "anifrolumab",
+      "ingredients": [
+        "ANIFROLUMAB"
+      ],
+      "labeler": "AstraZeneca Pharmaceuticals LP",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2021-07-30",
+      "moieties": [
+        "ANIFROLUMAB"
+      ],
+      "product_ndcs": [
+        "0310-3040",
+        "0310-3080"
+      ],
+      "rxcui": [
+        "2565280",
+        "2565286",
+        "2741470",
+        "2741474",
+        "2741478",
+        "2741482"
+      ],
+      "setid": "d6203302-2128-41a7-b0b4-0e6c0704d4dc",
+      "source": "dailymed-title-match",
+      "spl_version": 16,
+      "title": "SAPHNELO (ANIFROLUMAB-FNIA) INJECTION, SOLUTION [ASTRAZENECA PHARMACEUTICALS LP]",
+      "upload_date": "2026-10-05"
+    }
+  ],
+  "us_excluded": []
+}

@@ -1,0 +1,266 @@
+{
+  "biologic": true,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/000315",
+      "eu_number": "EU/1/00/164",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000315",
+      "mah": "Ipsen Pharma",
+      "marketing_authorisation_date": "2001-02-15",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/nutropinaq",
+      "name": "NutropinAq",
+      "record_from": "2001-02-16",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 14
+    },
+    {
+      "biosimilar": true,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/000607",
+      "eu_number": "EU/1/06/332",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-000607",
+      "mah": "Sandoz GmbH",
+      "marketing_authorisation_date": "2006-04-12",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/omnitrope",
+      "name": "Omnitrope",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000315",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "SOMATROPIN"
+  ],
+  "inn": "somatropin",
+  "name": "SOMATROPIN",
+  "rank": 400,
+  "rxcui": [
+    "241975",
+    "645884",
+    "847243",
+    "847245",
+    "847247",
+    "847348",
+    "849850",
+    "849851",
+    "854302",
+    "864110",
+    "1736262",
+    "1736267",
+    "1736329",
+    "1736337"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 2,
+    "approval_holders": 2,
+    "earliest_marketing_start": "2005-01-03",
+    "latest_label_update": "2026-04-01",
+    "nda_bla_applications": 2,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "SOMATROPIN",
+      "unii": "NQX9KB6PCL"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "BLA021148"
+      ],
+      "brand_names": [
+        "Norditropin"
+      ],
+      "combination": false,
+      "home_inn": "somatropin",
+      "ingredients": [
+        "SOMATROPIN"
+      ],
+      "labeler": "Novo Nordisk",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2005-01-03",
+      "moieties": [
+        "SOMATROPIN"
+      ],
+      "product_ndcs": [
+        "0169-7703",
+        "0169-7704",
+        "0169-7705",
+        "0169-7708"
+      ],
+      "rxcui": [
+        "847243",
+        "847245",
+        "847247",
+        "847348",
+        "849850",
+        "849851",
+        "1736262",
+        "1736329"
+      ],
+      "setid": "1058e17c-9261-459c-a3e6-fae38d196c14",
+      "source": "openfda",
+      "spl_version": 30,
+      "title": "NORDITROPIN (SOMATROPIN) INJECTION, SOLUTION [NOVO NORDISK]",
+      "upload_date": "2025-07-25"
+    },
+    {
+      "application_numbers": [
+        "BLA021426"
+      ],
+      "brand_names": [
+        "Omnitrope"
+      ],
+      "combination": false,
+      "home_inn": "somatropin",
+      "ingredients": [
+        "SOMATROPIN"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2006-05-30",
+      "moieties": [
+        "SOMATROPIN"
+      ],
+      "product_ndcs": [
+        "0781-3001",
+        "0781-3004",
+        "0781-4004"
+      ],
+      "rxcui": [
+        "241975",
+        "645884",
+        "854302",
+        "864110",
+        "1736267",
+        "1736337"
+      ],
+      "setid": "58d84ffa-4056-4e36-ad67-7bd4aef444a5",
+      "source": "openfda",
+      "spl_version": 36,
+      "title": "OMNITROPE (SOMATROPIN) INJECTION, SOLUTION OMNITROPE (SOMATROPIN) KIT [SANDOZ INC]",
+      "upload_date": "2026-04-01"
+    },
+    {
+      "application_numbers": [
+        "BLA020522"
+      ],
+      "archived_versions": 14,
+      "brand_names": [
+        "NUTROPIN"
+      ],
+      "first_posted": "2006-12-08",
+      "found_by": "NUTROPIN",
+      "labeler": "Genentech, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2025-07-24",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_end_dates": [
+        "2026-03-31",
+        "2026-05-31"
+      ],
+      "product_ndcs": [
+        "50242-074",
+        "50242-075",
+        "50242-076"
+      ],
+      "rxcui": [],
+      "setid": "139d2038-e6a9-4ab1-ab00-aa7d8aa8df5f",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "NUTROPIN AQ NUSPIN 5 (somatropin) injection, solution NUTROPIN AQ NUSPIN 10 (somatropin) injection, solution NUTROPIN AQ NUSPIN 20 (somatropin) injection, solution"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "OMNITROPE"
+      ],
+      "first_posted": "2008-03-19",
+      "found_by": "OMNITROPE",
+      "labeler": "Sandoz Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2008-03-19",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0781-3001",
+        "0781-4002",
+        "0781-4004"
+      ],
+      "rxcui": [],
+      "setid": "5b47a4c6-dc38-4879-8969-e65fe8dce5f8",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "omnitrope (somatropin) injection, solution for subcutaneous use omnitrope (somatropin) kit for use"
+    },
+    {
+      "application_numbers": [
+        "BLA019764"
+      ],
+      "archived_versions": 14,
+      "brand_names": [
+        "SAIZEN"
+      ],
+      "first_posted": "2007-09-21",
+      "found_by": "SAIZEN",
+      "labeler": "EMD Serono, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2023-06-21",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_end_dates": [
+        "2023-05-31",
+        "2024-03-31",
+        "2024-10-31"
+      ],
+      "product_ndcs": [
+        "44087-0016",
+        "44087-1005",
+        "44087-1088"
+      ],
+      "rxcui": [],
+      "setid": "ab750de2-3eda-411a-924e-00c499eda39b",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "SAIZEN (somatropin) kit SAIZENPREP (somatropin) kit"
+    }
+  ],
+  "us_excluded": []
+}

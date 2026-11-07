@@ -1,0 +1,1627 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/005975",
+      "eu_number": "EU/1/24/1907",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-005975",
+      "mah": "Neuraxpharm Pharmaceuticals S.L.",
+      "marketing_authorisation_date": "2025-02-28",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tuzulby",
+      "name": "Tuzulby",
+      "record_from": "2025-02-28",
+      "record_to": "2026-11-03",
+      "role": "reference",
+      "versions": 1
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-005975",
+    "reference_selected_by": "salt-alias-v2",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "METHYLPHENIDATE",
+    "METHYLPHENIDATE HYDROCHLORIDE"
+  ],
+  "inn": "methylphenidate",
+  "name": "METHYLPHENIDATE",
+  "rank": 20,
+  "rxcui": [
+    "753436",
+    "753437",
+    "753438",
+    "753439",
+    "753440",
+    "753441",
+    "753442",
+    "753443",
+    "1091133",
+    "1091135",
+    "1091143",
+    "1091150",
+    "1091155",
+    "1091157",
+    "1091167",
+    "1091170",
+    "1091172",
+    "1091182",
+    "1091185",
+    "1091187",
+    "1091197",
+    "1091210",
+    "1091212",
+    "1091341",
+    "1091343",
+    "1091379",
+    "1091392",
+    "1091395",
+    "1091497",
+    "1091500",
+    "1312583",
+    "1312589",
+    "1648183",
+    "1727443",
+    "1727450",
+    "1734928",
+    "1734930",
+    "1734951",
+    "1734953",
+    "1806177",
+    "1806179",
+    "1806181",
+    "1806183",
+    "1806187",
+    "1806189",
+    "1806191",
+    "1806193",
+    "1806195",
+    "1806197",
+    "1806200",
+    "1806202",
+    "1806204",
+    "1806206",
+    "1806208",
+    "1806210",
+    "1926840",
+    "1926847",
+    "1926849",
+    "1926851",
+    "1926853",
+    "1926855",
+    "1995461",
+    "2052826",
+    "2168857",
+    "2168859",
+    "2168861",
+    "2168863",
+    "2168864",
+    "2168865",
+    "2168866",
+    "2168867",
+    "2168868",
+    "2168869",
+    "2605796",
+    "2605798",
+    "2605943",
+    "2605946",
+    "2668496",
+    "2668499",
+    "2668502",
+    "2668505"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 63,
+    "approval_holders": 41,
+    "earliest_marketing_start": "1955-12-31",
+    "latest_label_update": "2026-10-26",
+    "nda_bla_applications": 11,
+    "repackagers": 2
+  },
+  "unii": [
+    {
+      "ingredient": "METHYLPHENIDATE",
+      "unii": "207ZZ9QZ49"
+    },
+    {
+      "ingredient": "METHYLPHENIDATE HYDROCHLORIDE",
+      "unii": "4B3SC438HI"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA010187"
+      ],
+      "brand_names": [
+        "Ritalin"
+      ],
+      "combination": false,
+      "home_inn": "methylphenidate",
+      "ingredients": [
+        "METHYLPHENIDATE HYDROCHLORIDE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1955-12-31",
+      "moieties": [
+        "METHYLPHENIDATE"
+      ],
+      "product_ndcs": [
+        "66758-273",
+        "66758-274",
+        "66758-275"
+      ],
+      "rxcui": [
+        "1091150",
+        "1091379",
+        "1091392",
+        "1091395",
+        "1091497",
+        "1091500"
+      ],
+      "setid": "d6fb2750-cdab-4749-ba0d-7534840a5892",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "RITALIN (METHYLPHENIDATE HYDROCHLORIDE) TABLET [SANDOZ INC]",
+      "upload_date": "2025-02-21"
+    },
+    {
+      "application_numbers": [
+        "NDA021121"
+      ],
+      "brand_names": [
+        "CONCERTA"
+      ],
+      "combination": false,
+      "home_inn": "methylphenidate",
+      "ingredients": [
+        "METHYLPHENIDATE HYDROCHLORIDE"
+      ],
+      "labeler": "Janssen Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2000-08-01",
+      "moieties": [
+        "METHYLPHENIDATE"
+      ],
+      "product_ndcs": [
+        "50458-585",
+        "50458-586",
+        "50458-587",
+        "50458-588"
+      ],
+      "rxcui": [
+        "1091155",
+        "1091157",
+        "1091170",
+        "1091172",
+        "1091185",
+        "1091187",
+        "1091210",
+        "1091212"
+      ],
+      "setid": "1a88218c-5b18-4220-8f56-526de1a276cd",
+      "source": "openfda",
+      "spl_version": 30,
+      "title": "CONCERTA (METHYLPHENIDATE HYDROCHLORIDE) TABLET, EXTENDED RELEASE [JANSSEN PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-04-22"
+    },
+    {
+      "application_numbers": [
+        "NDA021284"
+      ],
+      "brand_names": [
+        "Ritalin LA"
+      ],
+      "combination": false,
+      "home_inn": "methylphenidate",
+      "ingredients": [
+        "METHYLPHENIDATE HYDROCHLORIDE"
+      ],
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2002-06-05",
+      "moieties": [
+        "METHYLPHENIDATE"
+      ],
+      "product_ndcs": [
+        "0078-0370",
+        "0078-0371",
+        "0078-0372",
+        "0078-0424"
+      ],
+      "rxcui": [
+        "1091143",
+        "1091167",
+        "1091182",
+        "1091197",
+        "1806177",
+        "1806179",
+        "1806183",
+        "1806195"
+      ],
+      "setid": "effd952d-ac94-47bb-b107-589a4934dcca",
+      "source": "openfda",
+      "spl_version": 36,
+      "title": "RITALIN LA (METHYLPHENIDATE HYDROCHLORIDE) CAPSULE, EXTENDED RELEASE [NOVARTIS PHARMACEUTICALS CORPORATION]",
+      "upload_date": "2025-10-01"
+    },
+    {
+      "application_numbers": [
+        "NDA021419"
+      ],
+      "brand_names": [
+        "Methylin"
+      ],
+      "combination": false,
+      "home_inn": "methylphenidate",
+      "ingredients": [
+        "METHYLPHENIDATE HYDROCHLORIDE"
+      ],
+      "labeler": "SHIONOGI INC.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2002-12-19",
+      "moieties": [
+        "METHYLPHENIDATE"
+      ],
+      "product_ndcs": [
+        "59630-750",
+        "59630-755"
+      ],
+      "rxcui": [
+        "1091133",
+        "1091135",
+        "1091341",
+        "1091343"
+      ],
+      "setid": "9e3c22d9-71d9-46a7-b315-8021c94c4bec",
+      "source": "openfda",
+      "spl_version": 32,
+      "title": "METHYLIN (METHYLPHENIDATE HYDROCHLORIDE) SOLUTION [SHIONOGI INC.]",
+      "upload_date": "2024-07-24"
+    },
+    {
+      "application_numbers": [
+        "NDA021514"
+      ],
+      "brand_names": [
+        "Daytrana"
+      ],
+      "combination": false,
+      "home_inn": "methylphenidate",
+      "ingredients": [
+        "METHYLPHENIDATE"
+      ],
+      "labeler": "Noven Therapeutics, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2006-04-06",
+      "moieties": [
+        "METHYLPHENIDATE"
+      ],
+      "product_ndcs": [
+        "68968-5552",
+        "68968-5553",
+        "68968-5554",
+        "68968-5555"
+      ],
+      "rxcui": [
+        "753436",
+        "753437",
+        "753438",
+        "753439",
+        "753440",
+        "753441",
+        "753442",
+        "753443"
+      ],
+      "setid": "2c312c31-3198-4775-91ab-294e0b4b9e7f",
+      "source": "openfda",
+      "spl_version": 29,
+      "title": "DAYTRANA (METHYLPHENIDATE) PATCH [NOVEN THERAPEUTICS, LLC]",
+      "upload_date": "2025-09-29"
+    },
+    {
+      "application_numbers": [
+        "NDA202100"
+      ],
+      "brand_names": [
+        "Quillivant XR"
+      ],
+      "combination": false,
+      "home_inn": "methylphenidate",
+      "ingredients": [
+        "METHYLPHENIDATE HYDROCHLORIDE"
+      ],
+      "labeler": "NextWave Pharmaceuticals, Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2012-10-01",
+      "moieties": [
+        "METHYLPHENIDATE"
+      ],
+      "product_ndcs": [
+        "24478-321",
+        "24478-322",
+        "24478-323",
+        "24478-324"
+      ],
+      "rxcui": [
+        "1312583",
+        "1312589"
+      ],
+      "setid": "c2dc2109-44a6-4797-b04e-18761dd9d45a",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "QUILLIVANT XR (METHYLPHENIDATE HYDROCHLORIDE) SUSPENSION, EXTENDED RELEASE [NEXTWAVE PHARMACEUTICALS, INC]",
+      "upload_date": "2026-06-15"
+    },
+    {
+      "application_numbers": [
+        "NDA207960"
+      ],
+      "brand_names": [
+        "QuilliChew ER"
+      ],
+      "combination": false,
+      "home_inn": "methylphenidate",
+      "ingredients": [
+        "METHYLPHENIDATE HYDROCHLORIDE"
+      ],
+      "labeler": "NextWave Pharmaceuticals, Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2016-04-18",
+      "moieties": [
+        "METHYLPHENIDATE"
+      ],
+      "product_ndcs": [
+        "24478-074",
+        "24478-075",
+        "24478-076"
+      ],
+      "rxcui": [
+        "1727443",
+        "1727450",
+        "1734928",
+        "1734930",
+        "1734951",
+        "1734953"
+      ],
+      "setid": "defc1205-8e90-4b1e-b862-05e4c35c7364",
+      "source": "dailymed-title-match",
+      "spl_version": 33,
+      "title": "QUILLICHEW ER (METHYLPHENIDATE HYDROCHLORIDE) TABLET, CHEWABLE, EXTENDED RELEASE [NEXTWAVE PHARMACEUTICALS, INC]",
+      "upload_date": "2026-09-14"
+    },
+    {
+      "application_numbers": [
+        "NDA205489"
+      ],
+      "brand_names": [
+        "Cotempla XR-ODT"
+      ],
+      "combination": false,
+      "home_inn": "methylphenidate",
+      "ingredients": [
+        "METHYLPHENIDATE"
+      ],
+      "labeler": "Neos Therapeutics Brands, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-06-20",
+      "moieties": [
+        "METHYLPHENIDATE"
+      ],
+      "product_ndcs": [
+        "70165-100",
+        "70165-200",
+        "70165-300"
+      ],
+      "rxcui": [
+        "1926840",
+        "1926847",
+        "1926849",
+        "1926851",
+        "1926853",
+        "1926855"
+      ],
+      "setid": "33f70f58-c871-42c8-8adb-345caeafefcd",
+      "source": "dailymed-title-match",
+      "spl_version": 16,
+      "title": "COTEMPLA XR-ODT (METHYLPHENIDATE) TABLET, ORALLY DISINTEGRATING [NEOS THERAPEUTICS BRANDS, LLC]",
+      "upload_date": "2026-10-09"
+    },
+    {
+      "application_numbers": [
+        "NDA209311"
+      ],
+      "brand_names": [
+        "JORNAY PM Extended-Release"
+      ],
+      "combination": false,
+      "home_inn": "methylphenidate",
+      "ingredients": [
+        "METHYLPHENIDATE HYDROCHLORIDE"
+      ],
+      "labeler": "Ironshore Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2019-06-01",
+      "moieties": [
+        "METHYLPHENIDATE"
+      ],
+      "product_ndcs": [
+        "71376-201",
+        "71376-202",
+        "71376-203",
+        "71376-204",
+        "71376-205"
+      ],
+      "rxcui": [
+        "2168857",
+        "2168859",
+        "2168861",
+        "2168863",
+        "2168864",
+        "2168865",
+        "2168866",
+        "2168867",
+        "2168868",
+        "2168869"
+      ],
+      "setid": "d95dede0-b1ff-4489-8f91-3bbe122852bf",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "JORNAY PM EXTENDED-RELEASE (METHYLPHENIDATE HYDROCHLORIDE) CAPSULE [IRONSHORE PHARMACEUTICALS INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "NDA216117"
+      ],
+      "brand_names": [
+        "RELEXXII"
+      ],
+      "combination": false,
+      "home_inn": "methylphenidate",
+      "ingredients": [
+        "METHYLPHENIDATE HYDROCHLORIDE"
+      ],
+      "labeler": "Vertical Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-06-23",
+      "moieties": [
+        "METHYLPHENIDATE"
+      ],
+      "product_ndcs": [
+        "68025-084",
+        "68025-088",
+        "68025-089",
+        "68025-095",
+        "68025-096",
+        "68025-097",
+        "68025-098"
+      ],
+      "rxcui": [
+        "1091155",
+        "1091170",
+        "1091185",
+        "1091210",
+        "1995461",
+        "2052826",
+        "2605796",
+        "2605798",
+        "2605943",
+        "2605946",
+        "2668496",
+        "2668499",
+        "2668502",
+        "2668505"
+      ],
+      "setid": "22d5fa47-b5b9-4fd9-980c-4eb88e95ae5d",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "RELEXXII (METHYLPHENIDATE HYDROCHLORIDE) TABLET, EXTENDED RELEASE [VERTICAL PHARMACEUTICALS, LLC]",
+      "upload_date": "2025-09-29"
+    },
+    {
+      "application_numbers": [
+        "NDA021259"
+      ],
+      "brand_names": [
+        "methylphenidate hydrochloride CD"
+      ],
+      "combination": false,
+      "home_inn": "methylphenidate",
+      "ingredients": [
+        "METHYLPHENIDATE HYDROCHLORIDE"
+      ],
+      "labeler": "Lannett Company, LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2003-02-18",
+      "moieties": [
+        "METHYLPHENIDATE"
+      ],
+      "product_ndcs": [
+        "0527-4579",
+        "0527-4580",
+        "0527-4581",
+        "0527-4582",
+        "0527-4583",
+        "0527-4584"
+      ],
+      "rxcui": [
+        "1806181",
+        "1806187",
+        "1806189",
+        "1806191",
+        "1806193",
+        "1806197"
+      ],
+      "setid": "e45c75dc-d381-475b-b649-a871c8a36e60",
+      "source": "dailymed-title-match",
+      "spl_version": 12,
+      "title": "METHYLPHENIDATE HYDROCHLORIDE CD (METHYLPHENIDATE HYDROCHLORIDE) CAPSULE, EXTENDED RELEASE [LANNETT COMPANY, LLC]",
+      "upload_date": "2026-10-26"
+    },
+    {
+      "application_numbers": [
+        "NDA021284"
+      ],
+      "brand_names": [
+        "Methylphenidate"
+      ],
+      "combination": false,
+      "home_inn": "methylphenidate",
+      "ingredients": [
+        "METHYLPHENIDATE HYDROCHLORIDE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2015-11-24",
+      "moieties": [
+        "METHYLPHENIDATE"
+      ],
+      "product_ndcs": [
+        "0781-2361",
+        "0781-2362",
+        "0781-2363",
+        "0781-2364"
+      ],
+      "rxcui": [
+        "1806177",
+        "1806179",
+        "1806183",
+        "1806195"
+      ],
+      "setid": "1f8983ce-71b8-4c62-830d-e4692ddededa",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "METHYLPHENIDATE CAPSULE, EXTENDED RELEASE [SANDOZ INC]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "NDA205831"
+      ],
+      "brand_names": [
+        "Methylphenidate Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "methylphenidate",
+      "ingredients": [
+        "METHYLPHENIDATE HYDROCHLORIDE"
+      ],
+      "labeler": "Rhodes Pharmaceuticals LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2020-04-01",
+      "moieties": [
+        "METHYLPHENIDATE"
+      ],
+      "product_ndcs": [
+        "42858-075",
+        "42858-076",
+        "42858-077",
+        "42858-078",
+        "42858-079",
+        "42858-080",
+        "42858-081"
+      ],
+      "rxcui": [
+        "1648183",
+        "1806200",
+        "1806202",
+        "1806204",
+        "1806206",
+        "1806208",
+        "1806210"
+      ],
+      "setid": "f7a7ffd1-bc30-4db8-8391-dddf76acd639",
+      "source": "dailymed-title-match",
+      "spl_version": 9,
+      "title": "METHYLPHENIDATE HYDROCHLORIDE CAPSULE, EXTENDED RELEASE [RHODES PHARMACEUTICALS LLC]",
+      "upload_date": "2026-09-21"
+    },
+    {
+      "application_numbers": [
+        "NDA216117"
+      ],
+      "brand_names": [
+        "Methylphenidate Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "methylphenidate",
+      "ingredients": [
+        "METHYLPHENIDATE HYDROCHLORIDE"
+      ],
+      "labeler": "Trigen Laboratories, LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2022-06-23",
+      "moieties": [
+        "METHYLPHENIDATE"
+      ],
+      "product_ndcs": [
+        "13811-700",
+        "13811-711"
+      ],
+      "rxcui": [
+        "2605796",
+        "2605798"
+      ],
+      "setid": "dd8d7b6e-c23d-4e16-bb53-959e9127ebc6",
+      "source": "openfda",
+      "spl_version": 48,
+      "title": "METHYLPHENIDATE HYDROCHLORIDE TABLET, EXTENDED RELEASE [TRIGEN LABORATORIES, LLC]",
+      "upload_date": "2025-09-29"
+    },
+    {
+      "application_numbers": [
+        "NDA021514"
+      ],
+      "brand_names": [
+        "Methylphenidate Transdermal System"
+      ],
+      "combination": false,
+      "home_inn": "methylphenidate",
+      "ingredients": [
+        "METHYLPHENIDATE"
+      ],
+      "labeler": "PADAGIS US LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2023-06-05",
+      "moieties": [
+        "METHYLPHENIDATE"
+      ],
+      "product_ndcs": [
+        "0574-2410",
+        "0574-2415",
+        "0574-2420",
+        "0574-2430"
+      ],
+      "rxcui": [
+        "753436",
+        "753438",
+        "753440",
+        "753441"
+      ],
+      "setid": "7bcff873-1fc2-45bc-a8e4-5db4edeb9bfb",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "METHYLPHENIDATE TRANSDERMAL SYSTEM (METHYLPHENIDATE) PATCH [PADAGIS US LLC]",
+      "upload_date": "2025-09-29"
+    },
+    {
+      "application_numbers": [
+        "NDA205489"
+      ],
+      "brand_names": [
+        "Methylphenidate Extended-Release"
+      ],
+      "combination": false,
+      "home_inn": "methylphenidate",
+      "ingredients": [
+        "METHYLPHENIDATE"
+      ],
+      "labeler": "Neos Therapeutics, LP",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2026-07-01",
+      "moieties": [
+        "METHYLPHENIDATE"
+      ],
+      "product_ndcs": [
+        "62542-100",
+        "62542-250",
+        "62542-350"
+      ],
+      "rxcui": [
+        "1926840",
+        "1926849",
+        "1926853"
+      ],
+      "setid": "c2fec19b-6610-4ce0-8e60-f8218a11f62f",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "METHYLPHENIDATE EXTENDED-RELEASE TABLET, ORALLY DISINTEGRATING [NEOS THERAPEUTICS, LP]",
+      "upload_date": "2026-07-01"
+    },
+    {
+      "application_numbers": [
+        "NDA021475"
+      ],
+      "archived_versions": 8,
+      "brand_names": [
+        "METHYLIN"
+      ],
+      "first_posted": "2007-07-06",
+      "found_by": "METHYLIN",
+      "labeler": "SHIONOGI INC.",
+      "labeler_unverified": false,
+      "last_posted": "2025-01-15",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2014-01-01"
+      ],
+      "product_ndcs": [
+        "59630-760",
+        "59630-761",
+        "59630-762"
+      ],
+      "rxcui": [],
+      "setid": "09f13452-8f90-426e-9687-d30be75db9d7",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "METHYLIN (methylphenidate hydrochloride) tablet, chewable"
+    },
+    {
+      "application_numbers": [
+        "NDA021514"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "DAYTRANA"
+      ],
+      "first_posted": "2007-05-17",
+      "found_by": "DAYTRANA",
+      "labeler": "Shire US Manufacturing Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2011-08-31",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2012-04-02",
+        "2012-10-12",
+        "2012-11-27",
+        "2012-12-15"
+      ],
+      "product_ndcs": [
+        "54092-552",
+        "54092-553",
+        "54092-554",
+        "54092-555"
+      ],
+      "rxcui": [],
+      "setid": "12a36e92-cb00-48d5-8981-89d8cce8c4c6",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "2c312c31-3198-4775-91ab-294e0b4b9e7f",
+        "7bcff873-1fc2-45bc-a8e4-5db4edeb9bfb"
+      ],
+      "title": "DAYTRANA (methylphenidate) patch"
+    },
+    {
+      "application_numbers": [
+        "NDA207960"
+      ],
+      "archived_versions": 8,
+      "brand_names": [
+        "QUILLICHEW"
+      ],
+      "first_posted": "2016-02-17",
+      "found_by": "QUILLICHEW",
+      "labeler": "NextWave Pharmaceuticals, Inc",
+      "labeler_unverified": false,
+      "last_posted": "2021-11-08",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-01-31",
+        "2021-02-28"
+      ],
+      "product_ndcs": [
+        "24478-120",
+        "24478-130",
+        "24478-140"
+      ],
+      "rxcui": [],
+      "setid": "167d6c89-747d-486d-969d-dcaeba48c178",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "defc1205-8e90-4b1e-b862-05e4c35c7364"
+      ],
+      "title": "QUILLICHEW ER (methylphenidate hydrochloride) tablet, chewable, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA021284"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "RITALIN"
+      ],
+      "first_posted": "2024-10-16",
+      "found_by": "RITALIN",
+      "labeler": "Sandoz Inc",
+      "labeler_unverified": false,
+      "last_posted": "2025-07-04",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-10-16",
+        "2025-05-01"
+      ],
+      "product_ndcs": [
+        "66758-260",
+        "66758-261",
+        "66758-262",
+        "66758-263"
+      ],
+      "rxcui": [],
+      "setid": "1a8ec572-09b1-45ad-a5b4-ba1372adfa85",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "1f8983ce-71b8-4c62-830d-e4692ddededa",
+        "effd952d-ac94-47bb-b107-589a4934dcca"
+      ],
+      "title": "RITALIN LA (methylphenidate hydrochloride) capsule, extended release"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "METADATE"
+      ],
+      "first_posted": "2006-08-14",
+      "found_by": "METADATE",
+      "labeler": "UCB Pharma, Inc",
+      "labeler_unverified": true,
+      "last_posted": "2006-08-14",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "53014-593",
+        "53014-594"
+      ],
+      "rxcui": [],
+      "setid": "24390aa8-78c3-420c-87c2-b0966823b1ce",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "metadate (methylphenidate hydrochloride) tablet, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA021121"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "CONCERTA"
+      ],
+      "first_posted": "2010-01-08",
+      "found_by": "CONCERTA",
+      "labeler": "Caremark L.L.C.",
+      "labeler_unverified": false,
+      "last_posted": "2010-01-12",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2011-08-31",
+        "2011-09-30"
+      ],
+      "product_ndcs": [
+        "0339-4169",
+        "0339-4170",
+        "50458-586",
+        "50458-587"
+      ],
+      "rxcui": [],
+      "setid": "3f383496-1e82-42c3-99e3-db50630050f5",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "1a88218c-5b18-4220-8f56-526de1a276cd"
+      ],
+      "title": "CONCERTA (methylphenidate hydrochloride) tablet, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA021121"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "CONCERTA"
+      ],
+      "first_posted": "2007-05-31",
+      "found_by": "CONCERTA",
+      "labeler": "ALZA Corporation",
+      "labeler_unverified": true,
+      "last_posted": "2012-05-10",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2012-04-10"
+      ],
+      "product_ndcs": [
+        "17314-5850",
+        "17314-5851",
+        "17314-5852",
+        "17314-5853"
+      ],
+      "rxcui": [],
+      "setid": "4a3f1deb-13b0-4253-b0af-7374880655d8",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "1a88218c-5b18-4220-8f56-526de1a276cd"
+      ],
+      "title": "CONCERTA (methylphenidate hydrochloride) tablet, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA205831"
+      ],
+      "archived_versions": 14,
+      "brand_names": [
+        "APTENSIO"
+      ],
+      "first_posted": "2015-04-27",
+      "found_by": "APTENSIO",
+      "labeler": "Rhodes Pharmaceuticals LLC",
+      "labeler_unverified": false,
+      "last_posted": "2026-05-25",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2026-05-20"
+      ],
+      "product_ndcs": [
+        "42858-401",
+        "42858-402",
+        "42858-403",
+        "42858-404",
+        "42858-405",
+        "42858-406",
+        "42858-407"
+      ],
+      "rxcui": [],
+      "setid": "5adedc01-ebf0-11e3-ac10-0800200c9a66",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "f7a7ffd1-bc30-4db8-8391-dddf76acd639"
+      ],
+      "title": "APTENSIO XR (methylphenidate hydrochloride) capsule, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA212038"
+      ],
+      "archived_versions": 11,
+      "brand_names": [
+        "ADHANSIA"
+      ],
+      "first_posted": "2019-03-12",
+      "found_by": "ADHANSIA",
+      "labeler": "Adlon Therapeutics L.P.",
+      "labeler_unverified": true,
+      "last_posted": "2023-04-20",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-09-30",
+        "2023-11-30"
+      ],
+      "product_ndcs": [
+        "72912-525",
+        "72912-535",
+        "72912-545",
+        "72912-555",
+        "72912-570",
+        "72912-585"
+      ],
+      "rxcui": [],
+      "setid": "80e15bd0-4d56-75f0-ab5a-885879fc56e9",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ADHANSIA XR (methylphenidate hydrochloride) capsule, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA021259"
+      ],
+      "archived_versions": 9,
+      "brand_names": [
+        "METADATE"
+      ],
+      "first_posted": "2007-05-10",
+      "found_by": "METADATE",
+      "labeler": "Unither Manufacturing, LLC",
+      "labeler_unverified": true,
+      "last_posted": "2020-01-28",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-06-30",
+        "2018-08-31",
+        "2018-10-31",
+        "2018-11-30",
+        "2018-12-31"
+      ],
+      "product_ndcs": [
+        "53014-579",
+        "53014-580",
+        "53014-581",
+        "53014-582",
+        "53014-583",
+        "53014-584"
+      ],
+      "rxcui": [],
+      "setid": "a6aedc40-5725-4bd3-9037-033746e8599e",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "e45c75dc-d381-475b-b649-a871c8a36e60"
+      ],
+      "title": "METADATE CD (methylphenidate hydrochloride) capsule, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA010187"
+      ],
+      "archived_versions": 23,
+      "brand_names": [
+        "RITALIN"
+      ],
+      "first_posted": "2007-05-31",
+      "found_by": "RITALIN",
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2025-02-17",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2026-08-31"
+      ],
+      "product_ndcs": [
+        "0078-0439",
+        "0078-0440",
+        "0078-0441"
+      ],
+      "rxcui": [],
+      "setid": "c0bf0835-6a2f-4067-a158-8b86c4b0668a",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "d6fb2750-cdab-4749-ba0d-7534840a5892"
+      ],
+      "title": "RITALIN (methylphenidate hydrochloride) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA202100"
+      ],
+      "archived_versions": 18,
+      "brand_names": [
+        "QUILLIVANT"
+      ],
+      "first_posted": "2012-10-12",
+      "found_by": "QUILLIVANT",
+      "labeler": "NextWave Pharmaceuticals, Inc",
+      "labeler_unverified": false,
+      "last_posted": "2021-11-08",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-05-31",
+        "2019-03-31",
+        "2019-04-30"
+      ],
+      "product_ndcs": [
+        "24478-190",
+        "24478-200",
+        "24478-205",
+        "24478-210"
+      ],
+      "rxcui": [],
+      "setid": "e0157005-6e3e-4763-b910-9eb0937608c9",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "c2dc2109-44a6-4797-b04e-18761dd9d45a"
+      ],
+      "title": "QUILLIVANT XR (methylphenidate hydrochloride) suspension, extended release"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Lannett Company, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "29f06562-6b6a-4ca6-b62e-d08a45fb3dd4"
+    },
+    {
+      "combination": false,
+      "labeler": "Aytu BioPharma, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "be59f8b4-7842-42cc-9559-bfa747f0baa5"
+    },
+    {
+      "combination": false,
+      "labeler": "SpecGx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "981a2ad8-33f7-4678-9162-9df9685bd4a6"
+    },
+    {
+      "combination": false,
+      "labeler": "SpecGx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ed004cf0-eb23-43d2-96dc-20c4ad63824f"
+    },
+    {
+      "combination": false,
+      "labeler": "SpecGx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b1b0f2ff-d9df-42ab-b471-226ecf97e075"
+    },
+    {
+      "combination": false,
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3d1f5aff-5d39-496c-b5ed-7f3c70ec641c"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1a89b390-0cd5-45cb-9e70-20de44652c56"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c614cf55-b462-4f7e-b19c-6d22a47e509f"
+    },
+    {
+      "combination": false,
+      "labeler": "Cranbury Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e817377f-bc72-415a-acd2-7136746b2479"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals,Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5bfe50ed-171f-4c40-bc0b-20c68e8e2025"
+    },
+    {
+      "combination": false,
+      "labeler": "KVK-Tech, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "be8580bc-0eb2-4eb6-a4cc-4ebbeb33424d"
+    },
+    {
+      "combination": false,
+      "labeler": "SpecGx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9e11e093-4ff3-4bed-8fe9-3ee460b47303"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceutical Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "778190da-1528-4def-94bf-ee23ee5268a5"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals,Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ec8a8896-077d-4dee-9e10-97172512c5ed"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals,Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "57fd619e-687d-403c-a77a-3dc3a1bab65a"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "10aa0dc0-bd0e-4927-a19a-8722d78ad67d"
+    },
+    {
+      "combination": false,
+      "labeler": "KVK-Tech, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2cf1b26b-199d-4c7f-ab64-4805a9def2cc"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurolife Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "35be77db-fbe3-487e-a220-a08a11aaec28"
+    },
+    {
+      "combination": false,
+      "labeler": "KVK-TECH, INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1bf37f9f-29cf-4b09-9c81-eb369e35a042"
+    },
+    {
+      "combination": false,
+      "labeler": "Golden State Medical Supply, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "22e5ddfa-7264-fbb1-e063-6394a90a6483"
+    },
+    {
+      "combination": false,
+      "labeler": "XLCare Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "91833146-fa95-471a-8b8d-6d36a2db5c9a"
+    },
+    {
+      "combination": false,
+      "labeler": "Golden State Medical Supply, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "98be5c84-b348-6b8e-e053-2995a90ae4cc"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e5cb0740-813f-4dce-8c29-d7680c66e77c"
+    },
+    {
+      "combination": false,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "85ef422d-af27-4126-9841-6892af1871d6"
+    },
+    {
+      "combination": false,
+      "labeler": "Eywa Pharma Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "298fb86d-7d94-49e1-b743-3e7801122422"
+    },
+    {
+      "combination": false,
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "44737c1d-fe75-409e-8a58-591696d3d7aa"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b9af3104-172d-4975-9301-b9fe7db9ef12"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8e97c9f3-956c-416a-a7c2-68bb92053ce5"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5fa3da25-13aa-4ee3-acf5-cd505f4688d0"
+    },
+    {
+      "combination": false,
+      "labeler": "Patrin Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7d66dbf9-3966-4949-b7c9-d2ca8c7f3278"
+    },
+    {
+      "combination": false,
+      "labeler": "QUAGEN PHARMACEUTICALS LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "59de488c-c3f8-415d-9e9f-9102c090aac8"
+    },
+    {
+      "combination": false,
+      "labeler": "Solco Healthcare US,LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "238ff743-4f25-43a3-87ac-6559d12a9d49"
+    },
+    {
+      "combination": false,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ecbb4a30-21ac-42e1-b4e9-6c35344ffc45"
+    },
+    {
+      "combination": false,
+      "labeler": "Accord Healthcare, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4f3c91e6-4576-4326-bdab-7d8fb7c09bb8"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascent Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "45ebb59c-9603-4df6-b1be-3295ba2db1e7"
+    },
+    {
+      "combination": false,
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1643b6a5-80da-4d4f-8c5f-feb907875702"
+    },
+    {
+      "combination": false,
+      "labeler": "Nivagen Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4cc16009-44ad-4055-ac76-efa282f1ff47"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "18024571-4505-6d51-e063-6294a90a1972"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d8c14df4-ac05-d69d-9308-58a51d568329"
+    },
+    {
+      "combination": false,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "44386394-d2a3-4483-abe1-6c5c634cc501"
+    },
+    {
+      "combination": false,
+      "labeler": "Trigen Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c45dc1de-adfa-4b3c-a7dc-cffbc8eac74f"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bb73cd3e-aa7c-4f7e-826d-75e71fb6d1e0"
+    },
+    {
+      "combination": false,
+      "labeler": "Granules Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "45d33807-88b2-4b42-9c86-e5b05d7adec1"
+    },
+    {
+      "combination": false,
+      "labeler": "Granules Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "27ea91ad-f64e-43d7-ab10-6f988bca5379"
+    },
+    {
+      "combination": false,
+      "labeler": "XLCare Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b07150db-fd99-4400-bb83-b3a7544a917a"
+    },
+    {
+      "combination": false,
+      "labeler": "XLCare Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "94dc74d4-b4ef-45bc-b502-54ec692e9bd5"
+    },
+    {
+      "combination": false,
+      "labeler": "Northstar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "768bf181-d0d8-49e5-9c87-cacbb069e0b2"
+    }
+  ]
+}

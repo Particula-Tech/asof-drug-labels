@@ -1,0 +1,523 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/000229",
+      "eu_number": "EU/1/98/096",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000229",
+      "mah": "Merck Sharp & Dohme B.V.",
+      "marketing_authorisation_date": "1999-01-26",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/temodal",
+      "name": "Temodal",
+      "record_from": "1999-01-26",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 29
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/001124",
+      "eu_number": "EU/1/09/605",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-001124",
+      "mah": "medac Gesellschaft für klinische Spezialpräparate mbH",
+      "marketing_authorisation_date": "2010-01-25",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/temomedac",
+      "name": "Temomedac",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/001125",
+      "eu_number": "EU/1/10/615",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-001125",
+      "mah": "Accord Healthcare S.L.U.",
+      "marketing_authorisation_date": "2010-03-15",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/temozolomide-accord",
+      "name": "Temozolomide Accord",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/001126",
+      "eu_number": "EU/1/09/606",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-001126",
+      "mah": "Teva B.V. ",
+      "marketing_authorisation_date": "2010-01-28",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/temozolomide-teva",
+      "name": "Temozolomide Teva",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/002198",
+      "eu_number": "EU/1/11/697",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-002198",
+      "mah": "Sun Pharmaceutical Industries Europe B.V.",
+      "marketing_authorisation_date": "2011-07-13",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/temozolomide-sun",
+      "name": "Temozolomide Sun",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000229",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "TEMOZOLOMIDE"
+  ],
+  "inn": "temozolomide",
+  "name": "TEMOZOLOMIDE",
+  "rank": 470,
+  "rxcui": [
+    "261288",
+    "261289",
+    "261290",
+    "261291",
+    "313209",
+    "313210",
+    "313211",
+    "317160",
+    "700883",
+    "700885",
+    "705617",
+    "705619",
+    "835945",
+    "835948"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 14,
+    "approval_holders": 11,
+    "earliest_marketing_start": "1999-08-11",
+    "latest_label_update": "2026-10-01",
+    "nda_bla_applications": 2,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "TEMOZOLOMIDE",
+      "unii": "YF1K15M17Y"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021029",
+        "NDA022277"
+      ],
+      "brand_names": [
+        "TEMODAR"
+      ],
+      "combination": false,
+      "home_inn": "temozolomide",
+      "ingredients": [
+        "TEMOZOLOMIDE"
+      ],
+      "labeler": "Merck Sharp & Dohme LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1999-08-11",
+      "moieties": [
+        "TEMOZOLOMIDE"
+      ],
+      "product_ndcs": [
+        "0085-1366",
+        "0085-1381",
+        "0085-1417",
+        "0085-1425",
+        "0085-1430",
+        "0085-1519",
+        "0085-3004"
+      ],
+      "rxcui": [
+        "261288",
+        "261289",
+        "261290",
+        "261291",
+        "313209",
+        "313210",
+        "313211",
+        "317160",
+        "700883",
+        "700885",
+        "705617",
+        "705619",
+        "835945",
+        "835948"
+      ],
+      "setid": "046a9011-3911-4d3f-a15f-fbb56d5aad56",
+      "source": "openfda",
+      "spl_version": 40,
+      "title": "TEMODAR (TEMOZOLOMIDE) CAPSULE TEMODAR (TEMOZOLOMIDE) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [MERCK SHARP & DOHME LLC]",
+      "upload_date": "2026-03-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA201742"
+      ],
+      "brand_names": [
+        "Temozolomide"
+      ],
+      "combination": false,
+      "home_inn": "temozolomide",
+      "ingredients": [
+        "TEMOZOLOMIDE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-02-13",
+      "moieties": [
+        "TEMOZOLOMIDE"
+      ],
+      "product_ndcs": [
+        "47335-890",
+        "47335-891",
+        "47335-892",
+        "47335-893",
+        "47335-929",
+        "47335-930"
+      ],
+      "rxcui": [
+        "313209",
+        "313210",
+        "313211",
+        "317160",
+        "700883",
+        "700885"
+      ],
+      "setid": "c1e05c21-a411-4493-80de-ede373632475",
+      "source": "openfda",
+      "spl_version": 24,
+      "title": "TEMOZOLOMIDE CAPSULE [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2025-11-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA203691"
+      ],
+      "brand_names": [
+        "Temozolomide"
+      ],
+      "combination": false,
+      "home_inn": "temozolomide",
+      "ingredients": [
+        "TEMOZOLOMIDE"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-04-03",
+      "moieties": [
+        "TEMOZOLOMIDE"
+      ],
+      "product_ndcs": [
+        "65162-801",
+        "65162-802",
+        "65162-803",
+        "65162-804",
+        "65162-805",
+        "65162-806"
+      ],
+      "rxcui": [
+        "313209",
+        "313210",
+        "313211",
+        "317160",
+        "700883",
+        "700885"
+      ],
+      "setid": "6c8529ec-8936-4fec-a1a5-2b285c7e4859",
+      "source": "openfda",
+      "spl_version": 26,
+      "title": "TEMOZOLOMIDE CAPSULE [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2025-01-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA201528"
+      ],
+      "brand_names": [
+        "Temozolomide"
+      ],
+      "combination": false,
+      "home_inn": "temozolomide",
+      "ingredients": [
+        "TEMOZOLOMIDE"
+      ],
+      "labeler": "Accord Healthcare Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-03-07",
+      "moieties": [
+        "TEMOZOLOMIDE"
+      ],
+      "product_ndcs": [
+        "16729-048",
+        "16729-049",
+        "16729-050",
+        "16729-051",
+        "16729-129",
+        "16729-130"
+      ],
+      "rxcui": [
+        "313209",
+        "313210",
+        "313211",
+        "317160",
+        "700883",
+        "700885"
+      ],
+      "setid": "2d599ccf-8e63-4ff1-aa52-4809744ea97a",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "TEMOZOLOMIDE CAPSULE [ACCORD HEALTHCARE INC.]",
+      "upload_date": "2025-05-26"
+    },
+    {
+      "application_numbers": [
+        "ANDA207658"
+      ],
+      "brand_names": [
+        "Temozolomide"
+      ],
+      "combination": false,
+      "home_inn": "temozolomide",
+      "ingredients": [
+        "TEMOZOLOMIDE"
+      ],
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-04-28",
+      "moieties": [
+        "TEMOZOLOMIDE"
+      ],
+      "product_ndcs": [
+        "67877-537",
+        "67877-538",
+        "67877-539",
+        "67877-540",
+        "67877-541",
+        "67877-542"
+      ],
+      "rxcui": [
+        "313209",
+        "313210",
+        "313211",
+        "317160",
+        "700883",
+        "700885"
+      ],
+      "setid": "33d67bce-38ae-45fc-a858-d51167b0ecfd",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "TEMOZOLOMIDE CAPSULE [ASCEND LABORATORIES, LLC]",
+      "upload_date": "2025-01-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA213328"
+      ],
+      "brand_names": [
+        "temozolomide"
+      ],
+      "combination": false,
+      "home_inn": "temozolomide",
+      "ingredients": [
+        "TEMOZOLOMIDE"
+      ],
+      "labeler": "Nivagen Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-12-07",
+      "moieties": [
+        "TEMOZOLOMIDE"
+      ],
+      "product_ndcs": [
+        "75834-132",
+        "75834-142",
+        "75834-143",
+        "75834-144",
+        "75834-145",
+        "75834-146"
+      ],
+      "rxcui": [
+        "313209",
+        "313210",
+        "313211",
+        "317160",
+        "700883",
+        "700885"
+      ],
+      "setid": "27e5a781-e4f2-4489-9def-7971d0b86d9c",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "TEMOZOLOMIDE CAPSULE [NIVAGEN PHARMACEUTICALS, INC.]",
+      "upload_date": "2021-12-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA206309"
+      ],
+      "brand_names": [
+        "TEMOZOLOMIDE"
+      ],
+      "combination": false,
+      "home_inn": "temozolomide",
+      "ingredients": [
+        "TEMOZOLOMIDE"
+      ],
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-10-04",
+      "moieties": [
+        "TEMOZOLOMIDE"
+      ],
+      "product_ndcs": [
+        "16571-816",
+        "16571-817",
+        "16571-818",
+        "16571-819",
+        "16571-820",
+        "16571-821"
+      ],
+      "rxcui": [
+        "313209",
+        "313210",
+        "313211",
+        "317160",
+        "700883",
+        "700885"
+      ],
+      "setid": "70996a9d-4a4f-4ed1-ab07-130486aa14ab",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "TEMOZOLOMIDE CAPSULE [RISING PHARMA HOLDINGS, INC.]",
+      "upload_date": "2024-07-29"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "78c12889-c837-40c1-8f85-4d048008ad29"
+    },
+    {
+      "combination": false,
+      "labeler": "OPKO Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9dff10ec-6a55-47b6-a458-b7c39e32dc55"
+    },
+    {
+      "combination": false,
+      "labeler": "Devatis, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6b263fe0-5f06-4889-bf14-4aa185470810"
+    },
+    {
+      "combination": false,
+      "labeler": "CivicaScript LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "56245d21-4a42-471e-bbdc-80b129336e2f"
+    },
+    {
+      "combination": false,
+      "labeler": "OPKO Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b3f69c67-db30-4266-8075-9b18c71c9fc1"
+    },
+    {
+      "combination": false,
+      "labeler": "OPKO Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f6d762ea-fff0-43e8-b67d-bef19e883dd8"
+    },
+    {
+      "combination": false,
+      "labeler": "OPKO Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f743f7e0-74cf-47e5-bf21-f2b75d2596dc"
+    }
+  ]
+}

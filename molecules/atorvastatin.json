@@ -1,0 +1,815 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "ATORVASTATIN",
+    "ATORVASTATIN CALCIUM PROPYLENE GLYCOL SOLVATE",
+    "ATORVASTATIN CALCIUM TRIHYDRATE"
+  ],
+  "inn": "atorvastatin",
+  "name": "ATORVASTATIN",
+  "rank": 53,
+  "rxcui": [
+    "259255",
+    "262095",
+    "404011",
+    "404013",
+    "597967",
+    "597977",
+    "597980",
+    "597984",
+    "597987",
+    "597990",
+    "617310",
+    "617311",
+    "617312",
+    "617314",
+    "617318",
+    "617320",
+    "750199",
+    "750203",
+    "750207",
+    "750211",
+    "750227",
+    "750231",
+    "750235",
+    "750239",
+    "2630760"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 43,
+    "approval_holders": 36,
+    "earliest_marketing_start": "2012-05-29",
+    "latest_label_update": "2026-10-26",
+    "nda_bla_applications": 3,
+    "repackagers": 22
+  },
+  "unii": [
+    {
+      "ingredient": "ATORVASTATIN",
+      "unii": "A0JWA85V8F"
+    },
+    {
+      "ingredient": "ATORVASTATIN CALCIUM PROPYLENE GLYCOL SOLVATE",
+      "unii": "YRZ789OWMI"
+    },
+    {
+      "ingredient": "ATORVASTATIN CALCIUM TRIHYDRATE",
+      "unii": "48A5M73Z4Q"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA213260"
+      ],
+      "brand_names": [
+        "ATORVALIQ"
+      ],
+      "combination": false,
+      "home_inn": "atorvastatin",
+      "ingredients": [
+        "ATORVASTATIN CALCIUM TRIHYDRATE"
+      ],
+      "labeler": "CMP Pharma, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-03-01",
+      "moieties": [
+        "ATORVASTATIN"
+      ],
+      "product_ndcs": [
+        "46287-030"
+      ],
+      "rxcui": [
+        "2630760"
+      ],
+      "setid": "41fca2d8-7f3f-45b9-8974-81b89accc211",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "ATORVALIQ SUSPENSION [CMP PHARMA, INC.]",
+      "upload_date": "2024-08-23"
+    },
+    {
+      "application_numbers": [
+        "NDA020702"
+      ],
+      "brand_names": [
+        "Lipitor"
+      ],
+      "combination": false,
+      "home_inn": "atorvastatin",
+      "ingredients": [
+        "ATORVASTATIN CALCIUM TRIHYDRATE"
+      ],
+      "labeler": "Viatris Specialty LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-01-03",
+      "moieties": [
+        "ATORVASTATIN"
+      ],
+      "product_ndcs": [
+        "58151-155",
+        "58151-156",
+        "58151-157",
+        "58151-158"
+      ],
+      "rxcui": [
+        "259255",
+        "262095",
+        "617310",
+        "617311",
+        "617312",
+        "617314",
+        "617318",
+        "617320"
+      ],
+      "setid": "a60cc18b-0631-4cf0-b021-9f52224ece65",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "LIPITOR (ATORVASTATIN CALCIUM) TABLET, FILM COATED [VIATRIS SPECIALTY LLC]",
+      "upload_date": "2026-07-15"
+    },
+    {
+      "application_numbers": [
+        "NDA021540"
+      ],
+      "brand_names": [
+        "Caduet"
+      ],
+      "combination": true,
+      "home_inn": "amlodipine",
+      "ingredients": [
+        "AMLODIPINE BESYLATE",
+        "ATORVASTATIN CALCIUM TRIHYDRATE"
+      ],
+      "labeler": "Pfizer Laboratories Div Pfizer Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-06-06",
+      "moieties": [
+        "AMLODIPINE",
+        "ATORVASTATIN"
+      ],
+      "product_ndcs": [
+        "0069-6180",
+        "0069-6323",
+        "0069-6565",
+        "0069-6747",
+        "0069-7232",
+        "0069-7476",
+        "0069-7654",
+        "0069-7810"
+      ],
+      "rxcui": [
+        "404011",
+        "404013",
+        "597967",
+        "597977",
+        "597980",
+        "597984",
+        "597987",
+        "597990",
+        "750199",
+        "750203",
+        "750207",
+        "750211",
+        "750227",
+        "750231",
+        "750235",
+        "750239"
+      ],
+      "setid": "6f1a9bd8-ee30-4c7d-932f-3fa8c4e087b6",
+      "source": "openfda",
+      "spl_version": 52,
+      "title": "CADUET (AMLODIPINE BESYLATE AND ATORVASTATIN CALCIUM) TABLET, FILM COATED CADUET (AMLODIPINE AND ATORVASTATIN) TABLET, FILM COATED [PFIZER LABORATORIES DIV PFIZER INC]",
+      "upload_date": "2026-06-26"
+    },
+    {
+      "application_numbers": [
+        "NDA021540"
+      ],
+      "brand_names": [
+        "Caduet"
+      ],
+      "combination": true,
+      "home_inn": "atorvastatin",
+      "ingredients": [
+        "AMLODIPINE BESYLATE",
+        "ATORVASTATIN CALCIUM TRIHYDRATE"
+      ],
+      "labeler": "Viatris Specialty LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2026-02-25",
+      "moieties": [
+        "AMLODIPINE",
+        "ATORVASTATIN"
+      ],
+      "product_ndcs": [
+        "58151-060",
+        "58151-061",
+        "58151-062",
+        "58151-063",
+        "58151-064",
+        "58151-065",
+        "58151-066",
+        "58151-067"
+      ],
+      "rxcui": [
+        "404011",
+        "404013",
+        "597967",
+        "597977",
+        "597980",
+        "597984",
+        "597987",
+        "597990",
+        "750199",
+        "750203",
+        "750207",
+        "750211",
+        "750227",
+        "750231",
+        "750235",
+        "750239"
+      ],
+      "setid": "164394b3-d7ba-4bbf-b64b-e2dd15735ea8",
+      "source": "dailymed-title-match",
+      "spl_version": 3,
+      "title": "CADUET (AMLODIPINE AND ATORVASTATIN) TABLET, FILM COATED [VIATRIS SPECIALTY LLC]",
+      "upload_date": "2026-10-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA091226"
+      ],
+      "brand_names": [
+        "Atorvastatin Calcium"
+      ],
+      "combination": false,
+      "home_inn": "atorvastatin",
+      "ingredients": [
+        "ATORVASTATIN CALCIUM TRIHYDRATE"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-05-29",
+      "moieties": [
+        "ATORVASTATIN"
+      ],
+      "product_ndcs": [
+        "0378-3950",
+        "0378-3951",
+        "0378-3952",
+        "0378-3953"
+      ],
+      "rxcui": [
+        "259255",
+        "617310",
+        "617311",
+        "617312"
+      ],
+      "setid": "d0a0feb6-84f0-4693-a11f-eb4f7ae0a87d",
+      "source": "openfda",
+      "spl_version": 28,
+      "title": "ATORVASTATIN CALCIUM TABLET, FILM COATED [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2026-08-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA090548"
+      ],
+      "brand_names": [
+        "ATORVASTATIN CALCIUM"
+      ],
+      "combination": false,
+      "home_inn": "atorvastatin",
+      "ingredients": [
+        "ATORVASTATIN CALCIUM PROPYLENE GLYCOL SOLVATE"
+      ],
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-05-29",
+      "moieties": [
+        "ATORVASTATIN"
+      ],
+      "product_ndcs": [
+        "60505-2578",
+        "60505-2579",
+        "60505-2580",
+        "60505-2671"
+      ],
+      "rxcui": [
+        "259255",
+        "617310",
+        "617311",
+        "617312"
+      ],
+      "setid": "d9adb9e4-c495-9530-e5e3-7e3b01d53e4c",
+      "source": "openfda",
+      "spl_version": 35,
+      "title": "ATORVASTATIN CALCIUM TABLET, FILM COATED [APOTEX CORP.]",
+      "upload_date": "2026-09-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA202357"
+      ],
+      "brand_names": [
+        "Atorvastatin Calcium"
+      ],
+      "combination": false,
+      "home_inn": "atorvastatin",
+      "ingredients": [
+        "ATORVASTATIN CALCIUM TRIHYDRATE"
+      ],
+      "labeler": "Dr. Reddy's Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-07-17",
+      "moieties": [
+        "ATORVASTATIN"
+      ],
+      "product_ndcs": [
+        "55111-124"
+      ],
+      "rxcui": [
+        "259255"
+      ],
+      "setid": "6ccdb6f3-22c7-5b48-46bc-ce4a4c65eb4d",
+      "source": "openfda",
+      "spl_version": 23,
+      "title": "ATORVASTATIN CALCIUM TABLET [DR. REDDY'S LABORATORIES LIMITED]",
+      "upload_date": "2021-12-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA091650"
+      ],
+      "brand_names": [
+        "Atorvastatin Calcium"
+      ],
+      "combination": false,
+      "home_inn": "atorvastatin",
+      "ingredients": [
+        "ATORVASTATIN CALCIUM TRIHYDRATE"
+      ],
+      "labeler": "Dr. Reddy's Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-07-17",
+      "moieties": [
+        "ATORVASTATIN"
+      ],
+      "product_ndcs": [
+        "55111-121",
+        "55111-122",
+        "55111-123"
+      ],
+      "rxcui": [
+        "617310",
+        "617311",
+        "617312"
+      ],
+      "setid": "901550e6-22be-68c9-eb86-f85a9c9dd998",
+      "source": "openfda",
+      "spl_version": 24,
+      "title": "ATORVASTATIN CALCIUM TABLET [DR. REDDY'S LABORATORIES LIMITED]",
+      "upload_date": "2021-09-27"
+    },
+    {
+      "application_numbers": [
+        "ANDA205519"
+      ],
+      "brand_names": [
+        "ATORVASTATIN CALCIUM"
+      ],
+      "combination": false,
+      "home_inn": "atorvastatin",
+      "ingredients": [
+        "ATORVASTATIN CALCIUM TRIHYDRATE"
+      ],
+      "labeler": "ScieGen Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-05-19",
+      "moieties": [
+        "ATORVASTATIN"
+      ],
+      "product_ndcs": [
+        "50228-451",
+        "50228-452",
+        "50228-453",
+        "50228-454"
+      ],
+      "rxcui": [
+        "259255",
+        "617310",
+        "617311",
+        "617312"
+      ],
+      "setid": "f2d8b5e9-6ff2-4efa-ab01-e13df29f7371",
+      "source": "openfda",
+      "spl_version": 20,
+      "title": "ATORVASTATIN CALCIUM TABLET, FILM COATED [SCIEGEN PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-08-31"
+    },
+    {
+      "application_numbers": [
+        "ANDA205300"
+      ],
+      "brand_names": [
+        "Atorvastatin Calcium"
+      ],
+      "combination": false,
+      "home_inn": "atorvastatin",
+      "ingredients": [
+        "ATORVASTATIN CALCIUM TRIHYDRATE"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-05-04",
+      "moieties": [
+        "ATORVASTATIN"
+      ],
+      "product_ndcs": [
+        "0093-5056",
+        "0093-5057",
+        "0093-5058",
+        "0093-5059"
+      ],
+      "rxcui": [
+        "259255",
+        "617310",
+        "617311",
+        "617312"
+      ],
+      "setid": "86841382-4229-4e03-958e-3ac22639efd4",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "ATORVASTATIN CALCIUM TABLET, FILM COATED [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2026-07-24"
+    },
+    {
+      "application_numbers": [
+        "NDA020702"
+      ],
+      "archived_versions": 39,
+      "brand_names": [
+        "LIPITOR"
+      ],
+      "first_posted": "2008-01-11",
+      "found_by": "LIPITOR",
+      "labeler": "Parke-Davis Div of Pfizer Inc",
+      "labeler_unverified": false,
+      "last_posted": "2024-05-02",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-04-30",
+        "2025-09-30",
+        "2026-03-31"
+      ],
+      "product_ndcs": [
+        "0071-0155",
+        "0071-0156",
+        "0071-0157",
+        "0071-0158"
+      ],
+      "rxcui": [],
+      "setid": "c6e131fe-e7df-4876-83f7-9156fc4e8228",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "a60cc18b-0631-4cf0-b021-9f52224ece65"
+      ],
+      "title": "LIPITOR (atorvastatin calcium) tablet, film coated"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Cadila Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "51730b09-24e8-41c8-9fec-813f8a64b433"
+    },
+    {
+      "combination": false,
+      "labeler": "Accord Healthcare Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4e06b20d-cc5d-46eb-991b-5972248de3af"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "67e60880-091a-4df7-8696-6e6c42a490e2"
+    },
+    {
+      "combination": false,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bc448f40-421c-490f-8c39-fa8135507973"
+    },
+    {
+      "combination": false,
+      "labeler": "NIVAGEN PHARMACEUTICALS, INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7c58bf4a-4a92-4db8-89bc-4de1b5831efc"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a5767370-15a2-45e5-b980-7af9523aea7b"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "652f77a0-2145-896d-c760-e99e87507161"
+    },
+    {
+      "combination": false,
+      "labeler": "Lepu Pharmaceutical Technology Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "173474b6-26b4-46f2-a12a-64753ae5e905"
+    },
+    {
+      "combination": false,
+      "labeler": "Biocon Pharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5b839619-1805-c227-91bf-182f5b966ba4"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "25c8f92f-9cb6-482b-82e1-16ad7c94e7b3"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "73cefb0b-1747-4fe0-b252-377f4ed94c6f"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "de8f2c55-44d2-4e01-b7f2-dfb24f1f8760"
+    },
+    {
+      "combination": false,
+      "labeler": "Laurus Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9f8ca507-b784-4d18-8d3e-d7d68072c416"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "536b5e0d-1bb9-4c9d-a588-460d7647308b"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7bd0f0ec-f7a3-4403-9a1a-11f18213631f"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "06028adf-fcb5-452c-ba67-ee53bc65c519"
+    },
+    {
+      "combination": false,
+      "labeler": "Teva Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d3497ad6-b549-4144-b57f-b2088ad80b09"
+    },
+    {
+      "combination": true,
+      "labeler": "Prasco Laboratories",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "14124e56-77ba-426d-8f5a-dbe42eda1a20"
+    },
+    {
+      "combination": true,
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4be76756-4114-4d50-a36c-fd410f6c773d"
+    },
+    {
+      "combination": true,
+      "labeler": "Dr. Reddy's Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "abee4a34-89cc-d886-192c-32582ab8f024"
+    },
+    {
+      "combination": true,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4c7b1b11-90a3-bc1c-0e45-9e2a14ef0b03"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1346631f-e6db-4c5c-a6af-5aa7b80a011d"
+    },
+    {
+      "combination": false,
+      "labeler": "Cipla USA Inc.,",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "18fe5990-399d-416c-852f-e14974317b8b"
+    },
+    {
+      "combination": false,
+      "labeler": "NORTHSTAR RX LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "52d8508b-aa98-cd89-5991-e2b5f982b6c6"
+    },
+    {
+      "combination": false,
+      "labeler": "Quallent",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f00a83aa-3f1d-566d-b9bb-f396f22a27cb"
+    },
+    {
+      "combination": false,
+      "labeler": "Radha Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "10e766cc-c3fd-4584-a0d7-652c516e828c"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "aaf960d1-8bf9-64c6-1e70-8aa33b0ce549"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "55ad4a90-d177-4cce-b7ec-cb75067f6c14"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c1ba8fd9-aa40-466c-81bd-a87b364e9a1a"
+    },
+    {
+      "combination": false,
+      "labeler": "Quallent Pharmaceuticals Health LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5b94b6f4-6f64-4551-abcb-8e845fb13813"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "85fbaf22-017b-4163-b33e-c6594994859b"
+    },
+    {
+      "combination": false,
+      "labeler": "Umedica Laboratories USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5a7594ca-30be-4350-827f-ef745a2a7e18"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ecab983e-6ed8-4440-b7b4-7ac4bf39b26c"
+    }
+  ]
+}

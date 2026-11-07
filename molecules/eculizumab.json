@@ -1,0 +1,237 @@
+{
+  "biologic": true,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand SOLIRIS",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000791",
+      "eu_number": "EU/1/07/393",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000791",
+      "mah": "Alexion Europe SAS",
+      "marketing_authorisation_date": "2007-06-20",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/soliris",
+      "name": "Soliris",
+      "record_from": "2007-06-20",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 24
+    },
+    {
+      "biosimilar": true,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/005652",
+      "eu_number": "EU/1/23/1727",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-005652",
+      "mah": "Amgen Europe B.V.",
+      "marketing_authorisation_date": "2023-04-19",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/bekemv",
+      "name": "Bekemv",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": true,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/006036",
+      "eu_number": "EU/1/23/1735",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-006036",
+      "mah": "Samsung Bioepis NL B.V.",
+      "marketing_authorisation_date": "2023-05-26",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/epysqli",
+      "name": "Epysqli",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000791",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "ECULIZUMAB"
+  ],
+  "inn": "eculizumab",
+  "name": "ECULIZUMAB",
+  "rank": 232,
+  "rxcui": [
+    "700384",
+    "700387",
+    "2706338",
+    "2706345",
+    "2706351",
+    "2706358"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 3,
+    "approval_holders": 3,
+    "earliest_marketing_start": "2007-04-02",
+    "latest_label_update": "2026-07-14",
+    "nda_bla_applications": 3,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "ECULIZUMAB",
+      "unii": "A3ULP0F556"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "BLA125166"
+      ],
+      "brand_names": [
+        "SOLIRIS"
+      ],
+      "combination": false,
+      "home_inn": "eculizumab",
+      "ingredients": [
+        "ECULIZUMAB"
+      ],
+      "labeler": "Alexion Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2007-04-02",
+      "moieties": [
+        "ECULIZUMAB"
+      ],
+      "product_ndcs": [
+        "25682-001"
+      ],
+      "rxcui": [
+        "700384",
+        "700387"
+      ],
+      "setid": "ebcd67fa-b4d1-4a22-b33d-ee8bf6b9c722",
+      "source": "openfda",
+      "spl_version": 44,
+      "title": "SOLIRIS (ECULIZUMAB) INJECTION, SOLUTION, CONCENTRATE [ALEXION PHARMACEUTICALS INC.]",
+      "upload_date": "2026-07-13"
+    },
+    {
+      "application_numbers": [
+        "BLA761333"
+      ],
+      "brand_names": [
+        "BKEMV"
+      ],
+      "combination": false,
+      "home_inn": "eculizumab",
+      "ingredients": [
+        "ECULIZUMAB"
+      ],
+      "labeler": "Amgen Inc",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2025-03-01",
+      "moieties": [
+        "ECULIZUMAB"
+      ],
+      "product_ndcs": [
+        "55513-180"
+      ],
+      "rxcui": [
+        "2706351",
+        "2706358"
+      ],
+      "setid": "002f9748-b0e8-4b6e-a38b-56930a839491",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "BKEMV (ECULIZUMAB-AEEB) INJECTION, SOLUTION, CONCENTRATE [AMGEN INC]",
+      "upload_date": "2026-07-13"
+    },
+    {
+      "application_numbers": [
+        "BLA761340"
+      ],
+      "brand_names": [
+        "EPYSQLI"
+      ],
+      "combination": false,
+      "home_inn": "eculizumab",
+      "ingredients": [
+        "ECULIZUMAB"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2025-04-07",
+      "moieties": [
+        "ECULIZUMAB"
+      ],
+      "product_ndcs": [
+        "51759-208"
+      ],
+      "rxcui": [
+        "2706338",
+        "2706345"
+      ],
+      "setid": "1fa1aa80-1c59-44d4-9841-b6c52882651b",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "EPYSQLI (ECULIZUMAB-AAGH) INJECTION, SOLUTION [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2026-07-14"
+    },
+    {
+      "application_numbers": [
+        "BLA761340"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "EPYSQLI"
+      ],
+      "first_posted": "2025-03-03",
+      "found_by": "EPYSQLI",
+      "labeler": "Samsung Bioepis Co., Ltd.",
+      "labeler_unverified": true,
+      "last_posted": "2025-03-24",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_end_dates": [
+        "2025-03-01"
+      ],
+      "product_ndcs": [
+        "71202-010"
+      ],
+      "rxcui": [],
+      "setid": "a18943b9-ded2-431e-901a-66302f82182d",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "1fa1aa80-1c59-44d4-9841-b6c52882651b"
+      ],
+      "title": "EPYSQLI (eculizumab-aagh) injection, solution"
+    }
+  ],
+  "us_excluded": []
+}

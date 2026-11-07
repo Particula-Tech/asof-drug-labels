@@ -1,0 +1,474 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "ALENDRONATE SODIUM"
+  ],
+  "inn": "alendronate",
+  "name": "ALENDRONATE",
+  "rank": 272,
+  "rxcui": [
+    "904396",
+    "904405",
+    "904419",
+    "904425",
+    "904431",
+    "904433",
+    "904447",
+    "904462",
+    "904465",
+    "904492",
+    "904495",
+    "1248077",
+    "1248083"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 14,
+    "approval_holders": 12,
+    "earliest_marketing_start": "2008-02-06",
+    "latest_label_update": "2026-10-21",
+    "nda_bla_applications": 3,
+    "repackagers": 5
+  },
+  "unii": [
+    {
+      "ingredient": "ALENDRONATE SODIUM",
+      "unii": "2UY4M2U3RA"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA202344"
+      ],
+      "brand_names": [
+        "Binosto"
+      ],
+      "combination": false,
+      "home_inn": "alendronate",
+      "ingredients": [
+        "ALENDRONATE SODIUM"
+      ],
+      "labeler": "Radius Health, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2012-03-12",
+      "moieties": [
+        "ALENDRONATE"
+      ],
+      "product_ndcs": [
+        "70539-400"
+      ],
+      "rxcui": [
+        "1248077",
+        "1248083"
+      ],
+      "setid": "09765234-01bc-40f7-b9bb-c167056f3909",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "BINOSTO (ALENDRONATE SODIUM) TABLET, EFFERVESCENT [RADIUS HEALTH, INC.]",
+      "upload_date": "2026-02-16"
+    },
+    {
+      "application_numbers": [
+        "NDA020560"
+      ],
+      "brand_names": [
+        "FOSAMAX"
+      ],
+      "combination": false,
+      "home_inn": "alendronate",
+      "ingredients": [
+        "ALENDRONATE SODIUM"
+      ],
+      "labeler": "Organon LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-06-01",
+      "moieties": [
+        "ALENDRONATE"
+      ],
+      "product_ndcs": [
+        "78206-135"
+      ],
+      "rxcui": [
+        "904431",
+        "904433"
+      ],
+      "setid": "14e931fd-2c5f-4d90-b7db-5980706f4a56",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "FOSAMAX (ALENDRONATE SODIUM) TABLET [ORGANON LLC]",
+      "upload_date": "2026-03-16"
+    },
+    {
+      "application_numbers": [
+        "NDA021762"
+      ],
+      "brand_names": [
+        "FOSAMAX PLUS D"
+      ],
+      "combination": true,
+      "home_inn": "alendronate",
+      "ingredients": [
+        "ALENDRONATE SODIUM",
+        "CHOLECALCIFEROL"
+      ],
+      "labeler": "Organon LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-06-01",
+      "moieties": [
+        "ALENDRONATE",
+        "CHOLECALCIFEROL"
+      ],
+      "product_ndcs": [
+        "78206-136",
+        "78206-137"
+      ],
+      "rxcui": [
+        "904462",
+        "904465",
+        "904492",
+        "904495"
+      ],
+      "setid": "10307e7e-9a84-4aa1-8c5c-4b209cffe4d1",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "FOSAMAX PLUS D (ALENDRONATE SODIUM AND CHOLECALCIFEROL) TABLET [ORGANON LLC]",
+      "upload_date": "2026-02-16"
+    },
+    {
+      "application_numbers": [
+        "ANDA075710"
+      ],
+      "brand_names": [
+        "Alendronate Sodium"
+      ],
+      "combination": false,
+      "home_inn": "alendronate",
+      "ingredients": [
+        "ALENDRONATE SODIUM"
+      ],
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2008-02-06",
+      "moieties": [
+        "ALENDRONATE"
+      ],
+      "product_ndcs": [
+        "0115-1676",
+        "0115-1678",
+        "0115-1679",
+        "0115-1680",
+        "0115-1681"
+      ],
+      "rxcui": [
+        "904396",
+        "904405",
+        "904419",
+        "904425",
+        "904431"
+      ],
+      "setid": "c23fb7fe-c6b9-4f77-bde7-992222b589d3",
+      "source": "openfda",
+      "spl_version": 40,
+      "title": "ALENDRONATE SODIUM TABLET [AMNEAL PHARMACEUTICALS OF NEW YORK LLC]",
+      "upload_date": "2024-01-01"
+    },
+    {
+      "application_numbers": [
+        "ANDA090124"
+      ],
+      "brand_names": [
+        "Alendronate Sodium"
+      ],
+      "combination": false,
+      "home_inn": "alendronate",
+      "ingredients": [
+        "ALENDRONATE SODIUM"
+      ],
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2008-08-04",
+      "moieties": [
+        "ALENDRONATE"
+      ],
+      "product_ndcs": [
+        "16714-631",
+        "16714-632",
+        "16714-633"
+      ],
+      "rxcui": [
+        "904396",
+        "904419",
+        "904431"
+      ],
+      "setid": "4323d3aa-cbb0-41e2-aba7-7a94a0516993",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "ALENDRONATE SODIUM TABLET [NORTHSTAR RX LLC]",
+      "upload_date": "2026-06-25"
+    },
+    {
+      "application_numbers": [
+        "ANDA076768"
+      ],
+      "brand_names": [
+        "ALENDRONATE SODIUM"
+      ],
+      "combination": false,
+      "home_inn": "alendronate",
+      "ingredients": [
+        "ALENDRONATE SODIUM"
+      ],
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2008-08-04",
+      "moieties": [
+        "ALENDRONATE"
+      ],
+      "product_ndcs": [
+        "69097-223",
+        "69097-224"
+      ],
+      "rxcui": [
+        "904396",
+        "904431"
+      ],
+      "setid": "e2fac28d-ad91-4cdc-a003-9fdeac073f76",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "ALENDRONATE SODIUM TABLET [CIPLA USA INC.]",
+      "upload_date": "2026-06-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA090258"
+      ],
+      "brand_names": [
+        "Alendronate"
+      ],
+      "combination": false,
+      "home_inn": "alendronate",
+      "ingredients": [
+        "ALENDRONATE SODIUM"
+      ],
+      "labeler": "Hangzhou Minsheng Binjiang Pharmaceutical Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-12-05",
+      "moieties": [
+        "ALENDRONATE"
+      ],
+      "product_ndcs": [
+        "60723-205",
+        "60723-207"
+      ],
+      "rxcui": [
+        "904396",
+        "904431"
+      ],
+      "setid": "a24fd39c-34a7-4de2-9439-781e612189ca",
+      "source": "openfda",
+      "spl_version": 27,
+      "title": "ALENDRONATE (ALENDRONATE SODIUM) TABLET [HANGZHOU MINSHENG BINJIANG PHARMACEUTICAL CO., LTD.]",
+      "upload_date": "2025-12-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA090520"
+      ],
+      "brand_names": [
+        "Alendronate Sodium"
+      ],
+      "combination": false,
+      "home_inn": "alendronate",
+      "ingredients": [
+        "ALENDRONATE SODIUM"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-10-30",
+      "moieties": [
+        "ALENDRONATE"
+      ],
+      "product_ndcs": [
+        "0054-0282"
+      ],
+      "rxcui": [
+        "904447"
+      ],
+      "setid": "c910bb05-279b-4ffa-a867-46f4a0853ed5",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "ALENDRONATE SODIUM SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2026-01-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA214512"
+      ],
+      "brand_names": [
+        "Alendronate Sodium"
+      ],
+      "combination": false,
+      "home_inn": "alendronate",
+      "ingredients": [
+        "ALENDRONATE SODIUM"
+      ],
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-05-24",
+      "moieties": [
+        "ALENDRONATE"
+      ],
+      "product_ndcs": [
+        "70954-264"
+      ],
+      "rxcui": [
+        "904447"
+      ],
+      "setid": "81589178-10c9-4806-91eb-54e638d35b8d",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "ALENDRONATE SODIUM SOLUTION [ANI PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-02-06"
+    },
+    {
+      "application_numbers": [
+        "NDA021762"
+      ],
+      "archived_versions": 20,
+      "brand_names": [
+        "FOSAMAX"
+      ],
+      "first_posted": "2008-05-05",
+      "found_by": "FOSAMAX",
+      "labeler": "Merck Sharp & Dohme Corp.",
+      "labeler_unverified": false,
+      "last_posted": "2022-03-11",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-12-31"
+      ],
+      "product_ndcs": [
+        "0006-0270",
+        "0006-0710"
+      ],
+      "rxcui": [],
+      "setid": "c0ec7e75-03b9-4b5b-ca8b-58cb0f65b5d9",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "10307e7e-9a84-4aa1-8c5c-4b209cffe4d1"
+      ],
+      "title": "FOSAMAX PLUS D (alendronate sodium and cholecalciferol) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA020560"
+      ],
+      "archived_versions": 22,
+      "brand_names": [
+        "FOSAMAX"
+      ],
+      "first_posted": "2008-05-05",
+      "found_by": "FOSAMAX",
+      "labeler": "Merck Sharp & Dohme Corp.",
+      "labeler_unverified": false,
+      "last_posted": "2022-03-11",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-12-31"
+      ],
+      "product_ndcs": [
+        "0006-0031"
+      ],
+      "rxcui": [],
+      "setid": "f2dcfb39-a7c2-4e39-9e35-852a3a74f947",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "14e931fd-2c5f-4d90-b7db-5980706f4a56"
+      ],
+      "title": "FOSAMAX (alendronate sodium) tablet"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "815a87c4-e489-4eb9-9a2e-fb7a16642f01"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ffdd2496-d253-419b-85a6-8c615f7545f1"
+    },
+    {
+      "combination": false,
+      "labeler": "Marlex Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b63421af-ec03-1de7-e053-2a95a90abec6"
+    },
+    {
+      "combination": false,
+      "labeler": "Marlex Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c1e61b54-287f-47ed-9192-e3c98ecb2e06"
+    },
+    {
+      "combination": false,
+      "labeler": "EXELAN PHARMACEUTICALS INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "91a0f73a-d8cd-4197-b431-40707a2150b9"
+    }
+  ]
+}

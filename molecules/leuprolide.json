@@ -1,0 +1,657 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand CAMCEVI",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/005034",
+      "eu_number": "EU/1/22/1647",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-005034",
+      "mah": "Accord Healthcare S.L.U.",
+      "marketing_authorisation_date": "2022-05-24",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/camcevi",
+      "name": "Camcevi",
+      "record_from": "2022-05-24",
+      "record_to": "2026-11-03",
+      "role": "reference",
+      "versions": 4
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-005034",
+    "reference_selected_by": "salt-alias-v2",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "LEUPROLIDE ACETATE",
+    "LEUPROLIDE MESYLATE"
+  ],
+  "inn": "leuprolide",
+  "name": "LEUPROLIDE",
+  "rank": 112,
+  "rxcui": [
+    "545835",
+    "752884",
+    "752889",
+    "752894",
+    "752899",
+    "825325",
+    "825333",
+    "825334",
+    "825335",
+    "2371773",
+    "2595044",
+    "2595049",
+    "2720345",
+    "2720348",
+    "2723399",
+    "2728996"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 6,
+    "approval_holders": 4,
+    "earliest_marketing_start": "2022-04-05",
+    "latest_label_update": "2026-06-30",
+    "nda_bla_applications": 6,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "LEUPROLIDE ACETATE",
+      "unii": "37JNS02E7V"
+    },
+    {
+      "ingredient": "LEUPROLIDE MESYLATE",
+      "unii": "8E3C3C493W"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA211488"
+      ],
+      "brand_names": [
+        "CAMCEVI"
+      ],
+      "combination": false,
+      "home_inn": "leuprolide",
+      "ingredients": [
+        "LEUPROLIDE MESYLATE"
+      ],
+      "labeler": "Accord BioPharma, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-04-05",
+      "moieties": [
+        "LEUPROLIDE"
+      ],
+      "product_ndcs": [
+        "69448-014",
+        "69448-023"
+      ],
+      "rxcui": [
+        "2595044",
+        "2595049"
+      ],
+      "setid": "d7a8761a-d953-413a-e053-2a95a90a60ee",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "CAMCEVI (LEUPROLIDE) INJECTION, EMULSION [ACCORD BIOPHARMA, INC.]",
+      "upload_date": "2026-02-19"
+    },
+    {
+      "application_numbers": [
+        "NDA213150"
+      ],
+      "brand_names": [
+        "Fensolvi"
+      ],
+      "combination": false,
+      "home_inn": "leuprolide",
+      "ingredients": [
+        "LEUPROLIDE ACETATE"
+      ],
+      "labeler": "TOLMAR Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-03-06",
+      "moieties": [
+        "LEUPROLIDE"
+      ],
+      "product_ndcs": [
+        "62935-163"
+      ],
+      "rxcui": [
+        "752884",
+        "2371773"
+      ],
+      "setid": "2c311700-edf4-4f2a-a468-9875489a6cc7",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "FENSOLVI (LEUPROLIDE ACETATE) INJECTION, SUSPENSION, EXTENDED RELEASE [TOLMAR INC.]",
+      "upload_date": "2025-09-29"
+    },
+    {
+      "application_numbers": [
+        "NDA021343",
+        "NDA021379",
+        "NDA021488",
+        "NDA021731"
+      ],
+      "brand_names": [
+        "Eligard"
+      ],
+      "combination": false,
+      "home_inn": "leuprolide",
+      "ingredients": [
+        "LEUPROLIDE ACETATE"
+      ],
+      "labeler": "TOLMAR Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-03-06",
+      "moieties": [
+        "LEUPROLIDE"
+      ],
+      "product_ndcs": [
+        "62935-227",
+        "62935-306",
+        "62935-461",
+        "62935-756"
+      ],
+      "rxcui": [
+        "752884",
+        "752889",
+        "752894",
+        "752899",
+        "825325",
+        "825333",
+        "825334",
+        "825335"
+      ],
+      "setid": "b7b679a9-6823-4ef8-8d31-3ab5058ffcfc",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "ELIGARD (LEUPROLIDE ACETATE) INJECTION, SUSPENSION, EXTENDED RELEASE [TOLMAR INC.]",
+      "upload_date": "2026-05-11"
+    },
+    {
+      "application_numbers": [
+        "NDA211488"
+      ],
+      "brand_names": [
+        "CAMCEVI"
+      ],
+      "combination": false,
+      "home_inn": "leuprolide",
+      "ingredients": [
+        "LEUPROLIDE MESYLATE"
+      ],
+      "labeler": "Accord BioPharma, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-05-19",
+      "moieties": [
+        "LEUPROLIDE"
+      ],
+      "product_ndcs": [
+        "69448-023"
+      ],
+      "rxcui": [
+        "2595044",
+        "2595049"
+      ],
+      "setid": "cbff25e5-6fe8-4e44-b10a-8397b3349905",
+      "source": "dailymed-title-match",
+      "spl_version": 8,
+      "title": "CAMCEVI (LEUPROLIDE) INJECTION, EMULSION [ACCORD BIOPHARMA, INC.]",
+      "upload_date": "2026-02-19"
+    },
+    {
+      "application_numbers": [
+        "NDA021343",
+        "NDA021379",
+        "NDA021488",
+        "NDA021731"
+      ],
+      "brand_names": [
+        "Vabrinty"
+      ],
+      "combination": false,
+      "home_inn": "leuprolide",
+      "ingredients": [
+        "LEUPROLIDE ACETATE"
+      ],
+      "labeler": "URONOVA PHARMACEUTICALS, INC.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2025-08-04",
+      "moieties": [
+        "LEUPROLIDE"
+      ],
+      "product_ndcs": [
+        "85043-025",
+        "85043-030",
+        "85043-045",
+        "85043-075"
+      ],
+      "rxcui": [
+        "752884",
+        "752889",
+        "752894",
+        "752899",
+        "2720345",
+        "2720348",
+        "2723399",
+        "2728996"
+      ],
+      "setid": "008776cc-83f1-4f8c-819b-6471425da15f",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "VABRINTY (LEUPROLIDE ACETATE) INJECTION, SUSPENSION, EXTENDED RELEASE [URONOVA PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-06-26"
+    },
+    {
+      "application_numbers": [
+        "ANDA217437"
+      ],
+      "brand_names": [
+        "LEUPROLIDE ACETATE"
+      ],
+      "combination": false,
+      "home_inn": "leuprolide",
+      "ingredients": [
+        "LEUPROLIDE ACETATE"
+      ],
+      "labeler": "Endo USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-06-30",
+      "moieties": [
+        "LEUPROLIDE"
+      ],
+      "product_ndcs": [
+        "42023-259"
+      ],
+      "rxcui": [
+        "545835"
+      ],
+      "setid": "290b0716-2fd5-43a1-8d3c-4857c1b2eefa",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "LEUPROLIDE ACETATE INJECTION [ENDO USA, INC.]",
+      "upload_date": "2026-06-30"
+    },
+    {
+      "application_numbers": [
+        "NDA021343",
+        "NDA021379",
+        "NDA021488",
+        "NDA021731"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "ELIGARD"
+      ],
+      "first_posted": "2014-04-25",
+      "found_by": "ELIGARD",
+      "labeler": "TOLMAR PHARMACEUTICALS INC.",
+      "labeler_unverified": false,
+      "last_posted": "2015-05-12",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-05-08"
+      ],
+      "product_ndcs": [
+        "62935-220",
+        "62935-222",
+        "62935-225",
+        "62935-300",
+        "62935-301",
+        "62935-302",
+        "62935-450",
+        "62935-451",
+        "62935-452",
+        "62935-750",
+        "62935-751",
+        "62935-752"
+      ],
+      "rxcui": [],
+      "setid": "0342f4a9-1037-4d41-b791-e5b0dbaeffeb",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "008776cc-83f1-4f8c-819b-6471425da15f",
+        "b7b679a9-6823-4ef8-8d31-3ab5058ffcfc"
+      ],
+      "title": "ELIGARD (leuprolide acetate) kit"
+    },
+    {
+      "application_numbers": [
+        "NDA019732"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "LUPRON"
+      ],
+      "first_posted": "2010-05-25",
+      "found_by": "LUPRON",
+      "labeler": "AbbVie Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2014-07-16",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2014-07-03"
+      ],
+      "product_ndcs": [
+        "0074-3642"
+      ],
+      "rxcui": [],
+      "setid": "07239db8-8d73-4cf9-7ea6-52aee7ef7f11",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "LUPRON DEPOT (leuprolide acetate) kit"
+    },
+    {
+      "application_numbers": [
+        "NDA021731"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "ELIGARD"
+      ],
+      "first_posted": "2023-03-06",
+      "found_by": "ELIGARD",
+      "labeler": "TOLMAR Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2023-09-15",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "62935-461"
+      ],
+      "rxcui": [],
+      "setid": "0f03a91d-37eb-4e91-bf00-7fe097a4bead",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "008776cc-83f1-4f8c-819b-6471425da15f",
+        "b7b679a9-6823-4ef8-8d31-3ab5058ffcfc"
+      ],
+      "title": "ELIGARD (leuprolide acetate) injection, suspension, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA020263"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "LUPRON"
+      ],
+      "first_posted": "2011-08-19",
+      "found_by": "LUPRON",
+      "labeler": "AbbVie Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2013-06-07",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-05-24"
+      ],
+      "product_ndcs": [
+        "0074-3779",
+        "0074-9694"
+      ],
+      "rxcui": [],
+      "setid": "1fb939b5-f93d-4c10-1bb7-f89a49b54451",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "LUPRON DEPOT-PED (leuprolide acetate) kit"
+    },
+    {
+      "application_numbers": [
+        "NDA020263"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "LUPRON"
+      ],
+      "first_posted": "2011-01-13",
+      "found_by": "LUPRON",
+      "labeler": "Takeda Pharmaceutical Company LTD",
+      "labeler_unverified": true,
+      "last_posted": "2011-01-13",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "11532-1452",
+        "11532-1453",
+        "11532-1454"
+      ],
+      "rxcui": [],
+      "setid": "28a7b3ee-d0b9-499e-b5f1-7f69a552c4ee",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "LUPRON DEPOT PED (leuprolide acetate) injection, powder, lyophilized, for suspension"
+    },
+    {
+      "application_numbers": [
+        "NDA020263"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "LUPRON"
+      ],
+      "first_posted": "2010-08-27",
+      "found_by": "LUPRON",
+      "labeler": "AbbVie Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2013-06-10",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-05-24"
+      ],
+      "product_ndcs": [
+        "0074-2108",
+        "0074-2282",
+        "0074-2440"
+      ],
+      "rxcui": [],
+      "setid": "8f89bc0b-0921-4b7b-d5b8-c3cecfe3b049",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "LUPRON DEPOT-PED (leuprolide acetate) kit"
+    },
+    {
+      "application_numbers": [
+        "NDA020517"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "LUPRON"
+      ],
+      "first_posted": "2010-05-26",
+      "found_by": "LUPRON",
+      "labeler": "Abbott Laboratories",
+      "labeler_unverified": false,
+      "last_posted": "2011-07-20",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2011-07-07"
+      ],
+      "product_ndcs": [
+        "0074-3683"
+      ],
+      "rxcui": [],
+      "setid": "90de32b1-1071-4c2b-8a86-6b16db834942",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "LUPRON DEPOT (leuprolide acetate) kit"
+    },
+    {
+      "application_numbers": [
+        "NDA019010"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "LUPRON"
+      ],
+      "first_posted": "2010-09-10",
+      "found_by": "LUPRON",
+      "labeler": "AbbVie Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2017-06-05",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2009-12-31"
+      ],
+      "product_ndcs": [
+        "0074-3612"
+      ],
+      "rxcui": [],
+      "setid": "94a64966-52bf-4811-158d-9e4c718ad64c",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "LUPRON (leuprolide acetate) kit"
+    },
+    {
+      "application_numbers": [
+        "NDA213150"
+      ],
+      "archived_versions": 10,
+      "brand_names": [
+        "FENSOLVI"
+      ],
+      "first_posted": "2020-06-01",
+      "found_by": "FENSOLVI",
+      "labeler": "TOLMAR Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2026-10-14",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-03-31"
+      ],
+      "product_ndcs": [
+        "62935-153",
+        "62935-154",
+        "62935-155"
+      ],
+      "rxcui": [],
+      "setid": "dfb6e01c-f138-471d-bf5b-2be38247e3f0",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "2c311700-edf4-4f2a-a468-9875489a6cc7"
+      ],
+      "title": "FENSOLVI (leuprolide acetate) kit"
+    },
+    {
+      "application_numbers": [
+        "NDA020517"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "LUPRON"
+      ],
+      "first_posted": "2009-12-17",
+      "found_by": "LUPRON",
+      "labeler": "Abbott Laboratories",
+      "labeler_unverified": false,
+      "last_posted": "2011-07-20",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2011-07-07"
+      ],
+      "product_ndcs": [
+        "0074-3346"
+      ],
+      "rxcui": [],
+      "setid": "f59e8e0b-4359-4669-58a7-f1b201264c6f",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "LUPRON DEPOT (leuprolide acetate) kit"
+    },
+    {
+      "application_numbers": [
+        "NDA021343",
+        "NDA021379",
+        "NDA021488",
+        "NDA021731"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "ELIGARD"
+      ],
+      "first_posted": "2009-12-18",
+      "found_by": "ELIGARD",
+      "labeler": "Sanofi-aventis U.S. LLC",
+      "labeler_unverified": false,
+      "last_posted": "2016-07-14",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2016-05-31"
+      ],
+      "product_ndcs": [
+        "0024-0222",
+        "0024-0605",
+        "0024-0610",
+        "0024-0793"
+      ],
+      "rxcui": [],
+      "setid": "fe3228a7-a5e4-40e4-9fe6-b35db60a71ce",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "008776cc-83f1-4f8c-819b-6471425da15f",
+        "b7b679a9-6823-4ef8-8d31-3ab5058ffcfc"
+      ],
+      "title": "ELIGARD (leuprolide acetate) kit"
+    }
+  ],
+  "us_excluded": []
+}

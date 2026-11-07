@@ -1,0 +1,849 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 3,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "only combination central products under this exact INN (combinations are not built)",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "MOMETASONE",
+    "MOMETASONE FUROATE",
+    "MOMETASONE FUROATE MONOHYDRATE"
+  ],
+  "inn": "mometasone",
+  "name": "MOMETASONE",
+  "rank": 136,
+  "rxcui": [
+    "151029",
+    "151030",
+    "311753",
+    "746803",
+    "746804",
+    "746810",
+    "746811",
+    "746812",
+    "746813",
+    "746814",
+    "746815",
+    "790283",
+    "790284",
+    "1246308",
+    "1246310",
+    "1246311",
+    "1246313",
+    "1536142",
+    "1536144",
+    "1536147",
+    "1536148",
+    "1660933",
+    "1660934",
+    "1660937",
+    "1660938",
+    "1797865",
+    "1995983",
+    "1995988",
+    "2196590",
+    "2196592",
+    "2196790",
+    "2196792",
+    "2591806",
+    "2591812"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 18,
+    "approval_holders": 12,
+    "earliest_marketing_start": "2004-12-21",
+    "latest_label_update": "2026-10-05",
+    "nda_bla_applications": 5,
+    "repackagers": 6
+  },
+  "unii": [
+    {
+      "ingredient": "MOMETASONE",
+      "unii": "8HR4QJ6DW8"
+    },
+    {
+      "ingredient": "MOMETASONE FUROATE",
+      "unii": "04201GDN4R"
+    },
+    {
+      "ingredient": "MOMETASONE FUROATE MONOHYDRATE",
+      "unii": "MTW0WEG809"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA209310"
+      ],
+      "brand_names": [
+        "Sinuva"
+      ],
+      "combination": false,
+      "home_inn": "mometasone",
+      "ingredients": [
+        "MOMETASONE FUROATE"
+      ],
+      "labeler": "Intersect ENT, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-02-01",
+      "moieties": [
+        "MOMETASONE"
+      ],
+      "product_ndcs": [
+        "10599-003"
+      ],
+      "rxcui": [
+        "1995983",
+        "1995988"
+      ],
+      "setid": "e33c1b23-cdc6-4f64-94ba-24b0b42c09bf",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "SINUVA (MOMETASONE FUROATE) IMPLANT [INTERSECT ENT, INC.]",
+      "upload_date": "2023-01-27"
+    },
+    {
+      "application_numbers": [
+        "NDA205641"
+      ],
+      "brand_names": [
+        "ASMANEX HFA"
+      ],
+      "combination": false,
+      "home_inn": "mometasone",
+      "ingredients": [
+        "MOMETASONE FUROATE"
+      ],
+      "labeler": "Organon LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-06-01",
+      "moieties": [
+        "MOMETASONE"
+      ],
+      "product_ndcs": [
+        "78206-111",
+        "78206-112",
+        "78206-113"
+      ],
+      "rxcui": [
+        "1536142",
+        "1536144",
+        "1536147",
+        "1536148",
+        "2196790",
+        "2196792"
+      ],
+      "setid": "0c6d63da-41bc-4894-bead-198e66c848ac",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "ASMANEX HFA (MOMETASONE FUROATE) AEROSOL [ORGANON LLC]",
+      "upload_date": "2026-07-15"
+    },
+    {
+      "application_numbers": [
+        "NDA021067"
+      ],
+      "brand_names": [
+        "ASMANEX"
+      ],
+      "combination": false,
+      "home_inn": "mometasone",
+      "ingredients": [
+        "MOMETASONE FUROATE"
+      ],
+      "labeler": "Organon LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-06-01",
+      "moieties": [
+        "MOMETASONE"
+      ],
+      "product_ndcs": [
+        "78206-114",
+        "78206-115"
+      ],
+      "rxcui": [
+        "746803",
+        "746804",
+        "746810",
+        "746811",
+        "746812",
+        "746813",
+        "746814",
+        "746815",
+        "790283",
+        "790284"
+      ],
+      "setid": "10b36fb2-6b0d-4f20-b197-3564d6f594b9",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "ASMANEX (MOMETASONE FUROATE) INHALANT [ORGANON LLC]",
+      "upload_date": "2026-07-09"
+    },
+    {
+      "application_numbers": [
+        "NDA022518"
+      ],
+      "brand_names": [
+        "Dulera"
+      ],
+      "combination": true,
+      "home_inn": "formoterol",
+      "ingredients": [
+        "FORMOTEROL FUMARATE",
+        "MOMETASONE FUROATE"
+      ],
+      "labeler": "Organon LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-06-01",
+      "moieties": [
+        "FORMOTEROL",
+        "MOMETASONE"
+      ],
+      "product_ndcs": [
+        "78206-125",
+        "78206-126",
+        "78206-127"
+      ],
+      "rxcui": [
+        "1246308",
+        "1246310",
+        "1246311",
+        "1246313",
+        "1660933",
+        "1660934",
+        "1660937",
+        "1660938",
+        "2196590",
+        "2196592"
+      ],
+      "setid": "8f399784-f257-4f31-b3dc-368bf2a1864d",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "DULERA (MOMETASONE FUROATE AND FORMOTEROL FUMARATE DIHYDRATE) AEROSOL [ORGANON LLC]",
+      "upload_date": "2026-07-13"
+    },
+    {
+      "application_numbers": [
+        "NDA211746"
+      ],
+      "brand_names": [
+        "Ryaltris"
+      ],
+      "combination": true,
+      "home_inn": "mometasone",
+      "ingredients": [
+        "MOMETASONE FUROATE MONOHYDRATE",
+        "OLOPATADINE HYDROCHLORIDE"
+      ],
+      "labeler": "HIKMA SPECIALTY USA INC.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-08-15",
+      "moieties": [
+        "MOMETASONE",
+        "OLOPATADINE"
+      ],
+      "product_ndcs": [
+        "59467-700"
+      ],
+      "rxcui": [
+        "2591806",
+        "2591812"
+      ],
+      "setid": "382eac74-a7ce-4f42-ac0a-b253308f335f",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "RYALTRIS (OLOPATADINE HYDROCHLORIDE AND MOMETASONE FUROATE) SPRAY, METERED [HIKMA SPECIALTY USA INC.]",
+      "upload_date": "2026-01-26"
+    },
+    {
+      "application_numbers": [
+        "NDA211746"
+      ],
+      "brand_names": [
+        "Ryaltris"
+      ],
+      "combination": true,
+      "home_inn": "mometasone",
+      "ingredients": [
+        "MOMETASONE FUROATE MONOHYDRATE",
+        "OLOPATADINE HYDROCHLORIDE"
+      ],
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2026-01-13",
+      "moieties": [
+        "MOMETASONE",
+        "OLOPATADINE"
+      ],
+      "product_ndcs": [
+        "68462-659"
+      ],
+      "rxcui": [
+        "2591806",
+        "2591812"
+      ],
+      "setid": "406be932-f00e-4c66-9dd1-c142090fe822",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "RYALTRIS (OLOPATADINE HYDROCHLORIDE AND MOMETASONE FUROATE) SPRAY, METERED [GLENMARK PHARMACEUTICALS INC., USA]",
+      "upload_date": "2026-07-22"
+    },
+    {
+      "application_numbers": [
+        "ANDA076679"
+      ],
+      "brand_names": [
+        "Mometasone Furoate"
+      ],
+      "combination": false,
+      "home_inn": "mometasone",
+      "ingredients": [
+        "MOMETASONE FUROATE"
+      ],
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2004-12-21",
+      "moieties": [
+        "MOMETASONE"
+      ],
+      "product_ndcs": [
+        "45802-257"
+      ],
+      "rxcui": [
+        "311753"
+      ],
+      "setid": "a12fef6b-681e-4f80-8bcd-3f01733f1a67",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "MOMETASONE FUROATE CREAM [PADAGIS ISRAEL PHARMACEUTICALS LTD]",
+      "upload_date": "2025-07-08"
+    },
+    {
+      "application_numbers": [
+        "ANDA077447"
+      ],
+      "brand_names": [
+        "Mometasone Furoate"
+      ],
+      "combination": false,
+      "home_inn": "mometasone",
+      "ingredients": [
+        "MOMETASONE FUROATE"
+      ],
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2006-08-23",
+      "moieties": [
+        "MOMETASONE"
+      ],
+      "product_ndcs": [
+        "0713-0634"
+      ],
+      "rxcui": [
+        "311753"
+      ],
+      "setid": "f69603aa-a5a6-b8f3-c9ed-2d0abc9f4d92",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "MOMETASONE FUROATE CREAM [COSETTE PHARMACEUTICALS, INC.]",
+      "upload_date": "2023-11-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA076067"
+      ],
+      "brand_names": [
+        "Mometasone Furoate"
+      ],
+      "combination": false,
+      "home_inn": "mometasone",
+      "ingredients": [
+        "MOMETASONE FUROATE"
+      ],
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2008-07-18",
+      "moieties": [
+        "MOMETASONE"
+      ],
+      "product_ndcs": [
+        "45802-119"
+      ],
+      "rxcui": [
+        "151029"
+      ],
+      "setid": "d986282f-da3c-43b6-a3f6-40886d4a1915",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "MOMETASONE FUROATE OINTMENT [PADAGIS ISRAEL PHARMACEUTICALS LTD]",
+      "upload_date": "2026-09-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA077180"
+      ],
+      "brand_names": [
+        "Mometasone Furoate"
+      ],
+      "combination": false,
+      "home_inn": "mometasone",
+      "ingredients": [
+        "MOMETASONE FUROATE"
+      ],
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2008-12-11",
+      "moieties": [
+        "MOMETASONE"
+      ],
+      "product_ndcs": [
+        "45802-118"
+      ],
+      "rxcui": [
+        "151030"
+      ],
+      "setid": "7296b4a2-f180-4887-a8e0-029f81aec566",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "MOMETASONE FUROATE SOLUTION [PADAGIS ISRAEL PHARMACEUTICALS LTD]",
+      "upload_date": "2023-04-25"
+    },
+    {
+      "application_numbers": [
+        "ANDA077401"
+      ],
+      "brand_names": [
+        "Mometasone Furoate"
+      ],
+      "combination": false,
+      "home_inn": "mometasone",
+      "ingredients": [
+        "MOMETASONE FUROATE"
+      ],
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-03-04",
+      "moieties": [
+        "MOMETASONE"
+      ],
+      "product_ndcs": [
+        "0713-0635"
+      ],
+      "rxcui": [
+        "151029"
+      ],
+      "setid": "f5b30e5e-b067-e28c-b7c5-aa58f4c57f09",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "MOMETASONE FUROATE OINTMENT [COSETTE PHARMACEUTICALS, INC.]",
+      "upload_date": "2023-11-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA091161"
+      ],
+      "brand_names": [
+        "MOMETASONE FUROATE"
+      ],
+      "combination": false,
+      "home_inn": "mometasone",
+      "ingredients": [
+        "MOMETASONE"
+      ],
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-03-22",
+      "moieties": [
+        "MOMETASONE"
+      ],
+      "product_ndcs": [
+        "60505-0830"
+      ],
+      "rxcui": [
+        "1797865"
+      ],
+      "setid": "48f7ba0d-33e0-163b-2fa0-f85062768fd5",
+      "source": "dailymed-title-match",
+      "spl_version": 13,
+      "title": "MOMETASONE FUROATE SPRAY, METERED [APOTEX CORP.]",
+      "upload_date": "2026-09-23"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "ASMANEX"
+      ],
+      "first_posted": "2007-07-26",
+      "found_by": "ASMANEX",
+      "labeler": "Schering Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2007-07-26",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0085-1341"
+      ],
+      "rxcui": [],
+      "setid": "0d767d72-611a-4ac8-934b-dfb6c000c0c1",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "asmanex (Mometasone Furoate) inhalant"
+    },
+    {
+      "application_numbers": [
+        "NDA022518"
+      ],
+      "archived_versions": 28,
+      "brand_names": [
+        "DULERA"
+      ],
+      "first_posted": "2010-07-14",
+      "found_by": "DULERA",
+      "labeler": "Merck Sharp & Dohme Corp.",
+      "labeler_unverified": false,
+      "last_posted": "2022-02-17",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-12-31"
+      ],
+      "product_ndcs": [
+        "0085-2223",
+        "0085-4610",
+        "0085-7206"
+      ],
+      "rxcui": [],
+      "setid": "116464ce-cfd8-4b9f-8b5a-3a114b6ff2b1",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "8f399784-f257-4f31-b3dc-368bf2a1864d"
+      ],
+      "title": "DULERA (mometasone furoate and formoterol fumarate dihydrate) aerosol"
+    },
+    {
+      "application_numbers": [
+        "NDA020762"
+      ],
+      "archived_versions": 13,
+      "brand_names": [
+        "NASONEX"
+      ],
+      "first_posted": "2009-01-05",
+      "found_by": "NASONEX",
+      "labeler": "Merck Sharp & Dohme Corp.",
+      "labeler_unverified": false,
+      "last_posted": "2021-12-17",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-10-31"
+      ],
+      "product_ndcs": [
+        "0085-1288"
+      ],
+      "rxcui": [],
+      "setid": "12df48a0-fd2e-4e1c-b135-e616a1f31f42",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "NASONEX (mometasone furoate monohydrate) spray, metered"
+    },
+    {
+      "application_numbers": [
+        "NDA021067"
+      ],
+      "archived_versions": 13,
+      "brand_names": [
+        "ASMANEX"
+      ],
+      "first_posted": "2008-03-19",
+      "found_by": "ASMANEX",
+      "labeler": "Merck Sharp & Dohme Corp.",
+      "labeler_unverified": false,
+      "last_posted": "2022-02-09",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-12-31"
+      ],
+      "product_ndcs": [
+        "0085-1341",
+        "0085-1461"
+      ],
+      "rxcui": [],
+      "setid": "1ec2b62b-6bf5-4d70-8824-9d90e2d87a68",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "10b36fb2-6b0d-4f20-b197-3564d6f594b9"
+      ],
+      "title": "ASMANEX (mometasone furoate) inhalant"
+    },
+    {
+      "application_numbers": [
+        "NDA205641"
+      ],
+      "archived_versions": 10,
+      "brand_names": [
+        "ASMANEX"
+      ],
+      "first_posted": "2014-05-07",
+      "found_by": "ASMANEX",
+      "labeler": "Merck Sharp & Dohme Corp.",
+      "labeler_unverified": false,
+      "last_posted": "2022-02-09",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-12-31"
+      ],
+      "product_ndcs": [
+        "0085-2222",
+        "0085-4333",
+        "0085-4334"
+      ],
+      "rxcui": [],
+      "setid": "1f608abd-d414-41e9-89bd-32dd2ef33cb8",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "0c6d63da-41bc-4894-bead-198e66c848ac"
+      ],
+      "title": "ASMANEX HFA (mometasone furoate) aerosol"
+    },
+    {
+      "application_numbers": [
+        "NDA019625"
+      ],
+      "archived_versions": 11,
+      "brand_names": [
+        "ELOCON"
+      ],
+      "first_posted": "2006-12-22",
+      "found_by": "ELOCON",
+      "labeler": "Merck Sharp & Dohme Corp.",
+      "labeler_unverified": false,
+      "last_posted": "2022-02-07",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-12-31"
+      ],
+      "product_ndcs": [
+        "0085-3149"
+      ],
+      "rxcui": [],
+      "setid": "43f51e9d-8f80-4aba-9b2f-de36d302f8d6",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ELOCON (mometasone furoate) cream"
+    },
+    {
+      "application_numbers": [
+        "NDA019796"
+      ],
+      "archived_versions": 11,
+      "brand_names": [
+        "ELOCON"
+      ],
+      "first_posted": "2009-09-11",
+      "found_by": "ELOCON",
+      "labeler": "Merck Sharp & Dohme Corp.",
+      "labeler_unverified": false,
+      "last_posted": "2022-02-07",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-12-31"
+      ],
+      "product_ndcs": [
+        "0085-0854"
+      ],
+      "rxcui": [],
+      "setid": "64bd8ed7-1cc2-4cdd-94bc-9f646a88a6f0",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ELOCON (mometasone furoate) lotion"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "NASONEX"
+      ],
+      "first_posted": "2006-07-18",
+      "found_by": "NASONEX",
+      "labeler": "Schering Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2006-07-18",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0085-1288"
+      ],
+      "rxcui": [],
+      "setid": "65dcdcab-00f5-4dcd-9681-fc46e6aa7bbe",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "nasonex (Mometasone furoate monohydrate) spray, metered"
+    },
+    {
+      "application_numbers": [
+        "NDA020762"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "NASONEX"
+      ],
+      "first_posted": "2021-06-01",
+      "found_by": "NASONEX",
+      "labeler": "Organon LLC",
+      "labeler_unverified": false,
+      "last_posted": "2022-07-14",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-06-02"
+      ],
+      "product_ndcs": [
+        "78206-144"
+      ],
+      "rxcui": [],
+      "setid": "913422a9-9c8a-4cea-ac4a-482d89febf3a",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "NASONEX (mometasone furoate monohydrate) spray, metered"
+    },
+    {
+      "application_numbers": [
+        "NDA019543"
+      ],
+      "archived_versions": 11,
+      "brand_names": [
+        "ELOCON"
+      ],
+      "first_posted": "2006-09-01",
+      "found_by": "ELOCON",
+      "labeler": "Merck Sharp & Dohme Corp.",
+      "labeler_unverified": false,
+      "last_posted": "2022-02-07",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-12-31"
+      ],
+      "product_ndcs": [
+        "0085-0370"
+      ],
+      "rxcui": [],
+      "setid": "aa905762-80be-45be-89d5-b32564e82f92",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ELOCON (mometasone furoate) ointment"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ff41e901-5a6f-4ad5-be8a-a68eae787e5e"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b24f80c5-afe2-4821-9185-2dad3cfe277a"
+    },
+    {
+      "combination": false,
+      "labeler": "Torrent Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "18ef90de-f74d-492f-a125-49da1875bd29"
+    },
+    {
+      "combination": false,
+      "labeler": "Encube Ethicals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1ebaac16-432e-4e92-9d58-718bd76ae368"
+    },
+    {
+      "combination": false,
+      "labeler": "Encube Ethicals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dae3eaea-fc17-48a2-ae30-2a68f7811bce"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ce61920d-65df-4423-925d-091e624ea32e"
+    }
+  ]
+}

@@ -1,0 +1,785 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand MICARDIS",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000209",
+      "eu_number": "EU/1/98/090",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000209",
+      "mah": "Boehringer Ingelheim International GmbH",
+      "marketing_authorisation_date": "1998-12-16",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/micardis",
+      "name": "Micardis",
+      "record_from": "1998-12-16",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 31
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/001168",
+      "eu_number": "EU/1/10/639",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-001168",
+      "mah": "Actavis Group PTC ehf",
+      "marketing_authorisation_date": "2010-09-29",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/telmisartan-actavis",
+      "name": "Telmisartan Actavis",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/001196",
+      "eu_number": "EU/1/10/632",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-001196",
+      "mah": "Krka, d.d., Novo mesto ",
+      "marketing_authorisation_date": "2010-06-04",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tolura",
+      "name": "Tolura",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/002511",
+      "eu_number": "EU/1/11/719",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-002511",
+      "mah": "Teva B.V.",
+      "marketing_authorisation_date": "2011-10-03",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/telmisartan-teva-pharma",
+      "name": "Telmisartan Teva Pharma",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 4,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000209",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "TELMISARTAN"
+  ],
+  "inn": "telmisartan",
+  "name": "TELMISARTAN",
+  "rank": 201,
+  "rxcui": [
+    "205304",
+    "205305",
+    "282755",
+    "283316",
+    "283317",
+    "477130",
+    "749833",
+    "749837",
+    "749841",
+    "2727452",
+    "2727458",
+    "2727460",
+    "2727462",
+    "2727463",
+    "2727465"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 33,
+    "approval_holders": 23,
+    "earliest_marketing_start": "2000-12-01",
+    "latest_label_update": "2026-10-30",
+    "nda_bla_applications": 2,
+    "repackagers": 8
+  },
+  "unii": [
+    {
+      "ingredient": "TELMISARTAN",
+      "unii": "U5SYW473RQ"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021162"
+      ],
+      "brand_names": [
+        "Micardis HCT"
+      ],
+      "combination": true,
+      "home_inn": "hydrochlorothiazide",
+      "ingredients": [
+        "HYDROCHLOROTHIAZIDE",
+        "TELMISARTAN"
+      ],
+      "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2000-12-01",
+      "moieties": [
+        "HYDROCHLOROTHIAZIDE",
+        "TELMISARTAN"
+      ],
+      "product_ndcs": [
+        "0597-0042",
+        "0597-0043",
+        "0597-0044"
+      ],
+      "rxcui": [
+        "283316",
+        "283317",
+        "477130",
+        "749833",
+        "749837",
+        "749841"
+      ],
+      "setid": "b078dae2-664d-4144-847a-3b9d9b557402",
+      "source": "openfda",
+      "spl_version": 26,
+      "title": "MICARDIS HCT (TELMISARTAN AND HYDROCHLOROTHIAZIDE) TABLET [BOEHRINGER INGELHEIM PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-03-27"
+    },
+    {
+      "application_numbers": [
+        "NDA219423"
+      ],
+      "brand_names": [
+        "WIDAPLIK"
+      ],
+      "combination": true,
+      "home_inn": "amlodipine",
+      "ingredients": [
+        "AMLODIPINE BESYLATE",
+        "INDAPAMIDE",
+        "TELMISARTAN"
+      ],
+      "labeler": "Azurity Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-10-20",
+      "moieties": [
+        "AMLODIPINE",
+        "INDAPAMIDE",
+        "TELMISARTAN"
+      ],
+      "product_ndcs": [
+        "24338-001",
+        "24338-002",
+        "24338-003"
+      ],
+      "rxcui": [
+        "2727452",
+        "2727458",
+        "2727460",
+        "2727462",
+        "2727463",
+        "2727465"
+      ],
+      "setid": "a30ff81d-420b-40ea-83d8-670260a93fff",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "WIDAPLIK (TELMISARTAN, AMLODIPINE AND INDAPAMIDE) TABLET [AZURITY PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-07-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA204415"
+      ],
+      "brand_names": [
+        "Telmisartan"
+      ],
+      "combination": false,
+      "home_inn": "telmisartan",
+      "ingredients": [
+        "TELMISARTAN"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-05-31",
+      "moieties": [
+        "TELMISARTAN"
+      ],
+      "product_ndcs": [
+        "65162-291",
+        "65162-292",
+        "65162-293"
+      ],
+      "rxcui": [
+        "205304",
+        "205305",
+        "282755"
+      ],
+      "setid": "20a60231-64f0-4751-aa81-6c0e64334179",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "TELMISARTAN TABLET [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2024-10-31"
+    },
+    {
+      "application_numbers": [
+        "ANDA202397"
+      ],
+      "brand_names": [
+        "Telmisartan"
+      ],
+      "combination": false,
+      "home_inn": "telmisartan",
+      "ingredients": [
+        "TELMISARTAN"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-07-07",
+      "moieties": [
+        "TELMISARTAN"
+      ],
+      "product_ndcs": [
+        "0378-2920",
+        "0378-2921",
+        "0378-2922"
+      ],
+      "rxcui": [
+        "205304",
+        "205305",
+        "282755"
+      ],
+      "setid": "c3658bc8-1524-43db-930e-66f9ac01b808",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "TELMISARTAN TABLET [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2024-01-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA090032"
+      ],
+      "brand_names": [
+        "Telmisartan"
+      ],
+      "combination": false,
+      "home_inn": "telmisartan",
+      "ingredients": [
+        "TELMISARTAN"
+      ],
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-07-07",
+      "moieties": [
+        "TELMISARTAN"
+      ],
+      "product_ndcs": [
+        "68462-199",
+        "68462-200",
+        "68462-201"
+      ],
+      "rxcui": [
+        "205304",
+        "205305",
+        "282755"
+      ],
+      "setid": "c6eb489d-2946-4c14-839f-d4af761ead31",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "TELMISARTAN TABLET [GLENMARK PHARMACEUTICALS INC., USA]",
+      "upload_date": "2026-01-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA203325"
+      ],
+      "brand_names": [
+        "telmisartan"
+      ],
+      "combination": false,
+      "home_inn": "telmisartan",
+      "ingredients": [
+        "TELMISARTAN"
+      ],
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-08-27",
+      "moieties": [
+        "TELMISARTAN"
+      ],
+      "product_ndcs": [
+        "65841-804",
+        "65841-805",
+        "65841-806"
+      ],
+      "rxcui": [
+        "205304",
+        "205305",
+        "282755"
+      ],
+      "setid": "2e3cc412-fa44-4304-aabc-d6e412f81fbf",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "TELMISARTAN TABLET [ZYDUS LIFESCIENCES LIMITED]",
+      "upload_date": "2024-08-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA208605"
+      ],
+      "brand_names": [
+        "Telmisartan"
+      ],
+      "combination": false,
+      "home_inn": "telmisartan",
+      "ingredients": [
+        "TELMISARTAN"
+      ],
+      "labeler": "Cadila Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-02-05",
+      "moieties": [
+        "TELMISARTAN"
+      ],
+      "product_ndcs": [
+        "71209-049",
+        "71209-050",
+        "71209-051"
+      ],
+      "rxcui": [
+        "205304",
+        "205305",
+        "282755"
+      ],
+      "setid": "353fcb30-2fa7-4ff1-8a18-26f3ec279d00",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "TELMISARTAN TABLET [CADILA PHARMACEUTICALS LIMITED]",
+      "upload_date": "2023-10-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA206511"
+      ],
+      "brand_names": [
+        "Telmisartan"
+      ],
+      "combination": false,
+      "home_inn": "telmisartan",
+      "ingredients": [
+        "TELMISARTAN"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-09-03",
+      "moieties": [
+        "TELMISARTAN"
+      ],
+      "product_ndcs": [
+        "65862-867",
+        "65862-868",
+        "65862-869"
+      ],
+      "rxcui": [
+        "205304",
+        "205305",
+        "282755"
+      ],
+      "setid": "fef6532d-438a-435e-a61f-216dd8551339",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "TELMISARTAN TABLET [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2024-06-20"
+    },
+    {
+      "application_numbers": [
+        "NDA020850"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "MICARDIS"
+      ],
+      "first_posted": "2025-06-09",
+      "found_by": "MICARDIS",
+      "labeler": "Praxis, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2025-06-09",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-04-30",
+        "2026-06-30"
+      ],
+      "product_ndcs": [
+        "59368-382",
+        "59368-383",
+        "59368-384"
+      ],
+      "rxcui": [],
+      "setid": "36d69907-63a8-70f0-e063-6294a90a0f28",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "MICARDIS (telmisartan) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA021162"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "MICARDIS"
+      ],
+      "first_posted": "2025-06-09",
+      "found_by": "MICARDIS",
+      "labeler": "Praxis, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2025-06-09",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "59368-385",
+        "59368-386"
+      ],
+      "rxcui": [],
+      "setid": "36d6f15a-ed42-a8bf-e063-6294a90adcc0",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "b078dae2-664d-4144-847a-3b9d9b557402"
+      ],
+      "title": "MICARDIS HCT (telmisartan and hydrochlorothiazide) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA020850"
+      ],
+      "archived_versions": 27,
+      "brand_names": [
+        "MICARDIS"
+      ],
+      "first_posted": "2006-12-08",
+      "found_by": "MICARDIS",
+      "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2025-05-23",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-04-30",
+        "2026-06-30"
+      ],
+      "product_ndcs": [
+        "0597-0039",
+        "0597-0040",
+        "0597-0041"
+      ],
+      "rxcui": [],
+      "setid": "cfb9309f-e0df-4a55-9542-0e869fce05fb",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "MICARDIS (telmisartan) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA020850"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "MICARDIS"
+      ],
+      "first_posted": "2013-05-20",
+      "found_by": "MICARDIS",
+      "labeler": "Boehringer Ingelheim Promeco S.A. de C.V.",
+      "labeler_unverified": true,
+      "last_posted": "2013-05-20",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "64674-039",
+        "64674-040",
+        "64674-041"
+      ],
+      "rxcui": [],
+      "setid": "dcfc733c-d220-4a25-ab35-1ac3b610d5d8",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "MICARDIS (telmisartan) tablet"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "29bddc43-2809-4e1f-ae35-2865e15e9bb6"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4be6575f-ea8d-4cd8-a49d-3d1c93f2621a"
+    },
+    {
+      "combination": false,
+      "labeler": "Jubilant Cadista Pharmacuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e1a907a7-fad9-a860-8639-4c6136c85734"
+    },
+    {
+      "combination": false,
+      "labeler": "Solco Healthcare US, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "77442f0b-b522-4b19-ac1f-f0ce8576f0be"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "beaaf383-730f-4411-b5e7-15c32b53a338"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3ff464e6-7a36-4544-a06f-7848414f77fc"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "671d5a85-4146-43b4-9d7d-ca53268eb2a6"
+    },
+    {
+      "combination": true,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a97fefa6-99e6-4eb7-9393-ab2252a2c7d8"
+    },
+    {
+      "combination": true,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b88054b3-fafa-4b4e-acf5-5294e5555720"
+    },
+    {
+      "combination": true,
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ca60a4d5-ace7-4889-94ee-e2265fd63811"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5b476740-e3f0-4f68-b07c-cd9eb2fa27ca"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "681dfb5c-fc5c-427e-81f6-4b4e934978a2"
+    },
+    {
+      "combination": true,
+      "labeler": "Solco Healthcare LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "47c8eee0-f0b7-4bd8-97e9-0029aa1b37db"
+    },
+    {
+      "combination": true,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1e55800d-f77c-4950-a6d7-2055f4c7ea17"
+    },
+    {
+      "combination": true,
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0c1bd0f4-034e-486c-ae46-2855c8c9ebda"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "14f9b590-4c43-439c-a647-9fc2b0fd4d7f"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e61c209a-4fc3-4f5c-b526-6412f0b8897c"
+    },
+    {
+      "combination": false,
+      "labeler": "Modavar Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a075633a-2a2a-4e88-8ede-b49a3920a16c"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c62d424c-7630-413c-be2c-3932831c3f1d"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bf2dca37-ce9c-40e4-8ad6-b8186aa7fed1"
+    },
+    {
+      "combination": false,
+      "labeler": "AvKARE",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "71902893-55da-4286-8b25-b528641489ef"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9c22a318-d1f2-4788-9331-66fed71ebf38"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e80f232c-c1c4-4524-a0a5-d23ee0d1f3b7"
+    },
+    {
+      "combination": true,
+      "labeler": "AvKARE",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1b303136-dccd-178b-e063-6394a90a35f8"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "15b438b4-4874-43f4-a50a-4e6f3e5530ac"
+    }
+  ]
+}

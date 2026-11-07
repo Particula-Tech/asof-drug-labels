@@ -1,0 +1,465 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand Gilenya",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/002202",
+      "eu_number": "EU/1/11/677",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-002202",
+      "mah": "Novartis Europharm Limited",
+      "marketing_authorisation_date": "2011-03-17",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/gilenya",
+      "name": "Gilenya",
+      "record_from": "2011-03-17",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 26
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/005191",
+      "eu_number": "EU/1/20/1450",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-005191",
+      "mah": "Accord Healthcare S.L.U.",
+      "marketing_authorisation_date": "2020-06-25",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/fingolimod-accord",
+      "name": "Fingolimod Accord",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/005661",
+      "eu_number": "EU/1/21/1573",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-005661",
+      "mah": "Mylan Pharmaceuticals Limited",
+      "marketing_authorisation_date": "2021-08-18",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/fingolimod-mylan",
+      "name": "Fingolimod Mylan",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-002202",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "FINGOLIMOD",
+    "FINGOLIMOD HYDROCHLORIDE"
+  ],
+  "inn": "fingolimod",
+  "name": "FINGOLIMOD",
+  "rank": 243,
+  "rxcui": [
+    "1012895",
+    "1012899",
+    "2045491",
+    "2045493"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 21,
+    "approval_holders": 21,
+    "earliest_marketing_start": "2010-09-21",
+    "latest_label_update": "2026-09-14",
+    "nda_bla_applications": 1,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "FINGOLIMOD",
+      "unii": "3QN8BYN5QF"
+    },
+    {
+      "ingredient": "FINGOLIMOD HYDROCHLORIDE",
+      "unii": "G926EC510T"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA022527"
+      ],
+      "brand_names": [
+        "Gilenya"
+      ],
+      "combination": false,
+      "home_inn": "fingolimod",
+      "ingredients": [
+        "FINGOLIMOD HYDROCHLORIDE"
+      ],
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2010-09-21",
+      "moieties": [
+        "FINGOLIMOD"
+      ],
+      "product_ndcs": [
+        "0078-0607",
+        "0078-0965"
+      ],
+      "rxcui": [
+        "1012895",
+        "1012899",
+        "2045491",
+        "2045493"
+      ],
+      "setid": "cc9e1c8c-0e2b-44e2-878b-27057f786be9",
+      "source": "openfda",
+      "spl_version": 40,
+      "title": "GILENYA (FINGOLIMOD HCL) CAPSULE [NOVARTIS PHARMACEUTICALS CORPORATION]",
+      "upload_date": "2026-07-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA207933"
+      ],
+      "brand_names": [
+        "Fingolimod"
+      ],
+      "combination": false,
+      "home_inn": "fingolimod",
+      "ingredients": [
+        "FINGOLIMOD HYDROCHLORIDE"
+      ],
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-09-27",
+      "moieties": [
+        "FINGOLIMOD"
+      ],
+      "product_ndcs": [
+        "31722-889"
+      ],
+      "rxcui": [
+        "1012895"
+      ],
+      "setid": "c3199508-3d6a-4e44-96f0-bbde9969edcb",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "FINGOLIMOD (FINGOLIMOD) CAPSULE [CAMBER PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-12-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA208003"
+      ],
+      "brand_names": [
+        "FINGOLIMOD"
+      ],
+      "combination": false,
+      "home_inn": "fingolimod",
+      "ingredients": [
+        "FINGOLIMOD"
+      ],
+      "labeler": "Solco Healthcare US, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-02-17",
+      "moieties": [
+        "FINGOLIMOD"
+      ],
+      "product_ndcs": [
+        "43547-003"
+      ],
+      "rxcui": [
+        "1012895"
+      ],
+      "setid": "6c0faf2b-21fb-4830-bb78-5f2dbceb2c82",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "FINGOLIMOD CAPSULE [SOLCO HEALTHCARE US, LLC]",
+      "upload_date": "2024-09-27"
+    },
+    {
+      "application_numbers": [
+        "ANDA207939"
+      ],
+      "brand_names": [
+        "fingolimod"
+      ],
+      "combination": false,
+      "home_inn": "fingolimod",
+      "ingredients": [
+        "FINGOLIMOD HYDROCHLORIDE"
+      ],
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-11-10",
+      "moieties": [
+        "FINGOLIMOD"
+      ],
+      "product_ndcs": [
+        "64980-449"
+      ],
+      "rxcui": [
+        "1012895"
+      ],
+      "setid": "99e7daf4-ea90-5e47-e053-2a95a90ac1b7",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "FINGOLIMOD (FINGOLIMOD HCL) CAPSULE [RISING PHARMA HOLDINGS, INC.]",
+      "upload_date": "2024-11-06"
+    },
+    {
+      "application_numbers": [
+        "ANDA208004"
+      ],
+      "brand_names": [
+        "Fingolimod"
+      ],
+      "combination": false,
+      "home_inn": "fingolimod",
+      "ingredients": [
+        "FINGOLIMOD HYDROCHLORIDE"
+      ],
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-09-21",
+      "moieties": [
+        "FINGOLIMOD"
+      ],
+      "product_ndcs": [
+        "67877-476"
+      ],
+      "rxcui": [
+        "1012895"
+      ],
+      "setid": "0f638feb-6986-41e4-8f9c-2e6b84a5bb44",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "FINGOLIMOD (FINGOLIMOD HYDROCHLORIDE) CAPSULE [ASCEND LABORATORIES, LLC]",
+      "upload_date": "2026-03-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA207985"
+      ],
+      "brand_names": [
+        "fingolimod"
+      ],
+      "combination": false,
+      "home_inn": "fingolimod",
+      "ingredients": [
+        "FINGOLIMOD HYDROCHLORIDE"
+      ],
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-09-28",
+      "moieties": [
+        "FINGOLIMOD"
+      ],
+      "product_ndcs": [
+        "68462-166"
+      ],
+      "rxcui": [
+        "1012895"
+      ],
+      "setid": "8fe14efd-8f61-40db-9069-bb17daf3261a",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "FINGOLIMOD CAPSULE [GLENMARK PHARMACEUTICALS INC., USA]",
+      "upload_date": "2026-02-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA208000"
+      ],
+      "brand_names": [
+        "Fingolimod"
+      ],
+      "combination": false,
+      "home_inn": "fingolimod",
+      "ingredients": [
+        "FINGOLIMOD HYDROCHLORIDE"
+      ],
+      "labeler": "Dr. Reddy's Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-10-11",
+      "moieties": [
+        "FINGOLIMOD"
+      ],
+      "product_ndcs": [
+        "43598-285"
+      ],
+      "rxcui": [
+        "1012895"
+      ],
+      "setid": "56badc2a-6747-9284-300e-bf072eb072ed",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "FINGOLIMOD CAPSULE [DR. REDDY'S LABORATORIES INC]",
+      "upload_date": "2025-12-02"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5a0319b4-4bc6-4564-9687-9cfd5c1b23a8"
+    },
+    {
+      "combination": false,
+      "labeler": "Accord Healthcare Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "65e59a51-c9c2-47b4-84fc-e0f8879eb26c"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a545c6fc-7006-52c2-f476-34e9801ac04f"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b228dac8-b07d-424d-b23b-a03573517c54"
+    },
+    {
+      "combination": false,
+      "labeler": "Teva Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d9aa1078-fd72-47ef-84b2-2e1ad17b12a2"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d6301307-55c6-4b91-a505-ff93c865f859"
+    },
+    {
+      "combination": false,
+      "labeler": "Quallent Pharmaceuticals Health LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5434bd4a-2610-0e17-4f14-513ff1cbb822"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "54bf842e-9772-424d-87b2-61863b6f4b19"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e738dbd9-f4cc-49a0-98ce-73dd0c3ff3b3"
+    },
+    {
+      "combination": false,
+      "labeler": "Biocon Pharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "550a5fa3-94a4-0b55-9cb5-c0178acfe319"
+    },
+    {
+      "combination": false,
+      "labeler": "XLCare Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c5402dd1-c496-405d-9cae-07ccf184339c"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d0538769-3cec-4cf2-97e5-41e79599c181"
+    },
+    {
+      "combination": false,
+      "labeler": "CivicaScript LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e1960f9b-f739-452c-b167-245551bf3690"
+    },
+    {
+      "combination": false,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bd981e18-1766-4a2d-9a9b-965ec960aa06"
+    }
+  ]
+}

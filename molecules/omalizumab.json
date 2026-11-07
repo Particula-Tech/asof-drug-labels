@@ -1,0 +1,190 @@
+{
+  "biologic": true,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand XOLAIR",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000606",
+      "eu_number": "EU/1/05/319",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000606",
+      "mah": "Novartis Europharm Limited",
+      "marketing_authorisation_date": "2005-10-25",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/xolair",
+      "name": "Xolair",
+      "record_from": "2005-10-25",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 23
+    },
+    {
+      "biosimilar": true,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/005958",
+      "eu_number": "EU/1/24/1817",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-005958",
+      "mah": "Celltrion Healthcare Hungary Kft.",
+      "marketing_authorisation_date": "2024-05-16",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/omlyclo",
+      "name": "Omlyclo",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000606",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "OMALIZUMAB"
+  ],
+  "inn": "omalizumab",
+  "name": "OMALIZUMAB",
+  "rank": 370,
+  "rxcui": [
+    "1657209",
+    "1657212",
+    "2058943",
+    "2058946",
+    "2058949",
+    "2058950",
+    "2663917",
+    "2663918",
+    "2663920",
+    "2663923",
+    "2673760",
+    "2673761",
+    "2673762",
+    "2673763",
+    "2726001",
+    "2726008",
+    "2726010",
+    "2726011",
+    "2735283",
+    "2751593"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 2,
+    "approval_holders": 2,
+    "earliest_marketing_start": "2003-06-20",
+    "latest_label_update": "2026-10-09",
+    "nda_bla_applications": 2,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "OMALIZUMAB",
+      "unii": "2P471X1Z11"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "BLA103976"
+      ],
+      "brand_names": [
+        "XOLAIR",
+        "Xolair",
+        "Xolair PFS"
+      ],
+      "combination": false,
+      "home_inn": "omalizumab",
+      "ingredients": [
+        "OMALIZUMAB"
+      ],
+      "labeler": "Genentech, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2003-06-20",
+      "moieties": [
+        "OMALIZUMAB"
+      ],
+      "product_ndcs": [
+        "50242-040",
+        "50242-214",
+        "50242-215",
+        "50242-227"
+      ],
+      "rxcui": [
+        "1657209",
+        "1657212",
+        "2058943",
+        "2058946",
+        "2058949",
+        "2058950",
+        "2663917",
+        "2663918",
+        "2663920",
+        "2663923",
+        "2673760",
+        "2673761",
+        "2673762",
+        "2673763"
+      ],
+      "setid": "7f6a2191-adfb-48b9-9bfa-0d9920479f0d",
+      "source": "openfda",
+      "spl_version": 32,
+      "title": "XOLAIR (OMALIZUMAB) INJECTION, SOLUTION XOLAIR PFS (OMALIZUMAB) INJECTION, SOLUTION XOLAIR (OMALIZUMAB) INJECTION, SOLUTION [GENENTECH, INC.]",
+      "upload_date": "2026-08-20"
+    },
+    {
+      "application_numbers": [
+        "BLA761399"
+      ],
+      "brand_names": [
+        "OMLYCLO"
+      ],
+      "combination": false,
+      "home_inn": "omalizumab",
+      "ingredients": [
+        "OMALIZUMAB"
+      ],
+      "labeler": "CELLTRION USA, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2026-10-05",
+      "moieties": [
+        "OMALIZUMAB"
+      ],
+      "product_ndcs": [
+        "72606-035",
+        "72606-036",
+        "72606-054"
+      ],
+      "rxcui": [
+        "2726001",
+        "2726008",
+        "2726010",
+        "2726011",
+        "2735283",
+        "2751593"
+      ],
+      "setid": "dbd8709f-1636-45d9-ba94-5a3bc5f22f84",
+      "source": "dailymed-title-match",
+      "spl_version": 7,
+      "title": "OMLYCLO (OMALIZUMAB-IGEC) INJECTION [CELLTRION USA, INC.]",
+      "upload_date": "2026-10-09"
+    }
+  ],
+  "us_excluded": []
+}

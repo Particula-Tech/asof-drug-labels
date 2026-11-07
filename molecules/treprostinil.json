@@ -1,0 +1,553 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/005207",
+      "eu_number": "EU/1/19/1419",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-005207",
+      "mah": "SciPharm Sàrl",
+      "marketing_authorisation_date": "2020-04-03",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/trepulmix",
+      "name": "Trepulmix",
+      "record_from": "2020-04-03",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 4
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-005207",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "TREPROSTINIL",
+    "TREPROSTINIL SODIUM"
+  ],
+  "inn": "treprostinil",
+  "name": "TREPROSTINIL",
+  "rank": 160,
+  "rxcui": [
+    "349407",
+    "349408",
+    "349409",
+    "349410",
+    "352211",
+    "352212",
+    "352213",
+    "352214",
+    "857795",
+    "857799",
+    "1488665",
+    "1488667",
+    "1488670",
+    "1488671",
+    "1488674",
+    "1488675",
+    "1488678",
+    "1488679",
+    "1858831",
+    "1858833",
+    "2590175",
+    "2590177",
+    "2602751",
+    "2602754",
+    "2602756",
+    "2602758",
+    "2602760",
+    "2602762",
+    "2602764",
+    "2602766",
+    "2602767",
+    "2602768",
+    "2602769",
+    "2602770",
+    "2602771",
+    "2602772",
+    "2602773",
+    "2602774",
+    "2630666",
+    "2630667",
+    "2630668",
+    "2630669",
+    "2630670",
+    "2630671",
+    "2641906",
+    "2641907",
+    "2641911",
+    "2641912",
+    "2641913",
+    "2641914",
+    "2667748",
+    "2667750",
+    "2667752",
+    "2667754",
+    "2667756",
+    "2667758",
+    "2697737",
+    "2697739",
+    "2714659",
+    "2714664",
+    "2714666",
+    "2714668",
+    "2714670",
+    "2714672",
+    "2714674",
+    "2714676",
+    "2727470",
+    "2727471",
+    "2727472",
+    "2727473"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 9,
+    "approval_holders": 6,
+    "earliest_marketing_start": "2002-05-22",
+    "latest_label_update": "2026-07-20",
+    "nda_bla_applications": 5,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "TREPROSTINIL",
+      "unii": "RUM6K67ESG"
+    },
+    {
+      "ingredient": "TREPROSTINIL SODIUM",
+      "unii": "7JZ75N2NT6"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021272"
+      ],
+      "brand_names": [
+        "Remodulin",
+        "Sterile Diluent for Remodulin"
+      ],
+      "combination": false,
+      "home_inn": "treprostinil",
+      "ingredients": [
+        "TREPROSTINIL",
+        "WATER"
+      ],
+      "labeler": "United Therapeutics Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2002-05-22",
+      "moieties": [
+        "TREPROSTINIL"
+      ],
+      "product_ndcs": [
+        "66302-101",
+        "66302-102",
+        "66302-105",
+        "66302-110",
+        "66302-114",
+        "66302-150"
+      ],
+      "rxcui": [
+        "349407",
+        "349408",
+        "349409",
+        "349410",
+        "352211",
+        "352212",
+        "352213",
+        "352214",
+        "2590175",
+        "2590177",
+        "2667748",
+        "2667750",
+        "2667752",
+        "2667754",
+        "2667756",
+        "2667758"
+      ],
+      "setid": "6c80bb38-e8db-4138-9f0d-dbbf9c673185",
+      "source": "openfda",
+      "spl_version": 35,
+      "title": "REMODULIN (TREPROSTINIL) INJECTION, SOLUTION STERILE DILUENT FOR REMODULIN (WATER) INJECTION, SOLUTION [UNITED THERAPEUTICS CORPORATION]",
+      "upload_date": "2026-07-20"
+    },
+    {
+      "application_numbers": [
+        "NDA022387"
+      ],
+      "brand_names": [
+        "TYVASO"
+      ],
+      "combination": false,
+      "home_inn": "treprostinil",
+      "ingredients": [
+        "TREPROSTINIL"
+      ],
+      "labeler": "United Therapeutics Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2009-08-14",
+      "moieties": [
+        "TREPROSTINIL"
+      ],
+      "product_ndcs": [
+        "66302-206"
+      ],
+      "rxcui": [
+        "857795",
+        "857799"
+      ],
+      "setid": "cbc31ab1-a80f-4b50-a3b1-39910b0fb609",
+      "source": "openfda",
+      "spl_version": 32,
+      "title": "TYVASO (TREPROSTINIL) INHALANT [UNITED THERAPEUTICS CORPORATION]",
+      "upload_date": "2026-04-20"
+    },
+    {
+      "application_numbers": [
+        "NDA203496"
+      ],
+      "brand_names": [
+        "Orenitram"
+      ],
+      "combination": false,
+      "home_inn": "treprostinil",
+      "ingredients": [
+        "TREPROSTINIL"
+      ],
+      "labeler": "United Therapeutics Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2013-12-20",
+      "moieties": [
+        "TREPROSTINIL"
+      ],
+      "product_ndcs": [
+        "66302-300",
+        "66302-302",
+        "66302-310",
+        "66302-325",
+        "66302-350",
+        "66302-361",
+        "66302-362",
+        "66302-363"
+      ],
+      "rxcui": [
+        "1488665",
+        "1488667",
+        "1488670",
+        "1488671",
+        "1488674",
+        "1488675",
+        "1488678",
+        "1488679",
+        "1858831",
+        "1858833",
+        "2630666",
+        "2630667",
+        "2630668",
+        "2630669",
+        "2630670",
+        "2630671"
+      ],
+      "setid": "8ed2003a-c801-411e-831e-d06079bb0d7c",
+      "source": "openfda",
+      "spl_version": 24,
+      "title": "ORENITRAM (TREPROSTINIL) TABLET, EXTENDED RELEASE ORENITRAM (TREPROSTINIL) KIT [UNITED THERAPEUTICS CORPORATION]",
+      "upload_date": "2024-12-06"
+    },
+    {
+      "application_numbers": [
+        "NDA214324"
+      ],
+      "brand_names": [
+        "Tyvaso DPI"
+      ],
+      "combination": false,
+      "home_inn": "treprostinil",
+      "ingredients": [
+        "TREPROSTINIL"
+      ],
+      "labeler": "United Therapeutics Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-05-23",
+      "moieties": [
+        "TREPROSTINIL"
+      ],
+      "product_ndcs": [
+        "66302-610",
+        "66302-616",
+        "66302-620",
+        "66302-630",
+        "66302-632",
+        "66302-640",
+        "66302-648",
+        "66302-650",
+        "66302-660",
+        "66302-664",
+        "66302-670",
+        "66302-680",
+        "66302-716",
+        "66302-720",
+        "66302-732",
+        "66302-748",
+        "66302-764",
+        "66302-780"
+      ],
+      "rxcui": [
+        "2602751",
+        "2602754",
+        "2602756",
+        "2602758",
+        "2602760",
+        "2602762",
+        "2602764",
+        "2602766",
+        "2602767",
+        "2602768",
+        "2602769",
+        "2602770",
+        "2602771",
+        "2602772",
+        "2602773",
+        "2602774",
+        "2641906",
+        "2641907",
+        "2641911",
+        "2641912",
+        "2641913",
+        "2641914",
+        "2697737",
+        "2697739",
+        "2727470",
+        "2727471",
+        "2727472",
+        "2727473"
+      ],
+      "setid": "ddc3d400-bcb3-4b09-aae2-0768b10a5b0f",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "TYVASO DPI (TREPROSTINIL) INHALANT TYVASO DPI (TREPROSTINIL) KIT [UNITED THERAPEUTICS CORPORATION]",
+      "upload_date": "2025-11-26"
+    },
+    {
+      "application_numbers": [
+        "NDA213005"
+      ],
+      "brand_names": [
+        "Yutrepia"
+      ],
+      "combination": false,
+      "home_inn": "treprostinil",
+      "ingredients": [
+        "TREPROSTINIL SODIUM"
+      ],
+      "labeler": "Liquidia Technologies, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-05-23",
+      "moieties": [
+        "TREPROSTINIL"
+      ],
+      "product_ndcs": [
+        "72964-011",
+        "72964-012",
+        "72964-013",
+        "72964-014"
+      ],
+      "rxcui": [
+        "2714659",
+        "2714664",
+        "2714666",
+        "2714668",
+        "2714670",
+        "2714672",
+        "2714674",
+        "2714676"
+      ],
+      "setid": "e8f6d534-115c-440e-bdbb-b443a29bb468",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "YUTREPIA (TREPROSTINIL) CAPSULE [LIQUIDIA TECHNOLOGIES, INC.]",
+      "upload_date": "2025-09-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA203649"
+      ],
+      "brand_names": [
+        "DILUENT",
+        "Treprostinil"
+      ],
+      "combination": false,
+      "home_inn": "treprostinil",
+      "ingredients": [
+        "TREPROSTINIL",
+        "WATER"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-03-25",
+      "moieties": [
+        "TREPROSTINIL"
+      ],
+      "product_ndcs": [
+        "0781-3420",
+        "0781-3425",
+        "0781-3427",
+        "0781-3430",
+        "0781-6021"
+      ],
+      "rxcui": [
+        "349407",
+        "349408",
+        "349409",
+        "349410"
+      ],
+      "setid": "473297ca-a872-4052-a053-87dc8f0d3c13",
+      "source": "openfda",
+      "spl_version": 25,
+      "title": "TREPROSTINIL INJECTION DILUENT (WATER SOLUTION) INJECTION [SANDOZ INC]",
+      "upload_date": "2023-09-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA206648"
+      ],
+      "brand_names": [
+        "Treprostinil"
+      ],
+      "combination": false,
+      "home_inn": "treprostinil",
+      "ingredients": [
+        "TREPROSTINIL"
+      ],
+      "labeler": "Teva Parenteral Medicines, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-09-30",
+      "moieties": [
+        "TREPROSTINIL"
+      ],
+      "product_ndcs": [
+        "0703-0666",
+        "0703-0676",
+        "0703-0686",
+        "0703-0696"
+      ],
+      "rxcui": [
+        "349407",
+        "349408",
+        "349409",
+        "349410"
+      ],
+      "setid": "4b2ce4aa-4302-49db-9456-c8cf0e034968",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "TREPROSTINIL INJECTION, SOLUTION [TEVA PARENTERAL MEDICINES, INC.]",
+      "upload_date": "2022-06-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA211574"
+      ],
+      "brand_names": [
+        "Treprostinil"
+      ],
+      "combination": false,
+      "home_inn": "treprostinil",
+      "ingredients": [
+        "TREPROSTINIL"
+      ],
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-02-11",
+      "moieties": [
+        "TREPROSTINIL"
+      ],
+      "product_ndcs": [
+        "62332-514",
+        "62332-515",
+        "62332-516",
+        "62332-517"
+      ],
+      "rxcui": [
+        "349407",
+        "349408",
+        "349409",
+        "349410"
+      ],
+      "setid": "4a684b13-669d-4721-8ed4-30cc7762b0b8",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "TREPROSTINIL INJECTION, SOLUTION [ALEMBIC PHARMACEUTICALS INC.]",
+      "upload_date": "2025-03-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA210214"
+      ],
+      "brand_names": [
+        "Sterile Diluent for Treprostinil",
+        "Treprostinil"
+      ],
+      "combination": false,
+      "home_inn": "treprostinil",
+      "ingredients": [
+        "TREPROSTINIL",
+        "WATER"
+      ],
+      "labeler": "Dr.Reddy's Laboratories Inc.,",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-02-13",
+      "moieties": [
+        "TREPROSTINIL"
+      ],
+      "product_ndcs": [
+        "43598-126",
+        "43598-646",
+        "43598-647",
+        "43598-648",
+        "43598-649"
+      ],
+      "rxcui": [
+        "349407",
+        "349408",
+        "349409",
+        "349410"
+      ],
+      "setid": "33050ee2-519b-1f0b-d4df-9e14dd329c57",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "TREPROSTINIL INJECTION, SOLUTION STERILE DILUENT FOR TREPROSTINIL (WATER) INJECTION, SOLUTION [DR.REDDY'S LABORATORIES INC.,]",
+      "upload_date": "2024-08-02"
+    }
+  ],
+  "us_excluded": []
+}

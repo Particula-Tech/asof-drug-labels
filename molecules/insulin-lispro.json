@@ -1,0 +1,456 @@
+{
+  "biologic": true,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand Humalog",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000088",
+      "eu_number": "EU/1/96/007",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000088",
+      "mah": "Eli Lilly Nederland B.V.",
+      "marketing_authorisation_date": "1996-04-30",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/humalog",
+      "name": "Humalog",
+      "record_from": "1996-04-30",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 41
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/000393",
+      "eu_number": "EU/1/97/038",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-000393",
+      "mah": "Eli Lilly Nederland B.V.",
+      "marketing_authorisation_date": "2001-08-01",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/liprolog",
+      "name": "Liprolog",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": true,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/004303",
+      "eu_number": "EU/1/17/1203",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-004303",
+      "mah": "Sanofi Winthrop Industrie",
+      "marketing_authorisation_date": "2017-07-19",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/insulin-lispro-sanofi",
+      "name": "Insulin lispro Sanofi",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/005037",
+      "eu_number": "EU/1/20/1422",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-005037",
+      "mah": "Eli Lilly Nederland B.V.",
+      "marketing_authorisation_date": "2020-03-24",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/lyumjev",
+      "name": "Lyumjev (previously Liumjev)",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": true,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/006158",
+      "eu_number": "EU/1/26/2030",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-006158",
+      "mah": "Sandoz GmbH",
+      "marketing_authorisation_date": "2026-05-06",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/bysumlog",
+      "name": "Bysumlog",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000088",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "INSULIN LISPRO"
+  ],
+  "inn": "insulin-lispro",
+  "name": "INSULIN LISPRO",
+  "rank": 82,
+  "rxcui": [
+    "242120",
+    "259111",
+    "752388",
+    "847211",
+    "847213",
+    "847252",
+    "847254",
+    "865098",
+    "1652239",
+    "1652242",
+    "1652639",
+    "1652640",
+    "1652644",
+    "1652646",
+    "1926331",
+    "1926332",
+    "1992169",
+    "1992171",
+    "2380231",
+    "2380236",
+    "2380248",
+    "2380250",
+    "2380254",
+    "2380256",
+    "2380259",
+    "2380260",
+    "2380265",
+    "2380266",
+    "2380267",
+    "2380268",
+    "2621571",
+    "2621572"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 7,
+    "approval_holders": 2,
+    "earliest_marketing_start": "1987-07-10",
+    "latest_label_update": "2026-08-10",
+    "nda_bla_applications": 6,
+    "repackagers": 2
+  },
+  "unii": [
+    {
+      "ingredient": "INSULIN LISPRO",
+      "unii": "GFX7QIS1II"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "BLA020563",
+        "BLA205747"
+      ],
+      "brand_names": [
+        "Humalog",
+        "Humalog Junior KwikPen",
+        "Humalog KwikPen",
+        "Humalog Tempo Pen",
+        "Sterile Diluent"
+      ],
+      "combination": false,
+      "home_inn": "insulin-lispro",
+      "ingredients": [
+        "INSULIN LISPRO",
+        "WATER"
+      ],
+      "labeler": "Eli Lilly and Company",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "1987-07-10",
+      "moieties": [
+        "INSULIN LISPRO"
+      ],
+      "product_ndcs": [
+        "0002-0800",
+        "0002-7510",
+        "0002-7516",
+        "0002-7712",
+        "0002-7714",
+        "0002-8213",
+        "0002-8799"
+      ],
+      "rxcui": [
+        "242120",
+        "865098",
+        "1652239",
+        "1652242",
+        "1652639",
+        "1652640",
+        "1652644",
+        "1652646",
+        "1926331",
+        "1926332",
+        "2621571",
+        "2621572"
+      ],
+      "setid": "c8ecbd7a-0e22-4fc7-a503-faa58c1b6f3f",
+      "source": "openfda",
+      "spl_version": 87,
+      "title": "HUMALOG (INSULIN LISPRO) INJECTION, SOLUTION HUMALOG KWIKPEN (INSULIN LISPRO) INJECTION, SOLUTION HUMALOG JUNIOR KWIKPEN (INSULIN LISPRO) INJECTION, SOLUTION HUMALOG TEMPO PEN (INSULIN LISPRO) INJECTION, SOLUTION STERILE DILUENT (DILUENT) INJECTION, SOLUTION [ELI LILLY AND COMPANY]",
+      "upload_date": "2026-08-10"
+    },
+    {
+      "application_numbers": [
+        "BLA021017"
+      ],
+      "brand_names": [
+        "Humalog Mix75/25",
+        "Humalog Mix75/25 KwikPen"
+      ],
+      "combination": false,
+      "home_inn": "insulin-lispro",
+      "ingredients": [
+        "INSULIN LISPRO"
+      ],
+      "labeler": "Eli Lilly and Company",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "1999-12-22",
+      "moieties": [
+        "INSULIN LISPRO"
+      ],
+      "product_ndcs": [
+        "0002-7511",
+        "0002-8797"
+      ],
+      "rxcui": [
+        "259111",
+        "752388",
+        "847252",
+        "847254"
+      ],
+      "setid": "c73da51a-1899-45ad-b6cf-9c52c36a25dd",
+      "source": "openfda",
+      "spl_version": 54,
+      "title": "HUMALOG MIX75/25 (INSULIN LISPRO) INJECTION, SUSPENSION HUMALOG MIX75/25 KWIKPEN (INSULIN LISPRO) INJECTION, SUSPENSION [ELI LILLY AND COMPANY]",
+      "upload_date": "2026-08-10"
+    },
+    {
+      "application_numbers": [
+        "BLA021018"
+      ],
+      "brand_names": [
+        "Humalog Mix50/50 KwikPen"
+      ],
+      "combination": false,
+      "home_inn": "insulin-lispro",
+      "ingredients": [
+        "INSULIN LISPRO"
+      ],
+      "labeler": "Eli Lilly and Company",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2007-09-06",
+      "moieties": [
+        "INSULIN LISPRO"
+      ],
+      "product_ndcs": [
+        "0002-8798"
+      ],
+      "rxcui": [
+        "847211",
+        "847213"
+      ],
+      "setid": "b34cd3ff-d0af-4852-b4ef-2a8b4a93aeae",
+      "source": "openfda",
+      "spl_version": 55,
+      "title": "HUMALOG MIX50/50 KWIKPEN (INSULIN LISPRO) INJECTION, SUSPENSION [ELI LILLY AND COMPANY]",
+      "upload_date": "2026-08-10"
+    },
+    {
+      "application_numbers": [
+        "BLA209196"
+      ],
+      "brand_names": [
+        "ADMELOG"
+      ],
+      "combination": false,
+      "home_inn": "insulin-lispro",
+      "ingredients": [
+        "INSULIN LISPRO"
+      ],
+      "labeler": "Sanofi-Aventis U.S. LLC",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2017-12-11",
+      "moieties": [
+        "INSULIN LISPRO"
+      ],
+      "product_ndcs": [
+        "0024-5924",
+        "0024-5925",
+        "0024-5926"
+      ],
+      "rxcui": [
+        "242120",
+        "1652639",
+        "1992169",
+        "1992171"
+      ],
+      "setid": "0691def8-4a7b-4de3-866f-a280989f47f1",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "ADMELOG (INSULIN LISPRO) INJECTION, SOLUTION [SANOFI-AVENTIS U.S. LLC]",
+      "upload_date": "2025-06-25"
+    },
+    {
+      "application_numbers": [
+        "BLA761109"
+      ],
+      "brand_names": [
+        "LYUMJEV",
+        "LYUMJEV Junior KwikPen",
+        "LYUMJEV KwikPen",
+        "LYUMJEV Tempo Pen"
+      ],
+      "combination": false,
+      "home_inn": "insulin-lispro",
+      "ingredients": [
+        "INSULIN LISPRO"
+      ],
+      "labeler": "Eli Lilly and Company",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2020-06-15",
+      "moieties": [
+        "INSULIN LISPRO"
+      ],
+      "product_ndcs": [
+        "0002-7726",
+        "0002-7728",
+        "0002-8207",
+        "0002-8228",
+        "0002-8235",
+        "0002-8351"
+      ],
+      "rxcui": [
+        "2380231",
+        "2380236",
+        "2380248",
+        "2380250",
+        "2380254",
+        "2380256",
+        "2380259",
+        "2380260",
+        "2380265",
+        "2380266",
+        "2380267",
+        "2380268"
+      ],
+      "setid": "c5a056e2-b568-4ca6-9ed8-79c010942d00",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "LYUMJEV (INSULIN LISPRO-AABC) INJECTION, SOLUTION LYUMJEV KWIKPEN (INSULIN LISPRO-AABC) INJECTION, SOLUTION LYUMJEV JUNIOR KWIKPEN (INSULIN LISPRO-AABC) INJECTION, SOLUTION LYUMJEV TEMPO PEN (INSULIN LISPRO-AABC) INJECTION, SOLUTION LYUMJEV KWIKPEN (INSULIN LISPRO-AABC) INJECTION, SOLUTION [ELI LILLY AND COMPANY]",
+      "upload_date": "2026-08-10"
+    },
+    {
+      "application_numbers": [
+        "BLA020563"
+      ],
+      "brand_names": [
+        "Insulin Lispro",
+        "Insulin Lispro Junior KwikPen",
+        "Insulin Lispro KwikPen"
+      ],
+      "combination": false,
+      "home_inn": "insulin-lispro",
+      "ingredients": [
+        "INSULIN LISPRO"
+      ],
+      "labeler": "Eli Lilly and Company",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2020-02-12",
+      "moieties": [
+        "INSULIN LISPRO"
+      ],
+      "product_ndcs": [
+        "0002-7737",
+        "0002-7752",
+        "0002-8222"
+      ],
+      "rxcui": [
+        "242120",
+        "1652639",
+        "1926331"
+      ],
+      "setid": "97d5e596-aae1-42c9-ae89-c3780959c467",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "INSULIN LISPRO INJECTION, SOLUTION INSULIN LISPRO KWIKPEN (INSULIN LISPRO) INJECTION, SOLUTION INSULIN LISPRO JUNIOR KWIKPEN (INSULIN LISPRO) INJECTION, SOLUTION [ELI LILLY AND COMPANY]",
+      "upload_date": "2026-01-02"
+    },
+    {
+      "application_numbers": [
+        "BLA021017"
+      ],
+      "brand_names": [
+        "Insulin Lispro Protamine and Insulin Lispro Injectable Suspension Mix75/25 KwikPen"
+      ],
+      "combination": false,
+      "home_inn": "insulin-lispro",
+      "ingredients": [
+        "INSULIN LISPRO"
+      ],
+      "labeler": "Eli Lilly and Company",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2020-02-12",
+      "moieties": [
+        "INSULIN LISPRO"
+      ],
+      "product_ndcs": [
+        "0002-8233"
+      ],
+      "rxcui": [
+        "847252"
+      ],
+      "setid": "e49f701d-c19f-4cb2-b63f-01a917b33abc",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "INSULIN LISPRO PROTAMINE AND INSULIN LISPRO INJECTABLE SUSPENSION MIX75/25 KWIKPEN (INSULIN LISPRO) INJECTION, SUSPENSION [ELI LILLY AND COMPANY]",
+      "upload_date": "2024-08-09"
+    }
+  ],
+  "us_excluded": []
+}

@@ -1,0 +1,463 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand ZONEGRAN",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000577",
+      "eu_number": "EU/1/04/307",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000577",
+      "mah": "Amdipharm Limited",
+      "marketing_authorisation_date": "2005-03-10",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/zonegran",
+      "name": "Zonegran",
+      "record_from": "2005-03-10",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 26
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/004127",
+      "eu_number": "EU/1/16/1093",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-004127",
+      "mah": "Viatris Limited",
+      "marketing_authorisation_date": "2016-03-31",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/zonisamide-viatris",
+      "name": "Zonisamide Viatris (previously Zonisamide Mylan)",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000577",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "ZONISAMIDE"
+  ],
+  "inn": "zonisamide",
+  "name": "ZONISAMIDE",
+  "rank": 420,
+  "rxcui": [
+    "284408",
+    "314285",
+    "403966",
+    "403967",
+    "404725",
+    "2606782",
+    "2606788"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 11,
+    "approval_holders": 11,
+    "earliest_marketing_start": "2000-03-27",
+    "latest_label_update": "2026-10-09",
+    "nda_bla_applications": 2,
+    "repackagers": 10
+  },
+  "unii": [
+    {
+      "ingredient": "ZONISAMIDE",
+      "unii": "459384H98V"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020789"
+      ],
+      "brand_names": [
+        "Zonegran"
+      ],
+      "combination": false,
+      "home_inn": "zonisamide",
+      "ingredients": [
+        "ZONISAMIDE"
+      ],
+      "labeler": "Advanz Pharma (US) Corp.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2000-03-27",
+      "moieties": [
+        "ZONISAMIDE"
+      ],
+      "product_ndcs": [
+        "59212-680",
+        "59212-681"
+      ],
+      "rxcui": [
+        "284408",
+        "314285",
+        "403966",
+        "404725"
+      ],
+      "setid": "d12de43e-3ac3-4335-bc85-70d7366a91eb",
+      "source": "dailymed-title-match",
+      "spl_version": 13,
+      "title": "ZONEGRAN (ZONISAMIDE) CAPSULE [ADVANZ PHARMA (US) CORP.]",
+      "upload_date": "2026-09-24"
+    },
+    {
+      "application_numbers": [
+        "NDA214273"
+      ],
+      "brand_names": [
+        "ZONISADE"
+      ],
+      "combination": false,
+      "home_inn": "zonisamide",
+      "ingredients": [
+        "ZONISAMIDE"
+      ],
+      "labeler": "Azurity Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-07-15",
+      "moieties": [
+        "ZONISAMIDE"
+      ],
+      "product_ndcs": [
+        "52652-8001"
+      ],
+      "rxcui": [
+        "2606782",
+        "2606788"
+      ],
+      "setid": "ac16fa15-32e9-4f92-8bc6-d8d41ae002c6",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "ZONISADE (ZONISAMIDE) SUSPENSION [AZURITY PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-09-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA077651"
+      ],
+      "brand_names": [
+        "Zonisamide"
+      ],
+      "combination": false,
+      "home_inn": "zonisamide",
+      "ingredients": [
+        "ZONISAMIDE"
+      ],
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2006-01-30",
+      "moieties": [
+        "ZONISAMIDE"
+      ],
+      "product_ndcs": [
+        "68462-128",
+        "68462-129",
+        "68462-130"
+      ],
+      "rxcui": [
+        "314285",
+        "403966",
+        "403967"
+      ],
+      "setid": "fe15e56e-8b86-4a65-825c-31d37dd81612",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "ZONISAMIDE CAPSULE [GLENMARK PHARMACEUTICALS INC., USA]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA077634"
+      ],
+      "brand_names": [
+        "Zonisamide"
+      ],
+      "combination": false,
+      "home_inn": "zonisamide",
+      "ingredients": [
+        "ZONISAMIDE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2006-03-17",
+      "moieties": [
+        "ZONISAMIDE"
+      ],
+      "product_ndcs": [
+        "62756-258",
+        "62756-259",
+        "62756-260"
+      ],
+      "rxcui": [
+        "314285",
+        "403966",
+        "403967"
+      ],
+      "setid": "3164d438-90bf-420a-9a56-5498b987f91c",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "ZONISAMIDE CAPSULE ZONISAMIDE (ZONISAMIDE) CAPSULE [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2026-06-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA077869"
+      ],
+      "brand_names": [
+        "Zonisamide"
+      ],
+      "combination": false,
+      "home_inn": "zonisamide",
+      "ingredients": [
+        "ZONISAMIDE"
+      ],
+      "labeler": "Exelan Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2006-07-05",
+      "moieties": [
+        "ZONISAMIDE"
+      ],
+      "product_ndcs": [
+        "76282-226",
+        "76282-227",
+        "76282-228"
+      ],
+      "rxcui": [
+        "314285",
+        "403966",
+        "403967"
+      ],
+      "setid": "24284954-0c29-458f-a9f8-97a7ad418ca7",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "ZONISAMIDE CAPSULE [EXELAN PHARMACEUTICALS, INC.]",
+      "upload_date": "2021-08-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA077625"
+      ],
+      "brand_names": [
+        "Zonisamide"
+      ],
+      "combination": false,
+      "home_inn": "zonisamide",
+      "ingredients": [
+        "ZONISAMIDE"
+      ],
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-11-22",
+      "moieties": [
+        "ZONISAMIDE"
+      ],
+      "product_ndcs": [
+        "70771-1142",
+        "70771-1143",
+        "70771-1144"
+      ],
+      "rxcui": [
+        "314285",
+        "403966",
+        "403967"
+      ],
+      "setid": "4a4de4ca-6e4a-4b62-b2b4-26cef6dafb2f",
+      "source": "dailymed-title-match",
+      "spl_version": 9,
+      "title": "ZONISAMIDE CAPSULE [ZYDUS LIFESCIENCES LIMITED]",
+      "upload_date": "2026-10-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA077645"
+      ],
+      "brand_names": [
+        "Zonisamide"
+      ],
+      "combination": false,
+      "home_inn": "zonisamide",
+      "ingredients": [
+        "ZONISAMIDE"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-08-17",
+      "moieties": [
+        "ZONISAMIDE"
+      ],
+      "product_ndcs": [
+        "59651-378",
+        "59651-379",
+        "59651-380"
+      ],
+      "rxcui": [
+        "314285",
+        "403966",
+        "403967"
+      ],
+      "setid": "ab0631ca-5339-4570-bc27-f1dd92de1d6f",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "ZONISAMIDE CAPSULE [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2026-02-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA214492"
+      ],
+      "brand_names": [
+        "Zonisamide"
+      ],
+      "combination": false,
+      "home_inn": "zonisamide",
+      "ingredients": [
+        "ZONISAMIDE"
+      ],
+      "labeler": "Unichem Pharmaceuticals (USA), Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-07-09",
+      "moieties": [
+        "ZONISAMIDE"
+      ],
+      "product_ndcs": [
+        "29300-428",
+        "29300-429",
+        "29300-430"
+      ],
+      "rxcui": [
+        "314285",
+        "403966",
+        "403967"
+      ],
+      "setid": "3c53d5e4-f47f-46fd-aa1c-158fd49ba9c0",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "ZONISAMIDE CAPSULE [UNICHEM PHARMACEUTICALS (USA), INC.]",
+      "upload_date": "2022-12-01"
+    },
+    {
+      "application_numbers": [
+        "NDA214273"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "ZONISADE"
+      ],
+      "first_posted": "2025-06-19",
+      "found_by": "ZONISADE",
+      "labeler": "Praxis, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2025-06-19",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "59368-407"
+      ],
+      "rxcui": [],
+      "setid": "37c8dec2-2d0b-f984-e063-6294a90a9555",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "ac16fa15-32e9-4f92-8bc6-d8d41ae002c6"
+      ],
+      "title": "ZONISADE (zonisamide) suspension"
+    },
+    {
+      "application_numbers": [
+        "NDA020789"
+      ],
+      "archived_versions": 9,
+      "brand_names": [
+        "ZONEGRAN"
+      ],
+      "first_posted": "2007-07-26",
+      "found_by": "ZONEGRAN",
+      "labeler": "Eisai Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2017-02-09",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-07-31",
+        "2018-10-31"
+      ],
+      "product_ndcs": [
+        "62856-680",
+        "62856-681"
+      ],
+      "rxcui": [],
+      "setid": "f94b2ba4-024f-4068-8759-da6c8d31c546",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "d12de43e-3ac3-4335-bc85-70d7366a91eb"
+      ],
+      "title": "ZONEGRAN (zonisamide) capsule"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "345efcc4-6a36-4ddf-8b6c-9c6c844dab0a"
+    },
+    {
+      "combination": false,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e8f368cb-6a07-4178-95fa-1d5a209171ed"
+    },
+    {
+      "combination": false,
+      "labeler": "Viona Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5ab5b6aa-4bdc-4ec6-ba23-44caf2db953e"
+    }
+  ]
+}

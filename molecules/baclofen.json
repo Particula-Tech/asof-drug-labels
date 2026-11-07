@@ -1,0 +1,994 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "BACLOFEN"
+  ],
+  "inn": "baclofen",
+  "name": "BACLOFEN",
+  "rank": 47,
+  "rxcui": [
+    "197391",
+    "197392",
+    "308516",
+    "308517",
+    "430902",
+    "805678",
+    "805679",
+    "1047437",
+    "1047440",
+    "1047444",
+    "1300890",
+    "1301627",
+    "1369783",
+    "1369784",
+    "1369787",
+    "1369788",
+    "1369791",
+    "1369792",
+    "1666613",
+    "1666615",
+    "1666620",
+    "1666622",
+    "1666623",
+    "2586589",
+    "2586595",
+    "2586596",
+    "2586598",
+    "2586599",
+    "2586601",
+    "2593376",
+    "2593382",
+    "2667941",
+    "2667943"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 46,
+    "approval_holders": 37,
+    "earliest_marketing_start": "1988-07-21",
+    "latest_label_update": "2026-10-30",
+    "nda_bla_applications": 5,
+    "repackagers": 25
+  },
+  "unii": [
+    {
+      "ingredient": "BACLOFEN",
+      "unii": "H789N3FKE8"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA022462"
+      ],
+      "brand_names": [
+        "Gablofen"
+      ],
+      "combination": false,
+      "home_inn": "baclofen",
+      "ingredients": [
+        "BACLOFEN"
+      ],
+      "labeler": "Piramal Critical Care Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-04-01",
+      "moieties": [
+        "BACLOFEN"
+      ],
+      "product_ndcs": [
+        "66794-151",
+        "66794-155",
+        "66794-156",
+        "66794-157"
+      ],
+      "rxcui": [
+        "308517",
+        "1047437",
+        "1047440",
+        "1047444",
+        "1300890",
+        "1301627",
+        "1369783",
+        "1369784",
+        "1369787",
+        "1369788",
+        "1369791",
+        "1369792",
+        "1666613",
+        "1666615"
+      ],
+      "setid": "00d3e846-dd92-448d-9ab8-6a07be823cc1",
+      "source": "openfda",
+      "spl_version": 43,
+      "title": "GABLOFEN (BACLOFEN INJECTION) INJECTION, SOLUTION [PIRAMAL CRITICAL CARE INC]",
+      "upload_date": "2026-05-20"
+    },
+    {
+      "application_numbers": [
+        "NDA215602"
+      ],
+      "brand_names": [
+        "FLEQSUVY"
+      ],
+      "combination": false,
+      "home_inn": "baclofen",
+      "ingredients": [
+        "BACLOFEN"
+      ],
+      "labeler": "Azurity Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-02-07",
+      "moieties": [
+        "BACLOFEN"
+      ],
+      "product_ndcs": [
+        "52652-6001"
+      ],
+      "rxcui": [
+        "2593376",
+        "2593382"
+      ],
+      "setid": "9076d6ce-bbc2-4a9f-9cb9-2de1b675b9aa",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "FLEQSUVY (BACLOFEN) SUSPENSION [AZURITY PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-12-18"
+    },
+    {
+      "application_numbers": [
+        "NDA020075"
+      ],
+      "brand_names": [
+        "Lioresal (baclofen)"
+      ],
+      "combination": false,
+      "home_inn": "baclofen",
+      "ingredients": [
+        "BACLOFEN"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-06-12",
+      "moieties": [
+        "BACLOFEN"
+      ],
+      "product_ndcs": [
+        "70121-2496",
+        "70121-2501",
+        "70121-2502",
+        "70121-2503",
+        "70121-2504",
+        "70121-2505"
+      ],
+      "rxcui": [
+        "308516",
+        "308517",
+        "805678",
+        "805679",
+        "1666613",
+        "1666620",
+        "1666622",
+        "1666623"
+      ],
+      "setid": "6f3bdcc0-ffc8-4911-8c35-958c8103a2c5",
+      "source": "openfda",
+      "spl_version": 29,
+      "title": "LIORESAL (BACLOFEN) (BACLOFEN) KIT LIORESAL (BACLOFEN) (BACLOFEN) INJECTION [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2025-11-18"
+    },
+    {
+      "application_numbers": [
+        "NDA215422"
+      ],
+      "brand_names": [
+        "LYVISPAH"
+      ],
+      "combination": false,
+      "home_inn": "baclofen",
+      "ingredients": [
+        "BACLOFEN"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-06-01",
+      "moieties": [
+        "BACLOFEN"
+      ],
+      "product_ndcs": [
+        "64896-076",
+        "64896-077",
+        "64896-078"
+      ],
+      "rxcui": [
+        "2586589",
+        "2586595",
+        "2586596",
+        "2586598",
+        "2586599",
+        "2586601"
+      ],
+      "setid": "f8992a56-9010-4c4b-84d5-ddcc3e2c3317",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "LYVISPAH (BACLOFEN) GRANULE [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2024-10-25"
+    },
+    {
+      "application_numbers": [
+        "NDA208193"
+      ],
+      "brand_names": [
+        "OZOBAX DS"
+      ],
+      "combination": false,
+      "home_inn": "baclofen",
+      "ingredients": [
+        "BACLOFEN"
+      ],
+      "labeler": "Rosemont Pharmaceuticals LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-10-12",
+      "moieties": [
+        "BACLOFEN"
+      ],
+      "product_ndcs": [
+        "69528-302"
+      ],
+      "rxcui": [
+        "2667941",
+        "2667943"
+      ],
+      "setid": "d8ddcec5-debe-42b4-a803-e65917cc6a54",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "OZOBAX DS (BACLOFEN) SOLUTION [ROSEMONT PHARMACEUTICALS LLC]",
+      "upload_date": "2026-03-26"
+    },
+    {
+      "application_numbers": [
+        "NDA215422"
+      ],
+      "brand_names": [
+        "LYVISPAH"
+      ],
+      "combination": false,
+      "home_inn": "baclofen",
+      "ingredients": [
+        "BACLOFEN"
+      ],
+      "labeler": "Anvi Pharmaceuticals Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2026-09-01",
+      "moieties": [
+        "BACLOFEN"
+      ],
+      "product_ndcs": [
+        "87519-003"
+      ],
+      "rxcui": [
+        "2586589",
+        "2586595"
+      ],
+      "setid": "5b13c40d-a109-f838-e063-6294a90aecf2",
+      "source": "dailymed-title-match",
+      "spl_version": 2,
+      "title": "LYVISPAH (BACLOFEN) GRANULE [ANVI PHARMACEUTICALS INC]",
+      "upload_date": "2026-09-24"
+    },
+    {
+      "application_numbers": [
+        "NDA208193"
+      ],
+      "brand_names": [
+        "Baclofen"
+      ],
+      "combination": false,
+      "home_inn": "baclofen",
+      "ingredients": [
+        "BACLOFEN"
+      ],
+      "labeler": "Acella Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2026-10-26",
+      "moieties": [
+        "BACLOFEN"
+      ],
+      "product_ndcs": [
+        "42192-631"
+      ],
+      "rxcui": [],
+      "setid": "231ef477-822c-46fe-9bf3-d55cdf9bd4c2",
+      "source": "dailymed-title-match",
+      "spl_version": 1,
+      "title": "BACLOFEN SOLUTION [ACELLA PHARMACEUTICALS, LLC]",
+      "upload_date": "2026-10-26"
+    },
+    {
+      "application_numbers": [
+        "NDA215602"
+      ],
+      "brand_names": [
+        "Baclofen"
+      ],
+      "combination": false,
+      "home_inn": "baclofen",
+      "ingredients": [
+        "BACLOFEN"
+      ],
+      "labeler": "Wilshire Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2023-04-01",
+      "moieties": [
+        "BACLOFEN"
+      ],
+      "product_ndcs": [
+        "52536-600"
+      ],
+      "rxcui": [
+        "2593376"
+      ],
+      "setid": "4585aafe-0af8-4786-a419-6a7e76671ca2",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "BACLOFEN SUSPENSION [WILSHIRE PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-12-18"
+    },
+    {
+      "application_numbers": [
+        "NDA208193"
+      ],
+      "brand_names": [
+        "Baclofen"
+      ],
+      "combination": false,
+      "home_inn": "baclofen",
+      "ingredients": [
+        "BACLOFEN"
+      ],
+      "labeler": "TRUPHARMA, LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2023-10-12",
+      "moieties": [
+        "BACLOFEN"
+      ],
+      "product_ndcs": [
+        "52817-620"
+      ],
+      "rxcui": [
+        "2667941"
+      ],
+      "setid": "f8ec79c6-da65-4fb6-b6bd-45df0d2a52c7",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "BACLOFEN SOLUTION [TRUPHARMA, LLC]",
+      "upload_date": "2023-10-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA072234",
+        "ANDA072235"
+      ],
+      "brand_names": [
+        "Baclofen"
+      ],
+      "combination": false,
+      "home_inn": "baclofen",
+      "ingredients": [
+        "BACLOFEN"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1988-07-21",
+      "moieties": [
+        "BACLOFEN"
+      ],
+      "product_ndcs": [
+        "0172-4096",
+        "0172-4097"
+      ],
+      "rxcui": [
+        "197391",
+        "197392"
+      ],
+      "setid": "5648c772-50cb-4961-996e-e68a8eb699ea",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "BACLOFEN TABLET [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2021-05-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA077068"
+      ],
+      "brand_names": [
+        "Baclofen"
+      ],
+      "combination": false,
+      "home_inn": "baclofen",
+      "ingredients": [
+        "BACLOFEN"
+      ],
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2005-08-30",
+      "moieties": [
+        "BACLOFEN"
+      ],
+      "product_ndcs": [
+        "0603-2406",
+        "0603-2407"
+      ],
+      "rxcui": [
+        "197391",
+        "197392"
+      ],
+      "setid": "c17527be-661d-42f5-b6f6-56a681ba7870",
+      "source": "openfda",
+      "spl_version": 24,
+      "title": "BACLOFEN TABLET [PAR HEALTH USA, LLC]",
+      "upload_date": "2026-09-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA077241"
+      ],
+      "brand_names": [
+        "Baclofen"
+      ],
+      "combination": false,
+      "home_inn": "baclofen",
+      "ingredients": [
+        "BACLOFEN"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2005-12-20",
+      "moieties": [
+        "BACLOFEN"
+      ],
+      "product_ndcs": [
+        "62135-472",
+        "62135-473",
+        "62135-474"
+      ],
+      "rxcui": [
+        "197391",
+        "197392",
+        "430902"
+      ],
+      "setid": "2a75db96-590a-43cf-aefb-3bbcb287dbf0",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "BACLOFEN TABLET [CHARTWELL RX, LLC]",
+      "upload_date": "2024-10-14"
+    },
+    {
+      "application_numbers": [
+        "ANDA074584"
+      ],
+      "brand_names": [
+        "Baclofen"
+      ],
+      "combination": false,
+      "home_inn": "baclofen",
+      "ingredients": [
+        "BACLOFEN"
+      ],
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-10-20",
+      "moieties": [
+        "BACLOFEN"
+      ],
+      "product_ndcs": [
+        "0832-1054"
+      ],
+      "rxcui": [
+        "197391",
+        "197392"
+      ],
+      "setid": "b2747a9d-5fca-4657-9e4b-4112607f30d8",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "BACLOFEN TABLET [UPSHER-SMITH LABORATORIES, LLC]",
+      "upload_date": "2025-12-12"
+    },
+    {
+      "application_numbers": [
+        "NDA022462"
+      ],
+      "archived_versions": 14,
+      "brand_names": [
+        "GABLOFEN"
+      ],
+      "first_posted": "2010-12-01",
+      "found_by": "GABLOFEN",
+      "labeler": "Mallinckrodt Inc (Brand Pharmaceuticals)",
+      "labeler_unverified": true,
+      "last_posted": "2017-03-28",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-01-31",
+        "2018-09-30",
+        "2019-07-31",
+        "2020-01-31"
+      ],
+      "product_ndcs": [
+        "45945-151",
+        "45945-155",
+        "45945-156",
+        "45945-157"
+      ],
+      "rxcui": [],
+      "setid": "0a50560d-d053-4cb2-8160-8ee35179c0ee",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "00d3e846-dd92-448d-9ab8-6a07be823cc1"
+      ],
+      "title": "GABLOFEN (baclofen) injection"
+    },
+    {
+      "application_numbers": [
+        "NDA020075"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "LIORESAL"
+      ],
+      "first_posted": "2017-07-07",
+      "found_by": "LIORESAL",
+      "labeler": "Saol Therapeutics Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2022-08-01",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-11-30"
+      ],
+      "product_ndcs": [
+        "70257-560",
+        "70257-561",
+        "70257-562",
+        "70257-563"
+      ],
+      "rxcui": [],
+      "setid": "4e478edb-e340-4976-ac24-4bb32c5e12e3",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "6f3bdcc0-ffc8-4911-8c35-958c8103a2c5"
+      ],
+      "title": "LIORESAL (BACLOFEN) (baclofen) injection"
+    },
+    {
+      "application_numbers": [
+        "NDA208193"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "OZOBAX"
+      ],
+      "first_posted": "2019-09-30",
+      "found_by": "OZOBAX",
+      "labeler": "Metacel Pharmaceuticals, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2023-12-28",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-10-31"
+      ],
+      "product_ndcs": [
+        "69528-301"
+      ],
+      "rxcui": [],
+      "setid": "92153f69-bc9b-4bef-9a8e-751effde5c7e",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "231ef477-822c-46fe-9bf3-d55cdf9bd4c2",
+        "d8ddcec5-debe-42b4-a803-e65917cc6a54",
+        "f8ec79c6-da65-4fb6-b6bd-45df0d2a52c7"
+      ],
+      "title": "OZOBAX (baclofen) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA017851"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "LIORESAL"
+      ],
+      "first_posted": "2006-09-01",
+      "found_by": "LIORESAL",
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "labeler_unverified": true,
+      "last_posted": "2019-09-13",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2006-02-28",
+        "2006-03-31"
+      ],
+      "product_ndcs": [
+        "0028-0023",
+        "0028-0033"
+      ],
+      "rxcui": [],
+      "setid": "c59b086d-8e2a-47fa-ae4f-135e65c37337",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "LIORESAL (baclofen) tablet"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "LIORESAL"
+      ],
+      "first_posted": "2007-08-06",
+      "found_by": "LIORESAL",
+      "labeler": "Medtronic, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2007-08-06",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "58281-560",
+        "58281-561",
+        "58281-562",
+        "58281-563"
+      ],
+      "rxcui": [],
+      "setid": "l351cde63-00fa-404a-92df-cb055e991840",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "lioresal (baclofen) injection"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Northstar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0aac77fa-30c2-46c8-a04d-e6b8333ddd81"
+    },
+    {
+      "combination": false,
+      "labeler": "Advagen Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "04dac0f6-cc6c-4959-9bca-a6e4a99690f3"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bb5c6faa-2933-44d1-8706-8302150be734"
+    },
+    {
+      "combination": false,
+      "labeler": "MAIA Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "11ba5575-a856-414a-89f8-17f3a01de55b"
+    },
+    {
+      "combination": false,
+      "labeler": "Unichem Pharmaceuticals (USA), Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b9199878-3fb4-46dc-adbb-b3d9dc3852d4"
+    },
+    {
+      "combination": false,
+      "labeler": "MAlA Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dfa6148c-693c-45f1-89be-0e77d39f313e"
+    },
+    {
+      "combination": false,
+      "labeler": "MAlA Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e05080ef-53d9-4060-aaa4-86a6935467de"
+    },
+    {
+      "combination": false,
+      "labeler": "Eywa Pharma Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7ec59f6b-7c4f-432d-ba27-442861806b6c"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4679a275-9307-4b0f-a2eb-2d83227ea84d"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f9dd1b55-2984-446a-8146-2ab0f5211e15"
+    },
+    {
+      "combination": false,
+      "labeler": "Nexus Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "68c9ade0-d783-43e9-8a3f-a16ec1501ec1"
+    },
+    {
+      "combination": false,
+      "labeler": "Slayback Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9fad5ffc-afae-4c92-a672-ee636df45bc5"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6eb46715-d72b-473f-b984-90024033d4a0"
+    },
+    {
+      "combination": false,
+      "labeler": "Method Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1a9db542-d2b0-141a-e063-6394a90acc11"
+    },
+    {
+      "combination": false,
+      "labeler": "Advagen Pharma Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2a43830f-a28b-ca15-e063-6294a90a6b1a"
+    },
+    {
+      "combination": false,
+      "labeler": "Palmetto Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2422746c-afec-ad30-e063-6394a90a0403"
+    },
+    {
+      "combination": false,
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f84f3f4c-17e6-43f1-9600-63b0b175837b"
+    },
+    {
+      "combination": false,
+      "labeler": "TruPharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "68aa591e-ea98-4438-9a4a-4f7e9ea2b285"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cfc49176-8d01-4c39-9319-604dd087065c"
+    },
+    {
+      "combination": false,
+      "labeler": "Marlex Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "091775bd-b9c6-69ce-e063-6294a90a143d"
+    },
+    {
+      "combination": false,
+      "labeler": "Marlex Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1b0f50c8-62e3-414d-96d3-5fd16e8043ab"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "077aaf3b-1ca3-4599-a51a-6bbe39810ca8"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d4bfba33-9f4d-4c43-ae6c-bcf67ef8fe51"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ea32c39c-0ee3-4b5e-8da7-4c31db334bd8"
+    },
+    {
+      "combination": false,
+      "labeler": "Advagen Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d63af5f0-c275-480b-89b5-6cf1ad55ab63"
+    },
+    {
+      "combination": false,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c73ed3af-8e8a-4a18-90fc-a0f2dcc641d0"
+    },
+    {
+      "combination": false,
+      "labeler": "XLCare Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2b4908fb-47b5-4675-be9e-ca1ad48a7252"
+    },
+    {
+      "combination": false,
+      "labeler": "SOLA Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7b308b35-8c08-458d-860e-c78d057e8260"
+    },
+    {
+      "combination": false,
+      "labeler": "Advagen Pharma Ltd.,",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "75ab298b-b2a7-458f-accc-5bfc89b89a16"
+    },
+    {
+      "combination": false,
+      "labeler": "Trifluent Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "890df151-f4eb-4244-97c4-f1f10912e753"
+    },
+    {
+      "combination": false,
+      "labeler": "Major Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f328296e-0713-4acb-bcb5-c10d7838d380"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f4e8cbc5-b1f2-4331-a267-d5bd90bcde8a"
+    },
+    {
+      "combination": false,
+      "labeler": "Medcore LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "13eca70c-3cc8-4317-83cf-ade3327e48c0"
+    }
+  ]
+}

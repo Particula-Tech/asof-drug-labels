@@ -1,0 +1,210 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "TIOTROPIUM BROMIDE ANHYDROUS",
+    "TIOTROPIUM BROMIDE MONOHYDRATE"
+  ],
+  "inn": "tiotropium",
+  "name": "TIOTROPIUM",
+  "rank": 210,
+  "rxcui": [
+    "485032",
+    "580261",
+    "1552002",
+    "1552004",
+    "1552008",
+    "1552009",
+    "1651266",
+    "1651271",
+    "1651274",
+    "1651275",
+    "1667880",
+    "1667882",
+    "1667885",
+    "1667886",
+    "2166203",
+    "2166204",
+    "2166927",
+    "2166928"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 4,
+    "approval_holders": 2,
+    "earliest_marketing_start": "2005-10-11",
+    "latest_label_update": "2026-08-19",
+    "nda_bla_applications": 4,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "TIOTROPIUM BROMIDE ANHYDROUS",
+      "unii": "XX112XZP0J"
+    },
+    {
+      "ingredient": "TIOTROPIUM BROMIDE MONOHYDRATE",
+      "unii": "L64SXO195N"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021395"
+      ],
+      "brand_names": [
+        "Spiriva HandiHaler"
+      ],
+      "combination": false,
+      "home_inn": "tiotropium",
+      "ingredients": [
+        "TIOTROPIUM BROMIDE MONOHYDRATE"
+      ],
+      "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2005-10-11",
+      "moieties": [
+        "TIOTROPIUM"
+      ],
+      "product_ndcs": [
+        "0597-0075"
+      ],
+      "rxcui": [
+        "485032",
+        "580261"
+      ],
+      "setid": "820839ef-e53d-47e8-a3b9-d911ff92e6a9",
+      "source": "openfda",
+      "spl_version": 28,
+      "title": "SPIRIVA HANDIHALER (TIOTROPIUM BROMIDE) CAPSULE [BOEHRINGER INGELHEIM PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-11-20"
+    },
+    {
+      "application_numbers": [
+        "NDA021936",
+        "NDA207070"
+      ],
+      "brand_names": [
+        "Spiriva Respimat"
+      ],
+      "combination": false,
+      "home_inn": "tiotropium",
+      "ingredients": [
+        "TIOTROPIUM BROMIDE ANHYDROUS"
+      ],
+      "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2014-09-30",
+      "moieties": [
+        "TIOTROPIUM"
+      ],
+      "product_ndcs": [
+        "0597-0100",
+        "0597-0160"
+      ],
+      "rxcui": [
+        "1552002",
+        "1552004",
+        "1552008",
+        "1552009",
+        "1667880",
+        "1667882",
+        "1667885",
+        "1667886",
+        "2166203",
+        "2166204"
+      ],
+      "setid": "7b656b14-fcaa-2741-f6f0-e0be48971c02",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "SPIRIVA RESPIMAT (TIOTROPIUM BROMIDE INHALATION SPRAY) SPRAY, METERED [BOEHRINGER INGELHEIM PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-08-19"
+    },
+    {
+      "application_numbers": [
+        "NDA206756"
+      ],
+      "brand_names": [
+        "Stiolto Respimat"
+      ],
+      "combination": true,
+      "home_inn": "tiotropium",
+      "ingredients": [
+        "OLODATEROL HYDROCHLORIDE",
+        "TIOTROPIUM BROMIDE MONOHYDRATE"
+      ],
+      "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-05-21",
+      "moieties": [
+        "OLODATEROL",
+        "TIOTROPIUM"
+      ],
+      "product_ndcs": [
+        "0597-0155"
+      ],
+      "rxcui": [
+        "1651266",
+        "1651271",
+        "1651274",
+        "1651275",
+        "2166927",
+        "2166928"
+      ],
+      "setid": "01e15aee-40e0-23f3-537f-c96dd63e2cb1",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "STIOLTO RESPIMAT (TIOTROPIUM BROMIDE AND OLODATEROL) SPRAY, METERED [BOEHRINGER INGELHEIM PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-07-16"
+    },
+    {
+      "application_numbers": [
+        "ANDA211287"
+      ],
+      "brand_names": [
+        "Tiotropium Bromide"
+      ],
+      "combination": false,
+      "home_inn": "tiotropium",
+      "ingredients": [
+        "TIOTROPIUM BROMIDE MONOHYDRATE"
+      ],
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-08-16",
+      "moieties": [
+        "TIOTROPIUM"
+      ],
+      "product_ndcs": [
+        "68180-964"
+      ],
+      "rxcui": [
+        "485032"
+      ],
+      "setid": "496b38ee-45b6-4bb2-a35e-9023c3b73719",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "TIOTROPIUM BROMIDE CAPSULE [LUPIN PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-11-17"
+    }
+  ],
+  "us_excluded": []
+}

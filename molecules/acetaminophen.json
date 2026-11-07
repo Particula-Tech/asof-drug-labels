@@ -1,0 +1,1660 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "ACETAMINOPHEN"
+  ],
+  "inn": "acetaminophen",
+  "name": "ACETAMINOPHEN",
+  "rank": 7,
+  "rxcui": [
+    "483017",
+    "2001358",
+    "2001364",
+    "2118728",
+    "2118730",
+    "2118732",
+    "2118734",
+    "2480095",
+    "2673874",
+    "2673880",
+    "2675760",
+    "2675765",
+    "2715604"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 130,
+    "approval_holders": 60,
+    "earliest_marketing_start": "1981-08-21",
+    "latest_label_update": "2026-10-12",
+    "nda_bla_applications": 6,
+    "repackagers": 27
+  },
+  "unii": [
+    {
+      "ingredient": "ACETAMINOPHEN",
+      "unii": "362O9ITL9D"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA204767"
+      ],
+      "brand_names": [
+        "Acetaminophen"
+      ],
+      "combination": false,
+      "home_inn": "acetaminophen",
+      "ingredients": [
+        "ACETAMINOPHEN"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2020-12-06",
+      "moieties": [
+        "ACETAMINOPHEN"
+      ],
+      "product_ndcs": [
+        "63323-434"
+      ],
+      "rxcui": [
+        "483017"
+      ],
+      "setid": "a0cece43-256e-4adc-92f8-11a0f473bb83",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "ACETAMINOPHEN INJECTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2024-04-29"
+    },
+    {
+      "application_numbers": [
+        "NDA204957"
+      ],
+      "brand_names": [
+        "Acetaminophen"
+      ],
+      "combination": false,
+      "home_inn": "acetaminophen",
+      "ingredients": [
+        "ACETAMINOPHEN"
+      ],
+      "labeler": "B. Braun Medical Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-02-18",
+      "moieties": [
+        "ACETAMINOPHEN"
+      ],
+      "product_ndcs": [
+        "0264-4050",
+        "0264-4100"
+      ],
+      "rxcui": [
+        "483017",
+        "2480095"
+      ],
+      "setid": "6d763554-913d-4bed-9efd-b9c9b936a2f4",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "ACETAMINOPHEN INJECTION [B. BRAUN MEDICAL INC.]",
+      "upload_date": "2023-06-02"
+    },
+    {
+      "application_numbers": [
+        "NDA206968"
+      ],
+      "brand_names": [
+        "Acetaminophen"
+      ],
+      "combination": false,
+      "home_inn": "acetaminophen",
+      "ingredients": [
+        "ACETAMINOPHEN"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-06-03",
+      "moieties": [
+        "ACETAMINOPHEN"
+      ],
+      "product_ndcs": [
+        "0143-9386"
+      ],
+      "rxcui": [
+        "483017"
+      ],
+      "setid": "88c29438-3648-4b09-bd43-70ad7a35bcb5",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "ACETAMINOPHEN INJECTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2025-08-20"
+    },
+    {
+      "application_numbers": [
+        "NDA208653"
+      ],
+      "brand_names": [
+        "APADAZ"
+      ],
+      "combination": true,
+      "home_inn": "acetaminophen",
+      "ingredients": [
+        "ACETAMINOPHEN",
+        "BENZHYDROCODONE HYDROCHLORIDE"
+      ],
+      "labeler": "Zevra Therapeutics, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-02-23",
+      "moieties": [
+        "ACETAMINOPHEN",
+        "BENZHYDROCODONE"
+      ],
+      "product_ndcs": [
+        "70040-0145",
+        "70040-0167",
+        "70040-0189"
+      ],
+      "rxcui": [
+        "2001358",
+        "2001364",
+        "2118728",
+        "2118730",
+        "2118732",
+        "2118734"
+      ],
+      "setid": "0590d4e5-7107-4015-a6a8-deac14265aa2",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "APADAZ (BENZHYDROCODONE AND ACETAMINOPHEN) TABLET [ZEVRA THERAPEUTICS, INC.]",
+      "upload_date": "2025-01-08"
+    },
+    {
+      "application_numbers": [
+        "NDA215320"
+      ],
+      "brand_names": [
+        "COMBOGESIC IV"
+      ],
+      "combination": true,
+      "home_inn": "acetaminophen",
+      "ingredients": [
+        "ACETAMINOPHEN",
+        "IBUPROFEN"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-02-05",
+      "moieties": [
+        "ACETAMINOPHEN",
+        "IBUPROFEN"
+      ],
+      "product_ndcs": [
+        "0143-9150"
+      ],
+      "rxcui": [
+        "2673874",
+        "2673880"
+      ],
+      "setid": "be408a5a-48e4-43c0-9cb1-bbf830b54f5b",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "COMBOGESIC IV (ACETAMINOPHEN AND IBUPROFEN INJECTION) INJECTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2026-02-26"
+    },
+    {
+      "application_numbers": [
+        "NDA209471"
+      ],
+      "brand_names": [
+        "Combogesic"
+      ],
+      "combination": true,
+      "home_inn": "acetaminophen",
+      "ingredients": [
+        "ACETAMINOPHEN",
+        "IBUPROFEN"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-01-06",
+      "moieties": [
+        "ACETAMINOPHEN",
+        "IBUPROFEN"
+      ],
+      "product_ndcs": [
+        "0143-9432"
+      ],
+      "rxcui": [
+        "2675760",
+        "2675765"
+      ],
+      "setid": "b32651c4-7fa0-415b-91eb-854aa1c28f2a",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "COMBOGESIC (ACETAMINOPHEN AND IBUPROFEN) TABLET, FILM COATED [HIKMA PHARMACEUTICALS USA INC]",
+      "upload_date": "2025-01-16"
+    },
+    {
+      "application_numbers": [
+        "NDA204957"
+      ],
+      "brand_names": [
+        "Acetaminophen"
+      ],
+      "combination": false,
+      "home_inn": "acetaminophen",
+      "ingredients": [
+        "ACETAMINOPHEN"
+      ],
+      "labeler": "B. Braun Medical Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-10-10",
+      "moieties": [
+        "ACETAMINOPHEN"
+      ],
+      "product_ndcs": [
+        "0264-4050"
+      ],
+      "rxcui": [
+        "2480095"
+      ],
+      "setid": "9744d804-2857-47ef-a27a-bca27db9394c",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "ACETAMINOPHEN INJECTION [B. BRAUN MEDICAL INC.]",
+      "upload_date": "2025-03-13"
+    },
+    {
+      "application_numbers": [
+        "NDA209471"
+      ],
+      "brand_names": [
+        "Combogesic"
+      ],
+      "combination": true,
+      "home_inn": "acetaminophen",
+      "ingredients": [
+        "ACETAMINOPHEN",
+        "IBUPROFEN"
+      ],
+      "labeler": "AFT Pharmaceuticals US, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-01-06",
+      "moieties": [
+        "ACETAMINOPHEN",
+        "IBUPROFEN"
+      ],
+      "product_ndcs": [
+        "72260-129"
+      ],
+      "rxcui": [
+        "2675760",
+        "2675765"
+      ],
+      "setid": "f863558f-2a44-41f8-a6b7-271851d4c2ff",
+      "source": "dailymed-title-match",
+      "spl_version": 9,
+      "title": "COMBOGESIC (ACETAMINOPHEN AND IBUPROFEN) TABLET, FILM COATED [AFT PHARMACEUTICALS US, INC.]",
+      "upload_date": "2026-09-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA210969"
+      ],
+      "brand_names": [
+        "Acetaminophen"
+      ],
+      "combination": false,
+      "home_inn": "acetaminophen",
+      "ingredients": [
+        "ACETAMINOPHEN"
+      ],
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-10-21",
+      "moieties": [
+        "ACETAMINOPHEN"
+      ],
+      "product_ndcs": [
+        "55150-307"
+      ],
+      "rxcui": [
+        "483017"
+      ],
+      "setid": "f80b6f72-f280-4b4a-a6a9-e6490b94705b",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "ACETAMINOPHEN INJECTION, SOLUTION [EUGIA US LLC]",
+      "upload_date": "2023-08-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA204052"
+      ],
+      "brand_names": [
+        "Acetaminophen"
+      ],
+      "combination": false,
+      "home_inn": "acetaminophen",
+      "ingredients": [
+        "ACETAMINOPHEN"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-12-06",
+      "moieties": [
+        "ACETAMINOPHEN"
+      ],
+      "product_ndcs": [
+        "0781-9274"
+      ],
+      "rxcui": [
+        "483017"
+      ],
+      "setid": "2884e523-5f12-48d6-98dc-3a80cde524f8",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "ACETAMINOPHEN INJECTION, SOLUTION [SANDOZ INC]",
+      "upload_date": "2026-08-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA213255"
+      ],
+      "brand_names": [
+        "Acetaminophen"
+      ],
+      "combination": false,
+      "home_inn": "acetaminophen",
+      "ingredients": [
+        "ACETAMINOPHEN"
+      ],
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-12-07",
+      "moieties": [
+        "ACETAMINOPHEN"
+      ],
+      "product_ndcs": [
+        "67457-940"
+      ],
+      "rxcui": [
+        "483017"
+      ],
+      "setid": "1d456d07-fca2-4d43-92c0-f3b3c8b54420",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "ACETAMINOPHEN INJECTION, SOLUTION [MYLAN INSTITUTIONAL LLC]",
+      "upload_date": "2026-06-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA202605"
+      ],
+      "brand_names": [
+        "Acetaminophen"
+      ],
+      "combination": false,
+      "home_inn": "acetaminophen",
+      "ingredients": [
+        "ACETAMINOPHEN"
+      ],
+      "labeler": "Solupharm Pharmazeutische Erzeugnisse GmbH",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-12-07",
+      "moieties": [
+        "ACETAMINOPHEN"
+      ],
+      "product_ndcs": [
+        "55579-110"
+      ],
+      "rxcui": [
+        "483017"
+      ],
+      "setid": "adeebc6c-c82f-40dc-b813-1b02244984ce",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "ACETAMINOPHEN INJECTION [SOLUPHARM PHARMAZEUTISCHE ERZEUGNISSE GMBH]",
+      "upload_date": "2023-02-14"
+    },
+    {
+      "application_numbers": [
+        "ANDA214331"
+      ],
+      "brand_names": [
+        "Acetaminophen"
+      ],
+      "combination": false,
+      "home_inn": "acetaminophen",
+      "ingredients": [
+        "ACETAMINOPHEN"
+      ],
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-09-17",
+      "moieties": [
+        "ACETAMINOPHEN"
+      ],
+      "product_ndcs": [
+        "36000-306",
+        "36000-372"
+      ],
+      "rxcui": [
+        "483017",
+        "2715604"
+      ],
+      "setid": "0f67c1bd-915b-4681-88dd-22f5154a80b3",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "ACETAMINOPHEN INJECTION, SOLUTION [BAXTER HEALTHCARE CORPORATION]",
+      "upload_date": "2025-06-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA216617"
+      ],
+      "brand_names": [
+        "Acetaminophen"
+      ],
+      "combination": false,
+      "home_inn": "acetaminophen",
+      "ingredients": [
+        "ACETAMINOPHEN"
+      ],
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-07-27",
+      "moieties": [
+        "ACETAMINOPHEN"
+      ],
+      "product_ndcs": [
+        "31722-205"
+      ],
+      "rxcui": [
+        "483017"
+      ],
+      "setid": "1c8fef8f-2ff5-4bea-bccb-90c2c8544c21",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "ACETAMINOPHEN (ACETAMINOPHEN) INJECTION, SOLUTION [CAMBER PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-04-27"
+    },
+    {
+      "application_numbers": [
+        "NDA018060"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "ACEPHEN"
+      ],
+      "first_posted": "2012-01-24",
+      "found_by": "ACEPHEN",
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2022-05-02",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2020-12-31"
+      ],
+      "product_ndcs": [
+        "0713-0118"
+      ],
+      "rxcui": [],
+      "setid": "32bbe845-7f0e-c33d-adb2-659f18fedfa9",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ACEPHEN (acetaminophen) suppository"
+    },
+    {
+      "application_numbers": [
+        "NDA208653"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "APADAZ"
+      ],
+      "first_posted": "2019-06-28",
+      "found_by": "APADAZ",
+      "labeler": "KVK-Tech, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2025-11-17",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-10-31",
+        "2024-09-30"
+      ],
+      "product_ndcs": [
+        "10702-340",
+        "10702-341",
+        "10702-342"
+      ],
+      "rxcui": [],
+      "setid": "3a790a49-df42-4577-914c-6ee07a40b60f",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "0590d4e5-7107-4015-a6a8-deac14265aa2"
+      ],
+      "title": "APADAZ (benzhydrocodone and acetaminophen) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA022450"
+      ],
+      "archived_versions": 16,
+      "brand_names": [
+        "OFIRMEV"
+      ],
+      "first_posted": "2010-11-10",
+      "found_by": "OFIRMEV",
+      "labeler": "Mallinckrodt Hospital Products Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2021-12-13",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-07-31"
+      ],
+      "product_ndcs": [
+        "43825-102"
+      ],
+      "rxcui": [],
+      "setid": "c5177abd-9465-40d8-861d-3904496d82b7",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "OFIRMEV (acetaminophen) injection, solution"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "WG Critical Care, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "60f0d5b2-cab4-4a7c-8b53-1526a0908a54"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "db5d4cf8-762a-4111-971e-91c704bc3643"
+    },
+    {
+      "combination": false,
+      "labeler": "Caplin Steriles Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b6f83919-8608-4648-9ac6-e13eadac8404"
+    },
+    {
+      "combination": true,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a58819b8-a52c-44a7-9ab0-c74480d98506"
+    },
+    {
+      "combination": true,
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "95ac6875-6b14-4cde-8efb-80704e39b8d8"
+    },
+    {
+      "combination": true,
+      "labeler": "SpecGx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f2137f1a-b49a-40bd-97ac-cd6b36e295f4"
+    },
+    {
+      "combination": true,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "77776146-c6e6-478c-b30e-2b729e758400"
+    },
+    {
+      "combination": true,
+      "labeler": "Par Health",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e619b656-4123-4878-b601-b0edad3c428b"
+    },
+    {
+      "combination": true,
+      "labeler": "SpecGx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4dd36cf5-8f73-404a-8b1d-3bd53bd90c25"
+    },
+    {
+      "combination": true,
+      "labeler": "SpecGx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "73c1059b-0c7d-42ef-9827-f018858fc447"
+    },
+    {
+      "combination": true,
+      "labeler": "SpecGx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "eadc80fa-13c3-471a-a22f-6fe7e1ab290f"
+    },
+    {
+      "combination": true,
+      "labeler": "LGM PHARMA SOLUTIONS, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "180d20a5-78a8-4faa-98ad-3196cdd5663a"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "683d563f-0686-4964-8183-cf08758cae71"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d61e0ff4-e04b-4dc6-b818-6a8f46e99b5e"
+    },
+    {
+      "combination": true,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a6cbc17f-5c60-489c-8029-84b0add556d8"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8bc4108b-314e-4a52-a37c-631c6b869b04"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d51600e2-2f73-483c-9b2e-f142bafff16d"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "62be4147-6a72-49e5-9338-10887c65a93a"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e0cefc7b-e81c-4e15-89a0-fe71dc94338b"
+    },
+    {
+      "combination": true,
+      "labeler": "Alvogen, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "900ec197-720e-5428-b526-055b7756aa4a"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurolife Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "60f43308-1deb-4f05-8f17-aa49ebdcf498"
+    },
+    {
+      "combination": true,
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "42594152-563e-4984-9901-d6ef3b8a6941"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurolife Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "02386806-02d4-47e3-9c8b-7810146ee795"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurolife Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "69df20d9-b1d5-47dc-9ff0-29987284f8c7"
+    },
+    {
+      "combination": true,
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c29b97e9-8097-4d87-a420-ccf5aec8274a"
+    },
+    {
+      "combination": true,
+      "labeler": "Rhodes Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5999f3c3-3225-4d24-82cd-0b8d7a309587"
+    },
+    {
+      "combination": true,
+      "labeler": "Cranbury Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d4caec6d-4af2-4f1c-9add-c0c948b83b16"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurolife Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "392a846e-7325-462d-b19b-8afda44c5cb0"
+    },
+    {
+      "combination": true,
+      "labeler": "Larken Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "326c83fc-afed-45ad-9c87-f47968fa1d2a"
+    },
+    {
+      "combination": true,
+      "labeler": "Rhodes Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1f9c1adc-f84f-43de-af5c-d93703aba7f8"
+    },
+    {
+      "combination": true,
+      "labeler": "Lupin Pharmaceuticals,Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "48cc1378-ffab-4645-95bb-a05d78066575"
+    },
+    {
+      "combination": true,
+      "labeler": "Lupin Pharmaceuticals,Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "26a2178e-e0e5-4d61-81fd-e30a3142f1f2"
+    },
+    {
+      "combination": true,
+      "labeler": "SUNRISE PHARMACEUTICAL, INC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ee7630f8-f4b8-4eb0-b34d-d908567030c4"
+    },
+    {
+      "combination": true,
+      "labeler": "Lupin Pharmaceuticals,Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "916ff456-a27e-49dc-a312-274126a8c30c"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6c2894df-eeeb-4b22-ab32-8ce1601bfdfa"
+    },
+    {
+      "combination": true,
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3aa0b733-b58f-46bd-8e76-37ddf1dc3356"
+    },
+    {
+      "combination": true,
+      "labeler": "SpecGx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d621b526-4d9a-48a9-9a3e-d29d6aea2f31"
+    },
+    {
+      "combination": true,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2a49ee34-6f1d-4ed3-8daa-343723d2a2be"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurolife Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f9fde75d-7def-48fc-a2b0-727f677f6001"
+    },
+    {
+      "combination": true,
+      "labeler": "Oceanside Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d2213ffd-18f6-45f5-9af7-690a977562c4"
+    },
+    {
+      "combination": true,
+      "labeler": "KVK-Tech, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f1063950-b302-4898-81c2-b1626c9c16ef"
+    },
+    {
+      "combination": true,
+      "labeler": "Elite Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "27fa8190-d334-4bb9-b277-d1f44db433e3"
+    },
+    {
+      "combination": true,
+      "labeler": "KVK-Tech, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f9cf218c-af5e-4249-aa3b-a8555ed02278"
+    },
+    {
+      "combination": true,
+      "labeler": "Epic Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5179d4ab-6d57-4613-84fc-de3f6edd6a53"
+    },
+    {
+      "combination": true,
+      "labeler": "Forte Bio-Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f5f7dfca-a5c7-4445-8a5e-9ec62f33f5be"
+    },
+    {
+      "combination": true,
+      "labeler": "Epic Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "700a229f-dc2d-7086-e053-2991aa0aec91"
+    },
+    {
+      "combination": true,
+      "labeler": "Eywa Pharma Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fcd2b59e-8087-475e-9e6b-911bd846ea96"
+    },
+    {
+      "combination": true,
+      "labeler": "KVK-Tech, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7f9c4668-4f4a-453b-b2fa-a6fed903ddfa"
+    },
+    {
+      "combination": true,
+      "labeler": "LGM PHARMA SOLUTIONS, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f6548126-faa1-4f53-8e0b-bc1b743de04d"
+    },
+    {
+      "combination": true,
+      "labeler": "XLCare Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b9f61b9c-d3f9-47e3-94a3-b5228f96f927"
+    },
+    {
+      "combination": true,
+      "labeler": "Elite Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "89b8145f-5310-4b58-a65d-586dc90d642d"
+    },
+    {
+      "combination": true,
+      "labeler": "Eywa Pharma Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "adb37532-aa19-48a2-95a1-8c92a6ce8651"
+    },
+    {
+      "combination": true,
+      "labeler": "Eywa Pharma Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1da85ac1-46a2-4081-b533-4890ec9e0482"
+    },
+    {
+      "combination": true,
+      "labeler": "Eywa Pharma Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8a201e19-3e47-7e58-e053-2995a90ab1d5"
+    },
+    {
+      "combination": true,
+      "labeler": "Eywa Pharma Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "79377617-686b-4640-b2b8-e1358cf82358"
+    },
+    {
+      "combination": true,
+      "labeler": "Elite Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6286e128-1288-4dc0-b14b-f04a0e2a22f9"
+    },
+    {
+      "combination": true,
+      "labeler": "KVK-Tech, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9986aa04-c976-4654-8ad7-b97d2eecea93"
+    },
+    {
+      "combination": true,
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4d62259d-a582-4621-b62e-3d5640cadf7c"
+    },
+    {
+      "combination": true,
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c1107153-494b-4068-8500-96bc241187a5"
+    },
+    {
+      "combination": true,
+      "labeler": "Granules Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2091c292-b77b-4ce6-8bba-436c74eee3d7"
+    },
+    {
+      "combination": true,
+      "labeler": "FH2 Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "96b0067e-aabe-df4f-e053-2995a90a4a86"
+    },
+    {
+      "combination": true,
+      "labeler": "Granules Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2407efce-b77e-4072-bc4b-62c789d01e1a"
+    },
+    {
+      "combination": true,
+      "labeler": "Genus Lifesciences Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "26242cd7-1dbe-4ca4-88ca-5b98a6566ff9"
+    },
+    {
+      "combination": true,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a68de112-f5af-49ba-a8a8-3adbaa7df36e"
+    },
+    {
+      "combination": true,
+      "labeler": "Granules Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "136bbd47-7a54-493f-9158-a84d39221d6c"
+    },
+    {
+      "combination": true,
+      "labeler": "Cranbury Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "57e1fe79-eb60-4f4f-bb38-6df0270d408f"
+    },
+    {
+      "combination": true,
+      "labeler": "Granules Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cc966d57-7cdc-4de3-bbcf-718e2fce9cb7"
+    },
+    {
+      "combination": true,
+      "labeler": "Seton Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3c5cefe3-c84e-4380-97f3-78e3fe92543a"
+    },
+    {
+      "combination": true,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6e0e8abc-512b-42f7-8323-434c589edecf"
+    },
+    {
+      "combination": true,
+      "labeler": "Granules Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "74e27dab-9790-47e4-b4f1-3b9df4bce184"
+    },
+    {
+      "combination": true,
+      "labeler": "QUAGEN PHARMACEUTICALS LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5f3c7457-6670-4a0d-bdff-c3e0fe91b7c6"
+    },
+    {
+      "combination": true,
+      "labeler": "Burel Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0a8a6a16-b23f-45d2-b5d4-540264e74d14"
+    },
+    {
+      "combination": true,
+      "labeler": "QUAGEN PHARMACEUTICALS LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1f0dbe62-6aea-4323-ad25-c2211f919253"
+    },
+    {
+      "combination": true,
+      "labeler": "QUAGEN PHARMACEUTICALS LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "24813ec6-0111-4782-9182-a2b93501a2bc"
+    },
+    {
+      "combination": true,
+      "labeler": "QUAGEN PHARMACEUTICALS LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2eb09253-7f59-401e-afbc-70bb9600fedf"
+    },
+    {
+      "combination": true,
+      "labeler": "QUAGEN PHARMACEUTICALS LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8438f08f-a32a-4180-9030-e0fd5da4be30"
+    },
+    {
+      "combination": true,
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c459ed02-afd6-4533-82b6-bfb2c7ab0e72"
+    },
+    {
+      "combination": true,
+      "labeler": "Dr. Reddy's Labratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "42d808d6-d8d4-22f5-ac2f-0f0d1d71686a"
+    },
+    {
+      "combination": true,
+      "labeler": "Dr. Reddy's Labratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "69df02fa-c842-48dc-7ac6-5967b7dc30de"
+    },
+    {
+      "combination": true,
+      "labeler": "Aarkish Pharmaceuticals NJ Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "82fa5151-d5ee-4ad8-ba7c-a2df8a09e1a6"
+    },
+    {
+      "combination": true,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "995a6cc7-8b72-4d35-b3b4-8c5752438fb7"
+    },
+    {
+      "combination": true,
+      "labeler": "Genus Lifesciences Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5f603b0d-69e5-4c02-b6b3-b4705e243e9a"
+    },
+    {
+      "combination": true,
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cc7f0a16-ff27-44d0-b69a-3f6aea1b993b"
+    },
+    {
+      "combination": false,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3b4ab1cf-8642-44f5-b3a2-3f1f7c620ce9"
+    },
+    {
+      "combination": false,
+      "labeler": "Solupharm Pharmazeutische Erzeugnisse GmbH",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d92be8ae-3173-0a9d-e053-2995a90abc63"
+    },
+    {
+      "combination": false,
+      "labeler": "Civica, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1b5ca3e0-ce08-4e11-9385-9ec22e5abb5b"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7243bf2c-2c44-4dff-8a9e-d788d31dca86"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b466c989-f7aa-e476-e053-2a95a90a8e55"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "621282f6-75b3-401b-8e1a-c5153a0c9ecd"
+    },
+    {
+      "combination": false,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8481d9f3-d2a5-457f-b92c-99445d063c8f"
+    },
+    {
+      "combination": true,
+      "labeler": "Mikart, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a26775c2-cafb-4b13-99ac-d4e8248265fb"
+    },
+    {
+      "combination": true,
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "944d3e60-7eee-11de-a413-0002a5d5c51b"
+    },
+    {
+      "combination": true,
+      "labeler": "Golden State Medical Supply, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "87ed3420-1697-6f42-e053-2995a90a1a5b"
+    },
+    {
+      "combination": true,
+      "labeler": "Breckenridge Pharmaceutical, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d74db417-d2de-495b-bb75-46a83745603d"
+    },
+    {
+      "combination": true,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ea5b9ffe-3cda-405e-8f75-3fd4a64c9a35"
+    },
+    {
+      "combination": true,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "52321fe5-c001-4e2d-8149-3197ddc13764"
+    },
+    {
+      "combination": true,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c018be7d-f7b8-45e2-97b8-8e7a71740657"
+    },
+    {
+      "combination": true,
+      "labeler": "El Dorado Distributors LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4e4a9925-67aa-4be7-8bb7-c8b058ffe223"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c5cc2e88-aa00-46bd-91dc-901c3a7c899c"
+    },
+    {
+      "combination": true,
+      "labeler": "Cranbury Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d8fe4ae4-bd19-42eb-b74d-f302b3f914ee"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e23d135c-7aea-405a-804e-5c4f82179e96"
+    },
+    {
+      "combination": true,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "42777191-0454-4ccb-8fc3-8b18b0ee43f7"
+    },
+    {
+      "combination": true,
+      "labeler": "XLCare Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7f3c6dd7-6bc8-450e-aded-997f9cf63a8f"
+    },
+    {
+      "combination": true,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ed6af366-753c-4f3b-a6a2-c9a183c50035"
+    },
+    {
+      "combination": true,
+      "labeler": "Westminster Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1c0511d0-fe63-45c6-8da2-6ceeb56edb17"
+    },
+    {
+      "combination": true,
+      "labeler": "FH2 Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "88d97caf-bcf5-3cde-e053-2995a90acf4a"
+    },
+    {
+      "combination": true,
+      "labeler": "Forte Bio-Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9cbbfa94-37b9-9652-e053-2995a90a736b"
+    },
+    {
+      "combination": true,
+      "labeler": "XLCare Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "73dea6de-20cb-4cef-b987-3ab2c64e5edb"
+    },
+    {
+      "combination": true,
+      "labeler": "Forte Bio-Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9d75ad3b-bc9b-0c22-e053-2a95a90ac71e"
+    },
+    {
+      "combination": true,
+      "labeler": "Cranbury Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "93b6dfdf-ba6e-4ea6-ab85-5ac121e33101"
+    },
+    {
+      "combination": true,
+      "labeler": "Genus Lifesciences Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "95a5d638-3072-4c37-a4cd-f8550328e2c6"
+    },
+    {
+      "combination": true,
+      "labeler": "Genus Lifesciences Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a9fb9779-76a5-407a-a155-84f198004ae2"
+    },
+    {
+      "combination": true,
+      "labeler": "SOLCO HEALTHCARE US, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5c9c3407-212a-4ae9-a574-2b0c53f3c5eb"
+    },
+    {
+      "combination": true,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4d5bfd3a-3793-4d24-aedd-c04fa34ea736"
+    },
+    {
+      "combination": true,
+      "labeler": "Amici Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3280501f-928a-4112-803d-fb9771c86547"
+    },
+    {
+      "combination": true,
+      "labeler": "Amici Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fb12459c-82f8-43d2-8c05-a4b6d4a3e948"
+    }
+  ]
+}

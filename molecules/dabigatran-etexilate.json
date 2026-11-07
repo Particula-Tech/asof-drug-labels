@@ -1,0 +1,484 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand Pradaxa",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000829",
+      "eu_number": "EU/1/08/442",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000829",
+      "mah": "Boehringer Ingelheim International GmbH",
+      "marketing_authorisation_date": "2008-03-17",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/pradaxa",
+      "name": "Pradaxa",
+      "record_from": "2008-03-18",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 38
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/005639",
+      "eu_number": "EU/1/22/1665",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-005639",
+      "mah": "Accord Healthcare S.L.U.",
+      "marketing_authorisation_date": "2023-05-26",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/dabigatran-etexilate-accord",
+      "name": "Dabigatran Etexilate Accord",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/005922",
+      "eu_number": "EU/1/23/1769",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-005922",
+      "mah": "Teva GmbH",
+      "marketing_authorisation_date": "2024-02-19",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/dabigatran-etexilate-teva",
+      "name": "Dabigatran etexilate Teva (previously Dabigatran etexilate Leon Farma)",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000829",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "DABIGATRAN ETEXILATE MESYLATE"
+  ],
+  "inn": "dabigatran-etexilate",
+  "name": "DABIGATRAN ETEXILATE",
+  "rank": 413,
+  "rxcui": [
+    "1037045",
+    "1037049",
+    "1037179",
+    "1037181",
+    "1723476",
+    "1723478",
+    "2590616",
+    "2590619",
+    "2590620",
+    "2590621",
+    "2590623",
+    "2590625",
+    "2590627",
+    "2590629",
+    "2590631",
+    "2590633",
+    "2590635",
+    "2590637"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 15,
+    "approval_holders": 14,
+    "earliest_marketing_start": "2011-08-08",
+    "latest_label_update": "2026-08-05",
+    "nda_bla_applications": 2,
+    "repackagers": 3
+  },
+  "unii": [
+    {
+      "ingredient": "DABIGATRAN ETEXILATE MESYLATE",
+      "unii": "SC7NUW5IIT"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA022512"
+      ],
+      "brand_names": [
+        "Pradaxa"
+      ],
+      "combination": false,
+      "home_inn": "dabigatran-etexilate",
+      "ingredients": [
+        "DABIGATRAN ETEXILATE MESYLATE"
+      ],
+      "labeler": "Boehringer Ingelheim Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2011-08-08",
+      "moieties": [
+        "DABIGATRAN ETEXILATE"
+      ],
+      "product_ndcs": [
+        "0597-0108",
+        "0597-0355",
+        "0597-0360"
+      ],
+      "rxcui": [
+        "1037045",
+        "1037049",
+        "1037179",
+        "1037181",
+        "1723476",
+        "1723478"
+      ],
+      "setid": "ba74e3cd-b06f-4145-b284-5fd6b84ff3c9",
+      "source": "openfda",
+      "spl_version": 48,
+      "title": "PRADAXA (DABIGATRAN ETEXILATE MESYLATE) CAPSULE [BOEHRINGER INGELHEIM PHARMACEUTICALS INC.]",
+      "upload_date": "2025-06-30"
+    },
+    {
+      "application_numbers": [
+        "NDA214358"
+      ],
+      "brand_names": [
+        "Pradaxa"
+      ],
+      "combination": false,
+      "home_inn": "dabigatran-etexilate",
+      "ingredients": [
+        "DABIGATRAN ETEXILATE MESYLATE"
+      ],
+      "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-03-16",
+      "moieties": [
+        "DABIGATRAN ETEXILATE"
+      ],
+      "product_ndcs": [
+        "0597-0425",
+        "0597-0430",
+        "0597-0435",
+        "0597-0440",
+        "0597-0445",
+        "0597-0450"
+      ],
+      "rxcui": [
+        "2590616",
+        "2590619",
+        "2590620",
+        "2590621",
+        "2590623",
+        "2590625",
+        "2590627",
+        "2590629",
+        "2590631",
+        "2590633",
+        "2590635",
+        "2590637"
+      ],
+      "setid": "9ac0a64a-8666-45f7-9d4f-40fd894f7e6d",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "PRADAXA (DABIGATRAN ETEXILATE) PELLET [BOEHRINGER INGELHEIM PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-07-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA207961"
+      ],
+      "brand_names": [
+        "Dabigatran Etexilate"
+      ],
+      "combination": false,
+      "home_inn": "dabigatran-etexilate",
+      "ingredients": [
+        "DABIGATRAN ETEXILATE MESYLATE"
+      ],
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-05-06",
+      "moieties": [
+        "DABIGATRAN ETEXILATE"
+      ],
+      "product_ndcs": [
+        "31722-621",
+        "31722-622",
+        "31722-666"
+      ],
+      "rxcui": [
+        "1037045",
+        "1037179",
+        "1723476"
+      ],
+      "setid": "3c24e235-218b-438e-9456-42c18ff01913",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "DABIGATRAN ETEXILATE (DABIGATRAN ETEXILATE) CAPSULE [CAMBER PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-08-01"
+    },
+    {
+      "application_numbers": [
+        "ANDA208040"
+      ],
+      "brand_names": [
+        "Dabigatran Etexilate"
+      ],
+      "combination": false,
+      "home_inn": "dabigatran-etexilate",
+      "ingredients": [
+        "DABIGATRAN ETEXILATE MESYLATE"
+      ],
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-06-20",
+      "moieties": [
+        "DABIGATRAN ETEXILATE"
+      ],
+      "product_ndcs": [
+        "67877-474",
+        "67877-475",
+        "67877-624"
+      ],
+      "rxcui": [
+        "1037045",
+        "1037179",
+        "1723476"
+      ],
+      "setid": "3a8ec82a-c367-40dc-9302-e1896fcb05ea",
+      "source": "openfda",
+      "spl_version": 27,
+      "title": "DABIGATRAN ETEXILATE CAPSULE, COATED PELLETS [ASCEND LABORATORIES, LLC]",
+      "upload_date": "2026-08-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA208070"
+      ],
+      "brand_names": [
+        "dabigatran etexilate"
+      ],
+      "combination": false,
+      "home_inn": "dabigatran-etexilate",
+      "ingredients": [
+        "DABIGATRAN ETEXILATE MESYLATE"
+      ],
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-02-13",
+      "moieties": [
+        "DABIGATRAN ETEXILATE"
+      ],
+      "product_ndcs": [
+        "60505-4347",
+        "60505-4348",
+        "60505-4349"
+      ],
+      "rxcui": [
+        "1037045",
+        "1037179",
+        "1723476"
+      ],
+      "setid": "dd47a015-ff90-d7a7-8dcb-4e6e31a68071",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "DABIGATRAN ETEXILATE CAPSULE [APOTEX CORP.]",
+      "upload_date": "2026-07-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA213879"
+      ],
+      "brand_names": [
+        "DABIGATRAN"
+      ],
+      "combination": false,
+      "home_inn": "dabigatran-etexilate",
+      "ingredients": [
+        "DABIGATRAN ETEXILATE MESYLATE"
+      ],
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-05-22",
+      "moieties": [
+        "DABIGATRAN ETEXILATE"
+      ],
+      "product_ndcs": [
+        "72205-202",
+        "72205-203",
+        "72205-204"
+      ],
+      "rxcui": [
+        "1037045",
+        "1037179",
+        "1723476"
+      ],
+      "setid": "6f79088b-b353-485a-9df4-6f5088f5bd0f",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "DABIGATRAN (DABIGATRAN ETEXILATE) CAPSULE [NOVADOZ PHARMACEUTICALS LLC]",
+      "upload_date": "2026-02-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA215233"
+      ],
+      "brand_names": [
+        "Dabigatran Etexilate"
+      ],
+      "combination": false,
+      "home_inn": "dabigatran-etexilate",
+      "ingredients": [
+        "DABIGATRAN ETEXILATE MESYLATE"
+      ],
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-06-14",
+      "moieties": [
+        "DABIGATRAN ETEXILATE"
+      ],
+      "product_ndcs": [
+        "46708-634",
+        "46708-635",
+        "46708-636"
+      ],
+      "rxcui": [
+        "1037045",
+        "1037179",
+        "1723476"
+      ],
+      "setid": "13649035-a498-4e31-a7ea-8b18cedceca7",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "DABIGATRAN ETEXILATE CAPSULE [ALEMBIC PHARMACEUTICALS LIMITED]",
+      "upload_date": "2025-11-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA208067"
+      ],
+      "brand_names": [
+        "Dabigatran Etexilate"
+      ],
+      "combination": false,
+      "home_inn": "dabigatran-etexilate",
+      "ingredients": [
+        "DABIGATRAN ETEXILATE MESYLATE"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-02-25",
+      "moieties": [
+        "DABIGATRAN ETEXILATE"
+      ],
+      "product_ndcs": [
+        "0378-0265",
+        "0378-0266"
+      ],
+      "rxcui": [
+        "1037045",
+        "1037179"
+      ],
+      "setid": "baafb5be-ffe6-4755-a7ab-817b3c9b222d",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "DABIGATRAN ETEXILATE CAPSULE [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2025-09-22"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Dr.Reddys Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a608e019-db9a-d6fb-cd0d-cecc1351a2b1"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5b196b1f-408e-4615-b980-9f822adff835"
+    },
+    {
+      "combination": false,
+      "labeler": "XLCare Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "19b3bfc1-4fcb-4eb9-a611-02c27c05c56e"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "834a3c5f-b723-4bcb-a560-dc305dd0d829"
+    },
+    {
+      "combination": false,
+      "labeler": "AvKARE",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "27e95caf-7938-ef8e-e063-6394a90a6a1a"
+    },
+    {
+      "combination": false,
+      "labeler": "Major Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b76b79ce-b7dd-4390-b40e-71ae6c477d10"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d5937f27-88c7-4c4a-801e-4c8945008982"
+    }
+  ]
+}

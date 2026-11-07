@@ -1,0 +1,1507 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [
+      {
+        "ema_product_number": "EMEA/H/C/000770",
+        "kind": "variant",
+        "name": "Avamys"
+      }
+    ],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "FLUTICASONE FUROATE",
+    "FLUTICASONE PROPIONATE"
+  ],
+  "inn": "fluticasone",
+  "name": "FLUTICASONE",
+  "rank": 48,
+  "rxcui": [
+    "895487",
+    "895987",
+    "895994",
+    "895999",
+    "896004",
+    "896018",
+    "896021",
+    "896025",
+    "896161",
+    "896165",
+    "896184",
+    "896185",
+    "896186",
+    "896190",
+    "896209",
+    "896212",
+    "896218",
+    "896222",
+    "896228",
+    "896229",
+    "896231",
+    "896235",
+    "896236",
+    "896237",
+    "896239",
+    "896243",
+    "896244",
+    "896245",
+    "896267",
+    "896271",
+    "896272",
+    "896273",
+    "1424889",
+    "1424899",
+    "1539891",
+    "1539893",
+    "1547658",
+    "1547660",
+    "1547663",
+    "1547664",
+    "1547666",
+    "1547668",
+    "1547671",
+    "1547672",
+    "1648783",
+    "1648785",
+    "1648788",
+    "1648789",
+    "1797847",
+    "1797849",
+    "1797907",
+    "1918194",
+    "1918199",
+    "1918203",
+    "1918205",
+    "1918209",
+    "1918211",
+    "1945039",
+    "1945044",
+    "1945047",
+    "1945048",
+    "1946583",
+    "1946589",
+    "2045377",
+    "2045382",
+    "2395769",
+    "2395771",
+    "2395774",
+    "2395775",
+    "2637473",
+    "2637476"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 41,
+    "approval_holders": 21,
+    "earliest_marketing_start": "2001-02-05",
+    "latest_label_update": "2026-10-26",
+    "nda_bla_applications": 8,
+    "repackagers": 10
+  },
+  "unii": [
+    {
+      "ingredient": "FLUTICASONE FUROATE",
+      "unii": "JS86977WNV"
+    },
+    {
+      "ingredient": "FLUTICASONE PROPIONATE",
+      "unii": "O2GMZ0LF5W"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA205625"
+      ],
+      "brand_names": [
+        "Arnuity Ellipta"
+      ],
+      "combination": false,
+      "home_inn": "fluticasone",
+      "ingredients": [
+        "FLUTICASONE FUROATE"
+      ],
+      "labeler": "GlaxoSmithKline LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2014-08-20",
+      "moieties": [
+        "FLUTICASONE"
+      ],
+      "product_ndcs": [
+        "0173-0874",
+        "0173-0876",
+        "0173-0888"
+      ],
+      "rxcui": [
+        "1547658",
+        "1547660",
+        "1547663",
+        "1547664",
+        "1547666",
+        "1547668",
+        "1547671",
+        "1547672",
+        "2045377",
+        "2045382"
+      ],
+      "setid": "50f193ee-1691-486d-9370-a664df63695c",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "ARNUITY ELLIPTA (FLUTICASONE FUROATE) POWDER [GLAXOSMITHKLINE LLC]",
+      "upload_date": "2026-08-06"
+    },
+    {
+      "application_numbers": [
+        "NDA209022"
+      ],
+      "brand_names": [
+        "XHANCE"
+      ],
+      "combination": false,
+      "home_inn": "fluticasone",
+      "ingredients": [
+        "FLUTICASONE PROPIONATE"
+      ],
+      "labeler": "OptiNose US, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-10-03",
+      "moieties": [
+        "FLUTICASONE"
+      ],
+      "product_ndcs": [
+        "71143-375"
+      ],
+      "rxcui": [
+        "1946583",
+        "1946589"
+      ],
+      "setid": "c79bbb9f-e483-4093-8c92-ea978e7bf278",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "XHANCE (FLUTICASONE PROPIONATE) SPRAY, METERED [OPTINOSE US, INC.]",
+      "upload_date": "2026-01-14"
+    },
+    {
+      "application_numbers": [
+        "NDA021077"
+      ],
+      "brand_names": [
+        "ADVAIR DISKUS"
+      ],
+      "combination": true,
+      "home_inn": "fluticasone",
+      "ingredients": [
+        "FLUTICASONE PROPIONATE",
+        "SALMETEROL XINAFOATE"
+      ],
+      "labeler": "GlaxoSmithKline LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2001-02-05",
+      "moieties": [
+        "FLUTICASONE",
+        "SALMETEROL"
+      ],
+      "product_ndcs": [
+        "0173-0695",
+        "0173-0696",
+        "0173-0697"
+      ],
+      "rxcui": [
+        "896161",
+        "896165",
+        "896184",
+        "896185",
+        "896186",
+        "896190",
+        "896209",
+        "896212",
+        "896218",
+        "896222",
+        "896228",
+        "896229"
+      ],
+      "setid": "4eeb5f6a-593f-4a9e-9692-adefa2caf8fc",
+      "source": "openfda",
+      "spl_version": 32,
+      "title": "ADVAIR DISKUS (FLUTICASONE PROPIONATE AND SALMETEROL) POWDER [GLAXOSMITHKLINE LLC]",
+      "upload_date": "2026-03-30"
+    },
+    {
+      "application_numbers": [
+        "NDA021254"
+      ],
+      "brand_names": [
+        "ADVAIR HFA"
+      ],
+      "combination": true,
+      "home_inn": "fluticasone",
+      "ingredients": [
+        "FLUTICASONE PROPIONATE",
+        "SALMETEROL XINAFOATE"
+      ],
+      "labeler": "GlaxoSmithKline LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2008-09-29",
+      "moieties": [
+        "FLUTICASONE",
+        "SALMETEROL"
+      ],
+      "product_ndcs": [
+        "0173-0715",
+        "0173-0716",
+        "0173-0717"
+      ],
+      "rxcui": [
+        "896231",
+        "896235",
+        "896236",
+        "896237",
+        "896239",
+        "896243",
+        "896244",
+        "896245",
+        "896267",
+        "896271",
+        "896272",
+        "896273"
+      ],
+      "setid": "dfaca6f9-3277-47b2-319d-1377917cb54c",
+      "source": "openfda",
+      "spl_version": 37,
+      "title": "ADVAIR HFA (FLUTICASONE PROPIONATE AND SALMETEROL XINAFOATE) AEROSOL, METERED [GLAXOSMITHKLINE LLC]",
+      "upload_date": "2026-05-20"
+    },
+    {
+      "application_numbers": [
+        "NDA204275"
+      ],
+      "brand_names": [
+        "Breo Ellipta"
+      ],
+      "combination": true,
+      "home_inn": "fluticasone",
+      "ingredients": [
+        "FLUTICASONE FUROATE",
+        "VILANTEROL TRIFENATATE"
+      ],
+      "labeler": "GlaxoSmithKline LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2013-08-26",
+      "moieties": [
+        "FLUTICASONE",
+        "VILANTEROL"
+      ],
+      "product_ndcs": [
+        "0173-0859",
+        "0173-0882",
+        "0173-0916"
+      ],
+      "rxcui": [
+        "1424889",
+        "1424899",
+        "1539891",
+        "1539893",
+        "1648783",
+        "1648785",
+        "1648788",
+        "1648789",
+        "2637473",
+        "2637476"
+      ],
+      "setid": "96428df1-ea05-431a-98d3-1ec2c4b63878",
+      "source": "openfda",
+      "spl_version": 29,
+      "title": "BREO ELLIPTA (FLUTICASONE FUROATE AND VILANTEROL TRIFENATATE) POWDER [GLAXOSMITHKLINE LLC]",
+      "upload_date": "2026-06-08"
+    },
+    {
+      "application_numbers": [
+        "NDA202236"
+      ],
+      "brand_names": [
+        "DYMISTA"
+      ],
+      "combination": true,
+      "home_inn": "fluticasone",
+      "ingredients": [
+        "AZELASTINE HYDROCHLORIDE",
+        "FLUTICASONE PROPIONATE"
+      ],
+      "labeler": "Viatris Specialty LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2016-10-01",
+      "moieties": [
+        "AZELASTINE",
+        "FLUTICASONE"
+      ],
+      "product_ndcs": [
+        "0037-0245"
+      ],
+      "rxcui": [
+        "1797847",
+        "1797849"
+      ],
+      "setid": "4c557ec4-c4cf-11df-851a-0800200c9a66",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "DYMISTA (AZELASTINE HYDROCHLORIDE AND FLUTICASONE PROPIONATE) SPRAY, METERED [VIATRIS SPECIALTY LLC]",
+      "upload_date": "2025-08-25"
+    },
+    {
+      "application_numbers": [
+        "NDA208799"
+      ],
+      "brand_names": [
+        "AirDuo RespiClick"
+      ],
+      "combination": true,
+      "home_inn": "fluticasone",
+      "ingredients": [
+        "FLUTICASONE PROPIONATE",
+        "SALMETEROL XINAFOATE"
+      ],
+      "labeler": "Teva Respiratory, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-04-12",
+      "moieties": [
+        "FLUTICASONE",
+        "SALMETEROL"
+      ],
+      "product_ndcs": [
+        "59310-805",
+        "59310-812",
+        "59310-822"
+      ],
+      "rxcui": [
+        "1918194",
+        "1918199",
+        "1918203",
+        "1918205",
+        "1918209",
+        "1918211"
+      ],
+      "setid": "9c122b91-a11f-49ca-80bb-3eec5112db87",
+      "source": "dailymed-title-match",
+      "spl_version": 17,
+      "title": "AIRDUO RESPICLICK (FLUTICASONE PROPIONATE AND SALMETEROL) POWDER, METERED [TEVA RESPIRATORY, LLC]",
+      "upload_date": "2026-09-14"
+    },
+    {
+      "application_numbers": [
+        "NDA209482"
+      ],
+      "brand_names": [
+        "Trelegy Ellipta"
+      ],
+      "combination": true,
+      "home_inn": "fluticasone",
+      "ingredients": [
+        "FLUTICASONE FUROATE",
+        "UMECLIDINIUM BROMIDE",
+        "VILANTEROL TRIFENATATE"
+      ],
+      "labeler": "GlaxoSmithKline LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-09-18",
+      "moieties": [
+        "FLUTICASONE",
+        "UMECLIDINIUM",
+        "VILANTEROL"
+      ],
+      "product_ndcs": [
+        "0173-0887",
+        "0173-0893"
+      ],
+      "rxcui": [
+        "1945039",
+        "1945044",
+        "1945047",
+        "1945048",
+        "2395769",
+        "2395771",
+        "2395774",
+        "2395775"
+      ],
+      "setid": "b5a81d5a-4648-4c7a-951d-33c014a63c7e",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "TRELEGY ELLIPTA (FLUTICASONE FUROATE, UMECLIDINIUM BROMIDE AND VILANTEROL TRIFENATATE) POWDER [GLAXOSMITHKLINE LLC]",
+      "upload_date": "2026-09-02"
+    },
+    {
+      "application_numbers": [
+        "NDA209022"
+      ],
+      "brand_names": [
+        "XHANCE"
+      ],
+      "combination": false,
+      "home_inn": "fluticasone",
+      "ingredients": [
+        "FLUTICASONE PROPIONATE"
+      ],
+      "labeler": "Paratek Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2026-01-12",
+      "moieties": [
+        "FLUTICASONE"
+      ],
+      "product_ndcs": [
+        "71715-003"
+      ],
+      "rxcui": [
+        "1946583",
+        "1946589"
+      ],
+      "setid": "44fcea33-8cfa-3a5c-e063-6394a90aafb2",
+      "source": "dailymed-title-match",
+      "spl_version": 3,
+      "title": "XHANCE (FLUTICASONE PROPIONATE) SPRAY, METERED [PARATEK PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-10-26"
+    },
+    {
+      "application_numbers": [
+        "NDA021433"
+      ],
+      "brand_names": [
+        "Fluticasone Propionate HFA"
+      ],
+      "combination": false,
+      "home_inn": "fluticasone",
+      "ingredients": [
+        "FLUTICASONE PROPIONATE"
+      ],
+      "labeler": "Prasco Laboratories",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2022-05-23",
+      "moieties": [
+        "FLUTICASONE"
+      ],
+      "product_ndcs": [
+        "66993-078",
+        "66993-079",
+        "66993-080"
+      ],
+      "rxcui": [
+        "895994",
+        "895999",
+        "896004"
+      ],
+      "setid": "99249b31-bf0a-464f-8335-845279350dbe",
+      "source": "dailymed-title-match",
+      "spl_version": 6,
+      "title": "FLUTICASONE PROPIONATE HFA (FLUTICASONE PROPIONATE) AEROSOL, METERED [PRASCO LABORATORIES]",
+      "upload_date": "2026-10-06"
+    },
+    {
+      "application_numbers": [
+        "NDA020833"
+      ],
+      "brand_names": [
+        "FLUTICASONE PROPIONATE DISKUS"
+      ],
+      "combination": false,
+      "home_inn": "fluticasone",
+      "ingredients": [
+        "FLUTICASONE PROPIONATE"
+      ],
+      "labeler": "Prasco Laboratories",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2023-10-30",
+      "moieties": [
+        "FLUTICASONE"
+      ],
+      "product_ndcs": [
+        "66993-790",
+        "66993-791",
+        "66993-792"
+      ],
+      "rxcui": [
+        "896018",
+        "896021",
+        "896025"
+      ],
+      "setid": "44d009ba-d4b8-410f-b2bc-71ab2d05ac9e",
+      "source": "dailymed-title-match",
+      "spl_version": 5,
+      "title": "FLUTICASONE PROPIONATE DISKUS (FLUTICASONE PROPIONATE) POWDER, METERED [PRASCO LABORATORIES]",
+      "upload_date": "2026-10-06"
+    },
+    {
+      "application_numbers": [
+        "NDA205625"
+      ],
+      "brand_names": [
+        "Fluticasone Furoate Ellipta"
+      ],
+      "combination": false,
+      "home_inn": "fluticasone",
+      "ingredients": [
+        "FLUTICASONE FUROATE"
+      ],
+      "labeler": "Prasco Laboratories",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2025-07-21",
+      "moieties": [
+        "FLUTICASONE"
+      ],
+      "product_ndcs": [
+        "66993-166",
+        "66993-167",
+        "66993-168"
+      ],
+      "rxcui": [
+        "1547658",
+        "1547671",
+        "2045377"
+      ],
+      "setid": "d3e797fc-2636-49a0-b89e-5246b18ee440",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "FLUTICASONE FUROATE ELLIPTA (FLUTICASONE FUROATE) POWDER [PRASCO LABORATORIES]",
+      "upload_date": "2026-08-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA076504"
+      ],
+      "brand_names": [
+        "Fluticasone Propionate"
+      ],
+      "combination": false,
+      "home_inn": "fluticasone",
+      "ingredients": [
+        "FLUTICASONE PROPIONATE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2006-02-22",
+      "moieties": [
+        "FLUTICASONE"
+      ],
+      "product_ndcs": [
+        "0054-3270"
+      ],
+      "rxcui": [
+        "1797907"
+      ],
+      "setid": "0d9a521b-8314-437c-8c9f-f6188f1134fe",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "FLUTICASONE PROPIONATE SPRAY, METERED [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2026-07-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA077168"
+      ],
+      "brand_names": [
+        "Fluticasone Propionate"
+      ],
+      "combination": false,
+      "home_inn": "fluticasone",
+      "ingredients": [
+        "FLUTICASONE PROPIONATE"
+      ],
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2006-05-31",
+      "moieties": [
+        "FLUTICASONE"
+      ],
+      "product_ndcs": [
+        "0713-0632"
+      ],
+      "rxcui": [
+        "895487"
+      ],
+      "setid": "e7ef2aaf-749c-66c9-2bdf-7214ab00060e",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "FLUTICASONE PROPIONATE OINTMENT [COSETTE PHARMACEUTICALS, INC.]",
+      "upload_date": "2023-11-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA077055"
+      ],
+      "brand_names": [
+        "Fluticasone Propionate"
+      ],
+      "combination": false,
+      "home_inn": "fluticasone",
+      "ingredients": [
+        "FLUTICASONE PROPIONATE"
+      ],
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2006-06-30",
+      "moieties": [
+        "FLUTICASONE"
+      ],
+      "product_ndcs": [
+        "0713-0631"
+      ],
+      "rxcui": [
+        "895987"
+      ],
+      "setid": "14c8d082-b301-8f09-a509-950459ae0a28",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "FLUTICASONE PROPIONATE CREAM [COSETTE PHARMACEUTICALS, INC.]",
+      "upload_date": "2022-06-16"
+    },
+    {
+      "application_numbers": [
+        "NDA020833"
+      ],
+      "archived_versions": 32,
+      "brand_names": [
+        "FLOVENT"
+      ],
+      "first_posted": "2007-12-12",
+      "found_by": "FLOVENT",
+      "labeler": "GlaxoSmithKline LLC",
+      "labeler_unverified": false,
+      "last_posted": "2024-09-16",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-02-28",
+        "2025-04-30",
+        "2025-08-31"
+      ],
+      "product_ndcs": [
+        "0173-0600",
+        "0173-0601",
+        "0173-0602"
+      ],
+      "rxcui": [],
+      "setid": "001f22f8-a83d-495f-9196-d0264ef4d76e",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "44d009ba-d4b8-410f-b2bc-71ab2d05ac9e"
+      ],
+      "title": "FLOVENT DISKUS (fluticasone propionate) powder, metered"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "ADVAIR"
+      ],
+      "first_posted": "2008-06-17",
+      "found_by": "ADVAIR",
+      "labeler": "GlaxoSmithKline",
+      "labeler_unverified": false,
+      "last_posted": "2008-06-17",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0173-0695",
+        "0173-0696",
+        "0173-0697"
+      ],
+      "rxcui": [],
+      "setid": "13f62927-772d-49a7-a7b0-240932b99628",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "advair diskus (fluticasone propionate and salmeterol xinafoate) powder for respiratory (inhalation) use"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "ADVAIR"
+      ],
+      "first_posted": "2018-03-13",
+      "found_by": "ADVAIR",
+      "labeler": "Glaxo Wellcome Production",
+      "labeler_unverified": true,
+      "last_posted": "2018-03-13",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "60937-005",
+        "60937-006",
+        "60937-007"
+      ],
+      "rxcui": [],
+      "setid": "1ae9d924-e047-40ac-97e4-595a427b547f",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ADVAIR DISKUS (fluticasone propionate and salmeterol) powder"
+    },
+    {
+      "application_numbers": [
+        "NDA019958"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "CUTIVATE"
+      ],
+      "first_posted": "2008-05-22",
+      "found_by": "CUTIVATE",
+      "labeler": "PharmaDerm, A division of Fougera Pharmaceuticals Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2013-10-18",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-05-31"
+      ],
+      "product_ndcs": [
+        "0462-0332"
+      ],
+      "rxcui": [],
+      "setid": "3b5de5ca-a947-4815-8968-e09fc985e83c",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "CUTIVATE (fluticasone propionate) cream"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "FLOVENT"
+      ],
+      "first_posted": "2018-03-12",
+      "found_by": "FLOVENT",
+      "labeler": "Glaxo Operations UK Ltd",
+      "labeler_unverified": true,
+      "last_posted": "2018-03-12",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "63379-046",
+        "63379-047",
+        "63379-048"
+      ],
+      "rxcui": [],
+      "setid": "3df8a004-8f13-4dc1-9925-fb11f86b44d3",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "FLOVENT DISKUS (fluticasone propionate) powder, metered"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "FLOVENT"
+      ],
+      "first_posted": "2006-09-01",
+      "found_by": "FLOVENT",
+      "labeler": "GlaxoSmithKline",
+      "labeler_unverified": false,
+      "last_posted": "2006-09-01",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0173-0491",
+        "0173-0494",
+        "0173-0495",
+        "0173-0497",
+        "0173-0498",
+        "0173-0499"
+      ],
+      "rxcui": [],
+      "setid": "3e4e12c4-4f0d-4cff-3c91-a7827119cb0e",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "flovent (fluticasone propionate) aerosol, metered"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "FLONASE"
+      ],
+      "first_posted": "2018-01-19",
+      "found_by": "FLONASE",
+      "labeler": "GlaxoSmithKline Inc",
+      "labeler_unverified": true,
+      "last_posted": "2018-01-19",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "53873-038"
+      ],
+      "rxcui": [],
+      "setid": "5093fd0b-850c-4452-95aa-0abf4459ca96",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "FLONASE (fluticasone propionate) spray, metered"
+    },
+    {
+      "application_numbers": [
+        "NDA208798"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "ARMONAIR"
+      ],
+      "first_posted": "2020-09-15",
+      "found_by": "ARMONAIR",
+      "labeler": "Teva Respiratory, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2024-05-15",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-09-30",
+        "2025-09-30",
+        "2026-01-31"
+      ],
+      "product_ndcs": [
+        "59310-114",
+        "59310-200",
+        "59310-311",
+        "59310-505",
+        "59310-515",
+        "59310-525"
+      ],
+      "rxcui": [],
+      "setid": "5cea205f-e6d4-45e8-bfcc-a12a6907d5bb",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ARMONAIR DIGIHALER (fluticasone propionate) powder, metered ARMONAIR DIGIHALER (fluticasone propionate) powder, metered"
+    },
+    {
+      "application_numbers": [
+        "NDA019958"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "CUTIVATE"
+      ],
+      "first_posted": "2012-06-21",
+      "found_by": "CUTIVATE",
+      "labeler": "PharmaDerm a division of Fougera Pharmaceuticals Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2024-05-31",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2014-05-31"
+      ],
+      "product_ndcs": [
+        "10337-332"
+      ],
+      "rxcui": [],
+      "setid": "657aee47-558f-4634-a566-fc81dab2fabc",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "CUTIVATE (fluticasone propionate) cream"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "ADVAIR"
+      ],
+      "first_posted": "2018-01-05",
+      "found_by": "ADVAIR",
+      "labeler": "Glaxo Operations UK Ltd",
+      "labeler_unverified": true,
+      "last_posted": "2018-01-05",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "63379-043",
+        "63379-044",
+        "63379-045"
+      ],
+      "rxcui": [],
+      "setid": "71924fb6-0a78-473f-b38b-9b2c7aed646f",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ADVAIR DISKUS (fluticasone propionate and salmeterol) powder"
+    },
+    {
+      "application_numbers": [
+        "NDA208798"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "ARMONAIR"
+      ],
+      "first_posted": "2017-08-07",
+      "found_by": "ARMONAIR",
+      "labeler": "Teva Respiratory, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2022-09-28",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-03-31",
+        "2019-09-30"
+      ],
+      "product_ndcs": [
+        "59310-705",
+        "59310-711",
+        "59310-722"
+      ],
+      "rxcui": [],
+      "setid": "79683f45-df59-4351-bf90-6b4631973b1b",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ARMONAIR RESPICLICK (fluticasone propionate) powder, metered"
+    },
+    {
+      "application_numbers": [
+        "NDA019957"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "CUTIVATE"
+      ],
+      "first_posted": "2007-09-06",
+      "found_by": "CUTIVATE",
+      "labeler": "PharmaDerm a division of Fougera Pharmaceuticals Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2013-10-30",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2011-09-30"
+      ],
+      "product_ndcs": [
+        "0462-0333"
+      ],
+      "rxcui": [],
+      "setid": "8664a829-6b81-4249-8252-3d20f93097dc",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "CUTIVATE (fluticasone propionate) ointment"
+    },
+    {
+      "application_numbers": [
+        "NDA021152"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "CUTIVATE"
+      ],
+      "first_posted": "2008-05-07",
+      "found_by": "CUTIVATE",
+      "labeler": "PharmaDerm a division of Fougera Pharmaceuticals Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2019-03-26",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-11-30"
+      ],
+      "product_ndcs": [
+        "0462-0434"
+      ],
+      "rxcui": [],
+      "setid": "9953df12-a2b4-4d22-b204-746fc29f7a5f",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "CUTIVATE (fluticasone propionate) lotion"
+    },
+    {
+      "application_numbers": [
+        "NDA208799"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "AIRDUO"
+      ],
+      "first_posted": "2020-09-15",
+      "found_by": "AIRDUO",
+      "labeler": "Teva Respiratory, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2024-04-30",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-08-31",
+        "2025-07-31"
+      ],
+      "product_ndcs": [
+        "59310-111",
+        "59310-129",
+        "59310-136",
+        "59310-510",
+        "59310-520",
+        "59310-530"
+      ],
+      "rxcui": [],
+      "setid": "ac79cc13-4241-427c-a69b-6b00dafcef00",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "9c122b91-a11f-49ca-80bb-3eec5112db87"
+      ],
+      "title": "AIRDUO DIGIHALER (fluticasone propionate and salmeterol) powder, metered"
+    },
+    {
+      "application_numbers": [
+        "NDA021433"
+      ],
+      "archived_versions": 30,
+      "brand_names": [
+        "FLOVENT"
+      ],
+      "first_posted": "2008-08-07",
+      "found_by": "FLOVENT",
+      "labeler": "GlaxoSmithKline LLC",
+      "labeler_unverified": false,
+      "last_posted": "2024-09-16",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-06-30",
+        "2025-07-31"
+      ],
+      "product_ndcs": [
+        "0173-0718",
+        "0173-0719",
+        "0173-0720"
+      ],
+      "rxcui": [],
+      "setid": "b49ed7c1-123e-4b1d-fea6-0c6839fd9d6a",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "99249b31-bf0a-464f-8335-845279350dbe"
+      ],
+      "title": "FLOVENT HFA (fluticasone propionate) aerosol, metered"
+    },
+    {
+      "application_numbers": [
+        "NDA019957"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "CUTIVATE"
+      ],
+      "first_posted": "2015-03-04",
+      "found_by": "CUTIVATE",
+      "labeler": "PharmaDerm a division of Fougera Pharmaceuticals Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2021-04-01",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2012-09-28"
+      ],
+      "product_ndcs": [
+        "10337-333"
+      ],
+      "rxcui": [],
+      "setid": "c0c8cd3b-e44b-4639-8f5a-65c447d50178",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "CUTIVATE (fluticasone propionate) ointment"
+    },
+    {
+      "application_numbers": [
+        "NDA021152"
+      ],
+      "archived_versions": 10,
+      "brand_names": [
+        "CUTIVATE"
+      ],
+      "first_posted": "2012-04-23",
+      "found_by": "CUTIVATE",
+      "labeler": "PharmaDerm a division of Fougera Pharmaceuticals Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2022-04-27",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-08-31"
+      ],
+      "product_ndcs": [
+        "10337-434"
+      ],
+      "rxcui": [],
+      "setid": "cc79e200-ce69-4ffd-be5b-8c1a6bb88c5c",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "CUTIVATE (fluticasone propionate) lotion"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "BREO"
+      ],
+      "first_posted": "2018-01-08",
+      "found_by": "BREO",
+      "labeler": "Glaxo Operations UK Ltd",
+      "labeler_unverified": true,
+      "last_posted": "2018-01-08",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "63379-017",
+        "63379-059"
+      ],
+      "rxcui": [],
+      "setid": "cc892e77-1203-4a1d-8a9d-46b816e4e583",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "BREO ELLIPTA (fluticasone furoate and vilanterol trifenatate) powder"
+    },
+    {
+      "application_numbers": [
+        "NDA020121"
+      ],
+      "archived_versions": 9,
+      "brand_names": [
+        "FLONASE"
+      ],
+      "first_posted": "2008-02-08",
+      "found_by": "FLONASE",
+      "labeler": "GlaxoSmithKline LLC",
+      "labeler_unverified": false,
+      "last_posted": "2015-02-02",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2016-02-28"
+      ],
+      "product_ndcs": [
+        "0173-0453"
+      ],
+      "rxcui": [],
+      "setid": "d4a424f4-5661-41da-31ae-304d79fd16ad",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "FLONASE (fluticasone propionate) spray, metered"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "ADVAIR"
+      ],
+      "first_posted": "2018-01-05",
+      "found_by": "ADVAIR",
+      "labeler": "GlaxoSmithKline LLC",
+      "labeler_unverified": true,
+      "last_posted": "2018-01-05",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "58437-000",
+        "58437-001",
+        "58437-002"
+      ],
+      "rxcui": [],
+      "setid": "f78710a4-4213-47db-b608-ffe759c447b2",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ADVAIR DISKUS (fluticasone propionate and salmeterol) powder"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "78e056e2-d39e-4d20-9ab2-332bd6973619"
+    },
+    {
+      "combination": false,
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "16985600-3f81-4d51-8bf7-0cbbd89856a1"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1252da79-70c1-c46e-e92b-a4edba76b178"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "71a2609f-c4b9-49b0-8185-83c20c22e1d6"
+    },
+    {
+      "combination": false,
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c4d361d4-d480-4fb2-8cc7-4cc3e57838dc"
+    },
+    {
+      "combination": false,
+      "labeler": "Advagen Pharma Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2c1c465c-d008-470e-aa48-8b44bd60751c"
+    },
+    {
+      "combination": false,
+      "labeler": "Encube Ethicals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b734d397-e064-4d13-b0b5-fc89bd87f2e3"
+    },
+    {
+      "combination": false,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "27a9b531-f0fd-44ee-b197-ac4b7d64b30c"
+    },
+    {
+      "combination": false,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bc08915f-fa3a-4509-a01c-42b577f39b99"
+    },
+    {
+      "combination": true,
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "43a27267-2f2b-410d-9c30-9cb95f35d9a1"
+    },
+    {
+      "combination": true,
+      "labeler": "Prasco Laboratories",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6eb6ddac-fa26-43b3-bf3e-5b7b58138fdc"
+    },
+    {
+      "combination": true,
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7b5cc5a0-0d47-46b5-b5fb-eb9cc248ae9e"
+    },
+    {
+      "combination": true,
+      "labeler": "Prasco Laboratories",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3a761487-c300-451a-8537-3196c00c11b5"
+    },
+    {
+      "combination": true,
+      "labeler": "Prasco Laboratories",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "666c5b12-a4f7-4c53-8261-4742b5e5a6df"
+    },
+    {
+      "combination": true,
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3beef422-8a07-4a45-9ba6-414511e4b7e2"
+    },
+    {
+      "combination": true,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7bbc6514-bea3-0be0-e673-a8f6069025ff"
+    },
+    {
+      "combination": true,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f9fcfc90-3677-4a9b-900e-44417d50d507"
+    },
+    {
+      "combination": true,
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "625ffdd0-8486-49af-8e77-6aa663be5ac7"
+    },
+    {
+      "combination": true,
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9c1680db-16e9-4658-977b-110631f95a65"
+    },
+    {
+      "combination": true,
+      "labeler": "Teva Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0d45e7a4-900f-44ef-bb18-a1fbff75a3c6"
+    },
+    {
+      "combination": true,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1349a04c-2024-42b9-b81d-a7d995716ade"
+    },
+    {
+      "combination": false,
+      "labeler": "Golden State Medical Supply, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "534d78c5-4ba0-4ab1-e063-6294a90a8ff7"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3830675d-b45e-fc97-1f73-674b1fc38c80"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e3c861e3-2507-9758-fcd0-8e82d721b5b4"
+    },
+    {
+      "combination": false,
+      "labeler": "IPG Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f1965bd9-1851-4be5-bbe0-71dd59e034d5"
+    },
+    {
+      "combination": true,
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA",
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ce347bf4-4cc1-46dc-b5f1-6f8ff48da84b"
+    }
+  ]
+}

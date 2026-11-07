@@ -1,0 +1,600 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "PROMETHAZINE HYDROCHLORIDE"
+  ],
+  "inn": "promethazine",
+  "name": "PROMETHAZINE",
+  "rank": 255,
+  "rxcui": [
+    "992432",
+    "992438",
+    "992441",
+    "992445",
+    "992447",
+    "992454",
+    "992459",
+    "992460",
+    "992475",
+    "992478",
+    "992481",
+    "992858"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 40,
+    "approval_holders": 21,
+    "earliest_marketing_start": "1973-09-19",
+    "latest_label_update": "2026-10-08",
+    "nda_bla_applications": 0,
+    "repackagers": 26
+  },
+  "unii": [
+    {
+      "ingredient": "PROMETHAZINE HYDROCHLORIDE",
+      "unii": "R61ZEH7I1I"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "ANDA083312"
+      ],
+      "brand_names": [
+        "Promethazine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "promethazine",
+      "ingredients": [
+        "PROMETHAZINE HYDROCHLORIDE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1973-09-19",
+      "moieties": [
+        "PROMETHAZINE"
+      ],
+      "product_ndcs": [
+        "0641-1495",
+        "0641-1496"
+      ],
+      "rxcui": [
+        "992460",
+        "992858"
+      ],
+      "setid": "13d9e59d-eadb-41d5-9f47-9c11a6efb31c",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "PROMETHAZINE HYDROCHLORIDE INJECTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2025-07-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA083426",
+        "ANDA083711"
+      ],
+      "brand_names": [
+        "Promethazine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "promethazine",
+      "ingredients": [
+        "PROMETHAZINE HYDROCHLORIDE"
+      ],
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1973-09-19",
+      "moieties": [
+        "PROMETHAZINE"
+      ],
+      "product_ndcs": [
+        "0591-5307",
+        "0591-5319"
+      ],
+      "rxcui": [
+        "992447",
+        "992475"
+      ],
+      "setid": "a32255f0-0077-489e-bdc6-869aca8cd434",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "PROMETHAZINE HYDROCHLORIDE TABLET [ACTAVIS PHARMA, INC.]",
+      "upload_date": "2024-02-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA087165"
+      ],
+      "brand_names": [
+        "PROMETHEGAN"
+      ],
+      "combination": false,
+      "home_inn": "promethazine",
+      "ingredients": [
+        "PROMETHAZINE HYDROCHLORIDE"
+      ],
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1987-08-31",
+      "moieties": [
+        "PROMETHAZINE"
+      ],
+      "product_ndcs": [
+        "0713-0132"
+      ],
+      "rxcui": [
+        "992478",
+        "992481"
+      ],
+      "setid": "636bb9bc-0cc5-4d6a-85be-6471acf01ffc",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "PROMETHEGAN (PROMETHAZINE HYDROCHLORIDE) SUPPOSITORY [COSETTE PHARMACEUTICALS, INC.]",
+      "upload_date": "2023-12-01"
+    },
+    {
+      "application_numbers": [
+        "ANDA040026"
+      ],
+      "brand_names": [
+        "PROMETHAZINE HYDROCHLORIDE"
+      ],
+      "combination": false,
+      "home_inn": "promethazine",
+      "ingredients": [
+        "PROMETHAZINE HYDROCHLORIDE"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1998-09-25",
+      "moieties": [
+        "PROMETHAZINE"
+      ],
+      "product_ndcs": [
+        "62135-774"
+      ],
+      "rxcui": [
+        "992432"
+      ],
+      "setid": "2ca17cd4-460e-4d54-8c53-a58a2b80e5cb",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "PROMETHAZINE HYDROCHLORIDE SOLUTION [CHARTWELL RX, LLC]",
+      "upload_date": "2026-02-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA040428"
+      ],
+      "brand_names": [
+        "PROMETHEGAN"
+      ],
+      "combination": false,
+      "home_inn": "promethazine",
+      "ingredients": [
+        "PROMETHAZINE HYDROCHLORIDE"
+      ],
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2002-02-28",
+      "moieties": [
+        "PROMETHAZINE"
+      ],
+      "product_ndcs": [
+        "0713-0526",
+        "0713-0536"
+      ],
+      "rxcui": [
+        "992441",
+        "992445",
+        "992454",
+        "992459"
+      ],
+      "setid": "5f079815-f48b-8b21-2130-7f791d967c9a",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "PROMETHEGAN (PROMETHAZINE HYDROCHLORIDE) SUPPOSITORY PROMETHEGAN (PROMETHAZINE HYDROCHLORIDE) SUPPOSITORY [COSETTE PHARMACEUTICALS, INC.]",
+      "upload_date": "2023-12-01"
+    },
+    {
+      "application_numbers": [
+        "ANDA040596"
+      ],
+      "brand_names": [
+        "Promethazine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "promethazine",
+      "ingredients": [
+        "PROMETHAZINE HYDROCHLORIDE"
+      ],
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2005-12-14",
+      "moieties": [
+        "PROMETHAZINE"
+      ],
+      "product_ndcs": [
+        "65841-040",
+        "65841-041",
+        "65841-042"
+      ],
+      "rxcui": [
+        "992438",
+        "992447",
+        "992475"
+      ],
+      "setid": "4eaa8291-9cde-4205-857b-925ea8d618ba",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "PROMETHAZINE HYDROCHLORIDE TABLET [ZYDUS LIFESCIENCES LIMITED]",
+      "upload_date": "2024-12-09"
+    },
+    {
+      "application_numbers": [
+        "NDA007935"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "PHENERGAN"
+      ],
+      "first_posted": "2007-06-07",
+      "found_by": "PHENERGAN",
+      "labeler": "Wyeth Pharmaceuticals Company",
+      "labeler_unverified": false,
+      "last_posted": "2010-10-28",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2008-06-03",
+        "2008-06-30"
+      ],
+      "product_ndcs": [
+        "0008-0019",
+        "0008-0027",
+        "0008-0212",
+        "0008-0227",
+        "0008-0229",
+        "0008-0498"
+      ],
+      "rxcui": [],
+      "setid": "585d516f-9b65-484a-cebf-ec84d8dd780c",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "PHENERGAN (promethazine hydrochloride) tablet PHENERGAN (promethazine hydrochloride) suppository"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "047b9a7c-586b-4635-a63e-2c7ce9ec34e7"
+    },
+    {
+      "combination": false,
+      "labeler": "KVK-Tech, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7a137adf-39b7-4b14-80da-c3cac9ad562a"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "05907a49-537f-4bf2-8a5f-5e905f19fece"
+    },
+    {
+      "combination": false,
+      "labeler": "Cranbury Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d32ea9db-11d4-400d-b7ef-dd0ec01b796d"
+    },
+    {
+      "combination": false,
+      "labeler": "XGen Pharmaceuticals DJB, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1d02d52b-84bb-4e81-b352-125029eb39f6"
+    },
+    {
+      "combination": false,
+      "labeler": "QUAGEN PHARMACEUTICALS LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "32022e66-6f76-430a-8ad2-1e9e2872fee1"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ba7d9e82-9b13-4607-b2f9-25e575b8c73b"
+    },
+    {
+      "combination": false,
+      "labeler": "Xttrium Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "302bfea2-d403-d315-e063-6294a90a37dd"
+    },
+    {
+      "combination": false,
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7a186bcd-ab8c-4695-8289-4cd33bb551cf"
+    },
+    {
+      "combination": true,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a52e210f-b99d-493e-b679-ec565c6ff72d"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cf4ef7c0-2f4a-4b0f-9060-ad0b909d1ed4"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6081c216-0bed-40f0-8732-f999647003d5"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5f23b254-872b-4e88-91be-710c3ea7687b"
+    },
+    {
+      "combination": true,
+      "labeler": "Cranbury Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a8b57027-a4b8-4149-93e8-aa3e7a6d6dc3"
+    },
+    {
+      "combination": true,
+      "labeler": "Cranbury Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "785c605e-1907-4fac-8b69-d504a2076f8e"
+    },
+    {
+      "combination": true,
+      "labeler": "QUAGEN PHARMACEUTICALS LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9aca56ec-28f8-4679-9f90-ec3e82deb9ac"
+    },
+    {
+      "combination": true,
+      "labeler": "Genus Lifesciences Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7f8ebc9c-c4e6-4344-95a5-ec25b8c99bc1"
+    },
+    {
+      "combination": true,
+      "labeler": "Xttrium Laboratories, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "30c9d769-bc74-04d2-e063-6294a90a665a"
+    },
+    {
+      "combination": true,
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1d47280d-28c9-4701-8c5f-a6e6b524083b"
+    },
+    {
+      "combination": true,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6a2cd2d6-6e0f-4b2d-be7a-8b99627f4453"
+    },
+    {
+      "combination": true,
+      "labeler": "Advagen Pharma Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8b60eff2-5759-4bc3-ac16-5ff80aa153a0"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "365138a6-28d8-4881-a3e9-02c80aaf83e8"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "481866da-a712-48a5-853f-8e84aacaab6d"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4bf3912c-8339-401e-9711-dad6acf15f11"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6f7e47cc-f823-4336-8107-f980e3049617"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b0d5abba-6fae-4f3c-b990-dd9c83c7b5a9"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d545105f-27dc-4820-b0b1-fcf17e0be0f0"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell Governmental & Specialty RX, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e5d2156d-1f66-4fdf-a3ae-5e1325218c8b"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c0c0d4f0-8396-485b-a585-71df01491f6f"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "44cd6d46-fbb9-4836-9426-d8ce2cb6d66d"
+    },
+    {
+      "combination": false,
+      "labeler": "XGen Pharmaceuticals DJB, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b6f6698f-f23c-452a-9b38-bbb96ab88ae4"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0b5734b8-6a52-44ff-ac29-9a91a4335394"
+    },
+    {
+      "combination": true,
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e7b336d9-b1df-4a08-9b67-754346d365f4"
+    },
+    {
+      "combination": true,
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3b02cda4-9b24-79c9-e063-6294a90af5b9"
+    }
+  ]
+}

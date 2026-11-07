@@ -1,0 +1,628 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/002267",
+      "eu_number": "EU/1/11/709",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-002267",
+      "mah": "Neuraxpharm Pharmaceuticals S.L.",
+      "marketing_authorisation_date": "2011-09-04",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/buccolam",
+      "name": "Buccolam",
+      "record_from": "2011-09-05",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 11
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-002267",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "MIDAZOLAM",
+    "MIDAZOLAM HYDROCHLORIDE"
+  ],
+  "inn": "midazolam",
+  "name": "MIDAZOLAM",
+  "rank": 262,
+  "rxcui": [
+    "311700",
+    "311702",
+    "422410",
+    "1666798",
+    "1666800",
+    "1666814",
+    "1666823",
+    "2173494",
+    "2173500",
+    "2541170",
+    "2541171",
+    "2608698"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 33,
+    "approval_holders": 17,
+    "earliest_marketing_start": "2000-06-20",
+    "latest_label_update": "2026-10-19",
+    "nda_bla_applications": 3,
+    "repackagers": 7
+  },
+  "unii": [
+    {
+      "ingredient": "MIDAZOLAM",
+      "unii": "R60L0SM5BC"
+    },
+    {
+      "ingredient": "MIDAZOLAM HYDROCHLORIDE",
+      "unii": "W7TTW573JJ"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA211321"
+      ],
+      "brand_names": [
+        "Nayzilam"
+      ],
+      "combination": false,
+      "home_inn": "midazolam",
+      "ingredients": [
+        "MIDAZOLAM"
+      ],
+      "labeler": "UCB, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2019-05-17",
+      "moieties": [
+        "MIDAZOLAM"
+      ],
+      "product_ndcs": [
+        "50474-500"
+      ],
+      "rxcui": [
+        "2173494",
+        "2173500"
+      ],
+      "setid": "2b29422e-54d5-4a49-8522-e9cf752368c3",
+      "source": "dailymed-title-match",
+      "spl_version": 5,
+      "title": "NAYZILAM (MIDAZOLAM) SPRAY [UCB, INC.]",
+      "upload_date": "2026-10-19"
+    },
+    {
+      "application_numbers": [
+        "NDA211844"
+      ],
+      "brand_names": [
+        "Midazolam in Sodium Chloride"
+      ],
+      "combination": false,
+      "home_inn": "midazolam",
+      "ingredients": [
+        "MIDAZOLAM"
+      ],
+      "labeler": "WG Critical Care, LLC.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2020-12-31",
+      "moieties": [
+        "MIDAZOLAM"
+      ],
+      "product_ndcs": [
+        "44567-610",
+        "44567-611"
+      ],
+      "rxcui": [
+        "2541170",
+        "2541171"
+      ],
+      "setid": "f051776f-94c5-4e34-80ed-f45b9c36881e",
+      "source": "dailymed-title-match",
+      "spl_version": 18,
+      "title": "MIDAZOLAM IN SODIUM CHLORIDE (MIDAZOLAM) INJECTION, SOLUTION [WG CRITICAL CARE, LLC.]",
+      "upload_date": "2026-09-23"
+    },
+    {
+      "application_numbers": [
+        "NDA216359"
+      ],
+      "brand_names": [],
+      "combination": false,
+      "home_inn": "midazolam",
+      "ingredients": [
+        "MIDAZOLAM"
+      ],
+      "labeler": "Rafa Laboratories, Ltd.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-08-08",
+      "moieties": [
+        "MIDAZOLAM"
+      ],
+      "product_ndcs": [
+        "71053-595"
+      ],
+      "rxcui": [
+        "2608698"
+      ],
+      "setid": "d7362b4d-68a3-99a0-e053-2995a90a4f60",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "N/A (MIDAZOLAM INJECTION, 10 MG) INJECTION, SOLUTION [RAFA LABORATORIES, LTD.]",
+      "upload_date": "2026-02-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA075243"
+      ],
+      "brand_names": [
+        "Midazolam"
+      ],
+      "combination": false,
+      "home_inn": "midazolam",
+      "ingredients": [
+        "MIDAZOLAM HYDROCHLORIDE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2000-06-20",
+      "moieties": [
+        "MIDAZOLAM"
+      ],
+      "product_ndcs": [
+        "0641-6056",
+        "0641-6057",
+        "0641-6059",
+        "0641-6060",
+        "0641-6061",
+        "0641-6063"
+      ],
+      "rxcui": [
+        "311700",
+        "311702"
+      ],
+      "setid": "575d8bf0-7af7-427c-a231-966e2a5e070d",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "MIDAZOLAM INJECTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2024-04-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA075154"
+      ],
+      "brand_names": [
+        "Midazolam"
+      ],
+      "combination": false,
+      "home_inn": "midazolam",
+      "ingredients": [
+        "MIDAZOLAM HYDROCHLORIDE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2000-07-10",
+      "moieties": [
+        "MIDAZOLAM"
+      ],
+      "product_ndcs": [
+        "63323-411",
+        "63323-412"
+      ],
+      "rxcui": [
+        "311700",
+        "311702"
+      ],
+      "setid": "a91ce254-14a3-4cbf-8ab8-5da252aa3fdc",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "MIDAZOLAM (MIDAZOLAM HYDROCHLORIDE) INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2024-08-06"
+    },
+    {
+      "application_numbers": [
+        "ANDA075873"
+      ],
+      "brand_names": [
+        "Midazolam Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "midazolam",
+      "ingredients": [
+        "MIDAZOLAM HYDROCHLORIDE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2002-04-30",
+      "moieties": [
+        "MIDAZOLAM"
+      ],
+      "product_ndcs": [
+        "0054-3566"
+      ],
+      "rxcui": [
+        "422410"
+      ],
+      "setid": "a833c24b-6dca-44d7-a0d6-20012fa1ea77",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "MIDAZOLAM HYDROCHLORIDE SYRUP [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2025-04-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA076379"
+      ],
+      "brand_names": [
+        "Midazolam Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "midazolam",
+      "ingredients": [
+        "MIDAZOLAM HYDROCHLORIDE"
+      ],
+      "labeler": "Padagis US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2005-05-02",
+      "moieties": [
+        "MIDAZOLAM"
+      ],
+      "product_ndcs": [
+        "0574-0150"
+      ],
+      "rxcui": [
+        "422410"
+      ],
+      "setid": "0be63f63-6a93-4782-8f9c-d13ca5ae44bd",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "MIDAZOLAM HYDROCHLORIDE SYRUP [PADAGIS US LLC]",
+      "upload_date": "2022-12-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA075857"
+      ],
+      "brand_names": [
+        "Midazolam"
+      ],
+      "combination": false,
+      "home_inn": "midazolam",
+      "ingredients": [
+        "MIDAZOLAM HYDROCHLORIDE"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2005-06-14",
+      "moieties": [
+        "MIDAZOLAM"
+      ],
+      "product_ndcs": [
+        "0409-0001",
+        "0409-2305",
+        "0409-2308"
+      ],
+      "rxcui": [
+        "1666798",
+        "1666800",
+        "1666814",
+        "1666823"
+      ],
+      "setid": "1abda8b8-48a8-4995-af86-39220d1aa240",
+      "source": "openfda",
+      "spl_version": 35,
+      "title": "MIDAZOLAM (MIDAZOLAM HYDROCHLORIDE) INJECTION, SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2026-08-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA075293"
+      ],
+      "brand_names": [
+        "Midazolam"
+      ],
+      "combination": false,
+      "home_inn": "midazolam",
+      "ingredients": [
+        "MIDAZOLAM HYDROCHLORIDE"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2005-11-03",
+      "moieties": [
+        "MIDAZOLAM"
+      ],
+      "product_ndcs": [
+        "0409-2587",
+        "0409-2596"
+      ],
+      "rxcui": [
+        "311700",
+        "311702"
+      ],
+      "setid": "affecd4d-1f78-4bbe-5a8d-86849bbdc520",
+      "source": "openfda",
+      "spl_version": 31,
+      "title": "MIDAZOLAM (MIDAZOLAM HYDROCHLORIDE) INJECTION, SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2026-04-16"
+    },
+    {
+      "application_numbers": [
+        "NDA209566"
+      ],
+      "archived_versions": 9,
+      "brand_names": [
+        "SEIZALAM"
+      ],
+      "first_posted": "2018-09-28",
+      "found_by": "SEIZALAM",
+      "labeler": "Meridian Medical Technologies LLC",
+      "labeler_unverified": false,
+      "last_posted": "2025-12-05",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2020-12-01"
+      ],
+      "product_ndcs": [
+        "11704-650"
+      ],
+      "rxcui": [],
+      "setid": "cb2381bf-984a-48a8-95c0-3017c34cc170",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "SEIZALAM (midazolam hydrochloride) injection, solution"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "880cac48-5c0f-49a9-8aef-3c9770bf5d84"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e22611dd-1830-40af-9139-7cdb07f5a426"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1cc9ba6e-fa1b-405e-9de8-720c567b2a73"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4155a60a-b023-4f4a-acae-7bb8fe9dc0c1"
+    },
+    {
+      "combination": false,
+      "labeler": "SOMERSET THERAPEUTICS, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "06e4f754-72df-4eb4-aaed-b538524f5277"
+    },
+    {
+      "combination": false,
+      "labeler": "SOMERSET THERAPEUTICS, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "74666098-1ca8-4c06-8fc4-5de870b1b514"
+    },
+    {
+      "combination": false,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9221894f-d840-46f2-a11c-6b71358d3b5b"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "51c8bfa4-5c78-4b7a-9ffb-8f00828acadc"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9ba78a7c-5b05-42a3-89cd-ca51ad9b2e6d"
+    },
+    {
+      "combination": false,
+      "labeler": "B. Braun Medical Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "adfe8ece-496d-4118-9990-a1d44d0ac7d9"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8675cdb1-c7f5-40cf-b1e0-0960b7ab117b"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f8bb3427-c887-47b6-8042-8a21dc161c79"
+    },
+    {
+      "combination": false,
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b95415fa-17c2-42ab-a6b0-e628d01c94ed"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "23f4df96-1151-4815-8f01-4d79e5aa2145"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "81b2f48d-a05c-4301-8fee-761af220d44f"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "843cc25e-45ea-4372-ae34-843f805fa869"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8b690f5c-2923-4c34-a8f7-11af5f546b62"
+    },
+    {
+      "combination": false,
+      "labeler": "Civica, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f0c8b6cd-9efc-4344-9212-fbdd3b8e2f9b"
+    },
+    {
+      "combination": false,
+      "labeler": "Belcher Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cee4cdd0-58c5-4704-9fb6-d4bffb1764a8"
+    },
+    {
+      "combination": false,
+      "labeler": "FRESENIUS KABI USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c8f51630-e776-4bc6-ba4d-b714e8c3b8f2"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c546cfd4-4f2b-4b94-aa47-995595f1a146"
+    },
+    {
+      "combination": false,
+      "labeler": "Jvet Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a84ddd02-1f5f-4311-9dae-2a5cb4064bf3"
+    },
+    {
+      "combination": false,
+      "labeler": "Onesource Specialty Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "54ed43b2-bad1-4b45-e063-6294a90a793a"
+    },
+    {
+      "combination": false,
+      "labeler": "Onesource Specialty Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a0e9a149-7a4c-4f66-91af-91695ee2e40c"
+    }
+  ]
+}

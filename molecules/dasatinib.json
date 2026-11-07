@@ -1,0 +1,557 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand SPRYCEL",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000709",
+      "eu_number": "EU/1/06/363",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000709",
+      "mah": "Bristol-Myers Squibb Pharma EEIG",
+      "marketing_authorisation_date": "2006-11-20",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/sprycel",
+      "name": "Sprycel",
+      "record_from": "2006-11-20",
+      "record_to": "2026-11-03",
+      "role": "reference",
+      "versions": 35
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/006251",
+      "eu_number": "EU/1/24/1839",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-006251",
+      "mah": "Accord Healthcare S.L.U.",
+      "marketing_authorisation_date": "2024-07-26",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/dasatinib-accord-healthcare",
+      "name": "Dasatinib Accord Healthcare",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000709",
+    "reference_selected_by": "salt-alias-v2",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "DASATINIB"
+  ],
+  "inn": "dasatinib",
+  "name": "DASATINIB",
+  "rank": 361,
+  "rxcui": [
+    "643105",
+    "643107",
+    "643109",
+    "643173",
+    "643175",
+    "643177",
+    "799047",
+    "799830",
+    "1045402",
+    "1045404",
+    "1045406",
+    "1045408",
+    "2691837",
+    "2691839",
+    "2691841",
+    "2691843",
+    "2691845",
+    "2691847"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 16,
+    "approval_holders": 16,
+    "earliest_marketing_start": "2006-06-27",
+    "latest_label_update": "2026-10-23",
+    "nda_bla_applications": 2,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "DASATINIB",
+      "unii": "RBZ1571X5H"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021986"
+      ],
+      "brand_names": [
+        "SPRYCEL"
+      ],
+      "combination": false,
+      "home_inn": "dasatinib",
+      "ingredients": [
+        "DASATINIB"
+      ],
+      "labeler": "E.R. Squibb & Sons, L.L.C.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2006-06-27",
+      "moieties": [
+        "DASATINIB"
+      ],
+      "product_ndcs": [
+        "0003-0524",
+        "0003-0527",
+        "0003-0528",
+        "0003-0852",
+        "0003-0855",
+        "0003-0857"
+      ],
+      "rxcui": [
+        "643105",
+        "643107",
+        "643109",
+        "643173",
+        "643175",
+        "643177",
+        "799047",
+        "799830",
+        "1045402",
+        "1045404",
+        "1045406",
+        "1045408"
+      ],
+      "setid": "4764f37b-c9e6-4ede-bcc2-8a03b7c521df",
+      "source": "dailymed-title-match",
+      "spl_version": 49,
+      "title": "SPRYCEL (DASATINIB) TABLET [E.R. SQUIBB & SONS, L.L.C.]",
+      "upload_date": "2026-09-21"
+    },
+    {
+      "application_numbers": [
+        "NDA216099"
+      ],
+      "brand_names": [
+        "PHYRAGO"
+      ],
+      "combination": false,
+      "home_inn": "dasatinib",
+      "ingredients": [
+        "DASATINIB"
+      ],
+      "labeler": "Cycle Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-09-22",
+      "moieties": [
+        "DASATINIB"
+      ],
+      "product_ndcs": [
+        "70709-151",
+        "70709-152",
+        "70709-153",
+        "70709-154",
+        "70709-155",
+        "70709-156"
+      ],
+      "rxcui": [
+        "643105",
+        "643107",
+        "643109",
+        "799047",
+        "1045402",
+        "1045406",
+        "2691837",
+        "2691839",
+        "2691841",
+        "2691843",
+        "2691845",
+        "2691847"
+      ],
+      "setid": "60976d1e-c415-417f-8168-4e07999a7281",
+      "source": "dailymed-title-match",
+      "spl_version": 4,
+      "title": "PHYRAGO (DASATINIB) TABLET [CYCLE PHARMACEUTICALS LTD]",
+      "upload_date": "2026-10-23"
+    },
+    {
+      "application_numbers": [
+        "NDA021986"
+      ],
+      "brand_names": [
+        "Dasatinib"
+      ],
+      "combination": false,
+      "home_inn": "dasatinib",
+      "ingredients": [
+        "DASATINIB"
+      ],
+      "labeler": "Prasco Laboratories",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2024-09-03",
+      "moieties": [
+        "DASATINIB"
+      ],
+      "product_ndcs": [
+        "66993-233",
+        "66993-234",
+        "66993-235",
+        "66993-236",
+        "66993-237",
+        "66993-238"
+      ],
+      "rxcui": [
+        "643105",
+        "643107",
+        "643109",
+        "799047",
+        "1045402",
+        "1045406"
+      ],
+      "setid": "1931e73f-918c-4d69-9543-de9643513d05",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "DASATINIB TABLET [PRASCO LABORATORIES]",
+      "upload_date": "2024-09-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA202103",
+        "ANDA203180"
+      ],
+      "brand_names": [
+        "Dasatinib"
+      ],
+      "combination": false,
+      "home_inn": "dasatinib",
+      "ingredients": [
+        "DASATINIB"
+      ],
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-09-03",
+      "moieties": [
+        "DASATINIB"
+      ],
+      "product_ndcs": [
+        "60505-3628",
+        "60505-3629",
+        "60505-3630",
+        "60505-3631",
+        "60505-3816",
+        "60505-3817"
+      ],
+      "rxcui": [
+        "643105",
+        "643107",
+        "643109",
+        "799047",
+        "1045402",
+        "1045406"
+      ],
+      "setid": "2ed87763-f018-abdb-c0ab-daa5e441b397",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "DASATINIB TABLET, FILM COATED [APOTEX CORP.]",
+      "upload_date": "2025-09-08"
+    },
+    {
+      "application_numbers": [
+        "ANDA218719"
+      ],
+      "brand_names": [
+        "dasatinib"
+      ],
+      "combination": false,
+      "home_inn": "dasatinib",
+      "ingredients": [
+        "DASATINIB"
+      ],
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-03-03",
+      "moieties": [
+        "DASATINIB"
+      ],
+      "product_ndcs": [
+        "70710-1741",
+        "70710-1742",
+        "70710-1743",
+        "70710-1744",
+        "70710-1745",
+        "70710-1746"
+      ],
+      "rxcui": [
+        "643105",
+        "643107",
+        "643109",
+        "799047",
+        "1045402",
+        "1045406"
+      ],
+      "setid": "11703145-29ea-480a-9810-bc70663b783f",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "DASATINIB TABLET [ZYDUS PHARMACEUTICALS USA INC.]",
+      "upload_date": "2025-03-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA217217"
+      ],
+      "brand_names": [
+        "Dasatinib"
+      ],
+      "combination": false,
+      "home_inn": "dasatinib",
+      "ingredients": [
+        "DASATINIB"
+      ],
+      "labeler": "Biocon Pharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-03-03",
+      "moieties": [
+        "DASATINIB"
+      ],
+      "product_ndcs": [
+        "70377-083",
+        "70377-084",
+        "70377-085",
+        "70377-086",
+        "70377-087",
+        "70377-088"
+      ],
+      "rxcui": [
+        "643105",
+        "643107",
+        "643109",
+        "799047",
+        "1045402",
+        "1045406"
+      ],
+      "setid": "76e1833c-e105-5a3d-0f01-1330d8cc7ae1",
+      "source": "dailymed-title-match",
+      "spl_version": 8,
+      "title": "DASATINIB (DASATINIB) TABLET, FILM COATED DASATINIB (DASATINIB) TABLET, FILM COATED [BIOCON PHARMA INC.]",
+      "upload_date": "2026-10-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA213383"
+      ],
+      "brand_names": [
+        "Dasatinib"
+      ],
+      "combination": false,
+      "home_inn": "dasatinib",
+      "ingredients": [
+        "DASATINIB"
+      ],
+      "labeler": "Dr.Reddys Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-03-03",
+      "moieties": [
+        "DASATINIB"
+      ],
+      "product_ndcs": [
+        "43598-599",
+        "43598-600",
+        "43598-601",
+        "43598-602",
+        "43598-603",
+        "43598-604"
+      ],
+      "rxcui": [
+        "643105",
+        "643107",
+        "643109",
+        "799047",
+        "1045402",
+        "1045406"
+      ],
+      "setid": "eb5ddff2-6521-b461-43ac-80ff8660b20b",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "DASATINIB TABLET, FILM COATED [DR.REDDYS LABORATORIES INC]",
+      "upload_date": "2025-03-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA216547"
+      ],
+      "brand_names": [
+        "DASATINIB"
+      ],
+      "combination": false,
+      "home_inn": "dasatinib",
+      "ingredients": [
+        "DASATINIB"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-04-22",
+      "moieties": [
+        "DASATINIB"
+      ],
+      "product_ndcs": [
+        "59651-542",
+        "59651-543",
+        "59651-544",
+        "59651-545",
+        "59651-546",
+        "59651-547"
+      ],
+      "rxcui": [
+        "643105",
+        "643107",
+        "643109",
+        "799047",
+        "1045402",
+        "1045406"
+      ],
+      "setid": "58ce42c6-10bd-4bb4-bf89-eae8ed82c339",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "DASATINIB TABLET [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2026-08-19"
+    },
+    {
+      "application_numbers": [
+        "NDA216099"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "PHYRAGO"
+      ],
+      "first_posted": "2024-09-02",
+      "found_by": "PHYRAGO",
+      "labeler": "Handa Therapeutics, LLC",
+      "labeler_unverified": true,
+      "last_posted": "2025-10-01",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-09-26"
+      ],
+      "product_ndcs": [
+        "83858-101",
+        "83858-102",
+        "83858-103",
+        "83858-104",
+        "83858-105",
+        "83858-106"
+      ],
+      "rxcui": [],
+      "setid": "f80d0dc2-3b72-42cb-87ea-8a14bdc50431",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "60976d1e-c415-417f-8168-4e07999a7281"
+      ],
+      "title": "PHYRAGO (dasatinib) tablet"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Teva Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3000fd91-1b09-4d72-8522-1ca5e35ed956"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "645fcf26-1b2f-40c5-881b-8effe02defbd"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f60261dd-b8ea-4511-bed6-ad6d7f4dd828"
+    },
+    {
+      "combination": false,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bffb38c3-f556-492f-a9db-aa417ec0a856"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4eed6b7b-a09d-4d2e-a345-968dd68323bc"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "02b04c6f-4ea5-4fcb-bf6d-2631d5ab31e4"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "de3215a4-d098-4bc3-ad81-c7c9e3493872"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f9b79d54-9bee-4c93-9c87-f3e65d91f146"
+    }
+  ]
+}

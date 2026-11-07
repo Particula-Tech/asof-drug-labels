@@ -1,0 +1,502 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/001198",
+      "eu_number": "EU/1/11/692",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-001198",
+      "mah": "Bausch + Lomb Ireland Limited",
+      "marketing_authorisation_date": "2011-05-18",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/yellox",
+      "name": "Yellox",
+      "record_from": "2011-05-18",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 11
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-001198",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "BROMFENAC SODIUM"
+  ],
+  "inn": "bromfenac",
+  "name": "BROMFENAC",
+  "rank": 453,
+  "rxcui": [
+    "578018",
+    "1375917",
+    "1375922",
+    "1790141",
+    "1790146"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 18,
+    "approval_holders": 13,
+    "earliest_marketing_start": "2013-04-05",
+    "latest_label_update": "2026-06-16",
+    "nda_bla_applications": 2,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "BROMFENAC SODIUM",
+      "unii": "8ECV571Y37"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA203168"
+      ],
+      "brand_names": [
+        "Prolensa"
+      ],
+      "combination": false,
+      "home_inn": "bromfenac",
+      "ingredients": [
+        "BROMFENAC SODIUM"
+      ],
+      "labeler": "Bausch & Lomb Incorporated",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2013-04-05",
+      "moieties": [
+        "BROMFENAC"
+      ],
+      "product_ndcs": [
+        "24208-602"
+      ],
+      "rxcui": [
+        "1375917",
+        "1375922"
+      ],
+      "setid": "4e072537-f73c-4a96-a65f-e2805ce112d8",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "PROLENSA (BROMFENAC SODIUM) SOLUTION/ DROPS [BAUSCH & LOMB INCORPORATED]",
+      "upload_date": "2026-05-07"
+    },
+    {
+      "application_numbers": [
+        "NDA206911"
+      ],
+      "brand_names": [
+        "BROMSITE 0.075%"
+      ],
+      "combination": false,
+      "home_inn": "bromfenac",
+      "ingredients": [
+        "BROMFENAC SODIUM"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2016-05-01",
+      "moieties": [
+        "BROMFENAC"
+      ],
+      "product_ndcs": [
+        "49708-754"
+      ],
+      "rxcui": [
+        "1790141",
+        "1790146"
+      ],
+      "setid": "144a5072-341b-4591-8705-773b63044bcc",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "BROMSITE 0.075% (BROMFENAC) SOLUTION/ DROPS [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2026-01-09"
+    },
+    {
+      "application_numbers": [
+        "NDA203168"
+      ],
+      "brand_names": [
+        "bromfenac ophthalmic solution"
+      ],
+      "combination": false,
+      "home_inn": "bromfenac",
+      "ingredients": [
+        "BROMFENAC SODIUM"
+      ],
+      "labeler": "Bausch & Lomb Americas Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2024-01-08",
+      "moieties": [
+        "BROMFENAC"
+      ],
+      "product_ndcs": [
+        "82260-602"
+      ],
+      "rxcui": [
+        "1375917"
+      ],
+      "setid": "246e2110-6a2d-4e22-8e37-72d80796b9af",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "BROMFENAC OPHTHALMIC SOLUTION (BROMFENAC SODIUM) SOLUTION/ DROPS [BAUSCH & LOMB AMERICAS INC.]",
+      "upload_date": "2026-05-07"
+    },
+    {
+      "application_numbers": [
+        "NDA206911"
+      ],
+      "brand_names": [
+        "bromfenac 0.075%"
+      ],
+      "combination": false,
+      "home_inn": "bromfenac",
+      "ingredients": [
+        "BROMFENAC SODIUM"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2024-02-07",
+      "moieties": [
+        "BROMFENAC"
+      ],
+      "product_ndcs": [
+        "49708-755"
+      ],
+      "rxcui": [
+        "1790141"
+      ],
+      "setid": "7d723a00-4822-4e04-aa22-21de22009d0a",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "BROMFENAC 0.075% (BROMFENAC) SOLUTION/ DROPS [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2026-01-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA210560"
+      ],
+      "brand_names": [
+        "Bromfenac Ophthalmic Solution 0.09%"
+      ],
+      "combination": false,
+      "home_inn": "bromfenac",
+      "ingredients": [
+        "BROMFENAC SODIUM"
+      ],
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-06-21",
+      "moieties": [
+        "BROMFENAC"
+      ],
+      "product_ndcs": [
+        "62332-508"
+      ],
+      "rxcui": [
+        "578018"
+      ],
+      "setid": "225070ee-d862-4d41-84b8-5bd7a8a03fd7",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "BROMFENAC OPHTHALMIC SOLUTION 0.09% SOLUTION/ DROPS [ALEMBIC PHARMACEUTICALS INC.]",
+      "upload_date": "2025-02-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA211029"
+      ],
+      "brand_names": [
+        "BROMFENAC"
+      ],
+      "combination": false,
+      "home_inn": "bromfenac",
+      "ingredients": [
+        "BROMFENAC SODIUM"
+      ],
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-03-17",
+      "moieties": [
+        "BROMFENAC"
+      ],
+      "product_ndcs": [
+        "68083-313"
+      ],
+      "rxcui": [
+        "578018"
+      ],
+      "setid": "2120380c-81e6-43ce-9211-aad1993b9be2",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "BROMFENAC SOLUTION/ DROPS [GLAND PHARMA LIMITED]",
+      "upload_date": "2020-04-01"
+    },
+    {
+      "application_numbers": [
+        "ANDA204813"
+      ],
+      "brand_names": [
+        "Bromfenac"
+      ],
+      "combination": false,
+      "home_inn": "bromfenac",
+      "ingredients": [
+        "BROMFENAC SODIUM"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-03-18",
+      "moieties": [
+        "BROMFENAC"
+      ],
+      "product_ndcs": [
+        "65862-789"
+      ],
+      "rxcui": [
+        "578018"
+      ],
+      "setid": "fa40fc6b-1bd0-4496-b53a-8b3e1c122a50",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "BROMFENAC SOLUTION/ DROPS [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2024-07-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA203395"
+      ],
+      "brand_names": [
+        "Bromfenac"
+      ],
+      "combination": false,
+      "home_inn": "bromfenac",
+      "ingredients": [
+        "BROMFENAC SODIUM"
+      ],
+      "labeler": "ARMAS PHARMACEUTICALS INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-10-26",
+      "moieties": [
+        "BROMFENAC"
+      ],
+      "product_ndcs": [
+        "72485-649"
+      ],
+      "rxcui": [
+        "578018"
+      ],
+      "setid": "08a0591e-6cb3-30ce-e063-6394a90a33fb",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "BROMFENAC SOLUTION/ DROPS [ARMAS PHARMACEUTICALS INC.]",
+      "upload_date": "2023-11-01"
+    },
+    {
+      "application_numbers": [
+        "NDA021664"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "BROMDAY"
+      ],
+      "first_posted": "2013-01-15",
+      "found_by": "BROMDAY",
+      "labeler": "Bausch & Lomb Incorporated",
+      "labeler_unverified": false,
+      "last_posted": "2015-02-17",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2014-10-31"
+      ],
+      "product_ndcs": [
+        "24208-099"
+      ],
+      "rxcui": [],
+      "setid": "55b73bf4-9ba6-4e76-9db9-030f787793c3",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "BROMDAY (bromfenac) solution/ drops"
+    },
+    {
+      "application_numbers": [
+        "NDA021664"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "BROMDAY"
+      ],
+      "first_posted": "2010-11-04",
+      "found_by": "BROMDAY",
+      "labeler": "Ista Pharmaceuticals",
+      "labeler_unverified": true,
+      "last_posted": "2018-01-22",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-12-29"
+      ],
+      "product_ndcs": [
+        "67425-999"
+      ],
+      "rxcui": [],
+      "setid": "83641d64-f709-4330-bb0a-7b8c1c88f85e",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "BROMDAY (bromfenac) solution/ drops"
+    },
+    {
+      "application_numbers": [
+        "NDA021664"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "XIBROM"
+      ],
+      "first_posted": "2006-09-21",
+      "found_by": "XIBROM",
+      "labeler": "Ista Pharmaceuticals, Inc",
+      "labeler_unverified": true,
+      "last_posted": "2014-02-26",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2012-08-31"
+      ],
+      "product_ndcs": [
+        "67425-004"
+      ],
+      "rxcui": [],
+      "setid": "8ff9987b-8133-4f46-aadf-35c44005b8e2",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "XIBROM (bromfenac sodium) solution"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "26f3e5b3-a739-4b09-8046-e71ecb3a5a7b"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2fc689b7-d5ba-4591-8c23-b48e588d7a28"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2b2621e7-a69e-4286-a7e7-0fc31a91fe29"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f66f1436-daaa-412a-8822-c64866cfeada"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4246c669-3c2a-2a2b-3b1c-696deb4ab519"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2c4eba0d-db55-4b54-a2ad-dfef1da9462f"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Laboratories Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fa249b9e-931c-454d-ba06-33139d5580e7"
+    },
+    {
+      "combination": false,
+      "labeler": "Fosun Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a8f1d85a-5585-4632-bdfa-a54a535b5c17"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c85f1ad5-4c8a-43be-8f08-fe471541b0c2"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f6911061-d00e-466d-b623-f81730f38f98"
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 6,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "only combination central products under this exact INN (combinations are not built)",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "VILANTEROL TRIFENATATE"
+  ],
+  "inn": "vilanterol",
+  "name": "VILANTEROL",
+  "rank": 334,
+  "rxcui": [
+    "1424889",
+    "1424899",
+    "1487519",
+    "1487524",
+    "1487527",
+    "1487528",
+    "1539891",
+    "1539893",
+    "1648783",
+    "1648785",
+    "1648788",
+    "1648789",
+    "1945039",
+    "1945044",
+    "1945047",
+    "1945048",
+    "2395769",
+    "2395771",
+    "2395774",
+    "2395775",
+    "2637473",
+    "2637476"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 5,
+    "approval_holders": 2,
+    "earliest_marketing_start": "2013-08-26",
+    "latest_label_update": "2026-09-02",
+    "nda_bla_applications": 3,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "VILANTEROL TRIFENATATE",
+      "unii": "40AHO2C6DG"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA204275"
+      ],
+      "brand_names": [
+        "Breo Ellipta"
+      ],
+      "combination": true,
+      "home_inn": "fluticasone",
+      "ingredients": [
+        "FLUTICASONE FUROATE",
+        "VILANTEROL TRIFENATATE"
+      ],
+      "labeler": "GlaxoSmithKline LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2013-08-26",
+      "moieties": [
+        "FLUTICASONE",
+        "VILANTEROL"
+      ],
+      "product_ndcs": [
+        "0173-0859",
+        "0173-0882",
+        "0173-0916"
+      ],
+      "rxcui": [
+        "1424889",
+        "1424899",
+        "1539891",
+        "1539893",
+        "1648783",
+        "1648785",
+        "1648788",
+        "1648789",
+        "2637473",
+        "2637476"
+      ],
+      "setid": "96428df1-ea05-431a-98d3-1ec2c4b63878",
+      "source": "openfda",
+      "spl_version": 29,
+      "title": "BREO ELLIPTA (FLUTICASONE FUROATE AND VILANTEROL TRIFENATATE) POWDER [GLAXOSMITHKLINE LLC]",
+      "upload_date": "2026-06-08"
+    },
+    {
+      "application_numbers": [
+        "NDA203975"
+      ],
+      "brand_names": [
+        "Anoro Ellipta"
+      ],
+      "combination": true,
+      "home_inn": "umeclidinium",
+      "ingredients": [
+        "UMECLIDINIUM BROMIDE",
+        "VILANTEROL TRIFENATATE"
+      ],
+      "labeler": "GlaxoSmithKline LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2014-01-31",
+      "moieties": [
+        "UMECLIDINIUM",
+        "VILANTEROL"
+      ],
+      "product_ndcs": [
+        "0173-0869"
+      ],
+      "rxcui": [
+        "1487519",
+        "1487524",
+        "1487527",
+        "1487528"
+      ],
+      "setid": "2dbd0671-c565-40c5-bf0f-e324db26799c",
+      "source": "openfda",
+      "spl_version": 29,
+      "title": "ANORO ELLIPTA (UMECLIDINIUM BROMIDE AND VILANTEROL TRIFENATATE) POWDER [GLAXOSMITHKLINE LLC]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "NDA209482"
+      ],
+      "brand_names": [
+        "Trelegy Ellipta"
+      ],
+      "combination": true,
+      "home_inn": "fluticasone",
+      "ingredients": [
+        "FLUTICASONE FUROATE",
+        "UMECLIDINIUM BROMIDE",
+        "VILANTEROL TRIFENATATE"
+      ],
+      "labeler": "GlaxoSmithKline LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-09-18",
+      "moieties": [
+        "FLUTICASONE",
+        "UMECLIDINIUM",
+        "VILANTEROL"
+      ],
+      "product_ndcs": [
+        "0173-0887",
+        "0173-0893"
+      ],
+      "rxcui": [
+        "1945039",
+        "1945044",
+        "1945047",
+        "1945048",
+        "2395769",
+        "2395771",
+        "2395774",
+        "2395775"
+      ],
+      "setid": "b5a81d5a-4648-4c7a-951d-33c014a63c7e",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "TRELEGY ELLIPTA (FLUTICASONE FUROATE, UMECLIDINIUM BROMIDE AND VILANTEROL TRIFENATATE) POWDER [GLAXOSMITHKLINE LLC]",
+      "upload_date": "2026-09-02"
+    },
+    {
+      "application_numbers": [
+        "NDA204275"
+      ],
+      "brand_names": [
+        "Fluticasone Furoate and Vilanterol"
+      ],
+      "combination": true,
+      "home_inn": "vilanterol",
+      "ingredients": [
+        "FLUTICASONE FUROATE",
+        "VILANTEROL TRIFENATATE"
+      ],
+      "labeler": "Prasco Laboratories",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2022-05-23",
+      "moieties": [
+        "FLUTICASONE",
+        "VILANTEROL"
+      ],
+      "product_ndcs": [
+        "66993-135",
+        "66993-136"
+      ],
+      "rxcui": [
+        "1424889",
+        "1648788"
+      ],
+      "setid": "3a761487-c300-451a-8537-3196c00c11b5",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "FLUTICASONE FUROATE AND VILANTEROL POWDER [PRASCO LABORATORIES]",
+      "upload_date": "2026-06-15"
+    },
+    {
+      "application_numbers": [
+        "NDA203975"
+      ],
+      "brand_names": [
+        "Umeclidinium and Vilanterol Ellipta"
+      ],
+      "combination": true,
+      "home_inn": "umeclidinium",
+      "ingredients": [
+        "UMECLIDINIUM BROMIDE",
+        "VILANTEROL TRIFENATATE"
+      ],
+      "labeler": "Prasco Laboratories",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2025-04-11",
+      "moieties": [
+        "UMECLIDINIUM",
+        "VILANTEROL"
+      ],
+      "product_ndcs": [
+        "66993-134"
+      ],
+      "rxcui": [
+        "1487527"
+      ],
+      "setid": "6de414b1-f707-4b98-9e4b-742032ec90af",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "UMECLIDINIUM AND VILANTEROL ELLIPTA (UMECLIDINIUM BROMIDE AND VILANTEROL TRIFENATATE) POWDER [PRASCO LABORATORIES]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "BREO"
+      ],
+      "first_posted": "2018-01-08",
+      "found_by": "BREO",
+      "labeler": "Glaxo Operations UK Ltd",
+      "labeler_unverified": true,
+      "last_posted": "2018-01-08",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "63379-017",
+        "63379-059"
+      ],
+      "rxcui": [],
+      "setid": "cc892e77-1203-4a1d-8a9d-46b816e4e583",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "BREO ELLIPTA (fluticasone furoate and vilanterol trifenatate) powder"
+    }
+  ],
+  "us_excluded": []
+}

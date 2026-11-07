@@ -1,0 +1,794 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "TRIMETHOPRIM",
+    "TRIMETHOPRIM SULFATE"
+  ],
+  "inn": "trimethoprim",
+  "name": "TRIMETHOPRIM",
+  "rank": 234,
+  "rxcui": [
+    "198332",
+    "198334",
+    "198335",
+    "208406",
+    "208416",
+    "244967",
+    "313134",
+    "313137",
+    "849580"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 27,
+    "approval_holders": 20,
+    "earliest_marketing_start": "1983-07-03",
+    "latest_label_update": "2026-06-03",
+    "nda_bla_applications": 3,
+    "repackagers": 30
+  },
+  "unii": [
+    {
+      "ingredient": "TRIMETHOPRIM",
+      "unii": "AN164J8Y0X"
+    },
+    {
+      "ingredient": "TRIMETHOPRIM SULFATE",
+      "unii": "E377MF8EQ8"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA018679"
+      ],
+      "brand_names": [
+        "Trimethoprim"
+      ],
+      "combination": false,
+      "home_inn": "trimethoprim",
+      "ingredients": [
+        "TRIMETHOPRIM"
+      ],
+      "labeler": "Dr. Reddy's Labratories Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-01-30",
+      "moieties": [
+        "TRIMETHOPRIM"
+      ],
+      "product_ndcs": [
+        "75907-043"
+      ],
+      "rxcui": [
+        "198332"
+      ],
+      "setid": "73ccebc1-7412-2424-d62c-a5180ec52d81",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "TRIMETHOPRIM TABLET [DR. REDDY'S LABRATORIES INC.]",
+      "upload_date": "2024-01-30"
+    },
+    {
+      "application_numbers": [
+        "NDA018615"
+      ],
+      "brand_names": [
+        "SULFATRIM"
+      ],
+      "combination": true,
+      "home_inn": "trimethoprim",
+      "ingredients": [
+        "SULFAMETHOXAZOLE",
+        "TRIMETHOPRIM"
+      ],
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1983-07-03",
+      "moieties": [
+        "SULFAMETHOXAZOLE",
+        "TRIMETHOPRIM"
+      ],
+      "product_ndcs": [
+        "0121-0854"
+      ],
+      "rxcui": [
+        "208406",
+        "313134"
+      ],
+      "setid": "c62086ea-ba15-40f5-8431-4639c60c9825",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "SULFATRIM (SULFAMETHOXAZOLE AND TRIMETHOPRIM) SUSPENSION [PAI HOLDINGS, LLC DBA PAI PHARMA]",
+      "upload_date": "2025-03-10"
+    },
+    {
+      "application_numbers": [
+        "NDA017377"
+      ],
+      "brand_names": [
+        "Bactrim",
+        "Bactrim DS"
+      ],
+      "combination": true,
+      "home_inn": "trimethoprim",
+      "ingredients": [
+        "SULFAMETHOXAZOLE",
+        "TRIMETHOPRIM"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2004-11-01",
+      "moieties": [
+        "SULFAMETHOXAZOLE",
+        "TRIMETHOPRIM"
+      ],
+      "product_ndcs": [
+        "49708-145",
+        "49708-146"
+      ],
+      "rxcui": [
+        "198334",
+        "198335",
+        "208416",
+        "849580"
+      ],
+      "setid": "f59d0c04-9c66-4d53-a0e1-cb55570deb62",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "BACTRIM DS (SULFAMETHOXAZOLE AND TRIMETHOPRIM) TABLET BACTRIM (SULFAMETHOXAZOLE AND TRIMETHOPRIM) TABLET [SUN PHARMACEUTICAL INDUSTRIES, INC]",
+      "upload_date": "2025-01-01"
+    },
+    {
+      "application_numbers": [
+        "NDA018615"
+      ],
+      "brand_names": [
+        "Sulfamethoxazole and Trimethoprim"
+      ],
+      "combination": true,
+      "home_inn": "trimethoprim",
+      "ingredients": [
+        "SULFAMETHOXAZOLE",
+        "TRIMETHOPRIM"
+      ],
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-08-05",
+      "moieties": [
+        "SULFAMETHOXAZOLE",
+        "TRIMETHOPRIM"
+      ],
+      "product_ndcs": [
+        "0121-0853"
+      ],
+      "rxcui": [
+        "313134"
+      ],
+      "setid": "777da85a-a776-4681-976d-326ec421cfc9",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "SULFAMETHOXAZOLE AND TRIMETHOPRIM SUSPENSION [PAI HOLDINGS, LLC DBA PAI PHARMA]",
+      "upload_date": "2024-08-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA091437"
+      ],
+      "brand_names": [
+        "Trimethoprim"
+      ],
+      "combination": false,
+      "home_inn": "trimethoprim",
+      "ingredients": [
+        "TRIMETHOPRIM"
+      ],
+      "labeler": "Lupin Pharmaceuticals,Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-06-24",
+      "moieties": [
+        "TRIMETHOPRIM"
+      ],
+      "product_ndcs": [
+        "43386-330"
+      ],
+      "rxcui": [
+        "198332"
+      ],
+      "setid": "249e938d-f181-47c4-a082-372d65462f33",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "TRIMETHOPRIM TABLET [LUPIN PHARMACEUTICALS,INC.]",
+      "upload_date": "2024-12-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA216393"
+      ],
+      "brand_names": [
+        "Trimethoprim"
+      ],
+      "combination": false,
+      "home_inn": "trimethoprim",
+      "ingredients": [
+        "TRIMETHOPRIM"
+      ],
+      "labeler": "Novitium Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-11-04",
+      "moieties": [
+        "TRIMETHOPRIM"
+      ],
+      "product_ndcs": [
+        "70954-541"
+      ],
+      "rxcui": [
+        "198332"
+      ],
+      "setid": "95a1572c-6109-4d1f-bf92-262015a7654e",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "TRIMETHOPRIM TABLET [NOVITIUM PHARMA LLC]",
+      "upload_date": "2022-11-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA071017"
+      ],
+      "brand_names": [
+        "Sulfamethoxazole and Trimethoprim"
+      ],
+      "combination": true,
+      "home_inn": "trimethoprim",
+      "ingredients": [
+        "SULFAMETHOXAZOLE",
+        "TRIMETHOPRIM"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1986-08-25",
+      "moieties": [
+        "SULFAMETHOXAZOLE",
+        "TRIMETHOPRIM"
+      ],
+      "product_ndcs": [
+        "53489-145",
+        "53489-146"
+      ],
+      "rxcui": [
+        "198334",
+        "198335"
+      ],
+      "setid": "4833319a-a7b3-4bf4-bec4-6531b43182d4",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "SULFAMETHOXAZOLE AND TRIMETHOPRIM TABLET [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2025-04-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA073303"
+      ],
+      "brand_names": [
+        "Sulfamethoxazole and Trimethoprim"
+      ],
+      "combination": true,
+      "home_inn": "trimethoprim",
+      "ingredients": [
+        "SULFAMETHOXAZOLE",
+        "TRIMETHOPRIM"
+      ],
+      "labeler": "Teva Parenteral Medicines, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1991-11-01",
+      "moieties": [
+        "SULFAMETHOXAZOLE",
+        "TRIMETHOPRIM"
+      ],
+      "product_ndcs": [
+        "0703-9514"
+      ],
+      "rxcui": [
+        "313137"
+      ],
+      "setid": "640f5b0c-748d-4a68-a1de-59cc3e00ed49",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "SULFAMETHOXAZOLE AND TRIMETHOPRIM INJECTION, SOLUTION, CONCENTRATE [TEVA PARENTERAL MEDICINES, INC.]",
+      "upload_date": "2025-06-16"
+    },
+    {
+      "application_numbers": [
+        "ANDA064120"
+      ],
+      "brand_names": [
+        "Polymyxin B Sulfate and Trimethoprim"
+      ],
+      "combination": true,
+      "home_inn": "trimethoprim",
+      "ingredients": [
+        "POLYMYXIN B SULFATE",
+        "TRIMETHOPRIM SULFATE"
+      ],
+      "labeler": "Bausch & Lomb Incorporated",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1997-02-14",
+      "moieties": [
+        "POLYMYXIN B",
+        "TRIMETHOPRIM"
+      ],
+      "product_ndcs": [
+        "24208-315"
+      ],
+      "rxcui": [
+        "244967"
+      ],
+      "setid": "87999254-1857-4d3c-817a-cb8f6a5b0cf7",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "POLYMYXIN B SULFATE AND TRIMETHOPRIM (POLYMYXIN B SULFATE AND TRIMETHOPRIM SULFATE) SOLUTION/ DROPS [BAUSCH & LOMB INCORPORATED]",
+      "upload_date": "2026-01-08"
+    },
+    {
+      "application_numbers": [
+        "ANDA064211"
+      ],
+      "brand_names": [
+        "Polymyxin B Sulfate and Trimethoprim"
+      ],
+      "combination": true,
+      "home_inn": "trimethoprim",
+      "ingredients": [
+        "POLYMYXIN B SULFATE",
+        "TRIMETHOPRIM SULFATE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1998-04-16",
+      "moieties": [
+        "POLYMYXIN B",
+        "TRIMETHOPRIM"
+      ],
+      "product_ndcs": [
+        "61314-628"
+      ],
+      "rxcui": [
+        "244967"
+      ],
+      "setid": "71900075-5288-4f4b-afe2-098436fa2173",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "POLYMYXIN B SULFATE AND TRIMETHOPRIM SOLUTION [SANDOZ INC]",
+      "upload_date": "2026-06-03"
+    },
+    {
+      "application_numbers": [
+        "NDA017377"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "BACTRIM"
+      ],
+      "first_posted": "2007-05-10",
+      "found_by": "BACTRIM",
+      "labeler": "AR Scientific, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2018-06-21",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-12-28"
+      ],
+      "product_ndcs": [
+        "13310-145",
+        "13310-146"
+      ],
+      "rxcui": [],
+      "setid": "1ba409b6-8dcd-41d2-aa9e-81b77f87ea14",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "f59d0c04-9c66-4d53-a0e1-cb55570deb62"
+      ],
+      "title": "BACTRIM DS (sulfamethoxazole and trimethoprim) tablet BACTRIM (sulfamethoxazole and trimethoprim) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA018615"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "SULFAMETHOXAZOLE"
+      ],
+      "first_posted": "2013-02-14",
+      "found_by": "SULFAMETHOXAZOLE",
+      "labeler": "STI Pharma LLC",
+      "labeler_unverified": false,
+      "last_posted": "2019-11-06",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-12-31"
+      ],
+      "product_ndcs": [
+        "54879-007"
+      ],
+      "rxcui": [],
+      "setid": "3ef596c8-689e-4349-a5dc-11645f8332ef",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "777da85a-a776-4681-976d-326ec421cfc9",
+        "c62086ea-ba15-40f5-8431-4639c60c9825"
+      ],
+      "title": "SULFATRIM (sulfamethoxazole and trimethoprim) suspension"
+    },
+    {
+      "application_numbers": [
+        "NDA074973"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "PRIMSOL"
+      ],
+      "first_posted": "2015-12-08",
+      "found_by": "PRIMSOL",
+      "labeler": "Aytu BioScience, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2017-09-07",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-01-01"
+      ],
+      "product_ndcs": [
+        "69654-501"
+      ],
+      "rxcui": [],
+      "setid": "688eea63-c972-47f6-a7b3-735e15b1777b",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "PRIMSOL (trimethoprim hydrochloride) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA074973"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "PRIMSOL"
+      ],
+      "first_posted": "2012-03-09",
+      "found_by": "PRIMSOL",
+      "labeler": "Avadel CNS Pharmaceuticals, LLC",
+      "labeler_unverified": true,
+      "last_posted": "2023-01-23",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-10-08"
+      ],
+      "product_ndcs": [
+        "13551-501"
+      ],
+      "rxcui": [],
+      "setid": "a06ea7d8-a884-4b62-a87f-c36d824f2aa4",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "PRIMSOL (trimethoprim hydrochloride) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA018615"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "SULFATRIM"
+      ],
+      "first_posted": "2008-04-18",
+      "found_by": "SULFATRIM",
+      "labeler": "Actavis Pharma, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2017-08-03",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2010-09-30",
+        "2011-07-31"
+      ],
+      "product_ndcs": [
+        "0472-1284",
+        "0472-1285"
+      ],
+      "rxcui": [],
+      "setid": "a8df90d8-78b3-48c3-b42e-1e651d81454b",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "777da85a-a776-4681-976d-326ec421cfc9",
+        "c62086ea-ba15-40f5-8431-4639c60c9825"
+      ],
+      "title": "SULFATRIM (sulfamethoxazole and trimethoprim) suspension"
+    },
+    {
+      "application_numbers": [
+        "NDA074973"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "TRIMPEX"
+      ],
+      "first_posted": "2017-10-10",
+      "found_by": "TRIMPEX",
+      "labeler": "Key Therapeutics, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2018-10-31",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-10-01"
+      ],
+      "product_ndcs": [
+        "70868-120"
+      ],
+      "rxcui": [],
+      "setid": "e36bc14a-4abd-4d40-bad5-41caf4b63414",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "TRIMPEX TRIMETHOPRIM HYDROCHLORIDE (trimethoprim hydrochloride) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA017943"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "PROLOPRIM"
+      ],
+      "first_posted": "2007-01-26",
+      "found_by": "PROLOPRIM",
+      "labeler": "Monarch Pharmaceuticals, Inc",
+      "labeler_unverified": false,
+      "last_posted": "2012-01-24",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2007-01-31"
+      ],
+      "product_ndcs": [
+        "61570-057",
+        "61570-058"
+      ],
+      "rxcui": [],
+      "setid": "ec9ecee2-5b99-4dc0-64bf-70e9ee0d7dba",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "PROLOPRIM (trimethoprim) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA074973"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "PRIMSOL"
+      ],
+      "first_posted": "2017-05-12",
+      "found_by": "PRIMSOL",
+      "labeler": "Allegis Holdings, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2021-12-15",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2020-08-28"
+      ],
+      "product_ndcs": [
+        "71297-500"
+      ],
+      "rxcui": [],
+      "setid": "f40d6d72-31c3-4ef8-b86c-0230e06a9383",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "PRIMSOL (trimethoprim hydrochloride) solution"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": true,
+      "labeler": "Vista Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3edca473-8fdc-462a-b378-6c3279503a70"
+    },
+    {
+      "combination": true,
+      "labeler": "Chartwell Governmental & Specialty RX, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2a5173ba-047d-4a80-81fb-7154265ae3d1"
+    },
+    {
+      "combination": true,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e4a7572f-b372-40eb-963f-919ac100b7a8"
+    },
+    {
+      "combination": true,
+      "labeler": "Cronus Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1b5de94f-973a-4b5a-91d7-45e05be78650"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3233c54d-484d-4550-b172-db8af47d1b7f"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a6182855-6287-45e9-b6b4-7b57efc9c76e"
+    },
+    {
+      "combination": true,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ebb570bb-6e5e-489e-875c-9e7b3a6d716a"
+    },
+    {
+      "combination": true,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5ff03694-787a-409d-a95e-8422aa27499c"
+    },
+    {
+      "combination": true,
+      "labeler": "Prasco Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6111a3c9-1406-4337-8b55-0f33120af819"
+    },
+    {
+      "combination": true,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "93d52a75-9a96-4f96-be41-9ccdcabc0933"
+    },
+    {
+      "combination": false,
+      "labeler": "Novel Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b27e43b5-670b-43f6-b28b-413e54f914da"
+    },
+    {
+      "combination": true,
+      "labeler": "Teva Parenteral Medicines, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b89b5502-ce87-45a6-a43c-9891da3cfca4"
+    },
+    {
+      "combination": true,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b5b7aba5-f93d-46bc-a3c2-712de1c5cff3"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "284b5dac-2b8d-46bf-95fe-80ce03fa178a"
+    },
+    {
+      "combination": true,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e1a3748d-ca73-4e56-95ad-d25189cc346e"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f0e73842-6002-43c2-97fc-0cadc1bf6346"
+    },
+    {
+      "combination": true,
+      "labeler": "Teva Parenteral Medicines, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bf7a0845-de4f-46be-841a-0faf47f8b530"
+    }
+  ]
+}

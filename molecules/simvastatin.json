@@ -1,0 +1,518 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 1,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "only combination central products under this exact INN (combinations are not built)",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "SIMVASTATIN"
+  ],
+  "inn": "simvastatin",
+  "name": "SIMVASTATIN",
+  "rank": 416,
+  "rxcui": [
+    "104490",
+    "104491",
+    "152923",
+    "198211",
+    "200345",
+    "312961",
+    "312962",
+    "314231",
+    "476345",
+    "476349",
+    "476350",
+    "476351",
+    "1245420",
+    "1245430",
+    "1245441",
+    "1245449"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 16,
+    "approval_holders": 13,
+    "earliest_marketing_start": "2006-12-20",
+    "latest_label_update": "2026-09-02",
+    "nda_bla_applications": 2,
+    "repackagers": 17
+  },
+  "unii": [
+    {
+      "ingredient": "SIMVASTATIN",
+      "unii": "AGG2FN16EV"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA019766"
+      ],
+      "brand_names": [
+        "ZOCOR"
+      ],
+      "combination": false,
+      "home_inn": "simvastatin",
+      "ingredients": [
+        "SIMVASTATIN"
+      ],
+      "labeler": "Organon LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-06-01",
+      "moieties": [
+        "SIMVASTATIN"
+      ],
+      "product_ndcs": [
+        "78206-180",
+        "78206-181",
+        "78206-182"
+      ],
+      "rxcui": [
+        "104490",
+        "104491",
+        "152923",
+        "198211",
+        "312961",
+        "314231"
+      ],
+      "setid": "8f55d5de-5a4f-4a39-8c84-c53976dd6af9",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "ZOCOR (SIMVASTATIN) TABLET, FILM COATED [ORGANON LLC]",
+      "upload_date": "2025-04-03"
+    },
+    {
+      "application_numbers": [
+        "NDA021687"
+      ],
+      "brand_names": [
+        "VYTORIN"
+      ],
+      "combination": true,
+      "home_inn": "ezetimibe",
+      "ingredients": [
+        "EZETIMIBE",
+        "SIMVASTATIN"
+      ],
+      "labeler": "Organon LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-06-01",
+      "moieties": [
+        "EZETIMIBE",
+        "SIMVASTATIN"
+      ],
+      "product_ndcs": [
+        "78206-174",
+        "78206-175",
+        "78206-176",
+        "78206-177"
+      ],
+      "rxcui": [
+        "476345",
+        "476349",
+        "476350",
+        "476351",
+        "1245420",
+        "1245430",
+        "1245441",
+        "1245449"
+      ],
+      "setid": "89b860d2-de83-468e-b7e8-76aeec2edca2",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "VYTORIN (EZETIMIBE AND SIMVASTATIN) TABLET [ORGANON LLC]",
+      "upload_date": "2026-01-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA077691"
+      ],
+      "brand_names": [
+        "Simvastatin"
+      ],
+      "combination": false,
+      "home_inn": "simvastatin",
+      "ingredients": [
+        "SIMVASTATIN"
+      ],
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2006-12-20",
+      "moieties": [
+        "SIMVASTATIN"
+      ],
+      "product_ndcs": [
+        "16714-681",
+        "16714-682",
+        "16714-683",
+        "16714-684",
+        "16714-685"
+      ],
+      "rxcui": [
+        "198211",
+        "200345",
+        "312961",
+        "312962",
+        "314231"
+      ],
+      "setid": "0376351b-f1a0-43e5-a0b4-533072c49f39",
+      "source": "openfda",
+      "spl_version": 24,
+      "title": "SIMVASTATIN TABLET, FILM COATED [NORTHSTAR RX LLC]",
+      "upload_date": "2024-04-25"
+    },
+    {
+      "application_numbers": [
+        "ANDA078103"
+      ],
+      "brand_names": [
+        "SIMVASTATIN"
+      ],
+      "combination": false,
+      "home_inn": "simvastatin",
+      "ingredients": [
+        "SIMVASTATIN"
+      ],
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2007-06-12",
+      "moieties": [
+        "SIMVASTATIN"
+      ],
+      "product_ndcs": [
+        "68180-464",
+        "68180-465",
+        "68180-478",
+        "68180-479",
+        "68180-482"
+      ],
+      "rxcui": [
+        "198211",
+        "200345",
+        "312961",
+        "312962",
+        "314231"
+      ],
+      "setid": "3e48217f-8175-4e9b-9fd0-909be4bbba95",
+      "source": "openfda",
+      "spl_version": 23,
+      "title": "SIMVASTATIN TABLET, FILM COATED [LUPIN PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-01-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA078155"
+      ],
+      "brand_names": [
+        "simvastatin"
+      ],
+      "combination": false,
+      "home_inn": "simvastatin",
+      "ingredients": [
+        "SIMVASTATIN"
+      ],
+      "labeler": "Accord Healthcare, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2008-02-26",
+      "moieties": [
+        "SIMVASTATIN"
+      ],
+      "product_ndcs": [
+        "16729-004",
+        "16729-005",
+        "16729-006",
+        "16729-007",
+        "16729-156"
+      ],
+      "rxcui": [
+        "198211",
+        "200345",
+        "312961",
+        "312962",
+        "314231"
+      ],
+      "setid": "871251c0-36a1-4a32-9eab-ff6c1e925ca9",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "SIMVASTATIN TABLET, FILM COATED [ACCORD HEALTHCARE, INC.]",
+      "upload_date": "2025-11-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA200895"
+      ],
+      "brand_names": [
+        "Simvastatin"
+      ],
+      "combination": false,
+      "home_inn": "simvastatin",
+      "ingredients": [
+        "SIMVASTATIN"
+      ],
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-12-03",
+      "moieties": [
+        "SIMVASTATIN"
+      ],
+      "product_ndcs": [
+        "31722-510",
+        "31722-511",
+        "31722-512",
+        "31722-513",
+        "31722-514"
+      ],
+      "rxcui": [
+        "198211",
+        "200345",
+        "312961",
+        "312962",
+        "314231"
+      ],
+      "setid": "751b79c6-bba8-4d29-b69c-a2ac6453fec8",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "SIMVASTATIN (SIMVASTATIN) TABLET, FILM COATED [CAMBER PHARMACEUTICALS, INC.]",
+      "upload_date": "2024-04-08"
+    },
+    {
+      "application_numbers": [
+        "ANDA078034"
+      ],
+      "brand_names": [
+        "Simvastatin"
+      ],
+      "combination": false,
+      "home_inn": "simvastatin",
+      "ingredients": [
+        "SIMVASTATIN"
+      ],
+      "labeler": "Biocon Pharma Inc,",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-12-17",
+      "moieties": [
+        "SIMVASTATIN"
+      ],
+      "product_ndcs": [
+        "70377-001",
+        "70377-002",
+        "70377-003",
+        "70377-004",
+        "70377-005"
+      ],
+      "rxcui": [
+        "198211",
+        "200345",
+        "312961",
+        "312962",
+        "314231"
+      ],
+      "setid": "7b325108-6940-50a7-96b4-822a5206e568",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "SIMVASTATIN TABLET, FILM COATED [BIOCON PHARMA INC,]",
+      "upload_date": "2025-03-26"
+    },
+    {
+      "application_numbers": [
+        "ANDA211394"
+      ],
+      "brand_names": [
+        "Simvastatin"
+      ],
+      "combination": false,
+      "home_inn": "simvastatin",
+      "ingredients": [
+        "SIMVASTATIN"
+      ],
+      "labeler": "Westminster Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-04-14",
+      "moieties": [
+        "SIMVASTATIN"
+      ],
+      "product_ndcs": [
+        "69367-374",
+        "69367-375",
+        "69367-376",
+        "69367-377"
+      ],
+      "rxcui": [
+        "198211",
+        "200345",
+        "312961",
+        "314231"
+      ],
+      "setid": "acaaab63-c9ff-44c9-8fde-9a4ea6454dd7",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "SIMVASTATIN TABLET, FILM COATED [WESTMINSTER PHARMACEUTICALS, LLC]",
+      "upload_date": "2025-06-26"
+    },
+    {
+      "application_numbers": [
+        "NDA021687"
+      ],
+      "archived_versions": 27,
+      "brand_names": [
+        "VYTORIN"
+      ],
+      "first_posted": "2008-07-25",
+      "found_by": "VYTORIN",
+      "labeler": "Merck Sharp & Dohme Corp.",
+      "labeler_unverified": true,
+      "last_posted": "2022-03-18",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-12-31"
+      ],
+      "product_ndcs": [
+        "66582-311",
+        "66582-312",
+        "66582-313",
+        "66582-315"
+      ],
+      "rxcui": [],
+      "setid": "2f58df9c-59fb-4d13-65be-4aff52f223e2",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "89b860d2-de83-468e-b7e8-76aeec2edca2"
+      ],
+      "title": "VYTORIN (ezetimibe and simvastatin) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA019766"
+      ],
+      "archived_versions": 19,
+      "brand_names": [
+        "ZOCOR"
+      ],
+      "first_posted": "2008-08-07",
+      "found_by": "ZOCOR",
+      "labeler": "Merck Sharp & Dohme Corp.",
+      "labeler_unverified": false,
+      "last_posted": "2022-03-17",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-12-31"
+      ],
+      "product_ndcs": [
+        "0006-0543",
+        "0006-0735",
+        "0006-0740",
+        "0006-0749"
+      ],
+      "rxcui": [],
+      "setid": "fdbfe194-b845-42c5-bb87-a48118bc72e7",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "8f55d5de-5a4f-4a39-8c84-c53976dd6af9"
+      ],
+      "title": "ZOCOR (simvastatin) tablet, film coated"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": true,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c90e8c96-e130-42d7-bf0d-5833652e40d5"
+    },
+    {
+      "combination": true,
+      "labeler": "Dr.Reddys Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "023ca87a-1b04-8c17-dc4f-e2758b0771e2"
+    },
+    {
+      "combination": true,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "32d0e130-1211-44ca-be60-5379ffec96fd"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "79dadfde-35c7-4937-9c82-1728fb6be2fb"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4724dbb4-3613-4e6a-948f-a43d34f97f06"
+    },
+    {
+      "combination": false,
+      "labeler": "Quallent Pharmaceuticals Health LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2b4255a7-f9f5-4235-8dbb-b0f03acbd624"
+    },
+    {
+      "combination": false,
+      "labeler": "XLCare Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "433f8a86-5ad3-43db-8e62-c0812dd3d723"
+    },
+    {
+      "combination": true,
+      "labeler": "NORTHSTAR RX LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "52a46269-2262-4052-a3ff-5455523f591f"
+    }
+  ]
+}

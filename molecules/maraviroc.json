@@ -1,0 +1,386 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/000811",
+      "eu_number": "EU/1/07/418",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000811",
+      "mah": "ViiV Healthcare B.V.",
+      "marketing_authorisation_date": "2007-09-18",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/celsentri",
+      "name": "Celsentri",
+      "record_from": "2007-09-18",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 25
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000811",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "MARAVIROC"
+  ],
+  "inn": "maraviroc",
+  "name": "MARAVIROC",
+  "rank": 472,
+  "rxcui": [
+    "728223",
+    "728225",
+    "729201",
+    "729203",
+    "1857921",
+    "1857925"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 8,
+    "approval_holders": 8,
+    "earliest_marketing_start": "2011-05-16",
+    "latest_label_update": "2026-09-30",
+    "nda_bla_applications": 2,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "MARAVIROC",
+      "unii": "MD6P741W8A"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA022128",
+        "NDA208984"
+      ],
+      "brand_names": [
+        "SELZENTRY"
+      ],
+      "combination": false,
+      "home_inn": "maraviroc",
+      "ingredients": [
+        "MARAVIROC"
+      ],
+      "labeler": "ViiV Healthcare Company",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2011-05-16",
+      "moieties": [
+        "MARAVIROC"
+      ],
+      "product_ndcs": [
+        "49702-223",
+        "49702-224",
+        "49702-260"
+      ],
+      "rxcui": [
+        "728223",
+        "728225",
+        "729201",
+        "729203",
+        "1857921",
+        "1857925"
+      ],
+      "setid": "46f30ac5-c96b-429e-976d-8c5ee1c0761b",
+      "source": "openfda",
+      "spl_version": 26,
+      "title": "SELZENTRY (MARAVIROC) TABLET, FILM COATED SELZENTRY (MARAVIROC) KIT [VIIV HEALTHCARE COMPANY]",
+      "upload_date": "2026-06-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA203347"
+      ],
+      "brand_names": [
+        "Maraviroc"
+      ],
+      "combination": false,
+      "home_inn": "maraviroc",
+      "ingredients": [
+        "MARAVIROC"
+      ],
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-02-06",
+      "moieties": [
+        "MARAVIROC"
+      ],
+      "product_ndcs": [
+        "31722-579",
+        "31722-580"
+      ],
+      "rxcui": [
+        "728223",
+        "728225"
+      ],
+      "setid": "09ec3e79-c0d3-4b8f-80d8-0a854c4ca339",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "MARAVIROC (MARAVIROC) TABLET, FILM COATED [CAMBER PHARMACEUTICALS, INC.]",
+      "upload_date": "2022-02-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA217114"
+      ],
+      "brand_names": [
+        "Maraviroc"
+      ],
+      "combination": false,
+      "home_inn": "maraviroc",
+      "ingredients": [
+        "MARAVIROC"
+      ],
+      "labeler": "i3 Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-09-15",
+      "moieties": [
+        "MARAVIROC"
+      ],
+      "product_ndcs": [
+        "72319-024",
+        "72319-025"
+      ],
+      "rxcui": [
+        "728223",
+        "728225"
+      ],
+      "setid": "f7b9c67b-10c6-45b5-b2a8-952cd350b0b1",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "MARAVIROC TABLET, FILM COATED [I3 PHARMACEUTICALS, LLC]",
+      "upload_date": "2023-09-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA217880"
+      ],
+      "brand_names": [
+        "Maraviroc"
+      ],
+      "combination": false,
+      "home_inn": "maraviroc",
+      "ingredients": [
+        "MARAVIROC"
+      ],
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-05-23",
+      "moieties": [
+        "MARAVIROC"
+      ],
+      "product_ndcs": [
+        "70710-1930",
+        "70710-1931"
+      ],
+      "rxcui": [
+        "728223",
+        "728225"
+      ],
+      "setid": "9bba17ba-0bc5-430c-96d1-c568e236a0ed",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "MARAVIROC TABLET, FILM COATED [ZYDUS PHARMACEUTICALS USA INC.]",
+      "upload_date": "2025-05-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA216143"
+      ],
+      "brand_names": [
+        "Maraviroc"
+      ],
+      "combination": false,
+      "home_inn": "maraviroc",
+      "ingredients": [
+        "MARAVIROC"
+      ],
+      "labeler": "Rhodes Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-09-30",
+      "moieties": [
+        "MARAVIROC"
+      ],
+      "product_ndcs": [
+        "42858-246",
+        "42858-247"
+      ],
+      "rxcui": [
+        "728223",
+        "728225"
+      ],
+      "setid": "c35f72dc-d90e-43f8-9899-f7d1da89460d",
+      "source": "dailymed-title-match",
+      "spl_version": 5,
+      "title": "MARAVIROC TABLET, FILM COATED [RHODES PHARMACEUTICALS LLC]",
+      "upload_date": "2026-09-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA203347"
+      ],
+      "brand_names": [
+        "Maraviroc"
+      ],
+      "combination": false,
+      "home_inn": "maraviroc",
+      "ingredients": [
+        "MARAVIROC"
+      ],
+      "labeler": "XLCare Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-06-01",
+      "moieties": [
+        "MARAVIROC"
+      ],
+      "product_ndcs": [
+        "72865-231",
+        "72865-232"
+      ],
+      "rxcui": [
+        "728223",
+        "728225"
+      ],
+      "setid": "d3a728e2-1866-462e-bfcc-5f3c9dd88794",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "MARAVIROC (MARAVIROC) TABLET, FILM COATED [XLCARE PHARMACEUTICALS INC.]",
+      "upload_date": "2023-07-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA217114"
+      ],
+      "brand_names": [
+        "Maraviroc"
+      ],
+      "combination": false,
+      "home_inn": "maraviroc",
+      "ingredients": [
+        "MARAVIROC"
+      ],
+      "labeler": "A2A Integrated Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-05-16",
+      "moieties": [
+        "MARAVIROC"
+      ],
+      "product_ndcs": [
+        "73141-024",
+        "73141-025"
+      ],
+      "rxcui": [
+        "728223",
+        "728225"
+      ],
+      "setid": "2a16417d-a3b8-483b-9dfe-d5263cc16538",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "MARAVIROC TABLET, FILM COATED [A2A INTEGRATED PHARMACEUTICALS]",
+      "upload_date": "2025-04-28"
+    },
+    {
+      "application_numbers": [
+        "NDA022128"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "SELZENTRY"
+      ],
+      "first_posted": "2010-11-30",
+      "found_by": "SELZENTRY",
+      "labeler": "ViiV Healthcare Company",
+      "labeler_unverified": false,
+      "last_posted": "2011-07-26",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-01-31",
+        "2015-03-31"
+      ],
+      "product_ndcs": [
+        "49702-215",
+        "49702-216"
+      ],
+      "rxcui": [],
+      "setid": "9fff9b6b-aff5-464a-a9a8-32d95cbd6955",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "46f30ac5-c96b-429e-976d-8c5ee1c0761b"
+      ],
+      "title": "SELZENTRY (maraviroc) tablet, film coated"
+    },
+    {
+      "application_numbers": [
+        "NDA022128"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "SELZENTRY"
+      ],
+      "first_posted": "2007-09-06",
+      "found_by": "SELZENTRY",
+      "labeler": "Pfizer Laboratories Div Pfizer Inc",
+      "labeler_unverified": false,
+      "last_posted": "2018-12-31",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2010-01-01"
+      ],
+      "product_ndcs": [
+        "0069-0807",
+        "0069-0808"
+      ],
+      "rxcui": [],
+      "setid": "a94a9a2b-337b-4c13-8622-fc392194dc21",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "46f30ac5-c96b-429e-976d-8c5ee1c0761b"
+      ],
+      "title": "SELZENTRY (maraviroc) tablet, film coated"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Navinta LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "211290a4-5e26-4784-aa99-8ccaf2eaaa15"
+    }
+  ]
+}

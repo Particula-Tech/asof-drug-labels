@@ -1,0 +1,1115 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "OXYCODONE",
+    "OXYCODONE HYDROCHLORIDE"
+  ],
+  "inn": "oxycodone",
+  "name": "OXYCODONE",
+  "rank": 90,
+  "rxcui": [
+    "1049504",
+    "1049545",
+    "1049565",
+    "1049576",
+    "1049586",
+    "1049595",
+    "1049601",
+    "1049604",
+    "1049611",
+    "1049613",
+    "1049615",
+    "1049618",
+    "1049620",
+    "1049621",
+    "1049683",
+    "1049686",
+    "1113314",
+    "1664448",
+    "1664634",
+    "1790527",
+    "1790533",
+    "1791558",
+    "1791560",
+    "1791567",
+    "1791569",
+    "1791574",
+    "1791576",
+    "1791580",
+    "1791582",
+    "1860127",
+    "1860129",
+    "1860137",
+    "1860148",
+    "1860151",
+    "1860154",
+    "1860157",
+    "1944529",
+    "1944535",
+    "1944538",
+    "1944540",
+    "1944541",
+    "1944543",
+    "2693194",
+    "2693196"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 59,
+    "approval_holders": 30,
+    "earliest_marketing_start": "1983-12-07",
+    "latest_label_update": "2026-10-12",
+    "nda_bla_applications": 6,
+    "repackagers": 13
+  },
+  "unii": [
+    {
+      "ingredient": "OXYCODONE",
+      "unii": "CD35PMG570"
+    },
+    {
+      "ingredient": "OXYCODONE HYDROCHLORIDE",
+      "unii": "C1ENJ2TE6C"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021011"
+      ],
+      "brand_names": [
+        "Roxicodone"
+      ],
+      "combination": false,
+      "home_inn": "oxycodone",
+      "ingredients": [
+        "OXYCODONE HYDROCHLORIDE"
+      ],
+      "labeler": "SpecGx LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2000-08-31",
+      "moieties": [
+        "OXYCODONE"
+      ],
+      "product_ndcs": [
+        "23635-581",
+        "23635-582"
+      ],
+      "rxcui": [
+        "1049611",
+        "1049613",
+        "1049618",
+        "1049620"
+      ],
+      "setid": "5a8157d3-ba20-4abf-b0d4-6ad141b31d63",
+      "source": "openfda",
+      "spl_version": 30,
+      "title": "ROXICODONE (OXYCODONE HYDROCHLORIDE) TABLET [SPECGX LLC]",
+      "upload_date": "2026-04-30"
+    },
+    {
+      "application_numbers": [
+        "NDA022272"
+      ],
+      "brand_names": [
+        "OxyContin"
+      ],
+      "combination": false,
+      "home_inn": "oxycodone",
+      "ingredients": [
+        "OXYCODONE HYDROCHLORIDE"
+      ],
+      "labeler": "Knoa Pharma LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2010-08-08",
+      "moieties": [
+        "OXYCODONE"
+      ],
+      "product_ndcs": [
+        "59011-410",
+        "59011-415",
+        "59011-420",
+        "59011-430",
+        "59011-440",
+        "59011-460",
+        "59011-480"
+      ],
+      "rxcui": [
+        "1049504",
+        "1049545",
+        "1049565",
+        "1049576",
+        "1049586",
+        "1049595",
+        "1049601",
+        "1860127",
+        "1860129",
+        "1860137",
+        "1860148",
+        "1860151",
+        "1860154",
+        "1860157"
+      ],
+      "setid": "bfdfe235-d717-4855-a3c8-a13d26dadede",
+      "source": "openfda",
+      "spl_version": 44,
+      "title": "OXYCONTIN (OXYCODONE HYDROCHLORIDE) TABLET, FILM COATED, EXTENDED RELEASE [KNOA PHARMA LLC]",
+      "upload_date": "2026-06-26"
+    },
+    {
+      "application_numbers": [
+        "NDA200535"
+      ],
+      "brand_names": [
+        "Oxycodone Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "oxycodone",
+      "ingredients": [
+        "OXYCODONE HYDROCHLORIDE"
+      ],
+      "labeler": "Genus Lifesciences Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2013-09-09",
+      "moieties": [
+        "OXYCODONE"
+      ],
+      "product_ndcs": [
+        "64950-354"
+      ],
+      "rxcui": [
+        "1049604",
+        "1049615"
+      ],
+      "setid": "6869fec9-1837-4221-afd8-5cc6fadd025d",
+      "source": "openfda",
+      "spl_version": 25,
+      "title": "OXYCODONE HYDROCHLORIDE SOLUTION [GENUS LIFESCIENCES INC.]",
+      "upload_date": "2026-04-20"
+    },
+    {
+      "application_numbers": [
+        "NDA202080"
+      ],
+      "brand_names": [
+        "OXAYDO"
+      ],
+      "combination": false,
+      "home_inn": "oxycodone",
+      "ingredients": [
+        "OXYCODONE HYDROCHLORIDE"
+      ],
+      "labeler": "Zyla Life Sciences US LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-09-01",
+      "moieties": [
+        "OXYCODONE"
+      ],
+      "product_ndcs": [
+        "69344-113",
+        "69344-213"
+      ],
+      "rxcui": [
+        "1049621",
+        "1113314",
+        "1664448",
+        "1664634"
+      ],
+      "setid": "cff0c64a-63f5-4b3c-909a-cdecf6755cbe",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "OXAYDO (OXYCODONE HYDROCHLORIDE) TABLET [ZYLA LIFE SCIENCES US LLC]",
+      "upload_date": "2026-01-08"
+    },
+    {
+      "application_numbers": [
+        "NDA208090"
+      ],
+      "brand_names": [
+        "XTAMPZA ER"
+      ],
+      "combination": false,
+      "home_inn": "oxycodone",
+      "ingredients": [
+        "OXYCODONE"
+      ],
+      "labeler": "Collegium Pharmaceutical, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2016-05-10",
+      "moieties": [
+        "OXYCODONE"
+      ],
+      "product_ndcs": [
+        "24510-110",
+        "24510-115",
+        "24510-120",
+        "24510-130",
+        "24510-140"
+      ],
+      "rxcui": [
+        "1790527",
+        "1790533",
+        "1791558",
+        "1791560",
+        "1791567",
+        "1791569",
+        "1791574",
+        "1791576",
+        "1791580",
+        "1791582"
+      ],
+      "setid": "b0a5ded2-8ee2-49ca-a86c-2b28ae40f60c",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "XTAMPZA ER (OXYCODONE) CAPSULE, EXTENDED RELEASE [COLLEGIUM PHARMACEUTICAL, INC.]",
+      "upload_date": "2026-01-06"
+    },
+    {
+      "application_numbers": [
+        "NDA209777"
+      ],
+      "brand_names": [
+        "RoxyBond"
+      ],
+      "combination": false,
+      "home_inn": "oxycodone",
+      "ingredients": [
+        "OXYCODONE HYDROCHLORIDE"
+      ],
+      "labeler": "Protega Pharmaceuticals Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-04-20",
+      "moieties": [
+        "OXYCODONE"
+      ],
+      "product_ndcs": [
+        "81140-101",
+        "81140-102",
+        "81140-103",
+        "81140-104"
+      ],
+      "rxcui": [
+        "1944529",
+        "1944535",
+        "1944538",
+        "1944540",
+        "1944541",
+        "1944543",
+        "2693194",
+        "2693196"
+      ],
+      "setid": "72398542-8e0a-47b2-afeb-9ca5a1f15083",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "ROXYBOND (OXYCODONE HYDROCHLORIDE) TABLET, COATED [PROTEGA PHARMACEUTICALS INC]",
+      "upload_date": "2026-01-14"
+    },
+    {
+      "application_numbers": [
+        "NDA022272"
+      ],
+      "brand_names": [
+        "OXYCODONE HYDROCHLORIDE"
+      ],
+      "combination": false,
+      "home_inn": "oxycodone",
+      "ingredients": [
+        "OXYCODONE HYDROCHLORIDE"
+      ],
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2016-02-22",
+      "moieties": [
+        "OXYCODONE"
+      ],
+      "product_ndcs": [
+        "0115-1560"
+      ],
+      "rxcui": [
+        "1860127",
+        "1860129",
+        "1860137",
+        "1860148",
+        "1860151",
+        "1860154",
+        "1860157"
+      ],
+      "setid": "c2c57ae7-86b9-47bb-a31b-ed1c4327ce7f",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "OXYCODONE HYDROCHLORIDE TABLET, FILM COATED, EXTENDED RELEASE [AMNEAL PHARMACEUTICALS OF NEW YORK LLC]",
+      "upload_date": "2026-05-20"
+    },
+    {
+      "application_numbers": [
+        "ANDA076758",
+        "ANDA210758"
+      ],
+      "brand_names": [
+        "OXYCODONE HYDROCHLORIDE",
+        "Oxycodone Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "oxycodone",
+      "ingredients": [
+        "OXYCODONE HYDROCHLORIDE"
+      ],
+      "labeler": "SpecGx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2004-06-30",
+      "moieties": [
+        "OXYCODONE"
+      ],
+      "product_ndcs": [
+        "0406-0552",
+        "0406-8510",
+        "0406-8515",
+        "0406-8520",
+        "0406-8530",
+        "0406-8556",
+        "0406-8557"
+      ],
+      "rxcui": [
+        "1049611",
+        "1049618",
+        "1049621",
+        "1049683",
+        "1049686"
+      ],
+      "setid": "928227bf-89c5-4c64-9823-0e84cc669388",
+      "source": "openfda",
+      "spl_version": 36,
+      "title": "OXYCODONE HYDROCHLORIDE TABLET [SPECGX LLC]",
+      "upload_date": "2026-08-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA202116"
+      ],
+      "brand_names": [
+        "Oxycodone hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "oxycodone",
+      "ingredients": [
+        "OXYCODONE HYDROCHLORIDE"
+      ],
+      "labeler": "Alvogen, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-12-30",
+      "moieties": [
+        "OXYCODONE"
+      ],
+      "product_ndcs": [
+        "47781-263",
+        "47781-264",
+        "47781-265"
+      ],
+      "rxcui": [
+        "1049611",
+        "1049618",
+        "1049621"
+      ],
+      "setid": "20bb6bb4-230a-c9c2-01d8-a6e9341e96ba",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "OXYCODONE HYDROCHLORIDE TABLET [ALVOGEN, INC.]",
+      "upload_date": "2026-02-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA202160"
+      ],
+      "brand_names": [
+        "Oxycodone Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "oxycodone",
+      "ingredients": [
+        "OXYCODONE HYDROCHLORIDE"
+      ],
+      "labeler": "Aurolife Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-07-12",
+      "moieties": [
+        "OXYCODONE"
+      ],
+      "product_ndcs": [
+        "13107-055",
+        "13107-056",
+        "13107-057"
+      ],
+      "rxcui": [
+        "1049611",
+        "1049618",
+        "1049621"
+      ],
+      "setid": "96ad4352-fff3-46a7-85de-466cc161045e",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "OXYCODONE HYDROCHLORIDE TABLET [AUROLIFE PHARMA, LLC]",
+      "upload_date": "2025-12-25"
+    },
+    {
+      "application_numbers": [
+        "ANDA203638"
+      ],
+      "brand_names": [
+        "Oxycodone Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "oxycodone",
+      "ingredients": [
+        "OXYCODONE HYDROCHLORIDE"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-10-30",
+      "moieties": [
+        "OXYCODONE"
+      ],
+      "product_ndcs": [
+        "65162-047",
+        "65162-048",
+        "65162-049",
+        "65162-050",
+        "65162-051"
+      ],
+      "rxcui": [
+        "1049611",
+        "1049618",
+        "1049621",
+        "1049683",
+        "1049686"
+      ],
+      "setid": "094b64b3-cd32-4de5-afb6-ea00d9caad74",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "OXYCODONE HYDROCHLORIDE (OXYCODONE) TABLET [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2026-07-16"
+    },
+    {
+      "application_numbers": [
+        "ANDA091393"
+      ],
+      "brand_names": [
+        "OXYCODONE HYDROCHLORIDE"
+      ],
+      "combination": false,
+      "home_inn": "oxycodone",
+      "ingredients": [
+        "OXYCODONE HYDROCHLORIDE"
+      ],
+      "labeler": "KVK-TECH,INC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-10-18",
+      "moieties": [
+        "OXYCODONE"
+      ],
+      "product_ndcs": [
+        "10702-008",
+        "10702-009",
+        "10702-018",
+        "10702-056",
+        "10702-057"
+      ],
+      "rxcui": [
+        "1049611",
+        "1049618",
+        "1049621",
+        "1049683",
+        "1049686"
+      ],
+      "setid": "e73897d6-b920-4300-a564-5dbc9c8e9fe9",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "OXYCODONE HYDROCHLORIDE TABLET [KVK-TECH,INC]",
+      "upload_date": "2026-06-08"
+    },
+    {
+      "application_numbers": [
+        "NDA209777"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "ROXYBOND"
+      ],
+      "first_posted": "2017-10-02",
+      "found_by": "ROXYBOND",
+      "labeler": "Inspirion Delivery Sciences Llc",
+      "labeler_unverified": true,
+      "last_posted": "2018-07-30",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-10-01"
+      ],
+      "product_ndcs": [
+        "69296-005",
+        "69296-006",
+        "69296-007"
+      ],
+      "rxcui": [],
+      "setid": "279662c7-51ef-44cd-a002-04bc95049566",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "72398542-8e0a-47b2-afeb-9ca5a1f15083"
+      ],
+      "title": "ROXYBOND (oxycodone hydrochloride) tablet, coated"
+    },
+    {
+      "application_numbers": [
+        "NDA209777"
+      ],
+      "archived_versions": 8,
+      "brand_names": [
+        "ROXYBOND"
+      ],
+      "first_posted": "2017-09-11",
+      "found_by": "ROXYBOND",
+      "labeler": "Daiichi Sankyo Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2019-11-21",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-04-21"
+      ],
+      "product_ndcs": [
+        "65597-501",
+        "65597-502",
+        "65597-503"
+      ],
+      "rxcui": [],
+      "setid": "2d0eca5d-fe5f-410b-991e-5e365c173703",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "72398542-8e0a-47b2-afeb-9ca5a1f15083"
+      ],
+      "title": "ROXYBOND (oxycodone hydrochloride) tablet, coated"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 3,
+      "brand_names": [
+        "ROXICODONE"
+      ],
+      "first_posted": "2010-07-20",
+      "found_by": "ROXICODONE",
+      "labeler": "Xanodyne Pharmaceuticals, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2011-01-20",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "66479-583",
+        "66479-584"
+      ],
+      "rxcui": [],
+      "setid": "68919bbd-5537-4075-8fae-c7dc7de868c4",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ROXICODONE (oxycodone hydrochloride) solution ROXICODONE (oxycodone hydrochloride) concentrate"
+    },
+    {
+      "application_numbers": [
+        "NDA021011"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "ROXICODONE"
+      ],
+      "first_posted": "2007-06-07",
+      "found_by": "ROXICODONE",
+      "labeler": "Xanodyne Pharmaceuticals, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2012-10-31",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2014-06-30",
+        "2014-12-31",
+        "2015-07-31"
+      ],
+      "product_ndcs": [
+        "66479-580",
+        "66479-581",
+        "66479-582"
+      ],
+      "rxcui": [],
+      "setid": "7ff22143-2093-4233-ac99-0116ee2fb7c5",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "5a8157d3-ba20-4abf-b0d4-6ad141b31d63"
+      ],
+      "title": "ROXICODONE (oxycodone hydrochloride) tablet"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d8e87c66-f872-4e1d-9ade-ef11490af63b"
+    },
+    {
+      "combination": false,
+      "labeler": "Rhodes Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a5162476-1217-41c0-bc7e-0a0f123f069f"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3eddd18b-695a-4e53-a76c-f6779515b918"
+    },
+    {
+      "combination": false,
+      "labeler": "KVK-TECH, INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "338b5391-e5f7-40a2-8b15-57f47cbc4813"
+    },
+    {
+      "combination": false,
+      "labeler": "Novel Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "69410bf3-0d3a-41f9-b10a-c4ee3770f728"
+    },
+    {
+      "combination": false,
+      "labeler": "Epic Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cff1eee3-7c02-4f6c-acc5-1f6dcbab92c0"
+    },
+    {
+      "combination": false,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "819ed9fc-0a21-4ed0-9080-91912c5f8ce2"
+    },
+    {
+      "combination": false,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5df92fed-6194-4905-9ef2-9eed0d2e8086"
+    },
+    {
+      "combination": false,
+      "labeler": "MAJOR PHARMACEUTICALS",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6d249bc5-79c4-4c42-a71b-d667c75163db"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals,Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "801cb437-c189-44f5-83eb-a51c365d8a6b"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascent Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "de96e2be-66d9-4bcb-a133-221ad32e09f1"
+    },
+    {
+      "combination": false,
+      "labeler": "KVK-Tech, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "744f5d1c-7427-492c-8994-c8e817793e53"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "01db4606-d49c-4b10-a78a-1cf41880a9fb"
+    },
+    {
+      "combination": false,
+      "labeler": "Eywa Pharma Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c801963d-f54d-4ed5-82c4-8b278528d3dc"
+    },
+    {
+      "combination": false,
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "73b063b5-24b7-40bf-bc2a-c0e1bfaf61d1"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurolife Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0b3fa92e-8351-4401-860d-4bba8a7155e6"
+    },
+    {
+      "combination": false,
+      "labeler": "QUAGEN PHARMACEUTICALS LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "391701e5-2035-43fa-91ce-d27a1af19492"
+    },
+    {
+      "combination": false,
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f3116ebf-d72c-4e98-aa50-006be4770c86"
+    },
+    {
+      "combination": true,
+      "labeler": "SpecGx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f2137f1a-b49a-40bd-97ac-cd6b36e295f4"
+    },
+    {
+      "combination": true,
+      "labeler": "SpecGx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4dd36cf5-8f73-404a-8b1d-3bd53bd90c25"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "683d563f-0686-4964-8183-cf08758cae71"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d61e0ff4-e04b-4dc6-b818-6a8f46e99b5e"
+    },
+    {
+      "combination": true,
+      "labeler": "Alvogen, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "900ec197-720e-5428-b526-055b7756aa4a"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurolife Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "69df20d9-b1d5-47dc-9ff0-29987284f8c7"
+    },
+    {
+      "combination": true,
+      "labeler": "Rhodes Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5999f3c3-3225-4d24-82cd-0b8d7a309587"
+    },
+    {
+      "combination": true,
+      "labeler": "Lupin Pharmaceuticals,Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "916ff456-a27e-49dc-a312-274126a8c30c"
+    },
+    {
+      "combination": true,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2a49ee34-6f1d-4ed3-8daa-343723d2a2be"
+    },
+    {
+      "combination": true,
+      "labeler": "Elite Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "27fa8190-d334-4bb9-b277-d1f44db433e3"
+    },
+    {
+      "combination": true,
+      "labeler": "KVK-Tech, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f9cf218c-af5e-4249-aa3b-a8555ed02278"
+    },
+    {
+      "combination": true,
+      "labeler": "Forte Bio-Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f5f7dfca-a5c7-4445-8a5e-9ec62f33f5be"
+    },
+    {
+      "combination": true,
+      "labeler": "Epic Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "700a229f-dc2d-7086-e053-2991aa0aec91"
+    },
+    {
+      "combination": true,
+      "labeler": "Eywa Pharma Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1da85ac1-46a2-4081-b533-4890ec9e0482"
+    },
+    {
+      "combination": true,
+      "labeler": "KVK-Tech, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9986aa04-c976-4654-8ad7-b97d2eecea93"
+    },
+    {
+      "combination": true,
+      "labeler": "FH2 Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "96b0067e-aabe-df4f-e053-2995a90a4a86"
+    },
+    {
+      "combination": true,
+      "labeler": "Epic Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3292a7c6-5ba3-4563-bc62-e43040634123"
+    },
+    {
+      "combination": true,
+      "labeler": "Granules Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cc966d57-7cdc-4de3-bbcf-718e2fce9cb7"
+    },
+    {
+      "combination": false,
+      "labeler": "MAJOR PHARMACEUTICALS",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e4fbf3fd-8755-4699-9a61-ba7fada0f93f"
+    },
+    {
+      "combination": false,
+      "labeler": "SpecGx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5451bcaa-0aca-4581-bcea-2f9c2a33b260"
+    },
+    {
+      "combination": false,
+      "labeler": "Eywa Pharma Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "685f409f-946f-4b7e-8130-5ad7b92a5e7a"
+    },
+    {
+      "combination": false,
+      "labeler": "XLCare Pharmaceuticals, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e5c8e72d-4ac5-4ca3-9557-6a659d4d8338"
+    },
+    {
+      "combination": true,
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "944d3e60-7eee-11de-a413-0002a5d5c51b"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c5cc2e88-aa00-46bd-91dc-901c3a7c899c"
+    },
+    {
+      "combination": true,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "42777191-0454-4ccb-8fc3-8b18b0ee43f7"
+    },
+    {
+      "combination": true,
+      "labeler": "XLCare Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7f3c6dd7-6bc8-450e-aded-997f9cf63a8f"
+    },
+    {
+      "combination": true,
+      "labeler": "FH2 Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "88d97caf-bcf5-3cde-e053-2995a90acf4a"
+    },
+    {
+      "combination": true,
+      "labeler": "Forte Bio-Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9cbbfa94-37b9-9652-e053-2995a90a736b"
+    },
+    {
+      "combination": true,
+      "labeler": "Forte Bio-Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9d75ad3b-bc9b-0c22-e053-2a95a90ac71e"
+    }
+  ]
+}

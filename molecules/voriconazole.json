@@ -1,0 +1,689 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand VFEND",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000387",
+      "eu_number": "EU/1/02/212",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000387",
+      "mah": "Pfizer Europe MA EEIG",
+      "marketing_authorisation_date": "2002-03-19",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/vfend",
+      "name": "Vfend",
+      "record_from": "2002-03-19",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 47
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/002669",
+      "eu_number": "EU/1/13/835",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-002669",
+      "mah": "Accord Healthcare S.L.U.",
+      "marketing_authorisation_date": "2013-05-16",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/voriconazole-accord",
+      "name": "Voriconazole Accord",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/003737",
+      "eu_number": "EU/1/15/1004",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-003737",
+      "mah": "Hikma Farmaceutica (Portugal) S.A.",
+      "marketing_authorisation_date": "2015-05-27",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/voriconazole-hikma",
+      "name": "Voriconazole Hikma (previously Voriconazole Hospira)",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000387",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "VORICONAZOLE"
+  ],
+  "inn": "voriconazole",
+  "name": "VORICONAZOLE",
+  "rank": 137,
+  "rxcui": [
+    "349434",
+    "349435",
+    "351209",
+    "352218",
+    "352219",
+    "352220",
+    "465355",
+    "546624"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 33,
+    "approval_holders": 27,
+    "earliest_marketing_start": "2002-05-24",
+    "latest_label_update": "2026-08-03",
+    "nda_bla_applications": 4,
+    "repackagers": 6
+  },
+  "unii": [
+    {
+      "ingredient": "VORICONAZOLE",
+      "unii": "JFU09I87TR"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021267"
+      ],
+      "brand_names": [
+        "VFEND"
+      ],
+      "combination": false,
+      "home_inn": "voriconazole",
+      "ingredients": [
+        "VORICONAZOLE"
+      ],
+      "labeler": "Roerig",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2002-05-24",
+      "moieties": [
+        "VORICONAZOLE"
+      ],
+      "product_ndcs": [
+        "0049-3190"
+      ],
+      "rxcui": [
+        "351209",
+        "352220"
+      ],
+      "setid": "dac26bcd-7a59-401f-9f66-a0649767cece",
+      "source": "openfda",
+      "spl_version": 30,
+      "title": "VFEND (VORICONAZOLE) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [ROERIG]",
+      "upload_date": "2026-03-23"
+    },
+    {
+      "application_numbers": [
+        "NDA208562"
+      ],
+      "brand_names": [
+        "Voriconazole"
+      ],
+      "combination": false,
+      "home_inn": "voriconazole",
+      "ingredients": [
+        "VORICONAZOLE"
+      ],
+      "labeler": "Xellia Pharmaceuticals USA LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-08-24",
+      "moieties": [
+        "VORICONAZOLE"
+      ],
+      "product_ndcs": [
+        "70594-067"
+      ],
+      "rxcui": [
+        "351209"
+      ],
+      "setid": "9ec6eda2-2f15-423b-9ec6-819379a426e1",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "VORICONAZOLE INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [XELLIA PHARMACEUTICALS USA LLC]",
+      "upload_date": "2024-04-02"
+    },
+    {
+      "application_numbers": [
+        "NDA021266",
+        "NDA021267",
+        "NDA021630"
+      ],
+      "brand_names": [
+        "VFEND"
+      ],
+      "combination": false,
+      "home_inn": "voriconazole",
+      "ingredients": [
+        "VORICONAZOLE"
+      ],
+      "labeler": "Roerig",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2003-03-28",
+      "moieties": [
+        "VORICONAZOLE"
+      ],
+      "product_ndcs": [
+        "0049-3160",
+        "0049-3180",
+        "0049-3190"
+      ],
+      "rxcui": [
+        "349434",
+        "349435",
+        "351209",
+        "352218",
+        "352219",
+        "352220",
+        "465355",
+        "546624"
+      ],
+      "setid": "ce3ef5cf-3087-4d92-9d94-9eb8287228db",
+      "source": "openfda",
+      "spl_version": 58,
+      "title": "VFEND (VORICONAZOLE) TABLET, FILM COATED VFEND (VORICONAZOLE) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION VFEND (VORICONAZOLE) POWDER, FOR SUSPENSION [ROERIG]",
+      "upload_date": "2026-03-02"
+    },
+    {
+      "application_numbers": [
+        "NDA021267"
+      ],
+      "brand_names": [
+        "VFEND"
+      ],
+      "combination": false,
+      "home_inn": "voriconazole",
+      "ingredients": [
+        "VORICONAZOLE"
+      ],
+      "labeler": "Roerig",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2012-10-24",
+      "moieties": [
+        "VORICONAZOLE"
+      ],
+      "product_ndcs": [
+        "0049-4190"
+      ],
+      "rxcui": [
+        "351209",
+        "352220"
+      ],
+      "setid": "08d08721-1f4c-478a-8abf-d9c402d50553",
+      "source": "openfda",
+      "spl_version": 33,
+      "title": "VFEND (VORICONAZOLE) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [ROERIG]",
+      "upload_date": "2026-03-23"
+    },
+    {
+      "application_numbers": [
+        "NDA021630"
+      ],
+      "brand_names": [
+        "Voriconazole"
+      ],
+      "combination": false,
+      "home_inn": "voriconazole",
+      "ingredients": [
+        "VORICONAZOLE"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2013-12-16",
+      "moieties": [
+        "VORICONAZOLE"
+      ],
+      "product_ndcs": [
+        "59762-0935"
+      ],
+      "rxcui": [
+        "465355"
+      ],
+      "setid": "b8de04a0-238d-4e0b-b0d9-7f7878b149d4",
+      "source": "openfda",
+      "spl_version": 62,
+      "title": "VORICONAZOLE POWDER, FOR SUSPENSION [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2026-06-03"
+    },
+    {
+      "application_numbers": [
+        "ANDA090547"
+      ],
+      "brand_names": [
+        "Voriconazole"
+      ],
+      "combination": false,
+      "home_inn": "voriconazole",
+      "ingredients": [
+        "VORICONAZOLE"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-02-15",
+      "moieties": [
+        "VORICONAZOLE"
+      ],
+      "product_ndcs": [
+        "0378-1626",
+        "0378-1640"
+      ],
+      "rxcui": [
+        "349434",
+        "349435"
+      ],
+      "setid": "67c174da-41b8-4738-8a22-dd814b8e96b8",
+      "source": "openfda",
+      "spl_version": 27,
+      "title": "VORICONAZOLE TABLET, FILM COATED [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2026-04-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA200265"
+      ],
+      "brand_names": [
+        "voriconazole"
+      ],
+      "combination": false,
+      "home_inn": "voriconazole",
+      "ingredients": [
+        "VORICONAZOLE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-12-12",
+      "moieties": [
+        "VORICONAZOLE"
+      ],
+      "product_ndcs": [
+        "0781-5667",
+        "0781-5668"
+      ],
+      "rxcui": [
+        "349434",
+        "349435"
+      ],
+      "setid": "e2b3c0b3-02a6-45c3-a8ea-05d210dc9108",
+      "source": "openfda",
+      "spl_version": 23,
+      "title": "VORICONAZOLE TABLET, FILM COATED [SANDOZ INC]",
+      "upload_date": "2026-04-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA090862"
+      ],
+      "brand_names": [
+        "Voriconazole"
+      ],
+      "combination": false,
+      "home_inn": "voriconazole",
+      "ingredients": [
+        "VORICONAZOLE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-05-30",
+      "moieties": [
+        "VORICONAZOLE"
+      ],
+      "product_ndcs": [
+        "0781-3416"
+      ],
+      "rxcui": [
+        "351209"
+      ],
+      "setid": "e648a0e4-f324-49dc-a8f6-cf25ff3b2dfe",
+      "source": "openfda",
+      "spl_version": 30,
+      "title": "VORICONAZOLE INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [SANDOZ INC]",
+      "upload_date": "2026-04-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA205034"
+      ],
+      "brand_names": [
+        "Voriconazole"
+      ],
+      "combination": false,
+      "home_inn": "voriconazole",
+      "ingredients": [
+        "VORICONAZOLE"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-11-29",
+      "moieties": [
+        "VORICONAZOLE"
+      ],
+      "product_ndcs": [
+        "65162-913"
+      ],
+      "rxcui": [
+        "465355"
+      ],
+      "setid": "ed6624a9-0b73-4a21-bf13-a8add2081d02",
+      "source": "openfda",
+      "spl_version": 25,
+      "title": "VORICONAZOLE POWDER, FOR SUSPENSION [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2026-03-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA203503"
+      ],
+      "brand_names": [
+        "voriconazole"
+      ],
+      "combination": false,
+      "home_inn": "voriconazole",
+      "ingredients": [
+        "VORICONAZOLE"
+      ],
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-09-04",
+      "moieties": [
+        "VORICONAZOLE"
+      ],
+      "product_ndcs": [
+        "68462-572",
+        "68462-573"
+      ],
+      "rxcui": [
+        "349434",
+        "349435"
+      ],
+      "setid": "4cbac6ad-0faa-4181-a830-27a9f1536b7a",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "VORICONAZOLE TABLET, FILM COATED [GLENMARK PHARMACEUTICALS INC., USA]",
+      "upload_date": "2025-08-22"
+    },
+    {
+      "application_numbers": [
+        "NDA021267"
+      ],
+      "archived_versions": 23,
+      "brand_names": [
+        "VFEND"
+      ],
+      "first_posted": "2013-04-18",
+      "found_by": "VFEND",
+      "labeler": "Roerig",
+      "labeler_unverified": false,
+      "last_posted": "2025-01-29",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-11-30"
+      ],
+      "product_ndcs": [
+        "0049-3190"
+      ],
+      "rxcui": [],
+      "setid": "77fef645-2331-4923-86e3-af7b4e9f6cc7",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "08d08721-1f4c-478a-8abf-d9c402d50553",
+        "ce3ef5cf-3087-4d92-9d94-9eb8287228db",
+        "dac26bcd-7a59-401f-9f66-a0649767cece"
+      ],
+      "title": "VFEND (voriconazole) injection, powder, lyophilized, for solution"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4fe672ff-2cef-4f88-ab85-5a4b586da20d"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals,Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b4c934c0-c1bb-4b0a-bc32-fb9e77ef65fc"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bda70104-d84b-4d3f-9ca0-5f4f1ca816ad"
+    },
+    {
+      "combination": false,
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "16a80777-f1f3-45bb-a312-998b07767fe3"
+    },
+    {
+      "combination": false,
+      "labeler": "Novel Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "53ecce53-57b8-4af1-b4ac-7d37eb25711f"
+    },
+    {
+      "combination": false,
+      "labeler": "Solco Healthcare U.S., LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f6a1a792-141b-42e8-8bd1-884e4408eb8a"
+    },
+    {
+      "combination": false,
+      "labeler": "Slate Run Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7f2e0784-8e48-f565-e053-2991aa0a0746"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9d5b9457-ac38-4f17-854d-e394c00e273c"
+    },
+    {
+      "combination": false,
+      "labeler": "UBI Pharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9a81e485-7f26-45b6-bfd7-6114afb7def9"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d962d459-254f-4b78-ae28-7d9ec5d4e4d5"
+    },
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "171272c7-d76e-4352-81bc-fcb40386d7d0"
+    },
+    {
+      "combination": false,
+      "labeler": "Slate Run Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2b262849-9a29-44a2-9b9d-2378f771379c"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fff10d69-e334-42bd-baed-7d9d5feef6aa"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fceb92c5-5269-46e2-ac5f-547b2f77953d"
+    },
+    {
+      "combination": false,
+      "labeler": "Hainan Poly Pharm. Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "393a81ba-7d51-450e-8d20-23287767c002"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b38165a5-d8d4-4579-a49a-fbe92e764089"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals,Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e37525e8-afb4-4583-b2de-af4aab9040d7"
+    },
+    {
+      "combination": false,
+      "labeler": "Viona Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "75fcbea8-8eeb-4528-b7d9-a059dd25da83"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "25eb8d91-5abd-4fdb-a331-dacc960a95d9"
+    },
+    {
+      "combination": false,
+      "labeler": "Fosun Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b3b67028-f8a0-4a93-9e73-9e8940c22c4a"
+    },
+    {
+      "combination": false,
+      "labeler": "Civica, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "511fa110-e4cc-4498-80db-03b7cddb1d5a"
+    },
+    {
+      "combination": false,
+      "labeler": "Zhejiang Poly Pharm Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3266cf9b-e648-1ff2-e063-6394a90a0487"
+    },
+    {
+      "combination": false,
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bceb01d5-c2d9-436d-896f-26643fa22d50"
+    }
+  ]
+}

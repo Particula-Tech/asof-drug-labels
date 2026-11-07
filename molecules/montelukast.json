@@ -1,0 +1,499 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "MONTELUKAST",
+    "MONTELUKAST SODIUM"
+  ],
+  "inn": "montelukast",
+  "name": "MONTELUKAST",
+  "rank": 248,
+  "rxcui": [
+    "153892",
+    "153893",
+    "200224",
+    "242438",
+    "261367",
+    "311759",
+    "351246",
+    "404406"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 24,
+    "approval_holders": 18,
+    "earliest_marketing_start": "2012-08-03",
+    "latest_label_update": "2026-10-30",
+    "nda_bla_applications": 3,
+    "repackagers": 15
+  },
+  "unii": [
+    {
+      "ingredient": "MONTELUKAST",
+      "unii": "MHM278SD3E"
+    },
+    {
+      "ingredient": "MONTELUKAST SODIUM",
+      "unii": "U1O3J18SFL"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020829",
+        "NDA020830",
+        "NDA021409"
+      ],
+      "brand_names": [
+        "SINGULAIR"
+      ],
+      "combination": false,
+      "home_inn": "montelukast",
+      "ingredients": [
+        "MONTELUKAST SODIUM"
+      ],
+      "labeler": "Organon LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-06-01",
+      "moieties": [
+        "MONTELUKAST"
+      ],
+      "product_ndcs": [
+        "78206-170",
+        "78206-171",
+        "78206-172",
+        "78206-173"
+      ],
+      "rxcui": [
+        "153892",
+        "153893",
+        "200224",
+        "242438",
+        "261367",
+        "311759",
+        "351246",
+        "404406"
+      ],
+      "setid": "482dcc92-b47f-4ea6-854a-f5ac2aea7842",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "SINGULAIR (MONTELUKAST SODIUM) GRANULE SINGULAIR (MONTELUKAST SODIUM) TABLET, CHEWABLE SINGULAIR (MONTELUKAST SODIUM) TABLET, FILM COATED [ORGANON LLC]",
+      "upload_date": "2025-06-25"
+    },
+    {
+      "application_numbers": [
+        "ANDA202096",
+        "ANDA202468"
+      ],
+      "brand_names": [
+        "Montelukast Sodium"
+      ],
+      "combination": false,
+      "home_inn": "montelukast",
+      "ingredients": [
+        "MONTELUKAST SODIUM"
+      ],
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-08-03",
+      "moieties": [
+        "MONTELUKAST"
+      ],
+      "product_ndcs": [
+        "57237-212",
+        "57237-213",
+        "57237-255"
+      ],
+      "rxcui": [
+        "200224",
+        "242438",
+        "311759"
+      ],
+      "setid": "49669ac0-0bb5-4576-bed5-9e85e0d76a44",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "MONTELUKAST SODIUM TABLET, CHEWABLE MONTELUKAST SODIUM TABLET, FILM COATED [RISING PHARMA HOLDINGS, INC.]",
+      "upload_date": "2026-07-01"
+    },
+    {
+      "application_numbers": [
+        "ANDA200405"
+      ],
+      "brand_names": [
+        "MONTELUKAST SODIUM"
+      ],
+      "combination": false,
+      "home_inn": "montelukast",
+      "ingredients": [
+        "MONTELUKAST SODIUM"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-08-03",
+      "moieties": [
+        "MONTELUKAST"
+      ],
+      "product_ndcs": [
+        "62135-781",
+        "62135-782"
+      ],
+      "rxcui": [
+        "242438",
+        "311759"
+      ],
+      "setid": "5cb4298c-10b1-4d6f-95ad-4aad72daf249",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "MONTELUKAST SODIUM TABLET, CHEWABLE [CHARTWELL RX, LLC]",
+      "upload_date": "2025-12-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA200889"
+      ],
+      "brand_names": [
+        "Montelukast"
+      ],
+      "combination": false,
+      "home_inn": "montelukast",
+      "ingredients": [
+        "MONTELUKAST SODIUM"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-08-03",
+      "moieties": [
+        "MONTELUKAST"
+      ],
+      "product_ndcs": [
+        "0781-5560"
+      ],
+      "rxcui": [
+        "200224"
+      ],
+      "setid": "6d69e73a-76cb-4ece-9cf9-e9adb4f523b4",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "MONTELUKAST TABLET, FILM COATED [SANDOZ INC]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA090984",
+        "ANDA201515",
+        "ANDA210431"
+      ],
+      "brand_names": [
+        "Montelukast Sodium"
+      ],
+      "combination": false,
+      "home_inn": "montelukast",
+      "ingredients": [
+        "MONTELUKAST SODIUM"
+      ],
+      "labeler": "Torrent Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-08-03",
+      "moieties": [
+        "MONTELUKAST"
+      ],
+      "product_ndcs": [
+        "13668-079",
+        "13668-080",
+        "13668-081",
+        "13668-531"
+      ],
+      "rxcui": [
+        "200224",
+        "242438",
+        "311759",
+        "351246"
+      ],
+      "setid": "da038cf6-cfad-43a4-ab8e-d81d028d6087",
+      "source": "openfda",
+      "spl_version": 24,
+      "title": "MONTELUKAST SODIUM TABLET, CHEWABLE MONTELUKAST SODIUM TABLET MONTELUKAST SODIUM GRANULE [TORRENT PHARMACEUTICALS LIMITED]",
+      "upload_date": "2026-07-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA201581",
+        "ANDA201582"
+      ],
+      "brand_names": [
+        "Montelukast Sodium"
+      ],
+      "combination": false,
+      "home_inn": "montelukast",
+      "ingredients": [
+        "MONTELUKAST SODIUM"
+      ],
+      "labeler": "Dr.Reddy's Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-08-06",
+      "moieties": [
+        "MONTELUKAST"
+      ],
+      "product_ndcs": [
+        "55111-593",
+        "55111-594",
+        "55111-725"
+      ],
+      "rxcui": [
+        "200224",
+        "242438",
+        "311759"
+      ],
+      "setid": "3d4451a9-d73d-b9de-68ec-853bfeff6e4b",
+      "source": "openfda",
+      "spl_version": 24,
+      "title": "MONTELUKAST SODIUM TABLET, COATED MONTELUKAST SODIUM TABLET, CHEWABLE [DR.REDDY'S LABORATORIES LIMITED]",
+      "upload_date": "2022-12-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA202717"
+      ],
+      "brand_names": [
+        "Montelukast Sodium"
+      ],
+      "combination": false,
+      "home_inn": "montelukast",
+      "ingredients": [
+        "MONTELUKAST SODIUM"
+      ],
+      "labeler": "Accord Healthcare Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-04-11",
+      "moieties": [
+        "MONTELUKAST"
+      ],
+      "product_ndcs": [
+        "16729-119"
+      ],
+      "rxcui": [
+        "200224"
+      ],
+      "setid": "6eea668f-a2fa-447f-b2d5-4c754d13d9fa",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "MONTELUKAST SODIUM TABLET, FILM COATED [ACCORD HEALTHCARE INC.]",
+      "upload_date": "2022-01-03"
+    },
+    {
+      "application_numbers": [
+        "NDA020829",
+        "NDA020830",
+        "NDA021409"
+      ],
+      "archived_versions": 29,
+      "brand_names": [
+        "SINGULAIR"
+      ],
+      "first_posted": "2008-08-28",
+      "found_by": "SINGULAIR",
+      "labeler": "Merck Sharp & Dohme Corp.",
+      "labeler_unverified": false,
+      "last_posted": "2022-02-11",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-12-31"
+      ],
+      "product_ndcs": [
+        "0006-1711",
+        "0006-3841",
+        "0006-9117",
+        "0006-9275"
+      ],
+      "rxcui": [],
+      "setid": "8c166755-7711-4df9-d689-8836a1a70885",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "482dcc92-b47f-4ea6-854a-f5ac2aea7842"
+      ],
+      "title": "SINGULAIR (montelukast sodium) granule SINGULAIR (montelukast sodium) tablet, chewable SINGULAIR (montelukast sodium) tablet, film coated"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bcd49102-a21c-4628-a322-6cdd934e7f09"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "97a682c2-7e00-4d07-a5ac-4436c977f842"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e0c5b856-3f70-4ca6-9763-a90673bb82fb"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ce512844-5220-4661-809f-56d088699c9c"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "23964723-2df8-4d0a-a53d-8538469672f1"
+    },
+    {
+      "combination": false,
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "67070e4e-f755-46b3-b900-fcc1993a0546"
+    },
+    {
+      "combination": false,
+      "labeler": "Unichem Pharmaceuticals (USA), Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9e375c07-70db-458c-9336-22a7037b0a5f"
+    },
+    {
+      "combination": false,
+      "labeler": "Westminster Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c0daaaf3-6717-4a01-e053-2995a90af2d8"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "75723c5a-3c9e-468a-bc65-57b4c755889a"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7636a692-558f-4649-86d9-b6699c3eeca1"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9a3bfc59-0ca6-4433-abf5-41659bfe0a8f"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ba42b0a9-83f1-4283-a853-f99cdd0761b9"
+    },
+    {
+      "combination": false,
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c43d1edb-c162-4317-9a89-d84e4eff5512"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ccbbf0d6-efd9-4fdd-9e7b-e3d293062609"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4c411d3e-47b6-481b-b846-419ed4cbb947"
+    },
+    {
+      "combination": false,
+      "labeler": "XLCare Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "82d65eea-c7c9-4e16-9176-46c43f00f0f6"
+    },
+    {
+      "combination": false,
+      "labeler": "Quallent Pharmaceuticals Health LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5d71088b-b0fa-4bf0-a6e7-6163bd9e0dd4"
+    }
+  ]
+}

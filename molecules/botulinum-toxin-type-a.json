@@ -1,0 +1,399 @@
+{
+  "biologic": true,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "Nuceiva is the cosmetic (glabellar lines) product",
+      "comparable_to_us": "no",
+      "ema_product_number": "EMEA/H/C/004587",
+      "eu_number": "EU/1/19/1364",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-004587",
+      "mah": "Evolus Pharma B.V.",
+      "marketing_authorisation_date": "2019-09-27",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/nuceiva",
+      "name": "Nuceiva",
+      "record_from": "2019-09-27",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 5
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-004587",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "BOTULINUM TOXIN TYPE A"
+  ],
+  "inn": "botulinum-toxin-type-a",
+  "name": "BOTULINUM TOXIN TYPE A",
+  "rank": 114,
+  "rxcui": [
+    "860192",
+    "860195",
+    "897366",
+    "897368",
+    "1000107",
+    "1009456",
+    "1009459",
+    "1726293",
+    "1726296",
+    "1726313",
+    "1732157",
+    "1732161",
+    "1732165",
+    "1789950",
+    "1789953",
+    "1789956",
+    "1789958",
+    "2117871",
+    "2117876",
+    "2612454",
+    "2612456"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 8,
+    "approval_holders": 7,
+    "earliest_marketing_start": "1989-12-15",
+    "latest_label_update": "2026-08-03",
+    "nda_bla_applications": 5,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "BOTULINUM TOXIN TYPE A",
+      "unii": "E211KPY694"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "BLA103000"
+      ],
+      "brand_names": [
+        "BOTOX"
+      ],
+      "combination": false,
+      "home_inn": "botulinum-toxin-type-a",
+      "ingredients": [
+        "BOTULINUM TOXIN TYPE A"
+      ],
+      "labeler": "Allergan, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "1989-12-15",
+      "moieties": [
+        "BOTULINUM TOXIN TYPE A"
+      ],
+      "product_ndcs": [
+        "0023-1145",
+        "0023-3921"
+      ],
+      "rxcui": [
+        "860192",
+        "860195",
+        "897366",
+        "897368"
+      ],
+      "setid": "33d066a9-34ff-4a1a-b38b-d10983df3300",
+      "source": "openfda",
+      "spl_version": 62,
+      "title": "BOTOX (ONABOTULINUMTOXINA) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [ALLERGAN, INC.]",
+      "upload_date": "2026-08-03"
+    },
+    {
+      "application_numbers": [
+        "BLA125274"
+      ],
+      "brand_names": [
+        "Dysport"
+      ],
+      "combination": false,
+      "home_inn": "botulinum-toxin-type-a",
+      "ingredients": [
+        "BOTULINUM TOXIN TYPE A"
+      ],
+      "labeler": "Galderma Laboratories, L.P.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2009-11-02",
+      "moieties": [
+        "BOTULINUM TOXIN TYPE A"
+      ],
+      "product_ndcs": [
+        "0299-5962"
+      ],
+      "rxcui": [
+        "1789956",
+        "1789958"
+      ],
+      "setid": "71313a04-1349-4c26-b840-a39e4a3ddaed",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "DYSPORT (BOTULINUM TOXIN TYPE A) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [GALDERMA LABORATORIES, L.P.]",
+      "upload_date": "2024-10-28"
+    },
+    {
+      "application_numbers": [
+        "BLA125360"
+      ],
+      "brand_names": [
+        "Xeomin"
+      ],
+      "combination": false,
+      "home_inn": "botulinum-toxin-type-a",
+      "ingredients": [
+        "BOTULINUM TOXIN TYPE A"
+      ],
+      "labeler": "Merz Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2010-09-01",
+      "moieties": [
+        "BOTULINUM TOXIN TYPE A"
+      ],
+      "product_ndcs": [
+        "0259-1605",
+        "0259-1610",
+        "0259-1620",
+        "0259-4110",
+        "0259-4150"
+      ],
+      "rxcui": [
+        "1000107",
+        "1009456",
+        "1009459",
+        "1732157",
+        "1732161",
+        "1732165"
+      ],
+      "setid": "ccdc3aae-6e2d-4cd0-a51c-8375bfee9458",
+      "source": "openfda",
+      "spl_version": 34,
+      "title": "XEOMIN (INCOBOTULINUMTOXINA) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [MERZ PHARMACEUTICALS, LLC]",
+      "upload_date": "2026-07-13"
+    },
+    {
+      "application_numbers": [
+        "BLA761085"
+      ],
+      "brand_names": [
+        "Jeuveau"
+      ],
+      "combination": false,
+      "home_inn": "botulinum-toxin-type-a",
+      "ingredients": [
+        "BOTULINUM TOXIN TYPE A"
+      ],
+      "labeler": "Evolus, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2019-02-13",
+      "moieties": [
+        "BOTULINUM TOXIN TYPE A"
+      ],
+      "product_ndcs": [
+        "72301-595"
+      ],
+      "rxcui": [
+        "2117871",
+        "2117876"
+      ],
+      "setid": "17a914c1-e54b-4b50-965d-b0fd9111bba4",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "JEUVEAU (PRABOTULINUM TOXIN TYPE A) POWDER [EVOLUS, INC.]",
+      "upload_date": "2023-12-14"
+    },
+    {
+      "application_numbers": [
+        "BLA761127"
+      ],
+      "brand_names": [
+        "DAXXIFY"
+      ],
+      "combination": false,
+      "home_inn": "botulinum-toxin-type-a",
+      "ingredients": [
+        "BOTULINUM TOXIN TYPE A"
+      ],
+      "labeler": "Revance Therapeutics, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2022-09-20",
+      "moieties": [
+        "BOTULINUM TOXIN TYPE A"
+      ],
+      "product_ndcs": [
+        "72960-112"
+      ],
+      "rxcui": [
+        "2612454",
+        "2612456"
+      ],
+      "setid": "3aaa6e14-a3f7-4fb2-b9f9-d3a9c3ae1f74",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "DAXXIFY (BOTULINUM TOXIN TYPE A) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [REVANCE THERAPEUTICS, INC.]",
+      "upload_date": "2026-01-08"
+    },
+    {
+      "application_numbers": [
+        "BLA103000"
+      ],
+      "brand_names": [
+        "BOTOX Cosmetic"
+      ],
+      "combination": false,
+      "home_inn": "botulinum-toxin-type-a",
+      "ingredients": [
+        "BOTULINUM TOXIN TYPE A"
+      ],
+      "labeler": "Allergan, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2008-05-20",
+      "moieties": [
+        "BOTULINUM TOXIN TYPE A"
+      ],
+      "product_ndcs": [
+        "0023-3919",
+        "0023-9232"
+      ],
+      "rxcui": [
+        "860192",
+        "1726293",
+        "1726296",
+        "1726313"
+      ],
+      "setid": "485d9b71-6881-42c5-a620-a4360c7192ab",
+      "source": "openfda",
+      "spl_version": 54,
+      "title": "BOTOX COSMETIC (ONABOTULINUMTOXINA) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [ALLERGAN, INC.]",
+      "upload_date": "2026-01-08"
+    },
+    {
+      "application_numbers": [
+        "BLA125274"
+      ],
+      "brand_names": [
+        "Dysport"
+      ],
+      "combination": false,
+      "home_inn": "botulinum-toxin-type-a",
+      "ingredients": [
+        "BOTULINUM TOXIN TYPE A"
+      ],
+      "labeler": "Ipsen Biopharmaceuticals, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2009-11-02",
+      "moieties": [
+        "BOTULINUM TOXIN TYPE A"
+      ],
+      "product_ndcs": [
+        "15054-0500",
+        "15054-0530"
+      ],
+      "rxcui": [
+        "1789950",
+        "1789953",
+        "1789956",
+        "1789958"
+      ],
+      "setid": "97513722-8426-4ce3-b85d-0e08e436a140",
+      "source": "openfda",
+      "spl_version": 25,
+      "title": "DYSPORT (BOTULINUM TOXIN TYPE A) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [IPSEN BIOPHARMACEUTICALS, INC.]",
+      "upload_date": "2023-09-29"
+    },
+    {
+      "application_numbers": [
+        "BLA125360"
+      ],
+      "brand_names": [
+        "Xeomin"
+      ],
+      "combination": false,
+      "home_inn": "botulinum-toxin-type-a",
+      "ingredients": [
+        "BOTULINUM TOXIN TYPE A"
+      ],
+      "labeler": "Merz North America, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2011-08-01",
+      "moieties": [
+        "BOTULINUM TOXIN TYPE A"
+      ],
+      "product_ndcs": [
+        "46783-160",
+        "46783-161",
+        "46783-165"
+      ],
+      "rxcui": [
+        "1009456",
+        "1009459",
+        "1732157",
+        "1732161"
+      ],
+      "setid": "3f35d6e0-3450-4abc-a0da-cc7b277e7c6e",
+      "source": "openfda",
+      "spl_version": 27,
+      "title": "XEOMIN (INCOBOTULINUMTOXINA) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [MERZ NORTH AMERICA, INC.]",
+      "upload_date": "2026-07-13"
+    },
+    {
+      "application_numbers": [
+        "BLA125274"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "DYSPORT"
+      ],
+      "first_posted": "2009-05-26",
+      "found_by": "DYSPORT",
+      "labeler": "Medicis Pharmaceutical Corp",
+      "labeler_unverified": false,
+      "last_posted": "2015-01-14",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_end_dates": [
+        "2015-03-31"
+      ],
+      "product_ndcs": [
+        "99207-500"
+      ],
+      "rxcui": [],
+      "setid": "195ebbc0-eaac-4015-97fd-3653b815a758",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "71313a04-1349-4c26-b840-a39e4a3ddaed",
+        "97513722-8426-4ce3-b85d-0e08e436a140"
+      ],
+      "title": "DYSPORT (botulinum toxin type a) injection, powder, lyophilized, for solution"
+    }
+  ],
+  "us_excluded": []
+}

@@ -1,0 +1,881 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand Alimta",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000564",
+      "eu_number": "EU/1/04/290",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000564",
+      "mah": "Eli Lilly Nederland B.V.",
+      "marketing_authorisation_date": "2004-09-20",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/alimta",
+      "name": "Alimta",
+      "record_from": "2004-09-20",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 23
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/003895",
+      "eu_number": "EU/1/16/1115",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-003895",
+      "mah": "Fresenius Kabi Deutschland GmbH",
+      "marketing_authorisation_date": "2016-07-22",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/pemetrexed-fresenius-kabi",
+      "name": "Pemetrexed Fresenius Kabi",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/003970",
+      "eu_number": "EU/1/15/1057",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-003970",
+      "mah": "Pfizer Europe MA EEIG",
+      "marketing_authorisation_date": "2015-11-19",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/pemetrexed-pfizer",
+      "name": "Pemetrexed Pfizer (previously Pemetrexed Hospira)",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/004072",
+      "eu_number": "EU/1/15/1071",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-004072",
+      "mah": "Accord Healthcare S.L.U.",
+      "marketing_authorisation_date": "2016-01-18",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/pemetrexed-accord",
+      "name": "Pemetrexed Accord",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/004109",
+      "eu_number": "EU/1/15/1063",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-004109",
+      "mah": "Actavis Group PTC ehf",
+      "marketing_authorisation_date": "2016-01-18",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/armisarte",
+      "name": "Armisarte (previously Pemetrexed Actavis)",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000564",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "PEMETREXED",
+    "PEMETREXED DISODIUM",
+    "PEMETREXED DISODIUM HEMIPENTAHYDRATE",
+    "PEMETREXED DISODIUM HEPTAHYDRATE",
+    "PEMETREXED MONOHYDRATE"
+  ],
+  "inn": "pemetrexed",
+  "name": "PEMETREXED",
+  "rank": 76,
+  "rxcui": [
+    "1728072",
+    "1728075",
+    "1728077",
+    "1728079",
+    "2590672",
+    "2590677",
+    "2601728",
+    "2602363",
+    "2602365",
+    "2602366",
+    "2637958",
+    "2637964",
+    "2637966",
+    "2637967",
+    "2637968",
+    "2637969",
+    "2699339",
+    "2699341"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 31,
+    "approval_holders": 23,
+    "earliest_marketing_start": "2004-02-04",
+    "latest_label_update": "2026-09-25",
+    "nda_bla_applications": 7,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "PEMETREXED",
+      "unii": "04Q9AIZ7NO"
+    },
+    {
+      "ingredient": "PEMETREXED DISODIUM",
+      "unii": "2PKU919BA9"
+    },
+    {
+      "ingredient": "PEMETREXED DISODIUM HEMIPENTAHYDRATE",
+      "unii": "F4GSH45R4C"
+    },
+    {
+      "ingredient": "PEMETREXED DISODIUM HEPTAHYDRATE",
+      "unii": "9T47E4OM16"
+    },
+    {
+      "ingredient": "PEMETREXED MONOHYDRATE",
+      "unii": "236Y2F7D9J"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021462"
+      ],
+      "brand_names": [
+        "Alimta"
+      ],
+      "combination": false,
+      "home_inn": "pemetrexed",
+      "ingredients": [
+        "PEMETREXED DISODIUM HEPTAHYDRATE"
+      ],
+      "labeler": "Eli Lilly and Company",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2004-02-04",
+      "moieties": [
+        "PEMETREXED"
+      ],
+      "product_ndcs": [
+        "0002-7623",
+        "0002-7640"
+      ],
+      "rxcui": [
+        "1728072",
+        "1728075",
+        "1728077",
+        "1728079"
+      ],
+      "setid": "f5a860f3-37ec-429c-ae04-9c88d7c55c08",
+      "source": "openfda",
+      "spl_version": 59,
+      "title": "ALIMTA (PEMETREXED DISODIUM) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [ELI LILLY AND COMPANY]",
+      "upload_date": "2023-06-28"
+    },
+    {
+      "application_numbers": [
+        "NDA209472"
+      ],
+      "brand_names": [
+        "Pemfexy"
+      ],
+      "combination": false,
+      "home_inn": "pemetrexed",
+      "ingredients": [
+        "PEMETREXED MONOHYDRATE"
+      ],
+      "labeler": "Eagle Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-02-01",
+      "moieties": [
+        "PEMETREXED"
+      ],
+      "product_ndcs": [
+        "42367-531"
+      ],
+      "rxcui": [
+        "2590672",
+        "2590677"
+      ],
+      "setid": "2308f4e8-21c8-49c1-a5b8-deb8610bac6a",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "PEMFEXY (PEMETREXED) INJECTION [EAGLE PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-02-25"
+    },
+    {
+      "application_numbers": [
+        "NDA208419"
+      ],
+      "brand_names": [
+        "Pemetrexed"
+      ],
+      "combination": false,
+      "home_inn": "pemetrexed",
+      "ingredients": [
+        "PEMETREXED MONOHYDRATE"
+      ],
+      "labeler": "Teva Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-05-31",
+      "moieties": [
+        "PEMETREXED"
+      ],
+      "product_ndcs": [
+        "0480-4514",
+        "0480-4515",
+        "0480-4516"
+      ],
+      "rxcui": [
+        "2602363",
+        "2602365",
+        "2602366"
+      ],
+      "setid": "8b660f68-b770-4e0a-b2f9-25e663deecc3",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "PEMETREXED SOLUTION, CONCENTRATE [TEVA PHARMACEUTICALS, INC.]",
+      "upload_date": "2024-11-11"
+    },
+    {
+      "application_numbers": [
+        "NDA214657"
+      ],
+      "brand_names": [
+        "Pemetrexed"
+      ],
+      "combination": false,
+      "home_inn": "pemetrexed",
+      "ingredients": [
+        "PEMETREXED DISODIUM"
+      ],
+      "labeler": "Sandoz Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-06-08",
+      "moieties": [
+        "PEMETREXED"
+      ],
+      "product_ndcs": [
+        "0781-3518",
+        "0781-3519",
+        "0781-3520"
+      ],
+      "rxcui": [
+        "2602363",
+        "2602365",
+        "2602366"
+      ],
+      "setid": "7ac04ab7-7f8c-46ce-ab56-a7a08cd02ab3",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "PEMETREXED (PEMETREXED DISODIUM) INJECTION, SOLUTION [SANDOZ INC.]",
+      "upload_date": "2025-12-24"
+    },
+    {
+      "application_numbers": [
+        "NDA214218"
+      ],
+      "brand_names": [
+        "PEMETREXED"
+      ],
+      "combination": false,
+      "home_inn": "pemetrexed",
+      "ingredients": [
+        "PEMETREXED DISODIUM"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-06-27",
+      "moieties": [
+        "PEMETREXED"
+      ],
+      "product_ndcs": [
+        "0409-1045",
+        "0409-2188",
+        "0409-3532"
+      ],
+      "rxcui": [
+        "2602363",
+        "2602365",
+        "2602366"
+      ],
+      "setid": "3ae68628-7ab0-4491-b3ae-6a8330b719c8",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "PEMETREXED INJECTION, SOLUTION, CONCENTRATE [HOSPIRA, INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "NDA215179"
+      ],
+      "brand_names": [
+        "PEMRYDI RTU"
+      ],
+      "combination": false,
+      "home_inn": "pemetrexed",
+      "ingredients": [
+        "PEMETREXED DISODIUM HEMIPENTAHYDRATE"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-06-06",
+      "moieties": [
+        "PEMETREXED"
+      ],
+      "product_ndcs": [
+        "70121-2453",
+        "70121-2461",
+        "70121-2462"
+      ],
+      "rxcui": [
+        "2637958",
+        "2637964",
+        "2637966",
+        "2637967",
+        "2637968",
+        "2637969"
+      ],
+      "setid": "0f006b06-ab85-423d-ba0c-dfc3fc25844e",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "PEMRYDI RTU (PEMETREXED DISODIUM) INJECTION [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2025-08-04"
+    },
+    {
+      "application_numbers": [
+        "NDA210661"
+      ],
+      "brand_names": [
+        "AXTLE"
+      ],
+      "combination": false,
+      "home_inn": "pemetrexed",
+      "ingredients": [
+        "PEMETREXED"
+      ],
+      "labeler": "Avyxa Pharma, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-01-01",
+      "moieties": [
+        "PEMETREXED"
+      ],
+      "product_ndcs": [
+        "83831-131",
+        "83831-132"
+      ],
+      "rxcui": [
+        "1728072",
+        "1728077",
+        "2699339",
+        "2699341"
+      ],
+      "setid": "9582c46c-d8b0-44b7-a2ee-9c86f5e9b7b1",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "AXTLE (PEMETREXED) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [AVYXA PHARMA, LLC]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "NDA214218"
+      ],
+      "brand_names": [
+        "PEMETREXED"
+      ],
+      "combination": false,
+      "home_inn": "pemetrexed",
+      "ingredients": [
+        "PEMETREXED DISODIUM"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-02-01",
+      "moieties": [
+        "PEMETREXED"
+      ],
+      "product_ndcs": [
+        "0409-0004",
+        "0409-0020",
+        "0409-0021"
+      ],
+      "rxcui": [
+        "2602363",
+        "2602365",
+        "2602366"
+      ],
+      "setid": "3e087418-69ff-47fa-93c2-f28699309433",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "PEMETREXED INJECTION, SOLUTION, CONCENTRATE [HOSPIRA, INC.]",
+      "upload_date": "2024-07-25"
+    },
+    {
+      "application_numbers": [
+        "NDA215179"
+      ],
+      "brand_names": [
+        "Pemetrexed"
+      ],
+      "combination": false,
+      "home_inn": "pemetrexed",
+      "ingredients": [
+        "PEMETREXED DISODIUM HEMIPENTAHYDRATE"
+      ],
+      "labeler": "Shilpa Medicare Limited",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-01-01",
+      "moieties": [
+        "PEMETREXED"
+      ],
+      "product_ndcs": [
+        "63759-3048",
+        "63759-3049",
+        "63759-3050"
+      ],
+      "rxcui": [
+        "2637958",
+        "2637966",
+        "2637968"
+      ],
+      "setid": "fe432994-e61b-4a87-8c98-cc20b847d0fe",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "PEMETREXED (PEMETREXED DISODIUM) INJECTION [SHILPA MEDICARE LIMITED]",
+      "upload_date": "2024-12-06"
+    },
+    {
+      "application_numbers": [
+        "NDA210661"
+      ],
+      "brand_names": [
+        "PEMETREXED DIPOTASSIUM"
+      ],
+      "combination": false,
+      "home_inn": "pemetrexed",
+      "ingredients": [
+        "PEMETREXED"
+      ],
+      "labeler": "Avyxa Pharma, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-01-01",
+      "moieties": [
+        "PEMETREXED"
+      ],
+      "product_ndcs": [
+        "83831-111",
+        "83831-112"
+      ],
+      "rxcui": [
+        "1728072",
+        "1728077"
+      ],
+      "setid": "adc9ce4c-926a-4ee8-bd0d-d06fc89c17fc",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "PEMETREXED DIPOTASSIUM INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [AVYXA PHARMA, LLC]",
+      "upload_date": "2025-02-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA211899"
+      ],
+      "brand_names": [
+        "Pemetrexed"
+      ],
+      "combination": false,
+      "home_inn": "pemetrexed",
+      "ingredients": [
+        "PEMETREXED DISODIUM HEPTAHYDRATE"
+      ],
+      "labeler": "Waverley Pharma Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-06-04",
+      "moieties": [
+        "PEMETREXED"
+      ],
+      "product_ndcs": [
+        "72338-100",
+        "72338-101"
+      ],
+      "rxcui": [
+        "1728072",
+        "1728077"
+      ],
+      "setid": "95633c32-89a8-4275-94e7-939c9f2e6135",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "PEMETREXED (PEMETREXED DISODIUM) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [WAVERLEY PHARMA INC]",
+      "upload_date": "2024-01-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA208696"
+      ],
+      "brand_names": [
+        "Pemetrexed"
+      ],
+      "combination": false,
+      "home_inn": "pemetrexed",
+      "ingredients": [
+        "PEMETREXED DISODIUM HEMIPENTAHYDRATE"
+      ],
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-05-25",
+      "moieties": [
+        "PEMETREXED"
+      ],
+      "product_ndcs": [
+        "71288-166",
+        "71288-167"
+      ],
+      "rxcui": [
+        "1728072",
+        "1728077"
+      ],
+      "setid": "1ceacc3e-f555-489b-8b16-2baa58b2f5a5",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "PEMETREXED (PEMETREXED DISODIUM) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [MEITHEAL PHARMACEUTICALS INC.]",
+      "upload_date": "2024-04-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA202596"
+      ],
+      "brand_names": [
+        "Pemetrexed disodium"
+      ],
+      "combination": false,
+      "home_inn": "pemetrexed",
+      "ingredients": [
+        "PEMETREXED DISODIUM"
+      ],
+      "labeler": "Dr. Reddys Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-05-25",
+      "moieties": [
+        "PEMETREXED"
+      ],
+      "product_ndcs": [
+        "43598-370",
+        "43598-386",
+        "43598-387"
+      ],
+      "rxcui": [
+        "1728072",
+        "1728077",
+        "2601728"
+      ],
+      "setid": "1d8bcf03-e055-a274-7844-ae9a523e3c4c",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "PEMETREXED DISODIUM INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [DR. REDDYS LABORATORIES INC]",
+      "upload_date": "2022-11-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA204890"
+      ],
+      "brand_names": [
+        "Pemetrexed"
+      ],
+      "combination": false,
+      "home_inn": "pemetrexed",
+      "ingredients": [
+        "PEMETREXED DISODIUM HEMIPENTAHYDRATE"
+      ],
+      "labeler": "Qilu Pharmaceutical Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-05-25",
+      "moieties": [
+        "PEMETREXED"
+      ],
+      "product_ndcs": [
+        "67184-0503",
+        "67184-0504"
+      ],
+      "rxcui": [
+        "1728072",
+        "1728077"
+      ],
+      "setid": "46a9b89d-7135-4e0c-b8e4-52580554769b",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "PEMETREXED (PEMETREXED DISODIUM) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [QILU PHARMACEUTICAL CO., LTD.]",
+      "upload_date": "2022-06-14"
+    },
+    {
+      "application_numbers": [
+        "ANDA203774"
+      ],
+      "brand_names": [
+        "Pemetrexed"
+      ],
+      "combination": false,
+      "home_inn": "pemetrexed",
+      "ingredients": [
+        "PEMETREXED DISODIUM"
+      ],
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-05-25",
+      "moieties": [
+        "PEMETREXED"
+      ],
+      "product_ndcs": [
+        "68001-543",
+        "68001-544"
+      ],
+      "rxcui": [
+        "1728072",
+        "1728077"
+      ],
+      "setid": "4cc1574b-3d2f-489b-9ad3-55695bb97200",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "PEMETREXED (PEMETREXED DISODIUM) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [BLUEPOINT LABORATORIES]",
+      "upload_date": "2023-10-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA214632"
+      ],
+      "brand_names": [
+        "Pemetrexed"
+      ],
+      "combination": false,
+      "home_inn": "pemetrexed",
+      "ingredients": [
+        "PEMETREXED DISODIUM HEMIPENTAHYDRATE"
+      ],
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-05-25",
+      "moieties": [
+        "PEMETREXED"
+      ],
+      "product_ndcs": [
+        "55150-381",
+        "55150-382",
+        "55150-383"
+      ],
+      "rxcui": [
+        "1728072",
+        "1728077",
+        "2601728"
+      ],
+      "setid": "737ead51-f73c-414f-b68f-d3affc27a225",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "PEMETREXED INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [EUGIA US LLC]",
+      "upload_date": "2023-07-28"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Acacia Pharma, Ltd.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "caef07ce-066b-4c48-98dc-974b05ebbbe0"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ae77f00f-d43b-4b75-afd5-a2a9cb7138da"
+    },
+    {
+      "combination": false,
+      "labeler": "Accord Healthcare Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dfd19e67-54cb-c062-e053-2995a90a294a"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6986de29-b077-48ac-ad2b-0cc478f72d89"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b185f459-5489-4e18-8521-1686b5d16f67"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "14974d4e-2f01-4e02-aea2-c28b3ca0781c"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "61588f3c-4c06-4c35-a000-201dd1019093"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2ca1ce75-5284-4282-b76a-3700d203c714"
+    },
+    {
+      "combination": false,
+      "labeler": "Solco Healthcare US, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bd0ada98-3237-4465-8ba2-3a12c33116fb"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e0d000a3-b9d2-4fa9-9591-f7acb077481d"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c9f34c00-1176-4f44-8cff-bae5bdc0c40f"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "495c6751-8d6f-4093-8108-9bed283fce03"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "64f4a9ed-26ff-4bc7-bef1-4faa98b35563"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fa8f1f52-3f05-4ae8-bfec-7f0a029e6825"
+    },
+    {
+      "combination": false,
+      "labeler": "Somerset Therapeutics LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "39219e4b-80a6-4d4f-96a3-1202e542d050"
+    }
+  ]
+}

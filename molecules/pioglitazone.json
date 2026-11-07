@@ -1,0 +1,718 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand ACTOS",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000285",
+      "eu_number": "EU/1/00/150",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000285",
+      "mah": "CHEPLAPHARM Arzneimittel GmbH",
+      "marketing_authorisation_date": "2000-10-13",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/actos",
+      "name": "Actos",
+      "record_from": "2000-10-13",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 27
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/002277",
+      "eu_number": "EU/1/11/722",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-002277",
+      "mah": "Accord Healthcare S.L.U.",
+      "marketing_authorisation_date": "2012-03-21",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/pioglitazone-accord",
+      "name": "Pioglitazone Accord",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/002324",
+      "eu_number": "EU/1/12/755",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-002324",
+      "mah": "Actavis Group PTC ehf",
+      "marketing_authorisation_date": "2012-03-15",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/pioglitazone-actavis",
+      "name": "Pioglitazone Actavis",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 3,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000285",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "PIOGLITAZONE",
+    "PIOGLITAZONE HYDROCHLORIDE"
+  ],
+  "inn": "pioglitazone",
+  "name": "PIOGLITAZONE",
+  "rank": 166,
+  "rxcui": [
+    "261266",
+    "261267",
+    "261268",
+    "312440",
+    "312441",
+    "317573",
+    "647237",
+    "647239",
+    "731457",
+    "731463",
+    "861822",
+    "861824",
+    "1368410",
+    "1368416",
+    "1368424",
+    "1368430",
+    "1368431",
+    "1368437",
+    "1368438",
+    "1368444"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 20,
+    "approval_holders": 14,
+    "earliest_marketing_start": "1999-07-15",
+    "latest_label_update": "2026-10-23",
+    "nda_bla_applications": 4,
+    "repackagers": 11
+  },
+  "unii": [
+    {
+      "ingredient": "PIOGLITAZONE",
+      "unii": "X4OV71U42S"
+    },
+    {
+      "ingredient": "PIOGLITAZONE HYDROCHLORIDE",
+      "unii": "JQT35NPK6C"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021073"
+      ],
+      "brand_names": [
+        "Actos"
+      ],
+      "combination": false,
+      "home_inn": "pioglitazone",
+      "ingredients": [
+        "PIOGLITAZONE HYDROCHLORIDE"
+      ],
+      "labeler": "Takeda Pharmaceuticals America, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1999-07-15",
+      "moieties": [
+        "PIOGLITAZONE"
+      ],
+      "product_ndcs": [
+        "64764-151",
+        "64764-301",
+        "64764-451"
+      ],
+      "rxcui": [
+        "261266",
+        "261267",
+        "261268",
+        "312440",
+        "312441",
+        "317573"
+      ],
+      "setid": "d2ddc491-88a9-4063-9150-443b4fa4330c",
+      "source": "openfda",
+      "spl_version": 20,
+      "title": "ACTOS (PIOGLITAZONE) TABLET [TAKEDA PHARMACEUTICALS AMERICA, INC.]",
+      "upload_date": "2025-04-09"
+    },
+    {
+      "application_numbers": [
+        "NDA021842"
+      ],
+      "brand_names": [
+        "Actoplus Met"
+      ],
+      "combination": true,
+      "home_inn": "metformin",
+      "ingredients": [
+        "METFORMIN HYDROCHLORIDE",
+        "PIOGLITAZONE HYDROCHLORIDE"
+      ],
+      "labeler": "Takeda Pharmaceuticals America, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2005-08-29",
+      "moieties": [
+        "METFORMIN",
+        "PIOGLITAZONE"
+      ],
+      "product_ndcs": [
+        "64764-158"
+      ],
+      "rxcui": [
+        "861822",
+        "861824"
+      ],
+      "setid": "42e49120-6f3f-11db-9fe1-0800200c9a66",
+      "source": "openfda",
+      "spl_version": 28,
+      "title": "ACTOPLUS MET (PIOGLITAZONE AND METFORMIN HYDROCHLORIDE) TABLET, FILM COATED [TAKEDA PHARMACEUTICALS AMERICA, INC.]",
+      "upload_date": "2026-08-24"
+    },
+    {
+      "application_numbers": [
+        "NDA021925"
+      ],
+      "brand_names": [
+        "Duetact"
+      ],
+      "combination": true,
+      "home_inn": "pioglitazone",
+      "ingredients": [
+        "GLIMEPIRIDE",
+        "PIOGLITAZONE HYDROCHLORIDE"
+      ],
+      "labeler": "Takeda Pharmaceuticals America, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2006-07-28",
+      "moieties": [
+        "GLIMEPIRIDE",
+        "PIOGLITAZONE"
+      ],
+      "product_ndcs": [
+        "64764-302",
+        "64764-304"
+      ],
+      "rxcui": [
+        "647237",
+        "647239",
+        "731457",
+        "731463"
+      ],
+      "setid": "f8b0c917-3fdd-4a28-a47d-6225b8195458",
+      "source": "openfda",
+      "spl_version": 23,
+      "title": "DUETACT (PIOGLITAZONE AND GLIMEPIRIDE) TABLET [TAKEDA PHARMACEUTICALS AMERICA, INC.]",
+      "upload_date": "2025-04-09"
+    },
+    {
+      "application_numbers": [
+        "NDA022426"
+      ],
+      "brand_names": [
+        "OSENI"
+      ],
+      "combination": true,
+      "home_inn": "pioglitazone",
+      "ingredients": [
+        "ALOGLIPTIN BENZOATE",
+        "PIOGLITAZONE HYDROCHLORIDE"
+      ],
+      "labeler": "Takeda Pharmaceuticals America, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2013-01-25",
+      "moieties": [
+        "ALOGLIPTIN",
+        "PIOGLITAZONE"
+      ],
+      "product_ndcs": [
+        "64764-123",
+        "64764-251",
+        "64764-253",
+        "64764-254"
+      ],
+      "rxcui": [
+        "1368410",
+        "1368416",
+        "1368424",
+        "1368430",
+        "1368431",
+        "1368437",
+        "1368438",
+        "1368444"
+      ],
+      "setid": "4c619ed9-fe3e-4158-9938-80c6c3493d55",
+      "source": "openfda",
+      "spl_version": 23,
+      "title": "OSENI (ALOGLIPTIN AND PIOGLITAZONE) TABLET, FILM COATED [TAKEDA PHARMACEUTICALS AMERICA, INC.]",
+      "upload_date": "2025-03-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA200268"
+      ],
+      "brand_names": [
+        "PIOGLITAZONE HYDROCHLORIDE"
+      ],
+      "combination": false,
+      "home_inn": "pioglitazone",
+      "ingredients": [
+        "PIOGLITAZONE HYDROCHLORIDE"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-02-13",
+      "moieties": [
+        "PIOGLITAZONE"
+      ],
+      "product_ndcs": [
+        "65862-512",
+        "65862-513",
+        "65862-514"
+      ],
+      "rxcui": [
+        "312440",
+        "312441",
+        "317573"
+      ],
+      "setid": "1f259863-21fd-4d62-b094-4eff845944df",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "PIOGLITAZONE HYDROCHLORIDE TABLET [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2025-05-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA202467"
+      ],
+      "brand_names": [
+        "Pioglitazone"
+      ],
+      "combination": false,
+      "home_inn": "pioglitazone",
+      "ingredients": [
+        "PIOGLITAZONE HYDROCHLORIDE"
+      ],
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-02-14",
+      "moieties": [
+        "PIOGLITAZONE"
+      ],
+      "product_ndcs": [
+        "33342-054",
+        "33342-055",
+        "33342-056"
+      ],
+      "rxcui": [
+        "312440",
+        "312441",
+        "317573"
+      ],
+      "setid": "482cef76-0623-4b4f-a0ea-f008c97b2281",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "PIOGLITAZONE TABLET [MACLEODS PHARMACEUTICALS LIMITED]",
+      "upload_date": "2023-01-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA077210"
+      ],
+      "brand_names": [
+        "Pioglitazone"
+      ],
+      "combination": false,
+      "home_inn": "pioglitazone",
+      "ingredients": [
+        "PIOGLITAZONE HYDROCHLORIDE"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-02-04",
+      "moieties": [
+        "PIOGLITAZONE"
+      ],
+      "product_ndcs": [
+        "0093-7271",
+        "0093-7272",
+        "0093-7273"
+      ],
+      "rxcui": [
+        "312440",
+        "312441",
+        "317573"
+      ],
+      "setid": "c5c81c67-90cf-4e64-acb5-58b0358fa742",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "PIOGLITAZONE TABLET [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2025-03-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA207806"
+      ],
+      "brand_names": [
+        "PIOGLITAZONE"
+      ],
+      "combination": false,
+      "home_inn": "pioglitazone",
+      "ingredients": [
+        "PIOGLITAZONE"
+      ],
+      "labeler": "Solco Healthcare LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-05-20",
+      "moieties": [
+        "PIOGLITAZONE"
+      ],
+      "product_ndcs": [
+        "43547-426",
+        "43547-427",
+        "43547-428"
+      ],
+      "rxcui": [
+        "312440",
+        "312441",
+        "317573"
+      ],
+      "setid": "1b77dbeb-61d1-4df3-872b-2f4f75a110db",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "PIOGLITAZONE TABLET [SOLCO HEALTHCARE LLC]",
+      "upload_date": "2022-11-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA076798"
+      ],
+      "brand_names": [
+        "PIOGLITAZONE HYDROCHLORIDE"
+      ],
+      "combination": false,
+      "home_inn": "pioglitazone",
+      "ingredients": [
+        "PIOGLITAZONE HYDROCHLORIDE"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-10-28",
+      "moieties": [
+        "PIOGLITAZONE"
+      ],
+      "product_ndcs": [
+        "62135-804",
+        "62135-805",
+        "62135-806"
+      ],
+      "rxcui": [
+        "312440",
+        "312441",
+        "317573"
+      ],
+      "setid": "699e865a-952e-459e-a871-9b7cce475b71",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "PIOGLITAZONE HYDROCHLORIDE TABLET [CHARTWELL RX, LLC]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA210165"
+      ],
+      "brand_names": [
+        "PIOGLITAZONE HYDROCHLORIDE"
+      ],
+      "combination": false,
+      "home_inn": "pioglitazone",
+      "ingredients": [
+        "PIOGLITAZONE HYDROCHLORIDE"
+      ],
+      "labeler": "GSMS, Incorporated",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-06-20",
+      "moieties": [
+        "PIOGLITAZONE"
+      ],
+      "product_ndcs": [
+        "84677-026",
+        "84677-027",
+        "84677-028"
+      ],
+      "rxcui": [
+        "312440",
+        "312441",
+        "317573"
+      ],
+      "setid": "d740d2a2-b26d-4b16-aedc-e4b4b1c94daa",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "PIOGLITAZONE HYDROCHLORIDE TABLET [GSMS, INCORPORATED]",
+      "upload_date": "2026-06-22"
+    },
+    {
+      "application_numbers": [
+        "NDA021073"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "ACTOS"
+      ],
+      "first_posted": "2010-08-19",
+      "found_by": "ACTOS",
+      "labeler": "Takeda Pharmaceutical Co LTD",
+      "labeler_unverified": true,
+      "last_posted": "2010-08-19",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "11532-0011",
+        "11532-0012",
+        "11532-0013"
+      ],
+      "rxcui": [],
+      "setid": "8be679de-a4a4-4539-8c06-d1b66d21af30",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "d2ddc491-88a9-4063-9150-443b4fa4330c"
+      ],
+      "title": "ACTOS (pioglitazone hydrochloride) tablet"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "ACTOPLUS"
+      ],
+      "first_posted": "2007-09-28",
+      "found_by": "ACTOPLUS",
+      "labeler": "Takeda Pharmaceuticals America, Inc",
+      "labeler_unverified": false,
+      "last_posted": "2007-09-28",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "64764-155",
+        "64764-158"
+      ],
+      "rxcui": [],
+      "setid": "l42e49120-6f3f-11db-9fe1-0800200c9a66",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "actoplus met (pioglitazone hydrochloride and metformin hydrochloride) tablet, film coated"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "ACTOS"
+      ],
+      "first_posted": "2007-04-06",
+      "found_by": "ACTOS",
+      "labeler": "Takeda Pharmaceuticals America, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2007-04-06",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "64764-151",
+        "64764-301",
+        "64764-451"
+      ],
+      "rxcui": [],
+      "setid": "l79fadf29-ab63-45ac-99e1-e08d34b42b76",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "actos (pioglitazone hydrochloride) tablet"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "ACTOS"
+      ],
+      "first_posted": "2007-10-04",
+      "found_by": "ACTOS",
+      "labeler": "Takeda Pharmaceuticals America, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2007-10-04",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "64764-151",
+        "64764-301",
+        "64764-451"
+      ],
+      "rxcui": [],
+      "setid": "ld2ddc491-88a9-4063-9150-443b4fa4330c",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "actos (pioglitazone hydrochloride) tablet"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "DUETACT"
+      ],
+      "first_posted": "2008-01-25",
+      "found_by": "DUETACT",
+      "labeler": "Takeda Pharmaceuticals America, Inc",
+      "labeler_unverified": false,
+      "last_posted": "2008-01-25",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "64764-302",
+        "64764-304"
+      ],
+      "rxcui": [],
+      "setid": "lf8b0c917-3fdd-4a28-a47d-6225b8195458",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "duetact (pioglitazone hydrochloride and glimepiride) tablet"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": true,
+      "labeler": "Prasco Laboratories",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ea385b3d-cb4c-4550-97b0-93a86533f6dc"
+    },
+    {
+      "combination": true,
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "642b1e90-701e-42f2-bac6-a4918738e2c9"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1fa2703e-fb73-44d5-aaa2-b12b1090d42c"
+    },
+    {
+      "combination": true,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5ff2cd9e-a579-48f5-845f-c37a68372a34"
+    },
+    {
+      "combination": true,
+      "labeler": "Torrent Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "237d8fa2-633c-4c29-84d3-f1b413610dc3"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4483b1c6-7095-4a63-8128-ac2d91e11040"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "692e662a-3b31-42c3-a075-42abe44c74db"
+    },
+    {
+      "combination": false,
+      "labeler": "QUALLENT PHARMACEUTICALS HEALTH LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0331400c-b163-4856-bfb0-965470247cb3"
+    },
+    {
+      "combination": false,
+      "labeler": "Unichem Pharmaceuticals (USA), Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "31619517-a590-408a-ae9e-76c99f0a0a1d"
+    },
+    {
+      "combination": true,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8d252dab-e868-42d3-95ea-69423d909e84"
+    }
+  ]
+}

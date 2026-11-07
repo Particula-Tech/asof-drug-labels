@@ -1,0 +1,378 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/000660",
+      "eu_number": "EU/1/06/378",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000660",
+      "mah": "Eisai GmbH",
+      "marketing_authorisation_date": "2007-01-16",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/inovelon",
+      "name": "Inovelon",
+      "record_from": "2007-01-16",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 16
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000660",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "RUFINAMIDE"
+  ],
+  "inn": "rufinamide",
+  "name": "RUFINAMIDE",
+  "rank": 490,
+  "rxcui": [
+    "824295",
+    "824299",
+    "824301",
+    "824303",
+    "1092357",
+    "1092360"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 15,
+    "approval_holders": 11,
+    "earliest_marketing_start": "2008-11-14",
+    "latest_label_update": "2026-08-10",
+    "nda_bla_applications": 2,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "RUFINAMIDE",
+      "unii": "WFW942PR79"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021911",
+        "NDA201367"
+      ],
+      "brand_names": [
+        "Banzel"
+      ],
+      "combination": false,
+      "home_inn": "rufinamide",
+      "ingredients": [
+        "RUFINAMIDE"
+      ],
+      "labeler": "Eisai Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2008-11-14",
+      "moieties": [
+        "RUFINAMIDE"
+      ],
+      "product_ndcs": [
+        "62856-582",
+        "62856-583",
+        "62856-584"
+      ],
+      "rxcui": [
+        "824295",
+        "824299",
+        "824301",
+        "824303",
+        "1092357",
+        "1092360"
+      ],
+      "setid": "0a3fa925-1abd-458a-bd57-4ae780a1ef2d",
+      "source": "openfda",
+      "spl_version": 45,
+      "title": "BANZEL (RUFINAMIDE) TABLET, FILM COATED BANZEL (RUFINAMIDE) SUSPENSION [EISAI INC.]",
+      "upload_date": "2024-11-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA205075"
+      ],
+      "brand_names": [
+        "rufinamide"
+      ],
+      "combination": false,
+      "home_inn": "rufinamide",
+      "ingredients": [
+        "RUFINAMIDE"
+      ],
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-05-16",
+      "moieties": [
+        "RUFINAMIDE"
+      ],
+      "product_ndcs": [
+        "68462-713",
+        "68462-714"
+      ],
+      "rxcui": [
+        "824295",
+        "824301"
+      ],
+      "setid": "da9ee326-a383-4d46-9d4e-fcc2be3d2680",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "RUFINAMIDE TABLET, FILM COATED [GLENMARK PHARMACEUTICALS INC., USA]",
+      "upload_date": "2026-01-26"
+    },
+    {
+      "application_numbers": [
+        "ANDA211388"
+      ],
+      "brand_names": [
+        "Rufinamide"
+      ],
+      "combination": false,
+      "home_inn": "rufinamide",
+      "ingredients": [
+        "RUFINAMIDE"
+      ],
+      "labeler": "Bionpharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-12-19",
+      "moieties": [
+        "RUFINAMIDE"
+      ],
+      "product_ndcs": [
+        "69452-223"
+      ],
+      "rxcui": [
+        "1092357"
+      ],
+      "setid": "e2ba061a-49f0-4330-b0f0-00f2c3725625",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "RUFINAMIDE SUSPENSION [BIONPHARMA INC.]",
+      "upload_date": "2025-08-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA207363"
+      ],
+      "brand_names": [
+        "Rufinamide"
+      ],
+      "combination": false,
+      "home_inn": "rufinamide",
+      "ingredients": [
+        "RUFINAMIDE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-11-01",
+      "moieties": [
+        "RUFINAMIDE"
+      ],
+      "product_ndcs": [
+        "0054-0528"
+      ],
+      "rxcui": [
+        "1092357"
+      ],
+      "setid": "8ef75997-06f6-441f-8320-a23bc13ca2d9",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "RUFINAMIDE SUSPENSION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2022-05-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA213410"
+      ],
+      "brand_names": [
+        "Rufinamide"
+      ],
+      "combination": false,
+      "home_inn": "rufinamide",
+      "ingredients": [
+        "RUFINAMIDE"
+      ],
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-02-24",
+      "moieties": [
+        "RUFINAMIDE"
+      ],
+      "product_ndcs": [
+        "67877-673"
+      ],
+      "rxcui": [
+        "1092357"
+      ],
+      "setid": "a02ca527-bd8f-49ef-89fa-91fac154bffe",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "RUFINAMIDE SUSPENSION [ASCEND LABORATORIES, LLC]",
+      "upload_date": "2026-08-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA204993"
+      ],
+      "brand_names": [
+        "Rufinamide"
+      ],
+      "combination": false,
+      "home_inn": "rufinamide",
+      "ingredients": [
+        "RUFINAMIDE"
+      ],
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-05-11",
+      "moieties": [
+        "RUFINAMIDE"
+      ],
+      "product_ndcs": [
+        "31722-598",
+        "31722-599"
+      ],
+      "rxcui": [
+        "824295",
+        "824301"
+      ],
+      "setid": "afe24968-e078-46d6-a776-b2608734e03e",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "RUFINAMIDE (RUFINAMIDE) TABLET, FILM COATED [CAMBER PHARMACEUTICALS, INC.]",
+      "upload_date": "2021-06-03"
+    },
+    {
+      "application_numbers": [
+        "ANDA204988"
+      ],
+      "brand_names": [
+        "Rufinamide"
+      ],
+      "combination": false,
+      "home_inn": "rufinamide",
+      "ingredients": [
+        "RUFINAMIDE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-05-30",
+      "moieties": [
+        "RUFINAMIDE"
+      ],
+      "product_ndcs": [
+        "0054-0425",
+        "0054-0426"
+      ],
+      "rxcui": [
+        "824295",
+        "824301"
+      ],
+      "setid": "56316809-6e73-4717-990b-fc84bf6bf433",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "RUFINAMIDE TABLET, FILM COATED [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2022-10-21"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "444544f0-7622-4eef-b218-f241bd50d4af"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2c2c8d41-1ae4-453a-b628-954ee0b3be5c"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d9ffc833-d902-41cb-8e8e-6bbba8e65b9e"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1e671632-d5bd-499a-ba06-0d1dc0d99622"
+    },
+    {
+      "combination": false,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "12fc41f9-b6a9-4bbd-afbe-5d269f5a42f6"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1c2f9bf2-1711-4975-af02-32614db25add"
+    },
+    {
+      "combination": false,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "924ffdf9-ce5f-4989-9a43-78a03ba3eaed"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b682021c-74c3-4cc8-84af-acd94438397a"
+    }
+  ]
+}

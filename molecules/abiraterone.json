@@ -1,0 +1,576 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand Zytiga",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/002321",
+      "eu_number": "EU/1/11/714",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-002321",
+      "mah": "Janssen-Cilag International",
+      "marketing_authorisation_date": "2011-09-05",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/zytiga",
+      "name": "Zytiga",
+      "record_from": "2011-09-05",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 15
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/005408",
+      "eu_number": "EU/1/20/1512",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-005408",
+      "mah": "Accord Healthcare S.L.U.",
+      "marketing_authorisation_date": "2021-04-26",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/abiraterone-accord",
+      "name": "Abiraterone Accord",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [
+      {
+        "ema_product_number": "EMEA/H/C/005368",
+        "kind": "salt",
+        "name": "Abiraterone Mylan"
+      },
+      {
+        "ema_product_number": "EMEA/H/C/005649",
+        "kind": "salt",
+        "name": "Abiraterone Krka"
+      }
+    ],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-002321",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "ABIRATERONE ACETATE"
+  ],
+  "inn": "abiraterone",
+  "name": "ABIRATERONE",
+  "rank": 274,
+  "rxcui": [
+    "1100075",
+    "1100079",
+    "1918042",
+    "1918044",
+    "2046579",
+    "2046585",
+    "2645244",
+    "2645250",
+    "2645251",
+    "2645253"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 25,
+    "approval_holders": 18,
+    "earliest_marketing_start": "2011-04-28",
+    "latest_label_update": "2026-10-15",
+    "nda_bla_applications": 3,
+    "repackagers": 5
+  },
+  "unii": [
+    {
+      "ingredient": "ABIRATERONE ACETATE",
+      "unii": "EM5OCB9YJ6"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA202379"
+      ],
+      "brand_names": [
+        "Zytiga"
+      ],
+      "combination": false,
+      "home_inn": "abiraterone",
+      "ingredients": [
+        "ABIRATERONE ACETATE"
+      ],
+      "labeler": "Janssen Biotech, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2011-04-28",
+      "moieties": [
+        "ABIRATERONE"
+      ],
+      "product_ndcs": [
+        "57894-150",
+        "57894-195"
+      ],
+      "rxcui": [
+        "1100075",
+        "1100079",
+        "1918042",
+        "1918044"
+      ],
+      "setid": "4e338e89-3cf2-48eb-b6e2-a06c608c6513",
+      "source": "openfda",
+      "spl_version": 40,
+      "title": "ZYTIGA (ABIRATERONE ACETATE) TABLET ZYTIGA (ABIRATERONE ACETATE) TABLET, FILM COATED [JANSSEN BIOTECH, INC.]",
+      "upload_date": "2025-03-31"
+    },
+    {
+      "application_numbers": [
+        "NDA210308"
+      ],
+      "brand_names": [
+        "YONSA"
+      ],
+      "combination": false,
+      "home_inn": "abiraterone",
+      "ingredients": [
+        "ABIRATERONE ACETATE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-05-22",
+      "moieties": [
+        "ABIRATERONE"
+      ],
+      "product_ndcs": [
+        "47335-401"
+      ],
+      "rxcui": [
+        "2046579",
+        "2046585"
+      ],
+      "setid": "b8967e10-f768-47ce-ac9e-2324c8390132",
+      "source": "dailymed-title-match",
+      "spl_version": 15,
+      "title": "YONSA (ABIRATERONE ACETATE) TABLET [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2026-10-15"
+    },
+    {
+      "application_numbers": [
+        "NDA216793"
+      ],
+      "brand_names": [
+        "AKEEGA"
+      ],
+      "combination": true,
+      "home_inn": "abiraterone",
+      "ingredients": [
+        "ABIRATERONE ACETATE",
+        "NIRAPARIB TOSYLATE MONOHYDRATE"
+      ],
+      "labeler": "Janssen Biotech, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-08-11",
+      "moieties": [
+        "ABIRATERONE",
+        "NIRAPARIB"
+      ],
+      "product_ndcs": [
+        "57894-050",
+        "57894-100"
+      ],
+      "rxcui": [
+        "2645244",
+        "2645250",
+        "2645251",
+        "2645253"
+      ],
+      "setid": "8245a990-3268-4613-b5c5-9537858a1eb9",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "AKEEGA (NIRAPARIB TOSYLATE MONOHYDRATE AND ABIRATERONE ACETATE) TABLET, FILM COATED [JANSSEN BIOTECH, INC.]",
+      "upload_date": "2025-12-22"
+    },
+    {
+      "application_numbers": [
+        "ANDA208446"
+      ],
+      "brand_names": [
+        "Abiraterone Acetate"
+      ],
+      "combination": false,
+      "home_inn": "abiraterone",
+      "ingredients": [
+        "ABIRATERONE ACETATE"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-11-21",
+      "moieties": [
+        "ABIRATERONE"
+      ],
+      "product_ndcs": [
+        "0378-6920",
+        "0378-6921"
+      ],
+      "rxcui": [
+        "1100075",
+        "1918042"
+      ],
+      "setid": "fe02db79-fa04-441f-b514-70bd74af6624",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "ABIRATERONE ACETATE TABLET, FILM COATED ABIRATERONE ACETATE TABLET [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2026-04-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA208339"
+      ],
+      "brand_names": [
+        "Abiraterone"
+      ],
+      "combination": false,
+      "home_inn": "abiraterone",
+      "ingredients": [
+        "ABIRATERONE ACETATE"
+      ],
+      "labeler": "CivicaScript, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-11-23",
+      "moieties": [
+        "ABIRATERONE"
+      ],
+      "product_ndcs": [
+        "82249-010"
+      ],
+      "rxcui": [
+        "1100075"
+      ],
+      "setid": "0ef857ee-2bfc-4d27-a417-ad58fc3a6ff6",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "ABIRATERONE (ABIRATERONE ACETATE) TABLET [CIVICASCRIPT, LLC]",
+      "upload_date": "2025-12-16"
+    },
+    {
+      "application_numbers": [
+        "ANDA208453"
+      ],
+      "brand_names": [
+        "Abiraterone Acetate"
+      ],
+      "combination": false,
+      "home_inn": "abiraterone",
+      "ingredients": [
+        "ABIRATERONE ACETATE"
+      ],
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-11-23",
+      "moieties": [
+        "ABIRATERONE"
+      ],
+      "product_ndcs": [
+        "60505-4327"
+      ],
+      "rxcui": [
+        "1100075"
+      ],
+      "setid": "2ac063f0-4177-c90f-27c3-e70e29689255",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "ABIRATERONE ACETATE TABLET [APOTEX CORP.]",
+      "upload_date": "2026-09-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA208327"
+      ],
+      "brand_names": [
+        "ABIRATERONE ACETATE",
+        "Abiraterone Acetate"
+      ],
+      "combination": false,
+      "home_inn": "abiraterone",
+      "ingredients": [
+        "ABIRATERONE ACETATE"
+      ],
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-01-07",
+      "moieties": [
+        "ABIRATERONE"
+      ],
+      "product_ndcs": [
+        "69238-1165",
+        "69238-1754"
+      ],
+      "rxcui": [
+        "1100075",
+        "1918042"
+      ],
+      "setid": "c9eb9b46-f847-40a8-802c-a51b40406d5a",
+      "source": "openfda",
+      "spl_version": 32,
+      "title": "ABIRATERONE ACETATE (ABIRATERONE) TABLET ABIRATERONE ACETATE (ABIRATERONE) TABLET [AMNEAL PHARMACEUTICALS NY LLC]",
+      "upload_date": "2023-11-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA208371"
+      ],
+      "brand_names": [
+        "Abiraterone acetate"
+      ],
+      "combination": false,
+      "home_inn": "abiraterone",
+      "ingredients": [
+        "ABIRATERONE ACETATE"
+      ],
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-02-25",
+      "moieties": [
+        "ABIRATERONE"
+      ],
+      "product_ndcs": [
+        "64980-418"
+      ],
+      "rxcui": [
+        "1100075"
+      ],
+      "setid": "54ae5ef9-aea5-484a-a473-863b1397e206",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "ABIRATERONE ACETATE TABLET [RISING PHARMA HOLDINGS, INC.]",
+      "upload_date": "2024-09-27"
+    },
+    {
+      "application_numbers": [
+        "ANDA210686"
+      ],
+      "brand_names": [
+        "Abiraterone"
+      ],
+      "combination": false,
+      "home_inn": "abiraterone",
+      "ingredients": [
+        "ABIRATERONE ACETATE"
+      ],
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-07-10",
+      "moieties": [
+        "ABIRATERONE"
+      ],
+      "product_ndcs": [
+        "68001-489",
+        "68001-673"
+      ],
+      "rxcui": [
+        "1100075",
+        "1918042"
+      ],
+      "setid": "32f6b83d-c743-4934-9a20-1b5bf9f4eea3",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "ABIRATERONE (ABIRATERONE ACETATE) TABLET ABIRATERONE (ABIRATERONE ACETATE) TABLET [BLUEPOINT LABORATORIES]",
+      "upload_date": "2026-03-25"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 4,
+      "brand_names": [
+        "YONSA"
+      ],
+      "first_posted": "2022-11-04",
+      "found_by": "YONSA",
+      "labeler": "Catalent Pharma Solutions, LLC",
+      "labeler_unverified": true,
+      "last_posted": "2025-09-25",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "11014-0566"
+      ],
+      "rxcui": [],
+      "setid": "ec93b41f-88c2-e7ab-e053-2a95a90a636d",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "YONSA (abiraterone acetate) tablet"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ba32c453-a231-452a-a6d9-b3e57afb2e75"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "39434b24-bf64-f5c9-fbb6-b0d225099424"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9ce9d926-ef3a-4b22-a703-f49c18eb4e3d"
+    },
+    {
+      "combination": false,
+      "labeler": "Novugen Pharma (USA) LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f308b463-27e4-422a-95a2-ecbbf95eee20"
+    },
+    {
+      "combination": false,
+      "labeler": "Florida Pharmaceutical Products, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "68121a71-5024-4f9e-bd9c-2d412f6a6355"
+    },
+    {
+      "combination": false,
+      "labeler": "CivicaScript, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2f932015-28b2-4f44-ac04-772e982e13e9"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "be29365a-ed25-44c0-9818-e9016dc95ba6"
+    },
+    {
+      "combination": false,
+      "labeler": "AvKARE",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7f82d549-6654-1efd-e053-2991aa0aa28d"
+    },
+    {
+      "combination": false,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "88d05db3-8bdc-47f1-bb00-6b4a71f98609"
+    },
+    {
+      "combination": false,
+      "labeler": "Quallent Pharmaceuticals Health LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6f5b628b-69da-4a04-a4d5-623b18d1fd5d"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddys Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7eda0d98-c2ba-c117-b757-1f566292e789"
+    },
+    {
+      "combination": false,
+      "labeler": "AvKARE",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c1200e4e-c4f7-9067-e053-2a95a90af509"
+    },
+    {
+      "combination": false,
+      "labeler": "NORTHSTAR RX LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "42d5baa8-aca7-49d8-9c24-9d87b707ec20"
+    },
+    {
+      "combination": false,
+      "labeler": "Florida Pharmaceutical Products, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b3e7f851-4132-4003-8f14-0eea21e5009c"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6fda6b92-59ed-4180-af68-94052a5e82cf"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddys Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0c91aa38-3b0a-232c-8eb1-55f08e8e6644"
+    }
+  ]
+}

@@ -1,0 +1,412 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/004014",
+      "eu_number": "EU/1/15/1054",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-004014",
+      "mah": "Mylan Pharmaceuticals Limited",
+      "marketing_authorisation_date": "2015-11-19",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/cinacalcet-viatris",
+      "name": "Cinacalcet Viatris (previously Cinacalcet Mylan)",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/005236",
+      "eu_number": "EU/1/20/1429",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-005236",
+      "mah": "Accord Healthcare S.L.U.",
+      "marketing_authorisation_date": "2020-04-03",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/cinacalcet-accordpharma",
+      "name": "Cinacalcet Accordpharma",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "only generic or biosimilar central products under this exact INN",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "CINACALCET HYDROCHLORIDE"
+  ],
+  "inn": "cinacalcet",
+  "name": "CINACALCET",
+  "rank": 495,
+  "rxcui": [
+    "432400",
+    "432401",
+    "432402",
+    "656137",
+    "706958",
+    "706960"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 12,
+    "approval_holders": 12,
+    "earliest_marketing_start": "2004-04-04",
+    "latest_label_update": "2026-04-06",
+    "nda_bla_applications": 1,
+    "repackagers": 5
+  },
+  "unii": [
+    {
+      "ingredient": "CINACALCET HYDROCHLORIDE",
+      "unii": "1K860WSG25"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021688"
+      ],
+      "brand_names": [
+        "Sensipar"
+      ],
+      "combination": false,
+      "home_inn": "cinacalcet",
+      "ingredients": [
+        "CINACALCET HYDROCHLORIDE"
+      ],
+      "labeler": "Amgen Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2004-04-04",
+      "moieties": [
+        "CINACALCET"
+      ],
+      "product_ndcs": [
+        "55513-073",
+        "55513-074",
+        "55513-075"
+      ],
+      "rxcui": [
+        "432400",
+        "432401",
+        "432402",
+        "656137",
+        "706958",
+        "706960"
+      ],
+      "setid": "45028573-13c4-4c8b-ae62-6c75bba97c81",
+      "source": "openfda",
+      "spl_version": 136,
+      "title": "SENSIPAR (CINACALCET HYDROCHLORIDE) TABLET, COATED [AMGEN INC]",
+      "upload_date": "2025-12-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA208915"
+      ],
+      "brand_names": [
+        "CINACALCET"
+      ],
+      "combination": false,
+      "home_inn": "cinacalcet",
+      "ingredients": [
+        "CINACALCET HYDROCHLORIDE"
+      ],
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-03-08",
+      "moieties": [
+        "CINACALCET"
+      ],
+      "product_ndcs": [
+        "69097-410",
+        "69097-411",
+        "69097-412"
+      ],
+      "rxcui": [
+        "432400",
+        "432401",
+        "432402"
+      ],
+      "setid": "02b8c11b-99e8-4039-b6fa-a9c38d2f48fa",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "CINACALCET TABLET [CIPLA USA INC.]",
+      "upload_date": "2025-12-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA207008"
+      ],
+      "brand_names": [
+        "Cinacalcet"
+      ],
+      "combination": false,
+      "home_inn": "cinacalcet",
+      "ingredients": [
+        "CINACALCET HYDROCHLORIDE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-05-15",
+      "moieties": [
+        "CINACALCET"
+      ],
+      "product_ndcs": [
+        "47335-379",
+        "47335-380",
+        "47335-600"
+      ],
+      "rxcui": [
+        "432400",
+        "432401",
+        "432402"
+      ],
+      "setid": "092553cf-1bcd-4c19-9adf-b46f2bda5c9e",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "CINACALCET TABLET, FILM COATED [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2021-12-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA210570"
+      ],
+      "brand_names": [
+        "Cinacalcet"
+      ],
+      "combination": false,
+      "home_inn": "cinacalcet",
+      "ingredients": [
+        "CINACALCET HYDROCHLORIDE"
+      ],
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-05-18",
+      "moieties": [
+        "CINACALCET"
+      ],
+      "product_ndcs": [
+        "67877-503",
+        "67877-504",
+        "67877-505"
+      ],
+      "rxcui": [
+        "432400",
+        "432401",
+        "432402"
+      ],
+      "setid": "55f95ae0-84ac-4ae4-b7a0-7590ab919ae1",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "CINACALCET TABLET, FILM COATED [ASCEND LABORATORIES, LLC]",
+      "upload_date": "2026-03-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA209226"
+      ],
+      "brand_names": [
+        "Cinacalcet"
+      ],
+      "combination": false,
+      "home_inn": "cinacalcet",
+      "ingredients": [
+        "CINACALCET HYDROCHLORIDE"
+      ],
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-07-16",
+      "moieties": [
+        "CINACALCET"
+      ],
+      "product_ndcs": [
+        "64380-883",
+        "64380-884",
+        "64380-885"
+      ],
+      "rxcui": [
+        "432400",
+        "432401",
+        "432402"
+      ],
+      "setid": "0ba47b6a-ba49-4d7a-82e1-1c6e49bfa5d7",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "CINACALCET TABLET, FILM COATED [STRIDES PHARMA SCIENCE LIMITED]",
+      "upload_date": "2026-02-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA211892"
+      ],
+      "brand_names": [
+        "CINACALCET"
+      ],
+      "combination": false,
+      "home_inn": "cinacalcet",
+      "ingredients": [
+        "CINACALCET HYDROCHLORIDE"
+      ],
+      "labeler": "Accord Healthcare, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-06-16",
+      "moieties": [
+        "CINACALCET"
+      ],
+      "product_ndcs": [
+        "16729-440",
+        "16729-441",
+        "16729-442"
+      ],
+      "rxcui": [
+        "432400",
+        "432401",
+        "432402"
+      ],
+      "setid": "6bad4e06-c0a1-4123-83c2-67d3b081e8a9",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "CINACALCET TABLET, FILM COATED [ACCORD HEALTHCARE, INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA208368"
+      ],
+      "brand_names": [
+        "Cinacalcet"
+      ],
+      "combination": false,
+      "home_inn": "cinacalcet",
+      "ingredients": [
+        "CINACALCET HYDROCHLORIDE"
+      ],
+      "labeler": "Dr. Reddys Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-09-18",
+      "moieties": [
+        "CINACALCET"
+      ],
+      "product_ndcs": [
+        "43598-367",
+        "43598-368"
+      ],
+      "rxcui": [
+        "432400",
+        "432401",
+        "432402"
+      ],
+      "setid": "0837aabc-e796-0e07-8958-71f1ff6e89bf",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "CINACALCET TABLET [DR. REDDYS LABORATORIES INC]",
+      "upload_date": "2024-04-15"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "SENSIPAR"
+      ],
+      "first_posted": "2007-06-14",
+      "found_by": "SENSIPAR",
+      "labeler": "Amgen Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2007-06-14",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "55513-073",
+        "55513-074",
+        "55513-075"
+      ],
+      "rxcui": [],
+      "setid": "793ef7db-3618-4738-9460-27a02bf7ca55",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "sensipar (cinacalcet hydrochloride) tablet, coated"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5480ebd3-5b39-4f8b-bb03-05617f6f519f"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "28262843-b0a8-4ca7-8b92-41b7f0e896b4"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "200390f2-7dad-4ecc-a086-c29e18525c01"
+    },
+    {
+      "combination": false,
+      "labeler": "EXELAN PHARMACEUTICALS INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "04a978cb-d57b-4f1e-ba14-316b6f9abe33"
+    },
+    {
+      "combination": false,
+      "labeler": "XLCare Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ff0b9500-085a-4e1e-a2e4-fd918ed70b2e"
+    }
+  ]
+}

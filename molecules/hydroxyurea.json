@@ -1,0 +1,564 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand Siklos",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000689",
+      "eu_number": "EU/1/07/397",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000689",
+      "mah": "Theravia",
+      "marketing_authorisation_date": "2007-06-29",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/siklos",
+      "name": "Siklos",
+      "record_from": "2007-06-29",
+      "record_to": "2026-11-03",
+      "role": "reference",
+      "versions": 17
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/004837",
+      "eu_number": "EU/1/19/1366",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-004837",
+      "mah": "Lipomed GmbH",
+      "marketing_authorisation_date": "2019-07-01",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/xromi",
+      "name": "Xromi",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000689",
+    "reference_selected_by": "salt-alias-v2",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "HYDROXYUREA"
+  ],
+  "inn": "hydroxyurea",
+  "name": "HYDROXYUREA",
+  "rank": 278,
+  "rxcui": [
+    "105602",
+    "197797",
+    "200342",
+    "200343",
+    "200344",
+    "213282",
+    "213283",
+    "213284",
+    "283475",
+    "1999308",
+    "1999314",
+    "1999316",
+    "2682741",
+    "2696079"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 11,
+    "approval_holders": 9,
+    "earliest_marketing_start": "1998-10-19",
+    "latest_label_update": "2026-05-15",
+    "nda_bla_applications": 3,
+    "repackagers": 5
+  },
+  "unii": [
+    {
+      "ingredient": "HYDROXYUREA",
+      "unii": "X6Q56QN5QC"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA016295"
+      ],
+      "brand_names": [
+        "HYDREA"
+      ],
+      "combination": false,
+      "home_inn": "hydroxyurea",
+      "ingredients": [
+        "HYDROXYUREA"
+      ],
+      "labeler": "H2-Pharma LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2009-06-01",
+      "moieties": [
+        "HYDROXYUREA"
+      ],
+      "product_ndcs": [
+        "61269-835"
+      ],
+      "rxcui": [
+        "105602",
+        "197797"
+      ],
+      "setid": "6053c775-68de-45e4-9af9-33b18fd0e140",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "HYDREA (HYDROXYUREA) CAPSULE [H2-PHARMA LLC]",
+      "upload_date": "2026-01-28"
+    },
+    {
+      "application_numbers": [
+        "NDA208843"
+      ],
+      "brand_names": [
+        "Siklos"
+      ],
+      "combination": false,
+      "home_inn": "hydroxyurea",
+      "ingredients": [
+        "HYDROXYUREA"
+      ],
+      "labeler": "Medunik",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-04-15",
+      "moieties": [
+        "HYDROXYUREA"
+      ],
+      "product_ndcs": [
+        "71770-105",
+        "71770-120"
+      ],
+      "rxcui": [
+        "283475",
+        "1999308",
+        "1999314",
+        "1999316"
+      ],
+      "setid": "76957c0d-0f98-4376-bb06-eee651adc09d",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "SIKLOS (HYDROXYUREA) TABLET, FILM COATED [MEDUNIK]",
+      "upload_date": "2026-01-08"
+    },
+    {
+      "application_numbers": [
+        "NDA216593"
+      ],
+      "brand_names": [
+        "XROMI"
+      ],
+      "combination": false,
+      "home_inn": "hydroxyurea",
+      "ingredients": [
+        "HYDROXYUREA"
+      ],
+      "labeler": "Nova Laboratories, Ltd.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-04-04",
+      "moieties": [
+        "HYDROXYUREA"
+      ],
+      "product_ndcs": [
+        "62484-0015"
+      ],
+      "rxcui": [
+        "2682741",
+        "2696079"
+      ],
+      "setid": "4b37d336-86da-4363-aef1-34a7d3ba973b",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "XROMI (HYDROXYUREA) SOLUTION [NOVA LABORATORIES, LTD.]",
+      "upload_date": "2026-02-25"
+    },
+    {
+      "application_numbers": [
+        "NDA016295"
+      ],
+      "brand_names": [
+        "DROXIA"
+      ],
+      "combination": false,
+      "home_inn": "hydroxyurea",
+      "ingredients": [
+        "HYDROXYUREA"
+      ],
+      "labeler": "H2-Pharma LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2009-06-01",
+      "moieties": [
+        "HYDROXYUREA"
+      ],
+      "product_ndcs": [
+        "61269-402",
+        "61269-403",
+        "61269-404"
+      ],
+      "rxcui": [
+        "200342",
+        "200343",
+        "200344",
+        "213282",
+        "213283",
+        "213284"
+      ],
+      "setid": "a9494409-3571-4a81-9ad3-15ef7cb636a2",
+      "source": "openfda",
+      "spl_version": 24,
+      "title": "DROXIA (HYDROXYUREA) CAPSULE [H2-PHARMA LLC]",
+      "upload_date": "2026-01-29"
+    },
+    {
+      "application_numbers": [
+        "NDA016295"
+      ],
+      "brand_names": [
+        "DROXIA"
+      ],
+      "combination": false,
+      "home_inn": "hydroxyurea",
+      "ingredients": [
+        "HYDROXYUREA"
+      ],
+      "labeler": "Waylis Therapeutics LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-09-11",
+      "moieties": [
+        "HYDROXYUREA"
+      ],
+      "product_ndcs": [
+        "80725-820",
+        "80725-830",
+        "80725-840"
+      ],
+      "rxcui": [
+        "200342",
+        "200343",
+        "200344",
+        "213282",
+        "213283",
+        "213284"
+      ],
+      "setid": "4ad13dc6-a2ab-4308-96b3-7c642c92cc23",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "DROXIA (HYDROXYUREA) CAPSULE [WAYLIS THERAPEUTICS LLC]",
+      "upload_date": "2025-09-15"
+    },
+    {
+      "application_numbers": [
+        "NDA016295"
+      ],
+      "brand_names": [
+        "HYDREA"
+      ],
+      "combination": false,
+      "home_inn": "hydroxyurea",
+      "ingredients": [
+        "HYDROXYUREA"
+      ],
+      "labeler": "Waylis Therapeutics LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-09-11",
+      "moieties": [
+        "HYDROXYUREA"
+      ],
+      "product_ndcs": [
+        "80725-810"
+      ],
+      "rxcui": [
+        "105602",
+        "197797"
+      ],
+      "setid": "8d41152f-a98a-4abc-afdf-a909012434a0",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "HYDREA (HYDROXYUREA) CAPSULE [WAYLIS THERAPEUTICS LLC]",
+      "upload_date": "2025-09-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA075143"
+      ],
+      "brand_names": [
+        "HYDROXYUREA"
+      ],
+      "combination": false,
+      "home_inn": "hydroxyurea",
+      "ingredients": [
+        "HYDROXYUREA"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1998-10-19",
+      "moieties": [
+        "HYDROXYUREA"
+      ],
+      "product_ndcs": [
+        "0555-0882"
+      ],
+      "rxcui": [
+        "197797"
+      ],
+      "setid": "b9514ae5-79ae-4cc2-9d7f-c8f7806d1694",
+      "source": "openfda",
+      "spl_version": 20,
+      "title": "HYDROXYUREA CAPSULE [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2024-08-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA075340"
+      ],
+      "brand_names": [
+        "Hydroxyurea"
+      ],
+      "combination": false,
+      "home_inn": "hydroxyurea",
+      "ingredients": [
+        "HYDROXYUREA"
+      ],
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1999-02-24",
+      "moieties": [
+        "HYDROXYUREA"
+      ],
+      "product_ndcs": [
+        "49884-724"
+      ],
+      "rxcui": [
+        "197797"
+      ],
+      "setid": "9e1bdd4b-043a-4cf6-b1ff-8de49e02b7a6",
+      "source": "openfda",
+      "spl_version": 23,
+      "title": "HYDROXYUREA CAPSULE [PAR HEALTH USA, LLC]",
+      "upload_date": "2026-05-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA213438"
+      ],
+      "brand_names": [
+        "HYDROXYUREA"
+      ],
+      "combination": false,
+      "home_inn": "hydroxyurea",
+      "ingredients": [
+        "HYDROXYUREA"
+      ],
+      "labeler": "Leading Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-07-09",
+      "moieties": [
+        "HYDROXYUREA"
+      ],
+      "product_ndcs": [
+        "69315-164"
+      ],
+      "rxcui": [
+        "197797"
+      ],
+      "setid": "4c4e1c2f-2143-44f3-8825-aeba42e755e4",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "HYDROXYUREA CAPSULE [LEADING PHARMA, LLC]",
+      "upload_date": "2024-10-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA218021"
+      ],
+      "brand_names": [
+        "HYDROXYUREA"
+      ],
+      "combination": false,
+      "home_inn": "hydroxyurea",
+      "ingredients": [
+        "HYDROXYUREA"
+      ],
+      "labeler": "Qilu Pharmaceutical Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-03-06",
+      "moieties": [
+        "HYDROXYUREA"
+      ],
+      "product_ndcs": [
+        "67184-0607"
+      ],
+      "rxcui": [
+        "197797"
+      ],
+      "setid": "4cd244d4-bd4a-41c8-b072-c2135787d412",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "HYDROXYUREA CAPSULE [QILU PHARMACEUTICAL CO., LTD.]",
+      "upload_date": "2024-06-03"
+    },
+    {
+      "application_numbers": [
+        "ANDA218021"
+      ],
+      "brand_names": [
+        "HYDROXYUREA"
+      ],
+      "combination": false,
+      "home_inn": "hydroxyurea",
+      "ingredients": [
+        "HYDROXYUREA"
+      ],
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-06-18",
+      "moieties": [
+        "HYDROXYUREA"
+      ],
+      "product_ndcs": [
+        "70069-820"
+      ],
+      "rxcui": [
+        "197797"
+      ],
+      "setid": "9752a347-b42c-44d5-8fd1-c538f7f239dc",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "HYDROXYUREA CAPSULE [SOMERSET THERAPEUTICS, LLC]",
+      "upload_date": "2024-09-24"
+    },
+    {
+      "application_numbers": [
+        "NDA016295"
+      ],
+      "archived_versions": 17,
+      "brand_names": [
+        "HYDREA"
+      ],
+      "first_posted": "2008-07-10",
+      "found_by": "HYDREA",
+      "labeler": "E.R. Squibb & Sons, L.L.C.",
+      "labeler_unverified": false,
+      "last_posted": "2022-11-29",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-03-31"
+      ],
+      "product_ndcs": [
+        "0003-0830"
+      ],
+      "rxcui": [],
+      "setid": "050bd2a2-a125-721a-e366-255c5466f018",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "4ad13dc6-a2ab-4308-96b3-7c642c92cc23",
+        "6053c775-68de-45e4-9af9-33b18fd0e140",
+        "8d41152f-a98a-4abc-afdf-a909012434a0",
+        "a9494409-3571-4a81-9ad3-15ef7cb636a2"
+      ],
+      "title": "HYDREA (hydroxyurea) capsule"
+    },
+    {
+      "application_numbers": [
+        "NDA016295"
+      ],
+      "archived_versions": 19,
+      "brand_names": [
+        "DROXIA"
+      ],
+      "first_posted": "2008-07-16",
+      "found_by": "DROXIA",
+      "labeler": "E.R. Squibb & Sons, L.L.C.",
+      "labeler_unverified": false,
+      "last_posted": "2022-11-29",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-03-31",
+        "2025-05-31"
+      ],
+      "product_ndcs": [
+        "0003-6335",
+        "0003-6336",
+        "0003-6337"
+      ],
+      "rxcui": [],
+      "setid": "740e054b-faac-7c27-f06d-a56efb699355",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "4ad13dc6-a2ab-4308-96b3-7c642c92cc23",
+        "6053c775-68de-45e4-9af9-33b18fd0e140",
+        "8d41152f-a98a-4abc-afdf-a909012434a0",
+        "a9494409-3571-4a81-9ad3-15ef7cb636a2"
+      ],
+      "title": "DROXIA (hydroxyurea) capsule"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "DROXIA"
+      ],
+      "first_posted": "2006-12-08",
+      "found_by": "DROXIA",
+      "labeler": "Bristol-Myers Squibb Company",
+      "labeler_unverified": false,
+      "last_posted": "2006-12-08",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0003-6335",
+        "0003-6336",
+        "0003-6337"
+      ],
+      "rxcui": [],
+      "setid": "ce36b235-2168-476c-91e5-0e5e346f1501",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "droxia (hydroxyurea) capsule"
+    }
+  ],
+  "us_excluded": []
+}

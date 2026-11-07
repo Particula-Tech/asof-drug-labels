@@ -1,0 +1,452 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "PITAVASTATIN",
+    "PITAVASTATIN CALCIUM"
+  ],
+  "inn": "pitavastatin",
+  "name": "PITAVASTATIN",
+  "rank": 485,
+  "rxcui": [
+    "861643",
+    "861646",
+    "861648",
+    "861650",
+    "861652",
+    "861654",
+    "2001262",
+    "2001264",
+    "2001266",
+    "2001268"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 13,
+    "approval_holders": 12,
+    "earliest_marketing_start": "2018-03-09",
+    "latest_label_update": "2026-06-17",
+    "nda_bla_applications": 2,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "PITAVASTATIN",
+      "unii": "M5681Q5F9P"
+    },
+    {
+      "ingredient": "PITAVASTATIN CALCIUM",
+      "unii": "IYD54XEG3W"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA208379"
+      ],
+      "brand_names": [
+        "ZYPITAMAG"
+      ],
+      "combination": false,
+      "home_inn": "pitavastatin",
+      "ingredients": [
+        "PITAVASTATIN"
+      ],
+      "labeler": "Medicure International Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-03-09",
+      "moieties": [
+        "PITAVASTATIN"
+      ],
+      "product_ndcs": [
+        "25208-201",
+        "25208-202"
+      ],
+      "rxcui": [
+        "2001262",
+        "2001264",
+        "2001266",
+        "2001268"
+      ],
+      "setid": "c8c50e03-5cb8-43f4-bdef-8edd12f1945f",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "ZYPITAMAG (PITAVASTATIN MAGNESIUM) TABLET, FILM COATED [MEDICURE INTERNATIONAL INC]",
+      "upload_date": "2025-12-04"
+    },
+    {
+      "application_numbers": [
+        "NDA022363"
+      ],
+      "brand_names": [
+        "Livalo"
+      ],
+      "combination": false,
+      "home_inn": "pitavastatin",
+      "ingredients": [
+        "PITAVASTATIN CALCIUM"
+      ],
+      "labeler": "Kowa Pharmaceuticals America, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2019-05-16",
+      "moieties": [
+        "PITAVASTATIN"
+      ],
+      "product_ndcs": [
+        "66869-104",
+        "66869-204",
+        "66869-404"
+      ],
+      "rxcui": [
+        "861643",
+        "861646",
+        "861648",
+        "861650",
+        "861652",
+        "861654"
+      ],
+      "setid": "44dcbf97-99ec-427c-ba50-207e0069d6d2",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "LIVALO (PITAVASTATIN CALCIUM) TABLET, FILM COATED [KOWA PHARMACEUTICALS AMERICA, INC.]",
+      "upload_date": "2026-06-17"
+    },
+    {
+      "application_numbers": [
+        "NDA208379"
+      ],
+      "brand_names": [
+        "ZYPITAMAG"
+      ],
+      "combination": false,
+      "home_inn": "pitavastatin",
+      "ingredients": [
+        "PITAVASTATIN"
+      ],
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-03-09",
+      "moieties": [
+        "PITAVASTATIN"
+      ],
+      "product_ndcs": [
+        "70771-1117",
+        "70771-1118"
+      ],
+      "rxcui": [
+        "2001262",
+        "2001264",
+        "2001266",
+        "2001268"
+      ],
+      "setid": "e9f0fe3a-0462-4c24-8f22-3c89afe8fcea",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "ZYPITAMAG (PITAVASTATIN MAGNESIUM) TABLET, FILM COATED [ZYDUS LIFESCIENCES LIMITED]",
+      "upload_date": "2024-08-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA206070"
+      ],
+      "brand_names": [
+        "Pitavastatin Calcium"
+      ],
+      "combination": false,
+      "home_inn": "pitavastatin",
+      "ingredients": [
+        "PITAVASTATIN CALCIUM"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-11-02",
+      "moieties": [
+        "PITAVASTATIN"
+      ],
+      "product_ndcs": [
+        "0378-5055",
+        "0378-5056",
+        "0378-5057"
+      ],
+      "rxcui": [
+        "861643",
+        "861648",
+        "861652"
+      ],
+      "setid": "26b5e5e8-45cd-4a98-9af4-2d04c1130881",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "PITAVASTATIN CALCIUM (PITAVASTATIN) TABLET, FILM COATED [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2024-08-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA206047"
+      ],
+      "brand_names": [
+        "pitavastatin calcium"
+      ],
+      "combination": false,
+      "home_inn": "pitavastatin",
+      "ingredients": [
+        "PITAVASTATIN CALCIUM"
+      ],
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-11-02",
+      "moieties": [
+        "PITAVASTATIN"
+      ],
+      "product_ndcs": [
+        "70771-1784",
+        "70771-1785",
+        "70771-1786"
+      ],
+      "rxcui": [
+        "861643",
+        "861648",
+        "861652"
+      ],
+      "setid": "7b1a9aa6-a7a4-4050-8a40-89ba9728555a",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "PITAVASTATIN CALCIUM TABLET [ZYDUS LIFESCIENCES LIMITED]",
+      "upload_date": "2024-12-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA205955"
+      ],
+      "brand_names": [
+        "Pitavastatin"
+      ],
+      "combination": false,
+      "home_inn": "pitavastatin",
+      "ingredients": [
+        "PITAVASTATIN CALCIUM"
+      ],
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-11-02",
+      "moieties": [
+        "PITAVASTATIN"
+      ],
+      "product_ndcs": [
+        "0832-6048",
+        "0832-6049",
+        "0832-6050"
+      ],
+      "rxcui": [
+        "861643",
+        "861648",
+        "861652"
+      ],
+      "setid": "9ad1ecb9-822d-47c1-9f6f-6f771fa0f924",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "PITAVASTATIN (PITAVASTATIN CALCIUM) TABLET [UPSHER-SMITH LABORATORIES, LLC]",
+      "upload_date": "2026-06-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA206015"
+      ],
+      "brand_names": [
+        "Pitavastatin"
+      ],
+      "combination": false,
+      "home_inn": "pitavastatin",
+      "ingredients": [
+        "PITAVASTATIN CALCIUM"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-11-02",
+      "moieties": [
+        "PITAVASTATIN"
+      ],
+      "product_ndcs": [
+        "65862-812",
+        "65862-813",
+        "65862-814"
+      ],
+      "rxcui": [
+        "861643",
+        "861648",
+        "861652"
+      ],
+      "setid": "a52401eb-a822-475b-a40d-7b8acde2ae1a",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "PITAVASTATIN TABLET, FILM COATED [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2024-04-25"
+    },
+    {
+      "application_numbers": [
+        "ANDA205932"
+      ],
+      "brand_names": [
+        "Pitavastatin"
+      ],
+      "combination": false,
+      "home_inn": "pitavastatin",
+      "ingredients": [
+        "PITAVASTATIN CALCIUM"
+      ],
+      "labeler": "Teva Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-11-02",
+      "moieties": [
+        "PITAVASTATIN"
+      ],
+      "product_ndcs": [
+        "0480-3631",
+        "0480-3632",
+        "0480-3633"
+      ],
+      "rxcui": [
+        "861643",
+        "861648",
+        "861652"
+      ],
+      "setid": "fac09182-dcf2-1770-e053-6394a90af50c",
+      "source": "openfda",
+      "spl_version": 25,
+      "title": "PITAVASTATIN (PITAVASTATIN CALCIUM) TABLET, FILM COATED [TEVA PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-03-06"
+    },
+    {
+      "application_numbers": [
+        "ANDA205977"
+      ],
+      "brand_names": [
+        "pitavastatin calcium"
+      ],
+      "combination": false,
+      "home_inn": "pitavastatin",
+      "ingredients": [
+        "PITAVASTATIN CALCIUM"
+      ],
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-04-30",
+      "moieties": [
+        "PITAVASTATIN"
+      ],
+      "product_ndcs": [
+        "31722-875",
+        "31722-876",
+        "31722-877"
+      ],
+      "rxcui": [
+        "861643",
+        "861648",
+        "861652"
+      ],
+      "setid": "e9622824-cee5-49d7-9273-f18b9cc176fd",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "PITAVASTATIN CALCIUM (PITAVASTATIN CALCIUM) TABLET, FILM COATED [CAMBER PHARMACEUTICALS, INC.]",
+      "upload_date": "2024-05-07"
+    },
+    {
+      "application_numbers": [
+        "NDA022363"
+      ],
+      "archived_versions": 9,
+      "brand_names": [
+        "LIVALO"
+      ],
+      "first_posted": "2010-05-17",
+      "found_by": "LIVALO",
+      "labeler": "Eli Lilly and Company",
+      "labeler_unverified": false,
+      "last_posted": "2016-06-24",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2016-01-31"
+      ],
+      "product_ndcs": [
+        "0002-4770",
+        "0002-4771",
+        "0002-4772"
+      ],
+      "rxcui": [],
+      "setid": "b3c41a2f-da77-4465-8af6-038006a7ea58",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "44dcbf97-99ec-427c-ba50-207e0069d6d2"
+      ],
+      "title": "LIVALO (pitavastatin calcium) tablet, film coated"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7fbfcc0c-9251-456d-a525-e62cfd8abd4b"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c35e747e-10ac-4a76-bce6-187618fc64f9"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "98e3f1df-5b38-4169-a340-adb145eac459"
+    },
+    {
+      "combination": false,
+      "labeler": "XLCare Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f29ea90c-f4e5-4f14-9660-a0404ef87f18"
+    }
+  ]
+}

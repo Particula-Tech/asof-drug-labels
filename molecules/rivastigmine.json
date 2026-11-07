@@ -1,0 +1,623 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand EXELON",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000169",
+      "eu_number": "EU/1/98/066",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000169",
+      "mah": "Novartis Europharm Limited",
+      "marketing_authorisation_date": "1998-05-11",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/exelon",
+      "name": "Exelon",
+      "record_from": "1998-05-12",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 34
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/000255",
+      "eu_number": "EU/1/98/092",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-000255",
+      "mah": "Almirall, S.A.",
+      "marketing_authorisation_date": "1998-12-04",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/prometax",
+      "name": "Prometax",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/001029",
+      "eu_number": "EU/1/09/525",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-001029",
+      "mah": "Krka, d.d., Novo mesto",
+      "marketing_authorisation_date": "2009-05-11",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/nimvastid",
+      "name": "Nimvastid",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/001181",
+      "eu_number": "EU/1/09/585",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-001181",
+      "mah": "1 A Pharma GmbH",
+      "marketing_authorisation_date": "2009-12-11",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/rivastigmine-1-pharma",
+      "name": "Rivastigmine 1 A Pharma",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/001182",
+      "eu_number": "EU/1/09/589",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-001182",
+      "mah": "Hexal AG ",
+      "marketing_authorisation_date": "2009-12-11",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/rivastigmine-hexal",
+      "name": "Rivastigmine Hexal",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/001183",
+      "eu_number": "EU/1/09/599",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-001183",
+      "mah": "Sandoz GmbH",
+      "marketing_authorisation_date": "2009-12-10",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/rivastigmine-sandoz",
+      "name": "Rivastigmine Sandoz",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/002036",
+      "eu_number": "EU/1/11/693",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-002036",
+      "mah": "Actavis Group PTC ehf",
+      "marketing_authorisation_date": "2011-06-16",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/rivastigmine-actavis",
+      "name": "Rivastigmine Actavis",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000169",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "RIVASTIGMINE",
+    "RIVASTIGMINE TARTRATE"
+  ],
+  "inn": "rivastigmine",
+  "name": "RIVASTIGMINE",
+  "rank": 349,
+  "rxcui": [
+    "312835",
+    "312836",
+    "314214",
+    "314215",
+    "725021",
+    "725023",
+    "725105",
+    "751302",
+    "1308569",
+    "1308571"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 18,
+    "approval_holders": 17,
+    "earliest_marketing_start": "2007-07-06",
+    "latest_label_update": "2025-11-18",
+    "nda_bla_applications": 1,
+    "repackagers": 3
+  },
+  "unii": [
+    {
+      "ingredient": "RIVASTIGMINE",
+      "unii": "PKI06M3IW0"
+    },
+    {
+      "ingredient": "RIVASTIGMINE TARTRATE",
+      "unii": "9IY2357JPE"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA022083"
+      ],
+      "brand_names": [
+        "Exelon"
+      ],
+      "combination": false,
+      "home_inn": "rivastigmine",
+      "ingredients": [
+        "RIVASTIGMINE"
+      ],
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2007-07-06",
+      "moieties": [
+        "RIVASTIGMINE"
+      ],
+      "product_ndcs": [
+        "0078-0501",
+        "0078-0502",
+        "0078-0503"
+      ],
+      "rxcui": [
+        "725021",
+        "725023",
+        "725105",
+        "751302",
+        "1308569",
+        "1308571"
+      ],
+      "setid": "07c12e14-bbd5-4ec8-84e4-fbe7b5ba10e0",
+      "source": "openfda",
+      "spl_version": 30,
+      "title": "EXELON (RIVASTIGMINE) PATCH, EXTENDED RELEASE [NOVARTIS PHARMACEUTICALS CORPORATION]",
+      "upload_date": "2025-10-06"
+    },
+    {
+      "application_numbers": [
+        "NDA022083"
+      ],
+      "brand_names": [
+        "Exelon"
+      ],
+      "combination": false,
+      "home_inn": "rivastigmine",
+      "ingredients": [
+        "RIVASTIGMINE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2007-07-06",
+      "moieties": [
+        "RIVASTIGMINE"
+      ],
+      "product_ndcs": [
+        "66758-142",
+        "66758-143",
+        "66758-144"
+      ],
+      "rxcui": [
+        "725021",
+        "725023",
+        "725105",
+        "751302",
+        "1308569",
+        "1308571"
+      ],
+      "setid": "b6ed6d15-116d-4596-92ce-3414574d7ba0",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "EXELON (RIVASTIGMINE) PATCH, EXTENDED RELEASE [SANDOZ INC]",
+      "upload_date": "2025-10-06"
+    },
+    {
+      "application_numbers": [
+        "NDA022083"
+      ],
+      "brand_names": [
+        "Rivastigmine"
+      ],
+      "combination": false,
+      "home_inn": "rivastigmine",
+      "ingredients": [
+        "RIVASTIGMINE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2015-09-02",
+      "moieties": [
+        "RIVASTIGMINE"
+      ],
+      "product_ndcs": [
+        "0781-7304",
+        "0781-7309",
+        "0781-7313"
+      ],
+      "rxcui": [
+        "725021",
+        "725023",
+        "1308569"
+      ],
+      "setid": "92a58ebb-748d-49f4-bf11-ecbcf5424152",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "RIVASTIGMINE PATCH, EXTENDED RELEASE [SANDOZ INC]",
+      "upload_date": "2024-08-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA077131"
+      ],
+      "brand_names": [
+        "Rivastigmine Tartrate"
+      ],
+      "combination": false,
+      "home_inn": "rivastigmine",
+      "ingredients": [
+        "RIVASTIGMINE TARTRATE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-07-01",
+      "moieties": [
+        "RIVASTIGMINE"
+      ],
+      "product_ndcs": [
+        "62756-145",
+        "62756-146",
+        "62756-147",
+        "62756-148"
+      ],
+      "rxcui": [
+        "312835",
+        "312836",
+        "314214",
+        "314215"
+      ],
+      "setid": "bac9ca81-db70-41aa-82af-6c5bb8496846",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "RIVASTIGMINE TARTRATE CAPSULE [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2019-02-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA077130"
+      ],
+      "brand_names": [
+        "Rivastigmine Tartrate"
+      ],
+      "combination": false,
+      "home_inn": "rivastigmine",
+      "ingredients": [
+        "RIVASTIGMINE TARTRATE"
+      ],
+      "labeler": "Dr. Reddy's Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-09-01",
+      "moieties": [
+        "RIVASTIGMINE"
+      ],
+      "product_ndcs": [
+        "55111-352",
+        "55111-353",
+        "55111-354",
+        "55111-355"
+      ],
+      "rxcui": [
+        "312835",
+        "312836",
+        "314214",
+        "314215"
+      ],
+      "setid": "0e20124c-725a-0145-996c-2ff908703162",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "RIVASTIGMINE TARTRATE (RIVASTIGMINE TARTRATE ) CAPSULE [DR. REDDY'S LABORATORIES LIMITED]",
+      "upload_date": "2019-01-25"
+    },
+    {
+      "application_numbers": [
+        "ANDA091689"
+      ],
+      "brand_names": [
+        "Rivastigmine Tartrate"
+      ],
+      "combination": false,
+      "home_inn": "rivastigmine",
+      "ingredients": [
+        "RIVASTIGMINE TARTRATE"
+      ],
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-06-13",
+      "moieties": [
+        "RIVASTIGMINE"
+      ],
+      "product_ndcs": [
+        "46708-063",
+        "46708-064",
+        "46708-065",
+        "46708-066"
+      ],
+      "rxcui": [
+        "312835",
+        "312836",
+        "314214",
+        "314215"
+      ],
+      "setid": "33e6a772-382d-45f5-9d45-966c07759367",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "RIVASTIGMINE TARTRATE CAPSULE [ALEMBIC PHARMACEUTICALS LIMITED]",
+      "upload_date": "2023-01-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA203844"
+      ],
+      "brand_names": [
+        "Rivastigmine Tartrate"
+      ],
+      "combination": false,
+      "home_inn": "rivastigmine",
+      "ingredients": [
+        "RIVASTIGMINE TARTRATE"
+      ],
+      "labeler": "Cadila Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-02-11",
+      "moieties": [
+        "RIVASTIGMINE"
+      ],
+      "product_ndcs": [
+        "71209-012",
+        "71209-013",
+        "71209-014",
+        "71209-015"
+      ],
+      "rxcui": [
+        "312835",
+        "312836",
+        "314214",
+        "314215"
+      ],
+      "setid": "e7e641fe-39bd-4681-a430-6dedeb6d6af5",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "RIVASTIGMINE TARTRATE CAPSULE [CADILA PHARMACEUTICALS LIMITED]",
+      "upload_date": "2022-12-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA203148"
+      ],
+      "brand_names": [
+        "RIVASTIGMINE TARTRATE"
+      ],
+      "combination": false,
+      "home_inn": "rivastigmine",
+      "ingredients": [
+        "RIVASTIGMINE TARTRATE"
+      ],
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-09-02",
+      "moieties": [
+        "RIVASTIGMINE"
+      ],
+      "product_ndcs": [
+        "33342-089",
+        "33342-090",
+        "33342-091",
+        "33342-092"
+      ],
+      "rxcui": [
+        "312835",
+        "312836",
+        "314214",
+        "314215"
+      ],
+      "setid": "4364f6ef-a8da-4805-be0d-aabbe8ca2d21",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "RIVASTIGMINE TARTRATE CAPSULE [MACLEODS PHARMACEUTICALS LIMITED]",
+      "upload_date": "2022-09-02"
+    },
+    {
+      "application_numbers": [
+        "NDA020823"
+      ],
+      "archived_versions": 13,
+      "brand_names": [
+        "EXELON"
+      ],
+      "first_posted": "2007-03-19",
+      "found_by": "EXELON",
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2020-12-18",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2020-02-07"
+      ],
+      "product_ndcs": [
+        "0078-0323",
+        "0078-0324",
+        "0078-0325",
+        "0078-0326"
+      ],
+      "rxcui": [],
+      "setid": "f1e28b44-3897-4788-9659-f5d6bce4d91e",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "EXELON (rivastigmine tartrate) capsule"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8b671fc9-8cb0-4406-a9ee-7c95086d6200"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c246a0e5-1e77-41ee-a7b3-384f21f2f2e0"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2bb5e0d6-f677-4021-9888-3ff90979ef7d"
+    },
+    {
+      "combination": false,
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4ab335d1-19ee-4cd9-9776-8086645d19e4"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "64dad603-2389-456b-8c18-d1d40b7e7419"
+    },
+    {
+      "combination": false,
+      "labeler": "Breckenridge Pharmaceutical, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b201fe68-b5e5-4a6f-8cf1-069543f03e76"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "966d59ea-5cea-4fef-8b96-e0efe885caf4"
+    },
+    {
+      "combination": false,
+      "labeler": "Northstar Rx LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8b809739-8381-4cc1-ab4a-5b17ab902a3d"
+    },
+    {
+      "combination": false,
+      "labeler": "Modavar Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "209f3b02-0acf-46e9-b355-91c918a20eb3"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0044f1d7-613c-4611-8481-13032c8cb390"
+    }
+  ]
+}

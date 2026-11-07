@@ -1,0 +1,417 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/000752",
+      "eu_number": "EU/1/07/403",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000752",
+      "mah": "Sandoz Pharmaceuticals d.d.",
+      "marketing_authorisation_date": "2007-08-22",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/atriance",
+      "name": "Atriance",
+      "record_from": "2007-08-22",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 18
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000752",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "NELARABINE"
+  ],
+  "inn": "nelarabine",
+  "name": "NELARABINE",
+  "rank": 463,
+  "rxcui": [
+    "603566",
+    "616366",
+    "2722411"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 14,
+    "approval_holders": 13,
+    "earliest_marketing_start": "2016-10-05",
+    "latest_label_update": "2026-09-29",
+    "nda_bla_applications": 1,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "NELARABINE",
+      "unii": "60158CV180"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021877"
+      ],
+      "brand_names": [
+        "Arranon"
+      ],
+      "combination": false,
+      "home_inn": "nelarabine",
+      "ingredients": [
+        "NELARABINE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2016-10-05",
+      "moieties": [
+        "NELARABINE"
+      ],
+      "product_ndcs": [
+        "66758-165"
+      ],
+      "rxcui": [
+        "603566",
+        "616366"
+      ],
+      "setid": "0f9051de-5c4d-4c0f-8c19-e15214498cca",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "ARRANON (NELARABINE) INJECTION [SANDOZ INC]",
+      "upload_date": "2026-03-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA215037"
+      ],
+      "brand_names": [
+        "Nelarabine"
+      ],
+      "combination": false,
+      "home_inn": "nelarabine",
+      "ingredients": [
+        "NELARABINE"
+      ],
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-11-17",
+      "moieties": [
+        "NELARABINE"
+      ],
+      "product_ndcs": [
+        "70771-1685"
+      ],
+      "rxcui": [
+        "603566"
+      ],
+      "setid": "877b69a0-0899-455d-926e-f5a7478c31f8",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "NELARABINE INJECTION [ZYDUS LIFESCIENCES LIMITED]",
+      "upload_date": "2022-11-22"
+    },
+    {
+      "application_numbers": [
+        "ANDA216934"
+      ],
+      "brand_names": [
+        "Nelarabine"
+      ],
+      "combination": false,
+      "home_inn": "nelarabine",
+      "ingredients": [
+        "NELARABINE"
+      ],
+      "labeler": "Dr. Reddy's Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-01-09",
+      "moieties": [
+        "NELARABINE"
+      ],
+      "product_ndcs": [
+        "43598-142"
+      ],
+      "rxcui": [
+        "603566"
+      ],
+      "setid": "57275b05-f40f-7298-5a5e-93594bc41437",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "NELARABINE INJECTION [DR. REDDY'S LABORATORIES, INC.]",
+      "upload_date": "2025-06-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA216038"
+      ],
+      "brand_names": [
+        "Nelarabine"
+      ],
+      "combination": false,
+      "home_inn": "nelarabine",
+      "ingredients": [
+        "NELARABINE"
+      ],
+      "labeler": "Meitheal Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-01-10",
+      "moieties": [
+        "NELARABINE"
+      ],
+      "product_ndcs": [
+        "71288-165"
+      ],
+      "rxcui": [
+        "603566"
+      ],
+      "setid": "21919314-5c25-49ab-beba-099983ed4a71",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "NELARABINE INJECTION [MEITHEAL PHARMACEUTICALS INC]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA214809"
+      ],
+      "brand_names": [
+        "nelarabine"
+      ],
+      "combination": false,
+      "home_inn": "nelarabine",
+      "ingredients": [
+        "NELARABINE"
+      ],
+      "labeler": "Shorla Oncology Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-03-15",
+      "moieties": [
+        "NELARABINE"
+      ],
+      "product_ndcs": [
+        "81927-111",
+        "81927-375"
+      ],
+      "rxcui": [
+        "603566",
+        "2722411"
+      ],
+      "setid": "fc401b06-4e3b-413e-a854-3e031c433862",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "NELARABINE INJECTION [SHORLA ONCOLOGY INC.]",
+      "upload_date": "2025-09-01"
+    },
+    {
+      "application_numbers": [
+        "ANDA216346"
+      ],
+      "brand_names": [
+        "Nelarabine"
+      ],
+      "combination": false,
+      "home_inn": "nelarabine",
+      "ingredients": [
+        "NELARABINE"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-04-10",
+      "moieties": [
+        "NELARABINE"
+      ],
+      "product_ndcs": [
+        "70121-1743"
+      ],
+      "rxcui": [
+        "603566"
+      ],
+      "setid": "8d0e1b59-bd1e-4c6e-9a95-e8143ee076bf",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "NELARABINE INJECTION [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2026-03-31"
+    },
+    {
+      "application_numbers": [
+        "ANDA212605"
+      ],
+      "brand_names": [
+        "Nelarabine"
+      ],
+      "combination": false,
+      "home_inn": "nelarabine",
+      "ingredients": [
+        "NELARABINE"
+      ],
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-01-03",
+      "moieties": [
+        "NELARABINE"
+      ],
+      "product_ndcs": [
+        "68083-233"
+      ],
+      "rxcui": [
+        "603566"
+      ],
+      "setid": "651bf4d2-75b0-4a60-8014-7006ffe61084",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "NELARABINE INJECTION [GLAND PHARMA LIMITED]",
+      "upload_date": "2025-04-11"
+    },
+    {
+      "application_numbers": [
+        "NDA021877"
+      ],
+      "archived_versions": 12,
+      "brand_names": [
+        "ARRANON"
+      ],
+      "first_posted": "2007-05-17",
+      "found_by": "ARRANON",
+      "labeler": "GlaxoSmithKline LLC",
+      "labeler_unverified": true,
+      "last_posted": "2016-12-08",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-12-31"
+      ],
+      "product_ndcs": [
+        "0007-4401"
+      ],
+      "rxcui": [],
+      "setid": "893c95d7-d9b6-4064-db97-91dd21ce7e40",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "0f9051de-5c4d-4c0f-8c19-e15214498cca"
+      ],
+      "title": "ARRANON (nelarabine) injection"
+    },
+    {
+      "application_numbers": [
+        "NDA021877"
+      ],
+      "archived_versions": 10,
+      "brand_names": [
+        "ARRANON"
+      ],
+      "first_posted": "2016-10-06",
+      "found_by": "ARRANON",
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2025-03-24",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2026-09-30"
+      ],
+      "product_ndcs": [
+        "0078-0683"
+      ],
+      "rxcui": [],
+      "setid": "fffa5d75-0dba-4ad7-a252-5f60fa28489a",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "0f9051de-5c4d-4c0f-8c19-e15214498cca"
+      ],
+      "title": "ARRANON (nelarabine) injection"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "03ad6056-0e71-4e7c-842a-a5f87649bdcd"
+    },
+    {
+      "combination": false,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d556a9e7-310b-41dc-99f8-a281fe7da3fe"
+    },
+    {
+      "combination": false,
+      "labeler": "XGen Pharmaceuticals DJB, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a1cc1580-50d9-4b9b-a002-1fc6686a9515"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e425731e-626b-4141-a997-fb85e077c2a4"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8cb23281-93ca-40b8-b8e0-c57dd4298322"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a2a08758-9a9d-49a2-a498-9da109045ee9"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f60da70f-2f9e-421d-a277-95b1edb57a71"
+    }
+  ]
+}

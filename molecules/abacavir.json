@@ -1,0 +1,525 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand ZIAGEN",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000252",
+      "eu_number": "EU/1/99/112",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000252",
+      "mah": "ViiV Healthcare B.V.",
+      "marketing_authorisation_date": "1999-07-08",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ziagen",
+      "name": "Ziagen",
+      "record_from": "1999-07-08",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 44
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 3,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000252",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "ABACAVIR SULFATE"
+  ],
+  "inn": "abacavir",
+  "name": "ABACAVIR",
+  "rank": 266,
+  "rxcui": [
+    "213461",
+    "242679",
+    "242680",
+    "307650",
+    "1546888",
+    "1546894",
+    "2598348",
+    "2598352"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 17,
+    "approval_holders": 10,
+    "earliest_marketing_start": "1999-01-28",
+    "latest_label_update": "2026-10-19",
+    "nda_bla_applications": 3,
+    "repackagers": 6
+  },
+  "unii": [
+    {
+      "ingredient": "ABACAVIR SULFATE",
+      "unii": "J220T4J9Q2"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020978"
+      ],
+      "brand_names": [
+        "ZIAGEN"
+      ],
+      "combination": false,
+      "home_inn": "abacavir",
+      "ingredients": [
+        "ABACAVIR SULFATE"
+      ],
+      "labeler": "ViiV Healthcare Company",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1999-01-28",
+      "moieties": [
+        "ABACAVIR"
+      ],
+      "product_ndcs": [
+        "49702-222"
+      ],
+      "rxcui": [
+        "213461",
+        "242680"
+      ],
+      "setid": "ca73b519-015a-436d-aa3c-af53492825a1",
+      "source": "openfda",
+      "spl_version": 33,
+      "title": "ZIAGEN (ABACAVIR SULFATE) SOLUTION [VIIV HEALTHCARE COMPANY]",
+      "upload_date": "2026-06-10"
+    },
+    {
+      "application_numbers": [
+        "NDA205551",
+        "NDA215413"
+      ],
+      "brand_names": [
+        "Triumeq",
+        "Triumeq PD"
+      ],
+      "combination": true,
+      "home_inn": "lamivudine",
+      "ingredients": [
+        "ABACAVIR SULFATE",
+        "DOLUTEGRAVIR SODIUM",
+        "LAMIVUDINE"
+      ],
+      "labeler": "ViiV Healthcare Company",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2014-08-22",
+      "moieties": [
+        "ABACAVIR",
+        "DOLUTEGRAVIR",
+        "LAMIVUDINE"
+      ],
+      "product_ndcs": [
+        "49702-231",
+        "49702-258"
+      ],
+      "rxcui": [
+        "1546888",
+        "1546894",
+        "2598348",
+        "2598352"
+      ],
+      "setid": "2997739a-aa91-42aa-a206-a70e2db7b84f",
+      "source": "openfda",
+      "spl_version": 30,
+      "title": "TRIUMEQ (ABACAVIR SULFATE, DOLUTEGRAVIR SODIUM, LAMIVUDINE) TABLET, FILM COATED TRIUMEQ PD (ABACAVIR SULFATE, DOLUTEGRAVIR SODIUM, LAMIVUDINE) KIT [VIIV HEALTHCARE COMPANY]",
+      "upload_date": "2026-01-26"
+    },
+    {
+      "application_numbers": [
+        "ANDA091294"
+      ],
+      "brand_names": [
+        "Abacavir Sulfate"
+      ],
+      "combination": false,
+      "home_inn": "abacavir",
+      "ingredients": [
+        "ABACAVIR SULFATE"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-06-19",
+      "moieties": [
+        "ABACAVIR"
+      ],
+      "product_ndcs": [
+        "0378-4105"
+      ],
+      "rxcui": [
+        "242679"
+      ],
+      "setid": "5676d391-f9a4-44be-9604-954b3d8d0e2b",
+      "source": "dailymed-title-match",
+      "spl_version": 13,
+      "title": "ABACAVIR SULFATE TABLET, FILM COATED [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2026-10-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA077844"
+      ],
+      "brand_names": [
+        "Abacavir"
+      ],
+      "combination": false,
+      "home_inn": "abacavir",
+      "ingredients": [
+        "ABACAVIR SULFATE"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-12-17",
+      "moieties": [
+        "ABACAVIR"
+      ],
+      "product_ndcs": [
+        "65862-073"
+      ],
+      "rxcui": [
+        "242679"
+      ],
+      "setid": "5409c8ed-17c3-454f-bb88-d597ba8f84ec",
+      "source": "dailymed-title-match",
+      "spl_version": 17,
+      "title": "ABACAVIR TABLET, FILM COATED [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2026-10-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA201107"
+      ],
+      "brand_names": [
+        "Abacavir"
+      ],
+      "combination": false,
+      "home_inn": "abacavir",
+      "ingredients": [
+        "ABACAVIR SULFATE"
+      ],
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-09-26",
+      "moieties": [
+        "ABACAVIR"
+      ],
+      "product_ndcs": [
+        "31722-562"
+      ],
+      "rxcui": [
+        "242680"
+      ],
+      "setid": "e5cbf204-c10d-444b-aba0-180a30645d55",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "ABACAVIR (ABACAVIR) SOLUTION [CAMBER PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-08-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA078119"
+      ],
+      "brand_names": [
+        "Abacavir"
+      ],
+      "combination": false,
+      "home_inn": "abacavir",
+      "ingredients": [
+        "ABACAVIR SULFATE"
+      ],
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-11-21",
+      "moieties": [
+        "ABACAVIR"
+      ],
+      "product_ndcs": [
+        "69097-514"
+      ],
+      "rxcui": [
+        "242679"
+      ],
+      "setid": "0d791375-e311-41f9-87b8-940657e6318c",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "ABACAVIR TABLET, FILM COATED [CIPLA USA INC.]",
+      "upload_date": "2020-12-31"
+    },
+    {
+      "application_numbers": [
+        "ANDA091560"
+      ],
+      "brand_names": [
+        "Abacavir"
+      ],
+      "combination": false,
+      "home_inn": "abacavir",
+      "ingredients": [
+        "ABACAVIR SULFATE"
+      ],
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-04-01",
+      "moieties": [
+        "ABACAVIR"
+      ],
+      "product_ndcs": [
+        "31722-557"
+      ],
+      "rxcui": [
+        "242679"
+      ],
+      "setid": "44fb1e25-ad03-4a7f-9f35-2e29f5025661",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "ABACAVIR (ABACAVIR) TABLET [CAMBER PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-07-06"
+    },
+    {
+      "application_numbers": [
+        "ANDA202912"
+      ],
+      "brand_names": [
+        "ABACAVIR, LAMIVUDINE AND ZIDOVUDINE"
+      ],
+      "combination": true,
+      "home_inn": "zidovudine",
+      "ingredients": [
+        "ABACAVIR SULFATE",
+        "LAMIVUDINE",
+        "ZIDOVUDINE"
+      ],
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-12-17",
+      "moieties": [
+        "ABACAVIR",
+        "LAMIVUDINE",
+        "ZIDOVUDINE"
+      ],
+      "product_ndcs": [
+        "68180-286"
+      ],
+      "rxcui": [
+        "307650"
+      ],
+      "setid": "f5f7c0d9-a247-4308-8269-32accc490ea6",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "ABACAVIR, LAMIVUDINE AND ZIDOVUDINE (ABACAVIR , LAMIVUDINE AND ZIDOVUDINE) TABLET [LUPIN PHARMACEUTICALS, INC.]",
+      "upload_date": "2023-11-02"
+    },
+    {
+      "application_numbers": [
+        "NDA020977",
+        "NDA020978"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "ZIAGEN"
+      ],
+      "first_posted": "2006-12-15",
+      "found_by": "ZIAGEN",
+      "labeler": "GlaxoSmithKline LLC",
+      "labeler_unverified": false,
+      "last_posted": "2011-07-14",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2012-10-31",
+        "2013-06-30"
+      ],
+      "product_ndcs": [
+        "0173-0661",
+        "0173-0664"
+      ],
+      "rxcui": [],
+      "setid": "6a3b10fc-4b2a-45e3-16a1-ef79187a6dfb",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "ca73b519-015a-436d-aa3c-af53492825a1"
+      ],
+      "title": "ZIAGEN (abacavir sulfate) tablet, film coated ZIAGEN (abacavir sulfate) solution"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "ZIAGEN"
+      ],
+      "first_posted": "2018-01-29",
+      "found_by": "ZIAGEN",
+      "labeler": "GlaxoSmithKline Inc",
+      "labeler_unverified": true,
+      "last_posted": "2018-01-29",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "53873-034"
+      ],
+      "rxcui": [],
+      "setid": "9f4ce2d3-ce4d-4be3-b727-fb61cdf1e179",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ZIAGEN (abacavir sulfate) solution"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "TRIUMEQ"
+      ],
+      "first_posted": "2017-12-21",
+      "found_by": "TRIUMEQ",
+      "labeler": "Glaxo Operations UK Ltd",
+      "labeler_unverified": true,
+      "last_posted": "2017-12-21",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "63379-053"
+      ],
+      "rxcui": [],
+      "setid": "b38da720-b1b2-4b7e-93de-5063c67325fb",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "TRIUMEQ (dolutegravir sodium, abacavir sulfate, lamivudine) tablet, film coated"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "ZIAGEN"
+      ],
+      "first_posted": "2018-01-29",
+      "found_by": "ZIAGEN",
+      "labeler": "Glaxo Operations UK Ltd",
+      "labeler_unverified": true,
+      "last_posted": "2018-01-29",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "63379-041"
+      ],
+      "rxcui": [],
+      "setid": "bccb1c39-3221-4ec3-801e-ccd275963d01",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ZIAGEN (abacavir sulfate) tablet, film coated"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": true,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1d8e7bb9-8624-4739-9719-fe25109d6365"
+    },
+    {
+      "combination": true,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c0488bee-2f18-4e2e-8e11-68543c023dec"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "deda1a24-2f51-4601-9881-347f47270940"
+    },
+    {
+      "combination": true,
+      "labeler": "Laurus Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d12e80eb-906c-4932-bb03-b4060ba1d31c"
+    },
+    {
+      "combination": true,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d36624c8-d773-4f99-81fc-433fae17feb3"
+    },
+    {
+      "combination": true,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e8988924-c18c-4e91-ab79-2d84e72bfa0d"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e2214976-657c-4018-b059-1ad66a7e2b6f"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ec9e2c36-b9b7-4ac2-a366-f3ad51237f28"
+    },
+    {
+      "combination": false,
+      "labeler": "XLCare Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "633f1ec9-53b1-4a9a-a738-8cae5b763f08"
+    }
+  ]
+}

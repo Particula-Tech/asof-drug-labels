@@ -1,0 +1,377 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand EMEND",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000527",
+      "eu_number": "EU/1/03/262",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000527",
+      "mah": "Merck Sharp & Dohme B.V.",
+      "marketing_authorisation_date": "2003-11-11",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/emend",
+      "name": "Emend",
+      "record_from": "2003-11-11",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 24
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000527",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "APREPITANT"
+  ],
+  "inn": "aprepitant",
+  "name": "APREPITANT",
+  "rank": 214,
+  "rxcui": [
+    "403810",
+    "403811",
+    "404465",
+    "404466",
+    "644088",
+    "644278",
+    "754508",
+    "754509",
+    "1729308",
+    "1729311",
+    "1995150",
+    "1995155",
+    "2631783",
+    "2631788"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 8,
+    "approval_holders": 7,
+    "earliest_marketing_start": "2003-03-26",
+    "latest_label_update": "2026-10-08",
+    "nda_bla_applications": 4,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "APREPITANT",
+      "unii": "1NF15YR6UY"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021549",
+        "NDA207865"
+      ],
+      "brand_names": [
+        "EMEND"
+      ],
+      "combination": false,
+      "home_inn": "aprepitant",
+      "ingredients": [
+        "APREPITANT"
+      ],
+      "labeler": "Merck Sharp & Dohme LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2003-03-26",
+      "moieties": [
+        "APREPITANT"
+      ],
+      "product_ndcs": [
+        "0006-0461",
+        "0006-0462",
+        "0006-0464",
+        "0006-3066",
+        "0006-3862"
+      ],
+      "rxcui": [
+        "403810",
+        "403811",
+        "404465",
+        "404466",
+        "644088",
+        "644278",
+        "754508",
+        "754509",
+        "1729308",
+        "1729311"
+      ],
+      "setid": "696f9e80-9cae-403b-de9e-078343ce4713",
+      "source": "openfda",
+      "spl_version": 42,
+      "title": "EMEND (APREPITANT) CAPSULE EMEND (APREPITANT) KIT EMEND (APREPITANT) POWDER, FOR SUSPENSION [MERCK SHARP & DOHME LLC]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "NDA209296"
+      ],
+      "brand_names": [
+        "CINVANTI"
+      ],
+      "combination": false,
+      "home_inn": "aprepitant",
+      "ingredients": [
+        "APREPITANT"
+      ],
+      "labeler": "Heron Therapeutics, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-01-03",
+      "moieties": [
+        "APREPITANT"
+      ],
+      "product_ndcs": [
+        "47426-201"
+      ],
+      "rxcui": [
+        "1995150",
+        "1995155"
+      ],
+      "setid": "4c218d3a-a508-4abc-9ed8-a6e8e191d1b4",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "CINVANTI (APREPITANT) INJECTION, EMULSION [HERON THERAPEUTICS, INC.]",
+      "upload_date": "2026-04-09"
+    },
+    {
+      "application_numbers": [
+        "NDA216457"
+      ],
+      "brand_names": [
+        "APONVIE"
+      ],
+      "combination": false,
+      "home_inn": "aprepitant",
+      "ingredients": [
+        "APREPITANT"
+      ],
+      "labeler": "Heron Therapeutics, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-03-06",
+      "moieties": [
+        "APREPITANT"
+      ],
+      "product_ndcs": [
+        "47426-401"
+      ],
+      "rxcui": [
+        "2631783",
+        "2631788"
+      ],
+      "setid": "d1b111eb-659a-496b-a86a-8f0fa370f147",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "APONVIE (APREPITANT) EMULSION [HERON THERAPEUTICS, INC.]",
+      "upload_date": "2026-04-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA090999"
+      ],
+      "brand_names": [
+        "Aprepitant"
+      ],
+      "combination": false,
+      "home_inn": "aprepitant",
+      "ingredients": [
+        "APREPITANT"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-12-27",
+      "moieties": [
+        "APREPITANT"
+      ],
+      "product_ndcs": [
+        "0781-2321",
+        "0781-2322",
+        "0781-2323",
+        "0781-4063"
+      ],
+      "rxcui": [
+        "403810",
+        "403811",
+        "644088",
+        "754508"
+      ],
+      "setid": "f58b8944-93ee-4be1-a238-cc0061ddd93a",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "APREPITANT CAPSULE APREPITANT KIT [SANDOZ INC]",
+      "upload_date": "2025-02-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA207777"
+      ],
+      "brand_names": [
+        "Aprepitant"
+      ],
+      "combination": false,
+      "home_inn": "aprepitant",
+      "ingredients": [
+        "APREPITANT"
+      ],
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-10-12",
+      "moieties": [
+        "APREPITANT"
+      ],
+      "product_ndcs": [
+        "68462-112",
+        "68462-583",
+        "68462-584",
+        "68462-585"
+      ],
+      "rxcui": [
+        "403810",
+        "403811",
+        "644088",
+        "754508"
+      ],
+      "setid": "d72e0e10-4557-41b0-b65d-d395468cad19",
+      "source": "dailymed-title-match",
+      "spl_version": 14,
+      "title": "APREPITANT CAPSULE APREPITANT KIT [GLENMARK PHARMACEUTICALS INC., USA]",
+      "upload_date": "2026-10-08"
+    },
+    {
+      "application_numbers": [
+        "ANDA211835"
+      ],
+      "brand_names": [
+        "APREPITANT"
+      ],
+      "combination": false,
+      "home_inn": "aprepitant",
+      "ingredients": [
+        "APREPITANT"
+      ],
+      "labeler": "Golden State Medical Supply, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-10-21",
+      "moieties": [
+        "APREPITANT"
+      ],
+      "product_ndcs": [
+        "51407-701",
+        "51407-702",
+        "51407-703",
+        "51407-704"
+      ],
+      "rxcui": [
+        "403810",
+        "403811",
+        "644088",
+        "754508"
+      ],
+      "setid": "377c3ecb-fdec-dde4-e063-6294a90a29bd",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "APREPITANT CAPSULE APREPITANT (APREPITANT) KIT [GOLDEN STATE MEDICAL SUPPLY, INC.]",
+      "upload_date": "2026-03-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA211835"
+      ],
+      "brand_names": [
+        "APREPITANT"
+      ],
+      "combination": false,
+      "home_inn": "aprepitant",
+      "ingredients": [
+        "APREPITANT"
+      ],
+      "labeler": "Torrent Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-10-21",
+      "moieties": [
+        "APREPITANT"
+      ],
+      "product_ndcs": [
+        "13668-591",
+        "13668-592",
+        "13668-593",
+        "13668-594"
+      ],
+      "rxcui": [
+        "403810",
+        "403811",
+        "644088",
+        "754508"
+      ],
+      "setid": "af9b6086-4bf2-472c-8740-4134eaaebace",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "APREPITANT CAPSULE APREPITANT (APREPITANT) KIT [TORRENT PHARMACEUTICALS LIMITED]",
+      "upload_date": "2026-06-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA207777"
+      ],
+      "brand_names": [
+        "Aprepitant"
+      ],
+      "combination": false,
+      "home_inn": "aprepitant",
+      "ingredients": [
+        "APREPITANT"
+      ],
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-01-29",
+      "moieties": [
+        "APREPITANT"
+      ],
+      "product_ndcs": [
+        "68001-666",
+        "68001-667",
+        "68001-668",
+        "68001-669"
+      ],
+      "rxcui": [
+        "403810",
+        "403811",
+        "644088",
+        "754508"
+      ],
+      "setid": "a78aaa00-a46b-4f9e-a415-2fca9e9a4fb4",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "APREPITANT CAPSULE APREPITANT KIT [BLUEPOINT LABORATORIES]",
+      "upload_date": "2026-03-30"
+    }
+  ],
+  "us_excluded": []
+}

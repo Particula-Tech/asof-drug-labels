@@ -1,0 +1,543 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "ISOSORBIDE DINITRATE"
+  ],
+  "inn": "isosorbide-dinitrate",
+  "name": "ISOSORBIDE DINITRATE",
+  "rank": 421,
+  "rxcui": [
+    "197839",
+    "197840",
+    "206842",
+    "314055",
+    "381056",
+    "905377",
+    "905379"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 16,
+    "approval_holders": 14,
+    "earliest_marketing_start": "1978-12-01",
+    "latest_label_update": "2026-08-07",
+    "nda_bla_applications": 2,
+    "repackagers": 9
+  },
+  "unii": [
+    {
+      "ingredient": "ISOSORBIDE DINITRATE",
+      "unii": "IA7306519N"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA012093"
+      ],
+      "brand_names": [
+        "Isosorbide Dinitrate"
+      ],
+      "combination": false,
+      "home_inn": "isosorbide-dinitrate",
+      "ingredients": [
+        "ISOSORBIDE DINITRATE"
+      ],
+      "labeler": "Oceanside Pharmaceuticals",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2020-03-02",
+      "moieties": [
+        "ISOSORBIDE DINITRATE"
+      ],
+      "product_ndcs": [
+        "68682-192",
+        "68682-193"
+      ],
+      "rxcui": [
+        "197840",
+        "314055"
+      ],
+      "setid": "723d9f78-9d77-4575-af27-1aa117e6b8d7",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "ISOSORBIDE DINITRATE TABLET [OCEANSIDE PHARMACEUTICALS]",
+      "upload_date": "2020-06-17"
+    },
+    {
+      "application_numbers": [
+        "NDA020727"
+      ],
+      "brand_names": [
+        "BiDil"
+      ],
+      "combination": true,
+      "home_inn": "hydralazine",
+      "ingredients": [
+        "HYDRALAZINE HYDROCHLORIDE",
+        "ISOSORBIDE DINITRATE"
+      ],
+      "labeler": "Azurity Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2012-12-05",
+      "moieties": [
+        "HYDRALAZINE",
+        "ISOSORBIDE DINITRATE"
+      ],
+      "product_ndcs": [
+        "24338-010"
+      ],
+      "rxcui": [
+        "905377",
+        "905379"
+      ],
+      "setid": "e1e63cd5-d1e4-4af5-bad5-1ad41ea46b00",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "BIDIL (HYDRALAZINE HYDROCHLORIDE AND ISOSORBIDE DINITRATE) TABLET, FILM COATED [AZURITY PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-01-22"
+    },
+    {
+      "application_numbers": [
+        "ANDA088088"
+      ],
+      "brand_names": [
+        "Isosorbide Dinitrate"
+      ],
+      "combination": false,
+      "home_inn": "isosorbide-dinitrate",
+      "ingredients": [
+        "ISOSORBIDE DINITRATE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1978-12-01",
+      "moieties": [
+        "ISOSORBIDE DINITRATE"
+      ],
+      "product_ndcs": [
+        "0143-1769",
+        "0143-1771",
+        "0143-1772"
+      ],
+      "rxcui": [
+        "206842",
+        "314055",
+        "381056"
+      ],
+      "setid": "f0b9b320-0bf8-4342-b654-135ccb6755c2",
+      "source": "openfda",
+      "spl_version": 31,
+      "title": "ISOSORBIDE DINITRATE TABLET [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2025-12-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA086923",
+        "ANDA086925",
+        "ANDA087537",
+        "ANDA087946"
+      ],
+      "brand_names": [
+        "Isosorbide Dinitrate"
+      ],
+      "combination": false,
+      "home_inn": "isosorbide-dinitrate",
+      "ingredients": [
+        "ISOSORBIDE DINITRATE"
+      ],
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1979-12-13",
+      "moieties": [
+        "ISOSORBIDE DINITRATE"
+      ],
+      "product_ndcs": [
+        "49884-009",
+        "49884-020",
+        "49884-021",
+        "49884-022"
+      ],
+      "rxcui": [
+        "197839",
+        "206842",
+        "314055",
+        "381056"
+      ],
+      "setid": "6df6a2fa-c56c-4eb6-a485-c16585420eb0",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "ISOSORBIDE DINITRATE TABLET [PAR HEALTH USA, LLC]",
+      "upload_date": "2026-08-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA086221",
+        "ANDA086223",
+        "ANDA089367"
+      ],
+      "brand_names": [
+        "Isosorbide Dinitrate"
+      ],
+      "combination": false,
+      "home_inn": "isosorbide-dinitrate",
+      "ingredients": [
+        "ISOSORBIDE DINITRATE"
+      ],
+      "labeler": "Sandoz Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1988-01-07",
+      "moieties": [
+        "ISOSORBIDE DINITRATE"
+      ],
+      "product_ndcs": [
+        "0781-1556",
+        "0781-1635",
+        "0781-1695"
+      ],
+      "rxcui": [
+        "206842",
+        "314055",
+        "381056"
+      ],
+      "setid": "71fdd147-a987-40b6-9f07-82d56525ceb8",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "ISOSORBIDE DINITRATE TABLET [SANDOZ INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA213057"
+      ],
+      "brand_names": [
+        "Isosorbide dinitrate"
+      ],
+      "combination": false,
+      "home_inn": "isosorbide-dinitrate",
+      "ingredients": [
+        "ISOSORBIDE DINITRATE"
+      ],
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-11-25",
+      "moieties": [
+        "ISOSORBIDE DINITRATE"
+      ],
+      "product_ndcs": [
+        "70710-1148",
+        "70710-1149",
+        "70710-1150",
+        "70710-1151",
+        "70710-1152"
+      ],
+      "rxcui": [
+        "197839",
+        "197840",
+        "206842",
+        "314055",
+        "381056"
+      ],
+      "setid": "16818b32-ee5e-4e07-b848-31e892c4b98a",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "ISOSORBIDE DINITRATE TABLET [ZYDUS PHARMACEUTICALS (USA) INC.]",
+      "upload_date": "2024-08-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA211290"
+      ],
+      "brand_names": [
+        "Isosorbide Dinitrate"
+      ],
+      "combination": false,
+      "home_inn": "isosorbide-dinitrate",
+      "ingredients": [
+        "ISOSORBIDE DINITRATE"
+      ],
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-12-21",
+      "moieties": [
+        "ISOSORBIDE DINITRATE"
+      ],
+      "product_ndcs": [
+        "49884-556"
+      ],
+      "rxcui": [
+        "197840"
+      ],
+      "setid": "3d6164d7-3083-41c5-a6a6-7e144fe29f7d",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "ISOSORBIDE DINITRATE TABLET [PAR HEALTH USA, LLC]",
+      "upload_date": "2026-08-06"
+    },
+    {
+      "application_numbers": [
+        "ANDA215723"
+      ],
+      "brand_names": [
+        "ISOSORBIDE DINITRATE"
+      ],
+      "combination": false,
+      "home_inn": "isosorbide-dinitrate",
+      "ingredients": [
+        "ISOSORBIDE DINITRATE"
+      ],
+      "labeler": "Advagen Pharma Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-07-08",
+      "moieties": [
+        "ISOSORBIDE DINITRATE"
+      ],
+      "product_ndcs": [
+        "72888-081",
+        "72888-082",
+        "72888-083",
+        "72888-084",
+        "72888-085"
+      ],
+      "rxcui": [
+        "197839",
+        "197840",
+        "206842",
+        "314055",
+        "381056"
+      ],
+      "setid": "b166eb5b-bad8-4663-9c05-1c43539dab2c",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "ISOSORBIDE DINITRATE (ISOSORBIDE DINITRATE) TABLET ISOSORBIDE DINITRATE TABLET [ADVAGEN PHARMA LTD]",
+      "upload_date": "2026-01-06"
+    },
+    {
+      "application_numbers": [
+        "NDA012093"
+      ],
+      "archived_versions": 13,
+      "brand_names": [
+        "ISORDIL"
+      ],
+      "first_posted": "2013-04-02",
+      "found_by": "ISORDIL",
+      "labeler": "Bausch Health US LLC",
+      "labeler_unverified": false,
+      "last_posted": "2026-02-26",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-04-30"
+      ],
+      "product_ndcs": [
+        "0187-0152",
+        "0187-0192"
+      ],
+      "rxcui": [],
+      "setid": "8ddd2577-311a-4967-bb67-ad72e2b76f83",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "723d9f78-9d77-4575-af27-1aa117e6b8d7"
+      ],
+      "title": "ISORDIL TITRADOSE (isosorbide dinitrate) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA012093"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "ISORDIL"
+      ],
+      "first_posted": "2006-10-13",
+      "found_by": "ISORDIL",
+      "labeler": "BTA Pharmaceuticals, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2014-05-13",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-10-31",
+        "2017-05-31"
+      ],
+      "product_ndcs": [
+        "64455-152",
+        "64455-192"
+      ],
+      "rxcui": [],
+      "setid": "abb3ad49-73a8-49c5-adc5-164d052971d7",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "723d9f78-9d77-4575-af27-1aa117e6b8d7"
+      ],
+      "title": "ISORDIL TITRADOSE (isosorbide dinitrate) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA020727"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "BIDIL"
+      ],
+      "first_posted": "2006-09-18",
+      "found_by": "BIDIL",
+      "labeler": "Arbor Pharmaceuticals",
+      "labeler_unverified": true,
+      "last_posted": "2017-12-20",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-12-31"
+      ],
+      "product_ndcs": [
+        "12948-001"
+      ],
+      "rxcui": [],
+      "setid": "c21325a9-cd57-4e39-98f2-0727ed8abb2d",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "e1e63cd5-d1e4-4af5-bad5-1ad41ea46b00"
+      ],
+      "title": "BIDIL (hydralazine hydrochloride and isosorbide dinitrate) tablet, film coated"
+    },
+    {
+      "application_numbers": [
+        "NDA012940"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "ISORDIL"
+      ],
+      "first_posted": "2006-10-13",
+      "found_by": "ISORDIL",
+      "labeler": "Wyeth Pharmaceuticals Company",
+      "labeler_unverified": false,
+      "last_posted": "2010-11-02",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2004-12-31"
+      ],
+      "product_ndcs": [
+        "0008-4126",
+        "0008-4139",
+        "0008-4161"
+      ],
+      "rxcui": [],
+      "setid": "ce114bb6-c450-4649-8a05-57730bba7d17",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ISORDIL (isosorbide dinitrate) tablet"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": true,
+      "labeler": "Wilshire Pharmaceuticals",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "620a0680-aad0-4923-84be-7393c0cbdcbd"
+    },
+    {
+      "combination": true,
+      "labeler": "Ingenus Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8f54d5a3-169f-48dd-9250-2c176d2bd9ad"
+    },
+    {
+      "combination": true,
+      "labeler": "i3 Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cacf1a7c-0388-09ee-e053-2995a90a10cf"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9498fa14-1614-4a8e-b872-41c11745b01e"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5b0db8af-bcf9-458f-b752-420130cba428"
+    },
+    {
+      "combination": false,
+      "labeler": "Northstar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "246c749d-aa28-44ce-8d42-984660afff2a"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f1d52e9a-8de1-61db-e053-2a95a90aae50"
+    },
+    {
+      "combination": true,
+      "labeler": "A2A Integrated Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ae757a78-89e8-4f79-81de-d558db3f72a4"
+    }
+  ]
+}

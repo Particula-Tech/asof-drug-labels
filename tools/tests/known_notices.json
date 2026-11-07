@@ -1,0 +1,10 @@
+{
+  "about": "Copyright notices found in the corpora, checked at main of build/us and build/eu. FullCorpusNoticesTest (tools/tests/test_build.py) asserts each string is still in its file, so a converter change that strips a notice fails the full-corpus tests.",
+  "checked": "2026-11-05",
+  "notices": [
+    {"corpus": "us", "path": "bevacizumab/70ab1de6-fb68-aee4-a6cb-f9a0f146687f/34076-0-patient-counseling-information.md", "text": "Copyright © 2025 Biocon Biologics Inc. All rights reserved."},
+    {"corpus": "us", "path": "alprazolam/bb5cf72e-3a41-41a8-9a38-80f974eca33f/34076-0-patient-counseling-information.md", "text": "© 2024 Viatris Inc."},
+    {"corpus": "us", "path": "fluticasone/001f22f8-a83d-495f-9196-d0264ef4d76e/34076-0-patient-counseling-information.md", "text": "©2023 GSK group of companies or its licensor."},
+    {"corpus": "eu", "path": "secukinumab/EMEA-H-C-003729/smpc-5.1-pharmacodynamic-properties.md", "text": "Psoriasis Symptom Diary©"}
+  ]
+}

@@ -1,0 +1,857 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "FLUOXETINE",
+    "FLUOXETINE HYDROCHLORIDE"
+  ],
+  "inn": "fluoxetine",
+  "name": "FLUOXETINE",
+  "rank": 103,
+  "rxcui": [
+    "104849",
+    "205535",
+    "261287",
+    "310384",
+    "310385",
+    "310386",
+    "313989"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 53,
+    "approval_holders": 30,
+    "earliest_marketing_start": "1988-02-01",
+    "latest_label_update": "2026-10-21",
+    "nda_bla_applications": 1,
+    "repackagers": 24
+  },
+  "unii": [
+    {
+      "ingredient": "FLUOXETINE",
+      "unii": "01K63SUP8D"
+    },
+    {
+      "ingredient": "FLUOXETINE HYDROCHLORIDE",
+      "unii": "I9W7N6B1KJ"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA018936"
+      ],
+      "brand_names": [
+        "Prozac"
+      ],
+      "combination": false,
+      "home_inn": "fluoxetine",
+      "ingredients": [
+        "FLUOXETINE HYDROCHLORIDE"
+      ],
+      "labeler": "Dista Products Company",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1988-02-01",
+      "moieties": [
+        "FLUOXETINE"
+      ],
+      "product_ndcs": [
+        "0777-3104",
+        "0777-3105",
+        "0777-3107"
+      ],
+      "rxcui": [
+        "104849",
+        "205535",
+        "261287",
+        "310384",
+        "310385",
+        "313989"
+      ],
+      "setid": "c88f33ed-6dfb-4c5e-bc01-d8e36dd97299",
+      "source": "openfda",
+      "spl_version": 59,
+      "title": "PROZAC (FLUOXETINE HYDROCHLORIDE) CAPSULE [DISTA PRODUCTS COMPANY]",
+      "upload_date": "2026-01-14"
+    },
+    {
+      "application_numbers": [
+        "ANDA076001"
+      ],
+      "brand_names": [
+        "Fluoxetine"
+      ],
+      "combination": false,
+      "home_inn": "fluoxetine",
+      "ingredients": [
+        "FLUOXETINE HYDROCHLORIDE"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2002-01-29",
+      "moieties": [
+        "FLUOXETINE"
+      ],
+      "product_ndcs": [
+        "50111-647",
+        "50111-648"
+      ],
+      "rxcui": [
+        "310384",
+        "310385"
+      ],
+      "setid": "06d71a33-5578-4012-b11d-764f45bc1e6a",
+      "source": "openfda",
+      "spl_version": 32,
+      "title": "FLUOXETINE CAPSULE [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2024-11-20"
+    },
+    {
+      "application_numbers": [
+        "ANDA076015"
+      ],
+      "brand_names": [
+        "Fluoxetine"
+      ],
+      "combination": false,
+      "home_inn": "fluoxetine",
+      "ingredients": [
+        "FLUOXETINE HYDROCHLORIDE"
+      ],
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2002-01-30",
+      "moieties": [
+        "FLUOXETINE"
+      ],
+      "product_ndcs": [
+        "0121-0721",
+        "0121-4721"
+      ],
+      "rxcui": [
+        "310386"
+      ],
+      "setid": "180a07fd-1f6a-4617-b8e0-f938c65ba273",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "FLUOXETINE (FLUOXETINE HYDROCHLORIDE) SOLUTION [PAI HOLDINGS, LLC DBA PAI PHARMA]",
+      "upload_date": "2024-03-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA075452"
+      ],
+      "brand_names": [
+        "Fluoxetine"
+      ],
+      "combination": false,
+      "home_inn": "fluoxetine",
+      "ingredients": [
+        "FLUOXETINE HYDROCHLORIDE"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2002-01-30",
+      "moieties": [
+        "FLUOXETINE"
+      ],
+      "product_ndcs": [
+        "0093-7198"
+      ],
+      "rxcui": [
+        "313989"
+      ],
+      "setid": "369dbfba-9de4-433c-8680-2ec047b8f8d9",
+      "source": "openfda",
+      "spl_version": 29,
+      "title": "FLUOXETINE CAPSULE [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA076458"
+      ],
+      "brand_names": [
+        "Fluoxetine"
+      ],
+      "combination": false,
+      "home_inn": "fluoxetine",
+      "ingredients": [
+        "FLUOXETINE HYDROCHLORIDE"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2004-05-14",
+      "moieties": [
+        "FLUOXETINE"
+      ],
+      "product_ndcs": [
+        "62135-730"
+      ],
+      "rxcui": [
+        "310386"
+      ],
+      "setid": "cac17277-3481-4661-935f-efc48fff534c",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "FLUOXETINE LIQUID [CHARTWELL RX, LLC]",
+      "upload_date": "2026-02-06"
+    },
+    {
+      "application_numbers": [
+        "ANDA078619"
+      ],
+      "brand_names": [
+        "Fluoxetine"
+      ],
+      "combination": false,
+      "home_inn": "fluoxetine",
+      "ingredients": [
+        "FLUOXETINE HYDROCHLORIDE"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2008-01-31",
+      "moieties": [
+        "FLUOXETINE"
+      ],
+      "product_ndcs": [
+        "65862-192",
+        "65862-193",
+        "65862-194"
+      ],
+      "rxcui": [
+        "310384",
+        "310385",
+        "313989"
+      ],
+      "setid": "45454555-7402-41cb-a452-e6a76e04f387",
+      "source": "openfda",
+      "spl_version": 32,
+      "title": "FLUOXETINE (FLUOXETINE HYDROCHLORIDE) CAPSULE [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2026-01-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA079209"
+      ],
+      "brand_names": [
+        "Fluoxetine"
+      ],
+      "combination": false,
+      "home_inn": "fluoxetine",
+      "ingredients": [
+        "FLUOXETINE HYDROCHLORIDE"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-03-19",
+      "moieties": [
+        "FLUOXETINE"
+      ],
+      "product_ndcs": [
+        "65862-306"
+      ],
+      "rxcui": [
+        "310386"
+      ],
+      "setid": "3195db14-0cae-4b49-9fba-49b869fe92a8",
+      "source": "openfda",
+      "spl_version": 24,
+      "title": "FLUOXETINE SOLUTION [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2024-01-24"
+    },
+    {
+      "application_numbers": [
+        "NDA018936"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "SARAFEM"
+      ],
+      "first_posted": "2008-02-08",
+      "found_by": "SARAFEM",
+      "labeler": "Warner Chilcott, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2010-06-11",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2009-06-30"
+      ],
+      "product_ndcs": [
+        "0430-0435",
+        "0430-0436"
+      ],
+      "rxcui": [],
+      "setid": "0cfd1880-a013-4ca0-a08f-dfd45fb2729b",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "c88f33ed-6dfb-4c5e-bc01-d8e36dd97299"
+      ],
+      "title": "SARAFEM (fluoxetine hydrochloride) capsule"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "PROZAC"
+      ],
+      "first_posted": "2008-02-08",
+      "found_by": "PROZAC",
+      "labeler": "Eli Lilly and Company",
+      "labeler_unverified": false,
+      "last_posted": "2008-02-08",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0002-3004",
+        "0777-3104",
+        "0777-3105",
+        "0777-3107",
+        "0777-5120"
+      ],
+      "rxcui": [],
+      "setid": "2aae194e-fac1-4898-9032-f91cc38490a3",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "prozac (Fluoxetine hydrochloride) capsule prozac weekly (Fluoxetine hydrochloride) capsule, delayed release prozac (Fluoxetine hydrochloride) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA021235"
+      ],
+      "archived_versions": 19,
+      "brand_names": [
+        "PROZAC"
+      ],
+      "first_posted": "2009-07-01",
+      "found_by": "PROZAC",
+      "labeler": "Eli Lilly and Company",
+      "labeler_unverified": false,
+      "last_posted": "2019-09-10",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-10-09"
+      ],
+      "product_ndcs": [
+        "0002-3004"
+      ],
+      "rxcui": [],
+      "setid": "5f356c1b-96bd-4ef1-960c-91cf4905e6b1",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "PROZAC WEEKLY (fluoxetine hydrochloride) capsule, delayed release"
+    },
+    {
+      "application_numbers": [
+        "NDA021860"
+      ],
+      "archived_versions": 10,
+      "brand_names": [
+        "SARAFEM"
+      ],
+      "first_posted": "2008-08-07",
+      "found_by": "SARAFEM",
+      "labeler": "Allergan, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2021-09-29",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2020-11-30",
+        "2021-05-31"
+      ],
+      "product_ndcs": [
+        "0430-0210",
+        "0430-0215",
+        "0430-0220"
+      ],
+      "rxcui": [],
+      "setid": "e542de29-b400-4b2e-9d5e-0f7c53091f8c",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "SARAFEM (fluoxetine hydrochloride) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA021860"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "SARAFEM"
+      ],
+      "first_posted": "2017-01-17",
+      "found_by": "SARAFEM",
+      "labeler": "Allergan, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2017-05-18",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2011-03-15",
+        "2017-05-16"
+      ],
+      "product_ndcs": [
+        "0023-0210",
+        "0023-0215",
+        "0023-0220"
+      ],
+      "rxcui": [],
+      "setid": "e731be04-0595-49dd-b87a-c2b9ba6ba68c",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "SARAFEM (fluoxetine hydrochloride) tablet"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6b9c2d73-866b-44c4-8718-e7e4a9a0fb55"
+    },
+    {
+      "combination": false,
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c856d72f-4a1a-4f75-ae54-c4ac83ddcfa1"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr.Reddy's Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "887fc670-db67-4cfe-967b-46b38375dae5"
+    },
+    {
+      "combination": false,
+      "labeler": "ScieGen Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "23899405-007b-48d9-82a9-a530b8e90784"
+    },
+    {
+      "combination": false,
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "53ac797d-8792-4a8c-9708-d1de3d377e8f"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr.Reddy's Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "11544dea-2f5e-1536-584a-5d1f37a99770"
+    },
+    {
+      "combination": false,
+      "labeler": "Torrent Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dcebc7cf-6f95-4f7a-a22b-c7d2e0f04d74"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e9ee6e93-4a57-4fd1-a417-3944484dd32c"
+    },
+    {
+      "combination": false,
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6fff3732-efc3-4cbd-a8fa-cde3181f03e6"
+    },
+    {
+      "combination": false,
+      "labeler": "ScieGen Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a7ba9184-7dad-4f82-a947-bb2cc6b760ce"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Laboratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "80e52273-9741-6aef-eb24-8a93ead85ba7"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "77b6ae48-8e3a-42e6-9b5a-aeed750861e8"
+    },
+    {
+      "combination": false,
+      "labeler": "ScieGen Pharmaceuticals, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b5035f61-693e-4386-8a07-3c36a6a46917"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f274f102-67ec-46e7-b248-533be2e3003b"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dd659085-c32d-4d35-9d4b-bafa2a93f1fb"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3daecd20-6a59-44d3-8269-4912214c08b4"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5336ce59-7a6c-4db9-8512-299cc5e599c0"
+    },
+    {
+      "combination": false,
+      "labeler": "Modavar Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "05b0781b-50e2-4311-bde0-430b96e2ef8e"
+    },
+    {
+      "combination": false,
+      "labeler": "MARKSANS PHARMA LIMITED",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8e822937-9431-446f-88c4-330a25d12439"
+    },
+    {
+      "combination": false,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1ffe57c3-6f70-4075-aacb-d87a3990fdea"
+    },
+    {
+      "combination": false,
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "be2e4325-feb9-4957-99c0-0a741a2d71a0"
+    },
+    {
+      "combination": false,
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ca749349-d0e1-4b7c-b4c0-e392e72cf0f6"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6f4e4e9f-9ded-452f-b3ef-ab6aa9c72952"
+    },
+    {
+      "combination": false,
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d09a5026-b3eb-403f-bf31-d5991a81a8ce"
+    },
+    {
+      "combination": false,
+      "labeler": "Saptalis Pharmaceuticals, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4527c502-b28c-449f-ad2d-7daf21563cfa"
+    },
+    {
+      "combination": true,
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3c28cf18-01a3-468a-ab3e-8aa82f918251"
+    },
+    {
+      "combination": true,
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2f6ceda3-3edc-4427-98a6-23e3c930c44d"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell Governmental & Specialty RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d34362ed-e821-4c55-9f8c-3dfb772b1b2a"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "97960730-432e-4e94-bb4e-62a3157270a8"
+    },
+    {
+      "combination": false,
+      "labeler": "Vensun Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b4f37ef1-8f5e-4318-90f1-2d8f8afb669c"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9de65da4-73f8-4c88-8198-c92e63224ddb"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9c5112c0-c721-4086-9a75-3b7f931430bb"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr.Reddy's Laboratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "390c61e6-14dd-4391-45b8-0fb5f4652723"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "daf33244-1348-4c34-b44c-9e35d5c48a3e"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f89a5800-6fdb-4938-a28e-3bf1aeb1c21a"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1f8b1834-d5d7-72b6-d2ed-cb074344d59e"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "70b4bd1b-d355-189e-a414-9fff182fd1cd"
+    },
+    {
+      "combination": false,
+      "labeler": "TIME CAP LABORATORIES, INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d7a4db7f-cdac-2b36-e053-2995a90a8d64"
+    },
+    {
+      "combination": false,
+      "labeler": "RADHA PHARMACEUTICALS, INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1a07ebe9-3661-4a48-b8af-9b228875166a"
+    },
+    {
+      "combination": false,
+      "labeler": "Cadila Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9651816f-58f5-4bf8-8183-6f3d84d36b5c"
+    },
+    {
+      "combination": false,
+      "labeler": "QUALLENT PHARMACEUTICALS HEALTH LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4abbd9d9-e9b1-463d-8f39-f3f50d80f58a"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d0f00a25-1aec-42fd-a301-d3710ae3e1f3"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3e1e767b-66a5-4f38-8142-84d40d447f92"
+    },
+    {
+      "combination": false,
+      "labeler": "ScieGen Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3e8912e2-2a0c-5047-e063-6294a90a7e32"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "09fb3100-1e06-4cdc-8016-7e4f5d097490"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a9ed97dd-8041-4a02-889c-dcb8b2805f36"
+    }
+  ]
+}

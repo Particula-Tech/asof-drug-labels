@@ -1,0 +1,656 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand Exjade",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000670",
+      "eu_number": "EU/1/06/356",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000670",
+      "mah": "Novartis Europharm Limited",
+      "marketing_authorisation_date": "2006-08-28",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/exjade",
+      "name": "Exjade",
+      "record_from": "2006-08-28",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 30
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/005014",
+      "eu_number": "EU/1/19/1386",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-005014",
+      "mah": "Mylan Pharmaceuticals Limited",
+      "marketing_authorisation_date": "2019-09-26",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/deferasirox-mylan",
+      "name": "Deferasirox Mylan",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/005156",
+      "eu_number": "EU/1/19/1412",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-005156",
+      "mah": "Accord Healthcare S.L.U.",
+      "marketing_authorisation_date": "2020-01-09",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/deferasirox-accord",
+      "name": "Deferasirox Accord",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000670",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "DEFERASIROX"
+  ],
+  "inn": "deferasirox",
+  "name": "DEFERASIROX",
+  "rank": 223,
+  "rxcui": [
+    "597768",
+    "597770",
+    "597772",
+    "616159",
+    "616161",
+    "616163",
+    "1607784",
+    "1607790",
+    "1607792",
+    "1607794",
+    "1607796",
+    "1607798",
+    "1923822",
+    "1923825",
+    "1923826",
+    "1923827",
+    "1923828",
+    "1923829"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 31,
+    "approval_holders": 21,
+    "earliest_marketing_start": "2005-11-30",
+    "latest_label_update": "2026-10-12",
+    "nda_bla_applications": 3,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "DEFERASIROX",
+      "unii": "V8G4MOF2V9"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021882"
+      ],
+      "brand_names": [
+        "Exjade"
+      ],
+      "combination": false,
+      "home_inn": "deferasirox",
+      "ingredients": [
+        "DEFERASIROX"
+      ],
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2005-11-30",
+      "moieties": [
+        "DEFERASIROX"
+      ],
+      "product_ndcs": [
+        "0078-0468",
+        "0078-0469",
+        "0078-0470"
+      ],
+      "rxcui": [
+        "597768",
+        "597770",
+        "597772",
+        "616159",
+        "616161",
+        "616163"
+      ],
+      "setid": "3495a70c-870c-4968-940e-8baea152cf85",
+      "source": "openfda",
+      "spl_version": 49,
+      "title": "EXJADE (DEFERASIROX) TABLET, FOR SUSPENSION [NOVARTIS PHARMACEUTICALS CORPORATION]",
+      "upload_date": "2026-01-30"
+    },
+    {
+      "application_numbers": [
+        "NDA206910",
+        "NDA207968"
+      ],
+      "brand_names": [
+        "Jadenu"
+      ],
+      "combination": false,
+      "home_inn": "deferasirox",
+      "ingredients": [
+        "DEFERASIROX"
+      ],
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-03-30",
+      "moieties": [
+        "DEFERASIROX"
+      ],
+      "product_ndcs": [
+        "0078-0654",
+        "0078-0655",
+        "0078-0656",
+        "0078-0713",
+        "0078-0720",
+        "0078-0727"
+      ],
+      "rxcui": [
+        "1607784",
+        "1607790",
+        "1607792",
+        "1607794",
+        "1607796",
+        "1607798",
+        "1923822",
+        "1923825",
+        "1923826",
+        "1923827",
+        "1923828",
+        "1923829"
+      ],
+      "setid": "fee89140-fff1-4443-9f42-24ac004fcda1",
+      "source": "openfda",
+      "spl_version": 26,
+      "title": "JADENU (DEFERASIROX) TABLET, FILM COATED JADENU (DEFERASIROX) GRANULE [NOVARTIS PHARMACEUTICALS CORPORATION]",
+      "upload_date": "2025-12-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA210920"
+      ],
+      "brand_names": [
+        "Deferasirox"
+      ],
+      "combination": false,
+      "home_inn": "deferasirox",
+      "ingredients": [
+        "DEFERASIROX"
+      ],
+      "labeler": "Bionpharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-09-28",
+      "moieties": [
+        "DEFERASIROX"
+      ],
+      "product_ndcs": [
+        "69452-159",
+        "69452-160",
+        "69452-161"
+      ],
+      "rxcui": [
+        "597768",
+        "597770",
+        "597772"
+      ],
+      "setid": "dc690f20-533e-490e-b13d-143382e02351",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "DEFERASIROX TABLET, FOR SUSPENSION [BIONPHARMA INC.]",
+      "upload_date": "2025-03-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA210945"
+      ],
+      "brand_names": [
+        "Deferasirox"
+      ],
+      "combination": false,
+      "home_inn": "deferasirox",
+      "ingredients": [
+        "DEFERASIROX"
+      ],
+      "labeler": "MSN LABORATORIES PRIVATE LIMITED",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-11-20",
+      "moieties": [
+        "DEFERASIROX"
+      ],
+      "product_ndcs": [
+        "69539-073",
+        "69539-074",
+        "69539-075"
+      ],
+      "rxcui": [
+        "1607784",
+        "1607792",
+        "1607796"
+      ],
+      "setid": "0354cbc7-9b32-4513-976a-2ef2da39b6b3",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "DEFERASIROX TABLET [MSN LABORATORIES PRIVATE LIMITED]",
+      "upload_date": "2021-01-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA209878"
+      ],
+      "brand_names": [
+        "Deferasirox"
+      ],
+      "combination": false,
+      "home_inn": "deferasirox",
+      "ingredients": [
+        "DEFERASIROX"
+      ],
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-11-20",
+      "moieties": [
+        "DEFERASIROX"
+      ],
+      "product_ndcs": [
+        "72205-389",
+        "72205-390",
+        "72205-391"
+      ],
+      "rxcui": [
+        "597768",
+        "597770",
+        "597772"
+      ],
+      "setid": "a03c7657-fdca-4acb-ad82-c24680e90eae",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "DEFERASIROX TABLET, FOR SUSPENSION [NOVADOZ PHARMACEUTICALS LLC]",
+      "upload_date": "2026-01-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA210060"
+      ],
+      "brand_names": [
+        "Deferasirox"
+      ],
+      "combination": false,
+      "home_inn": "deferasirox",
+      "ingredients": [
+        "DEFERASIROX"
+      ],
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-11-21",
+      "moieties": [
+        "DEFERASIROX"
+      ],
+      "product_ndcs": [
+        "62332-324",
+        "62332-325",
+        "62332-326"
+      ],
+      "rxcui": [
+        "597768",
+        "597770",
+        "597772"
+      ],
+      "setid": "1f9f1a69-bf71-4e6a-88b0-90f08c4da79f",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "DEFERASIROX TABLET, FOR SUSPENSION [ALEMBIC PHARMACEUTICALS INC.]",
+      "upload_date": "2023-03-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA211383"
+      ],
+      "brand_names": [
+        "deferasirox"
+      ],
+      "combination": false,
+      "home_inn": "deferasirox",
+      "ingredients": [
+        "DEFERASIROX"
+      ],
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-11-21",
+      "moieties": [
+        "DEFERASIROX"
+      ],
+      "product_ndcs": [
+        "70710-1275",
+        "70710-1276",
+        "70710-1277"
+      ],
+      "rxcui": [
+        "1607784",
+        "1607792",
+        "1607796"
+      ],
+      "setid": "4af5bc9e-3e09-4dfd-8cc8-7677953c9c7c",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "DEFERASIROX TABLET, FILM COATED [ZYDUS PHARMACEUTICALS USA INC.]",
+      "upload_date": "2023-07-25"
+    },
+    {
+      "application_numbers": [
+        "ANDA211824"
+      ],
+      "brand_names": [
+        "DEFERASIROX"
+      ],
+      "combination": false,
+      "home_inn": "deferasirox",
+      "ingredients": [
+        "DEFERASIROX"
+      ],
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-11-21",
+      "moieties": [
+        "DEFERASIROX"
+      ],
+      "product_ndcs": [
+        "46708-410",
+        "46708-411",
+        "46708-412"
+      ],
+      "rxcui": [
+        "1607784",
+        "1607792",
+        "1607796"
+      ],
+      "setid": "dd9450f4-7c95-4322-8806-9820570f5aa2",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "DEFERASIROX TABLET, FILM COATED [ALEMBIC PHARMACEUTICALS LIMITED]",
+      "upload_date": "2023-02-02"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "JADENU"
+      ],
+      "first_posted": "2018-03-02",
+      "found_by": "JADENU",
+      "labeler": "Catalent Germany Schorndorf GmbH",
+      "labeler_unverified": true,
+      "last_posted": "2018-03-02",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "68621-0027",
+        "68621-0028",
+        "68621-0029"
+      ],
+      "rxcui": [],
+      "setid": "87f79cd1-2799-478f-a591-85d20c44f207",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "JADENU (deferasirox) granule"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "da3295fc-5210-46a3-a5cc-7b9ec9265eca"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4a2e1bd2-9f3a-40ec-94a2-bc76350d6d4b"
+    },
+    {
+      "combination": false,
+      "labeler": "Xiromed, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4c36bb5a-2552-46c1-8500-4ae783cffef1"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a7ae9c31-e14f-4cf9-9ab3-850519f1a87c"
+    },
+    {
+      "combination": false,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "59f1d3fb-5bdb-4261-8557-9a4bde8b3c1c"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0fb210b3-6a3d-4313-83ce-52012e384f9b"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2c2842a0-7781-4047-84cd-88bd018e10c7"
+    },
+    {
+      "combination": false,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1122f1c0-c160-49db-a31b-90d7521370f5"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "65453013-c360-4835-8358-2a278a4a32db"
+    },
+    {
+      "combination": false,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "31c5a91f-e901-418b-a519-779a0c245477"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "eded6687-ba78-4117-a316-eec56d46a08a"
+    },
+    {
+      "combination": false,
+      "labeler": "EPIC PHARMA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7eda83c3-a282-47f6-9f06-d2f9612f5c5b"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "57cf1650-88f9-474e-9e19-df451a15619d"
+    },
+    {
+      "combination": false,
+      "labeler": "Teva Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e9054806-2721-4736-9aef-81ffb8db75d1"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c220484e-1e6a-4a0c-a221-60223f3bc24c"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "350dfc39-d03d-e221-22e9-3880728c955c"
+    },
+    {
+      "combination": false,
+      "labeler": "MSN LABORATORIES PRIVATE LIMITED",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e0726c9c-cee8-4fc1-abd1-68ad0db030dd"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e365e748-4b61-94f2-fb7a-f81919eaccaa"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8c8b84f3-6887-4485-b5e0-03f254b88a15"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f1f952c8-89f5-4a2f-bd6b-9b384366d971"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fcd2ffe2-c8ba-400b-b7f9-e0e4b3510b98"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c7f14819-1abc-4abf-b55b-cf89beaf124e"
+    },
+    {
+      "combination": false,
+      "labeler": "AvKARE",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "485c4834-7bec-2018-e063-6294a90ab4e3"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "biologic": true,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand SIMPONI ARIA",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000992",
+      "eu_number": "EU/1/09/546",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000992",
+      "mah": "Janssen Cilag International NV",
+      "marketing_authorisation_date": "2009-10-01",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/simponi",
+      "name": "Simponi",
+      "record_from": "2009-10-01",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 27
+    },
+    {
+      "biosimilar": true,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/006560",
+      "eu_number": "EU/1/25/1988",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-006560",
+      "mah": "Advanz Pharma Limited",
+      "marketing_authorisation_date": "2025-11-17",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/gobivaz",
+      "name": "Gobivaz",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": true,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/006621",
+      "eu_number": "EU/1/25/2009",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-006621",
+      "mah": "Stada Arzneimittel AG",
+      "marketing_authorisation_date": "2026-02-10",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/gotenfia",
+      "name": "Gotenfia",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000992",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "GOLIMUMAB"
+  ],
+  "inn": "golimumab",
+  "name": "GOLIMUMAB",
+  "rank": 378,
+  "rxcui": [
+    "848160",
+    "848164",
+    "1431642",
+    "1431647",
+    "1482813",
+    "1482814",
+    "1653142",
+    "1653144",
+    "1653165",
+    "1653166"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 2,
+    "approval_holders": 1,
+    "earliest_marketing_start": "2009-04-25",
+    "latest_label_update": "2026-09-24",
+    "nda_bla_applications": 2,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "GOLIMUMAB",
+      "unii": "91X1KLU43E"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "BLA125289",
+        "BLA125433"
+      ],
+      "brand_names": [
+        "SIMPONI ARIA",
+        "Simponi"
+      ],
+      "combination": false,
+      "home_inn": "golimumab",
+      "ingredients": [
+        "GOLIMUMAB"
+      ],
+      "labeler": "Janssen Biotech, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2009-04-25",
+      "moieties": [
+        "GOLIMUMAB"
+      ],
+      "product_ndcs": [
+        "57894-070",
+        "57894-071",
+        "57894-350"
+      ],
+      "rxcui": [
+        "1431642",
+        "1431647"
+      ],
+      "setid": "9e260a47-55af-4c92-8d88-a86ccc767fff",
+      "source": "dailymed-title-match",
+      "spl_version": 28,
+      "title": "SIMPONI ARIA (GOLIMUMAB) SOLUTION [JANSSEN BIOTECH, INC.]",
+      "upload_date": "2025-09-11"
+    },
+    {
+      "application_numbers": [
+        "BLA125289"
+      ],
+      "brand_names": [
+        "Simponi"
+      ],
+      "combination": false,
+      "home_inn": "golimumab",
+      "ingredients": [
+        "GOLIMUMAB"
+      ],
+      "labeler": "Janssen Biotech, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2009-04-25",
+      "moieties": [
+        "GOLIMUMAB"
+      ],
+      "product_ndcs": [
+        "57894-070",
+        "57894-071"
+      ],
+      "rxcui": [
+        "848160",
+        "848164",
+        "1482813",
+        "1482814",
+        "1653142",
+        "1653144",
+        "1653165",
+        "1653166"
+      ],
+      "setid": "f86cb4a7-c358-4136-ae57-b32bda9bba00",
+      "source": "dailymed-title-match",
+      "spl_version": 43,
+      "title": "SIMPONI (GOLIMUMAB) INJECTION, SOLUTION [JANSSEN BIOTECH, INC.]",
+      "upload_date": "2026-09-24"
+    }
+  ],
+  "us_excluded": []
+}

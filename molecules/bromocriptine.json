@@ -1,0 +1,335 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "BROMOCRIPTINE MESYLATE"
+  ],
+  "inn": "bromocriptine",
+  "name": "BROMOCRIPTINE",
+  "rank": 456,
+  "rxcui": [
+    "197411",
+    "197412",
+    "859077",
+    "859081"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 7,
+    "approval_holders": 7,
+    "earliest_marketing_start": "1998-01-13",
+    "latest_label_update": "2026-08-03",
+    "nda_bla_applications": 2,
+    "repackagers": 2
+  },
+  "unii": [
+    {
+      "ingredient": "BROMOCRIPTINE MESYLATE",
+      "unii": "FFP983J3OD"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020866"
+      ],
+      "brand_names": [
+        "CYCLOSET"
+      ],
+      "combination": false,
+      "home_inn": "bromocriptine",
+      "ingredients": [
+        "BROMOCRIPTINE MESYLATE"
+      ],
+      "labeler": "Avvisto Therapeutics LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-05-23",
+      "moieties": [
+        "BROMOCRIPTINE"
+      ],
+      "product_ndcs": [
+        "73515-123"
+      ],
+      "rxcui": [
+        "859077",
+        "859081"
+      ],
+      "setid": "e42ba916-16b9-4d1c-8d09-9d2fbb1b6c20",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "CYCLOSET (BROMOCRIPTINE MESYLATE) TABLET [AVVISTO THERAPEUTICS LLC]",
+      "upload_date": "2026-01-14"
+    },
+    {
+      "application_numbers": [
+        "NDA017962"
+      ],
+      "brand_names": [
+        "Bromocriptine Mesylate"
+      ],
+      "combination": false,
+      "home_inn": "bromocriptine",
+      "ingredients": [
+        "BROMOCRIPTINE MESYLATE"
+      ],
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-06-15",
+      "moieties": [
+        "BROMOCRIPTINE"
+      ],
+      "product_ndcs": [
+        "70954-951",
+        "70954-978"
+      ],
+      "rxcui": [
+        "197411",
+        "197412"
+      ],
+      "setid": "17f3a343-1782-4799-95ba-31dfe93be2cf",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "BROMOCRIPTINE MESYLATE TABLET BROMOCRIPTINE MESYLATE CAPSULE [ANI PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-07-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA074631"
+      ],
+      "brand_names": [
+        "Bromocriptine mesylate"
+      ],
+      "combination": false,
+      "home_inn": "bromocriptine",
+      "ingredients": [
+        "BROMOCRIPTINE MESYLATE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1998-01-13",
+      "moieties": [
+        "BROMOCRIPTINE"
+      ],
+      "product_ndcs": [
+        "0781-5325"
+      ],
+      "rxcui": [
+        "197411"
+      ],
+      "setid": "c43c300d-8aec-4020-984a-42c1a917c08f",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "BROMOCRIPTINE MESYLATE TABLET [SANDOZ INC]",
+      "upload_date": "2024-10-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA078899"
+      ],
+      "brand_names": [
+        "Bromocriptine mesylate"
+      ],
+      "combination": false,
+      "home_inn": "bromocriptine",
+      "ingredients": [
+        "BROMOCRIPTINE MESYLATE"
+      ],
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-01-23",
+      "moieties": [
+        "BROMOCRIPTINE"
+      ],
+      "product_ndcs": [
+        "65841-654"
+      ],
+      "rxcui": [
+        "197412"
+      ],
+      "setid": "97e7e051-ff64-4381-a869-6c1c364ad822",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "BROMOCRIPTINE MESYLATE CAPSULE [ZYDUS LIFESCIENCES LIMITED]",
+      "upload_date": "2024-12-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA077226"
+      ],
+      "brand_names": [
+        "Bromocriptine Mesylate"
+      ],
+      "combination": false,
+      "home_inn": "bromocriptine",
+      "ingredients": [
+        "BROMOCRIPTINE MESYLATE"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-06-17",
+      "moieties": [
+        "BROMOCRIPTINE"
+      ],
+      "product_ndcs": [
+        "0378-7096"
+      ],
+      "rxcui": [
+        "197412"
+      ],
+      "setid": "72d8eefe-c066-41b6-8922-9586f1cf47a1",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "BROMOCRIPTINE MESYLATE CAPSULE [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2026-06-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA077646"
+      ],
+      "brand_names": [
+        "Bromocriptine mesylate"
+      ],
+      "combination": false,
+      "home_inn": "bromocriptine",
+      "ingredients": [
+        "BROMOCRIPTINE MESYLATE"
+      ],
+      "labeler": "Padagis US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-04-01",
+      "moieties": [
+        "BROMOCRIPTINE"
+      ],
+      "product_ndcs": [
+        "0574-0106"
+      ],
+      "rxcui": [
+        "197411"
+      ],
+      "setid": "0ee2da00-faf8-4c51-a696-9462fa4f6050",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "BROMOCRIPTINE MESYLATE TABLET [PADAGIS US LLC]",
+      "upload_date": "2024-11-25"
+    },
+    {
+      "application_numbers": [
+        "ANDA078899"
+      ],
+      "brand_names": [
+        "Bromocriptine mesylate"
+      ],
+      "combination": false,
+      "home_inn": "bromocriptine",
+      "ingredients": [
+        "BROMOCRIPTINE MESYLATE"
+      ],
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-01-23",
+      "moieties": [
+        "BROMOCRIPTINE"
+      ],
+      "product_ndcs": [
+        "68382-110"
+      ],
+      "rxcui": [
+        "197412"
+      ],
+      "setid": "d69003ee-0b6f-47a9-834e-ba59c02f566c",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "BROMOCRIPTINE MESYLATE CAPSULE [ZYDUS PHARMACEUTICALS USA INC.]",
+      "upload_date": "2026-08-03"
+    },
+    {
+      "application_numbers": [
+        "NDA020866"
+      ],
+      "archived_versions": 19,
+      "brand_names": [
+        "CYCLOSET"
+      ],
+      "first_posted": "2011-01-21",
+      "found_by": "CYCLOSET",
+      "labeler": "Santarus, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2025-08-06",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-07-31"
+      ],
+      "product_ndcs": [
+        "68012-258"
+      ],
+      "rxcui": [],
+      "setid": "3e719d6a-342e-428b-93d3-377d31cb15c7",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "e42ba916-16b9-4d1c-8d09-9d2fbb1b6c20"
+      ],
+      "title": "CYCLOSET (bromocriptine mesylate) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA017962"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "PARLODEL"
+      ],
+      "first_posted": "2009-07-14",
+      "found_by": "PARLODEL",
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2013-09-19",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-08-01",
+        "2014-11-01"
+      ],
+      "product_ndcs": [
+        "0078-0017",
+        "0078-0102"
+      ],
+      "rxcui": [],
+      "setid": "b767d7cc-67c7-49d6-a456-227dcade7daf",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "17f3a343-1782-4799-95ba-31dfe93be2cf"
+      ],
+      "title": "PARLODEL (bromocriptine mesylate) tablet PARLODEL (bromocriptine mesylate) capsule"
+    }
+  ],
+  "us_excluded": []
+}

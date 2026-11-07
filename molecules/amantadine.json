@@ -1,0 +1,593 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "AMANTADINE",
+    "AMANTADINE HYDROCHLORIDE"
+  ],
+  "inn": "amantadine",
+  "name": "AMANTADINE",
+  "rank": 203,
+  "rxcui": [
+    "849385",
+    "849389",
+    "849395",
+    "1944370",
+    "1944376",
+    "1944380",
+    "1944382"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 28,
+    "approval_holders": 23,
+    "earliest_marketing_start": "1993-06-28",
+    "latest_label_update": "2026-10-22",
+    "nda_bla_applications": 1,
+    "repackagers": 13
+  },
+  "unii": [
+    {
+      "ingredient": "AMANTADINE HYDROCHLORIDE",
+      "unii": "M6Q1EO9TD0"
+    }
+  ],
+  "unii_unresolved": [
+    "AMANTADINE"
+  ],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA208944"
+      ],
+      "brand_names": [
+        "GOCOVRI"
+      ],
+      "combination": false,
+      "home_inn": "amantadine",
+      "ingredients": [
+        "AMANTADINE"
+      ],
+      "labeler": "Supernus Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-08-24",
+      "moieties": [
+        "AMANTADINE"
+      ],
+      "product_ndcs": [
+        "17772-085",
+        "17772-170"
+      ],
+      "rxcui": [
+        "1944370",
+        "1944376",
+        "1944380",
+        "1944382"
+      ],
+      "setid": "2bee0631-0028-1314-e063-6394a90aaaed",
+      "source": "dailymed-title-match",
+      "spl_version": 8,
+      "title": "GOCOVRI (AMANTADINE) CAPSULE, COATED PELLETS [SUPERNUS PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-10-06"
+    },
+    {
+      "application_numbers": [
+        "NDA208944"
+      ],
+      "brand_names": [
+        "GOCOVRI"
+      ],
+      "combination": false,
+      "home_inn": "amantadine",
+      "ingredients": [
+        "AMANTADINE"
+      ],
+      "labeler": "Adamas Pharma, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-08-24",
+      "moieties": [
+        "AMANTADINE"
+      ],
+      "product_ndcs": [
+        "70482-085",
+        "70482-170"
+      ],
+      "rxcui": [
+        "1944370",
+        "1944376",
+        "1944380",
+        "1944382"
+      ],
+      "setid": "82ff865f-78f3-4c94-b6a9-727a54944b28",
+      "source": "dailymed-title-match",
+      "spl_version": 19,
+      "title": "GOCOVRI (AMANTADINE) CAPSULE, COATED PELLETS [ADAMAS PHARMA, LLC]",
+      "upload_date": "2026-10-06"
+    },
+    {
+      "application_numbers": [
+        "ANDA074028"
+      ],
+      "brand_names": [
+        "Amantadine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "amantadine",
+      "ingredients": [
+        "AMANTADINE HYDROCHLORIDE"
+      ],
+      "labeler": "Chartwell Governmental & Specialty RX, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1993-06-28",
+      "moieties": [
+        "AMANTADINE"
+      ],
+      "product_ndcs": [
+        "68999-011"
+      ],
+      "rxcui": [
+        "849385"
+      ],
+      "setid": "3c448cb3-7996-4a83-a9ad-23a00a431fbe",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "AMANTADINE HYDROCHLORIDE SOLUTION [CHARTWELL GOVERNMENTAL & SPECIALTY RX, LLC.]",
+      "upload_date": "2025-12-22"
+    },
+    {
+      "application_numbers": [
+        "ANDA074509"
+      ],
+      "brand_names": [
+        "AMANTADINE HYDROCHLORIDE"
+      ],
+      "combination": false,
+      "home_inn": "amantadine",
+      "ingredients": [
+        "AMANTADINE HYDROCHLORIDE"
+      ],
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1995-07-17",
+      "moieties": [
+        "AMANTADINE"
+      ],
+      "product_ndcs": [
+        "0121-0646"
+      ],
+      "rxcui": [
+        "849385"
+      ],
+      "setid": "be411327-5ac7-46df-b5e4-32a11b419b15",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "AMANTADINE HYDROCHLORIDE SOLUTION [PAI HOLDINGS, LLC DBA PAI PHARMA]",
+      "upload_date": "2025-08-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA070589"
+      ],
+      "brand_names": [
+        "Amantadine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "amantadine",
+      "ingredients": [
+        "AMANTADINE HYDROCHLORIDE"
+      ],
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-09-15",
+      "moieties": [
+        "AMANTADINE"
+      ],
+      "product_ndcs": [
+        "0832-1015"
+      ],
+      "rxcui": [
+        "849389"
+      ],
+      "setid": "5232b933-1df9-43b4-8ac2-61bfa4855e68",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "AMANTADINE HYDROCHLORIDE CAPSULE, GELATIN COATED [UPSHER-SMITH LABORATORIES, LLC]",
+      "upload_date": "2025-07-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA076186"
+      ],
+      "brand_names": [
+        "Amantadine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "amantadine",
+      "ingredients": [
+        "AMANTADINE HYDROCHLORIDE"
+      ],
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-12-15",
+      "moieties": [
+        "AMANTADINE"
+      ],
+      "product_ndcs": [
+        "0832-0111"
+      ],
+      "rxcui": [
+        "849395"
+      ],
+      "setid": "63d9d4aa-5f92-45b0-98d0-d6ec38b727cb",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "AMANTADINE HYDROCHLORIDE TABLET [UPSHER-SMITH LABORATORIES, LLC]",
+      "upload_date": "2025-12-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA208278"
+      ],
+      "brand_names": [
+        "amantadine hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "amantadine",
+      "ingredients": [
+        "AMANTADINE HYDROCHLORIDE"
+      ],
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-08-04",
+      "moieties": [
+        "AMANTADINE"
+      ],
+      "product_ndcs": [
+        "65841-835"
+      ],
+      "rxcui": [
+        "849389"
+      ],
+      "setid": "579e6c23-6286-4b80-88de-c86c0e5cc2b2",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "AMANTADINE HYDROCHLORIDE CAPSULE [ZYDUS LIFESCIENCES LIMITED]",
+      "upload_date": "2025-06-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA078720"
+      ],
+      "brand_names": [
+        "Amantadine HCl"
+      ],
+      "combination": false,
+      "home_inn": "amantadine",
+      "ingredients": [
+        "AMANTADINE HYDROCHLORIDE"
+      ],
+      "labeler": "Bionpharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-08-15",
+      "moieties": [
+        "AMANTADINE"
+      ],
+      "product_ndcs": [
+        "69452-142"
+      ],
+      "rxcui": [
+        "849389"
+      ],
+      "setid": "d6ca4d20-72c5-496c-9ac7-1f5cb407a742",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "AMANTADINE HCL (AMANTADINE HYDROCHLORIDE) CAPSULE, LIQUID FILLED [BIONPHARMA INC.]",
+      "upload_date": "2025-06-11"
+    },
+    {
+      "application_numbers": [
+        "NDA209410"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "OSMOLEX"
+      ],
+      "first_posted": "2018-06-01",
+      "found_by": "OSMOLEX",
+      "labeler": "Vertical Pharmaceuticals, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2022-05-05",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-08-31",
+        "2023-03-31",
+        "2023-06-30"
+      ],
+      "product_ndcs": [
+        "68025-021",
+        "68025-074",
+        "68025-075",
+        "68025-076",
+        "68025-077"
+      ],
+      "rxcui": [],
+      "setid": "2bced627-51e3-4e5c-a23c-30deb86ff37b",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "OSMOLEX ER (amantadine) tablet, extended release OSMOLEX ER (amantadine) kit"
+    },
+    {
+      "application_numbers": [
+        "NDA209410"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "OSMOLEX"
+      ],
+      "first_posted": "2021-05-26",
+      "found_by": "OSMOLEX",
+      "labeler": "Adamas Pharma, LLC",
+      "labeler_unverified": true,
+      "last_posted": "2024-10-14",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-06-30",
+        "2025-05-31"
+      ],
+      "product_ndcs": [
+        "70482-075",
+        "70482-076"
+      ],
+      "rxcui": [],
+      "setid": "6fbddb66-8b9d-4d37-a348-abcc31276e89",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "OSMOLEX ER (amantadine) tablet, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA017118",
+        "NDA018101"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "SYMMETREL"
+      ],
+      "first_posted": "2007-03-09",
+      "found_by": "SYMMETREL",
+      "labeler": "Endo Pharmaceuticals",
+      "labeler_unverified": false,
+      "last_posted": "2012-01-24",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2005-07-31",
+        "2007-04-30"
+      ],
+      "product_ndcs": [
+        "63481-108",
+        "63481-205"
+      ],
+      "rxcui": [],
+      "setid": "c23bbfaf-6e4a-4545-8bfb-6b75479b972a",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "SYMMETREL (amantadine hydrochloride) tablet SYMMETREL (amantadine hydrochloride) syrup"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1b9498b7-125e-4314-baca-b62af6e5511c"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4157d9a7-a53f-4dde-b051-fe3e9a674913"
+    },
+    {
+      "combination": false,
+      "labeler": "Strides Pharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e4d8f36f-d668-4728-8dca-b1c22bd9aedb"
+    },
+    {
+      "combination": false,
+      "labeler": "Strides Pharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9a99bb98-82a4-4b9e-9216-554dade72a3c"
+    },
+    {
+      "combination": false,
+      "labeler": "Marlex Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "25af52ee-9b29-4c07-a383-62d4537b63e0"
+    },
+    {
+      "combination": false,
+      "labeler": "Advagen Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c3b9e7f0-be6d-4f37-9277-54bb0ba8b158"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "48fa07c8-8b95-40d7-a0f5-132577dfb2c8"
+    },
+    {
+      "combination": false,
+      "labeler": "EPIC PHARMA LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0f70c79a-92a4-4a38-bbdd-900adc4c2e93"
+    },
+    {
+      "combination": false,
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "20dad861-6ad1-4660-b315-8af57b294175"
+    },
+    {
+      "combination": false,
+      "labeler": "Patrin Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0fcf5182-a666-4f38-879f-47f19de30dd5"
+    },
+    {
+      "combination": false,
+      "labeler": "Zhejiang Jutai Pharmaceutical Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9c5e0c61-372b-4d1b-8882-e13f6af8fed0"
+    },
+    {
+      "combination": false,
+      "labeler": "Xttrium Laboratories, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "25dd8a3c-6b11-2ea1-e063-6294a90a50cf"
+    },
+    {
+      "combination": false,
+      "labeler": "BAJAJ MEDICAL, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "38fccce5-1f1e-9350-e063-6394a90a045a"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "52aa093c-82cc-4d81-b072-86a2b8adc9c5"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "609dc911-1e9d-4ebd-b64b-f44054e5582e"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a016ab57-d18f-4a3b-b2ab-f91fecc1eef7"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d8887814-3e56-447e-8bc3-add1861e0cf7"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "da1837b5-fda2-48e0-91ba-d6eb2b991b55"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6fd54e00-a714-4442-af95-2515ab3b2ac3"
+    },
+    {
+      "combination": false,
+      "labeler": "AvPAK",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "48c949e3-86e0-c639-e063-6294a90acdba"
+    }
+  ]
+}

@@ -1,0 +1,476 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "AZELASTINE HYDROCHLORIDE"
+  ],
+  "inn": "azelastine",
+  "name": "AZELASTINE",
+  "rank": 341,
+  "rxcui": [
+    "860805",
+    "1797847",
+    "1797849",
+    "1797867"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 20,
+    "approval_holders": 17,
+    "earliest_marketing_start": "2009-12-01",
+    "latest_label_update": "2026-09-10",
+    "nda_bla_applications": 1,
+    "repackagers": 4
+  },
+  "unii": [
+    {
+      "ingredient": "AZELASTINE HYDROCHLORIDE",
+      "unii": "0L591QR10I"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA202236"
+      ],
+      "brand_names": [
+        "DYMISTA"
+      ],
+      "combination": true,
+      "home_inn": "fluticasone",
+      "ingredients": [
+        "AZELASTINE HYDROCHLORIDE",
+        "FLUTICASONE PROPIONATE"
+      ],
+      "labeler": "Viatris Specialty LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2016-10-01",
+      "moieties": [
+        "AZELASTINE",
+        "FLUTICASONE"
+      ],
+      "product_ndcs": [
+        "0037-0245"
+      ],
+      "rxcui": [
+        "1797847",
+        "1797849"
+      ],
+      "setid": "4c557ec4-c4cf-11df-851a-0800200c9a66",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "DYMISTA (AZELASTINE HYDROCHLORIDE AND FLUTICASONE PROPIONATE) SPRAY, METERED [VIATRIS SPECIALTY LLC]",
+      "upload_date": "2025-08-25"
+    },
+    {
+      "application_numbers": [
+        "ANDA078621"
+      ],
+      "brand_names": [
+        "AZELASTINE HYDROCHLORIDE"
+      ],
+      "combination": false,
+      "home_inn": "azelastine",
+      "ingredients": [
+        "AZELASTINE HYDROCHLORIDE"
+      ],
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-12-01",
+      "moieties": [
+        "AZELASTINE"
+      ],
+      "product_ndcs": [
+        "60505-0578"
+      ],
+      "rxcui": [
+        "860805"
+      ],
+      "setid": "77a33738-ffcf-221c-1562-780418882e5d",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "AZELASTINE HYDROCHLORIDE SOLUTION/ DROPS [APOTEX CORP.]",
+      "upload_date": "2026-09-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA077954"
+      ],
+      "brand_names": [
+        "Azelastine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "azelastine",
+      "ingredients": [
+        "AZELASTINE HYDROCHLORIDE"
+      ],
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-03-01",
+      "moieties": [
+        "AZELASTINE"
+      ],
+      "product_ndcs": [
+        "60505-0833"
+      ],
+      "rxcui": [
+        "1797867"
+      ],
+      "setid": "4f58c203-f649-a18e-aaf3-70b0797652f4",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "AZELASTINE HYDROCHLORIDE SPRAY, METERED [APOTEX CORP. ]",
+      "upload_date": "2026-09-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA078738"
+      ],
+      "brand_names": [
+        "Azelastine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "azelastine",
+      "ingredients": [
+        "AZELASTINE HYDROCHLORIDE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-05-31",
+      "moieties": [
+        "AZELASTINE"
+      ],
+      "product_ndcs": [
+        "47335-938"
+      ],
+      "rxcui": [
+        "860805"
+      ],
+      "setid": "04e5eede-17ff-4765-af77-d46c139da703",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "AZELASTINE HYDROCHLORIDE SOLUTION/ DROPS [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2018-10-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA090423"
+      ],
+      "brand_names": [
+        "Azelastine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "azelastine",
+      "ingredients": [
+        "AZELASTINE HYDROCHLORIDE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-05-24",
+      "moieties": [
+        "AZELASTINE"
+      ],
+      "product_ndcs": [
+        "47335-779"
+      ],
+      "rxcui": [
+        "1797867"
+      ],
+      "setid": "305c6dc8-8247-473d-9975-b02903af6d53",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "AZELASTINE HYDROCHLORIDE SPRAY, METERED [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2018-12-14"
+    },
+    {
+      "application_numbers": [
+        "ANDA202305"
+      ],
+      "brand_names": [
+        "Azelastine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "azelastine",
+      "ingredients": [
+        "AZELASTINE HYDROCHLORIDE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-03-21",
+      "moieties": [
+        "AZELASTINE"
+      ],
+      "product_ndcs": [
+        "61314-308"
+      ],
+      "rxcui": [
+        "860805"
+      ],
+      "setid": "6945fb86-27fb-4bab-8908-98772c6269c5",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "AZELASTINE HYDROCHLORIDE SOLUTION/ DROPS [SANDOZ INC]",
+      "upload_date": "2026-09-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA208156"
+      ],
+      "brand_names": [
+        "Azelastine"
+      ],
+      "combination": false,
+      "home_inn": "azelastine",
+      "ingredients": [
+        "AZELASTINE HYDROCHLORIDE"
+      ],
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-08-18",
+      "moieties": [
+        "AZELASTINE"
+      ],
+      "product_ndcs": [
+        "67877-477"
+      ],
+      "rxcui": [
+        "1797867"
+      ],
+      "setid": "77b20c6b-f30f-42a9-a0ef-d5d0bd3feb56",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "AZELASTINE SPRAY, METERED [ASCEND LABORATORIES, LLC]",
+      "upload_date": "2026-03-27"
+    },
+    {
+      "application_numbers": [
+        "NDA022203"
+      ],
+      "archived_versions": 14,
+      "brand_names": [
+        "ASTEPRO"
+      ],
+      "first_posted": "2008-11-21",
+      "found_by": "ASTEPRO",
+      "labeler": "Meda Pharmaceuticals",
+      "labeler_unverified": false,
+      "last_posted": "2019-04-26",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2020-12-31"
+      ],
+      "product_ndcs": [
+        "0037-0243"
+      ],
+      "rxcui": [],
+      "setid": "0e979fc0-353c-11dc-8dea-0002a5d5c51b",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ASTEPRO (azelastine hydrochloride) spray, metered"
+    },
+    {
+      "application_numbers": [
+        "NDA020114"
+      ],
+      "archived_versions": 10,
+      "brand_names": [
+        "ASTELIN"
+      ],
+      "first_posted": "2007-05-31",
+      "found_by": "ASTELIN",
+      "labeler": "Meda Pharmaceuticals",
+      "labeler_unverified": false,
+      "last_posted": "2020-09-14",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2020-01-01"
+      ],
+      "product_ndcs": [
+        "0037-0241"
+      ],
+      "rxcui": [],
+      "setid": "46b2ddff-d40a-43ac-b027-4fac9fc2f4b9",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ASTELIN (azelastine hydrochloride) spray, metered"
+    },
+    {
+      "application_numbers": [
+        "NDA021127"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "OPTIVAR"
+      ],
+      "first_posted": "2009-06-22",
+      "found_by": "OPTIVAR",
+      "labeler": "Meda Pharmaceuticals Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2017-10-06",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-09-30"
+      ],
+      "product_ndcs": [
+        "0037-7025"
+      ],
+      "rxcui": [],
+      "setid": "f4b9597c-5b50-4889-be41-20bd1f13aaa5",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "OPTIVAR (azelastine hydrochloride) solution/ drops"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7902605c-944a-4d7e-a7d4-eb4a71bcacdb"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7532ed82-5cfa-49da-83e5-c57ffdd3adbb"
+    },
+    {
+      "combination": false,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "72406ded-7886-41fb-b5c8-2d27a149aa34"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f358cecd-284f-4d0b-806c-039465220bd2"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "97c91a09-98d0-4666-8448-0bd50c02bb14"
+    },
+    {
+      "combination": true,
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7b5cc5a0-0d47-46b5-b5fb-eb9cc248ae9e"
+    },
+    {
+      "combination": true,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7bbc6514-bea3-0be0-e673-a8f6069025ff"
+    },
+    {
+      "combination": true,
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "625ffdd0-8486-49af-8e77-6aa663be5ac7"
+    },
+    {
+      "combination": true,
+      "labeler": "Teva Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0d45e7a4-900f-44ef-bb18-a1fbff75a3c6"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "753d7a69-b0da-4350-9dc5-97f26ebe5cc0"
+    },
+    {
+      "combination": false,
+      "labeler": "Fosun Pharma USA Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8ae2aec7-329b-41bf-89d5-f189afb782ee"
+    },
+    {
+      "combination": false,
+      "labeler": "AvKARE",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bca75501-4140-4d77-e053-2a95a90a019f"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cb0aca6d-ff9c-4239-8681-d212a6764ba9"
+    }
+  ]
+}

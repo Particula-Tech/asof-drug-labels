@@ -1,0 +1,1811 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "Ozurdex is the intravitreal implant",
+      "comparable_to_us": "no",
+      "ema_product_number": "EMEA/H/C/001140",
+      "eu_number": "EU/1/10/638",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-001140",
+      "mah": "AbbVie Deutschland GmbH & Co. KG",
+      "marketing_authorisation_date": "2010-07-26",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ozurdex",
+      "name": "Ozurdex",
+      "record_from": "2010-07-27",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 16
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/004071",
+      "eu_number": "EU/1/15/1053",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-004071",
+      "mah": "THERAVIA",
+      "marketing_authorisation_date": "2016-03-16",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/neofordex",
+      "name": "Neofordex",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-001140",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "DEXAMETHASONE",
+    "DEXAMETHASONE SODIUM PHOSPHATE"
+  ],
+  "inn": "dexamethasone",
+  "name": "DEXAMETHASONE",
+  "rank": 13,
+  "rxcui": [
+    "197577",
+    "197579",
+    "197580",
+    "197581",
+    "197582",
+    "197583",
+    "205669",
+    "208591",
+    "208601",
+    "208821",
+    "226343",
+    "309679",
+    "309680",
+    "309682",
+    "309684",
+    "309686",
+    "309692",
+    "309696",
+    "343033",
+    "849115",
+    "854177",
+    "854181",
+    "1011080",
+    "1116927",
+    "1812079",
+    "1812194",
+    "2108015",
+    "2108020",
+    "2261802",
+    "2286261"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 81,
+    "approval_holders": 49,
+    "earliest_marketing_start": "1964-11-15",
+    "latest_label_update": "2026-10-26",
+    "nda_bla_applications": 8,
+    "repackagers": 26
+  },
+  "unii": [
+    {
+      "ingredient": "DEXAMETHASONE",
+      "unii": "7S5I7G3JQL"
+    },
+    {
+      "ingredient": "DEXAMETHASONE SODIUM PHOSPHATE",
+      "unii": "AI9376Y64P"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA022315"
+      ],
+      "brand_names": [
+        "OZURDEX"
+      ],
+      "combination": false,
+      "home_inn": "dexamethasone",
+      "ingredients": [
+        "DEXAMETHASONE"
+      ],
+      "labeler": "Allergan, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2009-09-01",
+      "moieties": [
+        "DEXAMETHASONE"
+      ],
+      "product_ndcs": [
+        "0023-3348"
+      ],
+      "rxcui": [
+        "854177",
+        "854181"
+      ],
+      "setid": "4b204f44-6e8a-4d17-803c-268f0b04679f",
+      "source": "openfda",
+      "spl_version": 38,
+      "title": "OZURDEX (DEXAMETHASONE) IMPLANT [ALLERGAN, INC.]",
+      "upload_date": "2026-03-18"
+    },
+    {
+      "application_numbers": [
+        "NDA208742"
+      ],
+      "brand_names": [
+        "DEXTENZA"
+      ],
+      "combination": false,
+      "home_inn": "dexamethasone",
+      "ingredients": [
+        "DEXAMETHASONE"
+      ],
+      "labeler": "Ocular Therapeutix, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2019-01-07",
+      "moieties": [
+        "DEXAMETHASONE"
+      ],
+      "product_ndcs": [
+        "70382-204"
+      ],
+      "rxcui": [
+        "2108015",
+        "2108020"
+      ],
+      "setid": "7514e6b8-c33f-4fbf-8810-ef520e1eb4bd",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "DEXTENZA (DEXAMETHASONE) INSERT [OCULAR THERAPEUTIX, INC.",
+      "upload_date": "2026-03-09"
+    },
+    {
+      "application_numbers": [
+        "NDA211379"
+      ],
+      "brand_names": [
+        "Hemady"
+      ],
+      "combination": false,
+      "home_inn": "dexamethasone",
+      "ingredients": [
+        "DEXAMETHASONE"
+      ],
+      "labeler": "Edenbridge Pharmaceuticals LLC.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2019-10-03",
+      "moieties": [
+        "DEXAMETHASONE"
+      ],
+      "product_ndcs": [
+        "82111-955"
+      ],
+      "rxcui": [
+        "2261802",
+        "2286261"
+      ],
+      "setid": "6b9cf32c-6d60-4853-bbfd-2304ffc2c129",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "HEMADY (DEXAMETHASONE) TABLET [EDENBRIDGE PHARMACEUTICALS LLC.]",
+      "upload_date": "2026-01-26"
+    },
+    {
+      "application_numbers": [
+        "NDA013422"
+      ],
+      "brand_names": [
+        "MAXIDEX"
+      ],
+      "combination": false,
+      "home_inn": "dexamethasone",
+      "ingredients": [
+        "DEXAMETHASONE"
+      ],
+      "labeler": "Harrow Eye, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-04-07",
+      "moieties": [
+        "DEXAMETHASONE"
+      ],
+      "product_ndcs": [
+        "82667-600"
+      ],
+      "rxcui": [
+        "205669",
+        "309692"
+      ],
+      "setid": "35e47fcd-e020-43e5-8322-41f8060d220d",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "MAXIDEX (DEXAMETHASONE) FOR SUSPENSION [HARROW EYE, LLC]",
+      "upload_date": "2025-05-07"
+    },
+    {
+      "application_numbers": [
+        "NDA050023"
+      ],
+      "brand_names": [
+        "Maxitrol"
+      ],
+      "combination": true,
+      "home_inn": "dexamethasone",
+      "ingredients": [
+        "DEXAMETHASONE",
+        "NEOMYCIN SULFATE",
+        "POLYMYXIN B SULFATE"
+      ],
+      "labeler": "Harrow Eye, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1964-11-15",
+      "moieties": [
+        "DEXAMETHASONE",
+        "NEOMYCIN",
+        "POLYMYXIN B"
+      ],
+      "product_ndcs": [
+        "82667-100"
+      ],
+      "rxcui": [
+        "208591",
+        "309680"
+      ],
+      "setid": "ecfb954f-5554-0ad2-e053-2995a90a7516",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "MAXITROL (NEOMYCIN SULFATE, POLYMYXIN B SULFATE AND DEXAMETHASONE) SUSPENSION [HARROW EYE, LLC]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "NDA050065"
+      ],
+      "brand_names": [
+        "MAXITROL"
+      ],
+      "combination": true,
+      "home_inn": "dexamethasone",
+      "ingredients": [
+        "DEXAMETHASONE",
+        "NEOMYCIN SULFATE",
+        "POLYMYXIN B SULFATE"
+      ],
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1972-01-17",
+      "moieties": [
+        "DEXAMETHASONE",
+        "NEOMYCIN",
+        "POLYMYXIN B"
+      ],
+      "product_ndcs": [
+        "0078-0771"
+      ],
+      "rxcui": [
+        "208601",
+        "309679"
+      ],
+      "setid": "22c6d2db-85af-4a3b-a014-80d901a86717",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "MAXITROL (NEOMYCIN SULFATE, POLYMYXIN B SULFATE AND DEXAMETHASONE) OINTMENT [NOVARTIS PHARMACEUTICALS CORPORATION]",
+      "upload_date": "2025-09-10"
+    },
+    {
+      "application_numbers": [
+        "NDA050616"
+      ],
+      "brand_names": [
+        "TobraDex"
+      ],
+      "combination": true,
+      "home_inn": "dexamethasone",
+      "ingredients": [
+        "DEXAMETHASONE",
+        "TOBRAMYCIN"
+      ],
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1988-10-15",
+      "moieties": [
+        "DEXAMETHASONE",
+        "TOBRAMYCIN"
+      ],
+      "product_ndcs": [
+        "0078-0876"
+      ],
+      "rxcui": [
+        "208821",
+        "309682"
+      ],
+      "setid": "7f310e0e-0d3b-493d-b6c4-238493a2a9b9",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "TOBRADEX (TOBRAMYCIN AND DEXAMETHASONE) OINTMENT [NOVARTIS PHARMACEUTICALS CORPORATION]",
+      "upload_date": "2026-07-24"
+    },
+    {
+      "application_numbers": [
+        "NDA050818"
+      ],
+      "brand_names": [
+        "Tobradex ST"
+      ],
+      "combination": true,
+      "home_inn": "dexamethasone",
+      "ingredients": [
+        "DEXAMETHASONE",
+        "TOBRAMYCIN"
+      ],
+      "labeler": "Eyevance Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-05-19",
+      "moieties": [
+        "DEXAMETHASONE",
+        "TOBRAMYCIN"
+      ],
+      "product_ndcs": [
+        "71776-035"
+      ],
+      "rxcui": [
+        "849115",
+        "1011080"
+      ],
+      "setid": "c2d7325e-4f58-5590-e053-2a95a90ace1b",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "TOBRADEX ST (TOBRAMYCIN / DEXAMETHASONE) SUSPENSION/ DROPS [EYEVANCE PHARMACEUTICALS, LLC]",
+      "upload_date": "2025-01-20"
+    },
+    {
+      "application_numbers": [
+        "NDA050065"
+      ],
+      "brand_names": [
+        "MAXITROL"
+      ],
+      "combination": true,
+      "home_inn": "dexamethasone",
+      "ingredients": [
+        "DEXAMETHASONE",
+        "NEOMYCIN SULFATE",
+        "POLYMYXIN B SULFATE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1972-01-17",
+      "moieties": [
+        "DEXAMETHASONE",
+        "NEOMYCIN",
+        "POLYMYXIN B"
+      ],
+      "product_ndcs": [
+        "66758-070"
+      ],
+      "rxcui": [
+        "208601",
+        "309679"
+      ],
+      "setid": "5776c435-ac60-49b6-8db1-23a3012b9155",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "MAXITROL (NEOMYCIN SULFATE, POLYMYXIN B SULFATE AND DEXAMETHASONE) OINTMENT [SANDOZ INC]",
+      "upload_date": "2025-08-11"
+    },
+    {
+      "application_numbers": [
+        "NDA050818"
+      ],
+      "brand_names": [
+        "Tobradex ST"
+      ],
+      "combination": true,
+      "home_inn": "dexamethasone",
+      "ingredients": [
+        "DEXAMETHASONE",
+        "TOBRAMYCIN"
+      ],
+      "labeler": "Harrow Eye, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-03-31",
+      "moieties": [
+        "DEXAMETHASONE",
+        "TOBRAMYCIN"
+      ],
+      "product_ndcs": [
+        "82667-011"
+      ],
+      "rxcui": [
+        "849115",
+        "1011080"
+      ],
+      "setid": "3b99dbb3-ac84-4d0d-b30f-a5db44fdc316",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "TOBRADEX ST (TOBRAMYCIN / DEXAMETHASONE) SUSPENSION/ DROPS [HARROW EYE, LLC]",
+      "upload_date": "2025-04-03"
+    },
+    {
+      "application_numbers": [
+        "ANDA084612",
+        "ANDA088248",
+        "ANDA088252"
+      ],
+      "brand_names": [
+        "Dexamethasone",
+        "Dexamethasone Intensol"
+      ],
+      "combination": false,
+      "home_inn": "dexamethasone",
+      "ingredients": [
+        "DEXAMETHASONE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1975-05-19",
+      "moieties": [
+        "DEXAMETHASONE"
+      ],
+      "product_ndcs": [
+        "0054-3176",
+        "0054-3177",
+        "0054-4179",
+        "0054-4180",
+        "0054-4181",
+        "0054-4182",
+        "0054-4183",
+        "0054-4184",
+        "0054-4186",
+        "0054-8174",
+        "0054-8175",
+        "0054-8176",
+        "0054-8179",
+        "0054-8180",
+        "0054-8181",
+        "0054-8183"
+      ],
+      "rxcui": [
+        "197577",
+        "197579",
+        "197580",
+        "197581",
+        "197582",
+        "197583",
+        "309684",
+        "309686",
+        "343033"
+      ],
+      "setid": "b15200fb-1826-472b-a907-e677a272513b",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "DEXAMETHASONE TABLET DEXAMETHASONE INTENSOL SOLUTION, CONCENTRATE DEXAMETHASONE SOLUTION [HIKMA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA084282",
+        "ANDA087702"
+      ],
+      "brand_names": [
+        "Dexamethasone Sodium Phosphate"
+      ],
+      "combination": false,
+      "home_inn": "dexamethasone",
+      "ingredients": [
+        "DEXAMETHASONE SODIUM PHOSPHATE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1975-07-15",
+      "moieties": [
+        "DEXAMETHASONE"
+      ],
+      "product_ndcs": [
+        "0641-0367",
+        "0641-6145",
+        "0641-6146"
+      ],
+      "rxcui": [
+        "309696",
+        "1116927",
+        "1812194"
+      ],
+      "setid": "0277cc0a-2fd4-4605-a310-b613be84ee26",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "DEXAMETHASONE SODIUM PHOSPHATE INJECTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2026-01-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA084754"
+      ],
+      "brand_names": [
+        "Dexamethasone"
+      ],
+      "combination": false,
+      "home_inn": "dexamethasone",
+      "ingredients": [
+        "DEXAMETHASONE"
+      ],
+      "labeler": "Kesin Pharma Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1976-09-21",
+      "moieties": [
+        "DEXAMETHASONE"
+      ],
+      "product_ndcs": [
+        "81033-010"
+      ],
+      "rxcui": [
+        "309686"
+      ],
+      "setid": "43e2a24a-4465-5787-e063-6394a90a0b81",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "DEXAMETHASONE ELIXIR [KESIN PHARMA CORPORATION]",
+      "upload_date": "2025-11-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA040069"
+      ],
+      "brand_names": [
+        "Dexamethasone Sodium Phosphate"
+      ],
+      "combination": false,
+      "home_inn": "dexamethasone",
+      "ingredients": [
+        "DEXAMETHASONE SODIUM PHOSPHATE"
+      ],
+      "labeler": "Bausch & Lomb Incorporated",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1996-07-26",
+      "moieties": [
+        "DEXAMETHASONE"
+      ],
+      "product_ndcs": [
+        "24208-720"
+      ],
+      "rxcui": [
+        "226343"
+      ],
+      "setid": "6bdcefbe-51e3-4ca4-afda-5aeca7b6fa73",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "DEXAMETHASONE SODIUM PHOSPHATE SOLUTION/ DROPS [BAUSCH & LOMB INCORPORATED]",
+      "upload_date": "2022-10-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA084916"
+      ],
+      "brand_names": [
+        "Dexamethasone Sodium Phosphate"
+      ],
+      "combination": false,
+      "home_inn": "dexamethasone",
+      "ingredients": [
+        "DEXAMETHASONE SODIUM PHOSPHATE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2000-09-07",
+      "moieties": [
+        "DEXAMETHASONE"
+      ],
+      "product_ndcs": [
+        "63323-165"
+      ],
+      "rxcui": [
+        "1116927",
+        "1812194"
+      ],
+      "setid": "2b626a48-c7aa-4443-9164-a08ff069ccd1",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "DEXAMETHASONE SODIUM PHOSPHATE INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2026-06-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA040491"
+      ],
+      "brand_names": [
+        "Dexamethasone Sodium Phosphate"
+      ],
+      "combination": false,
+      "home_inn": "dexamethasone",
+      "ingredients": [
+        "DEXAMETHASONE SODIUM PHOSPHATE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2003-05-29",
+      "moieties": [
+        "DEXAMETHASONE"
+      ],
+      "product_ndcs": [
+        "63323-506"
+      ],
+      "rxcui": [
+        "1812079"
+      ],
+      "setid": "7cbd9005-7df2-47ee-adb3-7244c1c69bc3",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "DEXAMETHASONE SODIUM PHOSPHATE INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2026-08-03"
+    },
+    {
+      "application_numbers": [
+        "NDA011664"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "DECADRON"
+      ],
+      "first_posted": "2007-01-26",
+      "found_by": "DECADRON",
+      "labeler": "Merck Sharp & Dohme Corp.",
+      "labeler_unverified": false,
+      "last_posted": "2019-05-20",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2007-11-30"
+      ],
+      "product_ndcs": [
+        "0006-0041",
+        "0006-0063"
+      ],
+      "rxcui": [],
+      "setid": "1495284d-750f-437e-8525-6834cccb78eb",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "DECADRON (dexamethasone) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA050023"
+      ],
+      "archived_versions": 10,
+      "brand_names": [
+        "MAXITROL"
+      ],
+      "first_posted": "2008-06-17",
+      "found_by": "MAXITROL",
+      "labeler": "Alcon Laboratories, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2024-05-06",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-07-31"
+      ],
+      "product_ndcs": [
+        "0998-0630"
+      ],
+      "rxcui": [],
+      "setid": "277ff310-b7dc-43b6-8a16-885b58882bc0",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "ecfb954f-5554-0ad2-e053-2995a90a7516"
+      ],
+      "title": "MAXITROL (neomycin sulfate, polymyxin b sulfate and dexamethasone) suspension"
+    },
+    {
+      "application_numbers": [
+        "NDA050616"
+      ],
+      "archived_versions": 11,
+      "brand_names": [
+        "TOBRADEX"
+      ],
+      "first_posted": "2008-03-13",
+      "found_by": "TOBRADEX",
+      "labeler": "Alcon Laboratories, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2021-10-04",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-06-30"
+      ],
+      "product_ndcs": [
+        "0065-0648"
+      ],
+      "rxcui": [],
+      "setid": "5538d748-215c-4e3e-b940-ac9baf07d8a1",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "7f310e0e-0d3b-493d-b6c4-238493a2a9b9"
+      ],
+      "title": "TOBRADEX (tobramycin and dexamethasone) ointment"
+    },
+    {
+      "application_numbers": [
+        "NDA208912"
+      ],
+      "archived_versions": 10,
+      "brand_names": [
+        "DEXYCU"
+      ],
+      "first_posted": "2018-05-22",
+      "found_by": "DEXYCU",
+      "labeler": "EyePoint US, Inc",
+      "labeler_unverified": true,
+      "last_posted": "2026-10-16",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-07-31"
+      ],
+      "product_ndcs": [
+        "71879-001"
+      ],
+      "rxcui": [],
+      "setid": "583d70ed-bc42-465b-983d-c770db58406f",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "DEXYCU (dexamethasone) injection, suspension"
+    },
+    {
+      "application_numbers": [
+        "NDA013422"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "MAXIDEX"
+      ],
+      "first_posted": "2022-07-06",
+      "found_by": "MAXIDEX",
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2025-05-05",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-09-30"
+      ],
+      "product_ndcs": [
+        "0078-0925"
+      ],
+      "rxcui": [],
+      "setid": "603f0bac-16b8-42f5-985e-fb0d73ee284d",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "35e47fcd-e020-43e5-8322-41f8060d220d"
+      ],
+      "title": "MAXIDEX (dexamethasone) suspension/ drops"
+    },
+    {
+      "application_numbers": [
+        "NDA208912"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "DEXYCU"
+      ],
+      "first_posted": "2018-10-11",
+      "found_by": "DEXYCU",
+      "labeler": "Icon Bioscience, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2018-11-06",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-10-01"
+      ],
+      "product_ndcs": [
+        "71997-100"
+      ],
+      "rxcui": [],
+      "setid": "8a34a277-51d0-480f-9ad0-25067b64654a",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "DEXYCU (dexamethasone) injection, suspension"
+    },
+    {
+      "application_numbers": [
+        "NDA014694"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "HEXADROL"
+      ],
+      "first_posted": "2014-07-21",
+      "found_by": "HEXADROL",
+      "labeler": "Organon USA Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2014-07-21",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "1998-12-31"
+      ],
+      "product_ndcs": [
+        "0052-0796",
+        "0052-0797"
+      ],
+      "rxcui": [],
+      "setid": "a1b3d8ab-bf0f-4049-8b74-abbe84d734c7",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "HEXADROL PHOSPHATE (dexamethasone sodium phosphate) injection, solution"
+    },
+    {
+      "application_numbers": [
+        "NDA211379"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "HEMADY"
+      ],
+      "first_posted": "2020-06-11",
+      "found_by": "HEMADY",
+      "labeler": "Acrotech Biopharma Inc",
+      "labeler_unverified": false,
+      "last_posted": "2024-08-26",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2026-02-28"
+      ],
+      "product_ndcs": [
+        "72893-015"
+      ],
+      "rxcui": [],
+      "setid": "aec60743-f925-4d91-a865-064696a9f9e6",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "6b9cf32c-6d60-4853-bbfd-2304ffc2c129"
+      ],
+      "title": "HEMADY (dexamethasone) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA050065"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "MAXITROL"
+      ],
+      "first_posted": "2008-03-13",
+      "found_by": "MAXITROL",
+      "labeler": "Alcon Laboratories, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2020-10-29",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-05-31"
+      ],
+      "product_ndcs": [
+        "0065-0631"
+      ],
+      "rxcui": [],
+      "setid": "d17cecdb-c7cb-41cc-a11e-00c6ed0dcc11",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "22c6d2db-85af-4a3b-a014-80d901a86717",
+        "5776c435-ac60-49b6-8db1-23a3012b9155"
+      ],
+      "title": "MAXITROL (neomycin sulfate, polymyxin b sulfate and dexamethasone) ointment"
+    },
+    {
+      "application_numbers": [
+        "NDA050818"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "TOBRADEX"
+      ],
+      "first_posted": "2010-09-09",
+      "found_by": "TOBRADEX",
+      "labeler": "Alcon Laboratories, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2020-12-04",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-06-30"
+      ],
+      "product_ndcs": [
+        "0065-0652"
+      ],
+      "rxcui": [],
+      "setid": "d1d48422-8cfc-4e9e-a7f8-56c274d8eb83",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "3b99dbb3-ac84-4d0d-b30f-a5db44fdc316",
+        "c2d7325e-4f58-5590-e053-2a95a90ace1b"
+      ],
+      "title": "TOBRADEX ST (tobramycin / dexamethasone) suspension/ drops"
+    },
+    {
+      "application_numbers": [
+        "NDA211379"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "HEMADY"
+      ],
+      "first_posted": "2020-03-31",
+      "found_by": "HEMADY",
+      "labeler": "Dexcel Pharma Technologies Ltd.",
+      "labeler_unverified": true,
+      "last_posted": "2020-04-27",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2020-03-31"
+      ],
+      "product_ndcs": [
+        "64239-300"
+      ],
+      "rxcui": [],
+      "setid": "d5ffde70-e362-4b28-b8b3-fb6a4a635396",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "6b9cf32c-6d60-4853-bbfd-2304ffc2c129"
+      ],
+      "title": "HEMADY (dexamethasone) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA013422"
+      ],
+      "archived_versions": 12,
+      "brand_names": [
+        "MAXIDEX"
+      ],
+      "first_posted": "2008-11-26",
+      "found_by": "MAXIDEX",
+      "labeler": "Alcon Laboratories, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2023-02-02",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-08-31"
+      ],
+      "product_ndcs": [
+        "0998-0615"
+      ],
+      "rxcui": [],
+      "setid": "ecd69437-dd1a-453b-991d-5c5f277a3abd",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "35e47fcd-e020-43e5-8322-41f8060d220d"
+      ],
+      "title": "MAXIDEX (dexamethasone) suspension"
+    },
+    {
+      "application_numbers": [
+        "NDA050023"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "MAXITROL"
+      ],
+      "first_posted": "2022-11-30",
+      "found_by": "MAXITROL",
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2023-11-23",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-10-31"
+      ],
+      "product_ndcs": [
+        "0078-0792"
+      ],
+      "rxcui": [],
+      "setid": "ed267dad-a3d5-f4e9-e053-2a95a90a6143",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "ecfb954f-5554-0ad2-e053-2995a90a7516"
+      ],
+      "title": "MAXITROL (neomycin sulfate, polymyxin b sulfate and dexamethasone) suspension"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "TOBRADEX"
+      ],
+      "first_posted": "2007-12-12",
+      "found_by": "TOBRADEX",
+      "labeler": "Alcon",
+      "labeler_unverified": false,
+      "last_posted": "2007-12-12",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0065-0647"
+      ],
+      "rxcui": [],
+      "setid": "l22b59456-d26a-4f23-b052-3d73e00181eb",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "tobradex (tobramycin and dexamethasone) suspension"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "TOBRADEX"
+      ],
+      "first_posted": "2007-02-16",
+      "found_by": "TOBRADEX",
+      "labeler": "Alcon",
+      "labeler_unverified": false,
+      "last_posted": "2007-02-16",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0065-0648"
+      ],
+      "rxcui": [],
+      "setid": "l5538d748-215c-4e3e-b940-ac9baf07d8a1",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "tobradex (tobramycin and dexamethasone) ointment"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "MAXIDEX"
+      ],
+      "first_posted": "2007-01-19",
+      "found_by": "MAXIDEX",
+      "labeler": "Alcon",
+      "labeler_unverified": false,
+      "last_posted": "2007-01-19",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0065-0616"
+      ],
+      "rxcui": [],
+      "setid": "l863fb43c-dd33-485b-9385-744db7a98b83",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "maxidex (dexamethasone sodium phosphate) ointment"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "MAXIDEX"
+      ],
+      "first_posted": "2006-09-01",
+      "found_by": "MAXIDEX",
+      "labeler": "ALCON LABORATORIES, INC.",
+      "labeler_unverified": false,
+      "last_posted": "2006-09-01",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0998-0615"
+      ],
+      "rxcui": [],
+      "setid": "la0aa9dc9-265c-4dd6-9b03-276a47217839",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "maxidex (dexamethasone) suspension / drops"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "MAXITROL"
+      ],
+      "first_posted": "2006-12-01",
+      "found_by": "MAXITROL",
+      "labeler": "ALCON LABORATORIES, INC.",
+      "labeler_unverified": false,
+      "last_posted": "2006-12-01",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0998-0630"
+      ],
+      "rxcui": [],
+      "setid": "lba8392bf-f59e-4b4f-962c-d3f717fbc064",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "maxitrol (neomycin sulfate, polymyxin B sulfate and dexamethasone) suspension"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "MAXITROL"
+      ],
+      "first_posted": "2006-11-22",
+      "found_by": "MAXITROL",
+      "labeler": "ALCON LABORATORIES, INC.",
+      "labeler_unverified": false,
+      "last_posted": "2006-11-22",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0065-0631"
+      ],
+      "rxcui": [],
+      "setid": "ld17cecdb-c7cb-41cc-a11e-00c6ed0dcc11",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "maxitrol (neomycin sulfate, polymyxin B sulfate and dexamethasone) ointment"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3746066a-3c87-4238-945a-6dfb4d01a072"
+    },
+    {
+      "combination": false,
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dff598e8-e662-411f-978d-4ba3fb8ef7db"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7cf5c17c-a80b-4547-83b2-0d53e2b933f7"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "88d25d19-acff-477b-86c8-9797782045b8"
+    },
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ce7ad5a4-a9c5-42d6-87cc-ca16556208d2"
+    },
+    {
+      "combination": false,
+      "labeler": "Larken Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7b997c26-e6a3-403c-93fb-b1290cf5dbad"
+    },
+    {
+      "combination": false,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "799028e2-c0e4-494f-89ff-1b786babc34a"
+    },
+    {
+      "combination": false,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2dcbf312-6f4b-439a-8e2f-dda61eeb2cab"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4dd55929-fe0a-4884-ae0d-6f9435920eb7"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ba18ba23-9ea3-4ce1-84ae-74e9151bb6a4"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ddc82c42-2e6e-42a6-a30a-e41978e2f4da"
+    },
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "224c34c9-cadc-40cb-a9b7-a9772fd0208e"
+    },
+    {
+      "combination": false,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5a1b0266-90c8-4176-a6b0-c4204d3c604e"
+    },
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "29947f67-7868-40af-8ad2-a61f7149b44c"
+    },
+    {
+      "combination": false,
+      "labeler": "Alvogen Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9ab26af9-8196-e3d3-76a3-75227fd4e1c3"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c9d9ab76-6bc6-433d-aad7-8d49064ed745"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ac71f888-c83a-46a5-921c-1ebdf6cfadc1"
+    },
+    {
+      "combination": false,
+      "labeler": "Prasco Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bfce6b49-f7ff-4ec7-9580-b730f0a207d7"
+    },
+    {
+      "combination": false,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fe8cf911-84ef-47be-acb8-0501b546299b"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b9eb9a30-c1da-4d38-8ea8-616a254e2afc"
+    },
+    {
+      "combination": false,
+      "labeler": "Bionpharma Inc.,",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3166db4f-66a5-496a-a194-3cc01b7347d3"
+    },
+    {
+      "combination": false,
+      "labeler": "Bionpharma Inc.,",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "401ec088-984a-49ab-b317-747c2b9b9e22"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bfaa71cb-e517-8d94-f64b-8cdbf7b8fbf2"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1e84a609-22a0-41b9-83a0-c45019c8cf9a"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "522a1a49-5540-4245-a15f-e3cdc0a97a5e"
+    },
+    {
+      "combination": false,
+      "labeler": "Viona Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "360d3af0-8f69-4e82-ab5f-1f70cc2025d4"
+    },
+    {
+      "combination": false,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c6f2563b-5a39-48bf-bcfe-71dd417bd970"
+    },
+    {
+      "combination": false,
+      "labeler": "Advagen Pharma Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3c1729db-8ba3-4cba-9eff-ab4ae2c061c2"
+    },
+    {
+      "combination": false,
+      "labeler": "Pangea Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "37607468-0331-44c0-9bb4-5c614c7b69d4"
+    },
+    {
+      "combination": true,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7f2e3c46-9f39-45e7-99a9-64cc4f6f649d"
+    },
+    {
+      "combination": true,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "05fd0c36-39b4-4a43-8490-eb8dfc0920ae"
+    },
+    {
+      "combination": true,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "89fef4d2-7078-47f1-96bf-aca50b135a97"
+    },
+    {
+      "combination": true,
+      "labeler": "Nordic Pharma, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "191c1a56-194f-4876-b501-2f8aee447d83"
+    },
+    {
+      "combination": true,
+      "labeler": "Bausch & Lomb Incorporated",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4456d10b-9995-4430-b692-a8859ea36deb"
+    },
+    {
+      "combination": true,
+      "labeler": "Bausch & Lomb Incorporated",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d6d78668-a978-4cd3-bbcd-1293b5044ec9"
+    },
+    {
+      "combination": true,
+      "labeler": "Sandoz Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cf1a6da8-ba79-4bff-a13b-6effb67f6c1c"
+    },
+    {
+      "combination": true,
+      "labeler": "Bausch & Lomb Incorporated",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "33de419e-a89b-47e5-952b-87e837f5d531"
+    },
+    {
+      "combination": true,
+      "labeler": "Dr. Reddy's Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f07cf7d6-c233-884e-342d-c6c8cd2c8438"
+    },
+    {
+      "combination": true,
+      "labeler": "Padagis US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7e34b1a9-8d21-41db-9070-37227975414f"
+    },
+    {
+      "combination": true,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "641bad60-9b9e-43ea-936e-5c38f27835b2"
+    },
+    {
+      "combination": true,
+      "labeler": "ARMAS PHARMACEUTICALS INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "eed6b293-6bbe-4bd3-ad9d-3849e0eb6c05"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "55426495-5fd1-44ca-afcc-ffbbb0a0a569"
+    },
+    {
+      "combination": true,
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9c5994d1-01d1-493c-a6ae-94754cd59389"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5f69b7b6-6fb8-417a-bc0e-995419b952b7"
+    },
+    {
+      "combination": false,
+      "labeler": "Marlex Pharmaceuticals, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7b51ffce-ec64-4b49-8870-b9666537c541"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4fedef4f-ec96-4f36-b2f0-01e243e3b89e"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cca2c160-9188-48e8-9505-49a52388dcb7"
+    },
+    {
+      "combination": false,
+      "labeler": "Larken Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fcc75691-974e-4a67-b9d7-64dde72b5595"
+    },
+    {
+      "combination": false,
+      "labeler": "Civica, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d54a27f2-2af8-4f86-a7fd-453f6b1a9997"
+    },
+    {
+      "combination": false,
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "836f8017-d023-410b-8515-ec776e73ca59"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ce25183b-cd67-4997-8de9-df59b750883b"
+    },
+    {
+      "combination": false,
+      "labeler": "Phlow Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "02d25ab8-8f51-452b-b944-f569fbae36fe"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "05c77a4c-c508-babd-e063-6294a90a450a"
+    },
+    {
+      "combination": false,
+      "labeler": "Viona Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "86afd383-7d6b-48f0-a803-9446fa1ded10"
+    },
+    {
+      "combination": false,
+      "labeler": "Viona Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "93bb34a7-c8ca-4dab-b2a0-cbe011e1090c"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e9012a11-6219-4272-aea2-b7328bbcf523"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4680d517-ed5a-4137-819c-122ee962a464"
+    },
+    {
+      "combination": false,
+      "labeler": "Armas Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0ce0211c-86fa-4056-b161-0950639df6d8"
+    },
+    {
+      "combination": false,
+      "labeler": "Kanchan Healthcare Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "02f7bf9c-1aa3-4734-8a3e-1f49498055d7"
+    },
+    {
+      "combination": false,
+      "labeler": "PD-Rx Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a8d6792e-757e-4dc6-adf5-0d9211075428"
+    },
+    {
+      "combination": false,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5d9b22ca-c619-4ee3-98eb-74544d0d5cb3"
+    },
+    {
+      "combination": false,
+      "labeler": "Pangea Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a41e6e26-9ebb-4b06-866e-a24af21c644c"
+    },
+    {
+      "combination": true,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "130deaf4-ced5-abcb-2a01-205c640ddf96"
+    },
+    {
+      "combination": true,
+      "labeler": "Sentiss Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "355fa56f-d7a8-444e-9dec-8ba1fa4ab0d8"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "79344381-dcfe-41bd-a997-5c303c81d4e1"
+    }
+  ]
+}

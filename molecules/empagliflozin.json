@@ -1,0 +1,420 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand JARDIANCE",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/002677",
+      "eu_number": "EU/1/14/930",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-002677",
+      "mah": "Boehringer Ingelheim International GmbH",
+      "marketing_authorisation_date": "2014-05-22",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/jardiance",
+      "name": "Jardiance",
+      "record_from": "2014-05-22",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 19
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 2,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-002677",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "EMPAGLIFLOZIN"
+  ],
+  "inn": "empagliflozin",
+  "name": "EMPAGLIFLOZIN",
+  "rank": 140,
+  "rxcui": [
+    "1545658",
+    "1545664",
+    "1545666",
+    "1545668",
+    "1602109",
+    "1602115",
+    "1602118",
+    "1602120",
+    "1664315",
+    "1664321",
+    "1664323",
+    "1664325",
+    "1664326",
+    "1664328",
+    "1665367",
+    "1665369",
+    "1862685",
+    "1862688",
+    "1862691",
+    "1862692",
+    "1862695",
+    "1862697",
+    "1862700",
+    "1862701",
+    "2359279",
+    "2359285",
+    "2359288",
+    "2359290",
+    "2359351",
+    "2359353",
+    "2359356",
+    "2359358"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 5,
+    "approval_holders": 1,
+    "earliest_marketing_start": "2014-08-01",
+    "latest_label_update": "2026-08-27",
+    "nda_bla_applications": 5,
+    "repackagers": 4
+  },
+  "unii": [
+    {
+      "ingredient": "EMPAGLIFLOZIN",
+      "unii": "HDC1R2M35U"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA204629"
+      ],
+      "brand_names": [
+        "Jardiance"
+      ],
+      "combination": false,
+      "home_inn": "empagliflozin",
+      "ingredients": [
+        "EMPAGLIFLOZIN"
+      ],
+      "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2014-08-01",
+      "moieties": [
+        "EMPAGLIFLOZIN"
+      ],
+      "product_ndcs": [
+        "0597-0152",
+        "0597-0153"
+      ],
+      "rxcui": [
+        "1545658",
+        "1545664",
+        "1545666",
+        "1545668"
+      ],
+      "setid": "faf3dd6a-9cd0-39c2-0d2e-232cb3f67565",
+      "source": "openfda",
+      "spl_version": 31,
+      "title": "JARDIANCE (EMPAGLIFLOZIN) TABLET, FILM COATED [BOEHRINGER INGELHEIM PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-02-02"
+    },
+    {
+      "application_numbers": [
+        "NDA206073"
+      ],
+      "brand_names": [
+        "Glyxambi"
+      ],
+      "combination": true,
+      "home_inn": "empagliflozin",
+      "ingredients": [
+        "EMPAGLIFLOZIN",
+        "LINAGLIPTIN"
+      ],
+      "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-01-30",
+      "moieties": [
+        "EMPAGLIFLOZIN",
+        "LINAGLIPTIN"
+      ],
+      "product_ndcs": [
+        "0597-0164",
+        "0597-0182"
+      ],
+      "rxcui": [
+        "1602109",
+        "1602115",
+        "1602118",
+        "1602120"
+      ],
+      "setid": "ddbab689-f76c-488c-9613-4168d41dd730",
+      "source": "openfda",
+      "spl_version": 23,
+      "title": "GLYXAMBI (EMPAGLIFLOZIN AND LINAGLIPTIN) TABLET, FILM COATED [BOEHRINGER INGELHEIM PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-02-02"
+    },
+    {
+      "application_numbers": [
+        "NDA206111"
+      ],
+      "brand_names": [
+        "Synjardy"
+      ],
+      "combination": true,
+      "home_inn": "metformin",
+      "ingredients": [
+        "EMPAGLIFLOZIN",
+        "METFORMIN HYDROCHLORIDE"
+      ],
+      "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-08-26",
+      "moieties": [
+        "EMPAGLIFLOZIN",
+        "METFORMIN"
+      ],
+      "product_ndcs": [
+        "0597-0159",
+        "0597-0168",
+        "0597-0175",
+        "0597-0180"
+      ],
+      "rxcui": [
+        "1664315",
+        "1664321",
+        "1664323",
+        "1664325",
+        "1664326",
+        "1664328",
+        "1665367",
+        "1665369"
+      ],
+      "setid": "0fdd0255-0055-65f3-b2c0-db8fbb87beae",
+      "source": "openfda",
+      "spl_version": 23,
+      "title": "SYNJARDY (EMPAGLIFLOZIN AND METFORMIN HYDROCHLORIDE) TABLET [BOEHRINGER INGELHEIM PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-08-27"
+    },
+    {
+      "application_numbers": [
+        "NDA208658"
+      ],
+      "brand_names": [
+        "Synjardy XR"
+      ],
+      "combination": true,
+      "home_inn": "empagliflozin",
+      "ingredients": [
+        "EMPAGLIFLOZIN",
+        "METFORMIN HYDROCHLORIDE"
+      ],
+      "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2016-12-10",
+      "moieties": [
+        "EMPAGLIFLOZIN",
+        "METFORMIN"
+      ],
+      "product_ndcs": [
+        "0597-0280",
+        "0597-0290",
+        "0597-0295",
+        "0597-0300"
+      ],
+      "rxcui": [
+        "1862685",
+        "1862688",
+        "1862691",
+        "1862692",
+        "1862695",
+        "1862697",
+        "1862700",
+        "1862701"
+      ],
+      "setid": "8006ba29-ee3a-f852-a9bb-c8ec9b41cf66",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "SYNJARDY XR (EMPAGLIFLOZIN, METFORMIN HYDROCHLORIDE) TABLET, EXTENDED RELEASE [BOEHRINGER INGELHEIM PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-08-21"
+    },
+    {
+      "application_numbers": [
+        "NDA212614"
+      ],
+      "brand_names": [
+        "Trijardy XR"
+      ],
+      "combination": true,
+      "home_inn": "empagliflozin",
+      "ingredients": [
+        "EMPAGLIFLOZIN",
+        "LINAGLIPTIN",
+        "METFORMIN HYDROCHLORIDE"
+      ],
+      "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2020-04-23",
+      "moieties": [
+        "EMPAGLIFLOZIN",
+        "LINAGLIPTIN",
+        "METFORMIN"
+      ],
+      "product_ndcs": [
+        "0597-0380",
+        "0597-0385",
+        "0597-0390",
+        "0597-0395"
+      ],
+      "rxcui": [
+        "2359279",
+        "2359285",
+        "2359288",
+        "2359290",
+        "2359351",
+        "2359353",
+        "2359356",
+        "2359358"
+      ],
+      "setid": "71873567-9594-452a-bb92-34a129adecac",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "TRIJARDY XR (EMPAGLIFLOZIN, LINAGLIPTIN, METFORMIN HYDROCHLORIDE) TABLET, EXTENDED RELEASE [BOEHRINGER INGELHEIM PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-08-25"
+    },
+    {
+      "application_numbers": [
+        "NDA204629"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "JARDIANCE"
+      ],
+      "first_posted": "2024-07-09",
+      "found_by": "JARDIANCE",
+      "labeler": "Praxis, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2024-07-09",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "59368-032",
+        "59368-033"
+      ],
+      "rxcui": [],
+      "setid": "1cc1079f-ef5e-1ba8-e063-6394a90a8e24",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "faf3dd6a-9cd0-39c2-0d2e-232cb3f67565"
+      ],
+      "title": "JARDIANCE (empagliflozin) tablet, film coated"
+    },
+    {
+      "application_numbers": [
+        "NDA206073"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "GLYXAMBI"
+      ],
+      "first_posted": "2025-06-09",
+      "found_by": "GLYXAMBI",
+      "labeler": "Praxis, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2025-06-09",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "59368-378"
+      ],
+      "rxcui": [],
+      "setid": "36d5d11a-69bb-c05b-e063-6394a90ac06e",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "ddbab689-f76c-488c-9613-4168d41dd730"
+      ],
+      "title": "GLYXAMBI (empagliflozin and linagliptin) tablet, film coated"
+    },
+    {
+      "application_numbers": [
+        "NDA204629"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "JARDIANCE"
+      ],
+      "first_posted": "2025-06-09",
+      "found_by": "JARDIANCE",
+      "labeler": "Praxis, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2025-06-09",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "59368-379",
+        "59368-380"
+      ],
+      "rxcui": [],
+      "setid": "36d60609-d941-5fd0-e063-6294a90afc01",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "faf3dd6a-9cd0-39c2-0d2e-232cb3f67565"
+      ],
+      "title": "JARDIANCE (empagliflozin) tablet, film coated"
+    },
+    {
+      "application_numbers": [
+        "NDA212614"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "TRIJARDY"
+      ],
+      "first_posted": "2025-06-09",
+      "found_by": "TRIJARDY",
+      "labeler": "Praxis, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2025-06-09",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "59368-389",
+        "59368-390"
+      ],
+      "rxcui": [],
+      "setid": "36d750ca-0eb4-e88c-e063-6294a90a76f6",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "71873567-9594-452a-bb92-34a129adecac"
+      ],
+      "title": "TRIJARDY XR (empagliflozin, linagliptin, metformin hydrochloride) tablet, extended release"
+    }
+  ],
+  "us_excluded": []
+}

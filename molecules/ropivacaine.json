@@ -1,0 +1,787 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "ROPIVACAINE HYDROCHLORIDE"
+  ],
+  "inn": "ropivacaine",
+  "name": "ROPIVACAINE",
+  "rank": 377,
+  "rxcui": [
+    "905189",
+    "905191",
+    "1734084",
+    "1734086",
+    "1734090",
+    "1734091",
+    "1734203",
+    "1734204",
+    "1734207",
+    "1734208",
+    "1734347",
+    "1734348",
+    "1734355",
+    "1734356",
+    "1734475",
+    "1734476",
+    "1734479",
+    "1734480",
+    "1734481",
+    "1734482",
+    "1734483",
+    "1734484"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 24,
+    "approval_holders": 16,
+    "earliest_marketing_start": "1996-09-24",
+    "latest_label_update": "2026-07-30",
+    "nda_bla_applications": 1,
+    "repackagers": 3
+  },
+  "unii": [
+    {
+      "ingredient": "ROPIVACAINE HYDROCHLORIDE",
+      "unii": "V910P86109"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020533"
+      ],
+      "brand_names": [
+        "Naropin"
+      ],
+      "combination": false,
+      "home_inn": "ropivacaine",
+      "ingredients": [
+        "ROPIVACAINE HYDROCHLORIDE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1996-09-24",
+      "moieties": [
+        "ROPIVACAINE"
+      ],
+      "product_ndcs": [
+        "63323-285",
+        "63323-286",
+        "63323-287",
+        "63323-288"
+      ],
+      "rxcui": [
+        "905189",
+        "905191",
+        "1734084",
+        "1734086",
+        "1734090",
+        "1734091",
+        "1734203",
+        "1734204",
+        "1734207",
+        "1734208",
+        "1734347",
+        "1734348",
+        "1734355",
+        "1734356",
+        "1734475",
+        "1734476",
+        "1734479",
+        "1734480",
+        "1734481",
+        "1734482",
+        "1734483",
+        "1734484"
+      ],
+      "setid": "23d2d448-a744-4877-9f2d-7e57c198da89",
+      "source": "openfda",
+      "spl_version": 27,
+      "title": "NAROPIN (ROPIVACAINE HYDROCHLORIDE) INJECTION, SOLUTION [FRESENIUS KABI USA, LLC",
+      "upload_date": "2024-08-14"
+    },
+    {
+      "application_numbers": [
+        "NDA020533"
+      ],
+      "brand_names": [
+        "Naropin"
+      ],
+      "combination": false,
+      "home_inn": "ropivacaine",
+      "ingredients": [
+        "ROPIVACAINE HYDROCHLORIDE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1996-09-24",
+      "moieties": [
+        "ROPIVACAINE"
+      ],
+      "product_ndcs": [
+        "63323-288"
+      ],
+      "rxcui": [
+        "1734084",
+        "1734086",
+        "1734090",
+        "1734091"
+      ],
+      "setid": "56dfabf7-f7a8-4601-b17a-cb16fb995b0f",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "NAROPIN (ROPIVACAINE HYDROCHLORIDE) INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2024-05-24"
+    },
+    {
+      "application_numbers": [
+        "NDA020533"
+      ],
+      "brand_names": [
+        "Naropin"
+      ],
+      "combination": false,
+      "home_inn": "ropivacaine",
+      "ingredients": [
+        "ROPIVACAINE HYDROCHLORIDE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1996-09-24",
+      "moieties": [
+        "ROPIVACAINE"
+      ],
+      "product_ndcs": [
+        "63323-286"
+      ],
+      "rxcui": [
+        "1734475",
+        "1734476",
+        "1734479",
+        "1734480",
+        "1734481",
+        "1734482",
+        "1734483",
+        "1734484"
+      ],
+      "setid": "cb6583ff-cde4-4280-aa5b-0bea2b844792",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "NAROPIN (ROPIVACAINE HYDROCHLORIDE) INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2026-07-30"
+    },
+    {
+      "application_numbers": [
+        "NDA020533"
+      ],
+      "brand_names": [
+        "Naropin"
+      ],
+      "combination": false,
+      "home_inn": "ropivacaine",
+      "ingredients": [
+        "ROPIVACAINE HYDROCHLORIDE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2009-08-04",
+      "moieties": [
+        "ROPIVACAINE"
+      ],
+      "product_ndcs": [
+        "63323-285",
+        "63323-286",
+        "63323-288"
+      ],
+      "rxcui": [
+        "1734084",
+        "1734086",
+        "1734090",
+        "1734091",
+        "1734203",
+        "1734204",
+        "1734207",
+        "1734208",
+        "1734347",
+        "1734348",
+        "1734355",
+        "1734356",
+        "1734475",
+        "1734476",
+        "1734479",
+        "1734480",
+        "1734481",
+        "1734482",
+        "1734483",
+        "1734484"
+      ],
+      "setid": "c6613708-c1f7-4f5c-91a3-ebbc1d7905c6",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "NAROPIN (ROPIVACAINE HYDROCHLORIDE) INJECTION, SOLUTION [FRESENIUS KABI USA, LLC",
+      "upload_date": "2024-08-19"
+    },
+    {
+      "application_numbers": [
+        "NDA020533"
+      ],
+      "brand_names": [
+        "Naropin"
+      ],
+      "combination": false,
+      "home_inn": "ropivacaine",
+      "ingredients": [
+        "ROPIVACAINE HYDROCHLORIDE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2009-08-04",
+      "moieties": [
+        "ROPIVACAINE"
+      ],
+      "product_ndcs": [
+        "63323-285",
+        "63323-286"
+      ],
+      "rxcui": [
+        "1734203",
+        "1734204",
+        "1734207",
+        "1734208",
+        "1734347",
+        "1734348",
+        "1734355",
+        "1734356",
+        "1734475",
+        "1734476",
+        "1734479",
+        "1734480",
+        "1734481",
+        "1734482",
+        "1734483",
+        "1734484"
+      ],
+      "setid": "dff4a1e4-4b2a-4a64-b6d8-ea470dee88f7",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "NAROPIN (ROPIVACAINE HYDROCHLORIDE) INJECTION, SOLUTION [FRESENIUS KABI USA, LLC",
+      "upload_date": "2024-08-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA205612"
+      ],
+      "brand_names": [
+        "Ropivacaine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "ropivacaine",
+      "ingredients": [
+        "ROPIVACAINE HYDROCHLORIDE"
+      ],
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-09-15",
+      "moieties": [
+        "ROPIVACAINE"
+      ],
+      "product_ndcs": [
+        "55150-195",
+        "55150-196",
+        "55150-197",
+        "55150-198",
+        "55150-199",
+        "55150-200",
+        "55150-201"
+      ],
+      "rxcui": [
+        "905189",
+        "1734084",
+        "1734090",
+        "1734207",
+        "1734347",
+        "1734475",
+        "1734483"
+      ],
+      "setid": "3763b7b6-da49-4658-b93d-28f5da24d09e",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "ROPIVACAINE HYDROCHLORIDE INJECTION, SOLUTION [EUGIA US LLC]",
+      "upload_date": "2026-04-22"
+    },
+    {
+      "application_numbers": [
+        "ANDA207636"
+      ],
+      "brand_names": [
+        "Ropivacaine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "ropivacaine",
+      "ingredients": [
+        "ROPIVACAINE HYDROCHLORIDE"
+      ],
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-06-15",
+      "moieties": [
+        "ROPIVACAINE"
+      ],
+      "product_ndcs": [
+        "70069-061",
+        "70069-062",
+        "70069-063",
+        "70069-064",
+        "70069-065",
+        "70069-066",
+        "70069-067"
+      ],
+      "rxcui": [
+        "905189",
+        "1734084",
+        "1734090",
+        "1734203",
+        "1734207",
+        "1734475",
+        "1734483"
+      ],
+      "setid": "ffeadbbf-4ca6-4ed8-94c1-6e0adf7fbe64",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "ROPIVACAINE HYDROCHLORIDE INJECTION [SOMERSET THERAPEUTICS, LLC]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA206166"
+      ],
+      "brand_names": [
+        "ropivacaine hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "ropivacaine",
+      "ingredients": [
+        "ROPIVACAINE HYDROCHLORIDE"
+      ],
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-12-15",
+      "moieties": [
+        "ROPIVACAINE"
+      ],
+      "product_ndcs": [
+        "25021-652",
+        "25021-671"
+      ],
+      "rxcui": [
+        "1734347",
+        "1734355",
+        "1734479",
+        "1734481"
+      ],
+      "setid": "8c5c762f-d266-4b1a-809e-f11bfc89bc2d",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "ROPIVACAINE HYDROCHLORIDE INJECTION, SOLUTION [SAGENT PHARMACEUTICALS]",
+      "upload_date": "2026-04-22"
+    },
+    {
+      "application_numbers": [
+        "ANDA212808"
+      ],
+      "brand_names": [
+        "ROPIVACAINE HYDROCHLORIDE"
+      ],
+      "combination": false,
+      "home_inn": "ropivacaine",
+      "ingredients": [
+        "ROPIVACAINE HYDROCHLORIDE"
+      ],
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-04-09",
+      "moieties": [
+        "ROPIVACAINE"
+      ],
+      "product_ndcs": [
+        "43066-015",
+        "43066-019",
+        "43066-023",
+        "43066-027"
+      ],
+      "rxcui": [
+        "1734084",
+        "1734207",
+        "1734475",
+        "1734483"
+      ],
+      "setid": "781d4b7f-7556-4695-8d48-7772d7a0d8e9",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "ROPIVACAINE HYDROCHLORIDE INJECTION [BAXTER HEALTHCARE CORPORATION]",
+      "upload_date": "2025-12-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA210102"
+      ],
+      "brand_names": [
+        "Ropivacaine hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "ropivacaine",
+      "ingredients": [
+        "ROPIVACAINE HYDROCHLORIDE"
+      ],
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-08-18",
+      "moieties": [
+        "ROPIVACAINE"
+      ],
+      "product_ndcs": [
+        "68083-262",
+        "68083-263"
+      ],
+      "rxcui": [
+        "1734347",
+        "1734355"
+      ],
+      "setid": "643c1729-096e-459c-80c1-78b78e698da6",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "ROPIVACAINE HYDROCHLORIDE INJECTION, SOLUTION [GLAND PHARMA LIMITED]",
+      "upload_date": "2022-08-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA216605"
+      ],
+      "brand_names": [
+        "Ropivacaine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "ropivacaine",
+      "ingredients": [
+        "ROPIVACAINE HYDROCHLORIDE"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-03-17",
+      "moieties": [
+        "ROPIVACAINE"
+      ],
+      "product_ndcs": [
+        "70121-1732",
+        "70121-1733",
+        "70121-1734",
+        "70121-1735"
+      ],
+      "rxcui": [
+        "1734347",
+        "1734355",
+        "1734479",
+        "1734481"
+      ],
+      "setid": "da1ce22b-6a8e-40a2-afbb-011fa3ed3a8b",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "ROPIVACAINE HYDROCHLORIDE INJECTION [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2025-03-10"
+    },
+    {
+      "application_numbers": [
+        "NDA020533"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "NAROPIN"
+      ],
+      "first_posted": "2010-08-13",
+      "found_by": "NAROPIN",
+      "labeler": "APP Pharmaceuticals, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2011-08-01",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2011-07-27"
+      ],
+      "product_ndcs": [
+        "63323-285",
+        "63323-286"
+      ],
+      "rxcui": [],
+      "setid": "aad58994-7ff6-4531-bd84-a7a2f38d5749",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "23d2d448-a744-4877-9f2d-7e57c198da89",
+        "56dfabf7-f7a8-4601-b17a-cb16fb995b0f",
+        "c6613708-c1f7-4f5c-91a3-ebbc1d7905c6",
+        "cb6583ff-cde4-4280-aa5b-0bea2b844792",
+        "dff4a1e4-4b2a-4a64-b6d8-ea470dee88f7"
+      ],
+      "title": "NAROPIN (ropivacaine hydrochloride) injection, solution"
+    },
+    {
+      "application_numbers": [
+        "NDA020533"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "NAROPIN"
+      ],
+      "first_posted": "2009-09-28",
+      "found_by": "NAROPIN",
+      "labeler": "Fresenius Kabi USA, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2018-05-01",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2014-02-21"
+      ],
+      "product_ndcs": [
+        "63323-286"
+      ],
+      "rxcui": [],
+      "setid": "cb8b926d-cf66-bc7e-c940-e820fd4e877c",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "23d2d448-a744-4877-9f2d-7e57c198da89",
+        "56dfabf7-f7a8-4601-b17a-cb16fb995b0f",
+        "c6613708-c1f7-4f5c-91a3-ebbc1d7905c6",
+        "cb6583ff-cde4-4280-aa5b-0bea2b844792",
+        "dff4a1e4-4b2a-4a64-b6d8-ea470dee88f7"
+      ],
+      "title": "NAROPIN (ropivacaine hydrochloride) injection, solution"
+    },
+    {
+      "application_numbers": [
+        "NDA020533"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "NAROPIN"
+      ],
+      "first_posted": "2009-09-09",
+      "found_by": "NAROPIN",
+      "labeler": "APP Pharmaceuticals, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2011-08-08",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2011-08-05"
+      ],
+      "product_ndcs": [
+        "63323-286"
+      ],
+      "rxcui": [],
+      "setid": "d7fb7aaf-5238-4c9f-b2e5-284b06f9448b",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "23d2d448-a744-4877-9f2d-7e57c198da89",
+        "56dfabf7-f7a8-4601-b17a-cb16fb995b0f",
+        "c6613708-c1f7-4f5c-91a3-ebbc1d7905c6",
+        "cb6583ff-cde4-4280-aa5b-0bea2b844792",
+        "dff4a1e4-4b2a-4a64-b6d8-ea470dee88f7"
+      ],
+      "title": "NAROPIN (ropivacaine hydrochloride) injection, solution"
+    },
+    {
+      "application_numbers": [
+        "NDA020533"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "NAROPIN"
+      ],
+      "first_posted": "2011-09-16",
+      "found_by": "NAROPIN",
+      "labeler": "APP Pharmaceuticals, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2011-09-16",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "63323-285",
+        "63323-286",
+        "63323-287",
+        "63323-288"
+      ],
+      "rxcui": [],
+      "setid": "f27790b5-cdb9-4fd2-b575-70686a5cbb58",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "23d2d448-a744-4877-9f2d-7e57c198da89",
+        "56dfabf7-f7a8-4601-b17a-cb16fb995b0f",
+        "c6613708-c1f7-4f5c-91a3-ebbc1d7905c6",
+        "cb6583ff-cde4-4280-aa5b-0bea2b844792",
+        "dff4a1e4-4b2a-4a64-b6d8-ea470dee88f7"
+      ],
+      "title": "NAROPIN (ropivacaine hydrochloride) injection, solution"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9e1d1b15-c224-4ff4-a39d-3b9cebfc8403"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d00bfdee-d3e9-4faf-b079-43ac1add51b3"
+    },
+    {
+      "combination": false,
+      "labeler": "Anthea Pharma Private Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f2b54355-a596-4f97-aeaa-d93e3984c42d"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3d465e02-fd09-41b8-847f-bfe99cb4a712"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "35743510-728d-407b-b501-cf019665cd35"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9572b3de-684c-4028-a577-5aa69ba6b02d"
+    },
+    {
+      "combination": false,
+      "labeler": "Civica, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1fb8e90a-4141-4707-8be6-31f2da5c8fd5"
+    },
+    {
+      "combination": false,
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e057aeb2-5125-490c-b691-847426fd42d0"
+    },
+    {
+      "combination": false,
+      "labeler": "SOLA Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5b3c642b-ab31-45fd-ac0b-b9f6e6cfe3a9"
+    },
+    {
+      "combination": false,
+      "labeler": "FRESENIUS KABI USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "da4a7675-97bf-4d2a-9fdc-c1b4b2999126"
+    },
+    {
+      "combination": false,
+      "labeler": "Caplin Steriles Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a9010ea8-0923-44e4-a7c7-7d65d37d06db"
+    },
+    {
+      "combination": false,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "043b28cc-ce5c-4351-a646-704c381decb9"
+    },
+    {
+      "combination": false,
+      "labeler": "Armas Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3849f5ce-d077-4318-935d-294be6948142"
+    }
+  ]
+}

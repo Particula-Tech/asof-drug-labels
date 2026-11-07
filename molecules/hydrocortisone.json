@@ -1,0 +1,2107 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/002185",
+      "eu_number": "EU/1/11/715",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-002185",
+      "mah": "Takeda Pharmaceuticals International AG Ireland Branch",
+      "marketing_authorisation_date": "2011-11-03",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/plenadren",
+      "name": "Plenadren",
+      "record_from": "2011-11-03",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 10
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/004416",
+      "eu_number": "EU/1/17/1260",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-004416",
+      "mah": "Immedica Pharma AB",
+      "marketing_authorisation_date": "2018-02-09",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/alkindi",
+      "name": "Alkindi",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/005105",
+      "eu_number": "EU/1/21/1549",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-005105",
+      "mah": "Immedica Pharma AB",
+      "marketing_authorisation_date": "2021-05-27",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/efmody",
+      "name": "Efmody",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-002185",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "HYDROCORTISONE",
+    "HYDROCORTISONE ACETATE",
+    "HYDROCORTISONE BUTYRATE",
+    "HYDROCORTISONE SODIUM SUCCINATE",
+    "HYDROCORTISONE VALERATE"
+  ],
+  "inn": "hydrocortisone",
+  "name": "HYDROCORTISONE",
+  "rank": 19,
+  "rxcui": [
+    "102250",
+    "105398",
+    "106258",
+    "197782",
+    "197783",
+    "197787",
+    "203105",
+    "208680",
+    "208712",
+    "208816",
+    "213320",
+    "238755",
+    "309305",
+    "310878",
+    "310891",
+    "854992",
+    "854997",
+    "998422",
+    "998426",
+    "1370758",
+    "1545172",
+    "1545174",
+    "1738586",
+    "1738589",
+    "1738590",
+    "1738592",
+    "1738594",
+    "1738596",
+    "2399644",
+    "2399650",
+    "2399652",
+    "2399654",
+    "2399656",
+    "2399658",
+    "2399659",
+    "2399661",
+    "2716550",
+    "2716556"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 85,
+    "approval_holders": 48,
+    "earliest_marketing_start": "1952-12-15",
+    "latest_label_update": "2026-10-16",
+    "nda_bla_applications": 10,
+    "repackagers": 16
+  },
+  "unii": [
+    {
+      "ingredient": "HYDROCORTISONE",
+      "unii": "WI4X0X7BPJ"
+    },
+    {
+      "ingredient": "HYDROCORTISONE ACETATE",
+      "unii": "3X7931PO74"
+    },
+    {
+      "ingredient": "HYDROCORTISONE BUTYRATE",
+      "unii": "05RMF7YPWN"
+    },
+    {
+      "ingredient": "HYDROCORTISONE SODIUM SUCCINATE",
+      "unii": "50LQB69S1Z"
+    },
+    {
+      "ingredient": "HYDROCORTISONE VALERATE",
+      "unii": "68717P8FUZ"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA008697"
+      ],
+      "brand_names": [
+        "CORTEF"
+      ],
+      "combination": false,
+      "home_inn": "hydrocortisone",
+      "ingredients": [
+        "HYDROCORTISONE"
+      ],
+      "labeler": "Pharmacia & Upjohn Company LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1952-12-15",
+      "moieties": [
+        "HYDROCORTISONE"
+      ],
+      "product_ndcs": [
+        "0009-0012",
+        "0009-0031",
+        "0009-0044"
+      ],
+      "rxcui": [
+        "197782",
+        "197783",
+        "197787",
+        "208680",
+        "208712",
+        "208816"
+      ],
+      "setid": "9ce19944-dd88-4a7b-84ca-b07f4ec23bad",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "CORTEF (HYDROCORTISONE) TABLET [PHARMACIA & UPJOHN COMPANY LLC]",
+      "upload_date": "2025-02-21"
+    },
+    {
+      "application_numbers": [
+        "NDA009866"
+      ],
+      "brand_names": [
+        "Solu-Cortef"
+      ],
+      "combination": false,
+      "home_inn": "hydrocortisone",
+      "ingredients": [
+        "HYDROCORTISONE SODIUM SUCCINATE"
+      ],
+      "labeler": "Pharmacia & Upjohn Company LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1955-04-27",
+      "moieties": [
+        "HYDROCORTISONE"
+      ],
+      "product_ndcs": [
+        "0009-0005",
+        "0009-0011",
+        "0009-0013",
+        "0009-0016",
+        "0009-0825"
+      ],
+      "rxcui": [
+        "105398",
+        "238755",
+        "1738586",
+        "1738589",
+        "1738590",
+        "1738592",
+        "1738594",
+        "1738596"
+      ],
+      "setid": "65eefd58-b166-4d71-ade6-45c8fdf86922",
+      "source": "dailymed-title-match",
+      "spl_version": 31,
+      "title": "SOLU-CORTEF (HYDROCORTISONE SODIUM SUCCINATE) INJECTION, POWDER, FOR SOLUTION [PHARMACIA & UPJOHN COMPANY LLC]",
+      "upload_date": "2026-10-08"
+    },
+    {
+      "application_numbers": [
+        "NDA018652"
+      ],
+      "brand_names": [
+        "Hydrocortisone Butyrate"
+      ],
+      "combination": false,
+      "home_inn": "hydrocortisone",
+      "ingredients": [
+        "HYDROCORTISONE BUTYRATE"
+      ],
+      "labeler": "Oceanside Pharmaceuticals",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2009-09-01",
+      "moieties": [
+        "HYDROCORTISONE"
+      ],
+      "product_ndcs": [
+        "68682-271"
+      ],
+      "rxcui": [
+        "1370758"
+      ],
+      "setid": "7c3f8417-7861-41e3-876f-9b82aff7d1a0",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "HYDROCORTISONE BUTYRATE OINTMENT [OCEANSIDE PHARMACEUTICALS]",
+      "upload_date": "2021-02-05"
+    },
+    {
+      "application_numbers": [
+        "NDA016199"
+      ],
+      "brand_names": [
+        "Cortenema"
+      ],
+      "combination": false,
+      "home_inn": "hydrocortisone",
+      "ingredients": [
+        "HYDROCORTISONE"
+      ],
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2012-08-10",
+      "moieties": [
+        "HYDROCORTISONE"
+      ],
+      "product_ndcs": [
+        "62559-111"
+      ],
+      "rxcui": [
+        "102250",
+        "310878"
+      ],
+      "setid": "a307448a-ccc4-41a8-977a-11f28f0bded9",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "CORTENEMA (HYDROCORTISONE) ENEMA [ANI PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-03-05"
+    },
+    {
+      "application_numbers": [
+        "NDA017351"
+      ],
+      "brand_names": [
+        "Cortifoam"
+      ],
+      "combination": false,
+      "home_inn": "hydrocortisone",
+      "ingredients": [
+        "HYDROCORTISONE ACETATE"
+      ],
+      "labeler": "Viatris Specialty LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-06-15",
+      "moieties": [
+        "HYDROCORTISONE"
+      ],
+      "product_ndcs": [
+        "0037-6830"
+      ],
+      "rxcui": [
+        "1545172",
+        "1545174"
+      ],
+      "setid": "0093b694-9fcb-46ae-b1ab-7d0fa204c6c8",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "CORTIFOAM (HYDROCORTISONE ACETATE) AEROSOL, FOAM [VIATRIS SPECIALTY LLC]",
+      "upload_date": "2025-08-22"
+    },
+    {
+      "application_numbers": [
+        "NDA213876"
+      ],
+      "brand_names": [
+        "Alkindi Sprinkle"
+      ],
+      "combination": false,
+      "home_inn": "hydrocortisone",
+      "ingredients": [
+        "HYDROCORTISONE"
+      ],
+      "labeler": "Eton Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2020-09-29",
+      "moieties": [
+        "HYDROCORTISONE"
+      ],
+      "product_ndcs": [
+        "71863-109",
+        "71863-110",
+        "71863-111",
+        "71863-112"
+      ],
+      "rxcui": [
+        "2399644",
+        "2399650",
+        "2399652",
+        "2399654",
+        "2399656",
+        "2399658",
+        "2399659",
+        "2399661"
+      ],
+      "setid": "26c13a5f-7119-4c6a-bf10-fda4e07d7682",
+      "source": "openfda",
+      "spl_version": 20,
+      "title": "ALKINDI SPRINKLE (HYDROCORTISONE) GRANULE ALKINDI SPRINKLE (HYDROCORTISONE) GRANULE [ETON PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-04-28"
+    },
+    {
+      "application_numbers": [
+        "NDA218980"
+      ],
+      "brand_names": [
+        "Khindivi"
+      ],
+      "combination": false,
+      "home_inn": "hydrocortisone",
+      "ingredients": [
+        "HYDROCORTISONE"
+      ],
+      "labeler": "Eton Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-06-02",
+      "moieties": [
+        "HYDROCORTISONE"
+      ],
+      "product_ndcs": [
+        "71863-116"
+      ],
+      "rxcui": [
+        "2716550",
+        "2716556"
+      ],
+      "setid": "1ef80500-8386-40ee-b608-516cd687b376",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "KHINDIVI (HYDROCORTISONE) SOLUTION [ETON PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-04-22"
+    },
+    {
+      "application_numbers": [
+        "NDA020805"
+      ],
+      "brand_names": [
+        "CIPRO HC"
+      ],
+      "combination": true,
+      "home_inn": "hydrocortisone",
+      "ingredients": [
+        "CIPROFLOXACIN HYDROCHLORIDE",
+        "HYDROCORTISONE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1999-03-15",
+      "moieties": [
+        "CIPROFLOXACIN",
+        "HYDROCORTISONE"
+      ],
+      "product_ndcs": [
+        "66758-087"
+      ],
+      "rxcui": [
+        "213320",
+        "309305"
+      ],
+      "setid": "b26594a3-2adf-4954-8be0-5bd6f8de9671",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "CIPRO HC (CIPROFLOXACIN HYDROCHLORIDE AND HYDROCORTISONE) SUSPENSION/ DROPS [SANDOZ INC]",
+      "upload_date": "2025-12-02"
+    },
+    {
+      "application_numbers": [
+        "NDA022436"
+      ],
+      "brand_names": [
+        "Xerese"
+      ],
+      "combination": true,
+      "home_inn": "hydrocortisone",
+      "ingredients": [
+        "ACYCLOVIR",
+        "HYDROCORTISONE"
+      ],
+      "labeler": "Bausch Health US LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2009-07-31",
+      "moieties": [
+        "ACYCLOVIR",
+        "HYDROCORTISONE"
+      ],
+      "product_ndcs": [
+        "0187-5104"
+      ],
+      "rxcui": [
+        "998422",
+        "998426"
+      ],
+      "setid": "3b6ac164-0f1e-4f36-94a1-1fdb07d710f5",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "XERESE (ACYCLOVIR AND HYDROCORTISONE) CREAM [BAUSCH HEALTH US LLC]",
+      "upload_date": "2020-09-08"
+    },
+    {
+      "application_numbers": [
+        "NDA050356"
+      ],
+      "brand_names": [
+        "Cortisporin TC"
+      ],
+      "combination": true,
+      "home_inn": "hydrocortisone",
+      "ingredients": [
+        "COLISTIN SULFATE",
+        "HYDROCORTISONE ACETATE",
+        "NEOMYCIN SULFATE",
+        "THONZONIUM BROMIDE"
+      ],
+      "labeler": "Endo USA, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2019-06-03",
+      "moieties": [
+        "COLISTIN",
+        "HYDROCORTISONE",
+        "NEOMYCIN",
+        "THONZONIUM"
+      ],
+      "product_ndcs": [
+        "63481-529"
+      ],
+      "rxcui": [
+        "854992",
+        "854997"
+      ],
+      "setid": "9c6fc1c7-3350-42ae-b999-aca48e704bb1",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "CORTISPORIN TC (COLISTIN SULFATE, NEOMYCIN SULFATE, THONZONIUM BROMIDE AND HYDROCORTISONE ACETATE) SUSPENSION [ENDO USA, INC.]",
+      "upload_date": "2025-12-08"
+    },
+    {
+      "application_numbers": [
+        "NDA016199"
+      ],
+      "brand_names": [
+        "Hydrocortisone"
+      ],
+      "combination": false,
+      "home_inn": "hydrocortisone",
+      "ingredients": [
+        "HYDROCORTISONE"
+      ],
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2012-08-16",
+      "moieties": [
+        "HYDROCORTISONE"
+      ],
+      "product_ndcs": [
+        "62559-138"
+      ],
+      "rxcui": [
+        "310878"
+      ],
+      "setid": "40654d12-56e4-4489-be49-19c60ad918ad",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "HYDROCORTISONE ENEMA [ANI PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-03-05"
+    },
+    {
+      "application_numbers": [
+        "NDA008697"
+      ],
+      "brand_names": [
+        "Hydrocortisone"
+      ],
+      "combination": false,
+      "home_inn": "hydrocortisone",
+      "ingredients": [
+        "HYDROCORTISONE"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2013-02-20",
+      "moieties": [
+        "HYDROCORTISONE"
+      ],
+      "product_ndcs": [
+        "59762-0073",
+        "59762-0074",
+        "59762-0075"
+      ],
+      "rxcui": [
+        "197782",
+        "197783",
+        "197787"
+      ],
+      "setid": "bc751403-94f2-4f9d-b533-cf6186a40ceb",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "HYDROCORTISONE TABLET [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2026-05-27"
+    },
+    {
+      "application_numbers": [
+        "ANDA080706"
+      ],
+      "brand_names": [
+        "Hydrocortisone"
+      ],
+      "combination": false,
+      "home_inn": "hydrocortisone",
+      "ingredients": [
+        "HYDROCORTISONE"
+      ],
+      "labeler": "Crown Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1973-03-09",
+      "moieties": [
+        "HYDROCORTISONE"
+      ],
+      "product_ndcs": [
+        "0316-0186",
+        "0316-0193"
+      ],
+      "rxcui": [
+        "106258",
+        "310891"
+      ],
+      "setid": "a84830ad-73dc-4a2e-b987-0a1103526535",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "HYDROCORTISONE CREAM [CROWN LABORATORIES]",
+      "upload_date": "2026-01-14"
+    },
+    {
+      "application_numbers": [
+        "ANDA080692"
+      ],
+      "brand_names": [
+        "Hydrocortisone"
+      ],
+      "combination": false,
+      "home_inn": "hydrocortisone",
+      "ingredients": [
+        "HYDROCORTISONE"
+      ],
+      "labeler": "E. Fougera & Co. a division of Fougera Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1975-04-16",
+      "moieties": [
+        "HYDROCORTISONE"
+      ],
+      "product_ndcs": [
+        "0168-0020"
+      ],
+      "rxcui": [
+        "203105"
+      ],
+      "setid": "31fbb576-0e76-471c-83c8-9e0125bc1791",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "HYDROCORTISONE OINTMENT [E. FOUGERA & CO. A DIVISION OF FOUGERA PHARMACEUTICALS, LLC]",
+      "upload_date": "2026-02-27"
+    },
+    {
+      "application_numbers": [
+        "ANDA080693"
+      ],
+      "brand_names": [
+        "hydrocortisone"
+      ],
+      "combination": false,
+      "home_inn": "hydrocortisone",
+      "ingredients": [
+        "HYDROCORTISONE"
+      ],
+      "labeler": "E. Fougera & Co. a division of Fougera Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1976-04-30",
+      "moieties": [
+        "HYDROCORTISONE"
+      ],
+      "product_ndcs": [
+        "0168-0015"
+      ],
+      "rxcui": [
+        "106258"
+      ],
+      "setid": "bc374fa4-ac8b-408e-9321-8bab97a18770",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "HYDROCORTISONE CREAM [E. FOUGERA & CO. A DIVISION OF FOUGERA PHARMACEUTICALS, LLC]",
+      "upload_date": "2026-04-08"
+    },
+    {
+      "application_numbers": [
+        "ANDA085070"
+      ],
+      "brand_names": [
+        "Hydrocortisone"
+      ],
+      "combination": false,
+      "home_inn": "hydrocortisone",
+      "ingredients": [
+        "HYDROCORTISONE"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1976-05-07",
+      "moieties": [
+        "HYDROCORTISONE"
+      ],
+      "product_ndcs": [
+        "62135-186"
+      ],
+      "rxcui": [
+        "197783"
+      ],
+      "setid": "5b707a9f-32b6-42f3-beb6-111df98dfde5",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "HYDROCORTISONE TABLET [CHARTWELL RX, LLC]",
+      "upload_date": "2025-12-12"
+    },
+    {
+      "application_numbers": [
+        "NDA022076"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "LOCOID"
+      ],
+      "first_posted": "2011-10-25",
+      "found_by": "LOCOID",
+      "labeler": "Triax Pharmaceuticals, LLC",
+      "labeler_unverified": true,
+      "last_posted": "2013-10-29",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-04-30"
+      ],
+      "product_ndcs": [
+        "14290-314"
+      ],
+      "rxcui": [],
+      "setid": "07a86e89-9ad4-4d8f-848f-c056c14e9a97",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "LOCOID (hydrocortisone butyrate) lotion"
+    },
+    {
+      "application_numbers": [
+        "NDA022076"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "LOCOID"
+      ],
+      "first_posted": "2007-12-10",
+      "found_by": "LOCOID",
+      "labeler": "Fermdale Laboratories, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2014-05-05",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2014-05-02"
+      ],
+      "product_ndcs": [
+        "0496-0872"
+      ],
+      "rxcui": [],
+      "setid": "27d36fbf-1892-48e1-a9b1-1625607ea516",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "LOCOID (hydrocortisone butyrate) lotion"
+    },
+    {
+      "application_numbers": [
+        "NDA020453"
+      ],
+      "archived_versions": 9,
+      "brand_names": [
+        "PANDEL"
+      ],
+      "first_posted": "2013-02-13",
+      "found_by": "PANDEL",
+      "labeler": "PharmaDerm a division of Fougera Pharmaceuticals Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2023-05-16",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-01-31"
+      ],
+      "product_ndcs": [
+        "10337-153"
+      ],
+      "rxcui": [],
+      "setid": "361338e6-d719-4bea-aca0-7dd591fcfa08",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "PANDEL (hydrocortisone probutate) cream"
+    },
+    {
+      "application_numbers": [
+        "NDA018726"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "WESTCORT"
+      ],
+      "first_posted": "2009-09-23",
+      "found_by": "WESTCORT",
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2018-03-01",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2008-10-06"
+      ],
+      "product_ndcs": [
+        "10631-105"
+      ],
+      "rxcui": [],
+      "setid": "3a1d4918-9f73-4d91-b20a-8f009ffe9b1d",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "WESTCORT (hydrocortisone valerate) ointment"
+    },
+    {
+      "application_numbers": [
+        "NDA018514"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "LOCOID"
+      ],
+      "first_posted": "2011-10-25",
+      "found_by": "LOCOID",
+      "labeler": "Triax Pharmaceuticals, LLC",
+      "labeler_unverified": true,
+      "last_posted": "2013-10-29",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2014-04-30"
+      ],
+      "product_ndcs": [
+        "14290-310"
+      ],
+      "rxcui": [],
+      "setid": "4b1e6738-678f-49a2-bbdc-f319c180b15a",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "LOCOID (hydrocortisone butyrate) cream"
+    },
+    {
+      "application_numbers": [
+        "NDA020453"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "PANDEL"
+      ],
+      "first_posted": "2008-05-07",
+      "found_by": "PANDEL",
+      "labeler": "PharmaDerm A division of Fougera Pharmaceuticals Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2015-11-12",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2014-03-31"
+      ],
+      "product_ndcs": [
+        "0462-0153"
+      ],
+      "rxcui": [],
+      "setid": "66ea9aaf-4e20-43ea-9271-27541d80f9fe",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "PANDEL (hydrocortisone probutate) cream"
+    },
+    {
+      "application_numbers": [
+        "NDA020805"
+      ],
+      "archived_versions": 8,
+      "brand_names": [
+        "CIPRO"
+      ],
+      "first_posted": "2008-03-13",
+      "found_by": "CIPRO",
+      "labeler": "Alcon Laboratories, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2022-07-12",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-05-31"
+      ],
+      "product_ndcs": [
+        "0065-8531"
+      ],
+      "rxcui": [],
+      "setid": "70b19501-34b6-4f95-a8dd-dd3e67d22399",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "b26594a3-2adf-4954-8be0-5bd6f8de9671"
+      ],
+      "title": "CIPRO HC (ciprofloxacin hydrochloride and hydrocortisone) suspension"
+    },
+    {
+      "application_numbers": [
+        "NDA020769"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "LOCOID"
+      ],
+      "first_posted": "2008-03-13",
+      "found_by": "LOCOID",
+      "labeler": "Ferndale Laboratories, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2014-05-05",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2014-04-29"
+      ],
+      "product_ndcs": [
+        "0496-0821"
+      ],
+      "rxcui": [],
+      "setid": "71e26c6b-dc6c-4a32-9250-2346855cf0fc",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "LOCOID LIPOCREAM (hydrocortisone butyrate) cream"
+    },
+    {
+      "application_numbers": [
+        "NDA018652"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "LOCOID"
+      ],
+      "first_posted": "2008-01-25",
+      "found_by": "LOCOID",
+      "labeler": "Triax Pharmaceuticals, LLC",
+      "labeler_unverified": true,
+      "last_posted": "2013-12-12",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2014-04-30"
+      ],
+      "product_ndcs": [
+        "14290-311"
+      ],
+      "rxcui": [],
+      "setid": "7389a18e-ad54-4d25-94c6-9f182305aea2",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "7c3f8417-7861-41e3-876f-9b82aff7d1a0"
+      ],
+      "title": "LOCOID (hydrocortisone butyrate) ointment"
+    },
+    {
+      "application_numbers": [
+        "NDA020769"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "LOCOID"
+      ],
+      "first_posted": "2009-11-09",
+      "found_by": "LOCOID",
+      "labeler": "Triax Pharmaceuticals, LLC",
+      "labeler_unverified": true,
+      "last_posted": "2013-10-29",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-08-31"
+      ],
+      "product_ndcs": [
+        "14290-313"
+      ],
+      "rxcui": [],
+      "setid": "7c9ded05-460f-4bb3-85a3-8dd26f15f941",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "LOCOID LIPOCREAM (hydrocortisone butyrate) cream"
+    },
+    {
+      "application_numbers": [
+        "NDA019116"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "LOCOID"
+      ],
+      "first_posted": "2011-10-25",
+      "found_by": "LOCOID",
+      "labeler": "Triax Pharmaceuticals, LLC",
+      "labeler_unverified": true,
+      "last_posted": "2013-10-29",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2014-04-30"
+      ],
+      "product_ndcs": [
+        "14290-312"
+      ],
+      "rxcui": [],
+      "setid": "7ed4ae17-6833-4304-9098-fd47f58ba96a",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "LOCOID (hydrocortisone butyrate) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA022076"
+      ],
+      "archived_versions": 13,
+      "brand_names": [
+        "LOCOID"
+      ],
+      "first_posted": "2013-07-12",
+      "found_by": "LOCOID",
+      "labeler": "Bausch Health US, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2025-11-17",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-06-30"
+      ],
+      "product_ndcs": [
+        "16781-392"
+      ],
+      "rxcui": [],
+      "setid": "a147236d-be90-47cf-9d88-7ea14d3a8158",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "LOCOID (hydrocortisone butyrate) lotion"
+    },
+    {
+      "application_numbers": [
+        "NDA009900"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "CORTEF"
+      ],
+      "first_posted": "2006-09-21",
+      "found_by": "CORTEF",
+      "labeler": "Pharmacia and Upjohn Company",
+      "labeler_unverified": false,
+      "last_posted": "2018-09-26",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2006-07-01"
+      ],
+      "product_ndcs": [
+        "0009-0142"
+      ],
+      "rxcui": [],
+      "setid": "b221b509-ea5c-427c-94f7-27939957ed97",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "CORTEF (hydrocortisone cypionate) suspension"
+    },
+    {
+      "application_numbers": [
+        "NDA022436"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "XERESE"
+      ],
+      "first_posted": "2010-07-15",
+      "found_by": "XERESE",
+      "labeler": "Meda Pharmaceuticals Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2012-09-04",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-02-28"
+      ],
+      "product_ndcs": [
+        "0037-0501"
+      ],
+      "rxcui": [],
+      "setid": "b74c0c67-4ef6-11df-9879-0800200c9a66",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "3b6ac164-0f1e-4f36-94a1-1fdb07d710f5"
+      ],
+      "title": "XERESE (acyclovir and hydrocortisone) cream"
+    },
+    {
+      "application_numbers": [
+        "NDA019116"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "LOCOID"
+      ],
+      "first_posted": "2013-07-12",
+      "found_by": "LOCOID",
+      "labeler": "Bausch Health US, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2021-03-16",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-05-31"
+      ],
+      "product_ndcs": [
+        "16781-391"
+      ],
+      "rxcui": [],
+      "setid": "c3360b20-8409-4a8a-b77a-4f6fb1ac6b25",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "LOCOID (hydrocortisone butyrate) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA017950"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "WESTCORT"
+      ],
+      "first_posted": "2007-05-24",
+      "found_by": "WESTCORT",
+      "labeler": "Bristol-Myers Squibb Pharma Company",
+      "labeler_unverified": true,
+      "last_posted": "2013-10-18",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2008-06-30"
+      ],
+      "product_ndcs": [
+        "0072-8100"
+      ],
+      "rxcui": [],
+      "setid": "c709aa98-4999-4dda-81a5-cc3bbed74bba",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "WESTCORT (hydrocortisone valerate) cream"
+    },
+    {
+      "application_numbers": [
+        "NDA018514"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "LOCOID"
+      ],
+      "first_posted": "2013-07-12",
+      "found_by": "LOCOID",
+      "labeler": "Bausch Health US, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2021-04-19",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-11-30"
+      ],
+      "product_ndcs": [
+        "16781-382"
+      ],
+      "rxcui": [],
+      "setid": "c7b4f583-2f79-4242-8ed2-d0e19ce8a510",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "LOCOID (hydrocortisone butyrate) cream"
+    },
+    {
+      "application_numbers": [
+        "NDA050356"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "CORTISPORIN"
+      ],
+      "first_posted": "2009-07-22",
+      "found_by": "CORTISPORIN",
+      "labeler": "Par Pharmaceutical, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2019-01-22",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-05-30"
+      ],
+      "product_ndcs": [
+        "42023-109"
+      ],
+      "rxcui": [],
+      "setid": "dbcf5b03-6764-4fac-a382-e8c56bec2c16",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "9c6fc1c7-3350-42ae-b999-aca48e704bb1"
+      ],
+      "title": "CORTISPORIN-TC (colistin sulfate, neomycin sulfate, thonzonium bromide, and hydrocortisone acetate) suspension"
+    },
+    {
+      "application_numbers": [
+        "NDA009866"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "SOLU CORTEF"
+      ],
+      "first_posted": "2010-08-03",
+      "found_by": "SOLU-CORTEF",
+      "labeler": "Pharmacia & Upjohn Company LLC",
+      "labeler_unverified": false,
+      "last_posted": "2023-12-20",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2014-05-01",
+        "2014-07-01",
+        "2014-10-01",
+        "2015-02-01"
+      ],
+      "product_ndcs": [
+        "0009-0900",
+        "0009-0909",
+        "0009-0912",
+        "0009-0920"
+      ],
+      "rxcui": [],
+      "setid": "e36275ca-0ea1-4fdb-9dfb-57633cd29d03",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "65eefd58-b166-4d71-ade6-45c8fdf86922"
+      ],
+      "title": "SOLU-CORTEF (hydrocortisone sodium succinate) injection, powder, for solution"
+    },
+    {
+      "application_numbers": [
+        "NDA018652"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "LOCOID"
+      ],
+      "first_posted": "2013-07-12",
+      "found_by": "LOCOID",
+      "labeler": "Onset Dermatologics, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2018-03-26",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-03-23"
+      ],
+      "product_ndcs": [
+        "16781-389"
+      ],
+      "rxcui": [],
+      "setid": "e38d4625-87a9-465b-aff5-e7e9a71e2372",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "7c3f8417-7861-41e3-876f-9b82aff7d1a0"
+      ],
+      "title": "LOCOID (hydrocortisone butyrate) ointment"
+    },
+    {
+      "application_numbers": [
+        "NDA020453"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "PANDEL"
+      ],
+      "first_posted": "2022-09-30",
+      "found_by": "PANDEL",
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2024-09-16",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-01-31"
+      ],
+      "product_ndcs": [
+        "62559-325"
+      ],
+      "rxcui": [],
+      "setid": "ed5acba1-3634-45d6-ac15-44f500e84885",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "PANDEL (hydrocortisone probutate) cream"
+    },
+    {
+      "application_numbers": [
+        "NDA017351"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "CORTIFOAM"
+      ],
+      "first_posted": "2009-12-17",
+      "found_by": "CORTIFOAM",
+      "labeler": "Alaven Pharmaceutical LLC",
+      "labeler_unverified": false,
+      "last_posted": "2019-02-15",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-12-31"
+      ],
+      "product_ndcs": [
+        "68220-140"
+      ],
+      "rxcui": [],
+      "setid": "ef91f4f9-6345-48b8-a9a1-b7a7038f8fb7",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "0093b694-9fcb-46ae-b1ab-7d0fa204c6c8"
+      ],
+      "title": "CORTIFOAM (hydrocortisone acetate) aerosol, foam"
+    },
+    {
+      "application_numbers": [
+        "NDA020805"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "CIPRO"
+      ],
+      "first_posted": "2022-03-09",
+      "found_by": "CIPRO",
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2025-09-10",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-11-30"
+      ],
+      "product_ndcs": [
+        "0078-0855"
+      ],
+      "rxcui": [],
+      "setid": "eff6ee40-6e52-4f61-b54d-edc612543f71",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "b26594a3-2adf-4954-8be0-5bd6f8de9671"
+      ],
+      "title": "CIPRO HC (ciprofloxacin hydrochloride and hydrocortisone) suspension/ drops"
+    },
+    {
+      "application_numbers": [
+        "NDA020769"
+      ],
+      "archived_versions": 10,
+      "brand_names": [
+        "LOCOID"
+      ],
+      "first_posted": "2013-07-17",
+      "found_by": "LOCOID",
+      "labeler": "Bausch Health US, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2024-10-24",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-06-30"
+      ],
+      "product_ndcs": [
+        "16781-384"
+      ],
+      "rxcui": [],
+      "setid": "f950988c-0bcc-4d07-bdc2-2426959a85a4",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "LOCOID LIPOCREAM (hydrocortisone butyrate) cream"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "CIPRO"
+      ],
+      "first_posted": "2007-06-29",
+      "found_by": "CIPRO",
+      "labeler": "Alcon",
+      "labeler_unverified": false,
+      "last_posted": "2007-06-29",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0065-8531"
+      ],
+      "rxcui": [],
+      "setid": "l70b19501-34b6-4f95-a8dd-dd3e67d22399",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "cipro (ciprofloxacin hydrochloride, hydrocortisone and benzyl alcohol) suspension"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "LOCOID"
+      ],
+      "first_posted": "2007-03-19",
+      "found_by": "LOCOID",
+      "labeler": "Ferndale Laboratories",
+      "labeler_unverified": false,
+      "last_posted": "2007-03-19",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0496-0821"
+      ],
+      "rxcui": [],
+      "setid": "l71e26c6b-dc6c-4a32-9250-2346855cf0fc",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "locoid lipocream (Hydrocortisone Butyrate) cream"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Salix Pharmaceuticals, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5a0439c8-50a0-4f85-9cb4-9e3a5b0c31e7"
+    },
+    {
+      "combination": false,
+      "labeler": "E. Fougera & Co. a division of Fougera Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bcd103f3-3dc8-4394-b8fd-8f8ddb721f77"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a9011d6f-6808-48a7-ab6b-df8d40540570"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3fb69485-bfa5-4751-b0ca-a0a0efb6b2b8"
+    },
+    {
+      "combination": false,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "aa9dba84-eb38-4ec3-8555-87c948bf2384"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "51176835-598d-4da7-8a00-6bd36f52aa82"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "565284e7-4994-486b-8267-18bd166655ac"
+    },
+    {
+      "combination": false,
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7ba59aa6-b828-4048-bf86-90c90d9894a0"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9fe627ad-4aba-4bd1-8590-6cc2d61674ba"
+    },
+    {
+      "combination": false,
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f05b7fa6-26a9-4aca-8975-819ece891060"
+    },
+    {
+      "combination": false,
+      "labeler": "Mission Pharmacal Company",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "25279d46-6bad-471f-8bd6-736d53cfd942"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fb5746ff-3ff1-4874-a827-4694133641b9"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "275f3fcf-1170-4df0-9a8d-1482bda409cb"
+    },
+    {
+      "combination": false,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "18db91a0-fe67-4740-8a37-d656707356f1"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "17e93b8c-aede-4cab-9a8c-0c29abdb05f2"
+    },
+    {
+      "combination": false,
+      "labeler": "Derm Ventures LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "61498a40-3b3c-4066-89c8-d99686e2d638"
+    },
+    {
+      "combination": false,
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "90a46849-5b75-467b-9bc5-8f192d4d20d2"
+    },
+    {
+      "combination": false,
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1cb06573-1ac8-4dfe-8123-00bbd20a1650"
+    },
+    {
+      "combination": false,
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fd68f7a2-fa0d-4d56-8e92-71cd955cc7a9"
+    },
+    {
+      "combination": false,
+      "labeler": "Eywa Pharma Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b3f06d10-2f01-428c-88a4-505c61c87ce8"
+    },
+    {
+      "combination": false,
+      "labeler": "Encube Ethicals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "41723504-b2cf-4074-9c3a-e3c59bb48c98"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6d820911-f50e-46a4-8174-c4ee89f6792e"
+    },
+    {
+      "combination": false,
+      "labeler": "The J. Molner Company LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "160c463e-80d2-4bca-8b7f-42279617e309"
+    },
+    {
+      "combination": false,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "451d6d04-b7d9-47d9-ba71-43cc5b9b3054"
+    },
+    {
+      "combination": false,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0d7e8e04-9149-4436-bad1-b700e253b7ab"
+    },
+    {
+      "combination": false,
+      "labeler": "Allegis Holdings LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3b008546-afa5-fe5a-e063-6394a90adb3b"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "37534164-9de5-4bb3-9f87-341dfcf90883"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bfe185a6-b657-2fbb-4ac2-e085373f15f3"
+    },
+    {
+      "combination": false,
+      "labeler": "Encube Ethicals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "11e120e2-a1ca-477c-b474-bcbb72656705"
+    },
+    {
+      "combination": false,
+      "labeler": "Solco Healthcare LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "04f112e5-ec88-46c8-b675-8b4e38a86ab4"
+    },
+    {
+      "combination": true,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c0881bbe-cc95-45d4-9878-3bc8946eff26"
+    },
+    {
+      "combination": true,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "35768adc-b578-4c2e-b461-22de3135a789"
+    },
+    {
+      "combination": true,
+      "labeler": "Saptalis Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d9a3597c-2c9d-46cc-818b-8bb3aa5c4f32"
+    },
+    {
+      "combination": true,
+      "labeler": "Bausch & Lomb Incorporated",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3b00eb5c-dd98-467e-a883-04c37a8ecc42"
+    },
+    {
+      "combination": true,
+      "labeler": "Bausch & Lomb Incoporated",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "986e5b75-39fc-480f-9026-191b2d15dea1"
+    },
+    {
+      "combination": true,
+      "labeler": "Bausch & Lomb Incorporated",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b0ee85dd-5fe1-46a3-9bff-606e489d20b1"
+    },
+    {
+      "combination": true,
+      "labeler": "Sandoz Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "99d9030f-9118-412c-a377-d1df1c8fa723"
+    },
+    {
+      "combination": true,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ff34da77-5e96-4ed1-8c28-ba0b2f35576a"
+    },
+    {
+      "combination": true,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "96a7b0a5-030a-42dc-80cd-35c4e9aa1b6d"
+    },
+    {
+      "combination": true,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6383c722-84e2-4719-a13d-19c54e3eefff"
+    },
+    {
+      "combination": true,
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9eea5875-d153-4bba-aee2-b1d1cd8b5e57"
+    },
+    {
+      "combination": true,
+      "labeler": "Viatris Specialty LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3831e931-ec0a-11e3-ac10-0800200c9a66"
+    },
+    {
+      "combination": true,
+      "labeler": "Viatris Specialty LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b22b8b41-2f1e-11e4-8c21-0800200c9a66"
+    },
+    {
+      "combination": true,
+      "labeler": "Sebela Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f207bdff-2f41-4eee-818e-198b6462863e"
+    },
+    {
+      "combination": true,
+      "labeler": "Sebela Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1469733e-1723-4b8c-be33-ed8dfafd65e2"
+    },
+    {
+      "combination": true,
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cef3713f-11f3-4723-9267-3d79855b49bf"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bea0457d-40a7-4af9-ac77-b04235680176"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6fff6c70-ea1f-449c-be0c-b989de36bd67"
+    },
+    {
+      "combination": true,
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6848cb55-7ca4-40ca-9751-f1fc262b8336"
+    },
+    {
+      "combination": true,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2846b507-f92d-45e0-9807-f68bdf4de56c"
+    },
+    {
+      "combination": false,
+      "labeler": "Crown Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "de000081-a245-4f6b-9e7c-e47d84b82338"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e4f22e9c-cf38-473a-8f7d-8da7fd696f76"
+    },
+    {
+      "combination": false,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b2918ac7-14b5-4372-9055-8caf6f4bcf37"
+    },
+    {
+      "combination": false,
+      "labeler": "Leading Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0682580e-aff8-4b67-99ba-a29ab7b433db"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4b6edbc4-7afb-4fb5-a16e-66ce70916f09"
+    },
+    {
+      "combination": false,
+      "labeler": "Strides Pharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c58dfac3-a131-4b6b-bf75-ba46e5bc6ba6"
+    },
+    {
+      "combination": false,
+      "labeler": "Allegis Holdings LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1a27d8fa-4025-ed68-e063-6394a90a4f37"
+    },
+    {
+      "combination": false,
+      "labeler": "Trifluent Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "20508a94-01bc-4f1d-a42b-122a31402aaf"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ded2eb00-88ce-42b7-858e-4645c6f13239"
+    },
+    {
+      "combination": false,
+      "labeler": "Perfero Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "988b5524-2947-4862-9d5b-e8b7fec5fd9a"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d533ebee-9f1c-42d7-9808-ae5d5e55741b"
+    },
+    {
+      "combination": false,
+      "labeler": "Allegis Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "57c6aadb-fa88-044f-e063-6394a90a3db8"
+    },
+    {
+      "combination": true,
+      "labeler": "Legacy Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "56568e1f-974b-4750-b560-d93eb5e0e83f"
+    },
+    {
+      "combination": true,
+      "labeler": "Legacy Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4c98a01e-ff11-45eb-8732-4bd9157969e8"
+    },
+    {
+      "combination": true,
+      "labeler": "Legacy Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ce3dd32c-1262-454e-aacb-880d54596dd3"
+    },
+    {
+      "combination": true,
+      "labeler": "Legacy Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "39618fc5-87a8-47bc-93fc-cb97b8f663c8"
+    },
+    {
+      "combination": true,
+      "labeler": "Legacy Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6a9fb75b-a2f7-4eca-8dce-d7eb5c122476"
+    },
+    {
+      "combination": true,
+      "labeler": "Legacy Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3e5c6728-ece3-40f7-9e36-cff71f168cd8"
+    },
+    {
+      "combination": true,
+      "labeler": "Orbicular Pharmaceutical Technologies Private Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5eae31aa-ec63-4b93-9859-8d718a8ac8ef"
+    }
+  ]
+}

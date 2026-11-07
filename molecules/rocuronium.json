@@ -1,0 +1,557 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "ROCURONIUM BROMIDE"
+  ],
+  "inn": "rocuronium",
+  "name": "ROCURONIUM",
+  "rank": 237,
+  "rxcui": [
+    "1234995",
+    "2720024",
+    "2720026",
+    "2740933"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 30,
+    "approval_holders": 21,
+    "earliest_marketing_start": "2008-12-01",
+    "latest_label_update": "2026-10-06",
+    "nda_bla_applications": 2,
+    "repackagers": 4
+  },
+  "unii": [
+    {
+      "ingredient": "ROCURONIUM BROMIDE",
+      "unii": "I65MW4OFHZ"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA217472"
+      ],
+      "brand_names": [
+        "Rocuronium"
+      ],
+      "combination": false,
+      "home_inn": "rocuronium",
+      "ingredients": [
+        "ROCURONIUM BROMIDE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-10-11",
+      "moieties": [
+        "ROCURONIUM"
+      ],
+      "product_ndcs": [
+        "76045-220",
+        "76045-221"
+      ],
+      "rxcui": [
+        "2740933"
+      ],
+      "setid": "04c9812d-5aa3-4949-ad02-c618028f1bb0",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "ROCURONIUM (ROCURONIUM BROMIDE) INJECTION, SOLUTION [FRESENIUS KABI USA, LLC",
+      "upload_date": "2026-08-17"
+    },
+    {
+      "application_numbers": [
+        "NDA219108"
+      ],
+      "brand_names": [
+        "Rocuronium Bromide"
+      ],
+      "combination": false,
+      "home_inn": "rocuronium",
+      "ingredients": [
+        "ROCURONIUM BROMIDE"
+      ],
+      "labeler": "B. Braun Medical Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2026-05-21",
+      "moieties": [
+        "ROCURONIUM"
+      ],
+      "product_ndcs": [
+        "0264-5711"
+      ],
+      "rxcui": [
+        "2740933"
+      ],
+      "setid": "a54a79f7-5207-43d8-a139-7d57557caa50",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "ROCURONIUM BROMIDE INJECTION [B. BRAUN MEDICAL INC.]",
+      "upload_date": "2026-08-07"
+    },
+    {
+      "application_numbers": [
+        "NDA217472"
+      ],
+      "brand_names": [
+        "Rocuronium"
+      ],
+      "combination": false,
+      "home_inn": "rocuronium",
+      "ingredients": [
+        "ROCURONIUM BROMIDE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-10-11",
+      "moieties": [
+        "ROCURONIUM"
+      ],
+      "product_ndcs": [
+        "65219-442",
+        "65219-444",
+        "65219-695",
+        "65219-697"
+      ],
+      "rxcui": [
+        "2720024",
+        "2720026"
+      ],
+      "setid": "9a622308-7bda-4ca0-9de5-d6b3b4be3384",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "ROCURONIUM (ROCURONIUM BROMIDE) INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2025-07-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA078519"
+      ],
+      "brand_names": [
+        "Rocuronium Bromide"
+      ],
+      "combination": false,
+      "home_inn": "rocuronium",
+      "ingredients": [
+        "ROCURONIUM BROMIDE"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2008-12-01",
+      "moieties": [
+        "ROCURONIUM"
+      ],
+      "product_ndcs": [
+        "0409-9558"
+      ],
+      "rxcui": [
+        "1234995"
+      ],
+      "setid": "309aeb1b-8022-4df7-8194-ae6529e3395c",
+      "source": "openfda",
+      "spl_version": 29,
+      "title": "ROCURONIUM BROMIDE INJECTION, SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2026-03-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA079195"
+      ],
+      "brand_names": [
+        "Rocuronium Bromide"
+      ],
+      "combination": false,
+      "home_inn": "rocuronium",
+      "ingredients": [
+        "ROCURONIUM BROMIDE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2008-12-05",
+      "moieties": [
+        "ROCURONIUM"
+      ],
+      "product_ndcs": [
+        "0781-3220"
+      ],
+      "rxcui": [
+        "1234995"
+      ],
+      "setid": "cb28d869-6510-4402-9462-f6bb25fa0fa8",
+      "source": "openfda",
+      "spl_version": 24,
+      "title": "ROCURONIUM BROMIDE INJECTION, SOLUTION [SANDOZ INC]",
+      "upload_date": "2022-10-14"
+    },
+    {
+      "application_numbers": [
+        "ANDA078651"
+      ],
+      "brand_names": [
+        "Rocuronium"
+      ],
+      "combination": false,
+      "home_inn": "rocuronium",
+      "ingredients": [
+        "ROCURONIUM BROMIDE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-12-13",
+      "moieties": [
+        "ROCURONIUM"
+      ],
+      "product_ndcs": [
+        "63323-426"
+      ],
+      "rxcui": [
+        "1234995"
+      ],
+      "setid": "f1933332-1ae0-4dc1-be4c-694849e6c9f9",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "ROCURONIUM (ROCURONIUM BROMIDE) INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2023-04-26"
+    },
+    {
+      "application_numbers": [
+        "ANDA079199"
+      ],
+      "brand_names": [
+        "Rocuronium Bromide"
+      ],
+      "combination": false,
+      "home_inn": "rocuronium",
+      "ingredients": [
+        "ROCURONIUM BROMIDE"
+      ],
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-02-06",
+      "moieties": [
+        "ROCURONIUM"
+      ],
+      "product_ndcs": [
+        "67457-228"
+      ],
+      "rxcui": [
+        "1234995"
+      ],
+      "setid": "f58803b0-f173-4997-b2f8-0f415b94dacf",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "ROCURONIUM BROMIDE INJECTION [MYLAN INSTITUTIONAL LLC]",
+      "upload_date": "2025-11-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA091115"
+      ],
+      "brand_names": [
+        "rocuronium bromide"
+      ],
+      "combination": false,
+      "home_inn": "rocuronium",
+      "ingredients": [
+        "ROCURONIUM BROMIDE"
+      ],
+      "labeler": "XGen Pharmaceuticals DJB, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-12-01",
+      "moieties": [
+        "ROCURONIUM"
+      ],
+      "product_ndcs": [
+        "39822-4200"
+      ],
+      "rxcui": [
+        "1234995"
+      ],
+      "setid": "b73f192c-2912-4ec3-9b4f-05a58d9b35ba",
+      "source": "openfda",
+      "spl_version": 20,
+      "title": "ROCURONIUM BROMIDE SOLUTION [XGEN PHARMACEUTICALS DJB, INC.]",
+      "upload_date": "2022-12-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA206206"
+      ],
+      "brand_names": [
+        "Rocuronium Bromide"
+      ],
+      "combination": false,
+      "home_inn": "rocuronium",
+      "ingredients": [
+        "ROCURONIUM BROMIDE"
+      ],
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-04-12",
+      "moieties": [
+        "ROCURONIUM"
+      ],
+      "product_ndcs": [
+        "55150-225",
+        "55150-226"
+      ],
+      "rxcui": [
+        "1234995"
+      ],
+      "setid": "116385ea-69fc-4f44-b463-6210291032df",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "ROCURONIUM BROMIDE INJECTION, SOLUTION [EUGIA US LLC]",
+      "upload_date": "2026-05-20"
+    },
+    {
+      "application_numbers": [
+        "NDA020214"
+      ],
+      "archived_versions": 10,
+      "brand_names": [
+        "ZEMURON"
+      ],
+      "first_posted": "2008-12-03",
+      "found_by": "ZEMURON",
+      "labeler": "Organon USA Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2018-08-08",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2016-01-20"
+      ],
+      "product_ndcs": [
+        "0052-0450"
+      ],
+      "rxcui": [],
+      "setid": "b7d5e4f6-8798-4385-97c7-cf22c8fcc66f",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ZEMURON (rocuronium bromide) injection, solution"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d3a172a5-01ab-47d8-92ac-a8539b1d4dc4"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a223a740-dbe8-4d06-8b8b-d9104b694e62"
+    },
+    {
+      "combination": false,
+      "labeler": "Piramal Critical Care Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "98255b70-51f9-8d16-e053-2995a90a8f97"
+    },
+    {
+      "combination": false,
+      "labeler": "Solco Healthcare US, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b7fba679-9c2d-4dac-af53-8c1331c966c3"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b23aa80e-2af2-4a66-92ed-b1c8863be704"
+    },
+    {
+      "combination": false,
+      "labeler": "BE Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1543ea2b-54ab-4088-a72a-5d71854a2dce"
+    },
+    {
+      "combination": false,
+      "labeler": "Shandong New Time Pharmaceutical Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f9f66e17-4850-47b6-bb2c-b9d126dffa68"
+    },
+    {
+      "combination": false,
+      "labeler": "STERISCIENCE SPECIALTIES PRIVATE LIMITED",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b894c436-ea67-407e-a801-f334a0c0c2d9"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1141181f-3f62-4094-bfa2-454f89a14765"
+    },
+    {
+      "combination": false,
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cccd40ca-5f08-4acb-8548-3cad558388bb"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fb9524b2-c353-4747-8954-7ca2529eabb2"
+    },
+    {
+      "combination": false,
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "31e15c3f-aefa-4379-b684-7707744fe40d"
+    },
+    {
+      "combination": false,
+      "labeler": "Civica, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8ea475c7-d35e-47f4-8955-0df5ccd35b79"
+    },
+    {
+      "combination": false,
+      "labeler": "Phlow Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ad34ecc7-ff1f-4ee5-a235-e453873d0313"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "209a654d-f92d-4242-bfef-2dcc90a30d3f"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b9abaf64-760d-43e0-8669-a9ca70feab11"
+    },
+    {
+      "combination": false,
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c96726ef-f1fa-4ebb-ba33-3479c3902a8e"
+    },
+    {
+      "combination": false,
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f01f9986-43f9-40e8-9506-11bfe78f9242"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "01825411-be08-4402-b101-cb546291c972"
+    },
+    {
+      "combination": false,
+      "labeler": "Caplin Steriles Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f1794318-b058-4254-97b7-d4e07126efbb"
+    },
+    {
+      "combination": false,
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a18fce42-0f3d-4354-845e-57c37ac3a147"
+    }
+  ]
+}

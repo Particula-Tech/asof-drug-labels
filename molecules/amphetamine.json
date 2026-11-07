@@ -1,0 +1,994 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "AMPHETAMINE",
+    "AMPHETAMINE ASPARTATE",
+    "AMPHETAMINE ASPARTATE MONOHYDRATE",
+    "AMPHETAMINE DL-ASPARTATE",
+    "AMPHETAMINE DL-ASPARTATE MONOHYDRATE",
+    "AMPHETAMINE SULFATE"
+  ],
+  "inn": "amphetamine",
+  "name": "AMPHETAMINE",
+  "rank": 61,
+  "rxcui": [
+    "861221",
+    "861222",
+    "861223",
+    "861224",
+    "861225",
+    "861226",
+    "861227",
+    "861228",
+    "861232",
+    "861233",
+    "861237",
+    "861238",
+    "884655",
+    "1600695",
+    "1600698",
+    "1600700",
+    "1720586",
+    "1720592",
+    "1739803",
+    "1739809",
+    "1739813",
+    "1739815",
+    "1739819",
+    "1739821",
+    "1739825",
+    "1739827",
+    "1739831",
+    "1739833",
+    "1739837",
+    "1739839",
+    "1927610",
+    "1927616",
+    "1927617",
+    "1927619",
+    "1927630",
+    "1927632",
+    "1927637",
+    "1927639",
+    "2585460",
+    "2585461",
+    "2585462",
+    "2585465",
+    "2585468",
+    "2585471",
+    "2585473",
+    "2585476"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 50,
+    "approval_holders": 34,
+    "earliest_marketing_start": "2001-10-11",
+    "latest_label_update": "2026-10-26",
+    "nda_bla_applications": 5,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "AMPHETAMINE",
+      "unii": "CK833KGX7E"
+    },
+    {
+      "ingredient": "AMPHETAMINE SULFATE",
+      "unii": "6DPV8NK46S"
+    }
+  ],
+  "unii_unresolved": [
+    "AMPHETAMINE ASPARTATE",
+    "AMPHETAMINE ASPARTATE MONOHYDRATE",
+    "AMPHETAMINE DL-ASPARTATE",
+    "AMPHETAMINE DL-ASPARTATE MONOHYDRATE"
+  ],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA208147",
+        "NDA210526"
+      ],
+      "brand_names": [
+        "DYANAVEL XR",
+        "Dyanavel XR"
+      ],
+      "combination": false,
+      "home_inn": "amphetamine",
+      "ingredients": [
+        "AMPHETAMINE"
+      ],
+      "labeler": "NextWave Pharmaceuticals, Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-10-01",
+      "moieties": [
+        "AMPHETAMINE"
+      ],
+      "product_ndcs": [
+        "24478-102",
+        "24478-106",
+        "24478-108",
+        "24478-109",
+        "24478-110"
+      ],
+      "rxcui": [
+        "1720586",
+        "1720592",
+        "2585460",
+        "2585461",
+        "2585462",
+        "2585465",
+        "2585468",
+        "2585471",
+        "2585473",
+        "2585476"
+      ],
+      "setid": "ae304b29-0b40-40ec-ad0d-76b742d4a9b9",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "DYANAVEL XR (AMPHETAMINE) SUSPENSION, EXTENDED RELEASE DYANAVEL XR (AMPHETAMINE) TABLET, EXTENDED RELEASE [NEXTWAVE PHARMACEUTICALS, INC]",
+      "upload_date": "2026-02-26"
+    },
+    {
+      "application_numbers": [
+        "NDA204326"
+      ],
+      "brand_names": [
+        "Adzenys XR-ODT"
+      ],
+      "combination": false,
+      "home_inn": "amphetamine",
+      "ingredients": [
+        "AMPHETAMINE"
+      ],
+      "labeler": "Neos Therapeutics Brands, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2016-02-16",
+      "moieties": [
+        "AMPHETAMINE"
+      ],
+      "product_ndcs": [
+        "70165-005",
+        "70165-010",
+        "70165-015",
+        "70165-020",
+        "70165-025",
+        "70165-030"
+      ],
+      "rxcui": [
+        "1739803",
+        "1739809",
+        "1739813",
+        "1739815",
+        "1739819",
+        "1739821",
+        "1739825",
+        "1739827",
+        "1739831",
+        "1739833",
+        "1739837",
+        "1739839"
+      ],
+      "setid": "c1179269-00b5-48ea-972d-31e614e99b7e",
+      "source": "dailymed-title-match",
+      "spl_version": 16,
+      "title": "ADZENYS XR-ODT (AMPHETAMINE) TABLET, ORALLY DISINTEGRATING [NEOS THERAPEUTICS BRANDS, LLC]",
+      "upload_date": "2026-09-28"
+    },
+    {
+      "application_numbers": [
+        "NDA021303"
+      ],
+      "brand_names": [
+        "Adderall XR"
+      ],
+      "combination": true,
+      "home_inn": "amphetamine",
+      "ingredients": [
+        "AMPHETAMINE ASPARTATE MONOHYDRATE",
+        "AMPHETAMINE SULFATE",
+        "DEXTROAMPHETAMINE SACCHARATE",
+        "DEXTROAMPHETAMINE SULFATE"
+      ],
+      "labeler": "Takeda Pharmaceuticals America, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2001-10-11",
+      "moieties": [
+        "AMPHETAMINE",
+        "DEXTROAMPHETAMINE"
+      ],
+      "product_ndcs": [
+        "54092-381",
+        "54092-383",
+        "54092-385",
+        "54092-387",
+        "54092-389",
+        "54092-391"
+      ],
+      "rxcui": [
+        "861221",
+        "861222",
+        "861223",
+        "861224",
+        "861225",
+        "861226",
+        "861227",
+        "861228",
+        "861232",
+        "861233",
+        "861237",
+        "861238"
+      ],
+      "setid": "aff45863-ffe1-4d4f-8acf-c7081512a6c0",
+      "source": "openfda",
+      "spl_version": 38,
+      "title": "ADDERALL XR (DEXTROAMPHETAMINE SULFATE, DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE SULFATE AND AMPHETAMINE ASPARTATE) CAPSULE, EXTENDED RELEASE [TAKEDA PHARMACEUTICALS AMERICA, INC.]",
+      "upload_date": "2026-05-06"
+    },
+    {
+      "application_numbers": [
+        "NDA022063"
+      ],
+      "brand_names": [
+        "MYDAYIS"
+      ],
+      "combination": true,
+      "home_inn": "amphetamine",
+      "ingredients": [
+        "AMPHETAMINE ASPARTATE MONOHYDRATE",
+        "AMPHETAMINE SULFATE",
+        "DEXTROAMPHETAMINE SACCHARATE",
+        "DEXTROAMPHETAMINE SULFATE"
+      ],
+      "labeler": "Takeda Pharmaceuticals America, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-06-20",
+      "moieties": [
+        "AMPHETAMINE",
+        "DEXTROAMPHETAMINE"
+      ],
+      "product_ndcs": [
+        "54092-468",
+        "54092-471",
+        "54092-474",
+        "54092-477"
+      ],
+      "rxcui": [
+        "1927610",
+        "1927616",
+        "1927617",
+        "1927619",
+        "1927630",
+        "1927632",
+        "1927637",
+        "1927639"
+      ],
+      "setid": "141a7970-3f06-44ea-9ab7-aeece2c085fc",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "MYDAYIS (DEXTROAMPHETAMINE SULFATE, DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE MONOHYDRATE, AND AMPHETAMINE SULFATE) CAPSULE, EXTENDED RELEASE [TAKEDA PHARMACEUTICALS AMERICA, INC.]",
+      "upload_date": "2026-05-06"
+    },
+    {
+      "application_numbers": [
+        "NDA204326"
+      ],
+      "brand_names": [
+        "Amphetamine Extended-Release"
+      ],
+      "combination": false,
+      "home_inn": "amphetamine",
+      "ingredients": [
+        "AMPHETAMINE"
+      ],
+      "labeler": "Neos Therapeutics, LP",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2025-09-01",
+      "moieties": [
+        "AMPHETAMINE"
+      ],
+      "product_ndcs": [
+        "62542-005",
+        "62542-010",
+        "62542-015",
+        "62542-020",
+        "62542-025",
+        "62542-030"
+      ],
+      "rxcui": [
+        "1739803",
+        "1739813",
+        "1739819",
+        "1739825",
+        "1739831",
+        "1739837"
+      ],
+      "setid": "48d0f55c-f847-4d26-b2ed-94b5a2770228",
+      "source": "dailymed-title-match",
+      "spl_version": 7,
+      "title": "AMPHETAMINE EXTENDED-RELEASE TABLET, ORALLY DISINTEGRATING [NEOS THERAPEUTICS, LP]",
+      "upload_date": "2026-10-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA200166"
+      ],
+      "brand_names": [
+        "Evekeo"
+      ],
+      "combination": false,
+      "home_inn": "amphetamine",
+      "ingredients": [
+        "AMPHETAMINE SULFATE"
+      ],
+      "labeler": "Azurity Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-11-01",
+      "moieties": [
+        "AMPHETAMINE"
+      ],
+      "product_ndcs": [
+        "24338-022",
+        "24338-026"
+      ],
+      "rxcui": [
+        "884655",
+        "1600695",
+        "1600698",
+        "1600700"
+      ],
+      "setid": "f469fb38-0380-4621-9db3-a4f429126156",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "EVEKEO (AMPHETAMINE SULFATE) TABLET [AZURITY PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA211139"
+      ],
+      "brand_names": [
+        "Amphetamine Sulfate"
+      ],
+      "combination": false,
+      "home_inn": "amphetamine",
+      "ingredients": [
+        "AMPHETAMINE SULFATE"
+      ],
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-09-28",
+      "moieties": [
+        "AMPHETAMINE"
+      ],
+      "product_ndcs": [
+        "69238-1563",
+        "69238-1564"
+      ],
+      "rxcui": [
+        "884655",
+        "1600695"
+      ],
+      "setid": "53d40847-e0d3-48ec-81a7-ec5478553565",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "AMPHETAMINE SULFATE (AMPHETAMINE) TABLET [AMNEAL PHARMACEUTICALS NY LLC]",
+      "upload_date": "2025-10-03"
+    },
+    {
+      "application_numbers": [
+        "ANDA211639"
+      ],
+      "brand_names": [
+        "Amphetamine Sulfate"
+      ],
+      "combination": false,
+      "home_inn": "amphetamine",
+      "ingredients": [
+        "AMPHETAMINE SULFATE"
+      ],
+      "labeler": "Aurolife Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-01-31",
+      "moieties": [
+        "AMPHETAMINE"
+      ],
+      "product_ndcs": [
+        "13107-259",
+        "13107-260"
+      ],
+      "rxcui": [
+        "884655",
+        "1600695"
+      ],
+      "setid": "20735c2e-6304-425f-a4e4-584f6f90d6a0",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "AMPHETAMINE SULFATE TABLET [AUROLIFE PHARMA, LLC]",
+      "upload_date": "2026-08-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA212619"
+      ],
+      "brand_names": [
+        "Amphetamine Sulfate"
+      ],
+      "combination": false,
+      "home_inn": "amphetamine",
+      "ingredients": [
+        "AMPHETAMINE SULFATE"
+      ],
+      "labeler": "Granules Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-08-15",
+      "moieties": [
+        "AMPHETAMINE"
+      ],
+      "product_ndcs": [
+        "70010-040",
+        "70010-041"
+      ],
+      "rxcui": [
+        "884655",
+        "1600695"
+      ],
+      "setid": "26dbad66-13c4-4906-88b3-ab7ee191466c",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "AMPHETAMINE SULFATE (AMPHETAMINE SULFATE) TABLET [GRANULES PHARMACEUTICALS INC.]",
+      "upload_date": "2026-07-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA212582"
+      ],
+      "brand_names": [
+        "Amphetamine sulfate"
+      ],
+      "combination": false,
+      "home_inn": "amphetamine",
+      "ingredients": [
+        "AMPHETAMINE SULFATE"
+      ],
+      "labeler": "DR. REDDY'S LABORATORIES INC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-03-01",
+      "moieties": [
+        "AMPHETAMINE"
+      ],
+      "product_ndcs": [
+        "43598-897",
+        "43598-898"
+      ],
+      "rxcui": [
+        "884655",
+        "1600695"
+      ],
+      "setid": "79b9db39-7cdc-5607-f0ce-ac2a2cfd59d5",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "AMPHETAMINE SULFATE (AMPHETAMINE SULFATE TABLETS) TABLET [DR. REDDY'S LABORATORIES INC]",
+      "upload_date": "2023-07-13"
+    },
+    {
+      "application_numbers": [
+        "NDA209905"
+      ],
+      "archived_versions": 9,
+      "brand_names": [
+        "EVEKEO"
+      ],
+      "first_posted": "2019-06-28",
+      "found_by": "EVEKEO",
+      "labeler": "Azurity Pharmaceuticals, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2024-04-04",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-07-31"
+      ],
+      "product_ndcs": [
+        "24338-031",
+        "24338-033",
+        "24338-035",
+        "24338-037"
+      ],
+      "rxcui": [],
+      "setid": "1e25f905-6c0b-4b19-a3b6-b2a386afa1c3",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "EVEKEO ODT (amphetamine sulfate) tablet, orally disintegrating"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "ADDERALL"
+      ],
+      "first_posted": "2007-09-26",
+      "found_by": "ADDERALL",
+      "labeler": "Shire US Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2007-09-26",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "54092-381",
+        "54092-383",
+        "54092-385",
+        "54092-387",
+        "54092-389",
+        "54092-391"
+      ],
+      "rxcui": [],
+      "setid": "2457a8a0-fa4f-4d82-9507-005783d6ded5",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "adderall xr (Dextroamphetamine saccharate, amphetamine aspartate monohydrate, dextroamphetamine sulfate and amphetamine sulfate) capsule, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA208147",
+        "NDA210526"
+      ],
+      "archived_versions": 11,
+      "brand_names": [
+        "DYANAVEL"
+      ],
+      "first_posted": "2015-11-05",
+      "found_by": "DYANAVEL",
+      "labeler": "Tris Pharma Inc",
+      "labeler_unverified": false,
+      "last_posted": "2022-07-18",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-07-16",
+        "2023-12-31"
+      ],
+      "product_ndcs": [
+        "27808-102",
+        "27808-106",
+        "27808-108",
+        "27808-109",
+        "27808-110"
+      ],
+      "rxcui": [],
+      "setid": "a8a7eb93-4192-4826-bbf1-82c06634f553",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "ae304b29-0b40-40ec-ad0d-76b742d4a9b9"
+      ],
+      "title": "DYANAVEL XR (amphetamine) suspension, extended release DYANAVEL XR (amphetamine) tablet, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA204325"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "ADZENYS"
+      ],
+      "first_posted": "2017-09-29",
+      "found_by": "ADZENYS",
+      "labeler": "Neos Therapeutics Brands, LLC",
+      "labeler_unverified": true,
+      "last_posted": "2021-11-15",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-09-30"
+      ],
+      "product_ndcs": [
+        "70165-003"
+      ],
+      "rxcui": [],
+      "setid": "eb1cc8d0-4231-41ea-8535-4fd872129713",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ADZENYS ER (amphetamine) suspension, extended release"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Solco Healthcare US, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "89c5b52f-3c2a-41d5-8624-9ee51c512c72"
+    },
+    {
+      "combination": false,
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "85a015a7-a1a0-4b04-8bc4-7aacd0c84742"
+    },
+    {
+      "combination": false,
+      "labeler": "Epic Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "432db708-91b7-4802-88c3-ceef597b91da"
+    },
+    {
+      "combination": false,
+      "labeler": "SpecGx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "00242264-40d8-4267-a91a-727a1f088616"
+    },
+    {
+      "combination": false,
+      "labeler": "Teva Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "243e88e7-6621-47e9-8d5c-3f79bcb088bb"
+    },
+    {
+      "combination": true,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6f637e8d-7c2e-47fa-a43c-3250c51aed77"
+    },
+    {
+      "combination": true,
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cffbbb15-d776-41ae-a8a6-687f2c07bfa4"
+    },
+    {
+      "combination": true,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "288dafc4-fe6e-4891-832f-511022c87445"
+    },
+    {
+      "combination": true,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9af67219-9b37-45d0-ac52-647cbfacd296"
+    },
+    {
+      "combination": true,
+      "labeler": "SpecGx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "72ddd1c9-ddbd-4c95-acd9-003189a353a3"
+    },
+    {
+      "combination": true,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c5c2d060-452c-4f76-ad93-2e41fd8f06c2"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurolife Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a582d57f-d191-4ca5-b105-585b2d8a0e3e"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "89c4b21a-1a65-41ef-8718-1619c2ba8591"
+    },
+    {
+      "combination": true,
+      "labeler": "SUNRISE PHARMACEUTICAL, INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ac102599-3a5b-4154-899e-6ff262be7ff7"
+    },
+    {
+      "combination": true,
+      "labeler": "Epic Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1757e132-061d-4773-89ed-fdc77f69008f"
+    },
+    {
+      "combination": true,
+      "labeler": "SpecGx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "60a2834c-38a2-480e-b89c-563e9cf0c9c3"
+    },
+    {
+      "combination": true,
+      "labeler": "Rhodes Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "690e1ef4-caf7-4c48-a4ae-d2a0ab684e82"
+    },
+    {
+      "combination": true,
+      "labeler": "Elite Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "084c625c-94c6-4c8a-ba5f-6e26206dd903"
+    },
+    {
+      "combination": true,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6438480f-1147-42b6-826d-4e1e1f8ff007"
+    },
+    {
+      "combination": true,
+      "labeler": "Oryza Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "acd27181-a3f3-4c38-85d8-029a4a82e7c2"
+    },
+    {
+      "combination": true,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "430cccec-1679-4225-8c86-92d746153b38"
+    },
+    {
+      "combination": true,
+      "labeler": "Rhodes Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ef3590cc-49ae-44f7-85a9-7c11f58d467e"
+    },
+    {
+      "combination": true,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1fc35735-569c-4dcd-b6c6-14443a043de5"
+    },
+    {
+      "combination": true,
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e95bdaf9-007a-4088-b969-fee38a97a475"
+    },
+    {
+      "combination": true,
+      "labeler": "Lannett Company, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f92497b5-baea-4760-b615-45a0b6184402"
+    },
+    {
+      "combination": true,
+      "labeler": "Elite Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e677690f-790f-4626-ad78-097cdb6ea540"
+    },
+    {
+      "combination": true,
+      "labeler": "Granules Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8c672e06-0778-4a7d-b398-5bcbf2a73f12"
+    },
+    {
+      "combination": true,
+      "labeler": "Granules Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b0b4eccc-34c7-483d-966f-82d588358e1b"
+    },
+    {
+      "combination": true,
+      "labeler": "Teva Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5e84ef60-3050-40d9-9f14-66b85d289e17"
+    },
+    {
+      "combination": true,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "30e515c3-a18f-499a-87c4-be8d64cfdbc6"
+    },
+    {
+      "combination": true,
+      "labeler": "GLENMARK PHARMACEUTICALS INC., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4564e404-8d71-4585-ab78-55857f477143"
+    },
+    {
+      "combination": false,
+      "labeler": "Wilshire Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "91add2e3-8359-47dc-b79f-197d36b02819"
+    },
+    {
+      "combination": false,
+      "labeler": "Amici Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e045dc28-e05d-4407-9d44-d0a11ca558e6"
+    },
+    {
+      "combination": true,
+      "labeler": "Prasco Laboratories",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f85af6ee-9029-42de-adea-6dbb8642952c"
+    },
+    {
+      "combination": true,
+      "labeler": "Northstar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "facdf159-1d95-4981-a8ad-d82edcc14a0c"
+    },
+    {
+      "combination": true,
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f22635fe-821d-4cde-aa12-419f8b53db81"
+    },
+    {
+      "combination": true,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8468623b-9584-43ef-ac16-fc15b060624c"
+    },
+    {
+      "combination": true,
+      "labeler": "Burel Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bcdd2fe2-d0de-4a28-aced-40ac9ce5122d"
+    },
+    {
+      "combination": true,
+      "labeler": "Golden State Medical Supply, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f6dfefdf-7a4a-e104-e053-6394a90a05bd"
+    },
+    {
+      "combination": true,
+      "labeler": "SpecGx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e1b21fd4-8d0b-4e54-a35d-8ad84a7caa78"
+    }
+  ]
+}

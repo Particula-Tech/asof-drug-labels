@@ -1,0 +1,830 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "VENLAFAXINE BESYLATE MONOHYDRATE",
+    "VENLAFAXINE HYDROCHLORIDE"
+  ],
+  "inn": "venlafaxine",
+  "name": "VENLAFAXINE",
+  "rank": 51,
+  "rxcui": [
+    "313580",
+    "313581",
+    "313582",
+    "313583",
+    "313584",
+    "313585",
+    "313586",
+    "314277",
+    "729929",
+    "729931",
+    "729932",
+    "808744",
+    "808748",
+    "808751",
+    "808753",
+    "2605950"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 52,
+    "approval_holders": 37,
+    "earliest_marketing_start": "2006-08-04",
+    "latest_label_update": "2026-10-15",
+    "nda_bla_applications": 2,
+    "repackagers": 22
+  },
+  "unii": [
+    {
+      "ingredient": "VENLAFAXINE HYDROCHLORIDE",
+      "unii": "7D7RX5A8MO"
+    }
+  ],
+  "unii_unresolved": [
+    "VENLAFAXINE BESYLATE MONOHYDRATE"
+  ],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA215429"
+      ],
+      "brand_names": [
+        "venlafaxine"
+      ],
+      "combination": false,
+      "home_inn": "venlafaxine",
+      "ingredients": [
+        "VENLAFAXINE BESYLATE MONOHYDRATE"
+      ],
+      "labeler": "Almatica Pharma LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-06-30",
+      "moieties": [
+        "VENLAFAXINE"
+      ],
+      "product_ndcs": [
+        "52427-632"
+      ],
+      "rxcui": [
+        "2605950"
+      ],
+      "setid": "e81a2daf-b8b2-7c05-b532-bc775700b100",
+      "source": "dailymed-title-match",
+      "spl_version": 5,
+      "title": "VENLAFAXINE TABLET, EXTENDED RELEASE [ALMATICA PHARMA LLC]",
+      "upload_date": "2026-10-15"
+    },
+    {
+      "application_numbers": [
+        "NDA020699"
+      ],
+      "brand_names": [
+        "Effexor XR"
+      ],
+      "combination": false,
+      "home_inn": "venlafaxine",
+      "ingredients": [
+        "VENLAFAXINE HYDROCHLORIDE"
+      ],
+      "labeler": "Viatris Specialty LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-07-17",
+      "moieties": [
+        "VENLAFAXINE"
+      ],
+      "product_ndcs": [
+        "58151-125",
+        "58151-126",
+        "58151-127"
+      ],
+      "rxcui": [
+        "313581",
+        "313583",
+        "313585",
+        "729929",
+        "729931",
+        "729932"
+      ],
+      "setid": "c848a5d8-ba94-4c84-80e3-0bf35fb8e32e",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "EFFEXOR XR (VENLAFAXINE HYDROCHLORIDE) CAPSULE, EXTENDED RELEASE [VIATRIS SPECIALTY LLC]",
+      "upload_date": "2025-07-04"
+    },
+    {
+      "application_numbers": [
+        "NDA022104"
+      ],
+      "brand_names": [
+        "Venlafaxine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "venlafaxine",
+      "ingredients": [
+        "VENLAFAXINE HYDROCHLORIDE"
+      ],
+      "labeler": "Trigen Laboratories, LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2010-04-29",
+      "moieties": [
+        "VENLAFAXINE"
+      ],
+      "product_ndcs": [
+        "13811-712"
+      ],
+      "rxcui": [
+        "808744",
+        "808748",
+        "808751",
+        "808753"
+      ],
+      "setid": "fdaed1c2-dd0a-4bf3-975a-86fe3e7f0c97",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "VENLAFAXINE HYDROCHLORIDE TABLET, EXTENDED RELEASE [TRIGEN LABORATORIES, LLC]",
+      "upload_date": "2025-11-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA076690"
+      ],
+      "brand_names": [
+        "Venlafaxine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "venlafaxine",
+      "ingredients": [
+        "VENLAFAXINE HYDROCHLORIDE"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2006-08-04",
+      "moieties": [
+        "VENLAFAXINE"
+      ],
+      "product_ndcs": [
+        "0093-9147",
+        "0093-9148",
+        "0093-9149",
+        "0093-9157",
+        "0093-9163"
+      ],
+      "rxcui": [
+        "313580",
+        "313582",
+        "313584",
+        "313586",
+        "314277"
+      ],
+      "setid": "37aaa8ac-4e0c-4e04-98b5-19b0d90d857c",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "VENLAFAXINE HYDROCHLORIDE TABLET [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2023-11-08"
+    },
+    {
+      "application_numbers": [
+        "ANDA077653"
+      ],
+      "brand_names": [
+        "Venlafaxine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "venlafaxine",
+      "ingredients": [
+        "VENLAFAXINE HYDROCHLORIDE"
+      ],
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2008-06-13",
+      "moieties": [
+        "VENLAFAXINE"
+      ],
+      "product_ndcs": [
+        "65841-671",
+        "65841-672",
+        "65841-673",
+        "65841-674",
+        "65841-675"
+      ],
+      "rxcui": [
+        "313580",
+        "313582",
+        "313584",
+        "313586",
+        "314277"
+      ],
+      "setid": "51334651-7a7f-4653-bf9d-d5be04fd902d",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "VENLAFAXINE HYDROCHLORIDE TABLET [ZYDUS LIFESCIENCES LIMITED]",
+      "upload_date": "2024-08-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA078627"
+      ],
+      "brand_names": [
+        "Venlafaxine"
+      ],
+      "combination": false,
+      "home_inn": "venlafaxine",
+      "ingredients": [
+        "VENLAFAXINE HYDROCHLORIDE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2008-06-13",
+      "moieties": [
+        "VENLAFAXINE"
+      ],
+      "product_ndcs": [
+        "57664-392",
+        "57664-393",
+        "57664-394",
+        "57664-395",
+        "57664-396"
+      ],
+      "rxcui": [
+        "313580",
+        "313582",
+        "313584",
+        "313586",
+        "314277"
+      ],
+      "setid": "55889b3d-74c9-4638-9a14-6a4ca3a99f7f",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "VENLAFAXINE TABLET [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2026-02-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA078301"
+      ],
+      "brand_names": [
+        "Venlafaxine hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "venlafaxine",
+      "ingredients": [
+        "VENLAFAXINE HYDROCHLORIDE"
+      ],
+      "labeler": "Dr. Reddy's Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2008-06-16",
+      "moieties": [
+        "VENLAFAXINE"
+      ],
+      "product_ndcs": [
+        "55111-545",
+        "55111-546",
+        "55111-547",
+        "55111-548",
+        "55111-549"
+      ],
+      "rxcui": [
+        "313580",
+        "313582",
+        "313584",
+        "313586",
+        "314277"
+      ],
+      "setid": "106d0d7b-925b-74e7-83cb-562144ce1f92",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "VENLAFAXINE HYDROCHLORIDE TABLET [DR. REDDY'S LABORATORIES LIMITED]",
+      "upload_date": "2022-12-26"
+    },
+    {
+      "application_numbers": [
+        "ANDA090555"
+      ],
+      "brand_names": [
+        "venlafaxine"
+      ],
+      "combination": false,
+      "home_inn": "venlafaxine",
+      "ingredients": [
+        "VENLAFAXINE HYDROCHLORIDE"
+      ],
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-04-07",
+      "moieties": [
+        "VENLAFAXINE"
+      ],
+      "product_ndcs": [
+        "57237-172",
+        "57237-173",
+        "57237-174",
+        "57237-175",
+        "57237-176"
+      ],
+      "rxcui": [
+        "313580",
+        "313582",
+        "313584",
+        "313586",
+        "314277"
+      ],
+      "setid": "20319949-ccf9-477a-a6e3-53502772deb9",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "VENLAFAXINE (VENLAFAXINE HYDROCHLORIDE) TABLET [RISING PHARMA HOLDINGS, INC.]",
+      "upload_date": "2023-09-08"
+    },
+    {
+      "application_numbers": [
+        "NDA020699"
+      ],
+      "archived_versions": 35,
+      "brand_names": [
+        "EFFEXOR"
+      ],
+      "first_posted": "2008-03-06",
+      "found_by": "EFFEXOR",
+      "labeler": "Wyeth Pharmaceuticals LLC, a subsidiary of Pfizer Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2025-07-04",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-05-31",
+        "2025-10-31",
+        "2026-06-30"
+      ],
+      "product_ndcs": [
+        "0008-0833",
+        "0008-0836",
+        "0008-0837"
+      ],
+      "rxcui": [],
+      "setid": "53c3e7ac-1852-4d70-d2b6-4fca819acf26",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "c848a5d8-ba94-4c84-80e3-0bf35fb8e32e"
+      ],
+      "title": "EFFEXOR XR (venlafaxine hydrochloride) capsule, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA020151"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "EFFEXOR"
+      ],
+      "first_posted": "2008-03-06",
+      "found_by": "EFFEXOR",
+      "labeler": "Wyeth Pharmaceuticals Company, a subsidiary of Pfizer Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2012-07-10",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2011-05-01"
+      ],
+      "product_ndcs": [
+        "0008-0701",
+        "0008-0703",
+        "0008-0704",
+        "0008-0705",
+        "0008-0781"
+      ],
+      "rxcui": [],
+      "setid": "cf2d9bee-f8e3-477a-e4b4-f0e82657b7d2",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "EFFEXOR (venlafaxine hydrochloride) tablet"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9a30e1b5-272b-4109-ad6c-a3c9a895822f"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1be1be3a-304b-4e31-8732-335247029191"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr.Reddy's Laboratories Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7027be98-61d6-a986-c9df-60ceef5f7ff0"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "85d3ce8b-8966-45d9-bdaf-f6f0475096e1"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dc989aa7-c4ab-4359-a971-523eb477ef9b"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "67b323a7-a8c9-410f-bff0-0e515bef41a7"
+    },
+    {
+      "combination": false,
+      "labeler": "Yaopharma Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "38fd2c97-cd30-2f7d-e054-00144ff8d46c"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3e51f786-3691-4ec4-836b-7f2c9a385aa7"
+    },
+    {
+      "combination": false,
+      "labeler": "Modavar Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "14b38374-7287-47dd-8ef9-e88bd5b23a26"
+    },
+    {
+      "combination": false,
+      "labeler": "Cadila Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2ed61dcf-42e3-47cf-a607-459eef5fea98"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0ee91447-2c23-4519-81cc-550b5416dd6b"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "85ec2d3f-49e4-4ac5-bd4a-c227589dbf58"
+    },
+    {
+      "combination": false,
+      "labeler": "Advagen Pharma Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "48a75840-64e4-4d44-9a62-009373003105"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8c4ccc5c-f6a2-4ce3-8866-9e6b32b08fd3"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "528d5392-4ad5-48c5-963d-6ebfb9187db4"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "80ac757d-c629-4579-8afd-cae0ee9cd614"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Laboratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9312f4df-63d9-4167-880f-36a816870442"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "750333ce-a512-42e1-b9e3-179714b488df"
+    },
+    {
+      "combination": false,
+      "labeler": "Epic Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "430777f0-347c-4f21-8c5d-55f4e9897e74"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "074f4478-e81b-45a2-ae85-ffd27bed940f"
+    },
+    {
+      "combination": false,
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "22d4817c-1f19-4490-8a38-d8904f0374f7"
+    },
+    {
+      "combination": false,
+      "labeler": "Granules Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "67059969-e291-4609-b130-0faacf2a19f0"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5c943206-6df8-4fc5-ab1d-d34b9715182c"
+    },
+    {
+      "combination": false,
+      "labeler": "Marlex Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3c2e188f-76aa-a022-e063-6294a90abfc9"
+    },
+    {
+      "combination": false,
+      "labeler": "Westminster Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "349308ef-2caf-4fec-b428-56ae06c6771d"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "72efad5f-0909-46a5-aa13-ac24fe015fe6"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b23637e5-d37f-41b5-ba76-fc053e903bc2"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5351fe67-17d9-42ec-9e8b-6585fdb9e29e"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "172b3d3d-bdae-47bf-8fba-edd6da1a8649"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b73da6e2-1494-436f-a204-2e4e4c5974b6"
+    },
+    {
+      "combination": false,
+      "labeler": "Cadila Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "516e7566-35c2-4a25-88d8-54d9dbc8f6be"
+    },
+    {
+      "combination": false,
+      "labeler": "Annora Pharma Private Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e901e476-58bd-4204-baaa-a4634ae65ab3"
+    },
+    {
+      "combination": false,
+      "labeler": "Nivagen Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "45cb4c19-fbf4-4ff5-af6f-b25a31ebc1e1"
+    },
+    {
+      "combination": false,
+      "labeler": "XLCare Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "68f40801-d35e-464e-ac94-21016b617ea2"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5efe1336-c796-4560-8110-a64c80eefb0c"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "db1d16b3-d1a2-4f41-adff-a87c17689aa0"
+    },
+    {
+      "combination": false,
+      "labeler": "QUALLENT PHARMACEUTICALS HEALTH LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cb4c04a6-47d1-44ff-8d58-718102fa08eb"
+    },
+    {
+      "combination": false,
+      "labeler": "Edenbridge Pharmaceuticals LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "38431a76-6185-4c17-994f-8278b6cd7510"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1349bace-d2cb-4c8f-8cbd-c09e67a2ca1b"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9fda0f8d-b24e-4581-9dca-7aaaf86e2413"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e3e238db-4388-49bb-aa67-6d73adbb2280"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr.Reddys Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f5c21429-d5d0-9f93-a465-6e5e0e19ebdd"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b865c175-e75d-4cb4-ac29-dec72226302c"
+    },
+    {
+      "combination": false,
+      "labeler": "PURACAP LABORATORIES LLC DBA BLU PHARMACEUTICALS",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b1d21366-f686-4e20-a10f-0c25f517db38"
+    }
+  ]
+}

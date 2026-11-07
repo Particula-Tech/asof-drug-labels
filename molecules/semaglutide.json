@@ -1,0 +1,329 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand OZEMPIC",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/004174",
+      "eu_number": "EU/1/17/1251",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-004174",
+      "mah": "Novo Nordisk A/S",
+      "marketing_authorisation_date": "2018-02-08",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ozempic",
+      "name": "Ozempic",
+      "record_from": "2018-02-08",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 12
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/004953",
+      "eu_number": "EU/1/20/1430",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-004953",
+      "mah": "Novo Nordisk A/S",
+      "marketing_authorisation_date": "2020-04-03",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/rybelsus",
+      "name": "Rybelsus",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/005422",
+      "eu_number": "EU/1/21/1608",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-005422",
+      "mah": "Novo Nordisk A/S",
+      "marketing_authorisation_date": "2022-01-06",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/wegovy",
+      "name": "Wegovy",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/006426",
+      "eu_number": "EU/1/26/2019",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-006426",
+      "mah": "Novo Nordisk A/S",
+      "marketing_authorisation_date": "2026-03-26",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/kayshild",
+      "name": "Kayshild",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 1,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-004174",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "SEMAGLUTIDE"
+  ],
+  "inn": "semaglutide",
+  "name": "SEMAGLUTIDE",
+  "rank": 208,
+  "rxcui": [
+    "1991306",
+    "1991311",
+    "1991316",
+    "1991317",
+    "2200644",
+    "2200650",
+    "2200652",
+    "2200654",
+    "2200656",
+    "2200658",
+    "2398841",
+    "2398842",
+    "2553501",
+    "2553506",
+    "2553601",
+    "2553603",
+    "2553802",
+    "2553803",
+    "2553901",
+    "2553903",
+    "2554102",
+    "2554104",
+    "2599362",
+    "2599365",
+    "2619152",
+    "2619154",
+    "2707547",
+    "2707549",
+    "2707551",
+    "2707553",
+    "2707555",
+    "2707557",
+    "2730161",
+    "2730163",
+    "2730165",
+    "2730167",
+    "2730169",
+    "2736944",
+    "2736946",
+    "2736948",
+    "2739768",
+    "2739771",
+    "2745801",
+    "2745804"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 3,
+    "approval_holders": 1,
+    "earliest_marketing_start": "2019-09-20",
+    "latest_label_update": "2026-08-19",
+    "nda_bla_applications": 4,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "SEMAGLUTIDE",
+      "unii": "53AXN4NNHX"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA209637",
+        "NDA213051"
+      ],
+      "brand_names": [
+        "OZEMPIC",
+        "Ozempic",
+        "RYBELSUS"
+      ],
+      "combination": false,
+      "home_inn": "semaglutide",
+      "ingredients": [
+        "SEMAGLUTIDE"
+      ],
+      "labeler": "Novo Nordisk Pharmaceutical Industries, LP",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2019-09-20",
+      "moieties": [
+        "SEMAGLUTIDE"
+      ],
+      "product_ndcs": [
+        "0169-1704",
+        "0169-1709",
+        "0169-1715",
+        "0169-4130",
+        "0169-4181",
+        "0169-4303",
+        "0169-4307",
+        "0169-4314",
+        "0169-4772"
+      ],
+      "rxcui": [
+        "2200644",
+        "2200650",
+        "2200652",
+        "2200654",
+        "2200656",
+        "2200658",
+        "2707547",
+        "2707549",
+        "2707551",
+        "2707553",
+        "2707555",
+        "2707557",
+        "2736944",
+        "2736946",
+        "2736948"
+      ],
+      "setid": "27f15fac-7d98-4114-a2ec-92494a91da98",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "OZEMPIC (ORAL SEMAGLUTIDE) TABLET RYBELSUS (ORAL SEMAGLUTIDE) TABLET [NOVO NORDISK PHARMACEUTICAL INDUSTRIES, LP]",
+      "upload_date": "2026-08-19"
+    },
+    {
+      "application_numbers": [
+        "NDA215256",
+        "NDA218316"
+      ],
+      "brand_names": [
+        "WEGOVY"
+      ],
+      "combination": false,
+      "home_inn": "semaglutide",
+      "ingredients": [
+        "SEMAGLUTIDE"
+      ],
+      "labeler": "Novo Nordisk Pharmaceutical Industries, LP",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-06-05",
+      "moieties": [
+        "SEMAGLUTIDE"
+      ],
+      "product_ndcs": [
+        "0169-4404",
+        "0169-4409",
+        "0169-4415",
+        "0169-4425",
+        "0169-4501",
+        "0169-4505",
+        "0169-4517",
+        "0169-4524",
+        "0169-4525",
+        "0169-4572",
+        "0169-4915"
+      ],
+      "rxcui": [
+        "2553501",
+        "2553506",
+        "2553601",
+        "2553603",
+        "2553802",
+        "2553803",
+        "2553901",
+        "2553903",
+        "2554102",
+        "2554104",
+        "2707547",
+        "2707551",
+        "2707555",
+        "2730161",
+        "2730163",
+        "2730165",
+        "2730167",
+        "2730169",
+        "2739768",
+        "2739771",
+        "2745801",
+        "2745804"
+      ],
+      "setid": "ee06186f-2aa3-4990-a760-757579d8f77b",
+      "source": "dailymed-title-match",
+      "spl_version": 19,
+      "title": "WEGOVY (SEMAGLUTIDE) INJECTION, SOLUTION WEGOVY (SEMAGLUTIDE) TABLET [NOVO NORDISK PHARMACEUTICAL INDUSTRIES, LP]",
+      "upload_date": "2026-06-30"
+    },
+    {
+      "application_numbers": [
+        "NDA209637"
+      ],
+      "brand_names": [
+        "Ozempic"
+      ],
+      "combination": false,
+      "home_inn": "semaglutide",
+      "ingredients": [
+        "SEMAGLUTIDE"
+      ],
+      "labeler": "Novo Nordisk Pharmaceutical Industries, LP",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2020-09-30",
+      "moieties": [
+        "SEMAGLUTIDE"
+      ],
+      "product_ndcs": [
+        "0169-4130",
+        "0169-4181",
+        "0169-4772"
+      ],
+      "rxcui": [
+        "1991306",
+        "1991311",
+        "1991316",
+        "1991317",
+        "2398841",
+        "2398842",
+        "2599362",
+        "2599365",
+        "2619152",
+        "2619154"
+      ],
+      "setid": "adec4fd2-6858-4c99-91d4-531f5f2a2d79",
+      "source": "dailymed-title-match",
+      "spl_version": 20,
+      "title": "OZEMPIC (SEMAGLUTIDE) INJECTION, SOLUTION [NOVO NORDISK PHARMACEUTICAL INDUSTRIES, LP]",
+      "upload_date": "2026-06-10"
+    }
+  ],
+  "us_excluded": []
+}

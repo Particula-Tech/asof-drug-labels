@@ -1,0 +1,683 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [
+      {
+        "ema_product_number": "EMEA/H/C/004264",
+        "kind": "salt",
+        "name": "Inhixa"
+      }
+    ],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "ENOXAPARIN SODIUM"
+  ],
+  "inn": "enoxaparin",
+  "name": "ENOXAPARIN",
+  "rank": 365,
+  "rxcui": [
+    "854228",
+    "854232",
+    "854235",
+    "854236",
+    "854238",
+    "854239",
+    "854241",
+    "854242",
+    "854245",
+    "854247",
+    "854248",
+    "854249",
+    "854252",
+    "854253",
+    "854255",
+    "854256"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 27,
+    "approval_holders": 16,
+    "earliest_marketing_start": "1993-03-29",
+    "latest_label_update": "2026-10-19",
+    "nda_bla_applications": 1,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "ENOXAPARIN SODIUM",
+      "unii": "8NZ41MIK1O"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020164"
+      ],
+      "brand_names": [
+        "Lovenox"
+      ],
+      "combination": false,
+      "home_inn": "enoxaparin",
+      "ingredients": [
+        "ENOXAPARIN SODIUM"
+      ],
+      "labeler": "Sanofi-Aventis U.S. LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1993-03-29",
+      "moieties": [
+        "ENOXAPARIN"
+      ],
+      "product_ndcs": [
+        "0075-0620",
+        "0075-0621",
+        "0075-0622",
+        "0075-0623",
+        "0075-0624",
+        "0075-0626",
+        "0075-2912",
+        "0075-2915"
+      ],
+      "rxcui": [
+        "854228",
+        "854232",
+        "854235",
+        "854236",
+        "854238",
+        "854239",
+        "854241",
+        "854242",
+        "854245",
+        "854247",
+        "854248",
+        "854249",
+        "854252",
+        "854253",
+        "854255",
+        "854256"
+      ],
+      "setid": "5017a927-2a24-4f27-89f9-27c805bf7d59",
+      "source": "openfda",
+      "spl_version": 33,
+      "title": "LOVENOX (ENOXAPARIN SODIUM) INJECTION [SANOFI-AVENTIS U.S. LLC]",
+      "upload_date": "2026-05-29"
+    },
+    {
+      "application_numbers": [
+        "NDA020164"
+      ],
+      "brand_names": [
+        "Lovenox"
+      ],
+      "combination": false,
+      "home_inn": "enoxaparin",
+      "ingredients": [
+        "ENOXAPARIN SODIUM"
+      ],
+      "labeler": "Sanofi-Aventis U.S. LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1993-03-29",
+      "moieties": [
+        "ENOXAPARIN"
+      ],
+      "product_ndcs": [
+        "0075-8013",
+        "0075-8014",
+        "0075-8016",
+        "0075-8018",
+        "0075-8020",
+        "0075-8022",
+        "0075-8025",
+        "0075-8030"
+      ],
+      "rxcui": [
+        "854228",
+        "854232",
+        "854235",
+        "854236",
+        "854238",
+        "854239",
+        "854241",
+        "854242",
+        "854245",
+        "854247",
+        "854248",
+        "854249",
+        "854252",
+        "854253",
+        "854255",
+        "854256"
+      ],
+      "setid": "de6fb917-a94a-41ea-9d7d-937d4080ffcd",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "LOVENOX (ENOXAPARIN SODIUM) INJECTION [SANOFI-AVENTIS U.S. LLC]",
+      "upload_date": "2026-02-10"
+    },
+    {
+      "application_numbers": [
+        "NDA020164"
+      ],
+      "brand_names": [
+        "Enoxaparin sodium"
+      ],
+      "combination": false,
+      "home_inn": "enoxaparin",
+      "ingredients": [
+        "ENOXAPARIN SODIUM"
+      ],
+      "labeler": "Sanofi-Aventis U.S. LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2011-10-03",
+      "moieties": [
+        "ENOXAPARIN"
+      ],
+      "product_ndcs": [
+        "0955-1003",
+        "0955-1004",
+        "0955-1006",
+        "0955-1008",
+        "0955-1010",
+        "0955-1012",
+        "0955-1015",
+        "0955-1016"
+      ],
+      "rxcui": [
+        "854228",
+        "854235",
+        "854238",
+        "854241",
+        "854245",
+        "854248",
+        "854252",
+        "854255"
+      ],
+      "setid": "20635579-c92d-4f6c-a332-1096d51002f2",
+      "source": "dailymed-title-match",
+      "spl_version": 23,
+      "title": "ENOXAPARIN SODIUM INJECTION [SANOFI-AVENTIS U.S. LLC]",
+      "upload_date": "2026-09-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA077857"
+      ],
+      "brand_names": [
+        "Enoxaparin Sodium"
+      ],
+      "combination": false,
+      "home_inn": "enoxaparin",
+      "ingredients": [
+        "ENOXAPARIN SODIUM"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-07-23",
+      "moieties": [
+        "ENOXAPARIN"
+      ],
+      "product_ndcs": [
+        "0781-3238",
+        "0781-3246",
+        "0781-3256",
+        "0781-3262",
+        "0781-3268",
+        "0781-3298",
+        "0781-3299"
+      ],
+      "rxcui": [
+        "854228",
+        "854235",
+        "854238",
+        "854241",
+        "854245",
+        "854248",
+        "854252"
+      ],
+      "setid": "38f60bd8-b518-4098-a808-b8f5a3ae6a3a",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "ENOXAPARIN SODIUM INJECTION [SANDOZ INC]",
+      "upload_date": "2024-09-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA076684",
+        "ANDA208600"
+      ],
+      "brand_names": [
+        "Enoxaparin Sodium"
+      ],
+      "combination": false,
+      "home_inn": "enoxaparin",
+      "ingredients": [
+        "ENOXAPARIN SODIUM"
+      ],
+      "labeler": "Amphastar Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-09-19",
+      "moieties": [
+        "ENOXAPARIN"
+      ],
+      "product_ndcs": [
+        "0548-5601",
+        "0548-5602",
+        "0548-5603",
+        "0548-5604",
+        "0548-5605",
+        "0548-5606",
+        "0548-5607",
+        "0548-5608"
+      ],
+      "rxcui": [
+        "854228",
+        "854235",
+        "854238",
+        "854241",
+        "854245",
+        "854248",
+        "854252",
+        "854255"
+      ],
+      "setid": "3e6bf2b3-9339-4104-bda3-ad86a1949703",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "ENOXAPARIN SODIUM INJECTION ENOXAPARIN SODIUM INJECTION [AMPHASTAR PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-12-16"
+    },
+    {
+      "application_numbers": [
+        "ANDA206834"
+      ],
+      "brand_names": [
+        "Enoxaparin Sodium"
+      ],
+      "combination": false,
+      "home_inn": "enoxaparin",
+      "ingredients": [
+        "ENOXAPARIN SODIUM"
+      ],
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-12-01",
+      "moieties": [
+        "ENOXAPARIN"
+      ],
+      "product_ndcs": [
+        "16714-006",
+        "16714-016",
+        "16714-026",
+        "16714-036",
+        "16714-046",
+        "16714-056",
+        "16714-066"
+      ],
+      "rxcui": [
+        "854228",
+        "854235",
+        "854238",
+        "854241",
+        "854245",
+        "854248",
+        "854252"
+      ],
+      "setid": "32f8d292-0dda-4931-81ea-ba47e23edf61",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "ENOXAPARIN SODIUM INJECTION [NORTHSTAR RX LLC]",
+      "upload_date": "2024-12-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA076726"
+      ],
+      "brand_names": [
+        "Enoxaparin Sodium"
+      ],
+      "combination": false,
+      "home_inn": "enoxaparin",
+      "ingredients": [
+        "ENOXAPARIN SODIUM"
+      ],
+      "labeler": "Italfarmaco SpA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-04-01",
+      "moieties": [
+        "ENOXAPARIN"
+      ],
+      "product_ndcs": [
+        "11797-757",
+        "11797-758",
+        "11797-759",
+        "11797-760",
+        "11797-761",
+        "11797-762",
+        "11797-763"
+      ],
+      "rxcui": [
+        "854228",
+        "854235",
+        "854238",
+        "854241",
+        "854245",
+        "854248",
+        "854252"
+      ],
+      "setid": "b4d9e4d4-4fdb-48d6-a169-7bc5eebc51e9",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "ENOXAPARIN SODIUM INJECTION, SOLUTION [ITALFARMACO SPA]",
+      "upload_date": "2022-11-22"
+    },
+    {
+      "application_numbers": [
+        "ANDA205660"
+      ],
+      "brand_names": [
+        "Enoxaparin Sodium"
+      ],
+      "combination": false,
+      "home_inn": "enoxaparin",
+      "ingredients": [
+        "ENOXAPARIN SODIUM"
+      ],
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-03-15",
+      "moieties": [
+        "ENOXAPARIN"
+      ],
+      "product_ndcs": [
+        "72603-165",
+        "72603-175",
+        "72603-185",
+        "72603-195",
+        "72603-205",
+        "72603-215",
+        "72603-225"
+      ],
+      "rxcui": [
+        "854228",
+        "854235",
+        "854238",
+        "854241",
+        "854245",
+        "854248",
+        "854252"
+      ],
+      "setid": "014c6710-f2c4-fd1e-e063-6394a90ae525",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "ENOXAPARIN SODIUM INJECTION, SOLUTION [NORTHSTAR RXLLC]",
+      "upload_date": "2024-10-30"
+    },
+    {
+      "application_numbers": [
+        "NDA020164"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "LOVENOX"
+      ],
+      "first_posted": "2012-04-30",
+      "found_by": "LOVENOX",
+      "labeler": "sanofi-aventis U.S. LLC",
+      "labeler_unverified": false,
+      "last_posted": "2018-05-07",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-10-31"
+      ],
+      "product_ndcs": [
+        "0075-0620",
+        "0075-0621",
+        "0075-0622",
+        "0075-0623",
+        "0075-0624",
+        "0075-0626",
+        "0075-2912",
+        "0075-2915"
+      ],
+      "rxcui": [],
+      "setid": "53fd1302-9e1b-4e04-b06d-1a706547c388",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "20635579-c92d-4f6c-a332-1096d51002f2",
+        "5017a927-2a24-4f27-89f9-27c805bf7d59",
+        "de6fb917-a94a-41ea-9d7d-937d4080ffcd"
+      ],
+      "title": "LOVENOX (enoxaparin sodium) injection"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "LOVENOX"
+      ],
+      "first_posted": "2008-02-15",
+      "found_by": "LOVENOX",
+      "labeler": "sanofi-aventis U.S. LLC",
+      "labeler_unverified": false,
+      "last_posted": "2008-02-15",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0075-0620",
+        "0075-0621",
+        "0075-0622",
+        "0075-0623",
+        "0075-0624",
+        "0075-0626",
+        "0075-2912",
+        "0075-2915"
+      ],
+      "rxcui": [],
+      "setid": "7e02aa6c-cc88-4126-a9ee-76304c56cc6f",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "lovenox (enoxaparin sodium) solution"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "BE Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b7197534-1daa-42de-8b83-a727da1195bf"
+    },
+    {
+      "combination": false,
+      "labeler": "Hebei Changshan Biochemical Pharmaceutical Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7fa78f8d-92d9-434a-8e26-b886ab0ae77f"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA",
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "066f27ec-352c-4051-ba29-248e292690db"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA",
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "21b095d1-5ade-43e9-9114-30fbfb2331c9"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a694bbc3-4eb0-4c1e-b4ff-b8abc3e5148e"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c3be543e-8aff-4311-bf77-e7a5a814ca6f"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "adbba7bb-fa72-4cec-aa69-13965591a45d"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b6fb85ab-1fe5-4dd3-a97f-adbed0674f67"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9e2875df-0f0c-46ec-990f-69108f383f58"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a2a8615b-a27e-4ab2-ae4c-592bbf4643c0"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d978e06e-b758-460b-81d3-69f7a5b89b00"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d8afb29f-cbed-43bc-809f-09b30fca28f5"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7d38c307-767f-4c38-ac0e-b8bb62782602"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "adfc2b23-00a5-4f05-a08b-83087e1e4843"
+    },
+    {
+      "combination": false,
+      "labeler": "Sandoz Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1e0ac5e2-329c-d0a8-e063-6394a90afba8"
+    },
+    {
+      "combination": false,
+      "labeler": "Hepalink USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "31e7c4d0-ba45-4b20-8e25-2d12892372e5"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "65025e0d-eb54-4c4e-bd14-f294ce038902"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "419a3566-4f67-4c8d-86e5-c00c7ec429e1"
+    },
+    {
+      "combination": false,
+      "labeler": "Civica, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b4728749-8453-4f07-9fbc-a1f3e9d2708b"
+    }
+  ]
+}

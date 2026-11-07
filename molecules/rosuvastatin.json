@@ -1,0 +1,580 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "ROSUVASTATIN",
+    "ROSUVASTATIN CALCIUM"
+  ],
+  "inn": "rosuvastatin",
+  "name": "ROSUVASTATIN",
+  "rank": 155,
+  "rxcui": [
+    "859419",
+    "859421",
+    "859424",
+    "859426",
+    "859747",
+    "859749",
+    "859751",
+    "859753"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 28,
+    "approval_holders": 26,
+    "earliest_marketing_start": "2016-07-19",
+    "latest_label_update": "2026-10-30",
+    "nda_bla_applications": 1,
+    "repackagers": 15
+  },
+  "unii": [
+    {
+      "ingredient": "ROSUVASTATIN",
+      "unii": "413KH5ZJ73"
+    },
+    {
+      "ingredient": "ROSUVASTATIN CALCIUM",
+      "unii": "83MVU38M7Q"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021366"
+      ],
+      "brand_names": [
+        "Crestor"
+      ],
+      "combination": false,
+      "home_inn": "rosuvastatin",
+      "ingredients": [
+        "ROSUVASTATIN CALCIUM"
+      ],
+      "labeler": "AstraZeneca Pharmaceuticals LP",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-01-24",
+      "moieties": [
+        "ROSUVASTATIN"
+      ],
+      "product_ndcs": [
+        "0310-7560",
+        "0310-7570",
+        "0310-7580",
+        "0310-7590"
+      ],
+      "rxcui": [
+        "859419",
+        "859421",
+        "859424",
+        "859426",
+        "859747",
+        "859749",
+        "859751",
+        "859753"
+      ],
+      "setid": "325a5d0e-9a72-4015-9fcd-1655fb504cee",
+      "source": "dailymed-title-match",
+      "spl_version": 19,
+      "title": "CRESTOR (ROSUVASTATIN) TABLET, FILM COATED [ASTRAZENECA PHARMACEUTICALS LP]",
+      "upload_date": "2026-09-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA079172"
+      ],
+      "brand_names": [
+        "Rosuvastatin calcium"
+      ],
+      "combination": false,
+      "home_inn": "rosuvastatin",
+      "ingredients": [
+        "ROSUVASTATIN CALCIUM"
+      ],
+      "labeler": "Glenmark Pharmaceutials Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-07-19",
+      "moieties": [
+        "ROSUVASTATIN"
+      ],
+      "product_ndcs": [
+        "68462-261",
+        "68462-262",
+        "68462-263",
+        "68462-264"
+      ],
+      "rxcui": [
+        "859419",
+        "859424",
+        "859747",
+        "859751"
+      ],
+      "setid": "392657a9-955c-42c2-814c-1890ece45afa",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "ROSUVASTATIN CALCIUM TABLET, FILM COATED [GLENMARK PHARMACEUTIALS INC., USA]",
+      "upload_date": "2026-08-25"
+    },
+    {
+      "application_numbers": [
+        "ANDA079170"
+      ],
+      "brand_names": [
+        "Rosuvastatin Calcium"
+      ],
+      "combination": false,
+      "home_inn": "rosuvastatin",
+      "ingredients": [
+        "ROSUVASTATIN CALCIUM"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-07-19",
+      "moieties": [
+        "ROSUVASTATIN"
+      ],
+      "product_ndcs": [
+        "65862-293",
+        "65862-294",
+        "65862-295",
+        "65862-296"
+      ],
+      "rxcui": [
+        "859419",
+        "859424",
+        "859747",
+        "859751"
+      ],
+      "setid": "47924917-bbd5-45de-96cb-c7ff9754da97",
+      "source": "openfda",
+      "spl_version": 26,
+      "title": "ROSUVASTATIN CALCIUM TABLET, FILM COATED [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2026-09-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA079168"
+      ],
+      "brand_names": [
+        "Rosuvastain Calcium"
+      ],
+      "combination": false,
+      "home_inn": "rosuvastatin",
+      "ingredients": [
+        "ROSUVASTATIN CALCIUM"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-07-19",
+      "moieties": [
+        "ROSUVASTATIN"
+      ],
+      "product_ndcs": [
+        "62135-690",
+        "62135-691",
+        "62135-692",
+        "62135-693"
+      ],
+      "rxcui": [
+        "859419",
+        "859424",
+        "859747",
+        "859751"
+      ],
+      "setid": "a12a99ef-b573-498f-be5a-deb7cd538153",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "ROSUVASTAIN CALCIUM TABLET, FILM COATED [CHARTWELL RX, LLC]",
+      "upload_date": "2024-07-22"
+    },
+    {
+      "application_numbers": [
+        "ANDA207616"
+      ],
+      "brand_names": [
+        "Rosuvastatin"
+      ],
+      "combination": false,
+      "home_inn": "rosuvastatin",
+      "ingredients": [
+        "ROSUVASTATIN CALCIUM"
+      ],
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-10-29",
+      "moieties": [
+        "ROSUVASTATIN"
+      ],
+      "product_ndcs": [
+        "31722-882",
+        "31722-883",
+        "31722-884",
+        "31722-885"
+      ],
+      "rxcui": [
+        "859419",
+        "859424",
+        "859747",
+        "859751"
+      ],
+      "setid": "7778df5a-82c1-4a86-8867-a3325da025ec",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "ROSUVASTATIN (ROSUVASTATIN) TABLET, FILM COATED [CAMBER PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-06-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA207752"
+      ],
+      "brand_names": [
+        "Rosuvastatin calcium"
+      ],
+      "combination": false,
+      "home_inn": "rosuvastatin",
+      "ingredients": [
+        "ROSUVASTATIN CALCIUM"
+      ],
+      "labeler": "Biocon Pharma Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-10-31",
+      "moieties": [
+        "ROSUVASTATIN"
+      ],
+      "product_ndcs": [
+        "70377-006",
+        "70377-007",
+        "70377-008",
+        "70377-009"
+      ],
+      "rxcui": [
+        "859419",
+        "859424",
+        "859747",
+        "859751"
+      ],
+      "setid": "033d8c8f-bbe9-96b5-fd53-cb0ef929857a",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "ROSUVASTATIN CALCIUM TABLET, FILM COATED [BIOCON PHARMA INC]",
+      "upload_date": "2025-12-31"
+    },
+    {
+      "application_numbers": [
+        "ANDA206434"
+      ],
+      "brand_names": [
+        "Rosuvastatin"
+      ],
+      "combination": false,
+      "home_inn": "rosuvastatin",
+      "ingredients": [
+        "ROSUVASTATIN CALCIUM"
+      ],
+      "labeler": "Accord Healthcare Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-10-31",
+      "moieties": [
+        "ROSUVASTATIN"
+      ],
+      "product_ndcs": [
+        "16729-284",
+        "16729-285",
+        "16729-286",
+        "16729-287"
+      ],
+      "rxcui": [
+        "859419",
+        "859424",
+        "859747",
+        "859751"
+      ],
+      "setid": "3ffe0294-3997-2755-e054-00144ff8d46c",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "ROSUVASTATIN TABLET, FILM COATED [ACCORD HEALTHCARE INC.]",
+      "upload_date": "2025-11-18"
+    },
+    {
+      "application_numbers": [
+        "NDA208647"
+      ],
+      "archived_versions": 8,
+      "brand_names": [
+        "EZALLOR"
+      ],
+      "first_posted": "2019-05-06",
+      "found_by": "EZALLOR",
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2026-06-03",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-12-31"
+      ],
+      "product_ndcs": [
+        "47335-984",
+        "47335-985",
+        "47335-986",
+        "47335-987"
+      ],
+      "rxcui": [],
+      "setid": "619add8c-3e39-4bb7-8828-450bd82c0404",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "EZALLOR SPRINKLE (rosuvastatin) capsule"
+    },
+    {
+      "application_numbers": [
+        "NDA021366"
+      ],
+      "archived_versions": 32,
+      "brand_names": [
+        "CRESTOR"
+      ],
+      "first_posted": "2008-01-31",
+      "found_by": "CRESTOR",
+      "labeler": "AstraZeneca Pharmaceuticals LP",
+      "labeler_unverified": false,
+      "last_posted": "2024-04-15",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-02-28",
+        "2024-04-30"
+      ],
+      "product_ndcs": [
+        "0310-0751",
+        "0310-0752",
+        "0310-0754",
+        "0310-0755"
+      ],
+      "rxcui": [],
+      "setid": "bb0f3b5e-4bc6-41c9-66b9-6257e2513512",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "325a5d0e-9a72-4015-9fcd-1655fb504cee"
+      ],
+      "title": "CRESTOR (rosuvastatin calcium) tablet, film coated"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "TORRENT PHARMACEUTICALS LIMITED",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6985e729-d963-4f32-89a1-727472b86daa"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4ccbaa83-d57a-421e-88a8-1cee42d4207b"
+    },
+    {
+      "combination": false,
+      "labeler": "Cadila Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6802a946-a29c-4d41-997b-3c078ed8e74d"
+    },
+    {
+      "combination": false,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d58f1f63-4bb6-413c-9730-ded3e8078618"
+    },
+    {
+      "combination": false,
+      "labeler": "Cranbury Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "606d16fb-82e4-420d-9456-09997562b528"
+    },
+    {
+      "combination": false,
+      "labeler": "ScieGen Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ee4933c5-0d97-494d-ac0f-2083e0100836"
+    },
+    {
+      "combination": false,
+      "labeler": "Shandong New Time Pharmaceutical Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ae865404-ecf4-41a8-b40b-62f887c220f2"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d7b9f280-bda6-40d4-9778-e45efb87ab23"
+    },
+    {
+      "combination": false,
+      "labeler": "Westminster Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "02797697-300a-43db-92cf-9b78f08626be"
+    },
+    {
+      "combination": false,
+      "labeler": "AiPing Pharmaceutical, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "913067e8-723b-4ce2-9ebc-3e10b0f0cf7a"
+    },
+    {
+      "combination": false,
+      "labeler": "HEC Pharm USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "568a782b-1621-5e59-e063-6294a90a7fef"
+    },
+    {
+      "combination": false,
+      "labeler": "Zhejiang Yongtai Pharmaceutical Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "40c2900e-4659-49ce-ba4b-5df529b3c53b"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a6141eb6-0b38-44f9-9d16-ec7218a51f92"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5c992d3d-d754-48b6-a267-1451208352ed"
+    },
+    {
+      "combination": false,
+      "labeler": "TORRENT PHARMACEUTICALS LIMITED",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8c2d481f-53f2-4cf6-bd28-7d92323785cd"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "17d71c80-fade-4735-acec-60738d26dd01"
+    },
+    {
+      "combination": false,
+      "labeler": "Quallent Pharmaceuticals Health LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6f978191-775e-4745-9c07-99e5be888afe"
+    },
+    {
+      "combination": false,
+      "labeler": "PURACAP LABORATORIES LLC DBA BLU PHARMACEUTICALS",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9333c674-5714-41ed-8a16-dc7c3e50b9a4"
+    },
+    {
+      "combination": false,
+      "labeler": "Umedica Laboratories USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "989dffcf-0254-439d-9f3f-3b0e9d32de0a"
+    },
+    {
+      "combination": false,
+      "labeler": "Quallent Pharmaceuticals Health LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0d12ae85-71bd-4818-a82d-fd068530bd87"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c622757d-7370-438b-8c2d-ef444a4f31dd"
+    }
+  ]
+}

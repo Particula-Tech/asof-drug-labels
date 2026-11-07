@@ -1,0 +1,460 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "TETRACYCLINE HYDROCHLORIDE"
+  ],
+  "inn": "tetracycline",
+  "name": "TETRACYCLINE",
+  "rank": 438,
+  "rxcui": [
+    "198250",
+    "198252",
+    "313252",
+    "313254",
+    "1294619",
+    "1294621"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 13,
+    "approval_holders": 9,
+    "earliest_marketing_start": "1988-08-12",
+    "latest_label_update": "2026-07-01",
+    "nda_bla_applications": 2,
+    "repackagers": 3
+  },
+  "unii": [
+    {
+      "ingredient": "TETRACYCLINE HYDROCHLORIDE",
+      "unii": "P6R62377KV"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA050278"
+      ],
+      "brand_names": [
+        "tetracycline hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "tetracycline",
+      "ingredients": [
+        "TETRACYCLINE HYDROCHLORIDE"
+      ],
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-09-15",
+      "moieties": [
+        "TETRACYCLINE"
+      ],
+      "product_ndcs": [
+        "23155-017",
+        "23155-018"
+      ],
+      "rxcui": [
+        "198250",
+        "198252"
+      ],
+      "setid": "eaa5b1bd-0927-46e4-b941-32fcc492d258",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "TETRACYCLINE HYDROCHLORIDE CAPSULE [HERITAGE PHARMACEUTICALS INC. D/B/A AVET PHARMACEUTICALS INC.]",
+      "upload_date": "2025-04-07"
+    },
+    {
+      "application_numbers": [
+        "NDA050786"
+      ],
+      "brand_names": [
+        "PYLERA"
+      ],
+      "combination": true,
+      "home_inn": "metronidazole",
+      "ingredients": [
+        "BISMUTH SUBCITRATE POTASSIUM",
+        "METRONIDAZOLE",
+        "TETRACYCLINE HYDROCHLORIDE"
+      ],
+      "labeler": "H2-Pharma, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-10-01",
+      "moieties": [
+        "BISMUTH SUBCITRATE",
+        "METRONIDAZOLE",
+        "TETRACYCLINE"
+      ],
+      "product_ndcs": [
+        "61269-380"
+      ],
+      "rxcui": [
+        "1294619",
+        "1294621"
+      ],
+      "setid": "5cdacbf5-67be-42eb-bd54-8acc32ea1abc",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "PYLERA (BISMUTH SUBCITRATE POTASSIUM, METRONIDAZOLE, AND TETRACYCLINE HYDROCHLORIDE) CAPSULE [H2-PHARMA, LLC]",
+      "upload_date": "2026-07-01"
+    },
+    {
+      "application_numbers": [
+        "NDA050786"
+      ],
+      "brand_names": [
+        "PYLERA"
+      ],
+      "combination": true,
+      "home_inn": "tetracycline",
+      "ingredients": [
+        "BISMUTH SUBCITRATE POTASSIUM",
+        "METRONIDAZOLE",
+        "TETRACYCLINE HYDROCHLORIDE"
+      ],
+      "labeler": "H2-Pharma, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-08-18",
+      "moieties": [
+        "BISMUTH SUBCITRATE",
+        "METRONIDAZOLE",
+        "TETRACYCLINE"
+      ],
+      "product_ndcs": [
+        "61269-381"
+      ],
+      "rxcui": [
+        "1294619",
+        "1294621"
+      ],
+      "setid": "c50626a2-5969-490b-a88a-a4ee45e79615",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "PYLERA (BISMUTH SUBCITRATE POTASSIUM, METRONIDAZOLE, AND TETRACYCLINE HYDROCHLORIDE) CAPSULE [H2-PHARMA, LLC]",
+      "upload_date": "2026-01-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA062752"
+      ],
+      "brand_names": [
+        "Tetracycline Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "tetracycline",
+      "ingredients": [
+        "TETRACYCLINE HYDROCHLORIDE"
+      ],
+      "labeler": "Chartwell RX, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1988-08-12",
+      "moieties": [
+        "TETRACYCLINE"
+      ],
+      "product_ndcs": [
+        "62135-225",
+        "62135-266"
+      ],
+      "rxcui": [
+        "198250",
+        "198252"
+      ],
+      "setid": "aa30113f-ab58-4f41-82c1-2fcb540d4a82",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "TETRACYCLINE HYDROCHLORIDE CAPSULE [CHARTWELL RX, LLC.]",
+      "upload_date": "2023-07-20"
+    },
+    {
+      "application_numbers": [
+        "ANDA061837"
+      ],
+      "brand_names": [
+        "Tetracycline Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "tetracycline",
+      "ingredients": [
+        "TETRACYCLINE HYDROCHLORIDE"
+      ],
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-08-15",
+      "moieties": [
+        "TETRACYCLINE"
+      ],
+      "product_ndcs": [
+        "0591-2474",
+        "0591-2475"
+      ],
+      "rxcui": [
+        "198250",
+        "198252"
+      ],
+      "setid": "32a409a0-fea6-411a-8218-c1c7df46d664",
+      "source": "openfda",
+      "spl_version": 20,
+      "title": "TETRACYCLINE HYDROCHLORIDE CAPSULE [ACTAVIS PHARMA, INC.]",
+      "upload_date": "2025-06-26"
+    },
+    {
+      "application_numbers": [
+        "ANDA210674"
+      ],
+      "brand_names": [
+        "Tetracycline Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "tetracycline",
+      "ingredients": [
+        "TETRACYCLINE HYDROCHLORIDE"
+      ],
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-09-21",
+      "moieties": [
+        "TETRACYCLINE"
+      ],
+      "product_ndcs": [
+        "69238-1522",
+        "69238-1523"
+      ],
+      "rxcui": [
+        "198250",
+        "198252"
+      ],
+      "setid": "ae29aa18-6efb-47c9-bbd7-cbe8af1b7f38",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "TETRACYCLINE HYDROCHLORIDE CAPSULE [AMNEAL PHARMACEUTICALS NY LLC]",
+      "upload_date": "2025-05-16"
+    },
+    {
+      "application_numbers": [
+        "ANDA210662"
+      ],
+      "brand_names": [
+        "Tetracycline Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "tetracycline",
+      "ingredients": [
+        "TETRACYCLINE HYDROCHLORIDE"
+      ],
+      "labeler": "Breckenridge Pharmaceutical, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-01-18",
+      "moieties": [
+        "TETRACYCLINE"
+      ],
+      "product_ndcs": [
+        "51991-906",
+        "51991-907"
+      ],
+      "rxcui": [
+        "198250",
+        "198252"
+      ],
+      "setid": "00acf413-c5d2-4a54-9d0d-56266cbc9edc",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "TETRACYCLINE HYDROCHLORIDE CAPSULE [BRECKENRIDGE PHARMACEUTICAL, INC.]",
+      "upload_date": "2026-06-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA061147"
+      ],
+      "brand_names": [
+        "Tetracycline Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "tetracycline",
+      "ingredients": [
+        "TETRACYCLINE HYDROCHLORIDE"
+      ],
+      "labeler": "Pharmaka Generics Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-01-19",
+      "moieties": [
+        "TETRACYCLINE"
+      ],
+      "product_ndcs": [
+        "82644-087",
+        "82644-870"
+      ],
+      "rxcui": [
+        "313252",
+        "313254"
+      ],
+      "setid": "c522c860-84ce-4c61-ab72-077de73195df",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "TETRACYCLINE HYDROCHLORIDE TABLET, FILM COATED [PHARMAKA GENERICS INC.]",
+      "upload_date": "2024-01-22"
+    },
+    {
+      "application_numbers": [
+        "NDA050786"
+      ],
+      "brand_names": [
+        "Bismuth Subcitrate Potassium, Metronidazole and Tetracycline Hydrochloride"
+      ],
+      "combination": true,
+      "home_inn": "tetracycline",
+      "ingredients": [
+        "BISMUTH SUBCITRATE POTASSIUM",
+        "METRONIDAZOLE",
+        "TETRACYCLINE HYDROCHLORIDE"
+      ],
+      "labeler": "H2-Pharma, LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2025-07-01",
+      "moieties": [
+        "BISMUTH SUBCITRATE",
+        "METRONIDAZOLE",
+        "TETRACYCLINE"
+      ],
+      "product_ndcs": [
+        "61269-386"
+      ],
+      "rxcui": [
+        "1294619"
+      ],
+      "setid": "c29bfde9-5eb4-422a-bd30-4bce45e73dc0",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "BISMUTH SUBCITRATE POTASSIUM, METRONIDAZOLE AND TETRACYCLINE HYDROCHLORIDE CAPSULE [H2-PHARMA, LLC]",
+      "upload_date": "2026-04-14"
+    },
+    {
+      "application_numbers": [
+        "NDA050786"
+      ],
+      "archived_versions": 19,
+      "brand_names": [
+        "PYLERA"
+      ],
+      "first_posted": "2011-02-04",
+      "found_by": "PYLERA",
+      "labeler": "Allergan, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2024-11-05",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "58914-601"
+      ],
+      "rxcui": [],
+      "setid": "a762e164-b390-4e8c-bd46-bf6c31eeb486",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "5cdacbf5-67be-42eb-bd54-8acc32ea1abc",
+        "c29bfde9-5eb4-422a-bd30-4bce45e73dc0",
+        "c50626a2-5969-490b-a88a-a4ee45e79615"
+      ],
+      "title": "PYLERA (bismuth subcitrate potassium, metronidazole, tetracycline hydrochloride) capsule"
+    },
+    {
+      "application_numbers": [
+        "NDA050278"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "ACHROMYCIN"
+      ],
+      "first_posted": "2014-06-27",
+      "found_by": "ACHROMYCIN",
+      "labeler": "Heritage Pharmaceuticals Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2019-09-25",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-09-23"
+      ],
+      "product_ndcs": [
+        "23155-487",
+        "23155-488"
+      ],
+      "rxcui": [],
+      "setid": "eaecd9a1-e13e-49b1-8b3c-8e1ef016cacd",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "eaa5b1bd-0927-46e4-b941-32fcc492d258"
+      ],
+      "title": "ACHROMYCIN V (tetracycline hcl) capsule"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": true,
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c4d66e80-f0bc-4e64-a0f0-630ef673da1b"
+    },
+    {
+      "combination": true,
+      "labeler": "Ingenus Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4c7f024d-ba26-43cf-a36f-597e2168cd9f"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3ce3e8dc-7fbd-4f8d-a65f-092e1ef21725"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b504e612-5aef-47fa-8f7b-dfb754011b9f"
+    }
+  ]
+}

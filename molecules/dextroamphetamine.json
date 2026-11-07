@@ -1,0 +1,969 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "DEXTROAMPHETAMINE",
+    "DEXTROAMPHETAMINE SACCHARATE",
+    "DEXTROAMPHETAMINE SULFATE"
+  ],
+  "inn": "dextroamphetamine",
+  "name": "DEXTROAMPHETAMINE",
+  "rank": 63,
+  "rxcui": [
+    "861221",
+    "861222",
+    "861223",
+    "861224",
+    "861225",
+    "861226",
+    "861227",
+    "861228",
+    "861232",
+    "861233",
+    "861237",
+    "861238",
+    "884385",
+    "884386",
+    "884520",
+    "884522",
+    "884528",
+    "884532",
+    "884534",
+    "884535",
+    "884537",
+    "884684",
+    "1535454",
+    "1535470",
+    "1927610",
+    "1927616",
+    "1927617",
+    "1927619",
+    "1927630",
+    "1927632",
+    "1927637",
+    "1927639"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 53,
+    "approval_holders": 34,
+    "earliest_marketing_start": "1976-08-02",
+    "latest_label_update": "2026-10-30",
+    "nda_bla_applications": 4,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "DEXTROAMPHETAMINE SULFATE",
+      "unii": "JJ768O327N"
+    }
+  ],
+  "unii_unresolved": [
+    "DEXTROAMPHETAMINE",
+    "DEXTROAMPHETAMINE SACCHARATE"
+  ],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA017078"
+      ],
+      "brand_names": [
+        "DEXEDRINE SPANSULE"
+      ],
+      "combination": false,
+      "home_inn": "dextroamphetamine",
+      "ingredients": [
+        "DEXTROAMPHETAMINE SULFATE"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1976-08-02",
+      "moieties": [
+        "DEXTROAMPHETAMINE"
+      ],
+      "product_ndcs": [
+        "64896-673",
+        "64896-674",
+        "64896-675"
+      ],
+      "rxcui": [
+        "884520",
+        "884528",
+        "884532",
+        "884534",
+        "884535",
+        "884537"
+      ],
+      "setid": "cc717b9b-22ea-4c60-a1d4-ee38a40bce78",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "DEXEDRINE SPANSULE (DEXTROAMPHETAMINE SULFATE) CAPSULE, EXTENDED RELEASE [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2025-09-29"
+    },
+    {
+      "application_numbers": [
+        "NDA215401"
+      ],
+      "brand_names": [
+        "XELSTRYM"
+      ],
+      "combination": false,
+      "home_inn": "dextroamphetamine",
+      "ingredients": [
+        "DEXTROAMPHETAMINE"
+      ],
+      "labeler": "Noven Therapeutics, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-05-15",
+      "moieties": [
+        "DEXTROAMPHETAMINE"
+      ],
+      "product_ndcs": [
+        "68968-0205",
+        "68968-0210",
+        "68968-0215",
+        "68968-0220"
+      ],
+      "rxcui": [],
+      "setid": "0862f02a-72a8-41cc-8845-57cf4974bb6f",
+      "source": "dailymed-title-match",
+      "spl_version": 18,
+      "title": "XELSTRYM (DEXTROAMPHETAMINE) PATCH, EXTENDED RELEASE [NOVEN THERAPEUTICS, LLC]",
+      "upload_date": "2026-10-30"
+    },
+    {
+      "application_numbers": [
+        "NDA021303"
+      ],
+      "brand_names": [
+        "Adderall XR"
+      ],
+      "combination": true,
+      "home_inn": "amphetamine",
+      "ingredients": [
+        "AMPHETAMINE ASPARTATE MONOHYDRATE",
+        "AMPHETAMINE SULFATE",
+        "DEXTROAMPHETAMINE SACCHARATE",
+        "DEXTROAMPHETAMINE SULFATE"
+      ],
+      "labeler": "Takeda Pharmaceuticals America, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2001-10-11",
+      "moieties": [
+        "AMPHETAMINE",
+        "DEXTROAMPHETAMINE"
+      ],
+      "product_ndcs": [
+        "54092-381",
+        "54092-383",
+        "54092-385",
+        "54092-387",
+        "54092-389",
+        "54092-391"
+      ],
+      "rxcui": [
+        "861221",
+        "861222",
+        "861223",
+        "861224",
+        "861225",
+        "861226",
+        "861227",
+        "861228",
+        "861232",
+        "861233",
+        "861237",
+        "861238"
+      ],
+      "setid": "aff45863-ffe1-4d4f-8acf-c7081512a6c0",
+      "source": "openfda",
+      "spl_version": 38,
+      "title": "ADDERALL XR (DEXTROAMPHETAMINE SULFATE, DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE SULFATE AND AMPHETAMINE ASPARTATE) CAPSULE, EXTENDED RELEASE [TAKEDA PHARMACEUTICALS AMERICA, INC.]",
+      "upload_date": "2026-05-06"
+    },
+    {
+      "application_numbers": [
+        "NDA022063"
+      ],
+      "brand_names": [
+        "MYDAYIS"
+      ],
+      "combination": true,
+      "home_inn": "amphetamine",
+      "ingredients": [
+        "AMPHETAMINE ASPARTATE MONOHYDRATE",
+        "AMPHETAMINE SULFATE",
+        "DEXTROAMPHETAMINE SACCHARATE",
+        "DEXTROAMPHETAMINE SULFATE"
+      ],
+      "labeler": "Takeda Pharmaceuticals America, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-06-20",
+      "moieties": [
+        "AMPHETAMINE",
+        "DEXTROAMPHETAMINE"
+      ],
+      "product_ndcs": [
+        "54092-468",
+        "54092-471",
+        "54092-474",
+        "54092-477"
+      ],
+      "rxcui": [
+        "1927610",
+        "1927616",
+        "1927617",
+        "1927619",
+        "1927630",
+        "1927632",
+        "1927637",
+        "1927639"
+      ],
+      "setid": "141a7970-3f06-44ea-9ab7-aeece2c085fc",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "MYDAYIS (DEXTROAMPHETAMINE SULFATE, DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE MONOHYDRATE, AND AMPHETAMINE SULFATE) CAPSULE, EXTENDED RELEASE [TAKEDA PHARMACEUTICALS AMERICA, INC.]",
+      "upload_date": "2026-05-06"
+    },
+    {
+      "application_numbers": [
+        "NDA017078"
+      ],
+      "brand_names": [
+        "Dextroamphetamine Sulfate Extended-Release"
+      ],
+      "combination": false,
+      "home_inn": "dextroamphetamine",
+      "ingredients": [
+        "DEXTROAMPHETAMINE SULFATE"
+      ],
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "1976-08-02",
+      "moieties": [
+        "DEXTROAMPHETAMINE"
+      ],
+      "product_ndcs": [
+        "0115-9927",
+        "0115-9928",
+        "0115-9929"
+      ],
+      "rxcui": [
+        "884520",
+        "884532",
+        "884535"
+      ],
+      "setid": "2ec5c30f-4eb8-48a5-83c4-236450413464",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "DEXTROAMPHETAMINE SULFATE EXTENDED-RELEASE (DEXTROAMPHETAMINE SULFATE) CAPSULE, EXTENDED RELEASE [AMNEAL PHARMACEUTICALS OF NEW YORK LLC]",
+      "upload_date": "2024-01-01"
+    },
+    {
+      "application_numbers": [
+        "ANDA040361"
+      ],
+      "brand_names": [
+        "Dextroamphetamine Sulfate"
+      ],
+      "combination": false,
+      "home_inn": "dextroamphetamine",
+      "ingredients": [
+        "DEXTROAMPHETAMINE SULFATE"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2001-02-12",
+      "moieties": [
+        "DEXTROAMPHETAMINE"
+      ],
+      "product_ndcs": [
+        "0555-0952",
+        "0555-0953"
+      ],
+      "rxcui": [
+        "884385",
+        "884386"
+      ],
+      "setid": "ec2d13f3-d14f-47e4-abe9-7763f95a8e94",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "DEXTROAMPHETAMINE SULFATE TABLET [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2026-02-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA040436"
+      ],
+      "brand_names": [
+        "DEXTROAMPHETAMINE SULFATE"
+      ],
+      "combination": false,
+      "home_inn": "dextroamphetamine",
+      "ingredients": [
+        "DEXTROAMPHETAMINE SULFATE"
+      ],
+      "labeler": "SpecGx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2002-01-29",
+      "moieties": [
+        "DEXTROAMPHETAMINE"
+      ],
+      "product_ndcs": [
+        "0406-8958",
+        "0406-8959"
+      ],
+      "rxcui": [
+        "884385",
+        "884386"
+      ],
+      "setid": "e05cf690-d45a-4696-a1bf-40c9350cc084",
+      "source": "openfda",
+      "spl_version": 25,
+      "title": "DEXTROAMPHETAMINE SULFATE TABLET [SPECGX LLC]",
+      "upload_date": "2025-07-14"
+    },
+    {
+      "application_numbers": [
+        "ANDA076353"
+      ],
+      "brand_names": [
+        "Dextroamphetamine Sulfate Extended-Release"
+      ],
+      "combination": false,
+      "home_inn": "dextroamphetamine",
+      "ingredients": [
+        "DEXTROAMPHETAMINE SULFATE"
+      ],
+      "labeler": "SpecGx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2003-05-06",
+      "moieties": [
+        "DEXTROAMPHETAMINE"
+      ],
+      "product_ndcs": [
+        "0406-8960",
+        "0406-8961",
+        "0406-8962"
+      ],
+      "rxcui": [
+        "884520",
+        "884532",
+        "884535"
+      ],
+      "setid": "69c40af8-3710-46bf-bd3d-137fe5eea23e",
+      "source": "openfda",
+      "spl_version": 23,
+      "title": "DEXTROAMPHETAMINE SULFATE EXTENDED-RELEASE (DEXTROAMPHETAMINE SULFATE) CAPSULE, EXTENDED RELEASE [SPECGX LLC]",
+      "upload_date": "2025-12-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA090533"
+      ],
+      "brand_names": [
+        "Dextroamphetamine Sulfate"
+      ],
+      "combination": false,
+      "home_inn": "dextroamphetamine",
+      "ingredients": [
+        "DEXTROAMPHETAMINE SULFATE"
+      ],
+      "labeler": "Wilshire Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-07-16",
+      "moieties": [
+        "DEXTROAMPHETAMINE"
+      ],
+      "product_ndcs": [
+        "52536-500",
+        "52536-510",
+        "52536-515",
+        "52536-520",
+        "52536-530"
+      ],
+      "rxcui": [
+        "884385",
+        "884386",
+        "884684",
+        "1535454",
+        "1535470"
+      ],
+      "setid": "6b8c97ac-c83c-4a1f-a33c-121239253abf",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "DEXTROAMPHETAMINE SULFATE TABLET [WILSHIRE PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-06-16"
+    },
+    {
+      "application_numbers": [
+        "ANDA203644"
+      ],
+      "brand_names": [
+        "Dextroamphetamine"
+      ],
+      "combination": false,
+      "home_inn": "dextroamphetamine",
+      "ingredients": [
+        "DEXTROAMPHETAMINE SULFATE"
+      ],
+      "labeler": "Cranbury Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-05-31",
+      "moieties": [
+        "DEXTROAMPHETAMINE"
+      ],
+      "product_ndcs": [
+        "27808-085"
+      ],
+      "rxcui": [
+        "884522"
+      ],
+      "setid": "7658071e-ee2c-4d23-94ce-1906959ec036",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "DEXTROAMPHETAMINE SOLUTION [CRANBURY PHARMACEUTICALS, LLC]",
+      "upload_date": "2025-06-06"
+    },
+    {
+      "application_numbers": [
+        "NDA017078"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "DEXEDRINE"
+      ],
+      "first_posted": "2008-05-15",
+      "found_by": "DEXEDRINE",
+      "labeler": "GlaxoSmithKline LLC",
+      "labeler_unverified": true,
+      "last_posted": "2010-10-29",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2012-05-31",
+        "2013-01-31"
+      ],
+      "product_ndcs": [
+        "0007-3512",
+        "0007-3513",
+        "0007-3514"
+      ],
+      "rxcui": [],
+      "setid": "18b7c145-3e8f-4e7e-c6b5-080d4139a008",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "2ec5c30f-4eb8-48a5-83c4-236450413464",
+        "cc717b9b-22ea-4c60-a1d4-ee38a40bce78"
+      ],
+      "title": "DEXEDRINE (dextroamphetamine sulfate) capsule, extended release"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "DEXEDRINE"
+      ],
+      "first_posted": "2007-09-21",
+      "found_by": "DEXEDRINE",
+      "labeler": "GlaxoSmithKline",
+      "labeler_unverified": true,
+      "last_posted": "2007-09-21",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0007-3512",
+        "0007-3513",
+        "0007-3514"
+      ],
+      "rxcui": [],
+      "setid": "1f391aa4-51bf-4f94-c0a2-c9247b31ed9f",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "dexedrine (dextroamphetamine sulfate) capsule, extended release dexedrine (dextroamphetamine sulfate) tablet"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "ADDERALL"
+      ],
+      "first_posted": "2007-09-26",
+      "found_by": "ADDERALL",
+      "labeler": "Shire US Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2007-09-26",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "54092-381",
+        "54092-383",
+        "54092-385",
+        "54092-387",
+        "54092-389",
+        "54092-391"
+      ],
+      "rxcui": [],
+      "setid": "2457a8a0-fa4f-4d82-9507-005783d6ded5",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "adderall xr (Dextroamphetamine saccharate, amphetamine aspartate monohydrate, dextroamphetamine sulfate and amphetamine sulfate) capsule, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA017078"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "DEXEDRINE"
+      ],
+      "first_posted": "2011-03-14",
+      "found_by": "DEXEDRINE",
+      "labeler": "Amedra Pharmaceuticals LLC",
+      "labeler_unverified": true,
+      "last_posted": "2018-12-10",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-12-01"
+      ],
+      "product_ndcs": [
+        "52054-512",
+        "52054-513",
+        "52054-514"
+      ],
+      "rxcui": [],
+      "setid": "a37b6ef9-78b4-4b18-8797-ecb583502500",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "2ec5c30f-4eb8-48a5-83c4-236450413464",
+        "cc717b9b-22ea-4c60-a1d4-ee38a40bce78"
+      ],
+      "title": "DEXEDRINE SPANSULE (dextroamphetamine sulfate) capsule, extended release"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Aurolife Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "24163442-dd03-4066-a6ed-eb7e292b700b"
+    },
+    {
+      "combination": false,
+      "labeler": "INDEPENDENCE PHARMACEUTICALS, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1548cce2-fb6b-4f17-8a3b-868933f6c9d6"
+    },
+    {
+      "combination": false,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9e92ccc3-d81c-461d-a19f-7e9b582be357"
+    },
+    {
+      "combination": false,
+      "labeler": "KVK-Tech, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "863d66fe-9c38-463a-afa1-552647494c5a"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals,Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9aea6b7c-729c-484d-b625-c3591b63b350"
+    },
+    {
+      "combination": false,
+      "labeler": "SUNRISE PHARMACEUTICAL, INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "93b3a40f-b7ac-4047-8ff5-3e34c2d75193"
+    },
+    {
+      "combination": false,
+      "labeler": "Winder Laboratories LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ca1a8890-0675-4c9c-9716-6c28f975d827"
+    },
+    {
+      "combination": false,
+      "labeler": "Cranbury Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9acdf000-fefe-47c7-a44c-0f7a65c5c05c"
+    },
+    {
+      "combination": true,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6f637e8d-7c2e-47fa-a43c-3250c51aed77"
+    },
+    {
+      "combination": true,
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cffbbb15-d776-41ae-a8a6-687f2c07bfa4"
+    },
+    {
+      "combination": true,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "288dafc4-fe6e-4891-832f-511022c87445"
+    },
+    {
+      "combination": true,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9af67219-9b37-45d0-ac52-647cbfacd296"
+    },
+    {
+      "combination": true,
+      "labeler": "SpecGx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "72ddd1c9-ddbd-4c95-acd9-003189a353a3"
+    },
+    {
+      "combination": true,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c5c2d060-452c-4f76-ad93-2e41fd8f06c2"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurolife Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a582d57f-d191-4ca5-b105-585b2d8a0e3e"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "89c4b21a-1a65-41ef-8718-1619c2ba8591"
+    },
+    {
+      "combination": true,
+      "labeler": "SUNRISE PHARMACEUTICAL, INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ac102599-3a5b-4154-899e-6ff262be7ff7"
+    },
+    {
+      "combination": true,
+      "labeler": "Epic Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1757e132-061d-4773-89ed-fdc77f69008f"
+    },
+    {
+      "combination": true,
+      "labeler": "SpecGx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "60a2834c-38a2-480e-b89c-563e9cf0c9c3"
+    },
+    {
+      "combination": true,
+      "labeler": "Rhodes Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "690e1ef4-caf7-4c48-a4ae-d2a0ab684e82"
+    },
+    {
+      "combination": true,
+      "labeler": "Elite Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "084c625c-94c6-4c8a-ba5f-6e26206dd903"
+    },
+    {
+      "combination": true,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6438480f-1147-42b6-826d-4e1e1f8ff007"
+    },
+    {
+      "combination": true,
+      "labeler": "Oryza Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "acd27181-a3f3-4c38-85d8-029a4a82e7c2"
+    },
+    {
+      "combination": true,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "430cccec-1679-4225-8c86-92d746153b38"
+    },
+    {
+      "combination": true,
+      "labeler": "Rhodes Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ef3590cc-49ae-44f7-85a9-7c11f58d467e"
+    },
+    {
+      "combination": true,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1fc35735-569c-4dcd-b6c6-14443a043de5"
+    },
+    {
+      "combination": true,
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e95bdaf9-007a-4088-b969-fee38a97a475"
+    },
+    {
+      "combination": true,
+      "labeler": "Lannett Company, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f92497b5-baea-4760-b615-45a0b6184402"
+    },
+    {
+      "combination": true,
+      "labeler": "Elite Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e677690f-790f-4626-ad78-097cdb6ea540"
+    },
+    {
+      "combination": true,
+      "labeler": "Granules Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8c672e06-0778-4a7d-b398-5bcbf2a73f12"
+    },
+    {
+      "combination": true,
+      "labeler": "Granules Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b0b4eccc-34c7-483d-966f-82d588358e1b"
+    },
+    {
+      "combination": true,
+      "labeler": "Teva Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5e84ef60-3050-40d9-9f14-66b85d289e17"
+    },
+    {
+      "combination": true,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "30e515c3-a18f-499a-87c4-be8d64cfdbc6"
+    },
+    {
+      "combination": true,
+      "labeler": "GLENMARK PHARMACEUTICALS INC., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4564e404-8d71-4585-ab78-55857f477143"
+    },
+    {
+      "combination": false,
+      "labeler": "Azurity Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d6394df5-f2c9-47eb-b57e-f3e9cfd94f84"
+    },
+    {
+      "combination": false,
+      "labeler": "Prasco Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "94674695-aa8a-3150-e053-2995a90a445f"
+    },
+    {
+      "combination": true,
+      "labeler": "Prasco Laboratories",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f85af6ee-9029-42de-adea-6dbb8642952c"
+    },
+    {
+      "combination": true,
+      "labeler": "Northstar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "facdf159-1d95-4981-a8ad-d82edcc14a0c"
+    },
+    {
+      "combination": true,
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f22635fe-821d-4cde-aa12-419f8b53db81"
+    },
+    {
+      "combination": true,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8468623b-9584-43ef-ac16-fc15b060624c"
+    },
+    {
+      "combination": true,
+      "labeler": "Burel Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bcdd2fe2-d0de-4a28-aced-40ac9ce5122d"
+    },
+    {
+      "combination": true,
+      "labeler": "Golden State Medical Supply, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f6dfefdf-7a4a-e104-e053-6394a90a05bd"
+    },
+    {
+      "combination": true,
+      "labeler": "SpecGx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e1b21fd4-8d0b-4e54-a35d-8ad84a7caa78"
+    }
+  ]
+}

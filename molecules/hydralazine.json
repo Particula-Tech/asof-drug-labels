@@ -1,0 +1,563 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "HYDRALAZINE HYDROCHLORIDE"
+  ],
+  "inn": "hydralazine",
+  "name": "HYDRALAZINE",
+  "rank": 153,
+  "rxcui": [
+    "905199",
+    "905222",
+    "905225",
+    "905377",
+    "905379",
+    "905395",
+    "966571"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 29,
+    "approval_holders": 26,
+    "earliest_marketing_start": "1990-09-30",
+    "latest_label_update": "2026-10-15",
+    "nda_bla_applications": 1,
+    "repackagers": 20
+  },
+  "unii": [
+    {
+      "ingredient": "HYDRALAZINE HYDROCHLORIDE",
+      "unii": "FD171B778Y"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020727"
+      ],
+      "brand_names": [
+        "BiDil"
+      ],
+      "combination": true,
+      "home_inn": "hydralazine",
+      "ingredients": [
+        "HYDRALAZINE HYDROCHLORIDE",
+        "ISOSORBIDE DINITRATE"
+      ],
+      "labeler": "Azurity Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2012-12-05",
+      "moieties": [
+        "HYDRALAZINE",
+        "ISOSORBIDE DINITRATE"
+      ],
+      "product_ndcs": [
+        "24338-010"
+      ],
+      "rxcui": [
+        "905377",
+        "905379"
+      ],
+      "setid": "e1e63cd5-d1e4-4af5-bad5-1ad41ea46b00",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "BIDIL (HYDRALAZINE HYDROCHLORIDE AND ISOSORBIDE DINITRATE) TABLET, FILM COATED [AZURITY PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-01-22"
+    },
+    {
+      "application_numbers": [
+        "ANDA088467",
+        "ANDA088468",
+        "ANDA089097",
+        "ANDA089098"
+      ],
+      "brand_names": [
+        "Hydralazine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "hydralazine",
+      "ingredients": [
+        "HYDRALAZINE HYDROCHLORIDE"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1990-09-30",
+      "moieties": [
+        "HYDRALAZINE"
+      ],
+      "product_ndcs": [
+        "50111-327",
+        "50111-328",
+        "50111-397",
+        "50111-398"
+      ],
+      "rxcui": [
+        "905199",
+        "905222",
+        "905225",
+        "905395"
+      ],
+      "setid": "ddbbdb09-3202-42d7-bbb0-08331dde2f54",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "HYDRALAZINE HYDROCHLORIDE TABLET [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2021-11-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA040136"
+      ],
+      "brand_names": [
+        "Hydralazine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "hydralazine",
+      "ingredients": [
+        "HYDRALAZINE HYDROCHLORIDE"
+      ],
+      "labeler": "American Regent, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1997-06-30",
+      "moieties": [
+        "HYDRALAZINE"
+      ],
+      "product_ndcs": [
+        "0517-0901"
+      ],
+      "rxcui": [
+        "966571"
+      ],
+      "setid": "17210abc-58f6-442e-8ff2-7971333c82f6",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "HYDRALAZINE HYDROCHLORIDE INJECTION, SOLUTION [AMERICAN REGENT, INC.]",
+      "upload_date": "2019-05-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA040388"
+      ],
+      "brand_names": [
+        "Hydralazine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "hydralazine",
+      "ingredients": [
+        "HYDRALAZINE HYDROCHLORIDE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2001-09-05",
+      "moieties": [
+        "HYDRALAZINE"
+      ],
+      "product_ndcs": [
+        "63323-614"
+      ],
+      "rxcui": [
+        "966571"
+      ],
+      "setid": "8223c44a-73a9-4da5-a468-d1d8bdb0bbd6",
+      "source": "dailymed-title-match",
+      "spl_version": 13,
+      "title": "HYDRALAZINE HYDROCHLORIDE INJECTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2026-10-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA086242"
+      ],
+      "brand_names": [
+        "Hydralazine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "hydralazine",
+      "ingredients": [
+        "HYDRALAZINE HYDROCHLORIDE"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2007-04-06",
+      "moieties": [
+        "HYDRALAZINE"
+      ],
+      "product_ndcs": [
+        "62135-579",
+        "62135-580",
+        "62135-581",
+        "62135-582"
+      ],
+      "rxcui": [
+        "905199",
+        "905222",
+        "905225",
+        "905395"
+      ],
+      "setid": "0c7f9bd0-6c0a-4521-b77a-3582faa96874",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "HYDRALAZINE HYDROCHLORIDE TABLET, FILM COATED [CHARTWELL RX, LLC]",
+      "upload_date": "2025-12-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA200737"
+      ],
+      "brand_names": [
+        "Hydralazine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "hydralazine",
+      "ingredients": [
+        "HYDRALAZINE HYDROCHLORIDE"
+      ],
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-11-24",
+      "moieties": [
+        "HYDRALAZINE"
+      ],
+      "product_ndcs": [
+        "67877-290",
+        "67877-291",
+        "67877-292",
+        "67877-293"
+      ],
+      "rxcui": [
+        "905199",
+        "905222",
+        "905225",
+        "905395"
+      ],
+      "setid": "e7bfec3d-5222-4a26-8f99-6c2a28e14aa6",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "HYDRALAZINE HYDROCHLORIDE TABLET [ASCEND LABORATORIES, LLC]",
+      "upload_date": "2017-12-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA040901"
+      ],
+      "brand_names": [
+        "Hydralazine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "hydralazine",
+      "ingredients": [
+        "HYDRALAZINE HYDROCHLORIDE"
+      ],
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-01-01",
+      "moieties": [
+        "HYDRALAZINE"
+      ],
+      "product_ndcs": [
+        "31722-519",
+        "31722-520",
+        "31722-521",
+        "31722-522"
+      ],
+      "rxcui": [
+        "905199",
+        "905222",
+        "905225",
+        "905395"
+      ],
+      "setid": "5da36930-d3da-4b5c-9e22-2b141bc01a9c",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "HYDRALAZINE HYDROCHLORIDE (HYDRALAZINE HYDROCHLORIDE) TABLET [CAMBER PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-03-17"
+    },
+    {
+      "application_numbers": [
+        "NDA008303"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "APRESOLINE"
+      ],
+      "first_posted": "2006-10-13",
+      "found_by": "APRESOLINE",
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "labeler_unverified": true,
+      "last_posted": "2010-10-13",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2010-10-07"
+      ],
+      "product_ndcs": [
+        "0083-0037",
+        "0083-0039",
+        "0083-0073",
+        "0083-0101"
+      ],
+      "rxcui": [],
+      "setid": "59f748ca-89ab-4520-8969-2c47a7a26f16",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "APRESOLINE HYDROCHLORIDE (hydralazine hydrochloride) tablet, coated"
+    },
+    {
+      "application_numbers": [
+        "NDA020727"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "BIDIL"
+      ],
+      "first_posted": "2006-09-18",
+      "found_by": "BIDIL",
+      "labeler": "Arbor Pharmaceuticals",
+      "labeler_unverified": true,
+      "last_posted": "2017-12-20",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-12-31"
+      ],
+      "product_ndcs": [
+        "12948-001"
+      ],
+      "rxcui": [],
+      "setid": "c21325a9-cd57-4e39-98f2-0727ed8abb2d",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "e1e63cd5-d1e4-4af5-bad5-1ad41ea46b00"
+      ],
+      "title": "BIDIL (hydralazine hydrochloride and isosorbide dinitrate) tablet, film coated"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b3d1786d-c3ff-42f1-a09f-37a9c9021e5a"
+    },
+    {
+      "combination": false,
+      "labeler": "Cadila Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3a7562a8-2f67-4411-ac4a-ab7924193e82"
+    },
+    {
+      "combination": false,
+      "labeler": "Exelan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "811831f9-a844-463a-874d-fb8407659f0b"
+    },
+    {
+      "combination": false,
+      "labeler": "ScieGen Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "500b7f76-5f4e-4e7d-85c3-18b9f66d7504"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3f5f1204-d289-40e9-be84-a29352f64bfb"
+    },
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e08d8b6c-a184-4dd5-84ef-bac90e4b1c33"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "669532c9-ba15-4f4b-95a8-13782deb3521"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f9f56326-6d72-47d3-89ac-3625b8a6d713"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f0db9c3c-d841-46f9-8409-9ffca83d7a97"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f3c806a4-b971-421c-bcb9-9979c6d7aaec"
+    },
+    {
+      "combination": false,
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f1a10203-f027-4f9c-8dd6-907c6db24d47"
+    },
+    {
+      "combination": true,
+      "labeler": "Wilshire Pharmaceuticals",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "620a0680-aad0-4923-84be-7393c0cbdcbd"
+    },
+    {
+      "combination": true,
+      "labeler": "Ingenus Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8f54d5a3-169f-48dd-9250-2c176d2bd9ad"
+    },
+    {
+      "combination": true,
+      "labeler": "i3 Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cacf1a7c-0388-09ee-e053-2995a90a10cf"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bf1b7c2f-535c-45bb-928a-65606d87685e"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c3797028-c625-4f70-ae69-8a5f6f23f1b8"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f34904dc-c945-4de4-8594-34e4f4ac1983"
+    },
+    {
+      "combination": false,
+      "labeler": "Modavar Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a456bc34-0c79-44f4-9119-50028a978f5f"
+    },
+    {
+      "combination": false,
+      "labeler": "Civica, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ffa483a4-de2a-4d42-ad27-afacd37f28e4"
+    },
+    {
+      "combination": false,
+      "labeler": "Radha Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "149fa857-30ad-451d-b6e2-0000483ccc97"
+    },
+    {
+      "combination": false,
+      "labeler": "Navinta LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ae5d85df-11a3-4952-ade2-596d57cdd987"
+    },
+    {
+      "combination": true,
+      "labeler": "A2A Integrated Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ae757a78-89e8-4f79-81de-d558db3f72a4"
+    }
+  ]
+}

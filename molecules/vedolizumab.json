@@ -1,0 +1,109 @@
+{
+  "biologic": true,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand ENTYVIO",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/002782",
+      "eu_number": "EU/1/14/923",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-002782",
+      "mah": "Takeda Pharma A/S",
+      "marketing_authorisation_date": "2014-05-22",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/entyvio",
+      "name": "Entyvio",
+      "record_from": "2014-05-22",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 14
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-002782",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "VEDOLIZUMAB"
+  ],
+  "inn": "vedolizumab",
+  "name": "VEDOLIZUMAB",
+  "rank": 396,
+  "rxcui": [
+    "1538137",
+    "1538142",
+    "2667332",
+    "2667336",
+    "2667339",
+    "2667342"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 1,
+    "approval_holders": 1,
+    "earliest_marketing_start": "2014-05-20",
+    "latest_label_update": "2026-05-13",
+    "nda_bla_applications": 2,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "VEDOLIZUMAB",
+      "unii": "9RV78Q2002"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "BLA125476",
+        "BLA761133"
+      ],
+      "brand_names": [
+        "ENTYVIO",
+        "ENTYVIO Pen",
+        "Entyvio"
+      ],
+      "combination": false,
+      "home_inn": "vedolizumab",
+      "ingredients": [
+        "VEDOLIZUMAB"
+      ],
+      "labeler": "Takeda Pharmaceuticals America, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2014-05-20",
+      "moieties": [
+        "VEDOLIZUMAB"
+      ],
+      "product_ndcs": [
+        "64764-107",
+        "64764-108",
+        "64764-300"
+      ],
+      "rxcui": [
+        "1538137",
+        "1538142",
+        "2667332",
+        "2667336",
+        "2667339",
+        "2667342"
+      ],
+      "setid": "6e94621c-1a95-4af9-98d1-52b9e6f1949c",
+      "source": "openfda",
+      "spl_version": 26,
+      "title": "ENTYVIO (VEDOLIZUMAB) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION ENTYVIO PEN (VEDOLIZUMAB) INJECTION, SOLUTION ENTYVIO (VEDOLIZUMAB) INJECTION, SOLUTION [TAKEDA PHARMACEUTICALS AMERICA, INC.]",
+      "upload_date": "2026-05-13"
+    }
+  ],
+  "us_excluded": []
+}

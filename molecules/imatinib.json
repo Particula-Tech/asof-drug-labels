@@ -1,0 +1,478 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/000406",
+      "eu_number": "EU/1/01/198",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000406",
+      "mah": "Novartis Europharm Limited",
+      "marketing_authorisation_date": "2001-11-07",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/glivec",
+      "name": "Glivec",
+      "record_from": "2001-11-07",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 42
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/002585",
+      "eu_number": "EU/1/12/808",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-002585",
+      "mah": "Teva B.V.",
+      "marketing_authorisation_date": "2013-01-07",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/imatinib-teva",
+      "name": "Imatinib Teva",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/002681",
+      "eu_number": "EU/1/13/845",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-002681",
+      "mah": "Accord Healthcare S.L.U.",
+      "marketing_authorisation_date": "2013-06-30",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/imatinib-accord",
+      "name": "Imatinib Accord",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000406",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "IMATINIB MESYLATE"
+  ],
+  "inn": "imatinib",
+  "name": "IMATINIB",
+  "rank": 327,
+  "rxcui": [
+    "403878",
+    "403879",
+    "404588",
+    "404589",
+    "2699831",
+    "2699837"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 19,
+    "approval_holders": 17,
+    "earliest_marketing_start": "2001-05-15",
+    "latest_label_update": "2026-10-29",
+    "nda_bla_applications": 2,
+    "repackagers": 3
+  },
+  "unii": [
+    {
+      "ingredient": "IMATINIB MESYLATE",
+      "unii": "8A1O1M485B"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021588"
+      ],
+      "brand_names": [
+        "Gleevec"
+      ],
+      "combination": false,
+      "home_inn": "imatinib",
+      "ingredients": [
+        "IMATINIB MESYLATE"
+      ],
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2001-05-15",
+      "moieties": [
+        "IMATINIB"
+      ],
+      "product_ndcs": [
+        "0078-0401",
+        "0078-0649",
+        "0078-1490"
+      ],
+      "rxcui": [
+        "403878",
+        "403879",
+        "404588",
+        "404589"
+      ],
+      "setid": "211ef2da-2868-4a77-8055-1cb2cd78e24b",
+      "source": "openfda",
+      "spl_version": 41,
+      "title": "GLEEVEC (IMATINIB MESYLATE) TABLET [NOVARTIS PHARMACEUTICALS CORPORATION]",
+      "upload_date": "2026-07-20"
+    },
+    {
+      "application_numbers": [
+        "NDA219097"
+      ],
+      "brand_names": [
+        "IMKELDI"
+      ],
+      "combination": false,
+      "home_inn": "imatinib",
+      "ingredients": [
+        "IMATINIB MESYLATE"
+      ],
+      "labeler": "Shorla Oncology Inc.,",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-12-19",
+      "moieties": [
+        "IMATINIB"
+      ],
+      "product_ndcs": [
+        "81927-201"
+      ],
+      "rxcui": [
+        "2699831",
+        "2699837"
+      ],
+      "setid": "26658bb7-9ba1-a10e-e063-6394a90a172e",
+      "source": "dailymed-title-match",
+      "spl_version": 5,
+      "title": "IMKELDI (IMATINIB ORAL) SOLUTION [SHORLA ONCOLOGY INC.,]",
+      "upload_date": "2026-10-26"
+    },
+    {
+      "application_numbers": [
+        "ANDA078340"
+      ],
+      "brand_names": [
+        "imatinib mesylate"
+      ],
+      "combination": false,
+      "home_inn": "imatinib",
+      "ingredients": [
+        "IMATINIB MESYLATE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-02-01",
+      "moieties": [
+        "IMATINIB"
+      ],
+      "product_ndcs": [
+        "47335-472",
+        "47335-475"
+      ],
+      "rxcui": [
+        "403878",
+        "403879"
+      ],
+      "setid": "07764bf9-21b4-4e32-9d7e-e348f8e4291f",
+      "source": "openfda",
+      "spl_version": 27,
+      "title": "IMATINIB MESYLATE TABLET, FILM COATED [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2026-06-22"
+    },
+    {
+      "application_numbers": [
+        "ANDA204285"
+      ],
+      "brand_names": [
+        "Imatinib Mesylate"
+      ],
+      "combination": false,
+      "home_inn": "imatinib",
+      "ingredients": [
+        "IMATINIB MESYLATE"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-08-04",
+      "moieties": [
+        "IMATINIB"
+      ],
+      "product_ndcs": [
+        "0093-7629",
+        "0093-7630"
+      ],
+      "rxcui": [
+        "403878",
+        "403879"
+      ],
+      "setid": "a9cfc301-3c7f-4910-8813-41dcb0b4ca69",
+      "source": "dailymed-title-match",
+      "spl_version": 16,
+      "title": "IMATINIB MESYLATE TABLET, FILM COATED [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2026-09-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA079179"
+      ],
+      "brand_names": [
+        "Imatinib Mesylate"
+      ],
+      "combination": false,
+      "home_inn": "imatinib",
+      "ingredients": [
+        "IMATINIB MESYLATE"
+      ],
+      "labeler": "Apotex Corp",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-08-05",
+      "moieties": [
+        "IMATINIB"
+      ],
+      "product_ndcs": [
+        "60505-2900",
+        "60505-2901"
+      ],
+      "rxcui": [
+        "403878",
+        "403879"
+      ],
+      "setid": "0291eca5-7a1d-4a79-30be-252224d96509",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "IMATINIB MESYLATE TABLET, FILM COATED [APOTEX CORP]",
+      "upload_date": "2026-09-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA204644"
+      ],
+      "brand_names": [
+        "Imatinib Mesylate"
+      ],
+      "combination": false,
+      "home_inn": "imatinib",
+      "ingredients": [
+        "IMATINIB MESYLATE"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-09-28",
+      "moieties": [
+        "IMATINIB"
+      ],
+      "product_ndcs": [
+        "0378-2245",
+        "0378-2246"
+      ],
+      "rxcui": [],
+      "setid": "a1787fad-3612-43e1-98fa-ce62361e0b3c",
+      "source": "dailymed-title-match",
+      "spl_version": 18,
+      "title": "IMATINIB MESYLATE (IMATINIB) TABLET, FILM COATED [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2026-10-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA208429"
+      ],
+      "brand_names": [
+        "Imatinib Mesylate"
+      ],
+      "combination": false,
+      "home_inn": "imatinib",
+      "ingredients": [
+        "IMATINIB MESYLATE"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-01-17",
+      "moieties": [
+        "IMATINIB"
+      ],
+      "product_ndcs": [
+        "62135-658",
+        "62135-659"
+      ],
+      "rxcui": [
+        "403878",
+        "403879"
+      ],
+      "setid": "65b4d8a6-349d-4fb1-9818-dad6b4ad4fa1",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "IMATINIB MESYLATE TABLET, FILM COATED [CHARTWELL RX, LLC]",
+      "upload_date": "2025-12-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA208302"
+      ],
+      "brand_names": [
+        "Imatinib mesylate"
+      ],
+      "combination": false,
+      "home_inn": "imatinib",
+      "ingredients": [
+        "IMATINIB MESYLATE"
+      ],
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-02-01",
+      "moieties": [
+        "IMATINIB"
+      ],
+      "product_ndcs": [
+        "67877-633",
+        "67877-634"
+      ],
+      "rxcui": [
+        "403878",
+        "403879"
+      ],
+      "setid": "7579620e-3748-46fa-8295-f9b47d0aa5b8",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "IMATINIB MESYLATE TABLET, FILM COATED [ASCEND LABORATORIES, LLC]",
+      "upload_date": "2019-02-26"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a4e409f7-20b4-4c80-8a6a-f95995ffad78"
+    },
+    {
+      "combination": false,
+      "labeler": "Qilu Pharmaceutical Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "82eb01e0-8685-4f06-8a72-7663e8ded38f"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e97f0238-b9da-46af-83a3-0826e39893e8"
+    },
+    {
+      "combination": false,
+      "labeler": "Armas Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2e931c49-6c9f-41e2-a34b-5f01cd295b56"
+    },
+    {
+      "combination": false,
+      "labeler": "Armas Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7b7cc194-29e4-4484-a364-a1ac7d7d6cf5"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "be5b9047-155b-59ca-e053-2995a90ad3dc"
+    },
+    {
+      "combination": false,
+      "labeler": "Archis Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9de8d8b9-cf88-4960-82b7-89e5ceb7720e"
+    },
+    {
+      "combination": false,
+      "labeler": "QUALLENT PHARMACEUTICALS HEALTH LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a819a954-41c9-4d49-a74e-c8c4b338b22a"
+    },
+    {
+      "combination": false,
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5d07ac08-962e-41a8-8a3c-50febc8c5f34"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c0611fc0-b217-4988-acd4-b8c629ce489b"
+    },
+    {
+      "combination": false,
+      "labeler": "Civica Script LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9fc5ec7b-98c4-4b1a-890c-be1343177dbd"
+    }
+  ]
+}

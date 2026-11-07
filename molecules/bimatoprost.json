@@ -1,0 +1,471 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand LUMIGAN",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000391",
+      "eu_number": "EU/1/02/205",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000391",
+      "mah": "AbbVie Deutschland GmbH & Co. KG",
+      "marketing_authorisation_date": "2002-03-08",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/lumigan",
+      "name": "Lumigan",
+      "record_from": "2002-03-08",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 21
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 1,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000391",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "BIMATOPROST"
+  ],
+  "inn": "bimatoprost",
+  "name": "BIMATOPROST",
+  "rank": 204,
+  "rxcui": [
+    "308739",
+    "1009339",
+    "1009341",
+    "1041495",
+    "1041497",
+    "2286602",
+    "2286607",
+    "2725168",
+    "2725620"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 18,
+    "approval_holders": 14,
+    "earliest_marketing_start": "2009-01-26",
+    "latest_label_update": "2026-09-10",
+    "nda_bla_applications": 4,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "BIMATOPROST",
+      "unii": "QXS94885MZ"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA022369"
+      ],
+      "brand_names": [
+        "LATISSE"
+      ],
+      "combination": false,
+      "home_inn": "bimatoprost",
+      "ingredients": [
+        "BIMATOPROST"
+      ],
+      "labeler": "Allergan, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2009-01-26",
+      "moieties": [
+        "BIMATOPROST"
+      ],
+      "product_ndcs": [
+        "0023-3616"
+      ],
+      "rxcui": [
+        "1041495",
+        "1041497"
+      ],
+      "setid": "34f83d9d-2c64-463e-8a90-9a460fedfead",
+      "source": "openfda",
+      "spl_version": 25,
+      "title": "LATISSE (BIMATOPROST) SOLUTION/ DROPS [ALLERGAN, INC.]",
+      "upload_date": "2025-12-23"
+    },
+    {
+      "application_numbers": [
+        "NDA022184"
+      ],
+      "brand_names": [
+        "LUMIGAN"
+      ],
+      "combination": false,
+      "home_inn": "bimatoprost",
+      "ingredients": [
+        "BIMATOPROST"
+      ],
+      "labeler": "Allergan, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2010-09-10",
+      "moieties": [
+        "BIMATOPROST"
+      ],
+      "product_ndcs": [
+        "0023-3205"
+      ],
+      "rxcui": [
+        "1009339",
+        "1009341"
+      ],
+      "setid": "a5e67c75-db88-4372-bb07-c8dd15c97631",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "LUMIGAN (BIMATOPROST) SOLUTION/ DROPS [ALLERGAN, INC.]",
+      "upload_date": "2026-07-28"
+    },
+    {
+      "application_numbers": [
+        "NDA211911"
+      ],
+      "brand_names": [
+        "DURYSTA"
+      ],
+      "combination": false,
+      "home_inn": "bimatoprost",
+      "ingredients": [
+        "BIMATOPROST"
+      ],
+      "labeler": "Allergan, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2020-03-04",
+      "moieties": [
+        "BIMATOPROST"
+      ],
+      "product_ndcs": [
+        "0023-9652"
+      ],
+      "rxcui": [
+        "2286602",
+        "2286607"
+      ],
+      "setid": "3f59da84-0bcc-4c84-b3e2-e215681ef341",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "DURYSTA (BIMATOPROST) IMPLANT [ALLERGAN, INC.]",
+      "upload_date": "2025-02-17"
+    },
+    {
+      "application_numbers": [
+        "NDA217307"
+      ],
+      "brand_names": [
+        "ZOLYMBUS"
+      ],
+      "combination": false,
+      "home_inn": "bimatoprost",
+      "ingredients": [
+        "BIMATOPROST"
+      ],
+      "labeler": "Thea Pharma Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2026-02-26",
+      "moieties": [
+        "BIMATOPROST"
+      ],
+      "product_ndcs": [
+        "82584-010"
+      ],
+      "rxcui": [
+        "2725168",
+        "2725620"
+      ],
+      "setid": "f4504a0c-7998-4084-9e05-f999f1d051ed",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "ZOLYMBUS (BIMATOPROST) GEL [THEA PHARMA INC.]",
+      "upload_date": "2026-02-27"
+    },
+    {
+      "application_numbers": [
+        "ANDA202719"
+      ],
+      "brand_names": [
+        "Bimatoprost"
+      ],
+      "combination": false,
+      "home_inn": "bimatoprost",
+      "ingredients": [
+        "BIMATOPROST"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-12-06",
+      "moieties": [
+        "BIMATOPROST"
+      ],
+      "product_ndcs": [
+        "0781-6206"
+      ],
+      "rxcui": [
+        "1041495"
+      ],
+      "setid": "27bef7e1-750a-4ac1-ab5f-e4c0121ffcbc",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "BIMATOPROST SOLUTION/ DROPS [SANDOZ INC]",
+      "upload_date": "2025-12-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA090449"
+      ],
+      "brand_names": [
+        "Bimatoprost"
+      ],
+      "combination": false,
+      "home_inn": "bimatoprost",
+      "ingredients": [
+        "BIMATOPROST"
+      ],
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-10-08",
+      "moieties": [
+        "BIMATOPROST"
+      ],
+      "product_ndcs": [
+        "60505-0583"
+      ],
+      "rxcui": [
+        "308739"
+      ],
+      "setid": "f5c1c8c6-2a7f-482b-6ecf-9cabd3a6a5c1",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "BIMATOPROST SOLUTION/ DROPS [APOTEX CORP.]",
+      "upload_date": "2026-09-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA210126"
+      ],
+      "brand_names": [
+        "Bimatoprost"
+      ],
+      "combination": false,
+      "home_inn": "bimatoprost",
+      "ingredients": [
+        "BIMATOPROST"
+      ],
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-02-12",
+      "moieties": [
+        "BIMATOPROST"
+      ],
+      "product_ndcs": [
+        "68083-295",
+        "68083-296",
+        "68083-439"
+      ],
+      "rxcui": [
+        "308739"
+      ],
+      "setid": "2a4b5b6b-fc47-40d2-8396-ff60511a4cd1",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "BIMATOPROST SOLUTION/ DROPS [GLAND PHARMA LIMITED]",
+      "upload_date": "2022-04-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA210263"
+      ],
+      "brand_names": [
+        "Bimatoprost"
+      ],
+      "combination": false,
+      "home_inn": "bimatoprost",
+      "ingredients": [
+        "BIMATOPROST"
+      ],
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-04-12",
+      "moieties": [
+        "BIMATOPROST"
+      ],
+      "product_ndcs": [
+        "62332-507"
+      ],
+      "rxcui": [
+        "308739"
+      ],
+      "setid": "a4f4ecb2-999f-4656-8f94-2f06c6dd7990",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "BIMATOPROST SOLUTION/ DROPS [ALEMBIC PHARMACEUTICALS INC.]",
+      "upload_date": "2025-12-08"
+    },
+    {
+      "application_numbers": [
+        "ANDA207601"
+      ],
+      "brand_names": [
+        "Bimatoprost"
+      ],
+      "combination": false,
+      "home_inn": "bimatoprost",
+      "ingredients": [
+        "BIMATOPROST"
+      ],
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-06-19",
+      "moieties": [
+        "BIMATOPROST"
+      ],
+      "product_ndcs": [
+        "70069-401",
+        "70069-402",
+        "70069-403"
+      ],
+      "rxcui": [
+        "308739"
+      ],
+      "setid": "b2afe664-49b0-4d69-bc89-adddf50b58ba",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "BIMATOPROST SOLUTION/ DROPS [SOMERSET THERAPEUTICS, LLC]",
+      "upload_date": "2025-03-25"
+    },
+    {
+      "application_numbers": [
+        "ANDA210515"
+      ],
+      "brand_names": [
+        "bimatoprost"
+      ],
+      "combination": false,
+      "home_inn": "bimatoprost",
+      "ingredients": [
+        "BIMATOPROST"
+      ],
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-01-21",
+      "moieties": [
+        "BIMATOPROST"
+      ],
+      "product_ndcs": [
+        "62332-511"
+      ],
+      "rxcui": [
+        "1041495"
+      ],
+      "setid": "dfb6eabf-d8e0-4fd3-8ef6-c646da7a987d",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "BIMATOPROST SOLUTION/ DROPS [ALEMBIC PHARMACEUTICALS INC.]",
+      "upload_date": "2025-12-11"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8c021e8a-2938-42a7-a17e-2f7f97256344"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "059a60ec-aee2-4c13-8307-05cd92e8729a"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ea563519-3eae-4ac7-8234-173b0bd9a4f6"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6ff31e11-fa48-4bfe-958c-47fedf21ce3d"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f471cb1d-57c7-4556-99af-68f8c96059fd"
+    },
+    {
+      "combination": false,
+      "labeler": "Fosun Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2f9ee30a-1737-44b2-8479-79a3ee88bf5b"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2b4107e4-c108-4ed5-b7e8-253b74f2ff25"
+    },
+    {
+      "combination": false,
+      "labeler": "First Nation Group, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6a74ad65-dd76-45c1-9bbe-4218a9978b70"
+    }
+  ]
+}

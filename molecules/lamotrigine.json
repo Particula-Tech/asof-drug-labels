@@ -1,0 +1,952 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "LAMOTRIGINE"
+  ],
+  "inn": "lamotrigine",
+  "name": "LAMOTRIGINE",
+  "rank": 119,
+  "rxcui": [
+    "103968",
+    "105018",
+    "105019",
+    "108782",
+    "198427",
+    "198428",
+    "198429",
+    "198430",
+    "199322",
+    "201239",
+    "201240",
+    "206201",
+    "249329",
+    "252478",
+    "252479",
+    "282401",
+    "311264",
+    "311265",
+    "349010",
+    "542426",
+    "751139",
+    "751563",
+    "753451",
+    "795772",
+    "795774",
+    "795778",
+    "849049",
+    "849050",
+    "849051",
+    "849052",
+    "850087",
+    "850091",
+    "851748",
+    "851749",
+    "851750",
+    "851751",
+    "851752",
+    "851753",
+    "900145",
+    "900156",
+    "900157",
+    "900164",
+    "900165",
+    "900169",
+    "900865",
+    "900866",
+    "900890",
+    "900891",
+    "900983",
+    "900984",
+    "1098608",
+    "1098610",
+    "1146690",
+    "1146692",
+    "2001506",
+    "2001508",
+    "2003796",
+    "2003797",
+    "2003798",
+    "2003799",
+    "2003801",
+    "2724462",
+    "2724466"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 48,
+    "approval_holders": 28,
+    "earliest_marketing_start": "1995-01-17",
+    "latest_label_update": "2026-10-30",
+    "nda_bla_applications": 5,
+    "repackagers": 17
+  },
+  "unii": [
+    {
+      "ingredient": "LAMOTRIGINE",
+      "unii": "U3H27498KS"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020241",
+        "NDA020764",
+        "NDA022251"
+      ],
+      "brand_names": [
+        "LAMICTAL",
+        "LAMICTAL ODT"
+      ],
+      "combination": false,
+      "home_inn": "lamotrigine",
+      "ingredients": [
+        "LAMOTRIGINE"
+      ],
+      "labeler": "GlaxoSmithKline LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1995-01-17",
+      "moieties": [
+        "LAMOTRIGINE"
+      ],
+      "product_ndcs": [
+        "0173-0526",
+        "0173-0527",
+        "0173-0594",
+        "0173-0633",
+        "0173-0642",
+        "0173-0643",
+        "0173-0644",
+        "0173-0699",
+        "0173-0772",
+        "0173-0774",
+        "0173-0776",
+        "0173-0777",
+        "0173-0778",
+        "0173-0779",
+        "0173-0780",
+        "0173-0817"
+      ],
+      "rxcui": [
+        "103968",
+        "105018",
+        "105019",
+        "108782",
+        "198427",
+        "198428",
+        "198429",
+        "198430",
+        "201239",
+        "201240",
+        "206201",
+        "252478",
+        "252479",
+        "282401",
+        "311264",
+        "311265",
+        "349010",
+        "542426",
+        "751139",
+        "751563",
+        "753451",
+        "795772",
+        "795774",
+        "795778",
+        "849049",
+        "849050",
+        "849051",
+        "849052",
+        "851748",
+        "851749",
+        "851750",
+        "851751",
+        "851752",
+        "851753"
+      ],
+      "setid": "d7e3572d-56fe-4727-2bb4-013ccca22678",
+      "source": "openfda",
+      "spl_version": 45,
+      "title": "LAMICTAL (LAMOTRIGINE) TABLET LAMICTAL (LAMOTRIGINE) TABLET, FOR SUSPENSION LAMICTAL ODT (LAMOTRIGINE) TABLET, ORALLY DISINTEGRATING LAMICTAL (LAMOTRIGINE) KIT [GLAXOSMITHKLINE LLC]",
+      "upload_date": "2026-08-20"
+    },
+    {
+      "application_numbers": [
+        "NDA022115"
+      ],
+      "brand_names": [
+        "LAMICTAL XR"
+      ],
+      "combination": false,
+      "home_inn": "lamotrigine",
+      "ingredients": [
+        "LAMOTRIGINE"
+      ],
+      "labeler": "GlaxoSmithKline LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2009-07-06",
+      "moieties": [
+        "LAMOTRIGINE"
+      ],
+      "product_ndcs": [
+        "0173-0754",
+        "0173-0755",
+        "0173-0756",
+        "0173-0757",
+        "0173-0758",
+        "0173-0759",
+        "0173-0760",
+        "0173-0761",
+        "0173-0781"
+      ],
+      "rxcui": [
+        "850087",
+        "850091",
+        "900145",
+        "900156",
+        "900157",
+        "900164",
+        "900165",
+        "900169",
+        "900865",
+        "900866",
+        "900890",
+        "900891",
+        "900983",
+        "900984",
+        "1098608",
+        "1098610",
+        "1146690",
+        "1146692"
+      ],
+      "setid": "3e2c9a35-6a39-41d7-ad84-3c0bb8894b09",
+      "source": "openfda",
+      "spl_version": 44,
+      "title": "LAMICTAL XR (LAMOTRIGINE) TABLET, FILM COATED, EXTENDED RELEASE LAMICTAL XR (LAMOTRIGINE) KIT [GLAXOSMITHKLINE LLC]",
+      "upload_date": "2026-08-20"
+    },
+    {
+      "application_numbers": [
+        "ANDA078947",
+        "NDA218879"
+      ],
+      "brand_names": [
+        "SUBVENITE"
+      ],
+      "combination": false,
+      "home_inn": "lamotrigine",
+      "ingredients": [
+        "LAMOTRIGINE"
+      ],
+      "labeler": "OWP Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA",
+        "NDA"
+      ],
+      "marketing_start": "2018-03-10",
+      "moieties": [
+        "LAMOTRIGINE"
+      ],
+      "product_ndcs": [
+        "69102-150",
+        "69102-300",
+        "69102-301",
+        "69102-306",
+        "69102-312",
+        "69102-319",
+        "69102-320",
+        "69102-418"
+      ],
+      "rxcui": [
+        "198427",
+        "198428",
+        "198429",
+        "282401",
+        "751139",
+        "751563",
+        "753451",
+        "2001506",
+        "2001508",
+        "2003796",
+        "2003797",
+        "2003798",
+        "2003799",
+        "2003801"
+      ],
+      "setid": "7ad18b68-ba16-4810-9c3e-27fa970454e8",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "SUBVENITE (LAMOTRIGINE) TABLET SUBVENITE (LAMOTRIGINE) KIT [OWP PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-04-09"
+    },
+    {
+      "application_numbers": [
+        "NDA218879"
+      ],
+      "brand_names": [
+        "SUBVENITE"
+      ],
+      "combination": false,
+      "home_inn": "lamotrigine",
+      "ingredients": [
+        "LAMOTRIGINE"
+      ],
+      "labeler": "OWP Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-10-01",
+      "moieties": [
+        "LAMOTRIGINE"
+      ],
+      "product_ndcs": [
+        "69102-418"
+      ],
+      "rxcui": [
+        "2724462",
+        "2724466"
+      ],
+      "setid": "022b0913-f683-4af8-a862-f81b315909b2",
+      "source": "dailymed-title-match",
+      "spl_version": 4,
+      "title": "SUBVENITE (LAMOTRIGINE) SUSPENSION [OWP PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-10-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA077633",
+        "ANDA078009"
+      ],
+      "brand_names": [
+        "Lamotrigine"
+      ],
+      "combination": false,
+      "home_inn": "lamotrigine",
+      "ingredients": [
+        "LAMOTRIGINE"
+      ],
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-01-23",
+      "moieties": [
+        "LAMOTRIGINE"
+      ],
+      "product_ndcs": [
+        "65841-682",
+        "65841-683",
+        "65841-684",
+        "65841-685",
+        "65841-686",
+        "65841-687",
+        "65841-689",
+        "65841-690"
+      ],
+      "rxcui": [
+        "198427",
+        "198428",
+        "198429",
+        "199322",
+        "249329",
+        "282401",
+        "311264",
+        "311265"
+      ],
+      "setid": "0f2f7421-56d4-45d0-9d2d-dc1edaede039",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "LAMOTRIGINE TABLET LAMOTRIGINE TABLET, CHEWABLE [ZYDUS LIFESCIENCES LIMITED]",
+      "upload_date": "2025-10-06"
+    },
+    {
+      "application_numbers": [
+        "ANDA079132"
+      ],
+      "brand_names": [
+        "Lamotrigine"
+      ],
+      "combination": false,
+      "home_inn": "lamotrigine",
+      "ingredients": [
+        "LAMOTRIGINE"
+      ],
+      "labeler": "Jubilant Cadista Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-01-27",
+      "moieties": [
+        "LAMOTRIGINE"
+      ],
+      "product_ndcs": [
+        "59746-245",
+        "59746-246",
+        "59746-247",
+        "59746-248"
+      ],
+      "rxcui": [
+        "198427",
+        "198428",
+        "198429",
+        "282401"
+      ],
+      "setid": "0b0f0209-edbd-46f3-9bed-762cbea0d737",
+      "source": "dailymed-title-match",
+      "spl_version": 24,
+      "title": "LAMOTRIGINE TABLET LAMOTRIGINE TABLET [JUBILANT CADISTA PHARMACEUTICALS INC.]",
+      "upload_date": "2026-10-14"
+    },
+    {
+      "application_numbers": [
+        "ANDA078947"
+      ],
+      "brand_names": [
+        "LAMOTRIGINE"
+      ],
+      "combination": false,
+      "home_inn": "lamotrigine",
+      "ingredients": [
+        "LAMOTRIGINE"
+      ],
+      "labeler": "Torrent Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-01-27",
+      "moieties": [
+        "LAMOTRIGINE"
+      ],
+      "product_ndcs": [
+        "13668-045",
+        "13668-047",
+        "13668-048",
+        "13668-049",
+        "13668-266"
+      ],
+      "rxcui": [
+        "198427",
+        "198428",
+        "198429",
+        "282401",
+        "751139",
+        "751563",
+        "753451"
+      ],
+      "setid": "3448839b-4933-4ef9-a80a-9e504d2c5696",
+      "source": "openfda",
+      "spl_version": 27,
+      "title": "LAMOTRIGINE TABLET LAMOTRIGINE (LAMOTRIGINE) KIT [TORRENT PHARMACEUTICALS LIMITED]",
+      "upload_date": "2026-07-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA078956"
+      ],
+      "brand_names": [
+        "Lamotrigine"
+      ],
+      "combination": false,
+      "home_inn": "lamotrigine",
+      "ingredients": [
+        "LAMOTRIGINE"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-01-27",
+      "moieties": [
+        "LAMOTRIGINE"
+      ],
+      "product_ndcs": [
+        "65862-227",
+        "65862-228",
+        "65862-229",
+        "65862-230"
+      ],
+      "rxcui": [
+        "198427",
+        "198428",
+        "198429",
+        "282401"
+      ],
+      "setid": "a9a4309e-fe43-4a26-a30f-c6577d650336",
+      "source": "openfda",
+      "spl_version": 31,
+      "title": "LAMOTRIGINE TABLET [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2026-06-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA078525",
+        "ANDA219677"
+      ],
+      "brand_names": [
+        "LAMOTRIGINE",
+        "Lamotrigine"
+      ],
+      "combination": false,
+      "home_inn": "lamotrigine",
+      "ingredients": [
+        "LAMOTRIGINE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-01-27",
+      "moieties": [
+        "LAMOTRIGINE"
+      ],
+      "product_ndcs": [
+        "51672-4130",
+        "51672-4131",
+        "51672-4132",
+        "51672-4133",
+        "51672-4252",
+        "51672-4253",
+        "51672-4254",
+        "51672-4255"
+      ],
+      "rxcui": [
+        "198427",
+        "198428",
+        "198429",
+        "282401"
+      ],
+      "setid": "b829f9b2-f0ac-408a-a6f4-18b72150227d",
+      "source": "dailymed-title-match",
+      "spl_version": 22,
+      "title": "LAMOTRIGINE TABLET [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2026-06-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA076708"
+      ],
+      "brand_names": [
+        "Lamotrigine"
+      ],
+      "combination": false,
+      "home_inn": "lamotrigine",
+      "ingredients": [
+        "LAMOTRIGINE"
+      ],
+      "labeler": "Dr.Reddy's Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-01-29",
+      "moieties": [
+        "LAMOTRIGINE"
+      ],
+      "product_ndcs": [
+        "55111-220",
+        "55111-221",
+        "55111-222",
+        "55111-223"
+      ],
+      "rxcui": [
+        "198427",
+        "198428",
+        "198429",
+        "282401"
+      ],
+      "setid": "44670496-41ea-36a1-c435-32e359766a74",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "LAMOTRIGINE TABLET [DR.REDDY'S LABORATORIES LIMITED]",
+      "upload_date": "2024-12-23"
+    },
+    {
+      "application_numbers": [
+        "NDA020241"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "LAMICTAL"
+      ],
+      "first_posted": "2010-02-12",
+      "found_by": "LAMICTAL",
+      "labeler": "Caremark L.L.C.",
+      "labeler_unverified": false,
+      "last_posted": "2010-02-12",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2012-07-31"
+      ],
+      "product_ndcs": [
+        "0173-0642",
+        "0339-6480"
+      ],
+      "rxcui": [],
+      "setid": "eed2058c-35b6-49c1-90b3-c9753c796f24",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "d7e3572d-56fe-4727-2bb4-013ccca22678"
+      ],
+      "title": "LAMICTAL (lamotrigine) tablet"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Dr.Reddy's Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e1a0da17-d67c-e44f-bd42-33c4009e4cdd"
+    },
+    {
+      "combination": false,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "50fcf452-2d21-493e-a1dd-0c6ea9ac6184"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e08920c2-04a3-4fb5-acc5-0af3140f82e9"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "70cd448a-2921-4c69-bdf2-5a6ce883bd07"
+    },
+    {
+      "combination": false,
+      "labeler": "Unichem Pharmaceuticals (USA), Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4b72ea7a-a0b0-4980-84ad-84f64e2e6368"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ccb33cd0-e5f7-4a50-8b55-ad7c432cdb77"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr.Reddy's Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a69542ea-5b6f-15c1-9e7a-90ac839971d3"
+    },
+    {
+      "combination": false,
+      "labeler": "Torrent Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "52df02a7-83da-4b20-9951-69790237dc24"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "05cba628-b12c-44d8-89a8-3522fe417cc1"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "380bddae-5b31-4965-96de-97711d859d11"
+    },
+    {
+      "combination": false,
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "003663e5-c0c7-4fc1-a64d-313f2a5b10d2"
+    },
+    {
+      "combination": false,
+      "labeler": "ScieGen Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "de700ac1-4048-467e-abb1-238953261a97"
+    },
+    {
+      "combination": false,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "87beaf22-593d-4170-bb58-332c615ef90d"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0833d3df-2df1-4abd-abe0-7fb2c0253c80"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "eb436371-d188-4803-a864-07b90c357e57"
+    },
+    {
+      "combination": false,
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9dfb5f87-0150-4c26-a89f-34f1ab389500"
+    },
+    {
+      "combination": false,
+      "labeler": "Advagen Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4ca9d713-ab63-48bf-9386-29301a842e60"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e45bd69f-3580-ff15-e053-2a95a90a4615"
+    },
+    {
+      "combination": false,
+      "labeler": "Nordic Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "67cf961e-02b9-4a99-944f-43a55df6a544"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4bd7193f-a81a-4909-90c2-7f324fc6ddfd"
+    },
+    {
+      "combination": false,
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d5ec4d58-c669-4ab4-ba62-b71007536854"
+    },
+    {
+      "combination": false,
+      "labeler": "Torrent Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "22225cc4-028e-43ad-8e1f-dcebdc244ecb"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "03610cdf-7eaa-445c-a441-ff17be5a7c68"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e849033b-a3bc-408e-88de-7cd1d2660949"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f54690b3-bcbb-4d94-95b9-b7591af00117"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ae6522d4-d824-44aa-afe0-70cdcbd845af"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddys Laboratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "54ea1ec3-876b-4d3a-a92b-1a6d70951de0"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9ab07d6b-ae4a-a310-5572-b266676cd29e"
+    },
+    {
+      "combination": false,
+      "labeler": "OWP Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "474fb321-575c-4b97-9dbe-080061652ee4"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "60958229-5b5f-49e2-97f4-a8722138f7ce"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9e5c2d76-47a6-4a57-b23c-2398b307380c"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ecb7a528-699f-4e51-9887-dee60456da2f"
+    },
+    {
+      "combination": false,
+      "labeler": "Northstar Rx LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "aabc64fe-1f17-4140-81f2-7d4506db6c8b"
+    },
+    {
+      "combination": false,
+      "labeler": "Yiling Pharmaceutical, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f7de11a5-5357-4753-b1ac-b15123b50028"
+    },
+    {
+      "combination": false,
+      "labeler": "Quallent Pharmaceuticals Health LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7977c87f-b459-486a-9edc-0a2071c46f4c"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "faee013c-cad2-4abb-904c-e6ff79ba778c"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "83297e2e-9199-4b3d-9f44-a921787758fe"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "df34faa4-829e-413a-a230-cbec604eead9"
+    }
+  ]
+}

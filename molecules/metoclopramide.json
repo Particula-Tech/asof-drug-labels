@@ -1,0 +1,549 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "METOCLOPRAMIDE HYDROCHLORIDE"
+  ],
+  "inn": "metoclopramide",
+  "name": "METOCLOPRAMIDE",
+  "rank": 363,
+  "rxcui": [
+    "104884",
+    "207265",
+    "207266",
+    "311666",
+    "311668",
+    "311670",
+    "2380564",
+    "2380570"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 20,
+    "approval_holders": 16,
+    "earliest_marketing_start": "1990-09-30",
+    "latest_label_update": "2026-10-30",
+    "nda_bla_applications": 2,
+    "repackagers": 21
+  },
+  "unii": [
+    {
+      "ingredient": "METOCLOPRAMIDE HYDROCHLORIDE",
+      "unii": "W1792A2RVD"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA017854"
+      ],
+      "brand_names": [
+        "Reglan"
+      ],
+      "combination": false,
+      "home_inn": "metoclopramide",
+      "ingredients": [
+        "METOCLOPRAMIDE HYDROCHLORIDE"
+      ],
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2011-07-05",
+      "moieties": [
+        "METOCLOPRAMIDE"
+      ],
+      "product_ndcs": [
+        "62559-165",
+        "62559-166"
+      ],
+      "rxcui": [
+        "207265",
+        "207266",
+        "311666",
+        "311668"
+      ],
+      "setid": "de55c133-eb08-4a35-91a2-5dc093027397",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "REGLAN (METOCLOPRAMIDE HYDROCHLORIDE) TABLET [ANI PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-02-16"
+    },
+    {
+      "application_numbers": [
+        "NDA209388"
+      ],
+      "brand_names": [
+        "GIMOTI"
+      ],
+      "combination": false,
+      "home_inn": "metoclopramide",
+      "ingredients": [
+        "METOCLOPRAMIDE HYDROCHLORIDE"
+      ],
+      "labeler": "Evoke Pharma, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2020-06-19",
+      "moieties": [
+        "METOCLOPRAMIDE"
+      ],
+      "product_ndcs": [
+        "72089-307"
+      ],
+      "rxcui": [
+        "2380564",
+        "2380570"
+      ],
+      "setid": "95269b1f-779c-4ca0-9f86-e74e677f9900",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "GIMOTI (METOCLOPRAMIDE HYDROCHLORIDE) SPRAY [EVOKE PHARMA, INC.]",
+      "upload_date": "2026-02-23"
+    },
+    {
+      "application_numbers": [
+        "NDA017854"
+      ],
+      "brand_names": [
+        "Metoclopramide"
+      ],
+      "combination": false,
+      "home_inn": "metoclopramide",
+      "ingredients": [
+        "METOCLOPRAMIDE HYDROCHLORIDE"
+      ],
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2021-12-13",
+      "moieties": [
+        "METOCLOPRAMIDE"
+      ],
+      "product_ndcs": [
+        "62559-295",
+        "62559-296"
+      ],
+      "rxcui": [
+        "311666",
+        "311668"
+      ],
+      "setid": "797aad80-0597-42f8-99d5-39de180c3b5a",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "METOCLOPRAMIDE TABLET [ANI PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-05-25"
+    },
+    {
+      "application_numbers": [
+        "ANDA070184",
+        "ANDA072801"
+      ],
+      "brand_names": [
+        "Metoclopramide"
+      ],
+      "combination": false,
+      "home_inn": "metoclopramide",
+      "ingredients": [
+        "METOCLOPRAMIDE HYDROCHLORIDE"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1990-09-30",
+      "moieties": [
+        "METOCLOPRAMIDE"
+      ],
+      "product_ndcs": [
+        "0093-2203",
+        "0093-2204"
+      ],
+      "rxcui": [
+        "311666",
+        "311668"
+      ],
+      "setid": "e15905e0-e0f6-4c8b-ac19-59724d6c4bf0",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "METOCLOPRAMIDE TABLET [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2026-05-01"
+    },
+    {
+      "application_numbers": [
+        "ANDA072744"
+      ],
+      "brand_names": [
+        "Metoclopramide"
+      ],
+      "combination": false,
+      "home_inn": "metoclopramide",
+      "ingredients": [
+        "METOCLOPRAMIDE HYDROCHLORIDE"
+      ],
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1991-06-01",
+      "moieties": [
+        "METOCLOPRAMIDE"
+      ],
+      "product_ndcs": [
+        "0121-0576",
+        "0121-1576"
+      ],
+      "rxcui": [],
+      "setid": "3cc8ca5b-8b71-4c77-a181-9ce154597b9a",
+      "source": "dailymed-title-match",
+      "spl_version": 17,
+      "title": "METOCLOPRAMIDE (METOCLOPRAMIDE HYDROCHLORIDE) SOLUTION [PAI HOLDINGS, LLC DBA PAI PHARMA]",
+      "upload_date": "2026-10-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA073135"
+      ],
+      "brand_names": [
+        "Metoclopramide"
+      ],
+      "combination": false,
+      "home_inn": "metoclopramide",
+      "ingredients": [
+        "METOCLOPRAMIDE HYDROCHLORIDE"
+      ],
+      "labeler": "Teva Parenteral Medicines, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1991-12-01",
+      "moieties": [
+        "METOCLOPRAMIDE"
+      ],
+      "product_ndcs": [
+        "0703-4502"
+      ],
+      "rxcui": [
+        "311670"
+      ],
+      "setid": "cccf04bd-7463-40b8-a41f-cb1093c358d7",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "METOCLOPRAMIDE INJECTION, SOLUTION [TEVA PARENTERAL MEDICINES, INC.]",
+      "upload_date": "2026-05-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA073680"
+      ],
+      "brand_names": [
+        "metoclopramide hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "metoclopramide",
+      "ingredients": [
+        "METOCLOPRAMIDE HYDROCHLORIDE"
+      ],
+      "labeler": "Chartwell Governmental & Specialty RX, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1992-10-27",
+      "moieties": [
+        "METOCLOPRAMIDE"
+      ],
+      "product_ndcs": [
+        "68999-526"
+      ],
+      "rxcui": [
+        "104884"
+      ],
+      "setid": "c4ab34f2-25e6-47bd-9dde-1f4baf469f0d",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "METOCLOPRAMIDE HYDROCHLORIDE SOLUTION [CHARTWELL GOVERNMENTAL & SPECIALTY RX, LLC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA073118"
+      ],
+      "brand_names": [
+        "Metoclopramide"
+      ],
+      "combination": false,
+      "home_inn": "metoclopramide",
+      "ingredients": [
+        "METOCLOPRAMIDE HYDROCHLORIDE"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2006-02-02",
+      "moieties": [
+        "METOCLOPRAMIDE"
+      ],
+      "product_ndcs": [
+        "0409-3414"
+      ],
+      "rxcui": [
+        "311670"
+      ],
+      "setid": "373ba08b-33ad-49fc-28a7-928e89a65314",
+      "source": "openfda",
+      "spl_version": 29,
+      "title": "METOCLOPRAMIDE INJECTION, SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2026-04-15"
+    },
+    {
+      "application_numbers": [
+        "NDA017862"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "REGLAN"
+      ],
+      "first_posted": "2006-08-21",
+      "found_by": "REGLAN",
+      "labeler": "Baxter Healthcare Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2015-08-28",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-04-30"
+      ],
+      "product_ndcs": [
+        "60977-451"
+      ],
+      "rxcui": [],
+      "setid": "a075cffe-6aeb-43f7-9533-de978a962b77",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "REGLAN (metoclopramide) injection, solution"
+    },
+    {
+      "application_numbers": [
+        "NDA017854"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "REGLAN"
+      ],
+      "first_posted": "2008-03-19",
+      "found_by": "REGLAN",
+      "labeler": "UCB, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2015-07-20",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2011-05-31",
+        "2011-09-30"
+      ],
+      "product_ndcs": [
+        "0091-6701",
+        "0091-6705"
+      ],
+      "rxcui": [],
+      "setid": "b73e7993-b5fb-4147-8bbe-eba686a5d051",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "797aad80-0597-42f8-99d5-39de180c3b5a",
+        "de55c133-eb08-4a35-91a2-5dc093027397"
+      ],
+      "title": "REGLAN (metoclopramide hydrochloride) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA017854"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "REGLAN"
+      ],
+      "first_posted": "2009-12-14",
+      "found_by": "REGLAN",
+      "labeler": "Alaven Pharmaceutical LLC",
+      "labeler_unverified": false,
+      "last_posted": "2012-11-26",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2011-10-31",
+        "2012-11-30"
+      ],
+      "product_ndcs": [
+        "68220-150",
+        "68220-151"
+      ],
+      "rxcui": [],
+      "setid": "f08671b6-dc76-450a-8c8c-9d54f9611c00",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "797aad80-0597-42f8-99d5-39de180c3b5a",
+        "de55c133-eb08-4a35-91a2-5dc093027397"
+      ],
+      "title": "REGLAN (metoclopramide hydrochloride) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA022246"
+      ],
+      "archived_versions": 8,
+      "brand_names": [
+        "METOZOLV"
+      ],
+      "first_posted": "2009-09-17",
+      "found_by": "METOZOLV",
+      "labeler": "Salix Pharmaceuticals, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2017-05-09",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2016-10-31"
+      ],
+      "product_ndcs": [
+        "65649-431",
+        "65649-432"
+      ],
+      "rxcui": [],
+      "setid": "f0892106-399d-4e53-ae8d-8797c50ce7bf",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "METOZOLV ODT (metoclopramide hydrochloride) tablet, orally disintegrating"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cc739885-e10e-4bcb-a781-c726c518f3d1"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "50a3cf38-66dc-4fa5-8a45-adf959c987ab"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals,Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7cd1dc35-2fb2-4f1d-8769-24c3c3aa34fa"
+    },
+    {
+      "combination": false,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4e12e98a-06fe-4b3c-bb64-f2701e195c74"
+    },
+    {
+      "combination": false,
+      "labeler": "Ipca Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c143e210-4ce7-44e5-b1e2-bf0e6bfde485"
+    },
+    {
+      "combination": false,
+      "labeler": "ScieGen Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b16ad17c-eeea-407e-91e4-36506e9aa698"
+    },
+    {
+      "combination": false,
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f6efdc63-a9df-4bbd-acf8-75fc9d1b0347"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dc364325-dd39-4259-a348-3760eccdca4b"
+    },
+    {
+      "combination": false,
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "146803a1-199d-4789-b128-e974bdd03322"
+    },
+    {
+      "combination": false,
+      "labeler": "Genus Lifesciences Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "74358569-7a24-4a59-a7fc-500d2341d6cb"
+    },
+    {
+      "combination": false,
+      "labeler": "Avenacy, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dc4a13f8-1e9b-4c75-82c0-bcd11f0a9a66"
+    },
+    {
+      "combination": false,
+      "labeler": "Teva Parenteral Medicines, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5645a752-8868-4b51-8b59-48bb4276d763"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand PREVYMIS",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/004536",
+      "eu_number": "EU/1/17/1245",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-004536",
+      "mah": "Merck Sharp & Dohme B.V.",
+      "marketing_authorisation_date": "2018-01-08",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/prevymis",
+      "name": "Prevymis",
+      "record_from": "2018-01-08",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 9
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-004536",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "LETERMOVIR"
+  ],
+  "inn": "letermovir",
+  "name": "LETERMOVIR",
+  "rank": 348,
+  "rxcui": [
+    "1988652",
+    "1988657",
+    "1988660",
+    "1988661",
+    "1988666",
+    "1988671",
+    "1988673",
+    "1988675",
+    "2693185",
+    "2693189",
+    "2693191",
+    "2693193"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 1,
+    "approval_holders": 1,
+    "earliest_marketing_start": "2017-11-08",
+    "latest_label_update": "2026-01-23",
+    "nda_bla_applications": 3,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "LETERMOVIR",
+      "unii": "1H09Y5WO1F"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA209939",
+        "NDA209940",
+        "NDA219104"
+      ],
+      "brand_names": [
+        "PREVYMIS"
+      ],
+      "combination": false,
+      "home_inn": "letermovir",
+      "ingredients": [
+        "LETERMOVIR"
+      ],
+      "labeler": "Merck Sharp & Dohme LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-11-08",
+      "moieties": [
+        "LETERMOVIR"
+      ],
+      "product_ndcs": [
+        "0006-3075",
+        "0006-3076",
+        "0006-5003",
+        "0006-5004",
+        "0006-5085",
+        "0006-5086"
+      ],
+      "rxcui": [
+        "1988652",
+        "1988657",
+        "1988660",
+        "1988661",
+        "1988666",
+        "1988671",
+        "1988673",
+        "1988675",
+        "2693185",
+        "2693189",
+        "2693191",
+        "2693193"
+      ],
+      "setid": "1b49df80-be4f-47e0-a0b7-123f3e69395b",
+      "source": "openfda",
+      "spl_version": 28,
+      "title": "PREVYMIS (LETERMOVIR) TABLET, FILM COATED PREVYMIS (LETERMOVIR) INJECTION, SOLUTION PREVYMIS (LETERMOVIR) PELLET [MERCK SHARP & DOHME LLC]",
+      "upload_date": "2026-01-23"
+    }
+  ],
+  "us_excluded": []
+}

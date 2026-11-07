@@ -1,0 +1,447 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "ETOPOSIDE",
+    "ETOPOSIDE PHOSPHATE"
+  ],
+  "inn": "etoposide",
+  "name": "ETOPOSIDE",
+  "rank": 316,
+  "rxcui": [
+    "105592",
+    "197687",
+    "226719",
+    "310248",
+    "1734340",
+    "2735802"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 12,
+    "approval_holders": 10,
+    "earliest_marketing_start": "1996-05-01",
+    "latest_label_update": "2026-10-26",
+    "nda_bla_applications": 3,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "ETOPOSIDE",
+      "unii": "6PLQ3CP4P3"
+    },
+    {
+      "ingredient": "ETOPOSIDE PHOSPHATE",
+      "unii": "528XYJ8L1N"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020457"
+      ],
+      "brand_names": [
+        "ETOPOPHOS"
+      ],
+      "combination": false,
+      "home_inn": "etoposide",
+      "ingredients": [
+        "ETOPOSIDE PHOSPHATE"
+      ],
+      "labeler": "H2-Pharma, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2009-06-01",
+      "moieties": [
+        "ETOPOSIDE"
+      ],
+      "product_ndcs": [
+        "61269-410"
+      ],
+      "rxcui": [
+        "226719",
+        "1734340"
+      ],
+      "setid": "7499fc35-fae8-44ad-bbab-9a1a589bf3ee",
+      "source": "openfda",
+      "spl_version": 23,
+      "title": "ETOPOPHOS (ETOPOSIDE PHOSPHATE) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [H2-PHARMA, LLC]",
+      "upload_date": "2026-09-08"
+    },
+    {
+      "application_numbers": [
+        "NDA220200"
+      ],
+      "brand_names": [
+        "Avopef"
+      ],
+      "combination": false,
+      "home_inn": "etoposide",
+      "ingredients": [
+        "ETOPOSIDE"
+      ],
+      "labeler": "AVYXA Pharma, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2026-04-01",
+      "moieties": [
+        "ETOPOSIDE"
+      ],
+      "product_ndcs": [
+        "83831-144",
+        "83831-145"
+      ],
+      "rxcui": [
+        "310248",
+        "2735802"
+      ],
+      "setid": "acc1e443-ef7b-486f-a638-710a20e81059",
+      "source": "dailymed-title-match",
+      "spl_version": 11,
+      "title": "AVOPEF (ETOPOSIDE) INJECTION [AVYXA PHARMA, LLC]",
+      "upload_date": "2026-10-09"
+    },
+    {
+      "application_numbers": [
+        "NDA019557"
+      ],
+      "brand_names": [
+        "VePesid"
+      ],
+      "combination": false,
+      "home_inn": "etoposide",
+      "ingredients": [
+        "ETOPOSIDE"
+      ],
+      "labeler": "Onesource Specialty Pharma Limited",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2026-05-29",
+      "moieties": [
+        "ETOPOSIDE"
+      ],
+      "product_ndcs": [
+        "83270-451"
+      ],
+      "rxcui": [
+        "105592",
+        "197687"
+      ],
+      "setid": "7bc994df-ee84-4ed7-80fa-737f70918953",
+      "source": "dailymed-title-match",
+      "spl_version": 3,
+      "title": "VEPESID (ETOPOSIDE) CAPSULE [ONESOURCE SPECIALTY PHARMA LIMITED]",
+      "upload_date": "2026-10-05"
+    },
+    {
+      "application_numbers": [
+        "NDA019557"
+      ],
+      "brand_names": [
+        "VePesid"
+      ],
+      "combination": false,
+      "home_inn": "etoposide",
+      "ingredients": [
+        "ETOPOSIDE"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2026-05-15",
+      "moieties": [
+        "ETOPOSIDE"
+      ],
+      "product_ndcs": [
+        "69238-2811"
+      ],
+      "rxcui": [
+        "105592",
+        "197687"
+      ],
+      "setid": "2a40f3ed-4a36-4616-af6c-b616140fd5ee",
+      "source": "dailymed-title-match",
+      "spl_version": 3,
+      "title": "VEPESID (ETOPOSIDE) CAPSULE [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2026-10-26"
+    },
+    {
+      "application_numbers": [
+        "ANDA074290"
+      ],
+      "brand_names": [
+        "Etoposide"
+      ],
+      "combination": false,
+      "home_inn": "etoposide",
+      "ingredients": [
+        "ETOPOSIDE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1996-05-01",
+      "moieties": [
+        "ETOPOSIDE"
+      ],
+      "product_ndcs": [
+        "0143-9510",
+        "0143-9511",
+        "0143-9512"
+      ],
+      "rxcui": [
+        "310248"
+      ],
+      "setid": "6dfedeff-a807-4405-a482-2f7109ad31c9",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "ETOPOSIDE INJECTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2023-09-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA074983"
+      ],
+      "brand_names": [
+        "Etoposide"
+      ],
+      "combination": false,
+      "home_inn": "etoposide",
+      "ingredients": [
+        "ETOPOSIDE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2001-07-18",
+      "moieties": [
+        "ETOPOSIDE"
+      ],
+      "product_ndcs": [
+        "63323-104"
+      ],
+      "rxcui": [
+        "310248"
+      ],
+      "setid": "fe870629-104d-4d67-a7c6-f53bc588121e",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "ETOPOSIDE INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2026-08-03"
+    },
+    {
+      "application_numbers": [
+        "ANDA075635"
+      ],
+      "brand_names": [
+        "Etoposide"
+      ],
+      "combination": false,
+      "home_inn": "etoposide",
+      "ingredients": [
+        "ETOPOSIDE"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2001-10-22",
+      "moieties": [
+        "ETOPOSIDE"
+      ],
+      "product_ndcs": [
+        "0378-3266"
+      ],
+      "rxcui": [
+        "197687"
+      ],
+      "setid": "508a418e-985f-4208-9324-2230655bb5c2",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "ETOPOSIDE CAPSULE [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2018-10-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA074513"
+      ],
+      "brand_names": [
+        "Etoposide"
+      ],
+      "combination": false,
+      "home_inn": "etoposide",
+      "ingredients": [
+        "ETOPOSIDE"
+      ],
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-11-14",
+      "moieties": [
+        "ETOPOSIDE"
+      ],
+      "product_ndcs": [
+        "68001-265"
+      ],
+      "rxcui": [
+        "310248"
+      ],
+      "setid": "157d4e0f-806d-4011-9dec-97e2449e507b",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "ETOPOSIDE INJECTION [BLUEPOINT LABORATORIES]",
+      "upload_date": "2018-06-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA074529"
+      ],
+      "brand_names": [
+        "Etoposide"
+      ],
+      "combination": false,
+      "home_inn": "etoposide",
+      "ingredients": [
+        "ETOPOSIDE"
+      ],
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-02-01",
+      "moieties": [
+        "ETOPOSIDE"
+      ],
+      "product_ndcs": [
+        "71288-175",
+        "71288-176",
+        "71288-177"
+      ],
+      "rxcui": [
+        "310248"
+      ],
+      "setid": "50491106-dddd-4efd-bd83-060e7947a244",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "ETOPOSIDE INJECTION, SOLUTION, CONCENTRATE [MEITHEAL PHARMACEUTICALS INC.]",
+      "upload_date": "2025-12-04"
+    },
+    {
+      "application_numbers": [
+        "NDA018768",
+        "NDA019557"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "VEPESID"
+      ],
+      "first_posted": "2007-05-22",
+      "found_by": "VEPESID",
+      "labeler": "E.R. Squibb & Sons, L.L.C.",
+      "labeler_unverified": true,
+      "last_posted": "2010-06-25",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2006-12-31",
+        "2007-03-31",
+        "2007-09-30",
+        "2008-11-15"
+      ],
+      "product_ndcs": [
+        "0015-3061",
+        "0015-3062",
+        "0015-3084",
+        "0015-3091",
+        "0015-3095"
+      ],
+      "rxcui": [],
+      "setid": "172b78c1-1b87-4c88-b674-34af920237ce",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "2a40f3ed-4a36-4616-af6c-b616140fd5ee",
+        "7bc994df-ee84-4ed7-80fa-737f70918953"
+      ],
+      "title": "VEPESID (etoposide) injection VEPESID (etoposide) capsule, liquid filled"
+    },
+    {
+      "application_numbers": [
+        "NDA020457"
+      ],
+      "archived_versions": 14,
+      "brand_names": [
+        "ETOPOPHOS"
+      ],
+      "first_posted": "2007-06-29",
+      "found_by": "ETOPOPHOS",
+      "labeler": "E.R. Squibb & Sons, L.L.C.",
+      "labeler_unverified": true,
+      "last_posted": "2019-12-24",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-04-30"
+      ],
+      "product_ndcs": [
+        "0015-3404"
+      ],
+      "rxcui": [],
+      "setid": "e28c05f0-081f-406d-8bfb-9160a6908307",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "7499fc35-fae8-44ad-bbab-9a1a589bf3ee"
+      ],
+      "title": "ETOPOPHOS (etoposide phosphate) injection, powder, lyophilized, for solution"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e0cd61b9-2375-4e3d-a610-d87dad962468"
+    },
+    {
+      "combination": false,
+      "labeler": "Accord Healthcare Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4f850eb2-3542-43a0-90e8-bb37fa05cf15"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0dddbe44-b4f4-431f-9011-8a54abbd4cbf"
+    }
+  ]
+}

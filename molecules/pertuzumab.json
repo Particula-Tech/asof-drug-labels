@@ -1,0 +1,160 @@
+{
+  "biologic": true,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand PERJETA",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/002547",
+      "eu_number": "EU/1/13/813",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-002547",
+      "mah": "Roche Registration GmbH ",
+      "marketing_authorisation_date": "2013-03-04",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/perjeta",
+      "name": "Perjeta",
+      "record_from": "2013-03-04",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 15
+    },
+    {
+      "biosimilar": true,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/006583",
+      "eu_number": "EU/1/25/2008",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-006583",
+      "mah": "Organon N.V.",
+      "marketing_authorisation_date": "2026-04-23",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/poherdy",
+      "name": "Poherdy",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 1,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-002547",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "PERTUZUMAB"
+  ],
+  "inn": "pertuzumab",
+  "name": "PERTUZUMAB",
+  "rank": 376,
+  "rxcui": [
+    "1298948",
+    "1298953",
+    "2382604",
+    "2382609",
+    "2383305",
+    "2383307"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 2,
+    "approval_holders": 1,
+    "earliest_marketing_start": "2012-06-08",
+    "latest_label_update": "2026-09-28",
+    "nda_bla_applications": 2,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "PERTUZUMAB",
+      "unii": "K16AIQ8CTM"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "BLA125409"
+      ],
+      "brand_names": [
+        "PERJETA"
+      ],
+      "combination": false,
+      "home_inn": "pertuzumab",
+      "ingredients": [
+        "PERTUZUMAB"
+      ],
+      "labeler": "Genentech, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2012-06-08",
+      "moieties": [
+        "PERTUZUMAB"
+      ],
+      "product_ndcs": [
+        "50242-145"
+      ],
+      "rxcui": [
+        "1298948",
+        "1298953"
+      ],
+      "setid": "17f85d17-ab71-4f5b-9fe3-0b8c822f69ff",
+      "source": "openfda",
+      "spl_version": 27,
+      "title": "PERJETA (PERTUZUMAB) INJECTION, SOLUTION, CONCENTRATE [GENENTECH, INC.]",
+      "upload_date": "2026-05-04"
+    },
+    {
+      "application_numbers": [
+        "BLA761170"
+      ],
+      "brand_names": [
+        "Phesgo"
+      ],
+      "combination": true,
+      "home_inn": "hyaluronidase-human-recombinant",
+      "ingredients": [
+        "HYALURONIDASE (HUMAN RECOMBINANT)",
+        "PERTUZUMAB",
+        "TRASTUZUMAB"
+      ],
+      "labeler": "Genentech, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2020-06-29",
+      "moieties": [
+        "HYALURONIDASE (HUMAN RECOMBINANT)",
+        "PERTUZUMAB",
+        "TRASTUZUMAB"
+      ],
+      "product_ndcs": [
+        "50242-245",
+        "50242-260"
+      ],
+      "rxcui": [
+        "2382604",
+        "2382609",
+        "2383305",
+        "2383307"
+      ],
+      "setid": "27dd5e6b-72cd-458d-a015-cf4dab5800da",
+      "source": "dailymed-title-match",
+      "spl_version": 18,
+      "title": "PHESGO (PERTUZUMAB, TRASTUZUMAB, AND HYALURONIDASE-ZZXF) INJECTION, SOLUTION [GENENTECH, INC.]",
+      "upload_date": "2026-09-28"
+    }
+  ],
+  "us_excluded": []
+}

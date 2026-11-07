@@ -1,0 +1,677 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/003906",
+      "eu_number": "EU/1/14/965",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-003906",
+      "mah": "Esteve Pharmaceuticals, S.A.",
+      "marketing_authorisation_date": "2014-11-18",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ketoconazole-esteve",
+      "name": "Ketoconazole Esteve (previously Ketoconazole HRA)",
+      "record_from": "2014-11-19",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 12
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-003906",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "KETOCONAZOLE"
+  ],
+  "inn": "ketoconazole",
+  "name": "KETOCONAZOLE",
+  "rank": 317,
+  "rxcui": [
+    "106336",
+    "197853",
+    "203088",
+    "728550"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 21,
+    "approval_holders": 18,
+    "earliest_marketing_start": "1999-06-15",
+    "latest_label_update": "2026-09-21",
+    "nda_bla_applications": 0,
+    "repackagers": 11
+  },
+  "unii": [
+    {
+      "ingredient": "KETOCONAZOLE",
+      "unii": "R9400W927I"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "ANDA075319"
+      ],
+      "brand_names": [
+        "Ketoconazole"
+      ],
+      "combination": false,
+      "home_inn": "ketoconazole",
+      "ingredients": [
+        "KETOCONAZOLE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1999-06-15",
+      "moieties": [
+        "KETOCONAZOLE"
+      ],
+      "product_ndcs": [
+        "51672-4026"
+      ],
+      "rxcui": [
+        "197853"
+      ],
+      "setid": "8ca815a8-bccb-4ee2-a042-922373329cae",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "KETOCONAZOLE TABLET [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2025-09-03"
+    },
+    {
+      "application_numbers": [
+        "ANDA075638"
+      ],
+      "brand_names": [
+        "Ketoconazole"
+      ],
+      "combination": false,
+      "home_inn": "ketoconazole",
+      "ingredients": [
+        "KETOCONAZOLE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2002-12-18",
+      "moieties": [
+        "KETOCONAZOLE"
+      ],
+      "product_ndcs": [
+        "51672-1298"
+      ],
+      "rxcui": [
+        "203088"
+      ],
+      "setid": "39b85d6a-9133-42e6-b7f8-58f045e9b9f0",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "KETOCONAZOLE CREAM [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2025-07-08"
+    },
+    {
+      "application_numbers": [
+        "ANDA076294"
+      ],
+      "brand_names": [
+        "ketoconazole"
+      ],
+      "combination": false,
+      "home_inn": "ketoconazole",
+      "ingredients": [
+        "KETOCONAZOLE"
+      ],
+      "labeler": "E. Fougera & Co. a division of Fougera Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2004-04-28",
+      "moieties": [
+        "KETOCONAZOLE"
+      ],
+      "product_ndcs": [
+        "0168-0099"
+      ],
+      "rxcui": [
+        "203088"
+      ],
+      "setid": "cad7c647-34a9-4e4e-83b3-8d78e58f588f",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "KETOCONAZOLE CREAM [E. FOUGERA & CO. A DIVISION OF FOUGERA PHARMACEUTICALS, LLC]",
+      "upload_date": "2026-02-27"
+    },
+    {
+      "application_numbers": [
+        "ANDA076419"
+      ],
+      "brand_names": [
+        "Ketoconazole"
+      ],
+      "combination": false,
+      "home_inn": "ketoconazole",
+      "ingredients": [
+        "KETOCONAZOLE"
+      ],
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-01-19",
+      "moieties": [
+        "KETOCONAZOLE"
+      ],
+      "product_ndcs": [
+        "45802-465"
+      ],
+      "rxcui": [
+        "106336"
+      ],
+      "setid": "99da5233-2760-46f6-8fb3-d9df5da70bfb",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "KETOCONAZOLE SHAMPOO, SUSPENSION [PADAGIS ISRAEL PHARMACEUTICALS LTD]",
+      "upload_date": "2026-07-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA091550"
+      ],
+      "brand_names": [
+        "ketoconazole"
+      ],
+      "combination": false,
+      "home_inn": "ketoconazole",
+      "ingredients": [
+        "KETOCONAZOLE"
+      ],
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-08-30",
+      "moieties": [
+        "KETOCONAZOLE"
+      ],
+      "product_ndcs": [
+        "45802-532"
+      ],
+      "rxcui": [
+        "728550"
+      ],
+      "setid": "9b65f632-a98d-400e-9ec3-84dea581d6a3",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "KETOCONAZOLE AEROSOL, FOAM [PADAGIS ISRAEL PHARMACEUTICALS LTD]",
+      "upload_date": "2024-09-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA210457"
+      ],
+      "brand_names": [
+        "KETOCONAZOLE"
+      ],
+      "combination": false,
+      "home_inn": "ketoconazole",
+      "ingredients": [
+        "KETOCONAZOLE"
+      ],
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-06-26",
+      "moieties": [
+        "KETOCONAZOLE"
+      ],
+      "product_ndcs": [
+        "64380-827"
+      ],
+      "rxcui": [
+        "197853"
+      ],
+      "setid": "6d4be760-c723-4f54-a854-12c61cf91703",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "KETOCONAZOLE TABLET [STRIDES PHARMA SCIENCE LIMITED]",
+      "upload_date": "2026-02-09"
+    },
+    {
+      "application_numbers": [
+        "NDA018533"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "NIZORAL"
+      ],
+      "first_posted": "2006-09-18",
+      "found_by": "NIZORAL",
+      "labeler": "Janssen Pharmaceuticals, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2017-01-24",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2007-06-30"
+      ],
+      "product_ndcs": [
+        "50458-220"
+      ],
+      "rxcui": [],
+      "setid": "090660c1-6e6d-457f-adb5-046ddfcd1465",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "NIZORAL (ketoconazole) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA021738"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "EXTINA"
+      ],
+      "first_posted": "2018-07-11",
+      "found_by": "EXTINA",
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2023-03-13",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-01-31"
+      ],
+      "product_ndcs": [
+        "0378-8136"
+      ],
+      "rxcui": [],
+      "setid": "36629578-188e-434e-bac8-27784b81d50e",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "EXTINA (ketoconazole) aerosol, foam"
+    },
+    {
+      "application_numbers": [
+        "NDA021946"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "XOLEGEL"
+      ],
+      "first_posted": "2010-01-12",
+      "found_by": "XOLEGEL",
+      "labeler": "Stiefel Laboratories Inc",
+      "labeler_unverified": true,
+      "last_posted": "2011-01-10",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2010-01-09"
+      ],
+      "product_ndcs": [
+        "0145-0003"
+      ],
+      "rxcui": [],
+      "setid": "65e5572e-5d90-49b5-b53b-d1d304de6d41",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "XOLEGEL (ketoconazole) gel"
+    },
+    {
+      "application_numbers": [
+        "NDA021946"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "XOLEGEL"
+      ],
+      "first_posted": "2011-07-01",
+      "found_by": "XOLEGEL",
+      "labeler": "Almirall, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2023-01-16",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-12-30"
+      ],
+      "product_ndcs": [
+        "16110-080"
+      ],
+      "rxcui": [],
+      "setid": "855e42bb-b57f-4772-bffa-d766ddcc46ce",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "XOLEGEL (ketoconazole) gel"
+    },
+    {
+      "application_numbers": [
+        "NDA019927"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "NIZORAL"
+      ],
+      "first_posted": "2007-02-16",
+      "found_by": "NIZORAL",
+      "labeler": "McNeil Consumer Healthcare Div. McNeil-PPC, Inc",
+      "labeler_unverified": false,
+      "last_posted": "2012-07-09",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2010-11-30"
+      ],
+      "product_ndcs": [
+        "50580-380"
+      ],
+      "rxcui": [],
+      "setid": "aee87a23-b8a6-4e17-a533-7bdd36a918b8",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "NIZORAL (ketoconazole) shampoo"
+    },
+    {
+      "application_numbers": [
+        "NDA021946"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "XOLEGEL"
+      ],
+      "first_posted": "2007-03-19",
+      "found_by": "XOLEGEL",
+      "labeler": "Stiefel Laboratories Inc",
+      "labeler_unverified": true,
+      "last_posted": "2011-08-01",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-06-30"
+      ],
+      "product_ndcs": [
+        "13478-003"
+      ],
+      "rxcui": [],
+      "setid": "bc920a25-e59d-4686-928b-5c900718c6ad",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "XOLEGEL (ketoconazole) gel"
+    },
+    {
+      "application_numbers": [
+        "NDA021738"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "EXTINA"
+      ],
+      "first_posted": "2014-01-13",
+      "found_by": "EXTINA",
+      "labeler": "Prestium Pharma, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2019-01-25",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-05-31"
+      ],
+      "product_ndcs": [
+        "40076-051"
+      ],
+      "rxcui": [],
+      "setid": "ceaee038-9681-45ab-b974-f32b72443022",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "EXTINA (ketoconazole) aerosol, foam"
+    },
+    {
+      "application_numbers": [
+        "NDA021738"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "EXTINA"
+      ],
+      "first_posted": "2008-08-28",
+      "found_by": "EXTINA",
+      "labeler": "Stiefel Laboratories Inc",
+      "labeler_unverified": true,
+      "last_posted": "2013-06-28",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2014-06-30"
+      ],
+      "product_ndcs": [
+        "63032-051"
+      ],
+      "rxcui": [],
+      "setid": "eb9ee667-17b5-4b0c-89f3-a4a813cb0758",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "EXTINA (ketoconazole) aerosol, foam"
+    },
+    {
+      "application_numbers": [
+        "NDA019927"
+      ],
+      "archived_versions": 11,
+      "brand_names": [
+        "NIZORAL"
+      ],
+      "first_posted": "2009-09-04",
+      "found_by": "NIZORAL",
+      "labeler": "Janssen Pharmaceuticals, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2022-02-07",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-03-04"
+      ],
+      "product_ndcs": [
+        "50458-680"
+      ],
+      "rxcui": [],
+      "setid": "efbc6388-90ce-11de-b92c-8b7156d89593",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "NIZORAL (ketoconazole) shampoo"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 3,
+      "brand_names": [
+        "NIZORAL"
+      ],
+      "first_posted": "2019-01-29",
+      "found_by": "NIZORAL",
+      "labeler": "Kramer Laboratories",
+      "labeler_unverified": false,
+      "last_posted": "2021-01-11",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "55505-191"
+      ],
+      "rxcui": [],
+      "setid": "f64110c2-201e-4e29-b76c-591db50e7bd7",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "NIZORAL (ketoconazole) shampoo"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7fc47a6a-3714-4598-ae3b-d5a229262c21"
+    },
+    {
+      "combination": false,
+      "labeler": "Burel Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "57e81e13-b395-4dbd-b660-3038de41a838"
+    },
+    {
+      "combination": false,
+      "labeler": "Xiromed, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ea319889-5e58-f778-3009-5ba6a5f2690a"
+    },
+    {
+      "combination": false,
+      "labeler": "Encube Ethicals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "59188ef7-5bc9-4acc-bbff-8712c41e5f77"
+    },
+    {
+      "combination": false,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "00c1cac8-a865-4583-aaba-3a0f21fb31e6"
+    },
+    {
+      "combination": false,
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2d7c8dd1-59b5-2645-e063-6394a90a5bda"
+    },
+    {
+      "combination": false,
+      "labeler": "Viona Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a4bb3f4c-ad93-4d85-b8d0-54eaa62228fd"
+    },
+    {
+      "combination": false,
+      "labeler": "Golden State Medical Supply, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3e3cde4b-939f-4837-9920-bb6bb8416bd6"
+    },
+    {
+      "combination": false,
+      "labeler": "NORTHSTAR RX LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bf3e48fd-e063-42e6-acd1-580ddc6e93be"
+    },
+    {
+      "combination": false,
+      "labeler": "Medimetriks Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "62f19bd8-926e-4e6b-9097-d81b894b95cc"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c004ee91-558a-450b-9e4e-d11ab9d28054"
+    },
+    {
+      "combination": false,
+      "labeler": "Amici Pharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "369f31da-d3c3-49b8-956f-f70598760164"
+    },
+    {
+      "combination": false,
+      "labeler": "Northstar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c4f711dc-d0ea-4beb-9a78-b7e3594ee4be"
+    },
+    {
+      "combination": false,
+      "labeler": "Amerisyn LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1d598696-c6f3-4b7c-ad73-949d2089df35"
+    },
+    {
+      "combination": false,
+      "labeler": "IPG PHARMACEUTICALS, INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "51363e79-8681-4b68-aebf-09323c95809b"
+    }
+  ]
+}

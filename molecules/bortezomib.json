@@ -1,0 +1,704 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand VELCADE",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000539",
+      "eu_number": "EU/1/04/274",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000539",
+      "mah": "Janssen-Cilag International NV",
+      "marketing_authorisation_date": "2004-04-26",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/velcade",
+      "name": "Velcade",
+      "record_from": "2004-04-26",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 38
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/003984",
+      "eu_number": "EU/1/15/1019",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-003984",
+      "mah": "Accord Healthcare S.L.U.",
+      "marketing_authorisation_date": "2015-07-20",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/bortezomib-accord",
+      "name": "Bortezomib Accord",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/004076",
+      "eu_number": "EU/1/16/1102",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-004076",
+      "mah": "SUN Pharmaceutical Industries (Europe) B.V.",
+      "marketing_authorisation_date": "2016-07-22",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/bortezomib-sun",
+      "name": "Bortezomib Sun",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/005074",
+      "eu_number": "EU/1/19/1397",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-005074",
+      "mah": "Fresenius Kabi Deutschland GmbH",
+      "marketing_authorisation_date": "2019-11-14",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/bortezomib-fresenius-kabi",
+      "name": "Bortezomib Fresenius Kabi",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000539",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "BORTEZOMIB"
+  ],
+  "inn": "bortezomib",
+  "name": "BORTEZOMIB",
+  "rank": 147,
+  "rxcui": [
+    "402243",
+    "402244",
+    "2601542",
+    "2601544",
+    "2608948",
+    "2608952",
+    "2693996"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 30,
+    "approval_holders": 26,
+    "earliest_marketing_start": "2003-05-13",
+    "latest_label_update": "2026-09-10",
+    "nda_bla_applications": 4,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "BORTEZOMIB",
+      "unii": "69G8BD63PP"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021602"
+      ],
+      "brand_names": [
+        "VELCADE"
+      ],
+      "combination": false,
+      "home_inn": "bortezomib",
+      "ingredients": [
+        "BORTEZOMIB"
+      ],
+      "labeler": "Takeda Pharmaceuticals America, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2003-05-13",
+      "moieties": [
+        "BORTEZOMIB"
+      ],
+      "product_ndcs": [
+        "63020-049"
+      ],
+      "rxcui": [
+        "402243",
+        "402244"
+      ],
+      "setid": "1521d321-e724-4ffc-adad-34bf4f44fac7",
+      "source": "openfda",
+      "spl_version": 36,
+      "title": "VELCADE (BORTEZOMIB) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [TAKEDA PHARMACEUTICALS AMERICA, INC.]",
+      "upload_date": "2025-09-01"
+    },
+    {
+      "application_numbers": [
+        "NDA209191"
+      ],
+      "brand_names": [
+        "BORTEZOMIB"
+      ],
+      "combination": false,
+      "home_inn": "bortezomib",
+      "ingredients": [
+        "BORTEZOMIB"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-05-16",
+      "moieties": [
+        "BORTEZOMIB"
+      ],
+      "product_ndcs": [
+        "0409-1703",
+        "0409-1704"
+      ],
+      "rxcui": [
+        "2601542",
+        "2601544"
+      ],
+      "setid": "9fdf6169-699f-40eb-bda1-760253062b3c",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "BORTEZOMIB INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2023-03-08"
+    },
+    {
+      "application_numbers": [
+        "NDA215331"
+      ],
+      "brand_names": [
+        "Bortezomib"
+      ],
+      "combination": false,
+      "home_inn": "bortezomib",
+      "ingredients": [
+        "BORTEZOMIB"
+      ],
+      "labeler": "MAIA Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-08-10",
+      "moieties": [
+        "BORTEZOMIB"
+      ],
+      "product_ndcs": [
+        "70511-161",
+        "70511-162"
+      ],
+      "rxcui": [
+        "2608948",
+        "2608952"
+      ],
+      "setid": "c40e6a28-d577-43d4-bca6-bef28da1d580",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "BORTEZOMIB INJECTION [MAIA PHARMACEUTICALS, INC.]",
+      "upload_date": "2022-08-12"
+    },
+    {
+      "application_numbers": [
+        "NDA212782"
+      ],
+      "brand_names": [
+        "Bortezomib"
+      ],
+      "combination": false,
+      "home_inn": "bortezomib",
+      "ingredients": [
+        "BORTEZOMIB"
+      ],
+      "labeler": "Shilpa Medicare Limited",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-09-25",
+      "moieties": [
+        "BORTEZOMIB"
+      ],
+      "product_ndcs": [
+        "63759-3032"
+      ],
+      "rxcui": [
+        "2608948"
+      ],
+      "setid": "61539d49-dc21-4576-8813-4bc8abf3868c",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "BORTEZOMIB INJECTION [SHILPA MEDICARE LIMITED]",
+      "upload_date": "2024-09-26"
+    },
+    {
+      "application_numbers": [
+        "NDA212782"
+      ],
+      "brand_names": [
+        "BORUZU"
+      ],
+      "combination": false,
+      "home_inn": "bortezomib",
+      "ingredients": [
+        "BORTEZOMIB"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-09-27",
+      "moieties": [
+        "BORTEZOMIB"
+      ],
+      "product_ndcs": [
+        "70121-2484"
+      ],
+      "rxcui": [
+        "2608948",
+        "2693996"
+      ],
+      "setid": "b92628dd-fa09-4c3a-b6a3-66426025807c",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "BORUZU (BORTEZOMIB) INJECTION [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2025-08-08"
+    },
+    {
+      "application_numbers": [
+        "ANDA211898"
+      ],
+      "brand_names": [
+        "Bortezomib"
+      ],
+      "combination": false,
+      "home_inn": "bortezomib",
+      "ingredients": [
+        "BORTEZOMIB"
+      ],
+      "labeler": "Waverley Pharma Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-06-19",
+      "moieties": [
+        "BORTEZOMIB"
+      ],
+      "product_ndcs": [
+        "72338-200"
+      ],
+      "rxcui": [
+        "402243"
+      ],
+      "setid": "a73d7ea7-d068-4d25-b368-fc3db1898be2",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "BORTEZOMIB INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [WAVERLEY PHARMA INC]",
+      "upload_date": "2024-07-26"
+    },
+    {
+      "application_numbers": [
+        "ANDA210204"
+      ],
+      "brand_names": [
+        "BORTEZOMIB"
+      ],
+      "combination": false,
+      "home_inn": "bortezomib",
+      "ingredients": [
+        "BORTEZOMIB"
+      ],
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-05-02",
+      "moieties": [
+        "BORTEZOMIB"
+      ],
+      "product_ndcs": [
+        "70710-1411"
+      ],
+      "rxcui": [
+        "402243"
+      ],
+      "setid": "0eb8daef-18da-43bb-b7c6-38c4c8b5dd80",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "BORTEZOMIB INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [ZYDUS PHARMACEUTICALS USA INC.]",
+      "upload_date": "2024-12-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA208392"
+      ],
+      "brand_names": [
+        "Bortezomib"
+      ],
+      "combination": false,
+      "home_inn": "bortezomib",
+      "ingredients": [
+        "BORTEZOMIB"
+      ],
+      "labeler": "Pharmascience Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-05-02",
+      "moieties": [
+        "BORTEZOMIB"
+      ],
+      "product_ndcs": [
+        "51817-586"
+      ],
+      "rxcui": [
+        "402243"
+      ],
+      "setid": "191d231a-1fbd-4a65-9d33-d5dc03bac381",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "BORTEZOMIB INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [PHARMASCIENCE INC.]",
+      "upload_date": "2022-05-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA209659"
+      ],
+      "brand_names": [
+        "Bortezomib"
+      ],
+      "combination": false,
+      "home_inn": "bortezomib",
+      "ingredients": [
+        "BORTEZOMIB"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-05-02",
+      "moieties": [
+        "BORTEZOMIB"
+      ],
+      "product_ndcs": [
+        "63323-821"
+      ],
+      "rxcui": [
+        "402243"
+      ],
+      "setid": "3494c357-a692-4e55-89e1-93532b0baef7",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "BORTEZOMIB INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2025-04-14"
+    },
+    {
+      "application_numbers": [
+        "ANDA212825"
+      ],
+      "brand_names": [
+        "BORTEZOMIB"
+      ],
+      "combination": false,
+      "home_inn": "bortezomib",
+      "ingredients": [
+        "BORTEZOMIB"
+      ],
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-05-02",
+      "moieties": [
+        "BORTEZOMIB"
+      ],
+      "product_ndcs": [
+        "55150-337"
+      ],
+      "rxcui": [
+        "402243"
+      ],
+      "setid": "76c7c3a5-fd2f-403f-85fd-65a64538eee7",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "BORTEZOMIB INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [EUGIA US LLC]",
+      "upload_date": "2024-12-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA210824"
+      ],
+      "brand_names": [
+        "Bortezomib"
+      ],
+      "combination": false,
+      "home_inn": "bortezomib",
+      "ingredients": [
+        "BORTEZOMIB"
+      ],
+      "labeler": "Qilu Pharmaceutical Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-05-02",
+      "moieties": [
+        "BORTEZOMIB"
+      ],
+      "product_ndcs": [
+        "67184-0530"
+      ],
+      "rxcui": [
+        "402243"
+      ],
+      "setid": "aef02171-bf8a-43ad-b40c-7642623f9802",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "BORTEZOMIB INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [QILU PHARMACEUTICAL CO., LTD.]",
+      "upload_date": "2022-05-10"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "VELCADE"
+      ],
+      "first_posted": "2008-02-08",
+      "found_by": "VELCADE",
+      "labeler": "",
+      "labeler_unverified": false,
+      "last_posted": "2008-02-08",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "63020-049"
+      ],
+      "rxcui": [],
+      "setid": "7421c4b2-3920-47ca-bfde-050505a707b5",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "velcade (bortezomib) injection, powder, lyophilized, for solution for intravenous use"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "VELCADE"
+      ],
+      "first_posted": "2007-04-13",
+      "found_by": "VELCADE",
+      "labeler": "Millennium Pharmaceuticals, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2007-04-13",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "63020-049"
+      ],
+      "rxcui": [],
+      "setid": "dbbee387-0407-42f3-a3cb-21c27398b05f",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "velcade (bortezomib) injection, powder, lyophilized, for solution"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Apotex Corp",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b605b541-4bfd-db3e-9710-11c27f6dee6c"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "322e315f-dd94-475f-94f4-4d86a7eb5590"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr.Reddy's Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "664bee24-7af2-2099-ac99-5dd71a1e5a14"
+    },
+    {
+      "combination": false,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d41340c2-7fe8-42b2-aaa5-c9f9b0e9b50e"
+    },
+    {
+      "combination": false,
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "41e3de39-8278-4a75-badf-601e4602080d"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "854be921-5fd9-482a-8432-a0c0241625f8"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "04aafa6a-a50d-4a47-a831-be8e8bb992ac"
+    },
+    {
+      "combination": false,
+      "labeler": "Ningbo Shuangcheng Pharmaceutical Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b17ca681-59a5-4af7-98a4-953b38379893"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cd698074-da21-4b53-8f6b-241535a8d598"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "582c7c0d-fa25-4586-8157-a1e2653d72d9"
+    },
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ed526447-a4fe-403b-8f08-21ce1b2fa8b7"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "12500f21-8e2f-4bcd-861e-4dfca843da2e"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "10f60367-0476-4acd-861b-90c18d4b8164"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c6b620c6-f3d6-4ff3-b46a-50a66e6d41dd"
+    },
+    {
+      "combination": false,
+      "labeler": "Sintetica US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d79a71ec-b46d-4961-ad05-8980915cba94"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3f02670b-5683-780c-9d38-5d8f0ef43a14"
+    },
+    {
+      "combination": false,
+      "labeler": "Somerset Therapeutics LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dc737d3d-2a4e-448a-ad70-e013065c411c"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "945fbaf0-7a79-4676-aa90-e9a213c0654f"
+    },
+    {
+      "combination": false,
+      "labeler": "Avenacy, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "decb5d94-2ea2-48d8-b08b-3196b24c0ed3"
+    }
+  ]
+}

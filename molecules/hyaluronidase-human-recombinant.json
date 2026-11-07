@@ -1,0 +1,435 @@
+{
+  "biologic": true,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "HYALURONIDASE (HUMAN RECOMBINANT)"
+  ],
+  "inn": "hyaluronidase-human-recombinant",
+  "name": "HYALURONIDASE (HUMAN RECOMBINANT)",
+  "rank": 10,
+  "rxcui": [
+    "630936",
+    "630939",
+    "1927885",
+    "1927890",
+    "1927893",
+    "1927894",
+    "2119714",
+    "2119719",
+    "2375136",
+    "2375141",
+    "2382604",
+    "2382609",
+    "2383305",
+    "2383307",
+    "2639951",
+    "2639957",
+    "2693458",
+    "2693465",
+    "2693892",
+    "2693899",
+    "2700798",
+    "2700805",
+    "2712083",
+    "2712088",
+    "2728491",
+    "2728492"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 10,
+    "approval_holders": 5,
+    "earliest_marketing_start": "2005-12-02",
+    "latest_label_update": "2026-10-30",
+    "nda_bla_applications": 12,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "HYALURONIDASE (HUMAN RECOMBINANT)",
+      "unii": "743QUY4VD8"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "BLA021859"
+      ],
+      "brand_names": [
+        "HYLENEX Recombinant"
+      ],
+      "combination": false,
+      "home_inn": "hyaluronidase-human-recombinant",
+      "ingredients": [
+        "HYALURONIDASE (HUMAN RECOMBINANT)"
+      ],
+      "labeler": "Antares Pharma, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2005-12-02",
+      "moieties": [
+        "HYALURONIDASE (HUMAN RECOMBINANT)"
+      ],
+      "product_ndcs": [
+        "18657-117"
+      ],
+      "rxcui": [
+        "630936",
+        "630939"
+      ],
+      "setid": "3023cc56-ed4b-4e87-b3a1-81b20943f658",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "HYLENEX RECOMBINANT (HYALURONIDASE) INJECTION, SOLUTION [ANTARES PHARMA, INC.]",
+      "upload_date": "2025-04-23"
+    },
+    {
+      "application_numbers": [
+        "BLA761036",
+        "BLA761145"
+      ],
+      "brand_names": [
+        "DARZALEX",
+        "Darzalex Faspro"
+      ],
+      "combination": true,
+      "home_inn": "hyaluronidase-human-recombinant",
+      "ingredients": [
+        "DARATUMUMAB",
+        "HYALURONIDASE (HUMAN RECOMBINANT)"
+      ],
+      "labeler": "Janssen Biotech, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2015-11-16",
+      "moieties": [
+        "DARATUMUMAB",
+        "HYALURONIDASE (HUMAN RECOMBINANT)"
+      ],
+      "product_ndcs": [
+        "57894-502",
+        "57894-503"
+      ],
+      "rxcui": [
+        "2375136",
+        "2375141"
+      ],
+      "setid": "4bb241af-4299-4373-8762-2d6709515db0",
+      "source": "dailymed-title-match",
+      "spl_version": 34,
+      "title": "DARZALEX FASPRO (DARATUMUMAB AND HYALURONIDASE-FIHJ (HUMAN RECOMBINANT)) INJECTION [JANSSEN BIOTECH, INC.]",
+      "upload_date": "2026-10-14"
+    },
+    {
+      "application_numbers": [
+        "BLA761034",
+        "BLA761347"
+      ],
+      "brand_names": [
+        "TECENTRIQ",
+        "Tecentriq Hybreza"
+      ],
+      "combination": true,
+      "home_inn": "hyaluronidase-human-recombinant",
+      "ingredients": [
+        "ATEZOLIZUMAB",
+        "HYALURONIDASE (HUMAN RECOMBINANT)"
+      ],
+      "labeler": "Genentech, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2016-05-18",
+      "moieties": [
+        "ATEZOLIZUMAB",
+        "HYALURONIDASE (HUMAN RECOMBINANT)"
+      ],
+      "product_ndcs": [
+        "50242-917",
+        "50242-918",
+        "50242-933"
+      ],
+      "rxcui": [
+        "2693892",
+        "2693899"
+      ],
+      "setid": "a617b089-ce66-464b-987b-b45d029b4d6f",
+      "source": "dailymed-title-match",
+      "spl_version": 9,
+      "title": "TECENTRIQ HYBREZA (ATEZOLIZUMAB AND HYALURONIDASE-TQJS) INJECTION [GENENTECH, INC.]",
+      "upload_date": "2026-10-16"
+    },
+    {
+      "application_numbers": [
+        "BLA761064"
+      ],
+      "brand_names": [
+        "Rituxan Hycela"
+      ],
+      "combination": true,
+      "home_inn": "hyaluronidase-human-recombinant",
+      "ingredients": [
+        "HYALURONIDASE (HUMAN RECOMBINANT)",
+        "RITUXIMAB"
+      ],
+      "labeler": "Genentech, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2017-06-22",
+      "moieties": [
+        "HYALURONIDASE (HUMAN RECOMBINANT)",
+        "RITUXIMAB"
+      ],
+      "product_ndcs": [
+        "50242-108",
+        "50242-109"
+      ],
+      "rxcui": [
+        "1927885",
+        "1927890",
+        "1927893",
+        "1927894"
+      ],
+      "setid": "3e5b7e82-f018-4eaf-ae78-d6145a906b20",
+      "source": "dailymed-title-match",
+      "spl_version": 22,
+      "title": "RITUXAN HYCELA (RITUXIMAB AND HYALURONIDASE) INJECTION, SOLUTION [GENENTECH, INC.]",
+      "upload_date": "2026-09-28"
+    },
+    {
+      "application_numbers": [
+        "BLA761106"
+      ],
+      "brand_names": [
+        "Herceptin Hylecta"
+      ],
+      "combination": true,
+      "home_inn": "hyaluronidase-human-recombinant",
+      "ingredients": [
+        "HYALURONIDASE (HUMAN RECOMBINANT)",
+        "TRASTUZUMAB"
+      ],
+      "labeler": "Genentech, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2019-02-28",
+      "moieties": [
+        "HYALURONIDASE (HUMAN RECOMBINANT)",
+        "TRASTUZUMAB"
+      ],
+      "product_ndcs": [
+        "50242-077"
+      ],
+      "rxcui": [
+        "2119714",
+        "2119719"
+      ],
+      "setid": "ebf30894-41cf-480c-8bc3-56f592a13813",
+      "source": "dailymed-title-match",
+      "spl_version": 12,
+      "title": "HERCEPTIN HYLECTA (TRASTUZUMAB AND HYALURONIDASE-OYSK) INJECTION, SOLUTION [GENENTECH, INC.]",
+      "upload_date": "2026-09-28"
+    },
+    {
+      "application_numbers": [
+        "BLA761170"
+      ],
+      "brand_names": [
+        "Phesgo"
+      ],
+      "combination": true,
+      "home_inn": "hyaluronidase-human-recombinant",
+      "ingredients": [
+        "HYALURONIDASE (HUMAN RECOMBINANT)",
+        "PERTUZUMAB",
+        "TRASTUZUMAB"
+      ],
+      "labeler": "Genentech, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2020-06-29",
+      "moieties": [
+        "HYALURONIDASE (HUMAN RECOMBINANT)",
+        "PERTUZUMAB",
+        "TRASTUZUMAB"
+      ],
+      "product_ndcs": [
+        "50242-245",
+        "50242-260"
+      ],
+      "rxcui": [
+        "2382604",
+        "2382609",
+        "2383305",
+        "2383307"
+      ],
+      "setid": "27dd5e6b-72cd-458d-a015-cf4dab5800da",
+      "source": "dailymed-title-match",
+      "spl_version": 18,
+      "title": "PHESGO (PERTUZUMAB, TRASTUZUMAB, AND HYALURONIDASE-ZZXF) INJECTION, SOLUTION [GENENTECH, INC.]",
+      "upload_date": "2026-09-28"
+    },
+    {
+      "application_numbers": [
+        "BLA761304"
+      ],
+      "brand_names": [
+        "VYVGART Hytrulo"
+      ],
+      "combination": true,
+      "home_inn": "hyaluronidase-human-recombinant",
+      "ingredients": [
+        "EFGARTIGIMOD ALFA",
+        "HYALURONIDASE (HUMAN RECOMBINANT)"
+      ],
+      "labeler": "argenx US",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2023-06-20",
+      "moieties": [
+        "EFGARTIGIMOD ALFA",
+        "HYALURONIDASE (HUMAN RECOMBINANT)"
+      ],
+      "product_ndcs": [
+        "73475-1221",
+        "73475-3102"
+      ],
+      "rxcui": [
+        "2639951",
+        "2639957",
+        "2712083",
+        "2712088"
+      ],
+      "setid": "7104d9e5-9910-47f5-9a93-741ac50f43b6",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "VYVGART HYTRULO (EFGARTIGIMOD ALFA AND HYALURONIDASE (HUMAN RECOMBINANT)) INJECTION, SOLUTION [ARGENX US]",
+      "upload_date": "2026-07-20"
+    },
+    {
+      "application_numbers": [
+        "BLA761371"
+      ],
+      "brand_names": [
+        "Ocrevus Zunovo"
+      ],
+      "combination": true,
+      "home_inn": "hyaluronidase-human-recombinant",
+      "ingredients": [
+        "HYALURONIDASE (HUMAN RECOMBINANT)",
+        "OCRELIZUMAB"
+      ],
+      "labeler": "Genentech, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2024-09-13",
+      "moieties": [
+        "HYALURONIDASE (HUMAN RECOMBINANT)",
+        "OCRELIZUMAB"
+      ],
+      "product_ndcs": [
+        "50242-554"
+      ],
+      "rxcui": [
+        "2693458",
+        "2693465"
+      ],
+      "setid": "b216af61-99d0-42a3-afc2-b5bf86df1ec0",
+      "source": "dailymed-title-match",
+      "spl_version": 13,
+      "title": "OCREVUS ZUNOVO (OCRELIZUMAB AND HYALURONIDASE) INJECTION, SOLUTION [GENENTECH, INC.]",
+      "upload_date": "2026-09-28"
+    },
+    {
+      "application_numbers": [
+        "BLA761381"
+      ],
+      "brand_names": [
+        "OPDIVO QVANTIG"
+      ],
+      "combination": true,
+      "home_inn": "hyaluronidase-human-recombinant",
+      "ingredients": [
+        "HYALURONIDASE (HUMAN RECOMBINANT)",
+        "NIVOLUMAB"
+      ],
+      "labeler": "E.R. Squibb & Sons, L.L.C.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2024-12-27",
+      "moieties": [
+        "HYALURONIDASE (HUMAN RECOMBINANT)",
+        "NIVOLUMAB"
+      ],
+      "product_ndcs": [
+        "0003-3120",
+        "0003-6120"
+      ],
+      "rxcui": [
+        "2700798",
+        "2700805",
+        "2728491",
+        "2728492"
+      ],
+      "setid": "7f8c38fa-42f4-4387-9e8c-7a1c66855d8b",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "OPDIVO QVANTIG (NIVOLUMAB AND HYALURONIDASE-NVHY) INJECTION, SOLUTION [E.R. SQUIBB & SONS, L.L.C.]",
+      "upload_date": "2026-08-03"
+    },
+    {
+      "application_numbers": [
+        "BLA761433"
+      ],
+      "brand_names": [
+        "Rybrevant Faspro"
+      ],
+      "combination": true,
+      "home_inn": "hyaluronidase-human-recombinant",
+      "ingredients": [
+        "AMIVANTAMAB",
+        "HYALURONIDASE (HUMAN RECOMBINANT)"
+      ],
+      "labeler": "Janssen Biotech, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2025-12-19",
+      "moieties": [
+        "AMIVANTAMAB",
+        "HYALURONIDASE (HUMAN RECOMBINANT)"
+      ],
+      "product_ndcs": [
+        "57894-510",
+        "57894-514",
+        "57894-515",
+        "57894-522"
+      ],
+      "rxcui": [],
+      "setid": "9e58b045-e352-4f62-99bf-77fae1bebc69",
+      "source": "dailymed-title-match",
+      "spl_version": 6,
+      "title": "RYBREVANT FASPRO (AMIVANTAMAB AND HYALURONIDASE-LPUJ (HUMAN RECOMBINANT)) INJECTION [JANSSEN BIOTECH, INC.]",
+      "upload_date": "2026-10-30"
+    }
+  ],
+  "us_excluded": []
+}

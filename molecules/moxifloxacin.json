@@ -1,0 +1,642 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "MOXIFLOXACIN HYDROCHLORIDE",
+    "MOXIFLOXACIN HYDROCHLORIDE MONOHYDRATE"
+  ],
+  "inn": "moxifloxacin",
+  "name": "MOXIFLOXACIN",
+  "rank": 185,
+  "rxcui": [
+    "311787",
+    "351156",
+    "403818",
+    "404473"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 26,
+    "approval_holders": 24,
+    "earliest_marketing_start": "2003-05-07",
+    "latest_label_update": "2026-09-23",
+    "nda_bla_applications": 2,
+    "repackagers": 12
+  },
+  "unii": [
+    {
+      "ingredient": "MOXIFLOXACIN HYDROCHLORIDE",
+      "unii": "C53598599T"
+    },
+    {
+      "ingredient": "MOXIFLOXACIN HYDROCHLORIDE MONOHYDRATE",
+      "unii": "B8956S8609"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA205572"
+      ],
+      "brand_names": [
+        "Moxifloxacin"
+      ],
+      "combination": false,
+      "home_inn": "moxifloxacin",
+      "ingredients": [
+        "MOXIFLOXACIN HYDROCHLORIDE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-03-18",
+      "moieties": [
+        "MOXIFLOXACIN"
+      ],
+      "product_ndcs": [
+        "63323-850"
+      ],
+      "rxcui": [
+        "351156"
+      ],
+      "setid": "a4e28b09-714b-46e7-b4e6-0163cad78fc5",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "MOXIFLOXACIN (MOXIFLOXACIN HYDROCHLORIDE) INJECTION, SOLUTION [FRESENIUS KABI USA, LLC",
+      "upload_date": "2024-05-09"
+    },
+    {
+      "application_numbers": [
+        "NDA021598"
+      ],
+      "brand_names": [
+        "VIGAMOX"
+      ],
+      "combination": false,
+      "home_inn": "moxifloxacin",
+      "ingredients": [
+        "MOXIFLOXACIN HYDROCHLORIDE"
+      ],
+      "labeler": "Harrow Eye, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-07-01",
+      "moieties": [
+        "MOXIFLOXACIN"
+      ],
+      "product_ndcs": [
+        "82667-700"
+      ],
+      "rxcui": [
+        "403818",
+        "404473"
+      ],
+      "setid": "12053b08-7e66-c6f3-e063-6394a90a9cd9",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "VIGAMOX (MOXIFLOXACIN HYDROCHLORIDE) SOLUTION/ DROPS [HARROW EYE, LLC]",
+      "upload_date": "2026-01-26"
+    },
+    {
+      "application_numbers": [
+        "NDA205572"
+      ],
+      "brand_names": [
+        "Moxifloxacin"
+      ],
+      "combination": false,
+      "home_inn": "moxifloxacin",
+      "ingredients": [
+        "MOXIFLOXACIN HYDROCHLORIDE"
+      ],
+      "labeler": "Hp Halden Pharma AS",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-08-02",
+      "moieties": [
+        "MOXIFLOXACIN"
+      ],
+      "product_ndcs": [
+        "66298-8507"
+      ],
+      "rxcui": [
+        "351156"
+      ],
+      "setid": "6067b2ee-2171-49bb-aa07-1d401ebf4f2e",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "MOXIFLOXACIN (MOXIFLOXACIN HYDROCHLORIDE) INJECTION, SOLUTION [HP HALDEN PHARMA AS]",
+      "upload_date": "2024-07-19"
+    },
+    {
+      "application_numbers": [
+        "NDA021598"
+      ],
+      "brand_names": [
+        "Moxifloxacin Ophthalmic Solution"
+      ],
+      "combination": false,
+      "home_inn": "moxifloxacin",
+      "ingredients": [
+        "MOXIFLOXACIN HYDROCHLORIDE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2003-05-07",
+      "moieties": [
+        "MOXIFLOXACIN"
+      ],
+      "product_ndcs": [
+        "0781-7135"
+      ],
+      "rxcui": [
+        "403818"
+      ],
+      "setid": "fc88791b-24da-48a4-85f5-93a8af3d0b51",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "MOXIFLOXACIN OPHTHALMIC SOLUTION (MOXIFLOXACIN HYDROCHLORIDE) SOLUTION/ DROPS [SANDOZ INC]",
+      "upload_date": "2020-07-14"
+    },
+    {
+      "application_numbers": [
+        "ANDA202632",
+        "ANDA206242"
+      ],
+      "brand_names": [
+        "MOXIFLOXACIN",
+        "MOXIFLOXACIN HYDROCHLORIDE"
+      ],
+      "combination": false,
+      "home_inn": "moxifloxacin",
+      "ingredients": [
+        "MOXIFLOXACIN HYDROCHLORIDE"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-03-04",
+      "moieties": [
+        "MOXIFLOXACIN"
+      ],
+      "product_ndcs": [
+        "65862-603",
+        "65862-840"
+      ],
+      "rxcui": [
+        "311787"
+      ],
+      "setid": "d6789c17-4a2f-4519-9060-e3b0dba422f0",
+      "source": "dailymed-title-match",
+      "spl_version": 17,
+      "title": "MOXIFLOXACIN HYDROCHLORIDE TABLET, FILM COATED [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2025-09-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA076938"
+      ],
+      "brand_names": [
+        "Moxifloxacin"
+      ],
+      "combination": false,
+      "home_inn": "moxifloxacin",
+      "ingredients": [
+        "MOXIFLOXACIN HYDROCHLORIDE"
+      ],
+      "labeler": "Dr. Reddy's Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-03-05",
+      "moieties": [
+        "MOXIFLOXACIN"
+      ],
+      "product_ndcs": [
+        "55111-112"
+      ],
+      "rxcui": [
+        "311787"
+      ],
+      "setid": "71b02da1-3175-1db8-192a-c0a8a6cd98a5",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "MOXIFLOXACIN (MOXIFLOXACIN) TABLET, FILM COATED [DR. REDDY'S LABORATORIES LIMITED]",
+      "upload_date": "2021-02-03"
+    },
+    {
+      "application_numbers": [
+        "ANDA207285"
+      ],
+      "brand_names": [
+        "Moxifloxacin"
+      ],
+      "combination": false,
+      "home_inn": "moxifloxacin",
+      "ingredients": [
+        "MOXIFLOXACIN HYDROCHLORIDE"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-02-13",
+      "moieties": [
+        "MOXIFLOXACIN"
+      ],
+      "product_ndcs": [
+        "62135-014"
+      ],
+      "rxcui": [
+        "311787"
+      ],
+      "setid": "656f582c-ecba-4ec8-9420-9562114d889b",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "MOXIFLOXACIN TABLET, FILM COATED [CHARTWELL RX, LLC]",
+      "upload_date": "2026-08-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA090080"
+      ],
+      "brand_names": [
+        "Moxifloxacin"
+      ],
+      "combination": false,
+      "home_inn": "moxifloxacin",
+      "ingredients": [
+        "MOXIFLOXACIN HYDROCHLORIDE MONOHYDRATE"
+      ],
+      "labeler": "Golden State Medical Supply, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-06-30",
+      "moieties": [
+        "MOXIFLOXACIN"
+      ],
+      "product_ndcs": [
+        "51407-321"
+      ],
+      "rxcui": [
+        "403818"
+      ],
+      "setid": "f9dff08a-edb2-86de-e053-6394a90a1043",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "MOXIFLOXACIN SOLUTION/ DROPS [GOLDEN STATE MEDICAL SUPPLY, INC.]",
+      "upload_date": "2025-12-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA202867"
+      ],
+      "brand_names": [
+        "Moxifloxacin"
+      ],
+      "combination": false,
+      "home_inn": "moxifloxacin",
+      "ingredients": [
+        "MOXIFLOXACIN HYDROCHLORIDE MONOHYDRATE"
+      ],
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-07-01",
+      "moieties": [
+        "MOXIFLOXACIN"
+      ],
+      "product_ndcs": [
+        "68180-422"
+      ],
+      "rxcui": [
+        "403818"
+      ],
+      "setid": "ae77e219-8af9-4aa4-96d3-05c9726a1d3c",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "MOXIFLOXACIN SOLUTION/ DROPS [LUPIN PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "NDA022428"
+      ],
+      "archived_versions": 11,
+      "brand_names": [
+        "MOXEZA"
+      ],
+      "first_posted": "2011-03-16",
+      "found_by": "MOXEZA",
+      "labeler": "Alcon Laboratories, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2026-01-02",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-03-01"
+      ],
+      "product_ndcs": [
+        "0065-0006"
+      ],
+      "rxcui": [],
+      "setid": "05248b68-16a9-488d-a39f-5137d2410471",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "MOXEZA (moxifloxacin hydrochloride) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA021598"
+      ],
+      "archived_versions": 10,
+      "brand_names": [
+        "VIGAMOX"
+      ],
+      "first_posted": "2008-03-13",
+      "found_by": "VIGAMOX",
+      "labeler": "Alcon Laboratories, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2022-03-17",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-07-31"
+      ],
+      "product_ndcs": [
+        "0065-4013"
+      ],
+      "rxcui": [],
+      "setid": "0e6ab6ba-5eeb-4faf-ba80-4bf21a74228a",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "12053b08-7e66-c6f3-e063-6394a90a9cd9",
+        "fc88791b-24da-48a4-85f5-93a8af3d0b51"
+      ],
+      "title": "VIGAMOX (moxifloxacin hydrochloride) solution/ drops"
+    },
+    {
+      "application_numbers": [
+        "NDA021085",
+        "NDA021277"
+      ],
+      "archived_versions": 26,
+      "brand_names": [
+        "AVELOX"
+      ],
+      "first_posted": "2008-06-20",
+      "found_by": "AVELOX",
+      "labeler": "Schering Plough Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2019-07-23",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2016-07-29"
+      ],
+      "product_ndcs": [
+        "0085-1733",
+        "0085-1737"
+      ],
+      "rxcui": [],
+      "setid": "56b4f979-bf20-4908-9d7c-5536221d77f8",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "AVELOX (moxifloxacin hydrochloride) injection, solution AVELOX (moxifloxacin hydrochloride) tablet, film coated"
+    },
+    {
+      "application_numbers": [
+        "NDA021085",
+        "NDA021277"
+      ],
+      "archived_versions": 9,
+      "brand_names": [
+        "AVELOX"
+      ],
+      "first_posted": "2016-07-29",
+      "found_by": "AVELOX",
+      "labeler": "Bayer HealthCare Pharmaceuticals Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2019-07-09",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-06-30",
+        "2020-06-01"
+      ],
+      "product_ndcs": [
+        "50419-530",
+        "50419-537"
+      ],
+      "rxcui": [],
+      "setid": "64b6763e-e6c6-4d7d-a0eb-e4bd6a5eed3a",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "AVELOX (moxifloxacin hydrochloride) injection, solution AVELOX (moxifloxacin hydrochloride) tablet, film coated"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "VIGAMOX"
+      ],
+      "first_posted": "2007-06-25",
+      "found_by": "VIGAMOX",
+      "labeler": "Alcon Laboratories, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2007-06-25",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0065-4013"
+      ],
+      "rxcui": [],
+      "setid": "l0e6ab6ba-5eeb-4faf-ba80-4bf21a74228a",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "vigamox (moxifloxacin hydrochloride) solution"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c6fa4129-2f92-4179-ac5d-bb7b4a538789"
+    },
+    {
+      "combination": false,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "04e0936f-2248-48e4-8031-ac6ccc2df294"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0f2cdbf6-bc74-4b22-b795-23ace89894b3"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d66f080b-da56-4473-8785-920d9700f72d"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "95773bca-0791-4bfe-955a-4d2fa4561e01"
+    },
+    {
+      "combination": false,
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5a5d72e2-aa39-4ead-af72-d3cabe72a5b7"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1e6bc886-eec9-4cd8-be78-7563817457f2"
+    },
+    {
+      "combination": false,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f7c68d49-8c61-4bde-a880-4d78568e5aa0"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ca19b837-8e80-408f-af7b-b0464f20c0c3"
+    },
+    {
+      "combination": false,
+      "labeler": "Solaris Pharma Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "45ce14e5-98b8-296b-e063-6294a90a769b"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "182ecd0f-714f-42f0-9b16-fb604cf15786"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f34c08e6-fe74-4de3-9e36-a82c3c1c183b"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8f7a0c4c-34f4-7362-579b-f26c3338f792"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8877013d-9b49-40f7-a2c4-99bb519e104e"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cdc0b0eb-5f56-45c7-b9fd-364752a95ff1"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fee8323d-bcb0-4f49-a06d-2ed597a7b2ac"
+    },
+    {
+      "combination": false,
+      "labeler": "Fosun Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9eae534a-9253-4a45-9ab7-2543626f49e6"
+    }
+  ]
+}

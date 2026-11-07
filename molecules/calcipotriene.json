@@ -1,0 +1,811 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "CALCIPOTRIENE",
+    "CALCIPOTRIENE HYDRATE",
+    "CALCIPOTRIENE MONOHYDRATE"
+  ],
+  "inn": "calcipotriene",
+  "name": "CALCIPOTRIENE",
+  "rank": 202,
+  "rxcui": [
+    "198373",
+    "308865",
+    "313921",
+    "388525",
+    "833461",
+    "833463",
+    "1020035",
+    "1020039",
+    "1716094",
+    "1716099",
+    "2471873",
+    "2471878"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 19,
+    "approval_holders": 10,
+    "earliest_marketing_start": "1996-10-01",
+    "latest_label_update": "2026-10-09",
+    "nda_bla_applications": 4,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "CALCIPOTRIENE",
+      "unii": "143NQ3779B"
+    },
+    {
+      "ingredient": "CALCIPOTRIENE HYDRATE",
+      "unii": "S7499TYY6G"
+    },
+    {
+      "ingredient": "CALCIPOTRIENE MONOHYDRATE",
+      "unii": "S7499TYY6G"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA022563"
+      ],
+      "brand_names": [
+        "SORILUX"
+      ],
+      "combination": false,
+      "home_inn": "calcipotriene",
+      "ingredients": [
+        "CALCIPOTRIENE"
+      ],
+      "labeler": "Mayne Pharma",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-04-11",
+      "moieties": [
+        "CALCIPOTRIENE"
+      ],
+      "product_ndcs": [
+        "51862-376"
+      ],
+      "rxcui": [
+        "1020035",
+        "1020039"
+      ],
+      "setid": "51f208d0-7b3f-44cc-8bed-92fa3d2e7bbe",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "SORILUX (CALCIPOTRIENE) AEROSOL, FOAM [MAYNE PHARMA]",
+      "upload_date": "2024-05-13"
+    },
+    {
+      "application_numbers": [
+        "NDA022185"
+      ],
+      "brand_names": [
+        "TACLONEX"
+      ],
+      "combination": true,
+      "home_inn": "betamethasone",
+      "ingredients": [
+        "BETAMETHASONE DIPROPIONATE",
+        "CALCIPOTRIENE HYDRATE"
+      ],
+      "labeler": "LEO Pharma Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2008-06-01",
+      "moieties": [
+        "BETAMETHASONE",
+        "CALCIPOTRIENE"
+      ],
+      "product_ndcs": [
+        "50222-501"
+      ],
+      "rxcui": [
+        "833461",
+        "833463"
+      ],
+      "setid": "757c914f-dd8d-43cc-a973-212d591af4af",
+      "source": "openfda",
+      "spl_version": 25,
+      "title": "TACLONEX (CALCIPOTRIENE AND BETAMETHASONE DIPROPIONATE) SUSPENSION [LEO PHARMA INC.]",
+      "upload_date": "2021-07-06"
+    },
+    {
+      "application_numbers": [
+        "NDA207589"
+      ],
+      "brand_names": [
+        "ENSTILAR"
+      ],
+      "combination": true,
+      "home_inn": "betamethasone",
+      "ingredients": [
+        "BETAMETHASONE DIPROPIONATE",
+        "CALCIPOTRIENE MONOHYDRATE"
+      ],
+      "labeler": "LEO Pharma Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-10-16",
+      "moieties": [
+        "BETAMETHASONE",
+        "CALCIPOTRIENE"
+      ],
+      "product_ndcs": [
+        "50222-302"
+      ],
+      "rxcui": [
+        "1716094",
+        "1716099"
+      ],
+      "setid": "d1193df2-d53f-4342-bd9d-d9cba7c89709",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "ENSTILAR (CALCIPOTRIENE AND BETAMETHASONE DIPROPIONATE) AEROSOL, FOAM [LEO PHARMA INC.]",
+      "upload_date": "2022-06-07"
+    },
+    {
+      "application_numbers": [
+        "NDA213422"
+      ],
+      "brand_names": [
+        "Wynzora"
+      ],
+      "combination": true,
+      "home_inn": "betamethasone",
+      "ingredients": [
+        "BETAMETHASONE DIPROPIONATE",
+        "CALCIPOTRIENE"
+      ],
+      "labeler": "MC2 Therapeutics Ltd",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-06-30",
+      "moieties": [
+        "BETAMETHASONE",
+        "CALCIPOTRIENE"
+      ],
+      "product_ndcs": [
+        "73499-001"
+      ],
+      "rxcui": [
+        "2471873",
+        "2471878"
+      ],
+      "setid": "36c5c818-0d40-445e-a3c0-0f46723a25e2",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "WYNZORA (CALCIPOTRIENE AND BETAMETHASONE DIPROPIONATE) CREAM [MC2 THERAPEUTICS LTD]",
+      "upload_date": "2023-12-07"
+    },
+    {
+      "application_numbers": [
+        "NDA022563"
+      ],
+      "brand_names": [
+        "calcipotriene"
+      ],
+      "combination": false,
+      "home_inn": "calcipotriene",
+      "ingredients": [
+        "CALCIPOTRIENE"
+      ],
+      "labeler": "Mayne Pharma",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-02-15",
+      "moieties": [
+        "CALCIPOTRIENE"
+      ],
+      "product_ndcs": [
+        "51862-512"
+      ],
+      "rxcui": [
+        "1020035"
+      ],
+      "setid": "26756ac7-a80c-49db-97bb-351f76ad8a71",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "CALCIPOTRIENE AEROSOL, FOAM [MAYNE PHARMA]",
+      "upload_date": "2024-05-13"
+    },
+    {
+      "application_numbers": [
+        "NDA020554"
+      ],
+      "brand_names": [
+        "Calcipotriene"
+      ],
+      "combination": false,
+      "home_inn": "calcipotriene",
+      "ingredients": [
+        "CALCIPOTRIENE"
+      ],
+      "labeler": "Prasco Laboratories",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "1996-10-01",
+      "moieties": [
+        "CALCIPOTRIENE"
+      ],
+      "product_ndcs": [
+        "66993-877"
+      ],
+      "rxcui": [
+        "313921"
+      ],
+      "setid": "377eafda-737c-4ba2-9ec5-61209b8814ed",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "CALCIPOTRIENE CREAM [PRASCO LABORATORIES]",
+      "upload_date": "2022-12-13"
+    },
+    {
+      "application_numbers": [
+        "NDA020273"
+      ],
+      "brand_names": [
+        "calcipotriene"
+      ],
+      "combination": false,
+      "home_inn": "calcipotriene",
+      "ingredients": [
+        "CALCIPOTRIENE"
+      ],
+      "labeler": "Prasco Laboratories",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2013-07-01",
+      "moieties": [
+        "CALCIPOTRIENE"
+      ],
+      "product_ndcs": [
+        "66993-878"
+      ],
+      "rxcui": [
+        "198373"
+      ],
+      "setid": "fe7cd92a-f066-4c4a-80c8-e3f929ad4181",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "CALCIPOTRIENE OINTMENT [PRASCO LABORATORIES]",
+      "upload_date": "2020-08-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA090633",
+        "ANDA205772"
+      ],
+      "brand_names": [
+        "Calcipotriene",
+        "calcipotriene"
+      ],
+      "combination": false,
+      "home_inn": "calcipotriene",
+      "ingredients": [
+        "CALCIPOTRIENE"
+      ],
+      "labeler": "Glenmark Pharmaceuticals Inc.,USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-03-24",
+      "moieties": [
+        "CALCIPOTRIENE"
+      ],
+      "product_ndcs": [
+        "68462-310",
+        "68462-501"
+      ],
+      "rxcui": [
+        "198373"
+      ],
+      "setid": "1bc020e0-b5ae-4cda-aa5b-87fa0452a6bc",
+      "source": "dailymed-title-match",
+      "spl_version": 9,
+      "title": "CALCIPOTRIENE OINTMENT [GLENMARK PHARMACEUTICALS INC., USA]",
+      "upload_date": "2026-01-26"
+    },
+    {
+      "application_numbers": [
+        "ANDA078468"
+      ],
+      "brand_names": [
+        "Calcipotriene"
+      ],
+      "combination": false,
+      "home_inn": "calcipotriene",
+      "ingredients": [
+        "CALCIPOTRIENE"
+      ],
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-03-24",
+      "moieties": [
+        "CALCIPOTRIENE"
+      ],
+      "product_ndcs": [
+        "0713-0318"
+      ],
+      "rxcui": [
+        "308865"
+      ],
+      "setid": "21378c25-5622-8bf7-1a8c-b05940a846a0",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "CALCIPOTRIENE SOLUTION [COSETTE PHARMACEUTICALS, INC.]",
+      "upload_date": "2022-11-16"
+    },
+    {
+      "application_numbers": [
+        "NDA021852"
+      ],
+      "brand_names": [
+        "Calcipotriene and Betamethasone Dipropionate"
+      ],
+      "combination": true,
+      "home_inn": "calcipotriene",
+      "ingredients": [
+        "BETAMETHASONE DIPROPIONATE",
+        "CALCIPOTRIENE MONOHYDRATE"
+      ],
+      "labeler": "Prasco Laboratories",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2020-01-28",
+      "moieties": [
+        "BETAMETHASONE",
+        "CALCIPOTRIENE"
+      ],
+      "product_ndcs": [
+        "66993-938"
+      ],
+      "rxcui": [
+        "388525"
+      ],
+      "setid": "d9493e66-251c-426c-90a8-1bf1e526ab85",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "CALCIPOTRIENE AND BETAMETHASONE DIPROPIONATE OINTMENT [PRASCO LABORATORIES]",
+      "upload_date": "2022-12-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA200174"
+      ],
+      "brand_names": [
+        "Calcipotriene and Betamethasone Dipropionate"
+      ],
+      "combination": true,
+      "home_inn": "calcipotriene",
+      "ingredients": [
+        "BETAMETHASONE DIPROPIONATE",
+        "CALCIPOTRIENE"
+      ],
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-01-30",
+      "moieties": [
+        "BETAMETHASONE",
+        "CALCIPOTRIENE"
+      ],
+      "product_ndcs": [
+        "45802-816"
+      ],
+      "rxcui": [
+        "388525"
+      ],
+      "setid": "ba55ff2b-9cfe-40dc-9dac-718cf141c171",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "CALCIPOTRIENE AND BETAMETHASONE DIPROPIONATE (CALCIPOTRIENE, BETAMETHASONE DIPROPIONATE) OINTMENT [PADAGIS ISRAEL PHARMACEUTICALS LTD]",
+      "upload_date": "2024-12-23"
+    },
+    {
+      "application_numbers": [
+        "NDA020273"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "DOVONEX"
+      ],
+      "first_posted": "2006-07-18",
+      "found_by": "DOVONEX",
+      "labeler": "Bristol-Myers Squibb Pharma Company",
+      "labeler_unverified": true,
+      "last_posted": "2013-08-22",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2012-10-15"
+      ],
+      "product_ndcs": [
+        "0072-2540"
+      ],
+      "rxcui": [],
+      "setid": "13916cd3-6fe6-401e-af71-07ae2686bce0",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "fe7cd92a-f066-4c4a-80c8-e3f929ad4181"
+      ],
+      "title": "DOVONEX (calcipotriene) ointment"
+    },
+    {
+      "application_numbers": [
+        "NDA022185"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "TACLONEX"
+      ],
+      "first_posted": "2008-08-08",
+      "found_by": "TACLONEX",
+      "labeler": "Allergan, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2017-08-07",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2012-02-29"
+      ],
+      "product_ndcs": [
+        "0430-3240"
+      ],
+      "rxcui": [],
+      "setid": "400922d8-1756-41ed-aa66-590eeeb0864d",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "757c914f-dd8d-43cc-a973-212d591af4af"
+      ],
+      "title": "TACLONEX SCALP (calcipotriene 0.005% and betamethasone dipropionate 0.064%) spray, metered"
+    },
+    {
+      "application_numbers": [
+        "NDA020554"
+      ],
+      "archived_versions": 12,
+      "brand_names": [
+        "DOVONEX"
+      ],
+      "first_posted": "2010-01-12",
+      "found_by": "DOVONEX",
+      "labeler": "LEO Pharma Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2022-07-06",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-08-31"
+      ],
+      "product_ndcs": [
+        "50222-260"
+      ],
+      "rxcui": [],
+      "setid": "75541479-7a55-4e28-b693-04de56f73f7b",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "377eafda-737c-4ba2-9ec5-61209b8814ed"
+      ],
+      "title": "DOVONEX (calcipotriene) cream"
+    },
+    {
+      "application_numbers": [
+        "NDA020554"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "DOVONEX"
+      ],
+      "first_posted": "2007-12-10",
+      "found_by": "DOVONEX",
+      "labeler": "Allergan, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2017-06-28",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2012-03-31"
+      ],
+      "product_ndcs": [
+        "0430-3020"
+      ],
+      "rxcui": [],
+      "setid": "875dd377-0dee-4798-b86c-88ccf9e34158",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "377eafda-737c-4ba2-9ec5-61209b8814ed"
+      ],
+      "title": "DOVONEX (calcipotriene) cream"
+    },
+    {
+      "application_numbers": [
+        "NDA020611"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "DOVONEX"
+      ],
+      "first_posted": "2010-01-12",
+      "found_by": "DOVONEX",
+      "labeler": "LEO Pharma Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2017-08-15",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-04-01"
+      ],
+      "product_ndcs": [
+        "50222-403"
+      ],
+      "rxcui": [],
+      "setid": "92d53473-e33d-4490-9390-ec333dbf7676",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "DOVONEX (calcipotriene) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA020611"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "DOVONEX"
+      ],
+      "first_posted": "2007-11-09",
+      "found_by": "DOVONEX",
+      "labeler": "Allergan, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2017-06-28",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2012-03-31"
+      ],
+      "product_ndcs": [
+        "0430-3030"
+      ],
+      "rxcui": [],
+      "setid": "ac6739cd-df1b-45ce-b6fd-ba83815d0f68",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "DOVONEX (calcipotriene) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA021852"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "TACLONEX"
+      ],
+      "first_posted": "2008-05-08",
+      "found_by": "TACLONEX",
+      "labeler": "Allergan, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2017-08-07",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2012-02-29"
+      ],
+      "product_ndcs": [
+        "0430-3230"
+      ],
+      "rxcui": [],
+      "setid": "afa386a0-1345-46a7-a06f-40f54ee51693",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "d9493e66-251c-426c-90a8-1bf1e526ab85"
+      ],
+      "title": "TACLONEX (calcipotriene and betamethasone dipropionate) ointment"
+    },
+    {
+      "application_numbers": [
+        "NDA022563"
+      ],
+      "archived_versions": 13,
+      "brand_names": [
+        "SORILUX"
+      ],
+      "first_posted": "2010-10-26",
+      "found_by": "SORILUX",
+      "labeler": "Stiefel Laboratories Inc",
+      "labeler_unverified": true,
+      "last_posted": "2017-01-11",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-10-31"
+      ],
+      "product_ndcs": [
+        "0145-2130"
+      ],
+      "rxcui": [],
+      "setid": "c376bc8b-e046-4011-bb20-2cfda38d6cb8",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "26756ac7-a80c-49db-97bb-351f76ad8a71",
+        "51f208d0-7b3f-44cc-8bed-92fa3d2e7bbe"
+      ],
+      "title": "SORILUX (calcipotriene) aerosol, foam"
+    },
+    {
+      "application_numbers": [
+        "NDA020273"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "DOVONEX"
+      ],
+      "first_posted": "2009-12-22",
+      "found_by": "DOVONEX",
+      "labeler": "Warner Chilcott (US), LLC",
+      "labeler_unverified": false,
+      "last_posted": "2015-04-27",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2007-04-01"
+      ],
+      "product_ndcs": [
+        "0430-3010"
+      ],
+      "rxcui": [],
+      "setid": "eb3a6dd5-a306-4c3a-9a40-c3aa61abd2f2",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "fe7cd92a-f066-4c4a-80c8-e3f929ad4181"
+      ],
+      "title": "DOVONEX (calcipotriene) ointment"
+    },
+    {
+      "application_numbers": [
+        "NDA021852"
+      ],
+      "archived_versions": 18,
+      "brand_names": [
+        "TACLONEX"
+      ],
+      "first_posted": "2010-01-13",
+      "found_by": "TACLONEX",
+      "labeler": "LEO Pharma Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2024-01-26",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-10-31"
+      ],
+      "product_ndcs": [
+        "50222-227"
+      ],
+      "rxcui": [],
+      "setid": "ef43ba2d-20ce-4415-b5c2-e486b836812e",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "d9493e66-251c-426c-90a8-1bf1e526ab85"
+      ],
+      "title": "TACLONEX (calcipotriene and betamethasone dipropionate) ointment"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": true,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1d0ab2e6-1ab1-4d3e-ad55-7fa26446f191"
+    },
+    {
+      "combination": true,
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1eba330b-ce18-6b12-e063-6294a90a8763"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "277d843a-0ea9-429d-813d-49ed72dafb64"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "94d4f46a-f254-4fe2-b4bd-7a533d6324fe"
+    },
+    {
+      "combination": false,
+      "labeler": "Northstar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a882ef4f-603e-4421-97ae-2c78822c767a"
+    },
+    {
+      "combination": false,
+      "labeler": "Glenmark Pharmaceuticals Inc.,USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7ec750f6-26ea-46bc-aa7b-174fd25253a2"
+    },
+    {
+      "combination": false,
+      "labeler": "Perfero Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "492ea9cf-0117-4d84-a964-9c0121706ed3"
+    },
+    {
+      "combination": true,
+      "labeler": "Perfero Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "328148a1-f32e-47a8-99ec-1614c291a450"
+    }
+  ]
+}

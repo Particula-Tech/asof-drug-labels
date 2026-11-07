@@ -1,0 +1,590 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "TAZAROTENE"
+  ],
+  "inn": "tazarotene",
+  "name": "TAZAROTENE",
+  "rank": 150,
+  "rxcui": [
+    "212437",
+    "212438",
+    "313199",
+    "313200",
+    "313201",
+    "314268",
+    "1293451",
+    "1293456",
+    "2166089",
+    "2166094",
+    "2267561",
+    "2267566"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 16,
+    "approval_holders": 9,
+    "earliest_marketing_start": "2017-03-10",
+    "latest_label_update": "2026-10-19",
+    "nda_bla_applications": 5,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "TAZAROTENE",
+      "unii": "81BDR9Y8PS"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA202428"
+      ],
+      "brand_names": [
+        "FABIOR"
+      ],
+      "combination": false,
+      "home_inn": "tazarotene",
+      "ingredients": [
+        "TAZAROTENE"
+      ],
+      "labeler": "Mayne Pharma",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-03-10",
+      "moieties": [
+        "TAZAROTENE"
+      ],
+      "product_ndcs": [
+        "51862-295"
+      ],
+      "rxcui": [
+        "1293451",
+        "1293456"
+      ],
+      "setid": "ae0afed7-1d60-45fd-a08b-8db094618521",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "FABIOR (TAZAROTENE) AEROSOL, FOAM [MAYNE PHARMA]",
+      "upload_date": "2026-03-05"
+    },
+    {
+      "application_numbers": [
+        "NDA211882"
+      ],
+      "brand_names": [
+        "Arazlo"
+      ],
+      "combination": false,
+      "home_inn": "tazarotene",
+      "ingredients": [
+        "TAZAROTENE"
+      ],
+      "labeler": "Bausch Health US, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2019-12-19",
+      "moieties": [
+        "TAZAROTENE"
+      ],
+      "product_ndcs": [
+        "0187-2098"
+      ],
+      "rxcui": [
+        "2267561",
+        "2267566"
+      ],
+      "setid": "d941ff25-c221-4a55-8012-0dcf3bbcbbd1",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "ARAZLO (TAZAROTENE) LOTION [BAUSCH HEALTH US, LLC]",
+      "upload_date": "2023-09-27"
+    },
+    {
+      "application_numbers": [
+        "NDA021184"
+      ],
+      "brand_names": [
+        "TAZORAC"
+      ],
+      "combination": false,
+      "home_inn": "tazarotene",
+      "ingredients": [
+        "TAZAROTENE"
+      ],
+      "labeler": "Almirall, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2020-02-03",
+      "moieties": [
+        "TAZAROTENE"
+      ],
+      "product_ndcs": [
+        "16110-915",
+        "16110-916"
+      ],
+      "rxcui": [],
+      "setid": "021744d1-a6d7-4ad6-99c2-7187c24e64c6",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "TAZORAC (TAZAROTENE) CREAM [ALMIRALL, LLC]",
+      "upload_date": "2025-11-18"
+    },
+    {
+      "application_numbers": [
+        "NDA020600"
+      ],
+      "brand_names": [
+        "Tazorac"
+      ],
+      "combination": false,
+      "home_inn": "tazarotene",
+      "ingredients": [
+        "TAZAROTENE"
+      ],
+      "labeler": "Almirall, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2020-02-21",
+      "moieties": [
+        "TAZAROTENE"
+      ],
+      "product_ndcs": [
+        "16110-042",
+        "16110-833"
+      ],
+      "rxcui": [
+        "212437",
+        "212438",
+        "313199",
+        "313201"
+      ],
+      "setid": "4e4e4b81-420e-4492-8a74-80b692a80057",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "TAZORAC (TAZAROTENE) GEL [ALMIRALL, LLC]",
+      "upload_date": "2025-11-18"
+    },
+    {
+      "application_numbers": [
+        "NDA209354"
+      ],
+      "brand_names": [
+        "Duobrii"
+      ],
+      "combination": true,
+      "home_inn": "tazarotene",
+      "ingredients": [
+        "HALOBETASOL PROPIONATE",
+        "TAZAROTENE"
+      ],
+      "labeler": "Bausch Health US, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2019-04-25",
+      "moieties": [
+        "HALOBETASOL",
+        "TAZAROTENE"
+      ],
+      "product_ndcs": [
+        "0187-0653"
+      ],
+      "rxcui": [
+        "2166089",
+        "2166094"
+      ],
+      "setid": "b3f0cdc0-69fd-43d1-baf2-d776a3a20715",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "DUOBRII (HALOBETASOL PROPIONATE AND TAZAROTENE) LOTION [BAUSCH HEALTH US, LLC]",
+      "upload_date": "2023-04-25"
+    },
+    {
+      "application_numbers": [
+        "NDA202428"
+      ],
+      "brand_names": [
+        "tazarotene"
+      ],
+      "combination": false,
+      "home_inn": "tazarotene",
+      "ingredients": [
+        "TAZAROTENE"
+      ],
+      "labeler": "Mayne Pharma Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2021-04-23",
+      "moieties": [
+        "TAZAROTENE"
+      ],
+      "product_ndcs": [
+        "68308-685"
+      ],
+      "rxcui": [
+        "1293451"
+      ],
+      "setid": "0e337598-f589-483f-a2ae-be7c319d7454",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "TAZAROTENE AEROSOL, FOAM [MAYNE PHARMA INC.]",
+      "upload_date": "2024-06-06"
+    },
+    {
+      "application_numbers": [
+        "ANDA208258"
+      ],
+      "brand_names": [
+        "Tazarotene"
+      ],
+      "combination": false,
+      "home_inn": "tazarotene",
+      "ingredients": [
+        "TAZAROTENE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-04-03",
+      "moieties": [
+        "TAZAROTENE"
+      ],
+      "product_ndcs": [
+        "51672-1374"
+      ],
+      "rxcui": [
+        "313200"
+      ],
+      "setid": "34d79c31-1568-4797-a4f5-31200c7788db",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "TAZAROTENE CREAM [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2025-07-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA208662"
+      ],
+      "brand_names": [
+        "Tazarotene"
+      ],
+      "combination": false,
+      "home_inn": "tazarotene",
+      "ingredients": [
+        "TAZAROTENE"
+      ],
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-12-22",
+      "moieties": [
+        "TAZAROTENE"
+      ],
+      "product_ndcs": [
+        "0713-0670",
+        "0713-0765"
+      ],
+      "rxcui": [
+        "313200",
+        "314268"
+      ],
+      "setid": "fa5caf83-29d5-8229-b125-d7736928f132",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "TAZAROTENE CREAM [COSETTE PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-03-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA214136"
+      ],
+      "brand_names": [
+        "TAZAROTENE"
+      ],
+      "combination": false,
+      "home_inn": "tazarotene",
+      "ingredients": [
+        "TAZAROTENE"
+      ],
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-09-14",
+      "moieties": [
+        "TAZAROTENE"
+      ],
+      "product_ndcs": [
+        "0713-0804"
+      ],
+      "rxcui": [
+        "313201"
+      ],
+      "setid": "94749b8e-0d00-4257-a660-6d0fc8815fcf",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "TAZAROTENE GEL [COSETTE PHARMACEUTICALS, INC.]",
+      "upload_date": "2023-11-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA215433"
+      ],
+      "brand_names": [
+        "TAZAROTENE"
+      ],
+      "combination": false,
+      "home_inn": "tazarotene",
+      "ingredients": [
+        "TAZAROTENE"
+      ],
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-09-14",
+      "moieties": [
+        "TAZAROTENE"
+      ],
+      "product_ndcs": [
+        "0713-0805"
+      ],
+      "rxcui": [
+        "313199"
+      ],
+      "setid": "ecd718fd-c06e-4b3a-8aca-fa51e7c51a66",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "TAZAROTENE GEL [COSETTE PHARMACEUTICALS, INC.]",
+      "upload_date": "2023-11-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA213079"
+      ],
+      "brand_names": [
+        "TAZAROTENE"
+      ],
+      "combination": false,
+      "home_inn": "tazarotene",
+      "ingredients": [
+        "TAZAROTENE"
+      ],
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-06-05",
+      "moieties": [
+        "TAZAROTENE"
+      ],
+      "product_ndcs": [
+        "45802-436",
+        "45802-442"
+      ],
+      "rxcui": [
+        "313199",
+        "313201"
+      ],
+      "setid": "ffd11dee-4266-4201-9573-1e82c2d30a63",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "TAZAROTENE GEL [PADAGIS ISRAEL PHARMACEUTICALS LTD]",
+      "upload_date": "2024-05-20"
+    },
+    {
+      "application_numbers": [
+        "NDA202428"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "FABIOR"
+      ],
+      "first_posted": "2013-09-04",
+      "found_by": "FABIOR",
+      "labeler": "Stiefel Laboratories, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2017-01-13",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-09-30"
+      ],
+      "product_ndcs": [
+        "0145-0020"
+      ],
+      "rxcui": [],
+      "setid": "596fd7d0-6ae2-4736-990d-4d4f01f96965",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "0e337598-f589-483f-a2ae-be7c319d7454",
+        "ae0afed7-1d60-45fd-a08b-8db094618521"
+      ],
+      "title": "FABIOR (tazarotene) aerosol, foam"
+    },
+    {
+      "application_numbers": [
+        "NDA020600"
+      ],
+      "archived_versions": 9,
+      "brand_names": [
+        "TAZORAC"
+      ],
+      "first_posted": "2006-08-29",
+      "found_by": "TAZORAC",
+      "labeler": "Allergan, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2025-11-17",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-10-27"
+      ],
+      "product_ndcs": [
+        "0023-0042",
+        "0023-8335"
+      ],
+      "rxcui": [],
+      "setid": "75145c21-6ef2-455a-8a67-d48ddd4181a4",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "4e4e4b81-420e-4492-8a74-80b692a80057"
+      ],
+      "title": "TAZORAC (tazarotene) gel"
+    },
+    {
+      "application_numbers": [
+        "NDA021184"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "AVAGE"
+      ],
+      "first_posted": "2007-06-25",
+      "found_by": "AVAGE",
+      "labeler": "Allergan, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2020-03-04",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2020-06-18"
+      ],
+      "product_ndcs": [
+        "0023-9236"
+      ],
+      "rxcui": [],
+      "setid": "cd8a3be3-8f83-42cf-8752-6fd16da65150",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "021744d1-a6d7-4ad6-99c2-7187c24e64c6"
+      ],
+      "title": "AVAGE (tazarotene) cream"
+    },
+    {
+      "application_numbers": [
+        "NDA021184"
+      ],
+      "archived_versions": 8,
+      "brand_names": [
+        "TAZORAC"
+      ],
+      "first_posted": "2011-02-04",
+      "found_by": "TAZORAC",
+      "labeler": "Allergan, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2022-12-14",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2020-03-10",
+        "2020-12-23"
+      ],
+      "product_ndcs": [
+        "0023-9155",
+        "0023-9156"
+      ],
+      "rxcui": [],
+      "setid": "dd02ea43-7668-4872-a655-ee31c456e345",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "021744d1-a6d7-4ad6-99c2-7187c24e64c6"
+      ],
+      "title": "TAZORAC (tazarotene) cream"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "df5d65de-0693-4fd2-b335-f04ab1e201e7"
+    },
+    {
+      "combination": false,
+      "labeler": "Solaris Pharma Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f1c98c4a-f101-4f3c-851a-39c827415c46"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "478ff059-9d7b-438e-a64e-c853dfac2872"
+    },
+    {
+      "combination": false,
+      "labeler": "Mayne Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0296f0e9-f940-45d9-987e-1ee26a7ca961"
+    },
+    {
+      "combination": false,
+      "labeler": "Perfero Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1cf1faef-73b8-4ab2-a4c8-521f0bd3fc10"
+    }
+  ]
+}

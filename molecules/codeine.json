@@ -1,0 +1,488 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "CODEINE PHOSPHATE",
+    "CODEINE SULFATE"
+  ],
+  "inn": "codeine",
+  "name": "CODEINE",
+  "rank": 297,
+  "rxcui": [
+    "993755",
+    "993770",
+    "993781",
+    "993890",
+    "993943",
+    "994237",
+    "994239",
+    "997170",
+    "997287",
+    "997296",
+    "1664543",
+    "2099286"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 23,
+    "approval_holders": 18,
+    "earliest_marketing_start": "1981-08-21",
+    "latest_label_update": "2026-09-23",
+    "nda_bla_applications": 2,
+    "repackagers": 16
+  },
+  "unii": [
+    {
+      "ingredient": "CODEINE PHOSPHATE",
+      "unii": "GSL05Y1MN6"
+    },
+    {
+      "ingredient": "CODEINE SULFATE",
+      "unii": "11QV9BS0CB"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA022402"
+      ],
+      "brand_names": [
+        "Codeine sulfate"
+      ],
+      "combination": false,
+      "home_inn": "codeine",
+      "ingredients": [
+        "CODEINE SULFATE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2009-07-16",
+      "moieties": [
+        "CODEINE"
+      ],
+      "product_ndcs": [
+        "0054-0243",
+        "0054-0244",
+        "0054-0245"
+      ],
+      "rxcui": [
+        "997170",
+        "997287",
+        "997296"
+      ],
+      "setid": "010905f9-3bcb-4b50-9fe8-a3ad0010f14c",
+      "source": "openfda",
+      "spl_version": 25,
+      "title": "CODEINE SULFATE TABLET [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2025-12-31"
+    },
+    {
+      "application_numbers": [
+        "NDA206323"
+      ],
+      "brand_names": [
+        "Tuxarin"
+      ],
+      "combination": true,
+      "home_inn": "codeine",
+      "ingredients": [
+        "CHLORPHENIRAMINE MALEATE",
+        "CODEINE PHOSPHATE"
+      ],
+      "labeler": "Mainpointe Pharmaceuticals",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-10-15",
+      "moieties": [
+        "CHLORPHENIRAMINE",
+        "CODEINE"
+      ],
+      "product_ndcs": [
+        "71269-040"
+      ],
+      "rxcui": [
+        "1664543",
+        "2099286"
+      ],
+      "setid": "a7cfab67-6087-4ab4-b7cd-4f9295413180",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "TUXARIN (CODEINE PHOSPHATE AND CHLORPHENIRAMINE MALEATE) TABLET, EXTENDED RELEASE [MAINPOINTE PHARMACEUTICALS]",
+      "upload_date": "2024-01-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA203046"
+      ],
+      "brand_names": [
+        "Codeine Sulfate"
+      ],
+      "combination": false,
+      "home_inn": "codeine",
+      "ingredients": [
+        "CODEINE SULFATE"
+      ],
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-06-13",
+      "moieties": [
+        "CODEINE"
+      ],
+      "product_ndcs": [
+        "0527-1698",
+        "0527-1699",
+        "0527-1727"
+      ],
+      "rxcui": [
+        "997170",
+        "997287",
+        "997296"
+      ],
+      "setid": "5819bdf7-300e-45b8-8f3a-447b53656293",
+      "source": "openfda",
+      "spl_version": 29,
+      "title": "CODEINE SULFATE TABLET [LANNETT COMPANY, INC.]",
+      "upload_date": "2026-02-05"
+    },
+    {
+      "application_numbers": [
+        "NDA020232"
+      ],
+      "brand_names": [
+        "Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate"
+      ],
+      "combination": true,
+      "home_inn": "butalbital",
+      "ingredients": [
+        "ACETAMINOPHEN",
+        "BUTALBITAL",
+        "CAFFEINE",
+        "CODEINE PHOSPHATE"
+      ],
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2003-09-18",
+      "moieties": [
+        "ACETAMINOPHEN",
+        "BUTALBITAL",
+        "CAFFEINE",
+        "CODEINE"
+      ],
+      "product_ndcs": [
+        "0591-3220"
+      ],
+      "rxcui": [
+        "993943"
+      ],
+      "setid": "a58819b8-a52c-44a7-9ab0-c74480d98506",
+      "source": "openfda",
+      "spl_version": 38,
+      "title": "BUTALBITAL, ACETAMINOPHEN, CAFFEINE, AND CODEINE PHOSPHATE CAPSULE [ACTAVIS PHARMA, INC.]",
+      "upload_date": "2026-01-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA087508"
+      ],
+      "brand_names": [
+        "Acetaminophen and Codeine Phosphate"
+      ],
+      "combination": true,
+      "home_inn": "codeine",
+      "ingredients": [
+        "ACETAMINOPHEN",
+        "CODEINE PHOSPHATE"
+      ],
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1981-08-21",
+      "moieties": [
+        "ACETAMINOPHEN",
+        "CODEINE"
+      ],
+      "product_ndcs": [
+        "0121-0504",
+        "0121-1008"
+      ],
+      "rxcui": [
+        "993755"
+      ],
+      "setid": "95ac6875-6b14-4cde-8efb-80704e39b8d8",
+      "source": "openfda",
+      "spl_version": 32,
+      "title": "ACETAMINOPHEN AND CODEINE PHOSPHATE SOLUTION [PAI HOLDINGS, LLC DBA PAI PHARMA]",
+      "upload_date": "2026-08-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA040419"
+      ],
+      "brand_names": [
+        "ACETAMINOPHEN AND CODEINE PHOSPHATE"
+      ],
+      "combination": true,
+      "home_inn": "codeine",
+      "ingredients": [
+        "ACETAMINOPHEN",
+        "CODEINE PHOSPHATE"
+      ],
+      "labeler": "SpecGx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2001-05-31",
+      "moieties": [
+        "ACETAMINOPHEN",
+        "CODEINE"
+      ],
+      "product_ndcs": [
+        "0406-0483",
+        "0406-0484",
+        "0406-0485"
+      ],
+      "rxcui": [
+        "993770",
+        "993781",
+        "993890"
+      ],
+      "setid": "eadc80fa-13c3-471a-a22f-6fe7e1ab290f",
+      "source": "openfda",
+      "spl_version": 51,
+      "title": "ACETAMINOPHEN AND CODEINE PHOSPHATE TABLET [SPECGX LLC]",
+      "upload_date": "2026-06-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA075231"
+      ],
+      "brand_names": [
+        "Ascomp with Codeine"
+      ],
+      "combination": true,
+      "home_inn": "butalbital",
+      "ingredients": [
+        "ASPIRIN",
+        "BUTALBITAL",
+        "CAFFEINE",
+        "CODEINE PHOSPHATE"
+      ],
+      "labeler": "LGM PHARMA SOLUTIONS, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2001-11-30",
+      "moieties": [
+        "ASPIRIN",
+        "BUTALBITAL",
+        "CAFFEINE",
+        "CODEINE"
+      ],
+      "product_ndcs": [
+        "79739-6094"
+      ],
+      "rxcui": [
+        "994237",
+        "994239"
+      ],
+      "setid": "1cab3106-1064-4b42-892b-39f405d9e02f",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "ASCOMP WITH CODEINE (BUTALBITAL, ASPIRIN, CAFEINE, AND CODEINE PHOSPHATE) CAPSULE [LGM PHARMA SOLUTIONS, LLC]",
+      "upload_date": "2026-04-08"
+    },
+    {
+      "application_numbers": [
+        "ANDA076560"
+      ],
+      "brand_names": [
+        "Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate"
+      ],
+      "combination": true,
+      "home_inn": "butalbital",
+      "ingredients": [
+        "ACETAMINOPHEN",
+        "BUTALBITAL",
+        "CAFFEINE",
+        "CODEINE PHOSPHATE"
+      ],
+      "labeler": "LGM PHARMA SOLUTIONS, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2004-06-10",
+      "moieties": [
+        "ACETAMINOPHEN",
+        "BUTALBITAL",
+        "CAFFEINE",
+        "CODEINE"
+      ],
+      "product_ndcs": [
+        "79739-6670"
+      ],
+      "rxcui": [
+        "993943"
+      ],
+      "setid": "180d20a5-78a8-4faa-98ad-3196cdd5663a",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "BUTALBITAL, ACETAMINOPHEN, CAFFEINE, AND CODEINE PHOSPHATE CAPSULE [LGM PHARMA SOLUTIONS, LLC]",
+      "upload_date": "2024-05-06"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8bc4108b-314e-4a52-a37c-631c6b869b04"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurolife Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "02386806-02d4-47e3-9c8b-7810146ee795"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5f23b254-872b-4e88-91be-710c3ea7687b"
+    },
+    {
+      "combination": true,
+      "labeler": "Cranbury Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "785c605e-1907-4fac-8b69-d504a2076f8e"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals of New York, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "828e30fa-7bb1-486b-80ee-806fce45e4e4"
+    },
+    {
+      "combination": true,
+      "labeler": "Eywa Pharma Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "79377617-686b-4640-b2b8-e1358cf82358"
+    },
+    {
+      "combination": true,
+      "labeler": "Elite Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6286e128-1288-4dc0-b14b-f04a0e2a22f9"
+    },
+    {
+      "combination": true,
+      "labeler": "QUAGEN PHARMACEUTICALS LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9aca56ec-28f8-4679-9f90-ec3e82deb9ac"
+    },
+    {
+      "combination": true,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6e0e8abc-512b-42f7-8323-434c589edecf"
+    },
+    {
+      "combination": true,
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c459ed02-afd6-4533-82b6-bfb2c7ab0e72"
+    },
+    {
+      "combination": true,
+      "labeler": "Breckenridge Pharmaceutical, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d74db417-d2de-495b-bb75-46a83745603d"
+    },
+    {
+      "combination": true,
+      "labeler": "Breckenridge Pharmaceutical, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "243a6aea-0f48-42a9-a85e-ff247ab94336"
+    },
+    {
+      "combination": true,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "52321fe5-c001-4e2d-8149-3197ddc13764"
+    },
+    {
+      "combination": true,
+      "labeler": "Genus Lifesciences Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "95a5d638-3072-4c37-a4cd-f8550328e2c6"
+    },
+    {
+      "combination": true,
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3b02cda4-9b24-79c9-e063-6294a90af5b9"
+    }
+  ]
+}

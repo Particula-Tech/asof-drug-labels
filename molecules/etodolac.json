@@ -1,0 +1,382 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "ETODOLAC"
+  ],
+  "inn": "etodolac",
+  "name": "ETODOLAC",
+  "rank": 449,
+  "rxcui": [
+    "197684",
+    "197685",
+    "197686",
+    "199390",
+    "310245",
+    "310247",
+    "359500"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 16,
+    "approval_holders": 14,
+    "earliest_marketing_start": "1998-03-11",
+    "latest_label_update": "2026-10-15",
+    "nda_bla_applications": 0,
+    "repackagers": 16
+  },
+  "unii": [
+    {
+      "ingredient": "ETODOLAC",
+      "unii": "2M36281008"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "ANDA075074",
+        "ANDA075078"
+      ],
+      "brand_names": [
+        "Etodolac"
+      ],
+      "combination": false,
+      "home_inn": "etodolac",
+      "ingredients": [
+        "ETODOLAC"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1998-03-11",
+      "moieties": [
+        "ETODOLAC"
+      ],
+      "product_ndcs": [
+        "51672-4016",
+        "51672-4017",
+        "51672-4018",
+        "51672-4036"
+      ],
+      "rxcui": [
+        "197684",
+        "197685",
+        "197686",
+        "199390"
+      ],
+      "setid": "ec82b108-6a6f-4d1b-82cb-831d4ed36c80",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "ETODOLAC CAPSULE ETODOLAC TABLET, FILM COATED [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2026-07-16"
+    },
+    {
+      "application_numbers": [
+        "ANDA075665"
+      ],
+      "brand_names": [
+        "Etodolac"
+      ],
+      "combination": false,
+      "home_inn": "etodolac",
+      "ingredients": [
+        "ETODOLAC"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2000-08-11",
+      "moieties": [
+        "ETODOLAC"
+      ],
+      "product_ndcs": [
+        "0093-1118",
+        "0093-1122",
+        "0093-7172"
+      ],
+      "rxcui": [
+        "310245",
+        "310247",
+        "359500"
+      ],
+      "setid": "f3bf1675-8fda-40d3-8427-0a6a6133a3d3",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "ETODOLAC TABLET, FILM COATED, EXTENDED RELEASE [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2025-06-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA076174"
+      ],
+      "brand_names": [
+        "Etodolac"
+      ],
+      "combination": false,
+      "home_inn": "etodolac",
+      "ingredients": [
+        "ETODOLAC"
+      ],
+      "labeler": "NORTHSTAR RX LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2003-03-13",
+      "moieties": [
+        "ETODOLAC"
+      ],
+      "product_ndcs": [
+        "16714-497",
+        "16714-498",
+        "16714-499"
+      ],
+      "rxcui": [
+        "310245",
+        "310247",
+        "359500"
+      ],
+      "setid": "107ea9d7-80a9-41a4-b61e-168370127319",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "ETODOLAC TABLET, EXTENDED RELEASE [NORTHSTAR RX LLC]",
+      "upload_date": "2025-06-26"
+    },
+    {
+      "application_numbers": [
+        "ANDA075419",
+        "ANDA076004"
+      ],
+      "brand_names": [
+        "Etodolac"
+      ],
+      "combination": false,
+      "home_inn": "etodolac",
+      "ingredients": [
+        "ETODOLAC"
+      ],
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2003-05-01",
+      "moieties": [
+        "ETODOLAC"
+      ],
+      "product_ndcs": [
+        "60505-0039",
+        "60505-0040",
+        "60505-0041",
+        "60505-0102"
+      ],
+      "rxcui": [
+        "197686",
+        "199390"
+      ],
+      "setid": "4d682f98-1e8a-4c2b-6df3-169d2ed10dc1",
+      "source": "dailymed-title-match",
+      "spl_version": 17,
+      "title": "ETODOLAC TABLET, FILM COATED [APOTEX CORP.]",
+      "upload_date": "2026-10-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA091134"
+      ],
+      "brand_names": [
+        "Etodolac"
+      ],
+      "combination": false,
+      "home_inn": "etodolac",
+      "ingredients": [
+        "ETODOLAC"
+      ],
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-02-15",
+      "moieties": [
+        "ETODOLAC"
+      ],
+      "product_ndcs": [
+        "65841-777",
+        "65841-778",
+        "65841-779"
+      ],
+      "rxcui": [
+        "310245",
+        "310247",
+        "359500"
+      ],
+      "setid": "0c5f8631-f013-4bbb-b610-0a8a1311844e",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "ETODOLAC TABLET, FILM COATED, EXTENDED RELEASE [ZYDUS LIFESCIENCES LIMITED]",
+      "upload_date": "2024-12-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA075126"
+      ],
+      "brand_names": [
+        "Etodolac"
+      ],
+      "combination": false,
+      "home_inn": "etodolac",
+      "ingredients": [
+        "ETODOLAC"
+      ],
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-02-01",
+      "moieties": [
+        "ETODOLAC"
+      ],
+      "product_ndcs": [
+        "62559-250",
+        "62559-251"
+      ],
+      "rxcui": [
+        "197684",
+        "197685"
+      ],
+      "setid": "420c7b62-3bea-4d6b-82e0-ab1c176c7f1e",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "ETODOLAC CAPSULE [ANI PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-12-23"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "LODINE"
+      ],
+      "first_posted": "2006-09-21",
+      "found_by": "LODINE",
+      "labeler": "Wyeth Pharmaceuticals Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2006-09-21",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0046-0738",
+        "0046-0739",
+        "0046-0761",
+        "0046-0787"
+      ],
+      "rxcui": [],
+      "setid": "4f1c09c2-abb3-41ed-67b5-5ee5ec9797a4",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "lodine (Etodolac) capsule lodine (Etodolac) tablet, film coated"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2f306e69-c109-4e60-aaf3-9016a4e2cc33"
+    },
+    {
+      "combination": false,
+      "labeler": "Edenbridge Pharmaceuticals LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bf1afcd5-e1da-4874-981f-f252cb0b32c2"
+    },
+    {
+      "combination": false,
+      "labeler": "Unichem Pharmaceuticals (USA), Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "18215cb7-c833-4a98-a61d-4bedf518a380"
+    },
+    {
+      "combination": false,
+      "labeler": "Ipca Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d583988c-3e7e-4415-b2fd-34049791cd1c"
+    },
+    {
+      "combination": false,
+      "labeler": "Ipca Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f50a93ca-584a-4205-a79b-31bafdd309c2"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c74c3c56-a5ac-40b4-974b-c4f4b05c5df9"
+    },
+    {
+      "combination": false,
+      "labeler": "TaSun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2c5b44b4-78d5-43b2-827d-d2763b6672b3"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "86c7b7b8-3a98-e5f4-c558-5b5caede6377"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7ef79e43-0628-4795-937e-ebb752d79133"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f86d2b22-d3f7-49cd-98f6-cdb2bd855192"
+    }
+  ]
+}

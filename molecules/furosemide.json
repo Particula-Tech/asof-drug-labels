@@ -1,0 +1,931 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "Bopediat is a paediatric formulation",
+      "comparable_to_us": "no",
+      "ema_product_number": "EMEA/H/C/006617",
+      "eu_number": "EU/1/26/2027",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-006617",
+      "mah": "Proveca Pharma Limited",
+      "marketing_authorisation_date": "2026-05-29",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/bopediat",
+      "name": "Bopediat",
+      "record_from": "2026-05-29",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 1
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-006617",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "FUROSEMIDE"
+  ],
+  "inn": "furosemide",
+  "name": "FUROSEMIDE",
+  "rank": 44,
+  "rxcui": [
+    "197730",
+    "197731",
+    "197732",
+    "200801",
+    "200809",
+    "205732",
+    "310429",
+    "313988",
+    "1719286",
+    "1719290",
+    "1719291",
+    "2621022",
+    "2621028",
+    "2683305",
+    "2683306",
+    "2725542",
+    "2725546",
+    "2747765",
+    "2747769"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 37,
+    "approval_holders": 31,
+    "earliest_marketing_start": "1978-04-24",
+    "latest_label_update": "2026-09-21",
+    "nda_bla_applications": 8,
+    "repackagers": 28
+  },
+  "unii": [
+    {
+      "ingredient": "FUROSEMIDE",
+      "unii": "7LXU5N7ZO5"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA016273"
+      ],
+      "brand_names": [
+        "Lasix"
+      ],
+      "combination": false,
+      "home_inn": "furosemide",
+      "ingredients": [
+        "FUROSEMIDE"
+      ],
+      "labeler": "Validus Pharmaceuticals LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1978-04-24",
+      "moieties": [
+        "FUROSEMIDE"
+      ],
+      "product_ndcs": [
+        "30698-060",
+        "30698-066",
+        "30698-067"
+      ],
+      "rxcui": [
+        "197732",
+        "200801",
+        "200809",
+        "205732",
+        "310429",
+        "313988"
+      ],
+      "setid": "2c9b4d8f-0770-482d-a9e6-9c616a440b1a",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "LASIX (FUROSEMIDE) TABLET [VALIDUS PHARMACEUTICALS LLC]",
+      "upload_date": "2025-10-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA070086",
+        "ANDA070433",
+        "ANDA070434",
+        "NDA018823"
+      ],
+      "brand_names": [
+        "Furosemide"
+      ],
+      "combination": false,
+      "home_inn": "furosemide",
+      "ingredients": [
+        "FUROSEMIDE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA",
+        "NDA"
+      ],
+      "marketing_start": "1983-11-10",
+      "moieties": [
+        "FUROSEMIDE"
+      ],
+      "product_ndcs": [
+        "0054-3294",
+        "0054-3298",
+        "0054-4297",
+        "0054-4299",
+        "0054-4301",
+        "0054-8297",
+        "0054-8299",
+        "0054-8301"
+      ],
+      "rxcui": [
+        "197730",
+        "197731",
+        "197732",
+        "310429",
+        "313988"
+      ],
+      "setid": "9e493331-dddd-496e-abf8-61747fb67aba",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "FUROSEMIDE TABLET FUROSEMIDE SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2026-02-23"
+    },
+    {
+      "application_numbers": [
+        "NDA018902"
+      ],
+      "brand_names": [
+        "Furosemide"
+      ],
+      "combination": false,
+      "home_inn": "furosemide",
+      "ingredients": [
+        "FUROSEMIDE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2000-07-12",
+      "moieties": [
+        "FUROSEMIDE"
+      ],
+      "product_ndcs": [
+        "63323-280"
+      ],
+      "rxcui": [
+        "1719286",
+        "1719290",
+        "1719291"
+      ],
+      "setid": "3747bbcd-783d-4baa-bb5b-b6827bf390e3",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "FUROSEMIDE INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2024-12-23"
+    },
+    {
+      "application_numbers": [
+        "NDA018667"
+      ],
+      "brand_names": [
+        "Furosemide"
+      ],
+      "combination": false,
+      "home_inn": "furosemide",
+      "ingredients": [
+        "FUROSEMIDE"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2005-02-28",
+      "moieties": [
+        "FUROSEMIDE"
+      ],
+      "product_ndcs": [
+        "0409-6102"
+      ],
+      "rxcui": [
+        "1719286",
+        "1719290",
+        "1719291"
+      ],
+      "setid": "39fd32f2-6bb7-4a65-d298-e48d26bc80c7",
+      "source": "openfda",
+      "spl_version": 33,
+      "title": "FUROSEMIDE INJECTION, SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2026-05-20"
+    },
+    {
+      "application_numbers": [
+        "NDA209988"
+      ],
+      "brand_names": [
+        "FUROSCIX"
+      ],
+      "combination": false,
+      "home_inn": "furosemide",
+      "ingredients": [
+        "FUROSEMIDE"
+      ],
+      "labeler": "scPharmaceuticals Inc., a wholly owned subsidiary of MannKind Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-11-14",
+      "moieties": [
+        "FUROSEMIDE"
+      ],
+      "product_ndcs": [
+        "71767-100",
+        "71767-111"
+      ],
+      "rxcui": [
+        "2621022",
+        "2621028",
+        "2747765",
+        "2747769"
+      ],
+      "setid": "eac958dd-8d43-e44e-e053-2995a90a4d5e",
+      "source": "openfda",
+      "spl_version": 20,
+      "title": "FUROSCIX (FUROSEMIDE) INJECTION FUROSCIX (FUROSEMIDE INJECTION 80 MG/ 10 ML) INJECTION [SCPHARMACEUTICALS INC., A WHOLLY OWNED SUBSIDIARY OF MANNKIND CORPORATION]",
+      "upload_date": "2026-08-03"
+    },
+    {
+      "application_numbers": [
+        "NDA018267"
+      ],
+      "brand_names": [
+        "Furosemide"
+      ],
+      "combination": false,
+      "home_inn": "furosemide",
+      "ingredients": [
+        "FUROSEMIDE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-05-31",
+      "moieties": [
+        "FUROSEMIDE"
+      ],
+      "product_ndcs": [
+        "0143-9155",
+        "0143-9156",
+        "0143-9157",
+        "0143-9158",
+        "0143-9159"
+      ],
+      "rxcui": [
+        "1719286",
+        "1719290",
+        "1719291",
+        "2683305",
+        "2683306"
+      ],
+      "setid": "ddfc41a9-37d4-49c1-bbf3-969a98cd649c",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "FUROSEMIDE INJECTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2025-03-12"
+    },
+    {
+      "application_numbers": [
+        "NDA217294"
+      ],
+      "brand_names": [
+        "LASIX ONYU"
+      ],
+      "combination": false,
+      "home_inn": "furosemide",
+      "ingredients": [
+        "FUROSEMIDE"
+      ],
+      "labeler": "SQ Innovation, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-12-01",
+      "moieties": [
+        "FUROSEMIDE"
+      ],
+      "product_ndcs": [
+        "81137-001"
+      ],
+      "rxcui": [
+        "2725542",
+        "2725546"
+      ],
+      "setid": "cb27654f-c7a1-4796-ab08-60a5fa16f5c0",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "LASIX ONYU (FUROSEMIDE) INJECTION [SQ INNOVATION, INC.]",
+      "upload_date": "2025-12-02"
+    },
+    {
+      "application_numbers": [
+        "NDA018569"
+      ],
+      "brand_names": [
+        "Furosemide"
+      ],
+      "combination": false,
+      "home_inn": "furosemide",
+      "ingredients": [
+        "FUROSEMIDE"
+      ],
+      "labeler": "Granulation Technology, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-12-18",
+      "moieties": [
+        "FUROSEMIDE"
+      ],
+      "product_ndcs": [
+        "63561-0164",
+        "63561-0165",
+        "63561-0166"
+      ],
+      "rxcui": [
+        "197732",
+        "310429",
+        "313988"
+      ],
+      "setid": "462e8917-cbe0-f4f9-e063-6394a90ab4ff",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "FUROSEMIDE TABLET [GRANULATION TECHNOLOGY, INC.]",
+      "upload_date": "2026-06-18"
+    },
+    {
+      "application_numbers": [
+        "NDA018902"
+      ],
+      "brand_names": [
+        "Furosemide"
+      ],
+      "combination": false,
+      "home_inn": "furosemide",
+      "ingredients": [
+        "FUROSEMIDE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2000-07-12",
+      "moieties": [
+        "FUROSEMIDE"
+      ],
+      "product_ndcs": [
+        "63323-280"
+      ],
+      "rxcui": [
+        "1719286",
+        "1719290",
+        "1719291"
+      ],
+      "setid": "c794c95a-654e-48fe-9596-201fc122ff75",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "FUROSEMIDE INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2024-12-23"
+    },
+    {
+      "application_numbers": [
+        "NDA018667"
+      ],
+      "brand_names": [
+        "FUROSEMIDE"
+      ],
+      "combination": false,
+      "home_inn": "furosemide",
+      "ingredients": [
+        "FUROSEMIDE"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2013-11-19",
+      "moieties": [
+        "FUROSEMIDE"
+      ],
+      "product_ndcs": [
+        "0409-6102"
+      ],
+      "rxcui": [
+        "1719286",
+        "1719290",
+        "1719291"
+      ],
+      "setid": "aaced7a8-c3d7-4d66-8c07-aa407b8b3f35",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "FUROSEMIDE INJECTION, SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2026-05-20"
+    },
+    {
+      "application_numbers": [
+        "NDA018413"
+      ],
+      "brand_names": [
+        "Furosemide"
+      ],
+      "combination": false,
+      "home_inn": "furosemide",
+      "ingredients": [
+        "FUROSEMIDE"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "1983-11-30",
+      "moieties": [
+        "FUROSEMIDE"
+      ],
+      "product_ndcs": [
+        "62135-753",
+        "62135-754"
+      ],
+      "rxcui": [
+        "310429",
+        "313988"
+      ],
+      "setid": "8ebd2f10-acfc-48a4-a5db-f20377bda9ce",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "FUROSEMIDE TABLET [CHARTWELL RX, LLC]",
+      "upload_date": "2025-03-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA076796"
+      ],
+      "brand_names": [
+        "Furosemide"
+      ],
+      "combination": false,
+      "home_inn": "furosemide",
+      "ingredients": [
+        "FUROSEMIDE"
+      ],
+      "labeler": "Solco Healthcare LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2004-03-26",
+      "moieties": [
+        "FUROSEMIDE"
+      ],
+      "product_ndcs": [
+        "43547-401",
+        "43547-402",
+        "43547-403"
+      ],
+      "rxcui": [
+        "197732",
+        "310429",
+        "313988"
+      ],
+      "setid": "6a0fb397-63ae-4fce-bddf-16a91b1b7a2f",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "FUROSEMIDE TABLET [SOLCO HEALTHCARE LLC]",
+      "upload_date": "2026-04-22"
+    },
+    {
+      "application_numbers": [
+        "ANDA077293"
+      ],
+      "brand_names": [
+        "Furosemide"
+      ],
+      "combination": false,
+      "home_inn": "furosemide",
+      "ingredients": [
+        "FUROSEMIDE"
+      ],
+      "labeler": "Leading Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2006-02-01",
+      "moieties": [
+        "FUROSEMIDE"
+      ],
+      "product_ndcs": [
+        "69315-116",
+        "69315-117",
+        "69315-118"
+      ],
+      "rxcui": [
+        "197732",
+        "310429",
+        "313988"
+      ],
+      "setid": "b5c6fcf4-fd37-4fee-8dac-1a3273d95ffe",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "FUROSEMIDE (FUROSEMIDE) TABLET [LEADING PHARMA, LLC]",
+      "upload_date": "2022-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA202747"
+      ],
+      "brand_names": [
+        "FUROSEMIDE"
+      ],
+      "combination": false,
+      "home_inn": "furosemide",
+      "ingredients": [
+        "FUROSEMIDE"
+      ],
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-02-06",
+      "moieties": [
+        "FUROSEMIDE"
+      ],
+      "product_ndcs": [
+        "36000-063",
+        "36000-064",
+        "36000-065",
+        "36000-282",
+        "36000-283",
+        "36000-284"
+      ],
+      "rxcui": [
+        "1719286",
+        "1719290",
+        "1719291"
+      ],
+      "setid": "c71371a7-75c5-45b8-b762-8d782d4c71bc",
+      "source": "openfda",
+      "spl_version": 23,
+      "title": "FUROSEMIDE INJECTION, SOLUTION [BAXTER HEALTHCARE CORPORATION]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA203428"
+      ],
+      "brand_names": [
+        "Furosemide"
+      ],
+      "combination": false,
+      "home_inn": "furosemide",
+      "ingredients": [
+        "FUROSEMIDE"
+      ],
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-09-02",
+      "moieties": [
+        "FUROSEMIDE"
+      ],
+      "product_ndcs": [
+        "23155-473"
+      ],
+      "rxcui": [
+        "1719286",
+        "1719290",
+        "1719291"
+      ],
+      "setid": "1b9117d5-0dd9-4577-a1fd-bb0aaf7e68ec",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "FUROSEMIDE INJECTION, SOLUTION [HERITAGE PHARMACEUTICALS INC. D/B/A AVET PHARMACEUTICALS INC.]",
+      "upload_date": "2026-03-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA207552"
+      ],
+      "brand_names": [
+        "Furosemide"
+      ],
+      "combination": false,
+      "home_inn": "furosemide",
+      "ingredients": [
+        "FUROSEMIDE"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-07-25",
+      "moieties": [
+        "FUROSEMIDE"
+      ],
+      "product_ndcs": [
+        "70121-1163",
+        "70121-1164"
+      ],
+      "rxcui": [
+        "1719286",
+        "1719290",
+        "1719291"
+      ],
+      "setid": "d5b9f12e-d1e9-42de-90f2-c9ba33a86457",
+      "source": "dailymed-title-match",
+      "spl_version": 15,
+      "title": "FUROSEMIDE INJECTION [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2026-09-21"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "LASIX"
+      ],
+      "first_posted": "2018-03-22",
+      "found_by": "LASIX",
+      "labeler": "Valeant Pharmaceuticals International Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2018-03-22",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "64734-066"
+      ],
+      "rxcui": [],
+      "setid": "26959e10-7baa-467f-9ef6-65d181ddfc75",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "LASIX (furosemide) tablet"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "LASIX"
+      ],
+      "first_posted": "2018-03-22",
+      "found_by": "LASIX",
+      "labeler": "Valeant Pharmaceuticals International Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2018-03-22",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "64734-060"
+      ],
+      "rxcui": [],
+      "setid": "d8286252-75b2-4c70-b286-cc7807db2694",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "LASIX (furosemide) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA016273"
+      ],
+      "archived_versions": 9,
+      "brand_names": [
+        "LASIX"
+      ],
+      "first_posted": "2008-06-05",
+      "found_by": "LASIX",
+      "labeler": "Sanofi-Aventis U.S. LLC",
+      "labeler_unverified": true,
+      "last_posted": "2021-02-11",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-08-31",
+        "2018-10-31"
+      ],
+      "product_ndcs": [
+        "0039-0060",
+        "0039-0066",
+        "0039-0067"
+      ],
+      "rxcui": [],
+      "setid": "eadfe464-720b-4dcd-a0d8-45dba706bd33",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "2c9b4d8f-0770-482d-a9e6-9c616a440b1a"
+      ],
+      "title": "LASIX (furosemide) tablet"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Phlow Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "08a44bdd-028d-41af-9d4e-70971b0bcc4e"
+    },
+    {
+      "combination": false,
+      "labeler": "Marlex Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "4bd1b15e-354e-051f-e063-6294a90a3f3b"
+    },
+    {
+      "combination": false,
+      "labeler": "Civica, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "6d9caaab-d874-4cf1-b9fe-408452a18998"
+    },
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "421aa6d5-623b-4dc2-abd5-bb9e7765bf37"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "644704c0-e6a5-4804-bfa6-795c8f83aa7a"
+    },
+    {
+      "combination": false,
+      "labeler": "Accord Healthcare, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f6f64972-714c-4ee9-8a5e-9ffcab41a73b"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3aadaca7-3661-4bfe-87f8-6368e4ab6536"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6101b9b4-f3ef-438e-a857-b4ea55ffc679"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "92f3ab5d-361c-4e12-bb50-fd4a9f195a8f"
+    },
+    {
+      "combination": false,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2f547f7c-0322-465c-9764-43f955d98ab2"
+    },
+    {
+      "combination": false,
+      "labeler": "Ipca Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0acd293b-ecab-4879-a8e7-cd1b76148f2a"
+    },
+    {
+      "combination": false,
+      "labeler": "Devatis Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c90bcb14-eb8d-4753-b339-3469c664ecd2"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f6221cce-e586-4002-bd14-6ec22eb14e2e"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d76bd85a-8e57-477e-9607-c9435f1e26fb"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a504ee4b-3995-45f2-898c-91116dd81d19"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d63c1277-dd7e-4d21-9e80-68143f55e2dc"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a2e3c748-28ce-4c50-a182-721912919840"
+    },
+    {
+      "combination": false,
+      "labeler": "Civica, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7ecaa5af-d186-4380-b105-e7e528f75cc7"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fc3194a3-7e75-4551-8334-4a5cc22d9f8b"
+    },
+    {
+      "combination": false,
+      "labeler": "Avenacy Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7d0db0f7-bf4f-4b0b-9359-2a838626e04b"
+    },
+    {
+      "combination": false,
+      "labeler": "Maiva Pharma Private Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e5880bf4-5037-4813-b7cc-656a6832ecb5"
+    }
+  ]
+}

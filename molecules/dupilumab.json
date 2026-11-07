@@ -1,0 +1,111 @@
+{
+  "biologic": true,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand Dupixent",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/004390",
+      "eu_number": "EU/1/17/1229",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-004390",
+      "mah": "Sanofi Winthrop Industrie",
+      "marketing_authorisation_date": "2017-09-26",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/dupixent",
+      "name": "Dupixent",
+      "record_from": "2017-09-26",
+      "record_to": "2026-11-03",
+      "role": "reference",
+      "versions": 21
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-004390",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "DUPILUMAB"
+  ],
+  "inn": "dupilumab",
+  "name": "DUPILUMAB",
+  "rank": 502,
+  "rxcui": [
+    "1876401",
+    "1876406",
+    "2099300",
+    "2099302",
+    "2375327",
+    "2375329",
+    "2559706",
+    "2559707"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "manual",
+  "stats": {
+    "approval_holder_setids": 1,
+    "approval_holders": 1,
+    "earliest_marketing_start": "2017-03-28",
+    "latest_label_update": "2026-08-07",
+    "nda_bla_applications": 1,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "DUPILUMAB",
+      "unii": "420K487FSG"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "BLA761055"
+      ],
+      "brand_names": [
+        "Dupixent"
+      ],
+      "combination": false,
+      "home_inn": "dupilumab",
+      "ingredients": [
+        "DUPILUMAB"
+      ],
+      "labeler": "Sanofi-Aventis U.S. LLC",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2017-03-28",
+      "moieties": [
+        "DUPILUMAB"
+      ],
+      "product_ndcs": [
+        "0024-5914",
+        "0024-5915",
+        "0024-5918",
+        "0024-5919"
+      ],
+      "rxcui": [
+        "1876401",
+        "1876406",
+        "2099300",
+        "2099302",
+        "2375327",
+        "2375329",
+        "2559706",
+        "2559707"
+      ],
+      "setid": "595f437d-2729-40bb-9c62-c8ece1f82780",
+      "source": "openfda",
+      "spl_version": 60,
+      "title": "DUPIXENT (DUPILUMAB) INJECTION, SOLUTION [SANOFI-AVENTIS U.S. LLC]",
+      "upload_date": "2026-08-07"
+    }
+  ],
+  "us_excluded": []
+}

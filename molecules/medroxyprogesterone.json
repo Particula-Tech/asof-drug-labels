@@ -1,0 +1,519 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "MEDROXYPROGESTERONE ACETATE"
+  ],
+  "inn": "medroxyprogesterone",
+  "name": "MEDROXYPROGESTERONE",
+  "rank": 168,
+  "rxcui": [
+    "150840",
+    "310197",
+    "1000114",
+    "1000124",
+    "1000126",
+    "1000128",
+    "1000135",
+    "1000139",
+    "1000141",
+    "1000145",
+    "1000153",
+    "1000154",
+    "1000156",
+    "1000158",
+    "1000351",
+    "1000352",
+    "1000355",
+    "1000356",
+    "1000395",
+    "1000398",
+    "1000486",
+    "1000487",
+    "1000490",
+    "1000491",
+    "1000496",
+    "1000497",
+    "1000499",
+    "1000500"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 16,
+    "approval_holders": 13,
+    "earliest_marketing_start": "1959-06-03",
+    "latest_label_update": "2026-08-31",
+    "nda_bla_applications": 4,
+    "repackagers": 10
+  },
+  "unii": [
+    {
+      "ingredient": "MEDROXYPROGESTERONE ACETATE",
+      "unii": "C2QI4IOI2G"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020246"
+      ],
+      "brand_names": [
+        "Depo-Provera"
+      ],
+      "combination": false,
+      "home_inn": "medroxyprogesterone",
+      "ingredients": [
+        "MEDROXYPROGESTERONE ACETATE"
+      ],
+      "labeler": "Pharmacia & Upjohn Company LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1992-10-29",
+      "moieties": [
+        "MEDROXYPROGESTERONE"
+      ],
+      "product_ndcs": [
+        "0009-0746",
+        "0009-7376"
+      ],
+      "rxcui": [
+        "1000126",
+        "1000128",
+        "1000153",
+        "1000154"
+      ],
+      "setid": "199cf13e-0859-4a73-9b45-e700d0cd1049",
+      "source": "openfda",
+      "spl_version": 29,
+      "title": "DEPO-PROVERA (MEDROXYPROGESTERONE ACETATE) INJECTION, SUSPENSION [PHARMACIA & UPJOHN COMPANY LLC]",
+      "upload_date": "2026-08-28"
+    },
+    {
+      "application_numbers": [
+        "NDA021583"
+      ],
+      "brand_names": [
+        "Depo-SubQ Provera"
+      ],
+      "combination": false,
+      "home_inn": "medroxyprogesterone",
+      "ingredients": [
+        "MEDROXYPROGESTERONE ACETATE"
+      ],
+      "labeler": "Pharmacia & Upjohn Company LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2005-05-02",
+      "moieties": [
+        "MEDROXYPROGESTERONE"
+      ],
+      "product_ndcs": [
+        "0009-4709"
+      ],
+      "rxcui": [
+        "1000156",
+        "1000158"
+      ],
+      "setid": "390087a6-f3c3-4f0b-a930-79acf412f153",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "DEPO-SUBQ PROVERA (MEDROXYPROGESTERONE ACETATE) INJECTION, SUSPENSION [PHARMACIA & UPJOHN COMPANY LLC]",
+      "upload_date": "2025-12-19"
+    },
+    {
+      "application_numbers": [
+        "NDA011839"
+      ],
+      "brand_names": [
+        "Provera"
+      ],
+      "combination": false,
+      "home_inn": "medroxyprogesterone",
+      "ingredients": [
+        "MEDROXYPROGESTERONE ACETATE"
+      ],
+      "labeler": "Pharmacia & Upjohn Company LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-11-11",
+      "moieties": [
+        "MEDROXYPROGESTERONE"
+      ],
+      "product_ndcs": [
+        "0009-0051",
+        "0009-0065",
+        "0009-0287"
+      ],
+      "rxcui": [
+        "1000114",
+        "1000124",
+        "1000135",
+        "1000139",
+        "1000141",
+        "1000145"
+      ],
+      "setid": "a586be28-96af-4fed-a13f-9b94fd4c7405",
+      "source": "openfda",
+      "spl_version": 27,
+      "title": "PROVERA (MEDROXYPROGESTERONE ACETATE) TABLET [PHARMACIA & UPJOHN COMPANY LLC]",
+      "upload_date": "2026-06-30"
+    },
+    {
+      "application_numbers": [
+        "NDA020527"
+      ],
+      "brand_names": [
+        "Premphase",
+        "Prempro"
+      ],
+      "combination": true,
+      "home_inn": "estrogens-conjugated",
+      "ingredients": [
+        "ESTROGENS, CONJUGATED",
+        "MEDROXYPROGESTERONE ACETATE"
+      ],
+      "labeler": "Wyeth Pharmaceuticals LLC, a subsidiary of Pfizer Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2009-09-21",
+      "moieties": [
+        "ESTROGENS CONJUGATED",
+        "MEDROXYPROGESTERONE"
+      ],
+      "product_ndcs": [
+        "0046-1105",
+        "0046-1106",
+        "0046-1107",
+        "0046-1108",
+        "0046-2575"
+      ],
+      "rxcui": [
+        "150840",
+        "310197",
+        "1000351",
+        "1000352",
+        "1000355",
+        "1000356",
+        "1000395",
+        "1000398",
+        "1000486",
+        "1000487",
+        "1000490",
+        "1000491",
+        "1000496",
+        "1000497",
+        "1000499",
+        "1000500"
+      ],
+      "setid": "fd0c0836-5d23-2183-da81-9dc7f4287052",
+      "source": "openfda",
+      "spl_version": 39,
+      "title": "PREMPHASE (CONJUGATED ESTROGENS AND MEDROXYPROGESTERONE ACETATE) KIT PREMPRO (CONJUGATED ESTROGENS AND MEDROXYPROGESTERONE ACETATE) TABLET, SUGAR COATED [WYETH PHARMACEUTICALS LLC, A SUBSIDIARY OF PFIZER INC.]",
+      "upload_date": "2026-04-29"
+    },
+    {
+      "application_numbers": [
+        "NDA011839"
+      ],
+      "brand_names": [
+        "medroxyprogesterone acetate"
+      ],
+      "combination": false,
+      "home_inn": "medroxyprogesterone",
+      "ingredients": [
+        "MEDROXYPROGESTERONE ACETATE"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "1959-06-03",
+      "moieties": [
+        "MEDROXYPROGESTERONE"
+      ],
+      "product_ndcs": [
+        "59762-0055",
+        "59762-0056",
+        "59762-0058"
+      ],
+      "rxcui": [
+        "1000114",
+        "1000135",
+        "1000141"
+      ],
+      "setid": "2627eb11-06bf-4a45-9172-094468e3ca07",
+      "source": "openfda",
+      "spl_version": 33,
+      "title": "MEDROXYPROGESTERONE ACETATE TABLET [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2026-05-25"
+    },
+    {
+      "application_numbers": [
+        "NDA020246"
+      ],
+      "brand_names": [
+        "medroxyprogesterone acetate"
+      ],
+      "combination": false,
+      "home_inn": "medroxyprogesterone",
+      "ingredients": [
+        "MEDROXYPROGESTERONE ACETATE"
+      ],
+      "labeler": "Prasco Laboratories",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2021-07-06",
+      "moieties": [
+        "MEDROXYPROGESTERONE"
+      ],
+      "product_ndcs": [
+        "66993-370",
+        "66993-371"
+      ],
+      "rxcui": [
+        "1000126",
+        "1000153"
+      ],
+      "setid": "987496bf-b4b0-409b-b745-f52ed0871f4e",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "MEDROXYPROGESTERONE ACETATE INJECTION, SUSPENSION [PRASCO LABORATORIES]",
+      "upload_date": "2026-08-31"
+    },
+    {
+      "application_numbers": [
+        "ANDA040159"
+      ],
+      "brand_names": [
+        "Medroxyprogesterone Acetate"
+      ],
+      "combination": false,
+      "home_inn": "medroxyprogesterone",
+      "ingredients": [
+        "MEDROXYPROGESTERONE ACETATE"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1996-12-03",
+      "moieties": [
+        "MEDROXYPROGESTERONE"
+      ],
+      "product_ndcs": [
+        "0555-0779",
+        "0555-0872",
+        "0555-0873"
+      ],
+      "rxcui": [
+        "1000114",
+        "1000135",
+        "1000141"
+      ],
+      "setid": "9eb200b0-db96-4a51-87ea-04db862978c8",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "MEDROXYPROGESTERONE ACETATE TABLET [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2024-06-20"
+    },
+    {
+      "application_numbers": [
+        "ANDA077235",
+        "ANDA077334"
+      ],
+      "brand_names": [
+        "Medroxyprogesterone Acetate"
+      ],
+      "combination": false,
+      "home_inn": "medroxyprogesterone",
+      "ingredients": [
+        "MEDROXYPROGESTERONE ACETATE"
+      ],
+      "labeler": "Amphastar Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-11-28",
+      "moieties": [
+        "MEDROXYPROGESTERONE"
+      ],
+      "product_ndcs": [
+        "0548-5400",
+        "0548-5701"
+      ],
+      "rxcui": [
+        "1000126",
+        "1000153"
+      ],
+      "setid": "fda1aa8a-5739-482a-b4f6-9741ef4d9977",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "MEDROXYPROGESTERONE ACETATE INJECTION, SUSPENSION, EXTENDED RELEASE [AMPHASTAR PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-06-03"
+    },
+    {
+      "application_numbers": [
+        "ANDA210227"
+      ],
+      "brand_names": [
+        "Medroxyprogesterone Acetate"
+      ],
+      "combination": false,
+      "home_inn": "medroxyprogesterone",
+      "ingredients": [
+        "MEDROXYPROGESTERONE ACETATE"
+      ],
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-10-12",
+      "moieties": [
+        "MEDROXYPROGESTERONE"
+      ],
+      "product_ndcs": [
+        "67457-887"
+      ],
+      "rxcui": [
+        "1000126"
+      ],
+      "setid": "60aba812-59eb-4d40-9b6b-d135dca9d36b",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "MEDROXYPROGESTERONE ACETATE INJECTION, SUSPENSION [MYLAN INSTITUTIONAL LLC]",
+      "upload_date": "2025-12-31"
+    },
+    {
+      "application_numbers": [
+        "ANDA210761"
+      ],
+      "brand_names": [
+        "MEDROXYPROGESTERONE ACETATE"
+      ],
+      "combination": false,
+      "home_inn": "medroxyprogesterone",
+      "ingredients": [
+        "MEDROXYPROGESTERONE ACETATE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-05-01",
+      "moieties": [
+        "MEDROXYPROGESTERONE"
+      ],
+      "product_ndcs": [
+        "62756-091"
+      ],
+      "rxcui": [
+        "1000153"
+      ],
+      "setid": "01e28bef-9758-40cf-a4ff-86ae9f4f5105",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "MEDROXYPROGESTERONE ACETATE INJECTION, SUSPENSION [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2022-12-19"
+    },
+    {
+      "application_numbers": [
+        "NDA012541"
+      ],
+      "archived_versions": 12,
+      "brand_names": [
+        "DEPO PROVERA"
+      ],
+      "first_posted": "2007-12-28",
+      "found_by": "DEPO-PROVERA",
+      "labeler": "Pharmacia and Upjohn Company LLC",
+      "labeler_unverified": false,
+      "last_posted": "2020-11-23",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2020-10-31"
+      ],
+      "product_ndcs": [
+        "0009-0626"
+      ],
+      "rxcui": [],
+      "setid": "0ceb4952-5af3-4b80-b8b5-cea4e9a5486d",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "DEPO-PROVERA (medroxyprogesterone acetate) injection, suspension"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d1ea4098-6196-421f-b8e1-bcb31a061e04"
+    },
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0655670a-d127-4e08-8a23-ace64b2503b2"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0476eac5-d96c-4910-aa86-1ddeeefefe50"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6457d70a-2f25-4935-8511-726d988f7a03"
+    },
+    {
+      "combination": false,
+      "labeler": "Xiromed LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "24544a5d-0cf5-a099-b57c-6e0843a40532"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a80560e1-96dd-4380-b3e1-d52719ccdd4b"
+    }
+  ]
+}

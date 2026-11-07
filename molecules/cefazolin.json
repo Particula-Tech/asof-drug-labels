@@ -1,0 +1,538 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "CEFAZOLIN SODIUM"
+  ],
+  "inn": "cefazolin",
+  "name": "CEFAZOLIN",
+  "rank": 180,
+  "rxcui": [
+    "313920",
+    "1665050",
+    "1665052",
+    "1665060",
+    "2630753"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 24,
+    "approval_holders": 10,
+    "earliest_marketing_start": "1988-12-09",
+    "latest_label_update": "2026-09-18",
+    "nda_bla_applications": 4,
+    "repackagers": 5
+  },
+  "unii": [
+    {
+      "ingredient": "CEFAZOLIN SODIUM",
+      "unii": "P380M0454Z"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA050779"
+      ],
+      "brand_names": [
+        "Cefazolin Sodium"
+      ],
+      "combination": false,
+      "home_inn": "cefazolin",
+      "ingredients": [
+        "CEFAZOLIN SODIUM"
+      ],
+      "labeler": "B. Braun Medical Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2000-07-27",
+      "moieties": [
+        "CEFAZOLIN"
+      ],
+      "product_ndcs": [
+        "0264-3103",
+        "0264-3105",
+        "0264-3107"
+      ],
+      "rxcui": [
+        "1665050",
+        "1665060",
+        "2630753"
+      ],
+      "setid": "17f8f038-c204-4dab-80d7-6f7ac41ddbec",
+      "source": "openfda",
+      "spl_version": 31,
+      "title": "CEFAZOLIN SODIUM SOLUTION [B. BRAUN MEDICAL INC.]",
+      "upload_date": "2025-04-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA065306",
+        "NDA211413"
+      ],
+      "brand_names": [
+        "Cefazolin"
+      ],
+      "combination": false,
+      "home_inn": "cefazolin",
+      "ingredients": [
+        "CEFAZOLIN SODIUM"
+      ],
+      "labeler": "WG Critical Care, LLC",
+      "marketing_categories": [
+        "ANDA",
+        "NDA"
+      ],
+      "marketing_start": "2015-03-06",
+      "moieties": [
+        "CEFAZOLIN"
+      ],
+      "product_ndcs": [
+        "44567-708",
+        "44567-840",
+        "44567-845"
+      ],
+      "rxcui": [
+        "1665060",
+        "2630753"
+      ],
+      "setid": "4f3a9248-a354-4c77-bf5b-9eed38f00219",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "CEFAZOLIN INJECTION, POWDER, FOR SOLUTION [WG CRITICAL CARE, LLC]",
+      "upload_date": "2026-03-23"
+    },
+    {
+      "application_numbers": [
+        "NDA207131"
+      ],
+      "brand_names": [
+        "Cefazolin"
+      ],
+      "combination": false,
+      "home_inn": "cefazolin",
+      "ingredients": [
+        "CEFAZOLIN SODIUM"
+      ],
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-08-07",
+      "moieties": [
+        "CEFAZOLIN"
+      ],
+      "product_ndcs": [
+        "0338-0096",
+        "0338-3503",
+        "0338-3508"
+      ],
+      "rxcui": [
+        "1665050",
+        "1665060",
+        "2630753"
+      ],
+      "setid": "d91a8d13-99a0-4d87-88dc-71cbd37922b4",
+      "source": "dailymed-title-match",
+      "spl_version": 18,
+      "title": "CEFAZOLIN (CEFAZOLIN SODIUM) INJECTION, SOLUTION [BAXTER HEALTHCARE CORPORATION]",
+      "upload_date": "2026-09-17"
+    },
+    {
+      "application_numbers": [
+        "NDA216109"
+      ],
+      "brand_names": [
+        "Cefazolin"
+      ],
+      "combination": false,
+      "home_inn": "cefazolin",
+      "ingredients": [
+        "CEFAZOLIN SODIUM"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-03-01",
+      "moieties": [
+        "CEFAZOLIN"
+      ],
+      "product_ndcs": [
+        "0143-9139",
+        "0143-9140"
+      ],
+      "rxcui": [
+        "1665060",
+        "2630753"
+      ],
+      "setid": "6c7761d3-c154-4802-9876-627cd42913f0",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "CEFAZOLIN INJECTION, POWDER, FOR SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2025-06-03"
+    },
+    {
+      "application_numbers": [
+        "NDA216109"
+      ],
+      "brand_names": [
+        "Cefazolin"
+      ],
+      "combination": false,
+      "home_inn": "cefazolin",
+      "ingredients": [
+        "CEFAZOLIN SODIUM"
+      ],
+      "labeler": "Civica, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2026-08-18",
+      "moieties": [
+        "CEFAZOLIN"
+      ],
+      "product_ndcs": [
+        "72572-054"
+      ],
+      "rxcui": [
+        "1665060"
+      ],
+      "setid": "1367568c-7d27-479f-a4c5-58e99942f686",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "CEFAZOLIN INJECTION, POWDER, FOR SOLUTION [CIVICA, INC.]",
+      "upload_date": "2026-08-20"
+    },
+    {
+      "application_numbers": [
+        "ANDA062831"
+      ],
+      "brand_names": [
+        "Cefazolin"
+      ],
+      "combination": false,
+      "home_inn": "cefazolin",
+      "ingredients": [
+        "CEFAZOLIN SODIUM"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1988-12-09",
+      "moieties": [
+        "CEFAZOLIN"
+      ],
+      "product_ndcs": [
+        "0781-3450",
+        "0781-3451"
+      ],
+      "rxcui": [
+        "1665050",
+        "1665052"
+      ],
+      "setid": "18e7366a-1b3e-4010-8f4a-dd559d4f2146",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "CEFAZOLIN INJECTION, POWDER, FOR SOLUTION [SANDOZ INC]",
+      "upload_date": "2026-01-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA065047"
+      ],
+      "brand_names": [
+        "Cefazolin"
+      ],
+      "combination": false,
+      "home_inn": "cefazolin",
+      "ingredients": [
+        "CEFAZOLIN SODIUM"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2001-09-18",
+      "moieties": [
+        "CEFAZOLIN"
+      ],
+      "product_ndcs": [
+        "0143-9923",
+        "0143-9924"
+      ],
+      "rxcui": [
+        "1665050",
+        "1665052"
+      ],
+      "setid": "1dc9de56-e259-4546-a1db-23119a8a088e",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "CEFAZOLIN INJECTION, POWDER, FOR SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2026-05-20"
+    },
+    {
+      "application_numbers": [
+        "ANDA065143"
+      ],
+      "brand_names": [
+        "Cefazolin"
+      ],
+      "combination": false,
+      "home_inn": "cefazolin",
+      "ingredients": [
+        "CEFAZOLIN SODIUM"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2004-10-18",
+      "moieties": [
+        "CEFAZOLIN"
+      ],
+      "product_ndcs": [
+        "0143-9665",
+        "0143-9983"
+      ],
+      "rxcui": [
+        "313920"
+      ],
+      "setid": "06091653-e568-4e82-acc7-aefbce16de17",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "CEFAZOLIN INJECTION, POWDER, FOR SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2024-04-22"
+    },
+    {
+      "application_numbers": [
+        "ANDA065141"
+      ],
+      "brand_names": [
+        "CEFAZOLIN"
+      ],
+      "combination": false,
+      "home_inn": "cefazolin",
+      "ingredients": [
+        "CEFAZOLIN SODIUM"
+      ],
+      "labeler": "Samson Medical Technologies, L.L.C.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2007-01-01",
+      "moieties": [
+        "CEFAZOLIN"
+      ],
+      "product_ndcs": [
+        "66288-1100",
+        "66288-1300"
+      ],
+      "rxcui": [
+        "313920"
+      ],
+      "setid": "cf13db9c-d8a1-489f-9aa0-fc70839d4bbc",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "CEFAZOLIN (CEFAZOLIN SODIUM) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [SAMSON MEDICAL TECHNOLOGIES, L.L.C.]",
+      "upload_date": "2025-01-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA065306"
+      ],
+      "brand_names": [
+        "Cefazolin"
+      ],
+      "combination": false,
+      "home_inn": "cefazolin",
+      "ingredients": [
+        "CEFAZOLIN SODIUM"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-06-14",
+      "moieties": [
+        "CEFAZOLIN"
+      ],
+      "product_ndcs": [
+        "63323-238"
+      ],
+      "rxcui": [
+        "313920"
+      ],
+      "setid": "47a8928f-708d-418a-829b-36eded96bac0",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "CEFAZOLIN (CEFAZOLIN SODIUM) POWDER, FOR SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2020-06-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA065303"
+      ],
+      "brand_names": [
+        "CEFAZOLIN"
+      ],
+      "combination": false,
+      "home_inn": "cefazolin",
+      "ingredients": [
+        "CEFAZOLIN SODIUM"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-07-15",
+      "moieties": [
+        "CEFAZOLIN"
+      ],
+      "product_ndcs": [
+        "63323-236",
+        "63323-237"
+      ],
+      "rxcui": [
+        "1665050",
+        "1665052"
+      ],
+      "setid": "c47c8d14-1eef-40f9-9d11-f0c300b1d4be",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "CEFAZOLIN (CEFAZOLIN SODIUM) POWDER, FOR SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2023-10-19"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Qilu Pharmaceutical Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e8bd9e95-8af5-416b-b58c-e1dbe3d052ac"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "81d1783a-2baa-4d65-856a-f5ce38d24804"
+    },
+    {
+      "combination": false,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e58f87fb-a47d-4081-a454-e4e916e2f629"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "26de1ce9-06a9-486f-b27d-2ac635f018d1"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "570d2583-9ce7-4941-bf7c-6ebc783c0f2b"
+    },
+    {
+      "combination": false,
+      "labeler": "WG Critical Care, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "00dd6da7-50a8-44c9-b2dc-7948973df392"
+    },
+    {
+      "combination": false,
+      "labeler": "WG Critical Care, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1999084a-124c-45f9-801f-416a1b942c96"
+    },
+    {
+      "combination": false,
+      "labeler": "WG Critical Care, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f17160d4-fc42-4f9c-abb8-d04f01ae6dd1"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0422fe47-c372-494f-bac2-612f550b44a4"
+    },
+    {
+      "combination": false,
+      "labeler": "Civica, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9ea55207-6d86-401e-b9b9-73c9534a233f"
+    },
+    {
+      "combination": false,
+      "labeler": "Civica, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c24e604f-16ca-4945-8e9d-277cc67a8c68"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0e8d4462-7642-4296-a605-6c1493e91ffd"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "37a626aa-96dc-4c4d-bfbc-be4f328f918b"
+    }
+  ]
+}

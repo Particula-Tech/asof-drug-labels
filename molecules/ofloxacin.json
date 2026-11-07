@@ -1,0 +1,530 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "OFLOXACIN"
+  ],
+  "inn": "ofloxacin",
+  "name": "OFLOXACIN",
+  "rank": 347,
+  "rxcui": [
+    "198048",
+    "198049",
+    "198050",
+    "207202",
+    "242446",
+    "312075"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 25,
+    "approval_holders": 17,
+    "earliest_marketing_start": "1993-08-01",
+    "latest_label_update": "2026-10-16",
+    "nda_bla_applications": 1,
+    "repackagers": 12
+  },
+  "unii": [
+    {
+      "ingredient": "OFLOXACIN",
+      "unii": "A4P49JAZ9H"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA019921"
+      ],
+      "brand_names": [
+        "OCUFLOX"
+      ],
+      "combination": false,
+      "home_inn": "ofloxacin",
+      "ingredients": [
+        "OFLOXACIN"
+      ],
+      "labeler": "Allergan, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1993-08-01",
+      "moieties": [
+        "OFLOXACIN"
+      ],
+      "product_ndcs": [
+        "11980-779"
+      ],
+      "rxcui": [
+        "207202",
+        "312075"
+      ],
+      "setid": "7aab4449-3dda-4e2c-8e40-b3244a548bf5",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "OCUFLOX (OFLOXACIN) SOLUTION/ DROPS [ALLERGAN, INC.]",
+      "upload_date": "2025-01-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA076513",
+        "ANDA076527"
+      ],
+      "brand_names": [
+        "Ofloxacin",
+        "Ofloxacin Otic"
+      ],
+      "combination": false,
+      "home_inn": "ofloxacin",
+      "ingredients": [
+        "OFLOXACIN"
+      ],
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2004-05-14",
+      "moieties": [
+        "OFLOXACIN"
+      ],
+      "product_ndcs": [
+        "60505-0363",
+        "60505-0560"
+      ],
+      "rxcui": [
+        "242446"
+      ],
+      "setid": "8db221b1-32f3-f6ca-e404-71f56a860d08",
+      "source": "dailymed-title-match",
+      "spl_version": 10,
+      "title": "OFLOXACIN OTIC (OFLOXACIN) SOLUTION [APOTEX CORP.]",
+      "upload_date": "2026-09-16"
+    },
+    {
+      "application_numbers": [
+        "ANDA076622"
+      ],
+      "brand_names": [
+        "Ofloxacin"
+      ],
+      "combination": false,
+      "home_inn": "ofloxacin",
+      "ingredients": [
+        "OFLOXACIN"
+      ],
+      "labeler": "Bausch & Lomb Incorporated",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2004-05-14",
+      "moieties": [
+        "OFLOXACIN"
+      ],
+      "product_ndcs": [
+        "24208-434"
+      ],
+      "rxcui": [
+        "312075"
+      ],
+      "setid": "ad40954d-0b1d-47c5-8bd5-8a1efd9a7153",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "OFLOXACIN SOLUTION/ DROPS [BAUSCH & LOMB INCORPORATED]",
+      "upload_date": "2025-06-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA076128"
+      ],
+      "brand_names": [
+        "Ofloxacin"
+      ],
+      "combination": false,
+      "home_inn": "ofloxacin",
+      "ingredients": [
+        "OFLOXACIN"
+      ],
+      "labeler": "Bausch & Lomb Incorporated",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2008-03-17",
+      "moieties": [
+        "OFLOXACIN"
+      ],
+      "product_ndcs": [
+        "24208-410"
+      ],
+      "rxcui": [
+        "242446"
+      ],
+      "setid": "c5484f1a-2321-453f-9469-dfcf709e2e2e",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "OFLOXACIN SOLUTION [BAUSCH & LOMB INCORPORATED]",
+      "upload_date": "2023-07-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA202692"
+      ],
+      "brand_names": [
+        "Ofloxacin ophthalmic"
+      ],
+      "combination": false,
+      "home_inn": "ofloxacin",
+      "ingredients": [
+        "OFLOXACIN"
+      ],
+      "labeler": "Altaire Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-05-31",
+      "moieties": [
+        "OFLOXACIN"
+      ],
+      "product_ndcs": [
+        "59390-140"
+      ],
+      "rxcui": [
+        "312075"
+      ],
+      "setid": "fe564e33-8f5d-4b57-87a9-7afae02eaf97",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "OFLOXACIN OPHTHALMIC (OFLOXACIN) SOLUTION [ALTAIRE PHARMACEUTICALS INC.]",
+      "upload_date": "2022-11-01"
+    },
+    {
+      "application_numbers": [
+        "ANDA078559"
+      ],
+      "brand_names": [
+        "Ofloxacin"
+      ],
+      "combination": false,
+      "home_inn": "ofloxacin",
+      "ingredients": [
+        "OFLOXACIN"
+      ],
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-12-15",
+      "moieties": [
+        "OFLOXACIN"
+      ],
+      "product_ndcs": [
+        "64980-515"
+      ],
+      "rxcui": [
+        "312075"
+      ],
+      "setid": "c76d8dc7-9a66-471b-814b-ef7f3605ec93",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "OFLOXACIN SOLUTION [RISING PHARMA HOLDINGS, INC.]",
+      "upload_date": "2026-09-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA091656"
+      ],
+      "brand_names": [
+        "OFLOXACIN"
+      ],
+      "combination": false,
+      "home_inn": "ofloxacin",
+      "ingredients": [
+        "OFLOXACIN"
+      ],
+      "labeler": "Cadila Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-12-29",
+      "moieties": [
+        "OFLOXACIN"
+      ],
+      "product_ndcs": [
+        "71209-097",
+        "71209-098",
+        "71209-099"
+      ],
+      "rxcui": [
+        "198048",
+        "198049",
+        "198050"
+      ],
+      "setid": "c677b35c-0432-4ee5-af57-1f95449c48b6",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "OFLOXACIN TABLET, FILM COATED [CADILA PHARMACEUTICALS LIMITED]",
+      "upload_date": "2024-09-20"
+    },
+    {
+      "application_numbers": [
+        "NDA019735"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "FLOXIN"
+      ],
+      "first_posted": "2008-01-31",
+      "found_by": "FLOXIN",
+      "labeler": "Ortho-McNeil Pharmaceuticals",
+      "labeler_unverified": true,
+      "last_posted": "2011-07-06",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2009-01-31"
+      ],
+      "product_ndcs": [
+        "0062-1540",
+        "0062-1541",
+        "0062-1542"
+      ],
+      "rxcui": [],
+      "setid": "2ea193d6-840c-47c1-9f39-68b9fd7e5c79",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "FLOXIN (ofloxacin) tablet, coated"
+    },
+    {
+      "application_numbers": [
+        "NDA020799"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "FLOXIN"
+      ],
+      "first_posted": "2007-05-17",
+      "found_by": "FLOXIN",
+      "labeler": "Daiichi Sankyo Pharma Development",
+      "labeler_unverified": true,
+      "last_posted": "2010-10-29",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2010-09-30"
+      ],
+      "product_ndcs": [
+        "63395-101"
+      ],
+      "rxcui": [],
+      "setid": "aba43378-baef-4ff3-b59c-76ede66b3cd8",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "FLOXIN OTIC (ofloxacin) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA020799"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "FLOXIN"
+      ],
+      "first_posted": "2008-05-07",
+      "found_by": "FLOXIN",
+      "labeler": "Daiichi Sankyo Pharma Development",
+      "labeler_unverified": true,
+      "last_posted": "2010-02-25",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2009-12-31"
+      ],
+      "product_ndcs": [
+        "63395-101"
+      ],
+      "rxcui": [],
+      "setid": "e552ecd6-ca19-419d-85f9-31b2f33b5213",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "FLOXIN OTIC (ofloxacin) solution/ drops"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ba37e2a0-1bf7-41ca-bddd-35fcb77f87de"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2e912ed6-51e8-40c3-bf10-2af092c63be8"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0621700e-6315-47ff-a8ed-cccf7d6fc56a"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "871d63f4-41c1-4b30-903c-11fbf0d4c1f8"
+    },
+    {
+      "combination": false,
+      "labeler": "ARMAS PHARMACEUTICALS INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "07ac850b-a983-fc21-e063-6394a90a21b2"
+    },
+    {
+      "combination": false,
+      "labeler": "Leading Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e43bf505-1030-49cd-a144-19b997fb5575"
+    },
+    {
+      "combination": false,
+      "labeler": "SOLA Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4ca27244-ed70-4868-b2d8-8f97c3a52148"
+    },
+    {
+      "combination": false,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4b2b893d-c19b-4c4a-85de-ff901325080b"
+    },
+    {
+      "combination": false,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "72ad7b86-1d5b-48c9-bb40-319d6c186f1d"
+    },
+    {
+      "combination": false,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0f4ae336-0ad6-4382-b63e-827684c036d9"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5117d567-2004-c5ed-1391-f8831864696f"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7c98c671-aefa-48c3-971a-001f16aa72a8"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b95114f6-6753-4217-b621-44fa34afc298"
+    },
+    {
+      "combination": false,
+      "labeler": "Leading Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7552729e-a41e-4eb1-8b37-b48a86112790"
+    },
+    {
+      "combination": false,
+      "labeler": "Major Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2d7a1f80-1c59-49e6-aff7-aedacade2dd6"
+    },
+    {
+      "combination": false,
+      "labeler": "Caplin Steriles Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2bb61a24-87a6-4e74-a319-fc5e7c483bbb"
+    },
+    {
+      "combination": false,
+      "labeler": "Caplin Steriles Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "53f7ec2e-5b4c-4f8c-b8ba-7f8844e0c01b"
+    },
+    {
+      "combination": false,
+      "labeler": "Modavar Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "93ed9f70-b44f-496b-bdfc-c1bd5f1c260b"
+    }
+  ]
+}

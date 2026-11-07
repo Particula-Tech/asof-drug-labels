@@ -1,0 +1,566 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "DONEPEZIL HYDROCHLORIDE"
+  ],
+  "inn": "donepezil",
+  "name": "DONEPEZIL",
+  "rank": 213,
+  "rxcui": [
+    "997220",
+    "997222",
+    "997223",
+    "997224",
+    "997226",
+    "997228",
+    "997229",
+    "997230",
+    "1100184",
+    "1100187",
+    "1599803",
+    "1599805",
+    "1602588",
+    "1602594",
+    "1805420",
+    "1805422",
+    "1805425",
+    "1805427",
+    "1858970",
+    "1858971"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 24,
+    "approval_holders": 22,
+    "earliest_marketing_start": "1996-11-25",
+    "latest_label_update": "2026-06-30",
+    "nda_bla_applications": 3,
+    "repackagers": 14
+  },
+  "unii": [
+    {
+      "ingredient": "DONEPEZIL HYDROCHLORIDE",
+      "unii": "3O2T2PJ89D"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020690",
+        "NDA022568"
+      ],
+      "brand_names": [
+        "Aricept"
+      ],
+      "combination": false,
+      "home_inn": "donepezil",
+      "ingredients": [
+        "DONEPEZIL HYDROCHLORIDE"
+      ],
+      "labeler": "Eisai Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1996-11-25",
+      "moieties": [
+        "DONEPEZIL"
+      ],
+      "product_ndcs": [
+        "62856-245",
+        "62856-246",
+        "62856-247"
+      ],
+      "rxcui": [
+        "997220",
+        "997222",
+        "997223",
+        "997224",
+        "997226",
+        "997228",
+        "997229",
+        "997230",
+        "1100184",
+        "1100187"
+      ],
+      "setid": "98e451e1-e4d7-4439-a675-c5457ba20975",
+      "source": "openfda",
+      "spl_version": 33,
+      "title": "ARICEPT (DONEPEZIL HYDROCHLORIDE) TABLET, FILM COATED ARICEPT ODT (DONEPEZIL HYDROCHLORIDE) TABLET, ORALLY DISINTEGRATING [EISAI INC.]",
+      "upload_date": "2026-06-30"
+    },
+    {
+      "application_numbers": [
+        "NDA206439"
+      ],
+      "brand_names": [
+        "Namzaric"
+      ],
+      "combination": true,
+      "home_inn": "memantine",
+      "ingredients": [
+        "DONEPEZIL HYDROCHLORIDE",
+        "MEMANTINE HYDROCHLORIDE"
+      ],
+      "labeler": "Allergan, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2014-12-24",
+      "moieties": [
+        "DONEPEZIL",
+        "MEMANTINE"
+      ],
+      "product_ndcs": [
+        "0456-1207",
+        "0456-1214",
+        "0456-1221",
+        "0456-1228"
+      ],
+      "rxcui": [
+        "1599803",
+        "1599805",
+        "1602588",
+        "1602594",
+        "1805420",
+        "1805422",
+        "1805425",
+        "1805427",
+        "1858970",
+        "1858971"
+      ],
+      "setid": "90fedc32-19e5-480c-afc6-f35a5cf4b9aa",
+      "source": "openfda",
+      "spl_version": 23,
+      "title": "NAMZARIC (MEMANTINE HYDROCHLORIDE AND DONEPEZIL HYDROCHLORIDE) CAPSULE NAMZARIC (MEMANTINE HYDROCHLORIDE AND DONEPEZIL HYDROCHLORIDE) KIT [ALLERGAN, INC.]",
+      "upload_date": "2026-05-06"
+    },
+    {
+      "application_numbers": [
+        "ANDA090056"
+      ],
+      "brand_names": [
+        "Donepezil Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "donepezil",
+      "ingredients": [
+        "DONEPEZIL HYDROCHLORIDE"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-05-31",
+      "moieties": [
+        "DONEPEZIL"
+      ],
+      "product_ndcs": [
+        "65862-325",
+        "65862-326"
+      ],
+      "rxcui": [
+        "997223",
+        "997229"
+      ],
+      "setid": "3257494f-8f44-4978-b92d-bde87b2444b6",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "DONEPEZIL HYDROCHLORIDE TABLET, FILM COATED [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2024-01-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA090686"
+      ],
+      "brand_names": [
+        "Donepezil Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "donepezil",
+      "ingredients": [
+        "DONEPEZIL HYDROCHLORIDE"
+      ],
+      "labeler": "Torrent Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-05-31",
+      "moieties": [
+        "DONEPEZIL"
+      ],
+      "product_ndcs": [
+        "13668-102",
+        "13668-103"
+      ],
+      "rxcui": [
+        "997223",
+        "997229"
+      ],
+      "setid": "76bf638e-dbde-418e-8977-1caf009990bc",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "DONEPEZIL HYDROCHLORIDE TABLET, FILM COATED [TORRENT PHARMACEUTICALS LIMITED]",
+      "upload_date": "2026-02-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA200292"
+      ],
+      "brand_names": [
+        "donepezil hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "donepezil",
+      "ingredients": [
+        "DONEPEZIL HYDROCHLORIDE"
+      ],
+      "labeler": "Solco Healthcare US, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-11-01",
+      "moieties": [
+        "DONEPEZIL"
+      ],
+      "product_ndcs": [
+        "43547-275",
+        "43547-276"
+      ],
+      "rxcui": [
+        "997223",
+        "997229"
+      ],
+      "setid": "042a59ea-131a-4806-b0f4-2f791d4414e2",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "DONEPEZIL HYDROCHLORIDE TABLET, FILM COATED [SOLCO HEALTHCARE US, LLC]",
+      "upload_date": "2025-08-01"
+    },
+    {
+      "application_numbers": [
+        "ANDA201146",
+        "ANDA201787",
+        "ANDA202631"
+      ],
+      "brand_names": [
+        "Donepezil Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "donepezil",
+      "ingredients": [
+        "DONEPEZIL HYDROCHLORIDE"
+      ],
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-08-17",
+      "moieties": [
+        "DONEPEZIL"
+      ],
+      "product_ndcs": [
+        "33342-027",
+        "33342-028",
+        "33342-029",
+        "33342-030",
+        "33342-061"
+      ],
+      "rxcui": [
+        "997220",
+        "997223",
+        "997226",
+        "997229",
+        "1100184"
+      ],
+      "setid": "06dd25a5-1bf2-446d-ad75-ff9d55117660",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "DONEPEZIL HYDROCHLORIDE TABLET, FILM COATED DONEPEZIL HYDROCHLORIDE TABLET, ORALLY DISINTEGRATING [MACLEODS PHARMACEUTICALS LIMITED]",
+      "upload_date": "2023-08-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA203907"
+      ],
+      "brand_names": [
+        "Donepezil Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "donepezil",
+      "ingredients": [
+        "DONEPEZIL HYDROCHLORIDE"
+      ],
+      "labeler": "ScieGen Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-10-29",
+      "moieties": [
+        "DONEPEZIL"
+      ],
+      "product_ndcs": [
+        "50228-139",
+        "50228-140"
+      ],
+      "rxcui": [
+        "997223",
+        "997229"
+      ],
+      "setid": "6e9aacf9-abb6-4dec-9a8d-4eabf934d512",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "DONEPEZIL HYDROCHLORIDE TABLET, FILM COATED [SCIEGEN PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-02-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA203034"
+      ],
+      "brand_names": [
+        "Donepezil"
+      ],
+      "combination": false,
+      "home_inn": "donepezil",
+      "ingredients": [
+        "DONEPEZIL HYDROCHLORIDE"
+      ],
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-02-02",
+      "moieties": [
+        "DONEPEZIL"
+      ],
+      "product_ndcs": [
+        "31722-737",
+        "31722-738"
+      ],
+      "rxcui": [
+        "997223",
+        "997229"
+      ],
+      "setid": "11ac01f4-d26e-47b2-9660-d514ab097fdb",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "DONEPEZIL (DONEPEZIL HYDROCHLORIDE) TABLET [CAMBER PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-01-09"
+    },
+    {
+      "application_numbers": [
+        "NDA212304"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "ADLARITY"
+      ],
+      "first_posted": "2022-03-28",
+      "found_by": "ADLARITY",
+      "labeler": "Corium, LLC.",
+      "labeler_unverified": false,
+      "last_posted": "2025-12-22",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-09-19"
+      ],
+      "product_ndcs": [
+        "65038-055",
+        "65038-056"
+      ],
+      "rxcui": [],
+      "setid": "1cb44c65-00e8-4b5c-99c2-ad15173115a0",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ADLARITY (donepezil hydrochloride) patch"
+    },
+    {
+      "application_numbers": [
+        "NDA022568"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "ARICEPT"
+      ],
+      "first_posted": "2010-07-16",
+      "found_by": "ARICEPT",
+      "labeler": "Eisai Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2010-07-16",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "62856-247"
+      ],
+      "rxcui": [],
+      "setid": "b02e6eae-216e-4012-a4ae-145a5eccf168",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "98e451e1-e4d7-4439-a675-c5457ba20975"
+      ],
+      "title": "ARICEPT (donepezil hydrochloride) tablet, film coated, extended release"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "12a755c5-1ad9-43d1-832a-eb2ff17bd693"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "79ad107b-bb20-4ed3-89f0-d7c862f3957c"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "03e26183-3e07-45e8-a414-a8bad32483e2"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9407258b-60ed-4884-a903-885aeedaddf8"
+    },
+    {
+      "combination": false,
+      "labeler": "Edenbridge Pharmaceuticals LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "11404dc3-1bde-4d4e-8386-006b67ee19dd"
+    },
+    {
+      "combination": false,
+      "labeler": "Unichem Pharmaceuticals (USA), Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1a8906ce-96dc-4bc8-81c1-5db67a187aac"
+    },
+    {
+      "combination": false,
+      "labeler": "Cadila Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "37aa1285-774a-4714-a4af-4e3fa9fa7f55"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddys Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7c0d3bcb-157d-0414-64ee-055bc614d190"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2335950c-be3b-4248-ad04-e9763aee47d2"
+    },
+    {
+      "combination": true,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c42a995d-cd0f-466c-8f47-43c7f32d9675"
+    },
+    {
+      "combination": true,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3d9a23dc-8cbe-47c3-a048-70d86cb9dc14"
+    },
+    {
+      "combination": true,
+      "labeler": "Vitruvias Therapeutics, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c888a2b2-92c6-46ae-99ea-21de616208b6"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "86b0c5a0-ff3c-4840-a4ac-82af922d58bf"
+    },
+    {
+      "combination": false,
+      "labeler": "Solco Healthcare US, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "48178cb4-4fee-47c0-88e9-a4f017f1f448"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bc570682-413b-46fb-a069-c2986884bfce"
+    },
+    {
+      "combination": false,
+      "labeler": "Quallent Pharmaceuticals Health LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c7e1f642-1bdc-4ed6-9b9e-c1af40b926cd"
+    }
+  ]
+}

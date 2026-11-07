@@ -1,0 +1,750 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand ZOMETA",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000336",
+      "eu_number": "EU/1/01/176",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000336",
+      "mah": "Phoenix Labs Unlimited Company",
+      "marketing_authorisation_date": "2001-03-20",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/zometa",
+      "name": "Zometa",
+      "record_from": "2001-03-20",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 28
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/000595",
+      "eu_number": "EU/1/05/308",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-000595",
+      "mah": "Sandoz Pharmaceuticals d.d.",
+      "marketing_authorisation_date": "2005-04-15",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/aclasta",
+      "name": "Aclasta",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/002439",
+      "eu_number": "EU/1/12/771",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-002439",
+      "mah": "Teva B.V.",
+      "marketing_authorisation_date": "2012-08-16",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/zoledronic-acid-teva",
+      "name": "Zoledronic acid Teva",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/002482",
+      "eu_number": "EU/1/12/786",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-002482",
+      "mah": "Mylan Pharmaceuticals Limited",
+      "marketing_authorisation_date": "2012-08-23",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/zoledronic-acid-mylan",
+      "name": "Zoledronic acid Mylan",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/002667",
+      "eu_number": "EU/1/13/834",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-002667",
+      "mah": "Accord Healthcare S.L.U.",
+      "marketing_authorisation_date": "2014-01-16",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/zoledronic-acid-accord",
+      "name": "Zoledronic Acid Accord",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000336",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "ZOLEDRONIC ACID"
+  ],
+  "inn": "zoledronic-acid",
+  "name": "ZOLEDRONIC ACID",
+  "rank": 267,
+  "rxcui": [
+    "351114",
+    "705824",
+    "705875",
+    "1114085"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 34,
+    "approval_holders": 20,
+    "earliest_marketing_start": "2007-04-01",
+    "latest_label_update": "2026-10-14",
+    "nda_bla_applications": 2,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "ZOLEDRONIC ACID",
+      "unii": "6XC1PAD3KF"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021817"
+      ],
+      "brand_names": [
+        "Reclast"
+      ],
+      "combination": false,
+      "home_inn": "zoledronic-acid",
+      "ingredients": [
+        "ZOLEDRONIC ACID"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2007-04-01",
+      "moieties": [
+        "ZOLEDRONIC ACID"
+      ],
+      "product_ndcs": [
+        "66758-155"
+      ],
+      "rxcui": [
+        "705824",
+        "705875"
+      ],
+      "setid": "5a9b3737-9ce6-4a89-b76e-6aab79eba9cf",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "RECLAST (ZOLEDRONIC ACID) INJECTION, SOLUTION [SANDOZ INC]",
+      "upload_date": "2026-02-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA202828",
+        "NDA203231"
+      ],
+      "brand_names": [
+        "zoledronic acid"
+      ],
+      "combination": false,
+      "home_inn": "zoledronic-acid",
+      "ingredients": [
+        "ZOLEDRONIC ACID"
+      ],
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA",
+        "NDA"
+      ],
+      "marketing_start": "2013-03-02",
+      "moieties": [
+        "ZOLEDRONIC ACID"
+      ],
+      "product_ndcs": [
+        "25021-826",
+        "25021-830"
+      ],
+      "rxcui": [
+        "1114085"
+      ],
+      "setid": "567578e6-cd2d-4339-b0f6-7a15444c0639",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "ZOLEDRONIC ACID INJECTION, SOLUTION [SAGENT PHARMACEUTICALS]",
+      "upload_date": "2025-03-25"
+    },
+    {
+      "application_numbers": [
+        "ANDA202828",
+        "NDA203231"
+      ],
+      "brand_names": [
+        "zoledronic acid"
+      ],
+      "combination": false,
+      "home_inn": "zoledronic-acid",
+      "ingredients": [
+        "ZOLEDRONIC ACID"
+      ],
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA",
+        "NDA"
+      ],
+      "marketing_start": "2013-03-02",
+      "moieties": [
+        "ZOLEDRONIC ACID"
+      ],
+      "product_ndcs": [
+        "25021-826",
+        "25021-830"
+      ],
+      "rxcui": [
+        "1114085"
+      ],
+      "setid": "deb89be7-f40e-4fd4-a2cb-96634b45da84",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "ZOLEDRONIC ACID INJECTION, SOLUTION [SAGENT PHARMACEUTICALS]",
+      "upload_date": "2022-03-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA202828"
+      ],
+      "brand_names": [
+        "zoledronic acid"
+      ],
+      "combination": false,
+      "home_inn": "zoledronic-acid",
+      "ingredients": [
+        "ZOLEDRONIC ACID"
+      ],
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-03-02",
+      "moieties": [
+        "ZOLEDRONIC ACID"
+      ],
+      "product_ndcs": [
+        "25021-830"
+      ],
+      "rxcui": [
+        "705824"
+      ],
+      "setid": "164500d7-51cf-438a-8bee-7a7dce76ad7a",
+      "source": "dailymed-title-match",
+      "spl_version": 22,
+      "title": "ZOLEDRONIC ACID INJECTION, SOLUTION [SAGENT PHARMACEUTICALS]",
+      "upload_date": "2026-10-14"
+    },
+    {
+      "application_numbers": [
+        "ANDA091186"
+      ],
+      "brand_names": [
+        "Zoledronic Acid"
+      ],
+      "combination": false,
+      "home_inn": "zoledronic-acid",
+      "ingredients": [
+        "ZOLEDRONIC ACID"
+      ],
+      "labeler": "Dr. Reddy's Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-03-04",
+      "moieties": [
+        "ZOLEDRONIC ACID"
+      ],
+      "product_ndcs": [
+        "55111-685"
+      ],
+      "rxcui": [
+        "351114"
+      ],
+      "setid": "1738a682-5903-b675-3a7a-61d299a6f248",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "ZOLEDRONIC ACID INJECTION, SOLUTION, CONCENTRATE [DR. REDDY'S LABORATORIES LIMITED]",
+      "upload_date": "2024-01-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA091363"
+      ],
+      "brand_names": [
+        "Zoledronic Acid"
+      ],
+      "combination": false,
+      "home_inn": "zoledronic-acid",
+      "ingredients": [
+        "ZOLEDRONIC ACID"
+      ],
+      "labeler": "Dr.Reddy's Laboratories Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-04-03",
+      "moieties": [
+        "ZOLEDRONIC ACID"
+      ],
+      "product_ndcs": [
+        "55111-688"
+      ],
+      "rxcui": [
+        "705824"
+      ],
+      "setid": "f94a5c9e-74bc-d09e-cd65-394b2a5de2ad",
+      "source": "dailymed-title-match",
+      "spl_version": 21,
+      "title": "ZOLEDRONIC ACID (ZOLEDRONIC ACID ) INJECTION, SOLUTION [DR.REDDY'S LABORATORIES LTD]",
+      "upload_date": "2026-09-16"
+    },
+    {
+      "application_numbers": [
+        "ANDA202182"
+      ],
+      "brand_names": [
+        "Zoledronic Acid"
+      ],
+      "combination": false,
+      "home_inn": "zoledronic-acid",
+      "ingredients": [
+        "ZOLEDRONIC ACID"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-06-03",
+      "moieties": [
+        "ZOLEDRONIC ACID"
+      ],
+      "product_ndcs": [
+        "0143-9642"
+      ],
+      "rxcui": [
+        "351114"
+      ],
+      "setid": "784d33fa-0046-42eb-894b-3fc47dcfd4dc",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "ZOLEDRONIC ACID INJECTION, SOLUTION, CONCENTRATE [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2022-05-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA202930"
+      ],
+      "brand_names": [
+        "Zoledronic Acid"
+      ],
+      "combination": false,
+      "home_inn": "zoledronic-acid",
+      "ingredients": [
+        "ZOLEDRONIC ACID"
+      ],
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-09-20",
+      "moieties": [
+        "ZOLEDRONIC ACID"
+      ],
+      "product_ndcs": [
+        "68083-116",
+        "68083-615"
+      ],
+      "rxcui": [
+        "351114"
+      ],
+      "setid": "7a5e8962-7c4b-40bb-ad69-0c3edb0338af",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "ZOLEDRONIC ACID INJECTION, SOLUTION, CONCENTRATE [GLAND PHARMA LIMITED]",
+      "upload_date": "2023-11-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA202650"
+      ],
+      "brand_names": [
+        "Zoledronic acid"
+      ],
+      "combination": false,
+      "home_inn": "zoledronic-acid",
+      "ingredients": [
+        "ZOLEDRONIC ACID"
+      ],
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-03-10",
+      "moieties": [
+        "ZOLEDRONIC ACID"
+      ],
+      "product_ndcs": [
+        "67457-390"
+      ],
+      "rxcui": [
+        "351114"
+      ],
+      "setid": "20cd29cc-cef5-48c4-adfe-6b3dfee0ab61",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "ZOLEDRONIC ACID INJECTION, SOLUTION, CONCENTRATE [MYLAN INSTITUTIONAL LLC]",
+      "upload_date": "2026-02-23"
+    },
+    {
+      "application_numbers": [
+        "NDA021817"
+      ],
+      "archived_versions": 21,
+      "brand_names": [
+        "RECLAST"
+      ],
+      "first_posted": "2008-06-27",
+      "found_by": "RECLAST",
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2025-09-11",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-10-31"
+      ],
+      "product_ndcs": [
+        "0078-0435"
+      ],
+      "rxcui": [],
+      "setid": "3c79ff9c-a6f4-405d-b19c-7e473a61dedc",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "5a9b3737-9ce6-4a89-b76e-6aab79eba9cf"
+      ],
+      "title": "RECLAST (zoledronic acid) injection, solution"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "RECLAST"
+      ],
+      "first_posted": "2007-09-21",
+      "found_by": "RECLAST",
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2007-09-21",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0078-0435"
+      ],
+      "rxcui": [],
+      "setid": "a0cdb32c-2d9b-462e-b1ef-5168fa762b56",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "reclast (zoledronic acid) injection for intravenous use"
+    },
+    {
+      "application_numbers": [
+        "NDA021223"
+      ],
+      "archived_versions": 20,
+      "brand_names": [
+        "ZOMETA"
+      ],
+      "first_posted": "2008-06-12",
+      "found_by": "ZOMETA",
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2020-06-29",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2020-11-30"
+      ],
+      "product_ndcs": [
+        "0078-0387"
+      ],
+      "rxcui": [],
+      "setid": "f0cdfa57-95e5-416b-bc2f-cde2491c2fd0",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ZOMETA (zoledronic acid) injection, solution, concentrate"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f3f9de47-3d85-4d0c-a29e-1635cad3a970"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "824eaeee-6b3d-4d62-b268-77f8bd8e7f10"
+    },
+    {
+      "combination": false,
+      "labeler": "AuroMedics Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ac7ff1eb-6e73-4cc8-9114-c5a4483ad4c3"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d761011b-edd6-4d3f-bacd-8607dc2414fc"
+    },
+    {
+      "combination": false,
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1977d713-4cc7-405e-b4c1-a9a91635eff6"
+    },
+    {
+      "combination": false,
+      "labeler": "Accord Healthcare Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3df715a1-2562-4374-a383-6edc33c6e52f"
+    },
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bf5f96d4-f87c-4968-bed0-a4b5e77f4162"
+    },
+    {
+      "combination": false,
+      "labeler": "BPI Labs LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "634e9d4b-e940-4743-ad39-794dad28d79b"
+    },
+    {
+      "combination": false,
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "80006f10-85a3-4390-b5dc-3b2097134f3d"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1740d7d8-a101-4688-8d8b-beb00559d602"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b165df31-52f0-d67f-71e7-f3b4f18d2f15"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8aac81ae-f92c-4f0b-b480-44badf72b5f5"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "00a5bd5a-e5ee-4bad-b510-a4d4485485c8"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "46c3a880-3723-45cf-979e-57ef6391662e"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Laboratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bbb29627-76b5-e742-0e79-ef3bf22021b8"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr.Reddy's Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c8e02635-4473-8ba2-248f-ced58dbeabce"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "16fcf8c9-ef8a-4e93-9ee6-acfadd35a861"
+    },
+    {
+      "combination": false,
+      "labeler": "Westminster Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6a153c94-3cb5-4c05-98b2-1e18f5f3fe80"
+    },
+    {
+      "combination": false,
+      "labeler": "FOSUN PHARMA USA INC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fd0324d8-b9bd-fd4c-e053-6394a90a5465"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Laboratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "72623e70-9db3-f1b8-de7d-c1a61d71fb01"
+    },
+    {
+      "combination": false,
+      "labeler": "NORTHSTAR RX LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3885488c-6b83-421b-afee-61abceb95634"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f433c13c-dd8c-4dca-834e-a4ecf09d1eab"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5de65a7f-a219-4b22-9155-61fedc84433b"
+    },
+    {
+      "combination": false,
+      "labeler": "Avenacy Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4b699dd8-d232-4bdb-88ce-9b42ed93e036"
+    },
+    {
+      "combination": false,
+      "labeler": "BPI Labs LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1b556f75-9174-4798-8c8d-21cf34beac13"
+    }
+  ]
+}

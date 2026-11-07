@@ -1,0 +1,516 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "CLOZAPINE"
+  ],
+  "inn": "clozapine",
+  "name": "CLOZAPINE",
+  "rank": 428,
+  "rxcui": [
+    "104775",
+    "104776",
+    "197535",
+    "197536",
+    "309374",
+    "429212",
+    "476177",
+    "476179",
+    "721773",
+    "996921",
+    "1006801",
+    "1369825",
+    "1369831"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 9,
+    "approval_holders": 7,
+    "earliest_marketing_start": "1999-07-08",
+    "latest_label_update": "2026-09-08",
+    "nda_bla_applications": 2,
+    "repackagers": 5
+  },
+  "unii": [
+    {
+      "ingredient": "CLOZAPINE",
+      "unii": "J60AR2IKIC"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA019758"
+      ],
+      "brand_names": [
+        "Clozaril"
+      ],
+      "combination": false,
+      "home_inn": "clozapine",
+      "ingredients": [
+        "CLOZAPINE"
+      ],
+      "labeler": "HLS Therapeutics (USA), Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2016-05-06",
+      "moieties": [
+        "CLOZAPINE"
+      ],
+      "product_ndcs": [
+        "69809-0126",
+        "69809-0127"
+      ],
+      "rxcui": [
+        "104775",
+        "104776",
+        "197535",
+        "197536"
+      ],
+      "setid": "90876802-0e3a-44c9-9ff7-1754dfbe736a",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "CLOZARIL (CLOZAPINE) TABLET [HLS THERAPEUTICS (USA), INC.]",
+      "upload_date": "2025-06-30"
+    },
+    {
+      "application_numbers": [
+        "NDA203479"
+      ],
+      "brand_names": [
+        "VERSACLOZ"
+      ],
+      "combination": false,
+      "home_inn": "clozapine",
+      "ingredients": [
+        "CLOZAPINE"
+      ],
+      "labeler": "TruPharma LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-06-15",
+      "moieties": [
+        "CLOZAPINE"
+      ],
+      "product_ndcs": [
+        "52817-601"
+      ],
+      "rxcui": [
+        "1369825",
+        "1369831"
+      ],
+      "setid": "2592c9a8-fd74-4e0d-a895-b07b014cf355",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "VERSACLOZ (CLOZAPINE) SUSPENSION [TRUPHARMA LLC]",
+      "upload_date": "2026-09-08"
+    },
+    {
+      "application_numbers": [
+        "ANDA075417"
+      ],
+      "brand_names": [
+        "Clozapine"
+      ],
+      "combination": false,
+      "home_inn": "clozapine",
+      "ingredients": [
+        "CLOZAPINE"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1999-07-08",
+      "moieties": [
+        "CLOZAPINE"
+      ],
+      "product_ndcs": [
+        "0378-0825",
+        "0378-0860",
+        "0378-0972",
+        "0378-0973"
+      ],
+      "rxcui": [
+        "197535",
+        "197536",
+        "309374",
+        "429212"
+      ],
+      "setid": "883b5d43-0339-7dc1-f775-93791fb9b978",
+      "source": "openfda",
+      "spl_version": 35,
+      "title": "CLOZAPINE TABLET [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2026-05-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA201824"
+      ],
+      "brand_names": [
+        "Clozapine"
+      ],
+      "combination": false,
+      "home_inn": "clozapine",
+      "ingredients": [
+        "CLOZAPINE"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-11-02",
+      "moieties": [
+        "CLOZAPINE"
+      ],
+      "product_ndcs": [
+        "0378-3813",
+        "0378-3815",
+        "0378-3816",
+        "0378-3817"
+      ],
+      "rxcui": [
+        "476177",
+        "476179",
+        "996921",
+        "1006801"
+      ],
+      "setid": "9ae4b8e4-d8b1-4f01-bb4c-cd1cea90b219",
+      "source": "openfda",
+      "spl_version": 26,
+      "title": "CLOZAPINE TABLET, ORALLY DISINTEGRATING [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2026-03-31"
+    },
+    {
+      "application_numbers": [
+        "ANDA206433"
+      ],
+      "brand_names": [
+        "CLOZAPINE"
+      ],
+      "combination": false,
+      "home_inn": "clozapine",
+      "ingredients": [
+        "CLOZAPINE"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-11-29",
+      "moieties": [
+        "CLOZAPINE"
+      ],
+      "product_ndcs": [
+        "65862-844",
+        "65862-845",
+        "65862-846",
+        "65862-847"
+      ],
+      "rxcui": [
+        "197535",
+        "197536",
+        "309374",
+        "429212"
+      ],
+      "setid": "5021d643-32d2-4167-b5d8-90870e68a787",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "CLOZAPINE TABLET [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2025-12-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA202873"
+      ],
+      "brand_names": [
+        "Clozapine"
+      ],
+      "combination": false,
+      "home_inn": "clozapine",
+      "ingredients": [
+        "CLOZAPINE"
+      ],
+      "labeler": "Accord Healthcare Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-04-10",
+      "moieties": [
+        "CLOZAPINE"
+      ],
+      "product_ndcs": [
+        "16729-141",
+        "16729-142"
+      ],
+      "rxcui": [
+        "197535",
+        "197536"
+      ],
+      "setid": "25c0c6d5-f7b0-48e4-e054-00144ff8d46c",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "CLOZAPINE TABLET [ACCORD HEALTHCARE INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA090308"
+      ],
+      "brand_names": [
+        "Clozapine"
+      ],
+      "combination": false,
+      "home_inn": "clozapine",
+      "ingredients": [
+        "CLOZAPINE"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-07-25",
+      "moieties": [
+        "CLOZAPINE"
+      ],
+      "product_ndcs": [
+        "0093-5376",
+        "0093-5377",
+        "0093-5416",
+        "0093-5417",
+        "0093-5419"
+      ],
+      "rxcui": [
+        "476177",
+        "476179",
+        "721773",
+        "996921",
+        "1006801"
+      ],
+      "setid": "6fccf4f7-2e30-4272-9800-225aaef20584",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "CLOZAPINE TABLET, ORALLY DISINTEGRATING [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2025-06-26"
+    },
+    {
+      "application_numbers": [
+        "ANDA212923"
+      ],
+      "brand_names": [
+        "Clozapine"
+      ],
+      "combination": false,
+      "home_inn": "clozapine",
+      "ingredients": [
+        "CLOZAPINE"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-12-12",
+      "moieties": [
+        "CLOZAPINE"
+      ],
+      "product_ndcs": [
+        "59651-260",
+        "59651-261",
+        "59651-262",
+        "59651-263",
+        "59651-264"
+      ],
+      "rxcui": [
+        "476177",
+        "476179",
+        "721773",
+        "996921",
+        "1006801"
+      ],
+      "setid": "caf2d4a6-2a23-4992-a807-560c4204afc4",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "CLOZAPINE TABLET, ORALLY DISINTEGRATING [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2025-06-17"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "FAZACLO"
+      ],
+      "first_posted": "2008-03-13",
+      "found_by": "FAZACLO",
+      "labeler": "Avanir Pharmaceuticals",
+      "labeler_unverified": false,
+      "last_posted": "2008-03-13",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "64597-101",
+        "64597-102",
+        "64597-103",
+        "64597-104",
+        "68322-001",
+        "68322-002"
+      ],
+      "rxcui": [],
+      "setid": "2aac98d1-99c5-46cf-89ff-b29e1d000127",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "fazaclo (clozapine) tablet, orally disintegrating"
+    },
+    {
+      "application_numbers": [
+        "NDA019758"
+      ],
+      "archived_versions": 15,
+      "brand_names": [
+        "CLOZARIL"
+      ],
+      "first_posted": "2008-09-04",
+      "found_by": "CLOZARIL",
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2017-12-21",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-03-31",
+        "2017-09-30"
+      ],
+      "product_ndcs": [
+        "0078-0126",
+        "0078-0127"
+      ],
+      "rxcui": [],
+      "setid": "5f0c6f5f-b906-4c8f-8580-3939a476a1c1",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "90876802-0e3a-44c9-9ff7-1754dfbe736a"
+      ],
+      "title": "CLOZARIL (clozapine) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA203479"
+      ],
+      "archived_versions": 9,
+      "brand_names": [
+        "VERSACLOZ"
+      ],
+      "first_posted": "2013-02-22",
+      "found_by": "VERSACLOZ",
+      "labeler": "Jazz Pharmaceuticals, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2019-01-30",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-05-31"
+      ],
+      "product_ndcs": [
+        "18860-121"
+      ],
+      "rxcui": [],
+      "setid": "693cb9d4-39db-4ecf-9eae-b01f06f8d5d1",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "2592c9a8-fd74-4e0d-a895-b07b014cf355"
+      ],
+      "title": "VERSACLOZ (clozapine) suspension"
+    },
+    {
+      "application_numbers": [
+        "NDA021590"
+      ],
+      "archived_versions": 23,
+      "brand_names": [
+        "FAZACLO"
+      ],
+      "first_posted": "2008-09-11",
+      "found_by": "FAZACLO",
+      "labeler": "Jazz Pharmaceuticals, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2020-11-09",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2020-03-31",
+        "2020-08-31",
+        "2021-02-28",
+        "2021-09-30"
+      ],
+      "product_ndcs": [
+        "18860-101",
+        "18860-102",
+        "18860-104",
+        "18860-105",
+        "18860-106"
+      ],
+      "rxcui": [],
+      "setid": "b7b7541a-1fe4-4b11-b6b7-68fb5510faa4",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "FAZACLO (clozapine) tablet, orally disintegrating"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "FAZACLO"
+      ],
+      "first_posted": "2007-06-29",
+      "found_by": "FAZACLO",
+      "labeler": "Avanir Pharmaceuticals",
+      "labeler_unverified": false,
+      "last_posted": "2007-06-29",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "64597-101",
+        "64597-102",
+        "64597-103",
+        "64597-104",
+        "68322-001",
+        "68322-002"
+      ],
+      "rxcui": [],
+      "setid": "l2aac98d1-99c5-46cf-89ff-b29e1d000127",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "fazaclo (clozapine) tablet, orally disintegrating"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "61fe53d5-ed5c-4e45-9189-709d08d386cb"
+    }
+  ]
+}

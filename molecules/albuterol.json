@@ -1,0 +1,1098 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "ALBUTEROL SULFATE"
+  ],
+  "inn": "albuterol",
+  "name": "ALBUTEROL",
+  "rank": 109,
+  "rxcui": [
+    "197316",
+    "197318",
+    "351136",
+    "351137",
+    "801092",
+    "801095",
+    "859088",
+    "1190220",
+    "1190225",
+    "1649560",
+    "1649961",
+    "2123072",
+    "2123076",
+    "2123111",
+    "2166796",
+    "2166797",
+    "2665906",
+    "2665912",
+    "2678391",
+    "2678392"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 59,
+    "approval_holders": 29,
+    "earliest_marketing_start": "1989-12-05",
+    "latest_label_update": "2026-10-21",
+    "nda_bla_applications": 4,
+    "repackagers": 17
+  },
+  "unii": [
+    {
+      "ingredient": "ALBUTEROL SULFATE",
+      "unii": "021SEF3731"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020983"
+      ],
+      "brand_names": [
+        "VENTOLIN HFA"
+      ],
+      "combination": false,
+      "home_inn": "albuterol",
+      "ingredients": [
+        "ALBUTEROL SULFATE"
+      ],
+      "labeler": "GlaxoSmithKline LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2006-06-09",
+      "moieties": [
+        "ALBUTEROL"
+      ],
+      "product_ndcs": [
+        "0173-0682"
+      ],
+      "rxcui": [
+        "801092",
+        "801095",
+        "859088",
+        "2123076"
+      ],
+      "setid": "d92c5d6b-ff10-4087-36a2-1cfc464cb967",
+      "source": "openfda",
+      "spl_version": 30,
+      "title": "VENTOLIN HFA (ALBUTEROL SULFATE) AEROSOL, METERED [GLAXOSMITHKLINE LLC]",
+      "upload_date": "2026-04-06"
+    },
+    {
+      "application_numbers": [
+        "NDA205636"
+      ],
+      "brand_names": [
+        "ProAir RespiClick"
+      ],
+      "combination": false,
+      "home_inn": "albuterol",
+      "ingredients": [
+        "ALBUTEROL SULFATE"
+      ],
+      "labeler": "Teva Respiratory, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-04-23",
+      "moieties": [
+        "ALBUTEROL"
+      ],
+      "product_ndcs": [
+        "59310-580"
+      ],
+      "rxcui": [
+        "1649560",
+        "1649961"
+      ],
+      "setid": "9324e2eb-26fd-4f14-9f10-e5aa467306f4",
+      "source": "dailymed-title-match",
+      "spl_version": 12,
+      "title": "PROAIR RESPICLICK (ALBUTEROL SULFATE) POWDER, METERED [TEVA RESPIRATORY, LLC]",
+      "upload_date": "2026-09-14"
+    },
+    {
+      "application_numbers": [
+        "NDA021747"
+      ],
+      "brand_names": [
+        "Combivent Respimat"
+      ],
+      "combination": true,
+      "home_inn": "albuterol",
+      "ingredients": [
+        "ALBUTEROL SULFATE",
+        "IPRATROPIUM BROMIDE"
+      ],
+      "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2012-07-01",
+      "moieties": [
+        "ALBUTEROL",
+        "IPRATROPIUM"
+      ],
+      "product_ndcs": [
+        "0597-0024"
+      ],
+      "rxcui": [
+        "1190220",
+        "1190225"
+      ],
+      "setid": "9832312e-0310-4ab6-8501-afa976fc7eb2",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "COMBIVENT RESPIMAT (IPRATROPIUM BROMIDE AND ALBUTEROL) SPRAY, METERED [BOEHRINGER INGELHEIM PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-12-04"
+    },
+    {
+      "application_numbers": [
+        "NDA214070"
+      ],
+      "brand_names": [
+        "AIRSUPRA"
+      ],
+      "combination": true,
+      "home_inn": "budesonide",
+      "ingredients": [
+        "ALBUTEROL SULFATE",
+        "BUDESONIDE"
+      ],
+      "labeler": "AstraZeneca Pharmaceuticals LP",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-10-02",
+      "moieties": [
+        "ALBUTEROL",
+        "BUDESONIDE"
+      ],
+      "product_ndcs": [
+        "0310-9080"
+      ],
+      "rxcui": [
+        "2665906",
+        "2665912",
+        "2678391",
+        "2678392"
+      ],
+      "setid": "e60aa9f9-5139-44df-b886-ebddc3c7eb13",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "AIRSUPRA (ALBUTEROL SULFATE AND BUDESONIDE) AEROSOL, METERED [ASTRAZENECA PHARMACEUTICALS LP]",
+      "upload_date": "2025-09-22"
+    },
+    {
+      "application_numbers": [
+        "NDA205636"
+      ],
+      "brand_names": [
+        "ProAir Digihaler"
+      ],
+      "combination": false,
+      "home_inn": "albuterol",
+      "ingredients": [
+        "ALBUTEROL SULFATE"
+      ],
+      "labeler": "Teva Respiratory, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2019-10-04",
+      "moieties": [
+        "ALBUTEROL"
+      ],
+      "product_ndcs": [
+        "59310-117"
+      ],
+      "rxcui": [
+        "2166796",
+        "2166797"
+      ],
+      "setid": "667ce3ec-5217-4b10-b712-f3e54fbbf087",
+      "source": "dailymed-title-match",
+      "spl_version": 27,
+      "title": "PROAIR DIGIHALER (ALBUTEROL SULFATE) POWDER, METERED PROAIR DIGIHALER (ALBUTEROL SULFATE) INHALANT [TEVA RESPIRATORY, LLC]",
+      "upload_date": "2026-09-14"
+    },
+    {
+      "application_numbers": [
+        "NDA020983"
+      ],
+      "brand_names": [
+        "Albuterol Sulfate HFA"
+      ],
+      "combination": false,
+      "home_inn": "albuterol",
+      "ingredients": [
+        "ALBUTEROL SULFATE"
+      ],
+      "labeler": "Prasco Laboratories",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2019-01-15",
+      "moieties": [
+        "ALBUTEROL"
+      ],
+      "product_ndcs": [
+        "66993-019"
+      ],
+      "rxcui": [
+        "2123076"
+      ],
+      "setid": "b25d9d6b-eb4c-452e-89ef-10e611deebd6",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "ALBUTEROL SULFATE HFA (ALBUTEROL SULFATE) AEROSOL, METERED [PRASCO LABORATORIES]",
+      "upload_date": "2026-04-06"
+    },
+    {
+      "application_numbers": [
+        "NDA021457"
+      ],
+      "brand_names": [
+        "Albuterol Sulfate HFA"
+      ],
+      "combination": false,
+      "home_inn": "albuterol",
+      "ingredients": [
+        "ALBUTEROL SULFATE"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2019-01-16",
+      "moieties": [
+        "ALBUTEROL"
+      ],
+      "product_ndcs": [
+        "0093-3174"
+      ],
+      "rxcui": [
+        "2123072"
+      ],
+      "setid": "7bb5b6dd-9105-4ee7-b205-ed79cf4b371b",
+      "source": "dailymed-title-match",
+      "spl_version": 16,
+      "title": "ALBUTEROL SULFATE HFA (ALBUTEROL SULFATE) AEROSOL, METERED [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2026-09-14"
+    },
+    {
+      "application_numbers": [
+        "NDA020503"
+      ],
+      "brand_names": [
+        "Albuterol Sulfate"
+      ],
+      "combination": false,
+      "home_inn": "albuterol",
+      "ingredients": [
+        "ALBUTEROL SULFATE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2021-03-15",
+      "moieties": [
+        "ALBUTEROL"
+      ],
+      "product_ndcs": [
+        "0781-7296"
+      ],
+      "rxcui": [
+        "2123111"
+      ],
+      "setid": "f8a2c4b7-a162-48ab-90b0-350e4da25c66",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "ALBUTEROL SULFATE AEROSOL, METERED [SANDOZ INC]",
+      "upload_date": "2025-12-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA072151"
+      ],
+      "brand_names": [
+        "Albuterol Sulfate"
+      ],
+      "combination": false,
+      "home_inn": "albuterol",
+      "ingredients": [
+        "ALBUTEROL SULFATE"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1989-12-05",
+      "moieties": [
+        "ALBUTEROL"
+      ],
+      "product_ndcs": [
+        "62135-671",
+        "62135-672"
+      ],
+      "rxcui": [
+        "197316",
+        "197318"
+      ],
+      "setid": "81cdae6f-99d7-468b-9ab8-fecb1d42298d",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "ALBUTEROL SULFATE TABLET [CHARTWELL RX, LLC]",
+      "upload_date": "2023-06-20"
+    },
+    {
+      "application_numbers": [
+        "ANDA072637"
+      ],
+      "brand_names": [
+        "albuterol sulfate"
+      ],
+      "combination": false,
+      "home_inn": "albuterol",
+      "ingredients": [
+        "ALBUTEROL SULFATE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1989-12-05",
+      "moieties": [
+        "ALBUTEROL"
+      ],
+      "product_ndcs": [
+        "53489-176",
+        "53489-177"
+      ],
+      "rxcui": [
+        "197316",
+        "197318"
+      ],
+      "setid": "87b8cd3c-2849-4b50-b63e-9ea379165c07",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "ALBUTEROL SULFATE TABLET [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2026-03-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA074880",
+        "ANDA075664",
+        "ANDA076355"
+      ],
+      "brand_names": [
+        "Albuterol Sulfate"
+      ],
+      "combination": false,
+      "home_inn": "albuterol",
+      "ingredients": [
+        "ALBUTEROL SULFATE"
+      ],
+      "labeler": "Nephron Pharmaceuticals Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1997-09-17",
+      "moieties": [
+        "ALBUTEROL"
+      ],
+      "product_ndcs": [
+        "0487-0301",
+        "0487-9501",
+        "0487-9901",
+        "0487-9904"
+      ],
+      "rxcui": [
+        "351136",
+        "351137"
+      ],
+      "setid": "285a656c-f77f-4e77-b0a8-a0e9c901803f",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "ALBUTEROL SULFATE SOLUTION [NEPHRON PHARMACEUTICALS CORPORATION]",
+      "upload_date": "2026-05-13"
+    },
+    {
+      "application_numbers": [
+        "NDA020503"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "PROVENTIL"
+      ],
+      "first_posted": "2018-03-08",
+      "found_by": "PROVENTIL",
+      "labeler": "Merck Sharp & Dohme Corp.",
+      "labeler_unverified": false,
+      "last_posted": "2021-03-10",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-07-31"
+      ],
+      "product_ndcs": [
+        "0085-1132"
+      ],
+      "rxcui": [],
+      "setid": "0f8fd0fb-97bc-479e-a9e9-104ea7b230e7",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "f8a2c4b7-a162-48ab-90b0-350e4da25c66"
+      ],
+      "title": "PROVENTIL HFA (albuterol sulfate) aerosol, metered"
+    },
+    {
+      "application_numbers": [
+        "NDA021457"
+      ],
+      "archived_versions": 8,
+      "brand_names": [
+        "PROAIR"
+      ],
+      "first_posted": "2008-03-25",
+      "found_by": "PROAIR",
+      "labeler": "Teva Respiratory, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2013-11-08",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2014-07-31"
+      ],
+      "product_ndcs": [
+        "59310-579"
+      ],
+      "rxcui": [],
+      "setid": "4983a17f-0ea9-4369-9626-6a2ca311210d",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "7bb5b6dd-9105-4ee7-b205-ed79cf4b371b"
+      ],
+      "title": "PROAIR HFA (albuterol sulfate) aerosol, metered"
+    },
+    {
+      "application_numbers": [
+        "NDA017559"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "PROVENTIL"
+      ],
+      "first_posted": "2008-01-25",
+      "found_by": "PROVENTIL",
+      "labeler": "Merck Sharp & Dohme Corp.",
+      "labeler_unverified": false,
+      "last_posted": "2014-01-29",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2008-06-30"
+      ],
+      "product_ndcs": [
+        "0085-0614"
+      ],
+      "rxcui": [],
+      "setid": "5f06a992-93ae-461d-b605-9962249daeba",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "PROVENTIL (albuterol) aerosol, spray"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "COMBIVENT"
+      ],
+      "first_posted": "2007-08-24",
+      "found_by": "COMBIVENT",
+      "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2007-08-24",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0597-0013"
+      ],
+      "rxcui": [],
+      "setid": "604e0426-1f75-4007-a596-66628227c275",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "combivent (ipratropium bromide and albuterol sulfate) aerosol, metered"
+    },
+    {
+      "application_numbers": [
+        "NDA021457"
+      ],
+      "archived_versions": 10,
+      "brand_names": [
+        "PROAIR"
+      ],
+      "first_posted": "2012-04-24",
+      "found_by": "PROAIR",
+      "labeler": "Teva Respiratory, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2024-02-07",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-06-21"
+      ],
+      "product_ndcs": [
+        "59310-579"
+      ],
+      "rxcui": [],
+      "setid": "8e701d71-1dcb-4b84-bada-84e4f04f5e62",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "7bb5b6dd-9105-4ee7-b205-ed79cf4b371b"
+      ],
+      "title": "PROAIR HFA (albuterol sulfate) aerosol, metered"
+    },
+    {
+      "application_numbers": [
+        "NDA020503"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "PROVENTIL"
+      ],
+      "first_posted": "2021-05-04",
+      "found_by": "PROVENTIL",
+      "labeler": "Sandoz",
+      "labeler_unverified": false,
+      "last_posted": "2023-06-21",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-09-30"
+      ],
+      "product_ndcs": [
+        "66758-959"
+      ],
+      "rxcui": [],
+      "setid": "917b6148-61f2-4e4d-9560-d261bac97060",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "f8a2c4b7-a162-48ab-90b0-350e4da25c66"
+      ],
+      "title": "PROVENTIL HFA (albuterol sulfate) aerosol, metered"
+    },
+    {
+      "application_numbers": [
+        "NDA020949"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "ACCUNEB"
+      ],
+      "first_posted": "2008-07-25",
+      "found_by": "ACCUNEB",
+      "labeler": "Mylan Specialty L.P.",
+      "labeler_unverified": false,
+      "last_posted": "2014-06-09",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-08-31"
+      ],
+      "product_ndcs": [
+        "49502-692",
+        "49502-693"
+      ],
+      "rxcui": [],
+      "setid": "a3219f37-5605-4e90-ab11-45fbf1e982ee",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ACCUNEB (albuterol sulfate) solution"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "VENTOLIN"
+      ],
+      "first_posted": "2006-09-01",
+      "found_by": "VENTOLIN",
+      "labeler": "GlaxoSmithKline",
+      "labeler_unverified": false,
+      "last_posted": "2006-09-01",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0173-0321",
+        "0173-0463"
+      ],
+      "rxcui": [],
+      "setid": "cc6aca34-f938-4bd9-d289-3887d83ad2ac",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ventolin (albuterol) aerosol, metered"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "560df50c-e2c4-459f-9d89-bf7e6588949e"
+    },
+    {
+      "combination": false,
+      "labeler": "Ritedose Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b72742df-1a6b-4483-aff3-3e79db5e015d"
+    },
+    {
+      "combination": false,
+      "labeler": "Luoxin Aurovitas Pharma (Chengdu) Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1810ff8e-d505-bf9c-e063-6394a90a6540"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "230d66fc-f62c-42a6-adb3-0a0f879c8ad4"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "40f3cdbc-c9ee-4a3c-8061-a44b9a1d035c"
+    },
+    {
+      "combination": false,
+      "labeler": "QUAGEN PHARMACEUTICALS LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "99a490cc-e41d-436b-9cf3-8facb7ac714f"
+    },
+    {
+      "combination": false,
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "489201d2-9ed0-419b-81dc-a7f7f86b59ed"
+    },
+    {
+      "combination": false,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c4d6d76a-14b8-411a-8019-e2c923c2c532"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ff9b287b-e4a4-4c12-ad2f-6b7d55b20dc6"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "973b8686-c6ce-4280-85c4-c1e7ceab3c09"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a4709eea-e4a2-46e2-850f-1e6afca01893"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bb538b7d-e390-419a-9404-a57c1db4a447"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6c64ab5d-f8a2-440a-a929-cb8188d0e8b4"
+    },
+    {
+      "combination": false,
+      "labeler": "Ritedose Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d4c532be-1f41-60d3-e053-2995a90a98be"
+    },
+    {
+      "combination": false,
+      "labeler": "Armstrong Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "17858afa-dcdf-4612-b475-3b6baadfb639"
+    },
+    {
+      "combination": false,
+      "labeler": "Ingenus Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e14f5fd6-d01a-489d-9baa-61778b1352a8"
+    },
+    {
+      "combination": false,
+      "labeler": "Ritedose Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fdb4ac5a-bf0d-4896-89f7-1828c081b79e"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2e449282-ee58-4e36-b983-85c4e6f0864d"
+    },
+    {
+      "combination": false,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fd0389e0-3713-42e0-8ef2-3bb97676fded"
+    },
+    {
+      "combination": true,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3c64255e-074c-41f8-a344-3686a0685020"
+    },
+    {
+      "combination": true,
+      "labeler": "Nephron Pharmaceuticals Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ae35ec1f-526a-49bf-8262-c50e40190d1f"
+    },
+    {
+      "combination": true,
+      "labeler": "Golden State Medical Supply, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2ebc820b-a423-46ef-8eba-9fbc93daff44"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "370516c4-718f-4a71-bdc8-8822060ccefe"
+    },
+    {
+      "combination": true,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "38f9a201-3954-4370-8e71-7ec2df88a1ff"
+    },
+    {
+      "combination": false,
+      "labeler": "Nephron Pharmaceuticals Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "574824f3-51cc-4b94-9c10-e3204d8b19f8"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "922bf33b-4d55-4c35-9f68-72efbb17c14f"
+    },
+    {
+      "combination": false,
+      "labeler": "Nephron Pharmaceuticals Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ecc00500-58b8-491f-80df-dc6c89a08cae"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7f261a9b-65d9-408a-8609-c1b3809b8b4b"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4e48ccbe-3ec0-4bf2-be28-83eb9baa63d6"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell Governmental & Specialty RX, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dd47559a-84f6-42a5-a00e-48754505418e"
+    },
+    {
+      "combination": false,
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5329614f-ae0b-4854-bb6f-ea0b7dae87c0"
+    },
+    {
+      "combination": false,
+      "labeler": "Luoxin Aurovitas Pharma (Chengdu) Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1d6be2b8-c670-b783-e063-6294a90ae503"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "78e6bee2-7113-46cf-8c97-dc61b0f7b94f"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "eafa5b05-d692-48e7-a413-30f847547eb2"
+    },
+    {
+      "combination": false,
+      "labeler": "American Health Packaging",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4aec7f59-b429-4b0e-a779-8df1dd8f80d7"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c3fa0068-fd12-45de-818e-e929fb45ba05"
+    },
+    {
+      "combination": false,
+      "labeler": "Exelan Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "29e35e54-dbd6-4426-993f-893d7a4d69be"
+    },
+    {
+      "combination": false,
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9e6e982b-7dfe-45b8-aa76-754e8d2a8ef6"
+    },
+    {
+      "combination": false,
+      "labeler": "American Health Packaging",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b0a5da99-6553-4088-ae27-7fa194438340"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "32377c09-da6d-331c-e063-6294a90a7a46"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3236f82c-14e9-dfd4-e063-6294a90ac43d"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "32474c0e-af35-69d1-e063-6394a90a53c6"
+    },
+    {
+      "combination": true,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b444478a-10ce-484f-9039-6383dfb8161e"
+    },
+    {
+      "combination": true,
+      "labeler": "Ritedose Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e0dee492-8bf9-4360-be9b-9d6ee1ecb256"
+    },
+    {
+      "combination": true,
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "23c05e9a-9df5-4978-8831-cf562aa4ba92"
+    },
+    {
+      "combination": true,
+      "labeler": "American Health Packaging",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c04c6ec8-1401-424d-8126-63080e36c4b9"
+    },
+    {
+      "combination": true,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "89d59bd9-c826-413c-8ed9-a1521a0c7cc5"
+    },
+    {
+      "combination": true,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3246dfab-61d7-27ba-e063-6294a90ac180"
+    }
+  ]
+}

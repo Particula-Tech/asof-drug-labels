@@ -1,0 +1,856 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand JANUVIA",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000722",
+      "eu_number": "EU/1/07/383",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000722",
+      "mah": "Merck Sharp and Dohme B.V",
+      "marketing_authorisation_date": "2007-03-20",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/januvia",
+      "name": "Januvia",
+      "record_from": "2007-03-21",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 28
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/000762",
+      "eu_number": "EU/1/07/382",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-000762",
+      "mah": "Merck Sharp & Dohme B.V.",
+      "marketing_authorisation_date": "2007-03-21",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/xelevia",
+      "name": "Xelevia",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/000910",
+      "eu_number": "EU/1/07/435",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-000910",
+      "mah": "Merck Sharp & Dohme B.V.",
+      "marketing_authorisation_date": "2008-01-10",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tesavel",
+      "name": "Tesavel",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/001234",
+      "eu_number": "EU/1/10/621",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-001234",
+      "mah": "Merck Sharp & Dohme B.V.",
+      "marketing_authorisation_date": "2010-03-15",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ristaben",
+      "name": "Ristaben",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/005598",
+      "eu_number": "EU/1/22/1633",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-005598",
+      "mah": "Accord Healthcare S.L.U.",
+      "marketing_authorisation_date": "2022-04-25",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/sitagliptin-accord",
+      "name": "Sitagliptin Accord",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 6,
+    "near_misses_not_matched": [
+      {
+        "ema_product_number": "EMEA/H/C/005741",
+        "kind": "salt",
+        "name": "Sitagliptin SUN"
+      }
+    ],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000722",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "SITAGLIPTIN",
+    "SITAGLIPTIN PHOSPHATE"
+  ],
+  "inn": "sitagliptin",
+  "name": "SITAGLIPTIN",
+  "rank": 50,
+  "rxcui": [
+    "665033",
+    "665036",
+    "665038",
+    "665040",
+    "665042",
+    "665044",
+    "861769",
+    "861771",
+    "861819",
+    "861821",
+    "1243827",
+    "1243833",
+    "1243842",
+    "1243843",
+    "1243846",
+    "1243848",
+    "1992826",
+    "1992832",
+    "1992835",
+    "1992837",
+    "2670447",
+    "2670449",
+    "2670451",
+    "2677162",
+    "2677164",
+    "2696282",
+    "2696284",
+    "2696287",
+    "2709470",
+    "2709477",
+    "2709482",
+    "2709488",
+    "2709491",
+    "2709603",
+    "2709608",
+    "2709612",
+    "2716485",
+    "2716491"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 23,
+    "approval_holders": 8,
+    "earliest_marketing_start": "2006-10-16",
+    "latest_label_update": "2026-10-19",
+    "nda_bla_applications": 8,
+    "repackagers": 3
+  },
+  "unii": [
+    {
+      "ingredient": "SITAGLIPTIN",
+      "unii": "QFP0P1DV7Z"
+    },
+    {
+      "ingredient": "SITAGLIPTIN PHOSPHATE",
+      "unii": "TS63EW8X6F"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021995"
+      ],
+      "brand_names": [
+        "JANUVIA"
+      ],
+      "combination": false,
+      "home_inn": "sitagliptin",
+      "ingredients": [
+        "SITAGLIPTIN PHOSPHATE"
+      ],
+      "labeler": "Merck Sharp & Dohme LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2006-10-16",
+      "moieties": [
+        "SITAGLIPTIN"
+      ],
+      "product_ndcs": [
+        "0006-0112",
+        "0006-0221",
+        "0006-0277"
+      ],
+      "rxcui": [
+        "665036",
+        "665040",
+        "665044",
+        "2709603",
+        "2709608",
+        "2709612"
+      ],
+      "setid": "f85a48d0-0407-4c50-b0fa-7673a160bf01",
+      "source": "openfda",
+      "spl_version": 71,
+      "title": "JANUVIA (SITAGLIPTIN) TABLET, FILM COATED [MERCK SHARP & DOHME LLC]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "NDA211566"
+      ],
+      "brand_names": [
+        "ZITUVIO"
+      ],
+      "combination": false,
+      "home_inn": "sitagliptin",
+      "ingredients": [
+        "SITAGLIPTIN"
+      ],
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-11-30",
+      "moieties": [
+        "SITAGLIPTIN"
+      ],
+      "product_ndcs": [
+        "70710-1240",
+        "70710-1241",
+        "70710-1242"
+      ],
+      "rxcui": [
+        "665033",
+        "665038",
+        "665042",
+        "2670447",
+        "2670449",
+        "2670451"
+      ],
+      "setid": "abfdea45-c0ca-41e3-a510-e89810bc9cfe",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "ZITUVIO (SITAGLIPTIN) TABLET [ZYDUS PHARMACEUTICALS (USA) INC.]",
+      "upload_date": "2025-02-03"
+    },
+    {
+      "application_numbers": [
+        "NDA219122"
+      ],
+      "brand_names": [
+        "BRYNOVIN"
+      ],
+      "combination": false,
+      "home_inn": "sitagliptin",
+      "ingredients": [
+        "SITAGLIPTIN"
+      ],
+      "labeler": "Azurity Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-04-01",
+      "moieties": [
+        "SITAGLIPTIN"
+      ],
+      "product_ndcs": [
+        "24338-017"
+      ],
+      "rxcui": [
+        "2716485",
+        "2716491"
+      ],
+      "setid": "9468a2f3-3ebe-40bd-a3b4-d78d9eb47e04",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "BRYNOVIN (SITAGLIPTIN HYDROCHLORIDE ORAL) SOLUTION [AZURITY PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-06-11"
+    },
+    {
+      "application_numbers": [
+        "NDA022044"
+      ],
+      "brand_names": [
+        "JANUMET"
+      ],
+      "combination": true,
+      "home_inn": "metformin",
+      "ingredients": [
+        "METFORMIN HYDROCHLORIDE",
+        "SITAGLIPTIN PHOSPHATE"
+      ],
+      "labeler": "Merck Sharp & Dohme LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2007-03-30",
+      "moieties": [
+        "METFORMIN",
+        "SITAGLIPTIN"
+      ],
+      "product_ndcs": [
+        "0006-0575",
+        "0006-0577"
+      ],
+      "rxcui": [
+        "861771",
+        "861821",
+        "2709488",
+        "2709491"
+      ],
+      "setid": "d19c7ed0-ad5c-426e-b2df-722508f97d67",
+      "source": "openfda",
+      "spl_version": 61,
+      "title": "JANUMET (SITAGLIPTIN AND METFORMIN HYDROCHLORIDE) TABLET, FILM COATED [MERCK SHARP & DOHME LLC]",
+      "upload_date": "2026-08-27"
+    },
+    {
+      "application_numbers": [
+        "NDA202270"
+      ],
+      "brand_names": [
+        "JANUMET XR"
+      ],
+      "combination": true,
+      "home_inn": "metformin",
+      "ingredients": [
+        "METFORMIN HYDROCHLORIDE",
+        "SITAGLIPTIN PHOSPHATE"
+      ],
+      "labeler": "Merck Sharp & Dohme LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2012-02-02",
+      "moieties": [
+        "METFORMIN",
+        "SITAGLIPTIN"
+      ],
+      "product_ndcs": [
+        "0006-0078",
+        "0006-0080",
+        "0006-0081"
+      ],
+      "rxcui": [
+        "1243833",
+        "1243843",
+        "1243848",
+        "2709470",
+        "2709477",
+        "2709482"
+      ],
+      "setid": "64beb3d2-3aeb-4cd5-ba11-dacf6c9a5b50",
+      "source": "openfda",
+      "spl_version": 44,
+      "title": "JANUMET XR (SITAGLIPTIN AND METFORMIN HYDROCHLORIDE) TABLET, FILM COATED, EXTENDED RELEASE [MERCK SHARP & DOHME LLC]",
+      "upload_date": "2026-08-28"
+    },
+    {
+      "application_numbers": [
+        "NDA209805"
+      ],
+      "brand_names": [
+        "STEGLUJAN"
+      ],
+      "combination": true,
+      "home_inn": "sitagliptin",
+      "ingredients": [
+        "ERTUGLIFLOZIN PIDOLATE",
+        "SITAGLIPTIN PHOSPHATE"
+      ],
+      "labeler": "Merck Sharp & Dohme LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-12-19",
+      "moieties": [
+        "ERTUGLIFLOZIN",
+        "SITAGLIPTIN"
+      ],
+      "product_ndcs": [
+        "0006-5367",
+        "0006-5368"
+      ],
+      "rxcui": [
+        "1992826",
+        "1992832",
+        "1992835",
+        "1992837"
+      ],
+      "setid": "c2c553d8-5a9d-4366-bf53-8bdb5a876d19",
+      "source": "openfda",
+      "spl_version": 24,
+      "title": "STEGLUJAN (ERTUGLIFLOZIN AND SITAGLIPTIN) TABLET, FILM COATED [MERCK SHARP & DOHME LLC]",
+      "upload_date": "2026-06-23"
+    },
+    {
+      "application_numbers": [
+        "NDA216743"
+      ],
+      "brand_names": [
+        "ZITUVIMET"
+      ],
+      "combination": true,
+      "home_inn": "sitagliptin",
+      "ingredients": [
+        "METFORMIN HYDROCHLORIDE",
+        "SITAGLIPTIN"
+      ],
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-03-14",
+      "moieties": [
+        "METFORMIN",
+        "SITAGLIPTIN"
+      ],
+      "product_ndcs": [
+        "70771-1859",
+        "70771-1860"
+      ],
+      "rxcui": [
+        "861769",
+        "861819",
+        "2677162",
+        "2677164"
+      ],
+      "setid": "0098dec4-f0e5-45d5-8aa4-5d0faf9ab142",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "ZITUVIMET (SITAGLIPTIN AND METFORMIN HYDROCHLORIDE) TABLET, FILM COATED [ZYDUS LIFESCIENCES LIMITED]",
+      "upload_date": "2026-08-14"
+    },
+    {
+      "application_numbers": [
+        "NDA216778"
+      ],
+      "brand_names": [
+        "ZITUVIMET XR"
+      ],
+      "combination": true,
+      "home_inn": "sitagliptin",
+      "ingredients": [
+        "METFORMIN HYDROCHLORIDE",
+        "SITAGLIPTIN"
+      ],
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-10-31",
+      "moieties": [
+        "METFORMIN",
+        "SITAGLIPTIN"
+      ],
+      "product_ndcs": [
+        "70710-1804",
+        "70710-1805",
+        "70710-1806"
+      ],
+      "rxcui": [
+        "1243827",
+        "1243842",
+        "1243846",
+        "2696282",
+        "2696284",
+        "2696287"
+      ],
+      "setid": "2f635b36-e86a-4e53-8eaf-589917b5f342",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "ZITUVIMET XR (SITAGLIPTIN AND METFORMIN HYDROCHLORIDE) TABLET, FILM COATED, EXTENDED RELEASE [ZYDUS PHARMACEUTICALS USA INC.]",
+      "upload_date": "2026-01-06"
+    },
+    {
+      "application_numbers": [
+        "NDA211566"
+      ],
+      "brand_names": [
+        "ZITUVIO"
+      ],
+      "combination": false,
+      "home_inn": "sitagliptin",
+      "ingredients": [
+        "SITAGLIPTIN"
+      ],
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-11-30",
+      "moieties": [
+        "SITAGLIPTIN"
+      ],
+      "product_ndcs": [
+        "70771-1770",
+        "70771-1771",
+        "70771-1772"
+      ],
+      "rxcui": [
+        "665033",
+        "665038",
+        "665042",
+        "2670447",
+        "2670449",
+        "2670451"
+      ],
+      "setid": "b2da9d77-154b-48f7-8793-3f4a24dfafc6",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "ZITUVIO (SITAGLIPTIN) TABLET [ZYDUS LIFESCIENCES LIMITED]",
+      "upload_date": "2025-02-03"
+    },
+    {
+      "application_numbers": [
+        "NDA216743"
+      ],
+      "brand_names": [
+        "ZITUVIMET"
+      ],
+      "combination": true,
+      "home_inn": "sitagliptin",
+      "ingredients": [
+        "METFORMIN HYDROCHLORIDE",
+        "SITAGLIPTIN"
+      ],
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-03-14",
+      "moieties": [
+        "METFORMIN",
+        "SITAGLIPTIN"
+      ],
+      "product_ndcs": [
+        "70710-1786",
+        "70710-1787"
+      ],
+      "rxcui": [
+        "861769",
+        "861819",
+        "2677162",
+        "2677164"
+      ],
+      "setid": "eeda90a0-4941-4716-8684-f9f12cbdf3af",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "ZITUVIMET (SITAGLIPTIN AND METFORMIN HYDROCHLORIDE) TABLET, FILM COATED [ZYDUS PHARMACEUTICALS (USA) INC.]",
+      "upload_date": "2026-08-14"
+    },
+    {
+      "application_numbers": [
+        "NDA211566"
+      ],
+      "brand_names": [
+        "Sitagliptin"
+      ],
+      "combination": false,
+      "home_inn": "sitagliptin",
+      "ingredients": [
+        "SITAGLIPTIN"
+      ],
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2023-11-30",
+      "moieties": [
+        "SITAGLIPTIN"
+      ],
+      "product_ndcs": [
+        "70710-1899",
+        "70710-1900",
+        "70710-1901"
+      ],
+      "rxcui": [
+        "665033",
+        "665038",
+        "665042"
+      ],
+      "setid": "6a970e80-b753-48fa-9fff-87e7a5044982",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "SITAGLIPTIN TABLET [ZYDUS PHARMACEUTICALS (USA) INC.]",
+      "upload_date": "2025-02-03"
+    },
+    {
+      "application_numbers": [
+        "ANDA202387"
+      ],
+      "brand_names": [
+        "Sitagliptin Phosphate"
+      ],
+      "combination": false,
+      "home_inn": "sitagliptin",
+      "ingredients": [
+        "SITAGLIPTIN PHOSPHATE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-01-14",
+      "moieties": [
+        "SITAGLIPTIN"
+      ],
+      "product_ndcs": [
+        "0781-5766",
+        "0781-5768",
+        "0781-5770"
+      ],
+      "rxcui": [
+        "2709603",
+        "2709608",
+        "2709612"
+      ],
+      "setid": "cebc8388-c9db-4e27-8d6b-0d9bdc9d766d",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "SITAGLIPTIN PHOSPHATE TABLET, FILM COATED [SANDOZ INC]",
+      "upload_date": "2026-06-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA202327"
+      ],
+      "brand_names": [
+        "Sitagliptin"
+      ],
+      "combination": false,
+      "home_inn": "sitagliptin",
+      "ingredients": [
+        "SITAGLIPTIN PHOSPHATE"
+      ],
+      "labeler": "Teva Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-05-28",
+      "moieties": [
+        "SITAGLIPTIN"
+      ],
+      "product_ndcs": [
+        "0480-2607",
+        "0480-2608",
+        "0480-2609"
+      ],
+      "rxcui": [
+        "2709603",
+        "2709608",
+        "2709612"
+      ],
+      "setid": "5fa5aa67-455e-4ac6-864d-268a91286432",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "SITAGLIPTIN TABLET, FILM COATED [TEVA PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-06-01"
+    },
+    {
+      "application_numbers": [
+        "ANDA202425"
+      ],
+      "brand_names": [
+        "Sitagliptin"
+      ],
+      "combination": false,
+      "home_inn": "sitagliptin",
+      "ingredients": [
+        "SITAGLIPTIN PHOSPHATE"
+      ],
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-05-28",
+      "moieties": [
+        "SITAGLIPTIN"
+      ],
+      "product_ndcs": [
+        "60505-3643",
+        "60505-3644",
+        "60505-3645"
+      ],
+      "rxcui": [
+        "2709603",
+        "2709608",
+        "2709612"
+      ],
+      "setid": "983e9e14-e9bd-3136-e573-98b4dc67860b",
+      "source": "dailymed-title-match",
+      "spl_version": 3,
+      "title": "SITAGLIPTIN TABLET, FILM COATED [APOTEX CORP.]",
+      "upload_date": "2026-09-18"
+    },
+    {
+      "application_numbers": [
+        "NDA216743"
+      ],
+      "brand_names": [
+        "Sitagliptin and metformin hydrochloride"
+      ],
+      "combination": true,
+      "home_inn": "sitagliptin",
+      "ingredients": [
+        "METFORMIN HYDROCHLORIDE",
+        "SITAGLIPTIN"
+      ],
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2024-03-14",
+      "moieties": [
+        "METFORMIN",
+        "SITAGLIPTIN"
+      ],
+      "product_ndcs": [
+        "70710-1986",
+        "70710-1987"
+      ],
+      "rxcui": [
+        "861769",
+        "861819"
+      ],
+      "setid": "4d812277-21a8-4de3-b728-e3fdd01305b5",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "SITAGLIPTIN AND METFORMIN HYDROCHLORIDE TABLET, FILM COATED [ZYDUS PHARMACEUTICALS (USA) INC.]",
+      "upload_date": "2026-08-14"
+    },
+    {
+      "application_numbers": [
+        "NDA216778"
+      ],
+      "brand_names": [
+        "Sitagliptin and Metformin Hydrochloride"
+      ],
+      "combination": true,
+      "home_inn": "sitagliptin",
+      "ingredients": [
+        "METFORMIN HYDROCHLORIDE",
+        "SITAGLIPTIN"
+      ],
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2024-10-31",
+      "moieties": [
+        "METFORMIN",
+        "SITAGLIPTIN"
+      ],
+      "product_ndcs": [
+        "70771-1886",
+        "70771-1887",
+        "70771-1888"
+      ],
+      "rxcui": [
+        "1243827",
+        "1243842",
+        "1243846"
+      ],
+      "setid": "a07fa1d9-7171-4f2a-ab34-f8fa410364a6",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "SITAGLIPTIN AND METFORMIN HYDROCHLORIDE TABLET, FILM COATED, EXTENDED RELEASE [ZYDUS LIFESCIENCES LIMITED]",
+      "upload_date": "2024-11-01"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": true,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "4bade493-499e-434a-97a0-26ca68917623"
+    },
+    {
+      "combination": true,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "950613e2-e959-6b57-e172-251ddc53c64c"
+    },
+    {
+      "combination": true,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a0fcdc08-0afc-4912-a126-3efea6bc8c61"
+    },
+    {
+      "combination": true,
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "43e3b1c9-3cbd-8dc3-e063-6394a90a10a2"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e5ac97e8-3a0b-4750-8e3f-337412570746"
+    },
+    {
+      "combination": true,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e07abcb1-1f0c-4cad-8405-8eedba4b8ff8"
+    },
+    {
+      "combination": true,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d3a728a0-decb-4340-8ee4-c5e27c13eb19"
+    }
+  ]
+}

@@ -1,0 +1,489 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/001241",
+      "eu_number": "EU/1/10/655",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-001241",
+      "mah": "AstraZeneca AB",
+      "marketing_authorisation_date": "2010-12-03",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/brilique",
+      "name": "Brilique",
+      "record_from": "2010-12-03",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 13
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-001241",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "TICAGRELOR"
+  ],
+  "inn": "ticagrelor",
+  "name": "TICAGRELOR",
+  "rank": 173,
+  "rxcui": [
+    "1116635",
+    "1116639",
+    "1666332",
+    "1666334"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 28,
+    "approval_holders": 25,
+    "earliest_marketing_start": "2011-08-05",
+    "latest_label_update": "2026-10-21",
+    "nda_bla_applications": 1,
+    "repackagers": 4
+  },
+  "unii": [
+    {
+      "ingredient": "TICAGRELOR",
+      "unii": "GLH0314RVC"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA022433"
+      ],
+      "brand_names": [
+        "BRILINTA"
+      ],
+      "combination": false,
+      "home_inn": "ticagrelor",
+      "ingredients": [
+        "TICAGRELOR"
+      ],
+      "labeler": "AstraZeneca Pharmaceuticals LP",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2011-08-05",
+      "moieties": [
+        "TICAGRELOR"
+      ],
+      "product_ndcs": [
+        "0186-0776",
+        "0186-0777"
+      ],
+      "rxcui": [
+        "1116635",
+        "1116639",
+        "1666332",
+        "1666334"
+      ],
+      "setid": "f7b3f443-e83d-4bf2-0e96-023448fed9a8",
+      "source": "openfda",
+      "spl_version": 56,
+      "title": "BRILINTA (TICAGRELOR) TABLET [ASTRAZENECA PHARMACEUTICALS LP]",
+      "upload_date": "2026-08-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA208596"
+      ],
+      "brand_names": [
+        "TICAGRELOR"
+      ],
+      "combination": false,
+      "home_inn": "ticagrelor",
+      "ingredients": [
+        "TICAGRELOR"
+      ],
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-04-07",
+      "moieties": [
+        "TICAGRELOR"
+      ],
+      "product_ndcs": [
+        "72205-368",
+        "72205-406"
+      ],
+      "rxcui": [
+        "1116635",
+        "1666332"
+      ],
+      "setid": "b1c29d47-960f-4fc4-b6ff-399e2c6eec4c",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "TICAGRELOR TABLET [NOVADOZ PHARMACEUTICALS LLC]",
+      "upload_date": "2026-02-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA208599"
+      ],
+      "brand_names": [
+        "TICAGRELOR"
+      ],
+      "combination": false,
+      "home_inn": "ticagrelor",
+      "ingredients": [
+        "TICAGRELOR"
+      ],
+      "labeler": "Solco Healthcare U.S., LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-04-01",
+      "moieties": [
+        "TICAGRELOR"
+      ],
+      "product_ndcs": [
+        "43547-657"
+      ],
+      "rxcui": [
+        "1116635"
+      ],
+      "setid": "5be5ef20-fc9f-4c3b-a482-83ffd8a3ab47",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "TICAGRELOR TABLET, FILM COATED [SOLCO HEALTHCARE U.S., LLC]",
+      "upload_date": "2025-11-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA208508"
+      ],
+      "brand_names": [
+        "Ticagrelor"
+      ],
+      "combination": false,
+      "home_inn": "ticagrelor",
+      "ingredients": [
+        "TICAGRELOR"
+      ],
+      "labeler": "Oryza Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-04-15",
+      "moieties": [
+        "TICAGRELOR"
+      ],
+      "product_ndcs": [
+        "72516-018"
+      ],
+      "rxcui": [
+        "1116635"
+      ],
+      "setid": "32c950bd-7f5f-a811-e063-6394a90a0080",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "TICAGRELOR TABLET [ORYZA PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-04-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA208541"
+      ],
+      "brand_names": [
+        "Ticagrelor"
+      ],
+      "combination": false,
+      "home_inn": "ticagrelor",
+      "ingredients": [
+        "TICAGRELOR"
+      ],
+      "labeler": "Dr. Reddys Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-04-30",
+      "moieties": [
+        "TICAGRELOR"
+      ],
+      "product_ndcs": [
+        "43598-480",
+        "43598-629"
+      ],
+      "rxcui": [
+        "1116635",
+        "1666332"
+      ],
+      "setid": "1225fd45-9b56-1671-ee77-cd0c9f2174a5",
+      "source": "openfda",
+      "spl_version": 23,
+      "title": "TICAGRELOR TABLET [DR. REDDYS LABORATORIES INC]",
+      "upload_date": "2026-06-26"
+    },
+    {
+      "application_numbers": [
+        "ANDA208567"
+      ],
+      "brand_names": [
+        "Ticagrelor"
+      ],
+      "combination": false,
+      "home_inn": "ticagrelor",
+      "ingredients": [
+        "TICAGRELOR"
+      ],
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-04-30",
+      "moieties": [
+        "TICAGRELOR"
+      ],
+      "product_ndcs": [
+        "67877-491"
+      ],
+      "rxcui": [
+        "1116635"
+      ],
+      "setid": "2f73a4db-2c7f-4e42-a914-87aedc2780fb",
+      "source": "dailymed-title-match",
+      "spl_version": 22,
+      "title": "TICAGRELOR TABLET [ASCEND LABORATORIES, LLC]",
+      "upload_date": "2026-09-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA208390"
+      ],
+      "brand_names": [
+        "Ticagrelor"
+      ],
+      "combination": false,
+      "home_inn": "ticagrelor",
+      "ingredients": [
+        "TICAGRELOR"
+      ],
+      "labeler": "Teva Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-05-01",
+      "moieties": [
+        "TICAGRELOR"
+      ],
+      "product_ndcs": [
+        "0480-2688",
+        "0480-2695"
+      ],
+      "rxcui": [
+        "1116635",
+        "1666332"
+      ],
+      "setid": "1bbdc202-bbe4-4aec-b4e9-1f1feb41d819",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "TICAGRELOR TABLET, FILM COATED [TEVA PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-08-31"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2c59ea45-6113-6e9e-70b5-3b8c8b3d89b6"
+    },
+    {
+      "combination": false,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "789606e3-9efa-440c-84f1-f1c56fcbf0cd"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "82f66384-e2c7-41c5-961f-384918ef58ec"
+    },
+    {
+      "combination": false,
+      "labeler": "Hisun Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c4c1ca82-99bd-451a-ad77-7fe28c4ae3e8"
+    },
+    {
+      "combination": false,
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fc333c4a-ad63-4d67-a3f7-431ac469d116"
+    },
+    {
+      "combination": false,
+      "labeler": "ScieGen Pharmaceuticals INC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "40ac26dc-2570-de7e-e063-6294a90ade72"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "32769721-c1dd-4bd3-90aa-a6cab59d3cd6"
+    },
+    {
+      "combination": false,
+      "labeler": "BIONPHARMA INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4239fc4c-dae6-eb51-e063-6394a90a00d5"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7efe86fa-5d19-413a-8b15-e51279b62f3f"
+    },
+    {
+      "combination": false,
+      "labeler": "AiPing Pharmaceutical, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4ecb82df-fad2-1f6c-e063-6294a90a9d19"
+    },
+    {
+      "combination": false,
+      "labeler": "Laurus Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "555d4e44-9bb2-474e-9bea-c549e3261dbb"
+    },
+    {
+      "combination": false,
+      "labeler": "AvKARE",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "32ebf046-73e4-b11b-e063-6294a90a5bf4"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3225098b-3138-4aec-a866-de94c3006e8e"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d68b79ab-3104-410e-a63f-9919a23625af"
+    },
+    {
+      "combination": false,
+      "labeler": "Exelan Pharmaceuticals, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "eb8fb960-1f0e-40b1-9889-b02296bb3c37"
+    },
+    {
+      "combination": false,
+      "labeler": "AvKARE",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "40bb0fb0-2275-4df7-e063-6394a90ade2e"
+    },
+    {
+      "combination": false,
+      "labeler": "Radha Pharmaceuticals INC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "436d1bef-da01-7d0a-e063-6294a90abd90"
+    },
+    {
+      "combination": false,
+      "labeler": "Changzhou Pharmaceutical Factory",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "751410c1-452b-400b-a640-d31623a6fda3"
+    },
+    {
+      "combination": false,
+      "labeler": "AvPAK",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "425024ab-e092-7a6d-e063-6294a90ae4f3"
+    },
+    {
+      "combination": false,
+      "labeler": "Oryza Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "461d810e-5b77-5e53-e063-6294a90a64b0"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c89c29c9-d2c0-4605-b74f-059e0b104977"
+    }
+  ]
+}

@@ -1,0 +1,796 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/002066",
+      "eu_number": "EU/1/15/990",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-002066",
+      "mah": "Santen Oy",
+      "marketing_authorisation_date": "2015-03-19",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ikervis",
+      "name": "Ikervis",
+      "record_from": "2015-03-19",
+      "record_to": "2026-11-03",
+      "role": "reference",
+      "versions": 7
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/004411",
+      "eu_number": "EU/1/17/1219",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-004411",
+      "mah": "Santen Oy",
+      "marketing_authorisation_date": "2018-07-06",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/verkazia",
+      "name": "Verkazia",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/006250",
+      "eu_number": "EU/1/24/1857",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-006250",
+      "mah": "Laboratoires Théa",
+      "marketing_authorisation_date": "2024-09-19",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/vevizye",
+      "name": "Vevizye",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-002066",
+    "reference_selected_by": "salt-alias-v2",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "CYCLOSPORINE"
+  ],
+  "inn": "cyclosporine",
+  "name": "CYCLOSPORINE",
+  "rank": 52,
+  "rxcui": [
+    "197552",
+    "197553",
+    "205175",
+    "212810",
+    "212844",
+    "241834",
+    "328160",
+    "351291",
+    "402092",
+    "835835",
+    "835886",
+    "835894",
+    "835896",
+    "835899",
+    "835909",
+    "835911",
+    "835925",
+    "1797521",
+    "2055021",
+    "2055026",
+    "2572292",
+    "2572293",
+    "2590608",
+    "2590613",
+    "2639936",
+    "2639941"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 27,
+    "approval_holders": 21,
+    "earliest_marketing_start": "1983-11-14",
+    "latest_label_update": "2026-10-26",
+    "nda_bla_applications": 8,
+    "repackagers": 2
+  },
+  "unii": [
+    {
+      "ingredient": "CYCLOSPORINE",
+      "unii": "83HN0GTJ6D"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA050573",
+        "NDA050625"
+      ],
+      "brand_names": [
+        "Sandimmune"
+      ],
+      "combination": false,
+      "home_inn": "cyclosporine",
+      "ingredients": [
+        "CYCLOSPORINE"
+      ],
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1983-11-14",
+      "moieties": [
+        "CYCLOSPORINE"
+      ],
+      "product_ndcs": [
+        "0078-0109",
+        "0078-0240",
+        "0078-0241"
+      ],
+      "rxcui": [
+        "197552",
+        "197553",
+        "205175",
+        "212810",
+        "212844",
+        "328160"
+      ],
+      "setid": "5e5926a7-1de0-4b54-a5c0-286b6200ff82",
+      "source": "openfda",
+      "spl_version": 37,
+      "title": "SANDIMMUNE (CYCLOSPORINE) CAPSULE, LIQUID FILLED SANDIMMUNE (CYCLOSPORINE) INJECTION [NOVARTIS PHARMACEUTICALS CORPORATION]",
+      "upload_date": "2026-07-13"
+    },
+    {
+      "application_numbers": [
+        "NDA050715",
+        "NDA050716"
+      ],
+      "brand_names": [
+        "Neoral"
+      ],
+      "combination": false,
+      "home_inn": "cyclosporine",
+      "ingredients": [
+        "CYCLOSPORINE"
+      ],
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1995-07-14",
+      "moieties": [
+        "CYCLOSPORINE"
+      ],
+      "product_ndcs": [
+        "0078-0246",
+        "0078-0248",
+        "0078-0274"
+      ],
+      "rxcui": [
+        "241834",
+        "835886",
+        "835894",
+        "835899",
+        "835909",
+        "835911"
+      ],
+      "setid": "94461af3-11f1-4670-95d4-2965b9538ae3",
+      "source": "openfda",
+      "spl_version": 30,
+      "title": "NEORAL (CYCLOSPORINE) CAPSULE, LIQUID FILLED NEORAL (CYCLOSPORINE) SOLUTION [NOVARTIS PHARMACEUTICALS CORPORATION]",
+      "upload_date": "2026-08-11"
+    },
+    {
+      "application_numbers": [
+        "NDA050790"
+      ],
+      "brand_names": [
+        "RESTASIS"
+      ],
+      "combination": false,
+      "home_inn": "cyclosporine",
+      "ingredients": [
+        "CYCLOSPORINE"
+      ],
+      "labeler": "Allergan, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2003-04-01",
+      "moieties": [
+        "CYCLOSPORINE"
+      ],
+      "product_ndcs": [
+        "0023-9163"
+      ],
+      "rxcui": [
+        "2572292",
+        "2572293"
+      ],
+      "setid": "8e24af2b-bc1c-4849-94f2-6df950cdca89",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "RESTASIS (CYCLOSPORINE) EMULSION [ALLERGAN, INC.]",
+      "upload_date": "2024-12-30"
+    },
+    {
+      "application_numbers": [
+        "NDA210913"
+      ],
+      "brand_names": [
+        "CEQUA"
+      ],
+      "combination": false,
+      "home_inn": "cyclosporine",
+      "ingredients": [
+        "CYCLOSPORINE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-08-15",
+      "moieties": [
+        "CYCLOSPORINE"
+      ],
+      "product_ndcs": [
+        "47335-506",
+        "47335-507"
+      ],
+      "rxcui": [
+        "2055021",
+        "2055026"
+      ],
+      "setid": "48c3d8a3-4289-4b52-9189-58b48596095c",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "CEQUA (CYCLOSPORINE) SOLUTION/ DROPS [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2026-06-26"
+    },
+    {
+      "application_numbers": [
+        "NDA214965"
+      ],
+      "brand_names": [
+        "Verkazia"
+      ],
+      "combination": false,
+      "home_inn": "cyclosporine",
+      "ingredients": [
+        "CYCLOSPORINE"
+      ],
+      "labeler": "Harrow Eye, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-02-01",
+      "moieties": [
+        "CYCLOSPORINE"
+      ],
+      "product_ndcs": [
+        "82667-014"
+      ],
+      "rxcui": [
+        "2590608",
+        "2590613"
+      ],
+      "setid": "48651d30-9e6e-74b0-e063-6294a90a8337",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "VERKAZIA (CYCLOSPORINE) EMULSION [HARROW EYE, LLC]",
+      "upload_date": "2026-06-05"
+    },
+    {
+      "application_numbers": [
+        "NDA217469"
+      ],
+      "brand_names": [
+        "VEVYE"
+      ],
+      "combination": false,
+      "home_inn": "cyclosporine",
+      "ingredients": [
+        "CYCLOSPORINE"
+      ],
+      "labeler": "Harrow Eye, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-12-01",
+      "moieties": [
+        "CYCLOSPORINE"
+      ],
+      "product_ndcs": [
+        "82667-900"
+      ],
+      "rxcui": [
+        "2639936",
+        "2639941"
+      ],
+      "setid": "0a60fccf-7e1b-44fe-e063-6394a90aadd5",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "VEVYE (CYCLOSPORINE OPHTHALMIC SOLUTION) SOLUTION/ DROPS [HARROW EYE, LLC]",
+      "upload_date": "2026-03-02"
+    },
+    {
+      "application_numbers": [
+        "NDA050790"
+      ],
+      "brand_names": [
+        "Restasis MultiDose"
+      ],
+      "combination": false,
+      "home_inn": "cyclosporine",
+      "ingredients": [
+        "CYCLOSPORINE"
+      ],
+      "labeler": "Allergan, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2016-11-10",
+      "moieties": [
+        "CYCLOSPORINE"
+      ],
+      "product_ndcs": [
+        "0023-5301"
+      ],
+      "rxcui": [
+        "351291",
+        "402092"
+      ],
+      "setid": "7224d810-bb96-4682-a942-3355e6e8061a",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "RESTASIS MULTIDOSE (CYCLOSPORINE) EMULSION [ALLERGAN, INC.]",
+      "upload_date": "2025-09-05"
+    },
+    {
+      "application_numbers": [
+        "NDA214965"
+      ],
+      "brand_names": [
+        "Verkazia"
+      ],
+      "combination": false,
+      "home_inn": "cyclosporine",
+      "ingredients": [
+        "CYCLOSPORINE"
+      ],
+      "labeler": "Santen Incorporated",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-02-01",
+      "moieties": [
+        "CYCLOSPORINE"
+      ],
+      "product_ndcs": [
+        "65086-001"
+      ],
+      "rxcui": [
+        "2590608",
+        "2590613"
+      ],
+      "setid": "c795cd2f-89da-78e3-e053-2a95a90a9422",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "VERKAZIA (CYCLOSPORINE) EMULSION [SANTEN INCORPORATED]",
+      "upload_date": "2025-01-20"
+    },
+    {
+      "application_numbers": [
+        "NDA050790"
+      ],
+      "brand_names": [
+        "Cyclosporine"
+      ],
+      "combination": false,
+      "home_inn": "cyclosporine",
+      "ingredients": [
+        "CYCLOSPORINE"
+      ],
+      "labeler": "Apotex Corp",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2022-02-07",
+      "moieties": [
+        "CYCLOSPORINE"
+      ],
+      "product_ndcs": [
+        "60505-6202"
+      ],
+      "rxcui": [
+        "2572292"
+      ],
+      "setid": "70c8a4a6-ebe2-457f-a626-400c338cec2d",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "CYCLOSPORINE EMULSION [APOTEX CORP]",
+      "upload_date": "2024-12-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA065040"
+      ],
+      "brand_names": [
+        "Cyclosporine"
+      ],
+      "combination": false,
+      "home_inn": "cyclosporine",
+      "ingredients": [
+        "CYCLOSPORINE"
+      ],
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2002-05-29",
+      "moieties": [
+        "CYCLOSPORINE"
+      ],
+      "product_ndcs": [
+        "60505-0133",
+        "60505-0134"
+      ],
+      "rxcui": [
+        "197553",
+        "328160"
+      ],
+      "setid": "bfca7088-fe93-abb9-3ec3-e6f5710a69c6",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "CYCLOSPORINE CAPSULE, GELATIN COATED [APOTEX CORP.]",
+      "upload_date": "2026-04-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA065078"
+      ],
+      "brand_names": [
+        "Cyclosporine"
+      ],
+      "combination": false,
+      "home_inn": "cyclosporine",
+      "ingredients": [
+        "CYCLOSPORINE"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2005-03-29",
+      "moieties": [
+        "CYCLOSPORINE"
+      ],
+      "product_ndcs": [
+        "0172-7313"
+      ],
+      "rxcui": [
+        "835886"
+      ],
+      "setid": "f3dc2a50-1084-4190-a6f3-37034a04db86",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "CYCLOSPORINE SOLUTION [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2025-05-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA065003"
+      ],
+      "brand_names": [
+        "Gengraf"
+      ],
+      "combination": false,
+      "home_inn": "cyclosporine",
+      "ingredients": [
+        "CYCLOSPORINE"
+      ],
+      "labeler": "AbbVie Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-11-01",
+      "moieties": [
+        "CYCLOSPORINE"
+      ],
+      "product_ndcs": [
+        "0074-3108",
+        "0074-3109"
+      ],
+      "rxcui": [
+        "241834",
+        "835835",
+        "835894",
+        "835896",
+        "835925",
+        "1797521"
+      ],
+      "setid": "e896cbfe-4745-4088-82a3-8dc10b75c41f",
+      "source": "openfda",
+      "spl_version": 1256,
+      "title": "GENGRAF (CYCLOSPORINE) CAPSULE [ABBVIE INC.]",
+      "upload_date": "2026-05-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA210721"
+      ],
+      "brand_names": [
+        "CycloSPORINE, Modfied"
+      ],
+      "combination": false,
+      "home_inn": "cyclosporine",
+      "ingredients": [
+        "CYCLOSPORINE"
+      ],
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-11-05",
+      "moieties": [
+        "CYCLOSPORINE"
+      ],
+      "product_ndcs": [
+        "60505-4630",
+        "60505-4631",
+        "60505-4632"
+      ],
+      "rxcui": [
+        "241834",
+        "835894",
+        "835925"
+      ],
+      "setid": "5baaf78c-90f6-abcf-52c8-814490f3cf9f",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "CYCLOSPORINE, MODFIED (CYCLOSPORINE) CAPSULE, LIQUID FILLED [APOTEX CORP.]",
+      "upload_date": "2026-09-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA065110"
+      ],
+      "brand_names": [
+        "Cyclosporine Modified"
+      ],
+      "combination": false,
+      "home_inn": "cyclosporine",
+      "ingredients": [
+        "CYCLOSPORINE"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-06-08",
+      "moieties": [
+        "CYCLOSPORINE"
+      ],
+      "product_ndcs": [
+        "0093-9018",
+        "0093-9019",
+        "0093-9020"
+      ],
+      "rxcui": [
+        "241834",
+        "835894",
+        "835925"
+      ],
+      "setid": "2de1e8b1-625f-43ce-a1d5-d543be208b11",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "CYCLOSPORINE MODIFIED (CYCLOSPORINE) CAPSULE, LIQUID FILLED [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2025-02-27"
+    },
+    {
+      "application_numbers": [
+        "NDA050790"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "RESTASIS"
+      ],
+      "first_posted": "2007-02-16",
+      "found_by": "RESTASIS",
+      "labeler": "Allergan, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2010-01-06",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2009-12-31"
+      ],
+      "product_ndcs": [
+        "0023-9163"
+      ],
+      "rxcui": [],
+      "setid": "10a940d7-9173-408c-a5aa-f7d06de172a6",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "70c8a4a6-ebe2-457f-a626-400c338cec2d",
+        "7224d810-bb96-4682-a942-3355e6e8061a",
+        "8e24af2b-bc1c-4849-94f2-6df950cdca89"
+      ],
+      "title": "RESTASIS (cyclosporine) emulsion"
+    },
+    {
+      "application_numbers": [
+        "NDA217469"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "VEVYE"
+      ],
+      "first_posted": "2023-06-26",
+      "found_by": "VEVYE",
+      "labeler": "Novaliq GmbH",
+      "labeler_unverified": true,
+      "last_posted": "2024-02-14",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-08-31"
+      ],
+      "product_ndcs": [
+        "83339-002"
+      ],
+      "rxcui": [],
+      "setid": "d5b74d85-86ae-41aa-8733-077f6d2779dd",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "0a60fccf-7e1b-44fe-e063-6394a90aadd5"
+      ],
+      "title": "VEVYE (cyclosporine ophthalmic solution) solution/ drops"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "da3fa070-b512-4568-871a-dc8d5a949d13"
+    },
+    {
+      "combination": false,
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c36132b2-3ec7-4c43-a25e-75cbdbe3d88d"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "64ec430a-e930-145c-e766-13fb49b64644"
+    },
+    {
+      "combination": false,
+      "labeler": "Devatis Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7bb2078d-17c2-4e6a-9f61-26c7ecbce945"
+    },
+    {
+      "combination": false,
+      "labeler": "Qilu Pharmaceutical Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "341c3442-ee7c-4c9f-807d-1ac988b9a60a"
+    },
+    {
+      "combination": false,
+      "labeler": "Teva Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cc64c1e3-19f5-4bf6-a08d-a9725004c97f"
+    },
+    {
+      "combination": false,
+      "labeler": "Saptalis Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ff4dc2fc-667a-489a-b798-8d11cddfe716"
+    },
+    {
+      "combination": false,
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f7e4a2f0-ea2a-449b-bc6d-a6ea3d47b850"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "aaf79e72-26bf-4152-9cd1-10d8c30fa4fe"
+    },
+    {
+      "combination": false,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "df356f62-0d63-459a-842e-208c48c6370a"
+    },
+    {
+      "combination": false,
+      "labeler": "KVK-TECH, INC.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a7040dc6-063b-40ee-8f2a-153e87b08430"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9aca2026-af86-4e97-925e-c202b87c46ac"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1952d4c7-a40e-4924-b669-c41400774cb9"
+    }
+  ]
+}

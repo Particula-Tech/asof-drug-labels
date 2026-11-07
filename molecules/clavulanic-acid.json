@@ -1,0 +1,771 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "CLAVULANATE POTASSIUM",
+    "CLAVULANIC ACID"
+  ],
+  "inn": "clavulanic-acid",
+  "name": "CLAVULANIC ACID",
+  "rank": 412,
+  "rxcui": [
+    "562251",
+    "562508",
+    "617296",
+    "617423",
+    "617430",
+    "617993",
+    "618028"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 31,
+    "approval_holders": 12,
+    "earliest_marketing_start": "2002-03-14",
+    "latest_label_update": "2026-10-29",
+    "nda_bla_applications": 2,
+    "repackagers": 18
+  },
+  "unii": [
+    {
+      "ingredient": "CLAVULANATE POTASSIUM",
+      "unii": "Q42OMW3AT8"
+    },
+    {
+      "ingredient": "CLAVULANIC ACID",
+      "unii": "23521W1S24"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA050755"
+      ],
+      "brand_names": [
+        "AUGMENTIN ES-600"
+      ],
+      "combination": true,
+      "home_inn": "amoxicillin",
+      "ingredients": [
+        "AMOXICILLIN",
+        "CLAVULANATE POTASSIUM"
+      ],
+      "labeler": "USAntibiotics, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-07-15",
+      "moieties": [
+        "AMOXICILLIN",
+        "CLAVULANIC ACID"
+      ],
+      "product_ndcs": [
+        "81964-003"
+      ],
+      "rxcui": [
+        "617993",
+        "618028"
+      ],
+      "setid": "59979859-8c9b-4173-a5e3-2e6312fd9d79",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "AUGMENTIN ES-600 (AMOXICILLIN AND CLAVULANATE POTASSIUM) FOR SUSPENSION [USANTIBIOTICS, LLC]",
+      "upload_date": "2026-07-09"
+    },
+    {
+      "application_numbers": [
+        "NDA050575"
+      ],
+      "brand_names": [
+        "Augmentin"
+      ],
+      "combination": true,
+      "home_inn": "amoxicillin",
+      "ingredients": [
+        "AMOXICILLIN",
+        "CLAVULANATE POTASSIUM"
+      ],
+      "labeler": "Allegis Holdings, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-09-01",
+      "moieties": [
+        "AMOXICILLIN",
+        "CLAVULANIC ACID"
+      ],
+      "product_ndcs": [
+        "71297-240"
+      ],
+      "rxcui": [],
+      "setid": "04a31a42-d79e-bbb4-e063-6394a90a63ee",
+      "source": "dailymed-title-match",
+      "spl_version": 5,
+      "title": "AUGMENTIN (AMOXICILLIN AND CLAVULANATE POTASSIUM) FOR SUSPENSION [ALLEGIS HOLDINGS, LLC]",
+      "upload_date": "2026-10-29"
+    },
+    {
+      "application_numbers": [
+        "NDA050575",
+        "NDA050720",
+        "NDA050755"
+      ],
+      "brand_names": [
+        "AMOXICILLIN AND CLAVULANATE POTASSIUM"
+      ],
+      "combination": true,
+      "home_inn": "clavulanic-acid",
+      "ingredients": [
+        "AMOXICILLIN",
+        "CLAVULANATE POTASSIUM"
+      ],
+      "labeler": "USAntibiotics, LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2022-09-19",
+      "moieties": [
+        "AMOXICILLIN",
+        "CLAVULANIC ACID"
+      ],
+      "product_ndcs": [
+        "81964-203",
+        "81964-204",
+        "81964-212",
+        "81964-221"
+      ],
+      "rxcui": [
+        "617993"
+      ],
+      "setid": "7d4dfd6f-bd1a-4acc-8506-07fca08f8a38",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "AMOXICILLIN AND CLAVULANATE POTASSIUM FOR SUSPENSION [USANTIBIOTICS, LLC]",
+      "upload_date": "2026-07-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA065063",
+        "ANDA065064",
+        "ANDA065066",
+        "ANDA065189"
+      ],
+      "brand_names": [
+        "Amoxicillin and Clavulanate Potassium"
+      ],
+      "combination": true,
+      "home_inn": "clavulanic-acid",
+      "ingredients": [
+        "AMOXICILLIN",
+        "CLAVULANATE POTASSIUM"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2002-03-14",
+      "moieties": [
+        "AMOXICILLIN",
+        "CLAVULANIC ACID"
+      ],
+      "product_ndcs": [
+        "0781-1831",
+        "0781-1852",
+        "0781-1874",
+        "0781-6102",
+        "0781-6104"
+      ],
+      "rxcui": [
+        "562251",
+        "562508",
+        "617296",
+        "617423",
+        "617430"
+      ],
+      "setid": "7cba82f0-9886-46e9-8dbd-43a448aade29",
+      "source": "openfda",
+      "spl_version": 27,
+      "title": "AMOXICILLIN AND CLAVULANATE POTASSIUM TABLET, FILM COATED AMOXICILLIN AND CLAVULANATE POTASSIUM POWDER, FOR SUSPENSION [SANDOZ INC]",
+      "upload_date": "2025-07-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA065089",
+        "ANDA065096",
+        "ANDA065101",
+        "ANDA065162",
+        "ANDA065205"
+      ],
+      "brand_names": [
+        "amoxicillin and clavulanate potassium"
+      ],
+      "combination": true,
+      "home_inn": "clavulanic-acid",
+      "ingredients": [
+        "AMOXICILLIN",
+        "CLAVULANATE POTASSIUM"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2002-10-31",
+      "moieties": [
+        "AMOXICILLIN",
+        "CLAVULANIC ACID"
+      ],
+      "product_ndcs": [
+        "62135-091",
+        "62135-092",
+        "62135-093",
+        "62135-094",
+        "62135-095",
+        "62135-104",
+        "62135-105"
+      ],
+      "rxcui": [
+        "617993"
+      ],
+      "setid": "00b86913-50c8-443f-8467-f4f499d358af",
+      "source": "dailymed-title-match",
+      "spl_version": 2,
+      "title": "AMOXICILLIN AND CLAVULANATE POTASSIUM POWDER, FOR SUSPENSION [CHARTWELL RX, LLC]",
+      "upload_date": "2026-07-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA065358"
+      ],
+      "brand_names": [
+        "Amoxicillin and Clavulanate Potassium"
+      ],
+      "combination": true,
+      "home_inn": "clavulanic-acid",
+      "ingredients": [
+        "AMOXICILLIN",
+        "CLAVULANATE POTASSIUM"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2007-08-13",
+      "moieties": [
+        "AMOXICILLIN",
+        "CLAVULANIC ACID"
+      ],
+      "product_ndcs": [
+        "0781-6139"
+      ],
+      "rxcui": [
+        "617993"
+      ],
+      "setid": "99b7f40a-06f9-4b97-8eee-8e61e5106aad",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "AMOXICILLIN AND CLAVULANATE POTASSIUM SUSPENSION [SANDOZ INC]",
+      "upload_date": "2025-04-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA065191"
+      ],
+      "brand_names": [
+        "Amoxicillin and Clavulanate Potassium"
+      ],
+      "combination": true,
+      "home_inn": "clavulanic-acid",
+      "ingredients": [
+        "AMOXICILLIN",
+        "CLAVULANIC ACID"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2007-12-01",
+      "moieties": [
+        "AMOXICILLIN",
+        "CLAVULANIC ACID"
+      ],
+      "product_ndcs": [
+        "0143-9981",
+        "0143-9982"
+      ],
+      "rxcui": [
+        "617423",
+        "617430"
+      ],
+      "setid": "240bcdcb-31d9-40a0-87e1-bd16264a2e20",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "AMOXICILLIN AND CLAVULANATE POTASSIUM POWDER, FOR SUSPENSION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2026-03-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA065373"
+      ],
+      "brand_names": [
+        "Amoxicillin and Clavulanate Potassium"
+      ],
+      "combination": true,
+      "home_inn": "clavulanic-acid",
+      "ingredients": [
+        "AMOXICILLIN",
+        "CLAVULANATE POTASSIUM"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-08-03",
+      "moieties": [
+        "AMOXICILLIN",
+        "CLAVULANIC ACID"
+      ],
+      "product_ndcs": [
+        "0143-9853"
+      ],
+      "rxcui": [
+        "617993"
+      ],
+      "setid": "6339bcdb-060f-4558-9f42-6bf7f935e138",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "AMOXICILLIN AND CLAVULANATE POTASSIUM SUSPENSION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2025-06-05"
+    },
+    {
+      "application_numbers": [
+        "NDA050564",
+        "NDA050575",
+        "NDA050720"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "AUGMENTIN"
+      ],
+      "first_posted": "2019-03-11",
+      "found_by": "AUGMENTIN",
+      "labeler": "Neopharma Inc",
+      "labeler_unverified": true,
+      "last_posted": "2021-08-11",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-08-10",
+        "2021-09-01",
+        "2021-10-01"
+      ],
+      "product_ndcs": [
+        "72508-004",
+        "72508-006",
+        "72508-012",
+        "72508-018",
+        "72508-021"
+      ],
+      "rxcui": [],
+      "setid": "16779d75-67ad-46ff-b9c8-4e464fbeeb08",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "04a31a42-d79e-bbb4-e063-6394a90a63ee",
+        "7d4dfd6f-bd1a-4acc-8506-07fca08f8a38"
+      ],
+      "title": "AUGMENTIN (amoxicillin and clavulanate potassium) powder, for suspension AUGMENTIN (amoxicillin and clavulanate potassium) tablet, film coated"
+    },
+    {
+      "application_numbers": [
+        "NDA050564",
+        "NDA050575",
+        "NDA050720"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "AUGMENTIN"
+      ],
+      "first_posted": "2011-04-14",
+      "found_by": "AUGMENTIN",
+      "labeler": "Dr. Reddy's Laboratories Inc",
+      "labeler_unverified": false,
+      "last_posted": "2012-03-15",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "43598-004",
+        "43598-006",
+        "43598-012",
+        "43598-018",
+        "43598-021"
+      ],
+      "rxcui": [],
+      "setid": "56453844-06bb-4ca1-80ee-04234a248975",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "04a31a42-d79e-bbb4-e063-6394a90a63ee",
+        "7d4dfd6f-bd1a-4acc-8506-07fca08f8a38"
+      ],
+      "title": "AUGMENTIN (amoxicillin and clavulanate potassium) powder, for suspension"
+    },
+    {
+      "application_numbers": [
+        "NDA050755"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "AUGMENTIN"
+      ],
+      "first_posted": "2006-09-21",
+      "found_by": "AUGMENTIN",
+      "labeler": "GlaxoSmithKline LLC",
+      "labeler_unverified": true,
+      "last_posted": "2011-02-15",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2011-05-22"
+      ],
+      "product_ndcs": [
+        "0029-6094"
+      ],
+      "rxcui": [],
+      "setid": "8a2dc960-64b2-4017-7fa9-25b400a030fd",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "59979859-8c9b-4173-a5e3-2e6312fd9d79",
+        "7d4dfd6f-bd1a-4acc-8506-07fca08f8a38"
+      ],
+      "title": "AUGMENTIN (amoxicillin and clavulanate potassium) powder, for suspension"
+    },
+    {
+      "application_numbers": [
+        "NDA050575",
+        "NDA050725"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "AUGMENTIN"
+      ],
+      "first_posted": "2007-05-31",
+      "found_by": "AUGMENTIN",
+      "labeler": "GlaxoSmithKline LLC",
+      "labeler_unverified": true,
+      "last_posted": "2011-02-15",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2009-08-03",
+        "2012-09-05"
+      ],
+      "product_ndcs": [
+        "0029-6085",
+        "0029-6090",
+        "0029-6092"
+      ],
+      "rxcui": [],
+      "setid": "a4cd9a69-109b-4197-8595-265b70499f25",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "04a31a42-d79e-bbb4-e063-6394a90a63ee",
+        "7d4dfd6f-bd1a-4acc-8506-07fca08f8a38"
+      ],
+      "title": "AUGMENTIN (amoxicillin and clavulanate potassium) powder, for suspension"
+    },
+    {
+      "application_numbers": [
+        "NDA050564",
+        "NDA050720"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "AUGMENTIN"
+      ],
+      "first_posted": "2007-04-13",
+      "found_by": "AUGMENTIN",
+      "labeler": "GlaxoSmithKline LLC",
+      "labeler_unverified": true,
+      "last_posted": "2011-02-15",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2011-03-30",
+        "2011-09-02",
+        "2012-09-12"
+      ],
+      "product_ndcs": [
+        "0029-6075",
+        "0029-6080",
+        "0029-6086"
+      ],
+      "rxcui": [],
+      "setid": "e16f64c7-f3e1-4482-e883-0888ac214acf",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "7d4dfd6f-bd1a-4acc-8506-07fca08f8a38"
+      ],
+      "title": "AUGMENTIN (amoxicillin and clavulanate potassium) tablet, film coated AUGMENTIN (amoxicillin and clavulanate potassium) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA050575"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "AUGMENTIN"
+      ],
+      "first_posted": "2023-03-08",
+      "found_by": "AUGMENTIN",
+      "labeler": "Allegis Pharmaceuticals, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2026-02-13",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2026-02-01"
+      ],
+      "product_ndcs": [
+        "28595-240"
+      ],
+      "rxcui": [],
+      "setid": "f55f61af-10f1-0e17-e053-2995a90adc43",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "04a31a42-d79e-bbb4-e063-6394a90a63ee",
+        "7d4dfd6f-bd1a-4acc-8506-07fca08f8a38"
+      ],
+      "title": "AUGMENTIN (amoxicillin and clavulanate potassium) for suspension"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": true,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e41387c8-2c74-4990-831f-64dc921ee138"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3ae0c95f-7ffa-4317-9fea-4d07b86bee72"
+    },
+    {
+      "combination": true,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "52ab3500-d088-4693-acea-9b83c0843f66"
+    },
+    {
+      "combination": true,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0c2d1fbc-f80c-4737-a15e-9cfa6bf99769"
+    },
+    {
+      "combination": true,
+      "labeler": "Devatis, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b0b2e164-e70d-471f-92ce-abdac6cb405f"
+    },
+    {
+      "combination": true,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "db25500a-90ee-429f-991f-da511cec7882"
+    },
+    {
+      "combination": true,
+      "labeler": "Devatis, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "90d0aa94-5c32-4fb7-8561-8763810d2847"
+    },
+    {
+      "combination": true,
+      "labeler": "Devatis Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a884cff6-bffd-41fd-904c-c694c995f338"
+    },
+    {
+      "combination": true,
+      "labeler": "Devatis, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d25c8190-3690-4ce6-a525-21850754224d"
+    },
+    {
+      "combination": true,
+      "labeler": "USAntibiotics, LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "45c60b69-1b65-01ed-e063-6294a90a57be"
+    },
+    {
+      "combination": true,
+      "labeler": "USAntibiotics, LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c4a6deb5-0bcd-4fa3-b19b-a82fa1dd14f3"
+    },
+    {
+      "combination": true,
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "963e7bea-ff5d-420a-9cb2-e4aefb534b33"
+    },
+    {
+      "combination": true,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c565ca8c-b98e-4eb4-80ac-435e34aafe00"
+    },
+    {
+      "combination": true,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f10634cb-6505-43f1-9b70-314c58673016"
+    },
+    {
+      "combination": true,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f941df0d-0df0-4faf-b2f2-f2e56a4ca70a"
+    },
+    {
+      "combination": true,
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e83f43dd-f79e-4166-9bee-9427e235c876"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5200ae31-8a79-45f9-84fc-98f8448483a7"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ab1dbe70-696f-4ff9-a0c7-7406bff590ae"
+    },
+    {
+      "combination": true,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "df4136c0-9efd-42c3-a487-e728e8b91275"
+    },
+    {
+      "combination": true,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f0a6d21d-203f-4fde-b010-a2730b86b491"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ffb158a1-83ba-4100-9221-175aa986dc3e"
+    },
+    {
+      "combination": true,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d75b0a7e-cb9b-4102-bcac-097403b25129"
+    },
+    {
+      "combination": true,
+      "labeler": "American Health Packaging",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4966a3f2-eed2-4081-ba88-310a3d1964b4"
+    }
+  ]
+}

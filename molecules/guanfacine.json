@@ -1,0 +1,530 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand Intuniv",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/003759",
+      "eu_number": "EU/1/15/1040",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-003759",
+      "mah": "Takeda Pharmaceuticals International AG Ireland",
+      "marketing_authorisation_date": "2015-09-17",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/intuniv",
+      "name": "Intuniv",
+      "record_from": "2015-09-17",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 9
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/006312",
+      "eu_number": "EU/1/24/1908",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-006312",
+      "mah": "Neuraxpharm Pharmaceuticals S.L.",
+      "marketing_authorisation_date": "2025-02-26",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/paxneury",
+      "name": "Paxneury",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-003759",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "GUANFACINE",
+    "GUANFACINE HYDROCHLORIDE"
+  ],
+  "inn": "guanfacine",
+  "name": "GUANFACINE",
+  "rank": 189,
+  "rxcui": [
+    "197745",
+    "197746",
+    "862006",
+    "862010",
+    "862013",
+    "862015",
+    "862019",
+    "862021",
+    "862025",
+    "862027",
+    "1092566",
+    "1092567"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 26,
+    "approval_holders": 24,
+    "earliest_marketing_start": "1995-10-17",
+    "latest_label_update": "2026-10-01",
+    "nda_bla_applications": 1,
+    "repackagers": 12
+  },
+  "unii": [
+    {
+      "ingredient": "GUANFACINE",
+      "unii": "30OMY4G3MK"
+    },
+    {
+      "ingredient": "GUANFACINE HYDROCHLORIDE",
+      "unii": "PML56A160O"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA022037"
+      ],
+      "brand_names": [
+        "Intuniv"
+      ],
+      "combination": false,
+      "home_inn": "guanfacine",
+      "ingredients": [
+        "GUANFACINE HYDROCHLORIDE"
+      ],
+      "labeler": "Takeda Pharmaceuticals America, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2009-09-02",
+      "moieties": [
+        "GUANFACINE"
+      ],
+      "product_ndcs": [
+        "54092-513",
+        "54092-515",
+        "54092-517",
+        "54092-519"
+      ],
+      "rxcui": [
+        "862006",
+        "862010",
+        "862013",
+        "862015",
+        "862019",
+        "862021",
+        "862025",
+        "862027",
+        "1092566",
+        "1092567"
+      ],
+      "setid": "b972af81-3a37-40be-9fe1-3ddf59852528",
+      "source": "openfda",
+      "spl_version": 44,
+      "title": "INTUNIV (GUANFACINE) TABLET, EXTENDED RELEASE INTUNIV (GUANFACINE) KIT [TAKEDA PHARMACEUTICALS AMERICA, INC.]",
+      "upload_date": "2025-06-26"
+    },
+    {
+      "application_numbers": [
+        "ANDA074145"
+      ],
+      "brand_names": [
+        "Guanfacine"
+      ],
+      "combination": false,
+      "home_inn": "guanfacine",
+      "ingredients": [
+        "GUANFACINE HYDROCHLORIDE"
+      ],
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1995-10-17",
+      "moieties": [
+        "GUANFACINE"
+      ],
+      "product_ndcs": [
+        "0591-0444",
+        "0591-0453"
+      ],
+      "rxcui": [
+        "197745",
+        "197746"
+      ],
+      "setid": "a81b956b-f004-4426-ba20-375ccf21eb71",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "GUANFACINE TABLET [ACTAVIS PHARMA, INC.]",
+      "upload_date": "2025-01-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA075109"
+      ],
+      "brand_names": [
+        "Guanfacine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "guanfacine",
+      "ingredients": [
+        "GUANFACINE HYDROCHLORIDE"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1998-11-25",
+      "moieties": [
+        "GUANFACINE"
+      ],
+      "product_ndcs": [
+        "65162-711",
+        "65162-713"
+      ],
+      "rxcui": [
+        "197745",
+        "197746"
+      ],
+      "setid": "d9fdc4b4-5b00-46dd-8700-6e36ceaafb0e",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "GUANFACINE HYDROCHLORIDE (GUANFACINE) TABLET [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2024-10-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA074673"
+      ],
+      "brand_names": [
+        "Guanfacine"
+      ],
+      "combination": false,
+      "home_inn": "guanfacine",
+      "ingredients": [
+        "GUANFACINE HYDROCHLORIDE"
+      ],
+      "labeler": "Epic Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-12-02",
+      "moieties": [
+        "GUANFACINE"
+      ],
+      "product_ndcs": [
+        "42806-048",
+        "42806-296"
+      ],
+      "rxcui": [
+        "197745",
+        "197746"
+      ],
+      "setid": "fac4a4c2-f5f0-46ef-b76b-315abe9136fa",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "GUANFACINE TABLET [EPIC PHARMA, LLC]",
+      "upload_date": "2023-12-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA200881"
+      ],
+      "brand_names": [
+        "guanfacine"
+      ],
+      "combination": false,
+      "home_inn": "guanfacine",
+      "ingredients": [
+        "GUANFACINE HYDROCHLORIDE"
+      ],
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-12-01",
+      "moieties": [
+        "GUANFACINE"
+      ],
+      "product_ndcs": [
+        "0228-2850",
+        "0228-2851",
+        "0228-2853",
+        "0228-2855"
+      ],
+      "rxcui": [
+        "862006",
+        "862013",
+        "862019",
+        "862025"
+      ],
+      "setid": "3a171942-37af-430d-8b9d-bb678ca2be4b",
+      "source": "openfda",
+      "spl_version": 23,
+      "title": "GUANFACINE TABLET, EXTENDED RELEASE [ACTAVIS PHARMA, INC.]",
+      "upload_date": "2026-08-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA201408"
+      ],
+      "brand_names": [
+        "Guanfacine Extended-Release"
+      ],
+      "combination": false,
+      "home_inn": "guanfacine",
+      "ingredients": [
+        "GUANFACINE"
+      ],
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-07-07",
+      "moieties": [
+        "GUANFACINE"
+      ],
+      "product_ndcs": [
+        "24979-533",
+        "24979-534",
+        "24979-536",
+        "24979-538"
+      ],
+      "rxcui": [
+        "862006",
+        "862013",
+        "862019",
+        "862025"
+      ],
+      "setid": "07a701e2-39b7-4bb1-a7c7-d9baed4ab18a",
+      "source": "dailymed-title-match",
+      "spl_version": 16,
+      "title": "GUANFACINE EXTENDED-RELEASE (GUANFACINE) TABLET, EXTENDED RELEASE [UPSHER-SMITH LABORATORIES, LLC]",
+      "upload_date": "2026-10-01"
+    },
+    {
+      "application_numbers": [
+        "ANDA205430"
+      ],
+      "brand_names": [
+        "Guanfacine extended-release"
+      ],
+      "combination": false,
+      "home_inn": "guanfacine",
+      "ingredients": [
+        "GUANFACINE HYDROCHLORIDE"
+      ],
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-10-03",
+      "moieties": [
+        "GUANFACINE"
+      ],
+      "product_ndcs": [
+        "60505-3927",
+        "60505-3928",
+        "60505-3929",
+        "60505-3930"
+      ],
+      "rxcui": [
+        "862006",
+        "862013",
+        "862019",
+        "862025"
+      ],
+      "setid": "1c492e87-3406-ddb8-aaf2-e609c2ded503",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "GUANFACINE EXTENDED-RELEASE (GUANFACINE) TABLET, EXTENDED RELEASE [APOTEX CORP.]",
+      "upload_date": "2026-05-11"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Unichem Pharmaceuticals (USA), Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "14146031-8d56-469b-8de8-fe3cf1712e78"
+    },
+    {
+      "combination": false,
+      "labeler": "NORTHSTAR RXLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0b2afdab-8c92-463e-9734-f2c8b4200777"
+    },
+    {
+      "combination": false,
+      "labeler": "Advagen Pharma Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "87e1ad56-a7b9-431d-a5d2-d52fb64735c7"
+    },
+    {
+      "combination": false,
+      "labeler": "Slate Run Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ed65ca51-b9b0-43b9-9826-03a7be256a2a"
+    },
+    {
+      "combination": false,
+      "labeler": "TWi Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a0c2d95d-805c-4c7d-9733-52073a65218a"
+    },
+    {
+      "combination": false,
+      "labeler": "i3 Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "387b33dd-829d-4dab-afe4-078fd1559027"
+    },
+    {
+      "combination": false,
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "830c0be8-2137-46ee-94c6-aa048b7de35f"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e6d4fc3d-4169-44f1-bcb9-1188de40d4e5"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "983b3157-cbea-435d-ba32-9ee7ef95226a"
+    },
+    {
+      "combination": false,
+      "labeler": "XIROMED, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4f1e668a-37dd-44f4-ae99-3a1f6dba3eea"
+    },
+    {
+      "combination": false,
+      "labeler": "Unichem Pharmaceuticals (USA), Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f4e3c976-8811-4388-92b3-d248d705f8b1"
+    },
+    {
+      "combination": false,
+      "labeler": "Advagen Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e16beec7-9acd-4cd1-be5c-b666ad7d2430"
+    },
+    {
+      "combination": false,
+      "labeler": "Fosun Pharma USA, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "261c06ce-8708-d659-e063-6294a90ac381"
+    },
+    {
+      "combination": false,
+      "labeler": "PuraCap Laboratories LLC dba Blu Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ba089e4c-8623-4159-8230-5c7fd02cdb12"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "73d50917-c807-4213-8efe-aea209845936"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fa7ae501-ee34-4e50-9052-7952e36bbd0e"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9db7def2-c6f9-4d7d-a403-fc615358913a"
+    },
+    {
+      "combination": false,
+      "labeler": "NORTHSTAR RX LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "83d0739b-46fd-6228-e85c-089611067a35"
+    },
+    {
+      "combination": false,
+      "labeler": "A2A Integrated Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "00c3b4d2-fc4d-4e68-9157-eb29d927deaf"
+    }
+  ]
+}

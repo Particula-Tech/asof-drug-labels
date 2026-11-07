@@ -1,0 +1,116 @@
+{
+  "visual": "01-example-queries",
+  "inputs": {
+    "us_head": "52a5f8078918180d0dc32992928b18b8854ad099",
+    "us_record_from": "2006-07-13",
+    "us_record_to": "2026-10-30",
+    "build_date": "2026-11-07",
+    "us_labels": 5393,
+    "us_versions": 47287,
+    "eu_head": "69d4eae5d9a7d8a1860f2c4a1ab7353dd277e31e",
+    "eu_record_from": "1996-02-14",
+    "eu_record_to": "2026-10-19"
+  },
+  "query1_blame": {
+    "label_id": "1e11ad30-1041-4520-10b0-8f9d30d30fcc",
+    "section": "43685-7",
+    "sentence": "Consider the potential for food or drug interactions and adjust the administration or dosage of SYNTHROID as needed",
+    "as_of": "2026-10-30",
+    "label_version_read": 1537,
+    "credited_version": 1533,
+    "credited_published_date": "2022-09-26",
+    "line": "Consider the potential for food or drug interactions and adjust the administration or dosage of SYNTHROID as needed [see Dosage and Administration (2.1), Drug Interactions (7.1), and Clinical Pharmacology (12.3)].",
+    "word_credits": [
+      {
+        "version": 1533,
+        "published_date": "2022-09-26"
+      }
+    ]
+  },
+  "query2_changes": {
+    "from": "2023-01-01",
+    "to": "2025-12-31",
+    "section": "43685-7",
+    "query": "suicidal ideation",
+    "added": 4,
+    "removed": 3,
+    "reworded": 14,
+    "versions_in_window": 10141,
+    "added_labels": [
+      {
+        "label_id": "34496b43-05a2-45fb-a769-52b12e099341",
+        "title": "Plaquenil (hydroxychloroquine sulfate) tablet",
+        "version": 12,
+        "published_date": "2023-08-02"
+      },
+      {
+        "label_id": "452092b4-7a8f-4d19-8113-f1c2a948d3d8",
+        "title": "HYDROXYCHLOROQUINE SULFATE (hydroxychloroquine sulfate) tablet",
+        "version": 13,
+        "published_date": "2023-08-29"
+      },
+      {
+        "label_id": "6a9e2fc8-bedf-46d4-9973-328dbcb18061",
+        "title": "Hydroxychloroquine Sulfate (hydroxychloroquine sulfate) tablet, film coated",
+        "version": 5,
+        "published_date": "2024-06-21"
+      },
+      {
+        "label_id": "84b00366-96ef-41e1-bac6-5d24acdb9e1d",
+        "title": "Hydroxychloroquine Sulfate (hydroxychloroquine sulfate) tablet",
+        "version": 8,
+        "published_date": "2024-07-18"
+      }
+    ],
+    "first_added": {
+      "label_id": "34496b43-05a2-45fb-a769-52b12e099341",
+      "title": "Plaquenil (hydroxychloroquine sulfate) tablet",
+      "version": 12,
+      "published_date": "2023-08-02"
+    },
+    "new_labels_with_phrase": 36
+  },
+  "query3_compare": {
+    "molecule": "bevacizumab",
+    "tried": [
+      {
+        "molecule": "bevacizumab",
+        "clean": true
+      }
+    ],
+    "as_of": "2026-10-30",
+    "section_used": "contraindications",
+    "us_label_id": "939b5d1f-9fb2-4499-80ef-0607aa6b114e",
+    "us_title": "Avastin (bevacizumab) injection, solution",
+    "us_version": 39,
+    "us_published_date": "2025-01-08",
+    "eu_label_id": "EMEA-H-C-000582",
+    "eu_title": "Avastin",
+    "eu_version": 44,
+    "eu_decision": "(2025) 9182",
+    "eu_decision_date": "2025-12-18",
+    "eu_wording": "The Union Register carries this text as Annex I of Commission decision (2025) 9182 of 2025-12-18 (version 44 of Avastin, EMEA/H/C/000582), in force from 2025-12-18 until the record end on 2026-10-19",
+    "shared_lines": 0,
+    "only_in_us": 1,
+    "only_in_eu": 3,
+    "us_lines": [
+      "None."
+    ],
+    "eu_lines": [
+      "- Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.",
+      "- Hypersensitivity to Chinese Hamster Ovary (CHO) cell products or other recombinant human or humanised antibodies.",
+      "- Pregnancy (see section 4.6)."
+    ],
+    "fallback": {
+      "molecule": "pembrolizumab",
+      "section": "indications",
+      "us_label_id": "9333c79b-d487-4538-a9f0-71b91a02b287",
+      "eu_label_id": "EMEA-H-C-003820"
+    }
+  },
+  "git_log_example": {
+    "path": "varenicline/f0ff4f27-5185-4881-a749-c6b7a0ca5696/34066-1-boxed-warning.md",
+    "commits": 8
+  },
+  "title": "Example queries"
+}

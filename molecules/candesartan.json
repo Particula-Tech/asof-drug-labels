@@ -1,0 +1,510 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "CANDESARTAN CILEXETIL"
+  ],
+  "inn": "candesartan",
+  "name": "CANDESARTAN",
+  "rank": 450,
+  "rxcui": [
+    "153822",
+    "153823",
+    "577776",
+    "577785",
+    "577787",
+    "578325",
+    "578330",
+    "639537",
+    "639539",
+    "639543",
+    "802749",
+    "805855",
+    "805859",
+    "805863"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 17,
+    "approval_holders": 9,
+    "earliest_marketing_start": "2012-12-04",
+    "latest_label_update": "2026-09-09",
+    "nda_bla_applications": 2,
+    "repackagers": 2
+  },
+  "unii": [
+    {
+      "ingredient": "CANDESARTAN CILEXETIL",
+      "unii": "R85M2X0D68"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020838"
+      ],
+      "brand_names": [
+        "ATACAND"
+      ],
+      "combination": false,
+      "home_inn": "candesartan",
+      "ingredients": [
+        "CANDESARTAN CILEXETIL"
+      ],
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-10-01",
+      "moieties": [
+        "CANDESARTAN"
+      ],
+      "product_ndcs": [
+        "62559-640",
+        "62559-641",
+        "62559-642",
+        "62559-643"
+      ],
+      "rxcui": [
+        "153822",
+        "153823",
+        "577776",
+        "577785",
+        "577787",
+        "639537",
+        "639539",
+        "639543"
+      ],
+      "setid": "94a59260-d2b6-464a-b5b9-bbc599e57e10",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "ATACAND (CANDESARTAN CILEXETIL) TABLET [ANI PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-12-23"
+    },
+    {
+      "application_numbers": [
+        "NDA021093"
+      ],
+      "brand_names": [
+        "ATACAND HCT"
+      ],
+      "combination": true,
+      "home_inn": "hydrochlorothiazide",
+      "ingredients": [
+        "CANDESARTAN CILEXETIL",
+        "HYDROCHLOROTHIAZIDE"
+      ],
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-10-01",
+      "moieties": [
+        "CANDESARTAN",
+        "HYDROCHLOROTHIAZIDE"
+      ],
+      "product_ndcs": [
+        "62559-650",
+        "62559-651",
+        "62559-652"
+      ],
+      "rxcui": [
+        "578325",
+        "578330",
+        "802749",
+        "805855",
+        "805859",
+        "805863"
+      ],
+      "setid": "d91152c4-66ba-466f-b4f9-0da628d42b1d",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "ATACAND HCT (CANDESARTAN CILEXETIL AND HYDROCHLOROTHIAZIDE) TABLET [ANI PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-12-23"
+    },
+    {
+      "application_numbers": [
+        "NDA020838"
+      ],
+      "brand_names": [
+        "Candesartan cilexetil"
+      ],
+      "combination": false,
+      "home_inn": "candesartan",
+      "ingredients": [
+        "CANDESARTAN CILEXETIL"
+      ],
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2024-03-15",
+      "moieties": [
+        "CANDESARTAN"
+      ],
+      "product_ndcs": [
+        "62559-686",
+        "62559-687",
+        "62559-688",
+        "62559-689"
+      ],
+      "rxcui": [
+        "153822",
+        "153823",
+        "577776",
+        "639537"
+      ],
+      "setid": "4621249c-1f44-4d95-8513-a1a2b1859e41",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "CANDESARTAN CILEXETIL TABLET [ANI PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-12-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA203813"
+      ],
+      "brand_names": [
+        "Candesartan"
+      ],
+      "combination": false,
+      "home_inn": "candesartan",
+      "ingredients": [
+        "CANDESARTAN CILEXETIL"
+      ],
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-12-06",
+      "moieties": [
+        "CANDESARTAN"
+      ],
+      "product_ndcs": [
+        "33342-114",
+        "33342-115",
+        "33342-116",
+        "33342-117"
+      ],
+      "rxcui": [
+        "153822",
+        "153823",
+        "577776",
+        "639537"
+      ],
+      "setid": "8ceb5658-b03c-475d-9ef0-2cd0645191d3",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "CANDESARTAN TABLET [MACLEODS PHARMACEUTICALS LIMITED]",
+      "upload_date": "2023-01-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA209119"
+      ],
+      "brand_names": [
+        "CANDESARTAN CILEXETIL"
+      ],
+      "combination": false,
+      "home_inn": "candesartan",
+      "ingredients": [
+        "CANDESARTAN CILEXETIL"
+      ],
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-06-21",
+      "moieties": [
+        "CANDESARTAN"
+      ],
+      "product_ndcs": [
+        "62332-060"
+      ],
+      "rxcui": [
+        "639537"
+      ],
+      "setid": "0f2b2fa3-249b-4756-a3f1-3223a004d9cb",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "CANDESARTAN CILEXETIL TABLET [ALEMBIC PHARMACEUTICALS INC.]",
+      "upload_date": "2021-10-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA091390"
+      ],
+      "brand_names": [
+        "Candesartan cilexetil"
+      ],
+      "combination": false,
+      "home_inn": "candesartan",
+      "ingredients": [
+        "CANDESARTAN CILEXETIL"
+      ],
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-02-22",
+      "moieties": [
+        "CANDESARTAN"
+      ],
+      "product_ndcs": [
+        "70771-1204",
+        "70771-1205",
+        "70771-1206",
+        "70771-1207"
+      ],
+      "rxcui": [
+        "153822",
+        "153823",
+        "577776",
+        "639537"
+      ],
+      "setid": "26df3269-3682-4ce0-be81-8c029254b5a8",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "CANDESARTAN CILEXETIL TABLET [ZYDUS LIFESCIENCES LIMITED]",
+      "upload_date": "2026-01-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA210302"
+      ],
+      "brand_names": [
+        "CANDESARTAN CILEXETIL"
+      ],
+      "combination": false,
+      "home_inn": "candesartan",
+      "ingredients": [
+        "CANDESARTAN CILEXETIL"
+      ],
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-12-05",
+      "moieties": [
+        "CANDESARTAN"
+      ],
+      "product_ndcs": [
+        "62332-341",
+        "62332-342",
+        "62332-343"
+      ],
+      "rxcui": [
+        "153822",
+        "153823",
+        "577776"
+      ],
+      "setid": "8a515af5-bd53-43f1-b40a-aa0f332bc2ab",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "CANDESARTAN CILEXETIL TABLET [ALEMBIC PHARMACEUTICALS INC.]",
+      "upload_date": "2021-10-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA078702"
+      ],
+      "brand_names": [
+        "candesartan cilexetil"
+      ],
+      "combination": false,
+      "home_inn": "candesartan",
+      "ingredients": [
+        "CANDESARTAN CILEXETIL"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-01-06",
+      "moieties": [
+        "CANDESARTAN"
+      ],
+      "product_ndcs": [
+        "0378-3224",
+        "0378-3225",
+        "0378-3231",
+        "0378-3232"
+      ],
+      "rxcui": [
+        "153822",
+        "153823",
+        "577776",
+        "639537"
+      ],
+      "setid": "904b357e-97bf-475e-90a5-f0449f2a428e",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "CANDESARTAN CILEXETIL TABLET [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2024-01-26"
+    },
+    {
+      "application_numbers": [
+        "NDA021093"
+      ],
+      "archived_versions": 20,
+      "brand_names": [
+        "ATACAND"
+      ],
+      "first_posted": "2006-11-17",
+      "found_by": "ATACAND",
+      "labeler": "AstraZeneca Pharmaceuticals LP",
+      "labeler_unverified": false,
+      "last_posted": "2019-03-05",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-05-31",
+        "2019-07-31",
+        "2020-12-31"
+      ],
+      "product_ndcs": [
+        "0186-0162",
+        "0186-0322",
+        "0186-0324"
+      ],
+      "rxcui": [],
+      "setid": "48b021e4-5897-42fd-12be-3190a9b087e8",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "d91152c4-66ba-466f-b4f9-0da628d42b1d"
+      ],
+      "title": "ATACAND HCT (candesartan cilexetil and hydrochlorothiazide) tablet ATACAND HCT (candesartan cilexetil hydrochlorothiazide) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA020838"
+      ],
+      "archived_versions": 21,
+      "brand_names": [
+        "ATACAND"
+      ],
+      "first_posted": "2009-09-30",
+      "found_by": "ATACAND",
+      "labeler": "AstraZeneca Pharmaceuticals LP",
+      "labeler_unverified": false,
+      "last_posted": "2019-03-05",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2020-10-31",
+        "2020-12-31"
+      ],
+      "product_ndcs": [
+        "0186-0004",
+        "0186-0008",
+        "0186-0016",
+        "0186-0032"
+      ],
+      "rxcui": [],
+      "setid": "a73e1339-9643-4eea-2cbe-e879c88fb50e",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "4621249c-1f44-4d95-8513-a1a2b1859e41",
+        "94a59260-d2b6-464a-b5b9-bbc599e57e10"
+      ],
+      "title": "ATACAND (candesartan cilexetil) tablet"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": true,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bd8d318d-167a-4b26-935d-265dde3193de"
+    },
+    {
+      "combination": true,
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f3c4f7ed-e667-4528-a675-b032c2a4425d"
+    },
+    {
+      "combination": true,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "76630807-9717-44be-946d-756038cf677e"
+    },
+    {
+      "combination": true,
+      "labeler": "Solco Healthcare LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "543b9806-ccfa-4144-a2a2-d0e35eaceeee"
+    },
+    {
+      "combination": true,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cb328bc1-5738-4620-b2b3-442e98388a86"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d23fe59a-2ad6-4885-a0d8-2239048f05a3"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d5b43fa0-6678-4219-99f1-10d273d49baf"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "880f685f-be01-42f4-9e76-ebd1fcfb1f77"
+    },
+    {
+      "combination": false,
+      "labeler": "Viona Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9da86c48-5911-4512-8c71-eca4a6418cf6"
+    }
+  ]
+}

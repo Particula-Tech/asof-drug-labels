@@ -1,0 +1,954 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 1,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "only combination central products under this exact INN (combinations are not built)",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "KETOROLAC",
+    "KETOROLAC TROMETHAMINE"
+  ],
+  "inn": "ketorolac",
+  "name": "KETOROLAC",
+  "rank": 39,
+  "rxcui": [
+    "834022",
+    "858364",
+    "858366",
+    "860092",
+    "860103",
+    "860105",
+    "860107",
+    "860109",
+    "1540230",
+    "1540235",
+    "1665459",
+    "1665461",
+    "1797855",
+    "1797857"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 53,
+    "approval_holders": 39,
+    "earliest_marketing_start": "1992-12-01",
+    "latest_label_update": "2026-09-30",
+    "nda_bla_applications": 5,
+    "repackagers": 24
+  },
+  "unii": [
+    {
+      "ingredient": "KETOROLAC",
+      "unii": "YZI5105V0L"
+    },
+    {
+      "ingredient": "KETOROLAC TROMETHAMINE",
+      "unii": "4EVE5946BQ"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA019700"
+      ],
+      "brand_names": [
+        "Acular"
+      ],
+      "combination": false,
+      "home_inn": "ketorolac",
+      "ingredients": [
+        "KETOROLAC TROMETHAMINE"
+      ],
+      "labeler": "Allergan, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1992-12-01",
+      "moieties": [
+        "KETOROLAC"
+      ],
+      "product_ndcs": [
+        "0023-2181"
+      ],
+      "rxcui": [
+        "860107",
+        "860109"
+      ],
+      "setid": "c94644d3-7b64-4f3d-a0c7-12c77466a0fc",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "ACULAR (KETOROLAC TROMETHAMINE) SOLUTION/ DROPS [ALLERGAN, INC.]",
+      "upload_date": "2025-10-02"
+    },
+    {
+      "application_numbers": [
+        "NDA021528"
+      ],
+      "brand_names": [
+        "ACULAR LS"
+      ],
+      "combination": false,
+      "home_inn": "ketorolac",
+      "ingredients": [
+        "KETOROLAC TROMETHAMINE"
+      ],
+      "labeler": "Allergan, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2003-08-19",
+      "moieties": [
+        "KETOROLAC"
+      ],
+      "product_ndcs": [
+        "0023-9277"
+      ],
+      "rxcui": [
+        "860103",
+        "860105"
+      ],
+      "setid": "4fad0873-f79c-4f07-9fac-5060be6b38fe",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "ACULAR LS (KETOROLAC TROMETHAMINE) SOLUTION/ DROPS [ALLERGAN, INC.]",
+      "upload_date": "2024-07-04"
+    },
+    {
+      "application_numbers": [
+        "NDA022427"
+      ],
+      "brand_names": [
+        "ACUVAIL"
+      ],
+      "combination": false,
+      "home_inn": "ketorolac",
+      "ingredients": [
+        "KETOROLAC TROMETHAMINE"
+      ],
+      "labeler": "Allergan, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2009-08-01",
+      "moieties": [
+        "KETOROLAC"
+      ],
+      "product_ndcs": [
+        "0023-3507"
+      ],
+      "rxcui": [
+        "858364",
+        "858366"
+      ],
+      "setid": "3cea5803-a446-4d2c-9747-f3fb034332c8",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "ACUVAIL (KETOROLAC TROMETHAMINE) SOLUTION/ DROPS [ALLERGAN, INC.]",
+      "upload_date": "2024-07-30"
+    },
+    {
+      "application_numbers": [
+        "NDA022382"
+      ],
+      "brand_names": [
+        "Sprix"
+      ],
+      "combination": false,
+      "home_inn": "ketorolac",
+      "ingredients": [
+        "KETOROLAC TROMETHAMINE"
+      ],
+      "labeler": "Zyla Life Sciences US LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2011-04-26",
+      "moieties": [
+        "KETOROLAC"
+      ],
+      "product_ndcs": [
+        "69344-144"
+      ],
+      "rxcui": [
+        "1797855",
+        "1797857"
+      ],
+      "setid": "97005a1c-167e-4676-bae7-e49b38c36f9e",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "SPRIX (KETOROLAC TROMETHAMINE) SPRAY, METERED [ZYLA LIFE SCIENCES US LLC]",
+      "upload_date": "2024-12-09"
+    },
+    {
+      "application_numbers": [
+        "NDA205388"
+      ],
+      "brand_names": [
+        "Omidria"
+      ],
+      "combination": true,
+      "home_inn": "ketorolac",
+      "ingredients": [
+        "KETOROLAC",
+        "PHENYLEPHRINE"
+      ],
+      "labeler": "Omeros Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2014-06-13",
+      "moieties": [
+        "KETOROLAC",
+        "PHENYLEPHRINE"
+      ],
+      "product_ndcs": [
+        "62225-600"
+      ],
+      "rxcui": [
+        "1540230",
+        "1540235"
+      ],
+      "setid": "21470688-4e81-4ea5-ac38-f72e10552e7e",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "OMIDRIA (PHENYLEPHRINE AND KETOROLAC) INJECTION, SOLUTION, CONCENTRATE [OMEROS CORPORATION]",
+      "upload_date": "2026-05-11"
+    },
+    {
+      "application_numbers": [
+        "NDA205388"
+      ],
+      "brand_names": [
+        "Omidria"
+      ],
+      "combination": true,
+      "home_inn": "ketorolac",
+      "ingredients": [
+        "KETOROLAC",
+        "PHENYLEPHRINE"
+      ],
+      "labeler": "Rayner Surgical Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-07-01",
+      "moieties": [
+        "KETOROLAC",
+        "PHENYLEPHRINE"
+      ],
+      "product_ndcs": [
+        "82604-600"
+      ],
+      "rxcui": [
+        "1540230",
+        "1540235"
+      ],
+      "setid": "f25d7a42-da2a-7310-e053-2995a90a590f",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "OMIDRIA (PHENYLEPHRINE AND KETOROLAC) INJECTION, SOLUTION, CONCENTRATE [RAYNER SURGICAL INC.]",
+      "upload_date": "2023-07-10"
+    },
+    {
+      "application_numbers": [
+        "NDA021528"
+      ],
+      "brand_names": [
+        "KETOROLAC TROMETHAMINE"
+      ],
+      "combination": false,
+      "home_inn": "ketorolac",
+      "ingredients": [
+        "KETOROLAC TROMETHAMINE"
+      ],
+      "labeler": "Pacific Pharma, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2013-11-21",
+      "moieties": [
+        "KETOROLAC"
+      ],
+      "product_ndcs": [
+        "60758-773"
+      ],
+      "rxcui": [
+        "860103"
+      ],
+      "setid": "8432a1c5-15e5-4e3d-8e2d-49646e6b7eda",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "KETOROLAC TROMETHAMINE SOLUTION/ DROPS [PACIFIC PHARMA, INC.]",
+      "upload_date": "2024-07-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA074754"
+      ],
+      "brand_names": [
+        "Ketorolac Tromethamine"
+      ],
+      "combination": false,
+      "home_inn": "ketorolac",
+      "ingredients": [
+        "KETOROLAC TROMETHAMINE"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1998-06-17",
+      "moieties": [
+        "KETOROLAC"
+      ],
+      "product_ndcs": [
+        "0093-0314"
+      ],
+      "rxcui": [
+        "834022"
+      ],
+      "setid": "688f5dec-a6db-43c6-a1f8-5df99d08d395",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "KETOROLAC TROMETHAMINE TABLET, FILM COATED [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2025-01-06"
+    },
+    {
+      "application_numbers": [
+        "ANDA075784"
+      ],
+      "brand_names": [
+        "Ketorolac Tromethamine"
+      ],
+      "combination": false,
+      "home_inn": "ketorolac",
+      "ingredients": [
+        "KETOROLAC TROMETHAMINE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2000-10-18",
+      "moieties": [
+        "KETOROLAC"
+      ],
+      "product_ndcs": [
+        "63323-161",
+        "63323-162"
+      ],
+      "rxcui": [
+        "860092",
+        "1665459",
+        "1665461"
+      ],
+      "setid": "950b7295-3f68-4027-ac2b-2f7d0f5f8ef9",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "KETOROLAC TROMETHAMINE INJECTION, SOLUTION [FRESENIUS KABI USA, LLC",
+      "upload_date": "2022-12-08"
+    },
+    {
+      "application_numbers": [
+        "ANDA075772"
+      ],
+      "brand_names": [
+        "Ketorolac Tromethamine"
+      ],
+      "combination": false,
+      "home_inn": "ketorolac",
+      "ingredients": [
+        "KETOROLAC TROMETHAMINE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2004-07-21",
+      "moieties": [
+        "KETOROLAC"
+      ],
+      "product_ndcs": [
+        "0641-6041",
+        "0641-6042",
+        "0641-6043"
+      ],
+      "rxcui": [
+        "860092",
+        "1665459",
+        "1665461"
+      ],
+      "setid": "0c2c75c9-ed7b-46a8-9543-429bf2d8f090",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "KETOROLAC TROMETHAMINE INJECTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2024-04-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA074802"
+      ],
+      "brand_names": [
+        "Ketorolac Tromethamine"
+      ],
+      "combination": false,
+      "home_inn": "ketorolac",
+      "ingredients": [
+        "KETOROLAC TROMETHAMINE"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2005-06-06",
+      "moieties": [
+        "KETOROLAC"
+      ],
+      "product_ndcs": [
+        "0409-3793",
+        "0409-3795",
+        "0409-3796"
+      ],
+      "rxcui": [
+        "860092",
+        "1665459",
+        "1665461"
+      ],
+      "setid": "8accbb78-fc64-45d5-69b0-35c23a1d2a2e",
+      "source": "openfda",
+      "spl_version": 36,
+      "title": "KETOROLAC TROMETHAMINE INJECTION, SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2026-07-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA076583"
+      ],
+      "brand_names": [
+        "KETOROLAC TROMETHAMINE"
+      ],
+      "combination": false,
+      "home_inn": "ketorolac",
+      "ingredients": [
+        "KETOROLAC TROMETHAMINE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-11-05",
+      "moieties": [
+        "KETOROLAC"
+      ],
+      "product_ndcs": [
+        "61314-126"
+      ],
+      "rxcui": [
+        "860107"
+      ],
+      "setid": "79e29a86-1b44-4d95-8d84-5a2e8f23ddcf",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "KETOROLAC TROMETHAMINE SOLUTION [SANDOZ INC]",
+      "upload_date": "2025-12-05"
+    },
+    {
+      "application_numbers": [
+        "NDA022382"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "SPRIX"
+      ],
+      "first_posted": "2011-05-09",
+      "found_by": "SPRIX",
+      "labeler": "American Regent, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2016-01-15",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2016-01-14"
+      ],
+      "product_ndcs": [
+        "0517-8880"
+      ],
+      "rxcui": [],
+      "setid": "265a485e-0641-463d-b163-9fcb32cf0d7f",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "97005a1c-167e-4676-bae7-e49b38c36f9e"
+      ],
+      "title": "SPRIX (ketorolac tromethamine) spray, metered"
+    },
+    {
+      "application_numbers": [
+        "NDA022382"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "SPRIX"
+      ],
+      "first_posted": "2011-01-03",
+      "found_by": "SPRIX",
+      "labeler": "ROXRO Pharma Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2011-05-05",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2011-01-03"
+      ],
+      "product_ndcs": [
+        "51667-888"
+      ],
+      "rxcui": [],
+      "setid": "9dbc97cf-17a7-4c92-b3e1-b19cef67de13",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "97005a1c-167e-4676-bae7-e49b38c36f9e"
+      ],
+      "title": "SPRIX (ketorolac tromethamine) spray, metered"
+    },
+    {
+      "application_numbers": [
+        "NDA019645"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "TORADOL"
+      ],
+      "first_posted": "2008-01-11",
+      "found_by": "TORADOL",
+      "labeler": "Genentech, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2014-01-14",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2006-07-18"
+      ],
+      "product_ndcs": [
+        "0004-0273"
+      ],
+      "rxcui": [],
+      "setid": "c0336606-7366-41ce-9cef-aa6524b92b11",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "TORADOL (ketorolac tromethamine) tablet, film coated"
+    },
+    {
+      "application_numbers": [
+        "NDA020811"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "ACULAR"
+      ],
+      "first_posted": "2006-09-01",
+      "found_by": "ACULAR",
+      "labeler": "Allergan, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2011-10-18",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2011-06-10"
+      ],
+      "product_ndcs": [
+        "0023-9055"
+      ],
+      "rxcui": [],
+      "setid": "d24e2358-aaa3-41ab-8e21-d6465c33c82c",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ACULAR PF (ketorolac tromethamine) solution/ drops"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d9a186ba-74a9-b6d4-1109-1e045ba1763e"
+    },
+    {
+      "combination": false,
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2837a082-3a34-6f81-5e43-45a70295686b"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "62591551-a644-4b2c-a0de-982e906fabc3"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3d88cbe6-5230-47aa-80af-0c41283d1f00"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2c76b8f9-5385-4c98-aebb-bdca8613d24b"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3855f527-fd6c-4f24-a4b4-cd47eec1193d"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e93f6501-827d-474c-b660-765b7c0fb871"
+    },
+    {
+      "combination": false,
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4b58836d-9d58-4539-9691-9e11c505ef2a"
+    },
+    {
+      "combination": false,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "631c2c31-cd4f-4a17-85c6-be96746a753e"
+    },
+    {
+      "combination": false,
+      "labeler": "Nephron Pharmaceuticals Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ae6c60c0-e88a-45b2-e053-2995a90ac62f"
+    },
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f520978f-9046-4ff8-b04d-0f615fdeae4d"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "007a4da5-d794-416c-94b3-6ee9e7842c52"
+    },
+    {
+      "combination": false,
+      "labeler": "DR. REDDY'S LABORATORIES, INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "10827042-a2d4-44f9-837d-2023a3d552ff"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e1fb8753-4695-4cb2-83d7-15d79fbaeeb2"
+    },
+    {
+      "combination": false,
+      "labeler": "ATNAHS PHARMA US LIMITED",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "57ea681c-392e-4f41-a374-91ed20473161"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "419cf756-3c96-4bb8-ae96-6aea5a5f3afd"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5a4192e8-d9e5-4f09-99f6-da5a648b1aac"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "29a92a7c-68d1-489b-ba27-d788b3153795"
+    },
+    {
+      "combination": false,
+      "labeler": "Bionpharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "eda4b884-527c-42d3-971b-4d1678e5adbf"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "478aff0b-29fd-43b2-a701-5236b8f8e3df"
+    },
+    {
+      "combination": false,
+      "labeler": "SOLA Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2301a6a2-b88a-4c0d-bb6c-ad4a8af7da39"
+    },
+    {
+      "combination": false,
+      "labeler": "Onesource Specialty Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4596483b-990b-eaa4-e063-6394a90ac08f"
+    },
+    {
+      "combination": false,
+      "labeler": "Onesource Specialty Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "45966992-5af6-bf10-e063-6294a90af25b"
+    },
+    {
+      "combination": false,
+      "labeler": "Leading Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "04df9620-6dcb-494a-83e2-6d28036be974"
+    },
+    {
+      "combination": false,
+      "labeler": "SOLA Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b08a46f3-36c9-405d-a963-9739a5c87f9c"
+    },
+    {
+      "combination": false,
+      "labeler": "Anthea Pharma Private Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7a7c8579-d423-4699-9435-69c4d127c654"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ccf905ca-e164-4779-9485-2d139c821bad"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d1920335-8e45-4960-b6e9-e6f1f9e6820c"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5abd4389-4fb2-408b-a27e-cf64b6a921f1"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ffd84ef3-26ed-4810-952b-4f0e913c5e32"
+    },
+    {
+      "combination": false,
+      "labeler": "Civica, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1e8ddf13-c513-4e16-a91a-9d55726d9071"
+    },
+    {
+      "combination": false,
+      "labeler": "FOSUN PHARMA USA INC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1aae6a4d-0909-4672-aa26-e3f2d8c4d413"
+    },
+    {
+      "combination": false,
+      "labeler": "GLENMARK PHARMACEUTICALS INC., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ce992bee-a9f5-48bd-a00e-513f590d69f2"
+    },
+    {
+      "combination": false,
+      "labeler": "Leading Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c34b69c6-5cdf-41f6-8652-33bd8e9c6c70"
+    },
+    {
+      "combination": false,
+      "labeler": "Caplin Steriles Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "588b4804-4ac5-4b96-947e-354029ea4df9"
+    },
+    {
+      "combination": false,
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "36713fb3-d301-432d-a95d-06e368fc8a22"
+    },
+    {
+      "combination": false,
+      "labeler": "Caplin Steriles Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4ba4a228-75d6-4a77-bf34-0381b2a89602"
+    },
+    {
+      "combination": false,
+      "labeler": "Amici Pharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8b26240c-b72b-42a6-ab33-a1e38224fbe0"
+    },
+    {
+      "combination": false,
+      "labeler": "Civica, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "32198544-4a46-495c-ab65-0836dcbc2c49"
+    },
+    {
+      "combination": false,
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "30a3ca20-8f98-478c-8a6b-aa617f0a17a3"
+    },
+    {
+      "combination": false,
+      "labeler": "Amerisyn LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5734e81e-2471-1314-e063-6294a90ac9fe"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/006044",
+      "eu_number": "EU/1/24/1804",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-006044",
+      "mah": "BrePco Biopharma Limited",
+      "marketing_authorisation_date": "2024-05-27",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/neoatricon",
+      "name": "Neoatricon",
+      "record_from": "2024-05-27",
+      "record_to": "2026-11-03",
+      "role": "reference",
+      "versions": 2
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-006044",
+    "reference_selected_by": "salt-alias-v2",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "DOPAMINE HYDROCHLORIDE"
+  ],
+  "inn": "dopamine",
+  "name": "DOPAMINE",
+  "rank": 282,
+  "rxcui": [
+    "1292887",
+    "1743869",
+    "1743871",
+    "1743877",
+    "1743879",
+    "1743938",
+    "1743941",
+    "1743950",
+    "1743953"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 4,
+    "approval_holders": 3,
+    "earliest_marketing_start": "1987-03-27",
+    "latest_label_update": "2026-10-26",
+    "nda_bla_applications": 3,
+    "repackagers": 4
+  },
+  "unii": [
+    {
+      "ingredient": "DOPAMINE HYDROCHLORIDE",
+      "unii": "7L3E358N9L"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA019615"
+      ],
+      "brand_names": [
+        "Dopamine Hydrochloride and Dextrose"
+      ],
+      "combination": false,
+      "home_inn": "dopamine",
+      "ingredients": [
+        "DOPAMINE HYDROCHLORIDE"
+      ],
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1987-03-27",
+      "moieties": [
+        "DOPAMINE"
+      ],
+      "product_ndcs": [
+        "0338-1005",
+        "0338-1007",
+        "0338-1009"
+      ],
+      "rxcui": [
+        "1292887",
+        "1743869",
+        "1743871",
+        "1743877",
+        "1743879"
+      ],
+      "setid": "cb97d4a0-89ed-407c-a763-209386b6f75c",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "DOPAMINE HYDROCHLORIDE AND DEXTROSE (DOPAMINE HYDROCHLORIDE) INJECTION, SOLUTION [BAXTER HEALTHCARE CORPORATION]",
+      "upload_date": "2026-02-26"
+    },
+    {
+      "application_numbers": [
+        "NDA018826"
+      ],
+      "brand_names": [
+        "Dopamine Hydrochloride in Dextrose"
+      ],
+      "combination": false,
+      "home_inn": "dopamine",
+      "ingredients": [
+        "DOPAMINE HYDROCHLORIDE"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2005-04-30",
+      "moieties": [
+        "DOPAMINE"
+      ],
+      "product_ndcs": [
+        "0409-0042",
+        "0409-1858",
+        "0409-7809"
+      ],
+      "rxcui": [
+        "1292887",
+        "1743877",
+        "1743879"
+      ],
+      "setid": "08f23f6e-150d-45ea-098e-f2edf64c21a1",
+      "source": "dailymed-title-match",
+      "spl_version": 28,
+      "title": "DOPAMINE HYDROCHLORIDE IN DEXTROSE INJECTION, SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2026-10-26"
+    },
+    {
+      "application_numbers": [
+        "NDA018132"
+      ],
+      "brand_names": [
+        "DOPamine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "dopamine",
+      "ingredients": [
+        "DOPAMINE HYDROCHLORIDE"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2005-06-30",
+      "moieties": [
+        "DOPAMINE"
+      ],
+      "product_ndcs": [
+        "0409-5820",
+        "0409-9104"
+      ],
+      "rxcui": [
+        "1743938",
+        "1743941"
+      ],
+      "setid": "1f306ad2-3606-4525-5a8a-ce78f426c1a2",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "DOPAMINE HYDROCHLORIDE INJECTION, SOLUTION, CONCENTRATE [HOSPIRA, INC.]",
+      "upload_date": "2026-05-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA207707"
+      ],
+      "brand_names": [
+        "Dopamine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "dopamine",
+      "ingredients": [
+        "DOPAMINE HYDROCHLORIDE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-04-11",
+      "moieties": [
+        "DOPAMINE"
+      ],
+      "product_ndcs": [
+        "0143-9252",
+        "0143-9253",
+        "0143-9254",
+        "0143-9255"
+      ],
+      "rxcui": [
+        "1743938",
+        "1743941",
+        "1743950",
+        "1743953"
+      ],
+      "setid": "0e499952-46c7-4172-8c70-186312e240a3",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "DOPAMINE HYDROCHLORIDE INJECTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2024-06-19"
+    }
+  ],
+  "us_excluded": []
+}

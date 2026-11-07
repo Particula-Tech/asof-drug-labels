@@ -1,0 +1,537 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/000699",
+      "eu_number": "EU/1/06/360",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000699",
+      "mah": "Pfizer Europe MA EEIG",
+      "marketing_authorisation_date": "2006-09-25",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/champix",
+      "name": "Champix",
+      "record_from": "2006-09-26",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 30
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000699",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "VARENICLINE TARTRATE"
+  ],
+  "inn": "varenicline",
+  "name": "VARENICLINE",
+  "rank": 187,
+  "rxcui": [
+    "636671",
+    "636676",
+    "637188",
+    "637190",
+    "749289",
+    "749788",
+    "795735",
+    "795737"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 24,
+    "approval_holders": 24,
+    "earliest_marketing_start": "2006-05-10",
+    "latest_label_update": "2026-10-28",
+    "nda_bla_applications": 2,
+    "repackagers": 6
+  },
+  "unii": [
+    {
+      "ingredient": "VARENICLINE TARTRATE",
+      "unii": "82269ASB48"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021928"
+      ],
+      "brand_names": [
+        "CHANTIX"
+      ],
+      "combination": false,
+      "home_inn": "varenicline",
+      "ingredients": [
+        "VARENICLINE TARTRATE"
+      ],
+      "labeler": "Pfizer Laboratories Div Pfizer Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2006-05-10",
+      "moieties": [
+        "VARENICLINE"
+      ],
+      "product_ndcs": [
+        "0069-0468",
+        "0069-0469",
+        "0069-0471"
+      ],
+      "rxcui": [
+        "636671",
+        "636676",
+        "637188",
+        "637190",
+        "749289",
+        "749788",
+        "795735",
+        "795737"
+      ],
+      "setid": "f0ff4f27-5185-4881-a749-c6b7a0ca5696",
+      "source": "openfda",
+      "spl_version": 49,
+      "title": "CHANTIX (VARENICLINE TARTRATE) TABLET, FILM COATED CHANTIX (VARENICLINE TARTRATE) KIT [PFIZER LABORATORIES DIV PFIZER INC]",
+      "upload_date": "2026-01-23"
+    },
+    {
+      "application_numbers": [
+        "NDA213978"
+      ],
+      "brand_names": [
+        "Tyrvaya"
+      ],
+      "combination": false,
+      "home_inn": "varenicline",
+      "ingredients": [
+        "VARENICLINE TARTRATE"
+      ],
+      "labeler": "Harrow Eye, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-10-20",
+      "moieties": [
+        "VARENICLINE"
+      ],
+      "product_ndcs": [
+        "73521-030"
+      ],
+      "rxcui": [],
+      "setid": "014c93dc-5737-479c-a9f0-aaadac1ac298",
+      "source": "dailymed-title-match",
+      "spl_version": 17,
+      "title": "TYRVAYA (VARENICLINE) SPRAY [HARROW EYE, LLC]",
+      "upload_date": "2026-10-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA201785"
+      ],
+      "brand_names": [
+        "Varenicline"
+      ],
+      "combination": false,
+      "home_inn": "varenicline",
+      "ingredients": [
+        "VARENICLINE TARTRATE"
+      ],
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-09-21",
+      "moieties": [
+        "VARENICLINE"
+      ],
+      "product_ndcs": [
+        "49884-155",
+        "49884-156",
+        "49884-944"
+      ],
+      "rxcui": [
+        "636671",
+        "636676",
+        "749289"
+      ],
+      "setid": "9e5c0ef3-3179-4d7b-bc76-901473c73ce8",
+      "source": "openfda",
+      "spl_version": 23,
+      "title": "VARENICLINE (VARENICLINE TARTRATE) TABLET, FILM COATED VARENICLINE (VARENICLINE TARTRATE) KIT [PAR HEALTH USA, LLC]",
+      "upload_date": "2026-05-14"
+    },
+    {
+      "application_numbers": [
+        "ANDA201962"
+      ],
+      "brand_names": [
+        "VARENICLINE"
+      ],
+      "combination": false,
+      "home_inn": "varenicline",
+      "ingredients": [
+        "VARENICLINE TARTRATE"
+      ],
+      "labeler": "Apotex Corp",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-01-30",
+      "moieties": [
+        "VARENICLINE"
+      ],
+      "product_ndcs": [
+        "60505-3613",
+        "60505-3614",
+        "60505-3615",
+        "60505-4794",
+        "60505-4795"
+      ],
+      "rxcui": [
+        "636671",
+        "636676",
+        "749289",
+        "749788"
+      ],
+      "setid": "78d1857f-8708-5410-792f-4a3e5e7971a5",
+      "source": "dailymed-title-match",
+      "spl_version": 6,
+      "title": "VARENICLINE TABLET, FILM COATED VARENICLINE KIT [APOTEX CORP]",
+      "upload_date": "2026-09-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA216723"
+      ],
+      "brand_names": [
+        "Varenicline"
+      ],
+      "combination": false,
+      "home_inn": "varenicline",
+      "ingredients": [
+        "VARENICLINE TARTRATE"
+      ],
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-06-13",
+      "moieties": [
+        "VARENICLINE"
+      ],
+      "product_ndcs": [
+        "70710-1613",
+        "70710-1614"
+      ],
+      "rxcui": [
+        "636671",
+        "636676"
+      ],
+      "setid": "1d4c9535-f185-4ea3-9140-60c4bb77f736",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "VARENICLINE TABLET, FILM COATED [ZYDUS PHARMACEUTICALS USA INC.]",
+      "upload_date": "2024-02-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA214255"
+      ],
+      "brand_names": [
+        "varenicline tartrate"
+      ],
+      "combination": false,
+      "home_inn": "varenicline",
+      "ingredients": [
+        "VARENICLINE TARTRATE"
+      ],
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-08-22",
+      "moieties": [
+        "VARENICLINE"
+      ],
+      "product_ndcs": [
+        "68462-893",
+        "68462-894",
+        "68462-895"
+      ],
+      "rxcui": [
+        "636671",
+        "636676",
+        "749289",
+        "749788"
+      ],
+      "setid": "e8a06e8e-1938-412c-a98a-28f0a29fe3ac",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "VARENICLINE TARTRATE TABLET, FILM COATED VARENICLINE TARTRATE KIT [GLENMARK PHARMACEUTICALS INC., USA]",
+      "upload_date": "2026-01-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA214557"
+      ],
+      "brand_names": [
+        "Varenicline",
+        "varenicline"
+      ],
+      "combination": false,
+      "home_inn": "varenicline",
+      "ingredients": [
+        "VARENICLINE TARTRATE"
+      ],
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-08-25",
+      "moieties": [
+        "VARENICLINE"
+      ],
+      "product_ndcs": [
+        "67877-743",
+        "67877-744",
+        "67877-745"
+      ],
+      "rxcui": [
+        "636671",
+        "636676",
+        "749289",
+        "749788"
+      ],
+      "setid": "e22e2a6a-66b4-459c-b978-51700e31a1a9",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "VARENICLINE (VARENICLINE TARTRATE) TABLET, FILM COATED VARENICLINE (VARENICLINE TARTRATE) KIT [ASCEND LABORATORIES, LLC]",
+      "upload_date": "2026-08-20"
+    },
+    {
+      "application_numbers": [
+        "ANDA217151"
+      ],
+      "brand_names": [
+        "VARENICLINE TARTRATE"
+      ],
+      "combination": false,
+      "home_inn": "varenicline",
+      "ingredients": [
+        "VARENICLINE TARTRATE"
+      ],
+      "labeler": "Kanchan Healthcare Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-10-01",
+      "moieties": [
+        "VARENICLINE"
+      ],
+      "product_ndcs": [
+        "85742-015",
+        "85742-016",
+        "85742-017"
+      ],
+      "rxcui": [
+        "636671",
+        "636676",
+        "749289",
+        "749788"
+      ],
+      "setid": "1624125c-a0c7-49ee-be00-9bfae4ff9bf5",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "VARENICLINE TARTRATE TABLET, FILM COATED VARENICLINE TARTRATE KIT [KANCHAN HEALTHCARE INC]",
+      "upload_date": "2026-03-02"
+    },
+    {
+      "application_numbers": [
+        "NDA021928"
+      ],
+      "archived_versions": 12,
+      "brand_names": [
+        "CHANTIX"
+      ],
+      "first_posted": "2014-01-06",
+      "found_by": "CHANTIX",
+      "labeler": "U.S. Pharmaceuticals",
+      "labeler_unverified": false,
+      "last_posted": "2025-01-13",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-12-31"
+      ],
+      "product_ndcs": [
+        "63539-473"
+      ],
+      "rxcui": [],
+      "setid": "d52bc40b-db7b-4243-888c-9ee95bbc6545",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "f0ff4f27-5185-4881-a749-c6b7a0ca5696"
+      ],
+      "title": "CHANTIX (varenicline tartrate) kit"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7bd1abc8-2689-496b-b3f2-1cefe218ff5a"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bf20c4cc-1731-4873-8de1-b93d17591e9f"
+    },
+    {
+      "combination": false,
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2f86bb7b-c6a6-4915-8ba1-17251540971c"
+    },
+    {
+      "combination": false,
+      "labeler": "Florida Pharmaceutical Products, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2b9c8b1e-6193-4d8e-9b50-6aca27294263"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c325d582-8f43-40ea-b348-87837de97a07"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddys Laboratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "16ee0a83-88d7-97de-1e07-f9e6dcb5c934"
+    },
+    {
+      "combination": false,
+      "labeler": "Marlex Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "29b6b4ca-aeef-1295-e063-6394a90a21b9"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0004a0bb-87c0-46f8-b36a-95c98107395d"
+    },
+    {
+      "combination": false,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ee603a5d-9a3c-4dbd-ba89-faf253dc8c42"
+    },
+    {
+      "combination": false,
+      "labeler": "Umedica Laboratories USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f2e57493-d099-4055-8e92-67611c8d20f4"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "481b94af-ee34-44be-8ca1-b2415525efac"
+    },
+    {
+      "combination": false,
+      "labeler": "AvKARE",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0552d7ff-9fe8-9c9f-e063-6394a90a79fe"
+    },
+    {
+      "combination": false,
+      "labeler": "Leading Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fdb36cfa-d20a-4fd9-b994-a5d16e4bb438"
+    },
+    {
+      "combination": false,
+      "labeler": "Major Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1297c291-da28-4a73-9c28-d5adee36d7b7"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9031aa0d-2f68-4b9d-903f-ac0e95cbf35f"
+    },
+    {
+      "combination": false,
+      "labeler": "Indoco Remedies Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cd83bc6c-20f4-42e1-adb4-a3d1d89413f4"
+    }
+  ]
+}

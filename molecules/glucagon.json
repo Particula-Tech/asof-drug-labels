@@ -1,0 +1,395 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand BAQSIMI",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/003848",
+      "eu_number": "EU/1/19/1406",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-003848",
+      "mah": "Amphastar France Pharmaceuticals",
+      "marketing_authorisation_date": "2019-12-16",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/baqsimi",
+      "name": "Baqsimi",
+      "record_from": "2019-12-16",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 4
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/005391",
+      "eu_number": "EU/1/20/1523",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-005391",
+      "mah": "Strongbridge Dublin Limited",
+      "marketing_authorisation_date": "2021-02-11",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ogluo",
+      "name": "Ogluo",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-003848",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "GLUCAGON",
+    "GLUCAGON HYDROCHLORIDE"
+  ],
+  "inn": "glucagon",
+  "name": "GLUCAGON",
+  "rank": 298,
+  "rxcui": [
+    "310497",
+    "2180666",
+    "2180671",
+    "2199299",
+    "2199304",
+    "2199307",
+    "2199308",
+    "2199315",
+    "2199316",
+    "2587358",
+    "2587361"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 5,
+    "approval_holders": 4,
+    "earliest_marketing_start": "2015-05-08",
+    "latest_label_update": "2026-10-23",
+    "nda_bla_applications": 3,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "GLUCAGON",
+      "unii": "76LA80IG2G"
+    },
+    {
+      "ingredient": "GLUCAGON HYDROCHLORIDE",
+      "unii": "1H87NVF4DB"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA201849"
+      ],
+      "brand_names": [
+        "Glucagon"
+      ],
+      "combination": false,
+      "home_inn": "glucagon",
+      "ingredients": [
+        "GLUCAGON HYDROCHLORIDE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-05-08",
+      "moieties": [
+        "GLUCAGON"
+      ],
+      "product_ndcs": [
+        "63323-594",
+        "63323-596"
+      ],
+      "rxcui": [
+        "310497"
+      ],
+      "setid": "8c8acad6-44cc-43aa-966b-027e053be8f5",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "GLUCAGON INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION GLUCAGON KIT [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2022-04-20"
+    },
+    {
+      "application_numbers": [
+        "NDA210134"
+      ],
+      "brand_names": [
+        "Baqsimi"
+      ],
+      "combination": false,
+      "home_inn": "glucagon",
+      "ingredients": [
+        "GLUCAGON"
+      ],
+      "labeler": "Amphastar Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2019-07-24",
+      "moieties": [
+        "GLUCAGON"
+      ],
+      "product_ndcs": [
+        "0548-8351",
+        "0548-8352"
+      ],
+      "rxcui": [
+        "2180666",
+        "2180671"
+      ],
+      "setid": "f1f5df9b-872f-44e5-a18f-f0b68e7e9254",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "BAQSIMI (GLUCAGON) POWDER [AMPHASTAR PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-08-11"
+    },
+    {
+      "application_numbers": [
+        "NDA212097"
+      ],
+      "brand_names": [
+        "Gvoke HypoPen 0.5 mg Auto-Injector",
+        "Gvoke HypoPen 1 mg Auto-Injector",
+        "Gvoke Kit",
+        "Gvoke PFS 1 mg Pre-filled Syringe"
+      ],
+      "combination": false,
+      "home_inn": "glucagon",
+      "ingredients": [
+        "GLUCAGON"
+      ],
+      "labeler": "Xeris Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2019-09-10",
+      "moieties": [
+        "GLUCAGON"
+      ],
+      "product_ndcs": [
+        "72065-120",
+        "72065-121",
+        "72065-131",
+        "72065-140"
+      ],
+      "rxcui": [
+        "2199299",
+        "2199304",
+        "2199307",
+        "2199308",
+        "2199315",
+        "2199316",
+        "2587358",
+        "2587361"
+      ],
+      "setid": "92385737-dbad-98c5-e053-2995a90a2805",
+      "source": "dailymed-title-match",
+      "spl_version": 23,
+      "title": "GVOKE HYPOPEN 1 MG AUTO-INJECTOR (GLUCAGON INJECTION, SOLUTION) INJECTION, SOLUTION GVOKE HYPOPEN 0.5 MG AUTO-INJECTOR (GLUCAGON INJECTION, SOLUTION) INJECTION, SOLUTION GVOKE PFS 1 MG PRE-FILLED SYRINGE (GLUCAGON INJECTION, SOLUTION) INJECTION, SOLUTION GVOKE KIT (GLUCAGON INJECTION, SOLUTION) INJECTION, SOLUTION [XERIS PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-10-23"
+    },
+    {
+      "application_numbers": [
+        "NDA201849"
+      ],
+      "brand_names": [
+        "Glucagon"
+      ],
+      "combination": false,
+      "home_inn": "glucagon",
+      "ingredients": [
+        "GLUCAGON HYDROCHLORIDE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-05-08",
+      "moieties": [
+        "GLUCAGON"
+      ],
+      "product_ndcs": [
+        "63323-593",
+        "63323-596"
+      ],
+      "rxcui": [
+        "310497"
+      ],
+      "setid": "e4be1c0e-0fe6-45a0-9229-5cde98434b84",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "GLUCAGON INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION GLUCAGON KIT [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2021-11-18"
+    },
+    {
+      "application_numbers": [
+        "NDA212097"
+      ],
+      "brand_names": [
+        "Gvoke VialDx"
+      ],
+      "combination": false,
+      "home_inn": "glucagon",
+      "ingredients": [
+        "GLUCAGON"
+      ],
+      "labeler": "American Regent, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-08-19",
+      "moieties": [
+        "GLUCAGON"
+      ],
+      "product_ndcs": [
+        "0517-2901"
+      ],
+      "rxcui": [
+        "2587358",
+        "2587361"
+      ],
+      "setid": "359982a8-ec5c-4927-8c0f-89771e0f942b",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "GVOKE VIALDX (GLUCAGON INJECTION) INJECTION, SOLUTION [AMERICAN REGENT, INC.]",
+      "upload_date": "2026-07-09"
+    },
+    {
+      "application_numbers": [
+        "NDA210134"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "BAQSIMI"
+      ],
+      "first_posted": "2019-08-01",
+      "found_by": "BAQSIMI",
+      "labeler": "Eli Lilly and Company",
+      "labeler_unverified": false,
+      "last_posted": "2024-12-13",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-08-23"
+      ],
+      "product_ndcs": [
+        "0002-6145"
+      ],
+      "rxcui": [],
+      "setid": "3fdb4e92-2e19-487d-9f14-99871e9fd15a",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "f1f5df9b-872f-44e5-a18f-f0b68e7e9254"
+      ],
+      "title": "BAQSIMI (glucagon) powder"
+    },
+    {
+      "application_numbers": [
+        "NDA020918"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "GLUCAGEN"
+      ],
+      "first_posted": "2011-09-23",
+      "found_by": "GLUCAGEN",
+      "labeler": "Bedford Laboratories",
+      "labeler_unverified": true,
+      "last_posted": "2017-01-18",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2016-11-30"
+      ],
+      "product_ndcs": [
+        "55390-004"
+      ],
+      "rxcui": [],
+      "setid": "8184c282-4b36-4ae8-a51b-2b22aff34a64",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "GLUCAGEN (glucagon hydrochloride) kit"
+    },
+    {
+      "application_numbers": [
+        "NDA020918"
+      ],
+      "archived_versions": 17,
+      "brand_names": [
+        "GLUCAGEN"
+      ],
+      "first_posted": "2008-09-04",
+      "found_by": "GLUCAGEN",
+      "labeler": "Novo Nordisk",
+      "labeler_unverified": false,
+      "last_posted": "2024-06-03",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-04-30"
+      ],
+      "product_ndcs": [
+        "0169-7065"
+      ],
+      "rxcui": [],
+      "setid": "f09feb8e-6651-4708-a811-bb5264712059",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "GLUCAGEN HYPOKIT (glucagon hydrochloride) kit"
+    },
+    {
+      "application_numbers": [
+        "NDA020918"
+      ],
+      "archived_versions": 10,
+      "brand_names": [
+        "GLUCAGEN"
+      ],
+      "first_posted": "2015-01-06",
+      "found_by": "GLUCAGEN",
+      "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2024-07-31",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-03-31"
+      ],
+      "product_ndcs": [
+        "0597-0053",
+        "0597-0260",
+        "0597-0265"
+      ],
+      "rxcui": [],
+      "setid": "ff16e4b1-3668-4cb4-91a4-77ee509cd6f6",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "GLUCAGEN (glucagon hydrochloride) kit GLUCAGEN (glucagon hydrochloride) injection, powder, for solution"
+    }
+  ],
+  "us_excluded": []
+}

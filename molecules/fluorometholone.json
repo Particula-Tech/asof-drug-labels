@@ -1,0 +1,364 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "FLUOROMETHOLONE",
+    "FLUOROMETHOLONE ACETATE"
+  ],
+  "inn": "fluorometholone",
+  "name": "FLUOROMETHOLONE",
+  "rank": 340,
+  "rxcui": [
+    "208420",
+    "310376",
+    "310377",
+    "545243",
+    "1249629",
+    "1249631"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 7,
+    "approval_holders": 6,
+    "earliest_marketing_start": "1972-02-01",
+    "latest_label_update": "2026-08-27",
+    "nda_bla_applications": 3,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "FLUOROMETHOLONE",
+      "unii": "SV0CSG527L"
+    },
+    {
+      "ingredient": "FLUOROMETHOLONE ACETATE",
+      "unii": "9I50C3I3OK"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA016851"
+      ],
+      "brand_names": [
+        "FML"
+      ],
+      "combination": false,
+      "home_inn": "fluorometholone",
+      "ingredients": [
+        "FLUOROMETHOLONE"
+      ],
+      "labeler": "Allergan, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1972-02-01",
+      "moieties": [
+        "FLUOROMETHOLONE"
+      ],
+      "product_ndcs": [
+        "11980-211"
+      ],
+      "rxcui": [
+        "310377",
+        "545243"
+      ],
+      "setid": "c374d65a-35b5-4c9e-9069-5148875dc4df",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "FML (FLUOROMETHOLONE) SUSPENSION/ DROPS [ALLERGAN, INC.]",
+      "upload_date": "2025-09-29"
+    },
+    {
+      "application_numbers": [
+        "NDA019216"
+      ],
+      "brand_names": [
+        "FML FORTE"
+      ],
+      "combination": false,
+      "home_inn": "fluorometholone",
+      "ingredients": [
+        "FLUOROMETHOLONE"
+      ],
+      "labeler": "Allergan, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1986-05-01",
+      "moieties": [
+        "FLUOROMETHOLONE"
+      ],
+      "product_ndcs": [
+        "11980-228"
+      ],
+      "rxcui": [
+        "208420",
+        "310376"
+      ],
+      "setid": "b810b4c3-ac7a-4ba5-85bf-ebfaf3b1dabf",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "FML FORTE (FLUOROMETHOLONE) SUSPENSION/ DROPS [ALLERGAN, INC.]",
+      "upload_date": "2025-02-24"
+    },
+    {
+      "application_numbers": [
+        "NDA019079"
+      ],
+      "brand_names": [
+        "Flarex"
+      ],
+      "combination": false,
+      "home_inn": "fluorometholone",
+      "ingredients": [
+        "FLUOROMETHOLONE ACETATE"
+      ],
+      "labeler": "Eyevance Pharmaceuticals",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2019-03-05",
+      "moieties": [
+        "FLUOROMETHOLONE"
+      ],
+      "product_ndcs": [
+        "71776-100"
+      ],
+      "rxcui": [
+        "1249629",
+        "1249631"
+      ],
+      "setid": "19918ea5-8568-44d6-b8ee-7b2197cee85c",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "FLAREX (FLUOROMETHOLONE ACETATE) SUSPENSION/ DROPS [EYEVANCE PHARMACEUTICALS]",
+      "upload_date": "2025-01-20"
+    },
+    {
+      "application_numbers": [
+        "NDA019079"
+      ],
+      "brand_names": [
+        "Flarex"
+      ],
+      "combination": false,
+      "home_inn": "fluorometholone",
+      "ingredients": [
+        "FLUOROMETHOLONE ACETATE"
+      ],
+      "labeler": "Harrow Eye, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-03-31",
+      "moieties": [
+        "FLUOROMETHOLONE"
+      ],
+      "product_ndcs": [
+        "82667-010"
+      ],
+      "rxcui": [
+        "1249629",
+        "1249631"
+      ],
+      "setid": "f060dec4-09dc-4266-ab4c-a6ed49cd8126",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "FLAREX (FLUOROMETHOLONE ACETATE) SUSPENSION/ DROPS [HARROW EYE, LLC]",
+      "upload_date": "2025-04-03"
+    },
+    {
+      "application_numbers": [
+        "NDA016851"
+      ],
+      "brand_names": [
+        "FLUOROMETHOLONE"
+      ],
+      "combination": false,
+      "home_inn": "fluorometholone",
+      "ingredients": [
+        "FLUOROMETHOLONE"
+      ],
+      "labeler": "Pacific Pharma, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "1997-10-31",
+      "moieties": [
+        "FLUOROMETHOLONE"
+      ],
+      "product_ndcs": [
+        "60758-880"
+      ],
+      "rxcui": [
+        "310377"
+      ],
+      "setid": "af59c420-789d-4c05-b3fc-c3f855bcac24",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "FLUOROMETHOLONE SOLUTION/ DROPS [PACIFIC PHARMA, INC.]",
+      "upload_date": "2026-08-27"
+    },
+    {
+      "application_numbers": [
+        "ANDA216348"
+      ],
+      "brand_names": [
+        "fluorometholone ophthalmic suspension"
+      ],
+      "combination": false,
+      "home_inn": "fluorometholone",
+      "ingredients": [
+        "FLUOROMETHOLONE"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-01-09",
+      "moieties": [
+        "FLUOROMETHOLONE"
+      ],
+      "product_ndcs": [
+        "60219-1585",
+        "60219-1586"
+      ],
+      "rxcui": [
+        "310377"
+      ],
+      "setid": "e7988a3b-e432-4d42-a8d2-63ca017e6a01",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "FLUOROMETHOLONE OPHTHALMIC SUSPENSION (FLUOROMETHOLONE) SUSPENSION/ DROPS [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2026-08-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA218819"
+      ],
+      "brand_names": [
+        "fluorometholone"
+      ],
+      "combination": false,
+      "home_inn": "fluorometholone",
+      "ingredients": [
+        "FLUOROMETHOLONE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-05-18",
+      "moieties": [
+        "FLUOROMETHOLONE"
+      ],
+      "product_ndcs": [
+        "0781-6187"
+      ],
+      "rxcui": [
+        "310377"
+      ],
+      "setid": "c9cbf06e-5413-4c3c-9ded-174c856a4ce1",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "FLUOROMETHOLONE SUSPENSION/ DROPS [SANDOZ INC]",
+      "upload_date": "2026-07-13"
+    },
+    {
+      "application_numbers": [
+        "NDA017760"
+      ],
+      "archived_versions": 8,
+      "brand_names": [
+        "FML"
+      ],
+      "first_posted": "2007-01-05",
+      "found_by": "FML",
+      "labeler": "Allergan, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2023-01-16",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-11-07"
+      ],
+      "product_ndcs": [
+        "0023-0316"
+      ],
+      "rxcui": [],
+      "setid": "3102d420-8842-4809-9aa1-7be91ac7d0ab",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "FML (fluorometholone) ointment"
+    },
+    {
+      "application_numbers": [
+        "NDA019079"
+      ],
+      "archived_versions": 10,
+      "brand_names": [
+        "FLAREX"
+      ],
+      "first_posted": "2008-03-13",
+      "found_by": "FLAREX",
+      "labeler": "Alcon Laboratories, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2026-01-02",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-03-01"
+      ],
+      "product_ndcs": [
+        "0065-0096"
+      ],
+      "rxcui": [],
+      "setid": "6ae122c0-eb4f-4124-96d7-ba5e9a350d35",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "19918ea5-8568-44d6-b8ee-7b2197cee85c",
+        "f060dec4-09dc-4266-ab4c-a6ed49cd8126"
+      ],
+      "title": "FLAREX (fluorometholone acetate) suspension/ drops"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "FLAREX"
+      ],
+      "first_posted": "2006-11-17",
+      "found_by": "FLAREX",
+      "labeler": "Alcon Laboratories, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2006-11-17",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0065-0096"
+      ],
+      "rxcui": [],
+      "setid": "l6ae122c0-eb4f-4124-96d7-ba5e9a350d35",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "flarex (fluorometholone acetate) suspension"
+    }
+  ],
+  "us_excluded": []
+}

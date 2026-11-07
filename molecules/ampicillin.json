@@ -1,0 +1,738 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "AMPICILLIN SODIUM",
+    "AMPICILLIN TRIHYDRATE"
+  ],
+  "inn": "ampicillin",
+  "name": "AMPICILLIN",
+  "rank": 337,
+  "rxcui": [
+    "205843",
+    "240984",
+    "308212",
+    "313800",
+    "789980",
+    "1659592",
+    "1659595",
+    "1659598",
+    "1659600",
+    "1721473",
+    "1721474",
+    "1721475",
+    "1721476"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 53,
+    "approval_holders": 17,
+    "earliest_marketing_start": "1971-03-03",
+    "latest_label_update": "2026-10-08",
+    "nda_bla_applications": 1,
+    "repackagers": 5
+  },
+  "unii": [
+    {
+      "ingredient": "AMPICILLIN SODIUM",
+      "unii": "JFN36L5S8K"
+    },
+    {
+      "ingredient": "AMPICILLIN TRIHYDRATE",
+      "unii": "HXQ6A1N7R6"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA050608"
+      ],
+      "brand_names": [
+        "UNASYN"
+      ],
+      "combination": true,
+      "home_inn": "ampicillin",
+      "ingredients": [
+        "AMPICILLIN SODIUM",
+        "SULBACTAM SODIUM"
+      ],
+      "labeler": "Roerig",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1991-11-22",
+      "moieties": [
+        "AMPICILLIN",
+        "SULBACTAM"
+      ],
+      "product_ndcs": [
+        "0049-0024"
+      ],
+      "rxcui": [
+        "205843",
+        "240984"
+      ],
+      "setid": "12eeb72a-403d-41be-bae4-4cb930862884",
+      "source": "openfda",
+      "spl_version": 40,
+      "title": "UNASYN (AMPICILLIN SODIUM AND SULBACTAM SODIUM) INJECTION, POWDER, FOR SOLUTION UNASYN (AMPICILLIN AND SULBACTAM) INJECTION, POWDER, FOR SOLUTION [ROERIG]",
+      "upload_date": "2026-07-20"
+    },
+    {
+      "application_numbers": [
+        "NDA050608"
+      ],
+      "brand_names": [
+        "UNASYN"
+      ],
+      "combination": true,
+      "home_inn": "ampicillin",
+      "ingredients": [
+        "AMPICILLIN SODIUM",
+        "SULBACTAM SODIUM"
+      ],
+      "labeler": "Roerig",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1991-11-22",
+      "moieties": [
+        "AMPICILLIN",
+        "SULBACTAM"
+      ],
+      "product_ndcs": [
+        "0049-0013",
+        "0049-0014"
+      ],
+      "rxcui": [
+        "1659592",
+        "1659595",
+        "1659598",
+        "1659600"
+      ],
+      "setid": "155c7ec0-5862-404f-b1d0-f278f8a8bbda",
+      "source": "openfda",
+      "spl_version": 46,
+      "title": "UNASYN (AMPICILLIN SODIUM AND SULBACTAM SODIUM) INJECTION, POWDER, FOR SOLUTION UNASYN (AMPICILLIN AND SULBACTAM) INJECTION, POWDER, FOR SOLUTION [ROERIG]",
+      "upload_date": "2026-07-20"
+    },
+    {
+      "application_numbers": [
+        "ANDA061395"
+      ],
+      "brand_names": [
+        "Ampicillin"
+      ],
+      "combination": false,
+      "home_inn": "ampicillin",
+      "ingredients": [
+        "AMPICILLIN SODIUM"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1971-03-03",
+      "moieties": [
+        "AMPICILLIN"
+      ],
+      "product_ndcs": [
+        "0781-9409"
+      ],
+      "rxcui": [
+        "789980"
+      ],
+      "setid": "5308ddfa-4a5b-4f7b-83ce-9d1b528e050d",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "AMPICILLIN (AMPICILLIN SODIUM) INJECTION, POWDER, FOR SOLUTION [SANDOZ INC]",
+      "upload_date": "2024-05-20"
+    },
+    {
+      "application_numbers": [
+        "ANDA062738"
+      ],
+      "brand_names": [
+        "Ampicillin"
+      ],
+      "combination": false,
+      "home_inn": "ampicillin",
+      "ingredients": [
+        "AMPICILLIN SODIUM"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1987-02-19",
+      "moieties": [
+        "AMPICILLIN"
+      ],
+      "product_ndcs": [
+        "0781-3412",
+        "0781-3413"
+      ],
+      "rxcui": [
+        "1721475",
+        "1721476"
+      ],
+      "setid": "67dd2930-8482-4da5-b663-b751aff18c61",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "AMPICILLIN (AMPICILLIN SODIUM) INJECTION, POWDER, FOR SOLUTION [SANDOZ INC]",
+      "upload_date": "2025-05-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA064082"
+      ],
+      "brand_names": [
+        "Ampicillin"
+      ],
+      "combination": false,
+      "home_inn": "ampicillin",
+      "ingredients": [
+        "AMPICILLIN TRIHYDRATE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1995-08-29",
+      "moieties": [
+        "AMPICILLIN"
+      ],
+      "product_ndcs": [
+        "0781-2145"
+      ],
+      "rxcui": [
+        "308212",
+        "313800"
+      ],
+      "setid": "0a66c5c3-63bf-46e3-835e-26b555ab6954",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "AMPICILLIN CAPSULE [SANDOZ INC]",
+      "upload_date": "2025-08-01"
+    },
+    {
+      "application_numbers": [
+        "ANDA065493"
+      ],
+      "brand_names": [
+        "Ampicillin"
+      ],
+      "combination": false,
+      "home_inn": "ampicillin",
+      "ingredients": [
+        "AMPICILLIN SODIUM"
+      ],
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-02-01",
+      "moieties": [
+        "AMPICILLIN"
+      ],
+      "product_ndcs": [
+        "55150-115"
+      ],
+      "rxcui": [
+        "789980"
+      ],
+      "setid": "66146d45-0fe4-46b9-b2b1-b67c219088b7",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "AMPICILLIN (AMPICILLIN SODIUM) INJECTION, POWDER, FOR SOLUTION [EUGIA US LLC]",
+      "upload_date": "2025-08-22"
+    },
+    {
+      "application_numbers": [
+        "ANDA065499"
+      ],
+      "brand_names": [
+        "Ampicillin"
+      ],
+      "combination": false,
+      "home_inn": "ampicillin",
+      "ingredients": [
+        "AMPICILLIN SODIUM"
+      ],
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-02-01",
+      "moieties": [
+        "AMPICILLIN"
+      ],
+      "product_ndcs": [
+        "55150-111",
+        "55150-112",
+        "55150-113",
+        "55150-114"
+      ],
+      "rxcui": [
+        "1721473",
+        "1721474",
+        "1721475",
+        "1721476"
+      ],
+      "setid": "b7bf2897-8272-4c7d-84e9-6fbba0ea63fa",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "AMPICILLIN (AMPICILLIN SODIUM) INJECTION, POWDER, FOR SOLUTION [EUGIA US LLC]",
+      "upload_date": "2025-08-22"
+    },
+    {
+      "application_numbers": [
+        "ANDA201404"
+      ],
+      "brand_names": [
+        "Ampicillin"
+      ],
+      "combination": false,
+      "home_inn": "ampicillin",
+      "ingredients": [
+        "AMPICILLIN SODIUM"
+      ],
+      "labeler": "WG Critical Care, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-05-10",
+      "moieties": [
+        "AMPICILLIN"
+      ],
+      "product_ndcs": [
+        "44567-104"
+      ],
+      "rxcui": [
+        "789980"
+      ],
+      "setid": "12b6ac82-ca74-4f88-99ea-ae4a1c419b70",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "AMPICILLIN INJECTION, POWDER, FOR SOLUTION [WG CRITICAL CARE, LLC]",
+      "upload_date": "2026-06-30"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "WG Critical Care, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "38ec7b7a-9caf-45f2-88a1-0f78f089a1e4"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8dbb4c71-8543-08f1-e053-2995a90af88d"
+    },
+    {
+      "combination": false,
+      "labeler": "Armas Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "34e95c91-3767-493c-8716-38e61e7c6674"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7f8b1ab1-73c6-4cdf-a838-7a4554c62586"
+    },
+    {
+      "combination": false,
+      "labeler": "Armas Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "65d94837-ca25-4728-932b-139d3bf4c716"
+    },
+    {
+      "combination": true,
+      "labeler": "WG Critical Care, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "77158167-0c1e-4f01-a5b0-a3df8ad121f5"
+    },
+    {
+      "combination": true,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "006f9a3f-b4e3-4aa5-ac65-6cc3d3e2582d"
+    },
+    {
+      "combination": true,
+      "labeler": "WG Critical Care, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9a722de6-9dc0-4fb9-b63a-225385aa3314"
+    },
+    {
+      "combination": true,
+      "labeler": "Hospira, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dc374fa4-350b-425d-a7db-7099fdc64cf1"
+    },
+    {
+      "combination": true,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "139b4b2e-46f7-44a8-9cc1-774afa463b80"
+    },
+    {
+      "combination": true,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9f2ff165-2a21-4155-a4f0-57885a83c7dc"
+    },
+    {
+      "combination": true,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "16fdfdb9-9e26-48d0-8838-570d30c8e897"
+    },
+    {
+      "combination": true,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2709e9fc-2341-4382-af72-c2e3201bd77a"
+    },
+    {
+      "combination": true,
+      "labeler": "ONESOURCE SPECIALTY PHARMA LIMITED",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "44181723-ef09-301b-e063-6394a90a2cad"
+    },
+    {
+      "combination": true,
+      "labeler": "NorthStar Rx, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1e5004f1-e79e-4e0b-9f3f-25f6bbc15255"
+    },
+    {
+      "combination": true,
+      "labeler": "Armas Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "409f8a6d-f54f-415f-994c-ecd2b820caab"
+    },
+    {
+      "combination": false,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "64a04e8c-8f78-46b3-8f45-56ef225a4f74"
+    },
+    {
+      "combination": false,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6632a5bd-45f1-422f-80b0-46e5a628969a"
+    },
+    {
+      "combination": false,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b371e1a5-1fef-4df2-8940-c4fc02b9e2f0"
+    },
+    {
+      "combination": false,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c2908a44-1da4-4885-ae5a-23f69189d91a"
+    },
+    {
+      "combination": false,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f77db491-31c4-4a7c-a114-0f3244c97090"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9d2aebe8-4f04-49dd-b1e5-80b962868dc3"
+    },
+    {
+      "combination": false,
+      "labeler": "Civica, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a194f310-a669-4d8f-8c04-ee9ca01939b1"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3b683547-48ac-48ca-8fd4-6866fd17be34"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6772d650-9814-49e4-a4ec-0b1a97b837d1"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5b3796dd-6f81-4999-ae2b-a13a72795729"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "302e6df7-37c5-4625-8a61-3e2f302addf2"
+    },
+    {
+      "combination": false,
+      "labeler": "Avenacy Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "19546563-50b7-4160-8cbe-f8e7079cba69"
+    },
+    {
+      "combination": false,
+      "labeler": "Civica, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2fd0f9fa-5b86-42f7-9a9f-767123638d39"
+    },
+    {
+      "combination": false,
+      "labeler": "ONESOURCE SPECIALTY PHARMA LIMITED",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "519f2131-79e7-569f-e063-6394a90a2f93"
+    },
+    {
+      "combination": false,
+      "labeler": "ONESOURCE SPECIALTY PHARMA LIMITED",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "519f3ba6-606f-bfc4-e063-6294a90af884"
+    },
+    {
+      "combination": true,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e6cf14a8-3ed9-4a7a-ba69-be0b794cbdc4"
+    },
+    {
+      "combination": true,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a65a70bf-4283-4bc0-b576-00c9ab29bd64"
+    },
+    {
+      "combination": true,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d3026cc0-95d8-44cf-be47-b5ebb8fd4568"
+    },
+    {
+      "combination": true,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "35606b43-5914-423c-9bc7-fa3957eb2563"
+    },
+    {
+      "combination": true,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a67ae347-487d-4751-a841-b321e81db26f"
+    },
+    {
+      "combination": true,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "437a26f4-776b-4f74-99b2-09ad79831b0c"
+    },
+    {
+      "combination": true,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "adc92303-b62b-41c8-becf-9c3a4e8c3a6b"
+    },
+    {
+      "combination": true,
+      "labeler": "WG Critical Care, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "72a37674-8cb2-4b40-aac8-d345ffcf22f2"
+    },
+    {
+      "combination": true,
+      "labeler": "Armas Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ac6f8158-9d7e-4b99-af3c-0407c5287b57"
+    },
+    {
+      "combination": true,
+      "labeler": "NorthStar Rx, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5e8d35cb-e93d-42ad-a02c-0dbf04910f61"
+    },
+    {
+      "combination": true,
+      "labeler": "Avenacy, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4446d4c8-056d-4bc3-8f58-21255b063398"
+    },
+    {
+      "combination": true,
+      "labeler": "Avenacy, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "577dd6f0-d56a-4c82-9f72-274c3a4a0f01"
+    },
+    {
+      "combination": true,
+      "labeler": "ONESOURCE SPECIALTY PHARMA LIMITED",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "573aca0c-111e-4ed3-9bcd-18136cae12cc"
+    },
+    {
+      "combination": true,
+      "labeler": "Civica, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e98a36a1-b75b-42b9-ad1a-05004e9587b6"
+    }
+  ]
+}

@@ -1,0 +1,418 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "FLUORESCEIN",
+    "FLUORESCEIN SODIUM"
+  ],
+  "inn": "fluorescein",
+  "name": "FLUORESCEIN",
+  "rank": 200,
+  "rxcui": [
+    "2099132",
+    "2099522",
+    "2287005"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 10,
+    "approval_holders": 10,
+    "earliest_marketing_start": "1972-09-15",
+    "latest_label_update": "2026-10-19",
+    "nda_bla_applications": 4,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "FLUORESCEIN",
+      "unii": "TPY09G7XIR"
+    },
+    {
+      "ingredient": "FLUORESCEIN SODIUM",
+      "unii": "93X55PE38X"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021980"
+      ],
+      "brand_names": [
+        "FLUORESCITE"
+      ],
+      "combination": false,
+      "home_inn": "fluorescein",
+      "ingredients": [
+        "FLUORESCEIN"
+      ],
+      "labeler": "Alcon, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1972-09-15",
+      "moieties": [
+        "FLUORESCEIN"
+      ],
+      "product_ndcs": [
+        "0065-0092"
+      ],
+      "rxcui": [],
+      "setid": "ebb3883c-71f6-4fd0-a7e6-0ba8e1136dd9",
+      "source": "dailymed-title-match",
+      "spl_version": 20,
+      "title": "FLUORESCITE (FLUORESCEIN) INJECTION, SOLUTION [ALCON, INC.]",
+      "upload_date": "2026-10-19"
+    },
+    {
+      "application_numbers": [
+        "NDA022186"
+      ],
+      "brand_names": [
+        "AK-FLUOR"
+      ],
+      "combination": false,
+      "home_inn": "fluorescein",
+      "ingredients": [
+        "FLUORESCEIN SODIUM"
+      ],
+      "labeler": "Long Grove Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-09-28",
+      "moieties": [
+        "FLUORESCEIN"
+      ],
+      "product_ndcs": [
+        "81298-8660"
+      ],
+      "rxcui": [],
+      "setid": "73511e79-c050-4dc0-aa2f-a79ed320b5b0",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "AK-FLUOR (FLUORESCEIN) INJECTION [LONG GROVE PHARMACEUTICALS, LLC]",
+      "upload_date": "2026-03-25"
+    },
+    {
+      "application_numbers": [
+        "NDA208582"
+      ],
+      "brand_names": [
+        "ALTAFLUOR"
+      ],
+      "combination": true,
+      "home_inn": "fluorescein",
+      "ingredients": [
+        "BENOXINATE HYDROCHLORIDE",
+        "FLUORESCEIN SODIUM"
+      ],
+      "labeler": "Altaire Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-03-01",
+      "moieties": [
+        "BENOXINATE",
+        "FLUORESCEIN"
+      ],
+      "product_ndcs": [
+        "59390-218"
+      ],
+      "rxcui": [
+        "2099132",
+        "2099522"
+      ],
+      "setid": "54017304-e680-4129-b52a-69cb9810af76",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "ALTAFLUOR (FLUORESCEIN SODIUM AND BENOXINATE HYDROCHLORIDE) SOLUTION [ALTAIRE PHARMACEUTICALS INC.]",
+      "upload_date": "2022-12-12"
+    },
+    {
+      "application_numbers": [
+        "NDA211039"
+      ],
+      "brand_names": [
+        "Fluorescein Sodium and Benoxinate Hydrochloride"
+      ],
+      "combination": true,
+      "home_inn": "fluorescein",
+      "ingredients": [
+        "BENOXINATE HYDROCHLORIDE",
+        "FLUORESCEIN SODIUM"
+      ],
+      "labeler": "Bausch & Lomb Incorporated",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2020-03-20",
+      "moieties": [
+        "BENOXINATE",
+        "FLUORESCEIN"
+      ],
+      "product_ndcs": [
+        "24208-734"
+      ],
+      "rxcui": [
+        "2287005"
+      ],
+      "setid": "1797c5ef-66c4-4cf8-b62d-b484242be2ee",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "FLUORESCEIN SODIUM AND BENOXINATE HYDROCHLORIDE SOLUTION/ DROPS [BAUSCH & LOMB INCORPORATED]",
+      "upload_date": "2025-05-14"
+    },
+    {
+      "application_numbers": [
+        "ANDA215709"
+      ],
+      "brand_names": [
+        "Fluorescein"
+      ],
+      "combination": false,
+      "home_inn": "fluorescein",
+      "ingredients": [
+        "FLUORESCEIN"
+      ],
+      "labeler": "Nexus Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-10-24",
+      "moieties": [
+        "FLUORESCEIN"
+      ],
+      "product_ndcs": [
+        "14789-122",
+        "14789-123"
+      ],
+      "rxcui": [],
+      "setid": "0a2a65b1-dc88-445b-bfb7-53b2fd7bea2c",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "FLUORESCEIN INJECTION [NEXUS PHARMACEUTICALS LLC]",
+      "upload_date": "2023-10-26"
+    },
+    {
+      "application_numbers": [
+        "ANDA220046"
+      ],
+      "brand_names": [
+        "Fluorescein"
+      ],
+      "combination": false,
+      "home_inn": "fluorescein",
+      "ingredients": [
+        "FLUORESCEIN SODIUM"
+      ],
+      "labeler": "BPI Labs LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-05-20",
+      "moieties": [
+        "FLUORESCEIN"
+      ],
+      "product_ndcs": [
+        "54288-179"
+      ],
+      "rxcui": [],
+      "setid": "770582e3-c99b-4a02-868c-29309013717e",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "FLUORESCEIN INJECTION, SOLUTION [BPI LABS LLC]",
+      "upload_date": "2026-05-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA218651"
+      ],
+      "brand_names": [
+        "Fluorescein"
+      ],
+      "combination": false,
+      "home_inn": "fluorescein",
+      "ingredients": [
+        "FLUORESCEIN SODIUM"
+      ],
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-06-02",
+      "moieties": [
+        "FLUORESCEIN"
+      ],
+      "product_ndcs": [
+        "70710-2045",
+        "70710-2046"
+      ],
+      "rxcui": [],
+      "setid": "19aea137-3f47-4b69-9884-3bff5f79b04a",
+      "source": "dailymed-title-match",
+      "spl_version": 2,
+      "title": "FLUORESCEIN INJECTION [ZYDUS PHARMACEUTICALS USA INC.]",
+      "upload_date": "2026-10-08"
+    },
+    {
+      "application_numbers": [
+        "NDA211039"
+      ],
+      "brand_names": [
+        "Fluorescein Sodium and Benoxinate Hydrochloride"
+      ],
+      "combination": true,
+      "home_inn": "fluorescein",
+      "ingredients": [
+        "BENOXINATE HYDROCHLORIDE",
+        "FLUORESCEIN SODIUM"
+      ],
+      "labeler": "Bausch & Lomb Americas Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2020-03-20",
+      "moieties": [
+        "BENOXINATE",
+        "FLUORESCEIN"
+      ],
+      "product_ndcs": [
+        "82260-734"
+      ],
+      "rxcui": [
+        "2287005"
+      ],
+      "setid": "f935b5f8-dc6e-4425-a668-968ee3855f51",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "FLUORESCEIN SODIUM AND BENOXINATE HYDROCHLORIDE SOLUTION/ DROPS [BAUSCH & LOMB AMERICAS INC.]",
+      "upload_date": "2025-05-14"
+    },
+    {
+      "application_numbers": [
+        "ANDA218651"
+      ],
+      "brand_names": [
+        "Fluorescein"
+      ],
+      "combination": false,
+      "home_inn": "fluorescein",
+      "ingredients": [
+        "FLUORESCEIN SODIUM"
+      ],
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-06-02",
+      "moieties": [
+        "FLUORESCEIN"
+      ],
+      "product_ndcs": [
+        "70771-1969",
+        "70771-1970"
+      ],
+      "rxcui": [],
+      "setid": "5c88e2a2-b05c-46f2-9874-c935e4b96a6e",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "FLUORESCEIN INJECTION [ZYDUS LIFESCIENCES LIMITED]",
+      "upload_date": "2026-06-03"
+    },
+    {
+      "application_numbers": [
+        "ANDA218651"
+      ],
+      "brand_names": [
+        "FLUORESCEIN"
+      ],
+      "combination": false,
+      "home_inn": "fluorescein",
+      "ingredients": [
+        "FLUORESCEIN SODIUM"
+      ],
+      "labeler": "Anthea Pharma Private Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-10-14",
+      "moieties": [
+        "FLUORESCEIN"
+      ],
+      "product_ndcs": [
+        "83854-048"
+      ],
+      "rxcui": [],
+      "setid": "fbf07435-b6c0-49a5-a393-44617e3f451a",
+      "source": "dailymed-title-match",
+      "spl_version": 1,
+      "title": "FLUORESCEIN INJECTION [ANTHEA PHARMA PRIVATE LIMITED]",
+      "upload_date": "2026-10-19"
+    },
+    {
+      "application_numbers": [
+        "NDA208582"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "ALTAFLUOR"
+      ],
+      "first_posted": "2014-05-29",
+      "found_by": "ALTAFLUOR",
+      "labeler": "Altaire Pharmaceuticals Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2020-01-31",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-04-19"
+      ],
+      "product_ndcs": [
+        "59390-206"
+      ],
+      "rxcui": [],
+      "setid": "36009e1e-4b69-4cb0-bd3a-3c6115c1fcf9",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "54017304-e680-4129-b52a-69cb9810af76"
+      ],
+      "title": "ALTAFLUOR (fluorescein sodium and benoxinate hydrochloride) solution"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "FLUORESCITE"
+      ],
+      "first_posted": "2007-06-14",
+      "found_by": "FLUORESCITE",
+      "labeler": "Alcon Laboratories, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2007-06-14",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0065-0092"
+      ],
+      "rxcui": [],
+      "setid": "lebb3883c-71f6-4fd0-a7e6-0ba8e1136dd9",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "fluorescite (fluorescein) injection, solution"
+    }
+  ],
+  "us_excluded": []
+}

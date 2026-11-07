@@ -1,0 +1,397 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "SELEGILINE",
+    "SELEGILINE HYDROCHLORIDE"
+  ],
+  "inn": "selegiline",
+  "name": "SELEGILINE",
+  "rank": 426,
+  "rxcui": [
+    "859186",
+    "859190",
+    "859192",
+    "859193",
+    "865206",
+    "865208",
+    "865210",
+    "865212",
+    "865214",
+    "865216"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 9,
+    "approval_holders": 8,
+    "earliest_marketing_start": "1996-08-02",
+    "latest_label_update": "2026-09-21",
+    "nda_bla_applications": 2,
+    "repackagers": 5
+  },
+  "unii": [
+    {
+      "ingredient": "SELEGILINE",
+      "unii": "2K1V7GP655"
+    },
+    {
+      "ingredient": "SELEGILINE HYDROCHLORIDE",
+      "unii": "6W731X367Q"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021336"
+      ],
+      "brand_names": [
+        "EMSAM"
+      ],
+      "combination": false,
+      "home_inn": "selegiline",
+      "ingredients": [
+        "SELEGILINE"
+      ],
+      "labeler": "Viatris Specialty LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2006-02-27",
+      "moieties": [
+        "SELEGILINE"
+      ],
+      "product_ndcs": [
+        "49502-900",
+        "49502-901",
+        "49502-902"
+      ],
+      "rxcui": [
+        "865206",
+        "865208",
+        "865210",
+        "865212",
+        "865214",
+        "865216"
+      ],
+      "setid": "b891bd9f-fdb8-4862-89c5-ecdd700398a3",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "EMSAM (SELEGILINE) PATCH [VIATRIS SPECIALTY LLC]",
+      "upload_date": "2025-02-10"
+    },
+    {
+      "application_numbers": [
+        "NDA021479"
+      ],
+      "brand_names": [
+        "ZELAPAR"
+      ],
+      "combination": false,
+      "home_inn": "selegiline",
+      "ingredients": [
+        "SELEGILINE HYDROCHLORIDE"
+      ],
+      "labeler": "Bausch Health US, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2006-06-14",
+      "moieties": [
+        "SELEGILINE"
+      ],
+      "product_ndcs": [
+        "0187-0453"
+      ],
+      "rxcui": [
+        "859190",
+        "859192"
+      ],
+      "setid": "380d7717-2a79-42f3-a712-efe5e7696ba0",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "ZELAPAR (SELEGILINE HYDROCHLORIDE) TABLET, ORALLY DISINTEGRATING [BAUSCH HEALTH US, LLC]",
+      "upload_date": "2026-06-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA074565"
+      ],
+      "brand_names": [
+        "Selegiline Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "selegiline",
+      "ingredients": [
+        "SELEGILINE HYDROCHLORIDE"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1996-08-02",
+      "moieties": [
+        "SELEGILINE"
+      ],
+      "product_ndcs": [
+        "62135-694"
+      ],
+      "rxcui": [
+        "859193"
+      ],
+      "setid": "189ac32d-28b4-47c5-9de6-318e502eff3b",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "SELEGILINE HYDROCHLORIDE TABLET [CHARTWELL RX, LLC]",
+      "upload_date": "2024-05-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA074871",
+        "ANDA075321"
+      ],
+      "brand_names": [
+        "SELEGILINE HYDROCHLORIDE",
+        "Selegiline Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "selegiline",
+      "ingredients": [
+        "SELEGILINE HYDROCHLORIDE"
+      ],
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1997-07-06",
+      "moieties": [
+        "SELEGILINE"
+      ],
+      "product_ndcs": [
+        "60505-0055",
+        "60505-3438"
+      ],
+      "rxcui": [
+        "859186"
+      ],
+      "setid": "1924db3d-6a16-4496-cfd0-6903be146925",
+      "source": "dailymed-title-match",
+      "spl_version": 9,
+      "title": "SELEGILINE HYDROCHLORIDE CAPSULE [APOTEX CORP.]",
+      "upload_date": "2026-09-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA206803"
+      ],
+      "brand_names": [
+        "Selegiline Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "selegiline",
+      "ingredients": [
+        "SELEGILINE HYDROCHLORIDE"
+      ],
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-04-02",
+      "moieties": [
+        "SELEGILINE"
+      ],
+      "product_ndcs": [
+        "16571-659"
+      ],
+      "rxcui": [
+        "859186"
+      ],
+      "setid": "23c4481f-d150-40c6-addb-b3e454ca914f",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "SELEGILINE HYDROCHLORIDE CAPSULE [RISING PHARMA HOLDINGS, INC.]",
+      "upload_date": "2024-08-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA075352"
+      ],
+      "brand_names": [
+        "Selegiline Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "selegiline",
+      "ingredients": [
+        "SELEGILINE HYDROCHLORIDE"
+      ],
+      "labeler": "Novitium Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-04-01",
+      "moieties": [
+        "SELEGILINE"
+      ],
+      "product_ndcs": [
+        "70954-504"
+      ],
+      "rxcui": [
+        "859186"
+      ],
+      "setid": "e42d99b0-c62e-49d4-b792-1301bb539b92",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "SELEGILINE HYDROCHLORIDE CAPSULE [NOVITIUM PHARMA LLC]",
+      "upload_date": "2021-04-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA074672"
+      ],
+      "brand_names": [
+        "Selegiline Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "selegiline",
+      "ingredients": [
+        "SELEGILINE HYDROCHLORIDE"
+      ],
+      "labeler": "i3 Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-12-15",
+      "moieties": [
+        "SELEGILINE"
+      ],
+      "product_ndcs": [
+        "72319-006"
+      ],
+      "rxcui": [
+        "859193"
+      ],
+      "setid": "c81e983b-455d-2e65-e053-2a95a90a3123",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "SELEGILINE HYDROCHLORIDE TABLET [I3 PHARMACEUTICALS, LLC]",
+      "upload_date": "2024-11-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA074871",
+        "ANDA075321"
+      ],
+      "brand_names": [
+        "SELEGILINE HYDROCHLORIDE",
+        "Selegiline Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "selegiline",
+      "ingredients": [
+        "SELEGILINE HYDROCHLORIDE"
+      ],
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1997-07-06",
+      "moieties": [
+        "SELEGILINE"
+      ],
+      "product_ndcs": [
+        "60505-0055",
+        "60505-3438"
+      ],
+      "rxcui": [
+        "859193"
+      ],
+      "setid": "2aa9f8ee-6a86-6cf1-bec7-6a1ffa5e1ae2",
+      "source": "dailymed-title-match",
+      "spl_version": 8,
+      "title": "SELEGILINE HYDROCHLORIDE TABLET [APOTEX CORP.]",
+      "upload_date": "2026-09-21"
+    },
+    {
+      "application_numbers": [
+        "NDA020647"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "ELDEPRYL"
+      ],
+      "first_posted": "2011-10-24",
+      "found_by": "ELDEPRYL",
+      "labeler": "Mylan Specialty L.P.",
+      "labeler_unverified": false,
+      "last_posted": "2018-09-25",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-03-31"
+      ],
+      "product_ndcs": [
+        "49502-420"
+      ],
+      "rxcui": [],
+      "setid": "106429ad-859a-4b29-babf-42cb85f7236e",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ELDEPRYL (selegiline hydrochloride) capsule"
+    },
+    {
+      "application_numbers": [
+        "NDA021336"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "EMSAM"
+      ],
+      "first_posted": "2007-08-24",
+      "found_by": "EMSAM",
+      "labeler": "Somerset Pharmaceuticals Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2011-01-18",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2010-12-31"
+      ],
+      "product_ndcs": [
+        "39506-033",
+        "39506-044",
+        "39506-055"
+      ],
+      "rxcui": [],
+      "setid": "da4321c8-4e28-4165-998a-5e00e4461af6",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "b891bd9f-fdb8-4862-89c5-ecdd700398a3"
+      ],
+      "title": "EMSAM (selegiline) patch"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "A2A Integrated Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a59ff47b-4379-44f3-9d2c-f8c6121d1881"
+    }
+  ]
+}

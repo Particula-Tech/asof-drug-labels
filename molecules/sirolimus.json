@@ -1,0 +1,529 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand RAPAMUNE",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000273",
+      "eu_number": "EU/1/01/171",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000273",
+      "mah": "Pfizer Europe MA EEIG",
+      "marketing_authorisation_date": "2001-03-13",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/rapamune",
+      "name": "Rapamune",
+      "record_from": "2001-03-13",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 49
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/005896",
+      "eu_number": "EU/1/23/1723",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-005896",
+      "mah": "Plusultra pharma GmbH",
+      "marketing_authorisation_date": "2023-05-15",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/hyftor",
+      "name": "Hyftor",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000273",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "SIROLIMUS"
+  ],
+  "inn": "sirolimus",
+  "name": "SIROLIMUS",
+  "rank": 395,
+  "rxcui": [
+    "314230",
+    "349208",
+    "360110",
+    "905158",
+    "2586863",
+    "2586868",
+    "2596864",
+    "2596869"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 17,
+    "approval_holders": 15,
+    "earliest_marketing_start": "2014-01-07",
+    "latest_label_update": "2026-10-26",
+    "nda_bla_applications": 2,
+    "repackagers": 5
+  },
+  "unii": [
+    {
+      "ingredient": "SIROLIMUS",
+      "unii": "W36ZG6FT64"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA213312"
+      ],
+      "brand_names": [
+        "FYARRO"
+      ],
+      "combination": false,
+      "home_inn": "sirolimus",
+      "ingredients": [
+        "SIROLIMUS"
+      ],
+      "labeler": "Aadi Bioscience, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-12-06",
+      "moieties": [
+        "SIROLIMUS"
+      ],
+      "product_ndcs": [
+        "80803-153"
+      ],
+      "rxcui": [
+        "2586863",
+        "2586868"
+      ],
+      "setid": "0f9bb784-53e2-46f9-a65d-1c6c2a230eaf",
+      "source": "dailymed-title-match",
+      "spl_version": 10,
+      "title": "FYARRO (SIROLIMUS) INJECTION, POWDER, LYOPHILIZED, FOR SUSPENSION [AADI BIOSCIENCE, INC.]",
+      "upload_date": "2026-09-14"
+    },
+    {
+      "application_numbers": [
+        "NDA213478"
+      ],
+      "brand_names": [
+        "HYFTOR"
+      ],
+      "combination": false,
+      "home_inn": "sirolimus",
+      "ingredients": [
+        "SIROLIMUS"
+      ],
+      "labeler": "Nobelpharma America, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-03-23",
+      "moieties": [
+        "SIROLIMUS"
+      ],
+      "product_ndcs": [
+        "73683-101"
+      ],
+      "rxcui": [
+        "2596864",
+        "2596869"
+      ],
+      "setid": "edb3ea90-5adc-48ec-99f5-ab963e302f18",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "HYFTOR (SIROLIMUS) GEL [NOBELPHARMA AMERICA, LLC]",
+      "upload_date": "2025-08-25"
+    },
+    {
+      "application_numbers": [
+        "NDA021083",
+        "NDA021110"
+      ],
+      "brand_names": [
+        "Sirolimus"
+      ],
+      "combination": false,
+      "home_inn": "sirolimus",
+      "ingredients": [
+        "SIROLIMUS"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2014-01-07",
+      "moieties": [
+        "SIROLIMUS"
+      ],
+      "product_ndcs": [
+        "59762-1001",
+        "59762-1002",
+        "59762-1003",
+        "59762-1205"
+      ],
+      "rxcui": [
+        "349208",
+        "360110",
+        "905158"
+      ],
+      "setid": "5908cd1a-fc5a-462f-99ed-1d8983e253c9",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "SIROLIMUS TABLET, SUGAR COATED [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2026-03-26"
+    },
+    {
+      "application_numbers": [
+        "ANDA201676"
+      ],
+      "brand_names": [
+        "sirolimus"
+      ],
+      "combination": false,
+      "home_inn": "sirolimus",
+      "ingredients": [
+        "SIROLIMUS"
+      ],
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-01-15",
+      "moieties": [
+        "SIROLIMUS"
+      ],
+      "product_ndcs": [
+        "65841-771",
+        "65841-772",
+        "65841-773"
+      ],
+      "rxcui": [
+        "349208",
+        "360110",
+        "905158"
+      ],
+      "setid": "82562b68-224d-482a-b399-a89b81d5eb31",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "SIROLIMUS TABLET, FILM COATED [ZYDUS LIFESCIENCES LIMITED]",
+      "upload_date": "2023-09-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA201578"
+      ],
+      "brand_names": [
+        "Sirolimus"
+      ],
+      "combination": false,
+      "home_inn": "sirolimus",
+      "ingredients": [
+        "SIROLIMUS"
+      ],
+      "labeler": "Dr. Reddy's Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-10-27",
+      "moieties": [
+        "SIROLIMUS"
+      ],
+      "product_ndcs": [
+        "55111-653",
+        "55111-654"
+      ],
+      "rxcui": [
+        "349208",
+        "360110"
+      ],
+      "setid": "2e6130e5-fa94-dcf8-605c-817bf396e93d",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "SIROLIMUS TABLET [DR. REDDY'S LABORATORIES LIMITED]",
+      "upload_date": "2024-05-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA211040"
+      ],
+      "brand_names": [
+        "Sirolimus"
+      ],
+      "combination": false,
+      "home_inn": "sirolimus",
+      "ingredients": [
+        "SIROLIMUS"
+      ],
+      "labeler": "VistaPharm, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-01-28",
+      "moieties": [
+        "SIROLIMUS"
+      ],
+      "product_ndcs": [
+        "66689-347"
+      ],
+      "rxcui": [
+        "314230"
+      ],
+      "setid": "19880f51-badb-4846-a02a-592a210690ab",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "SIROLIMUS SOLUTION [VISTAPHARM, LLC]",
+      "upload_date": "2026-01-14"
+    },
+    {
+      "application_numbers": [
+        "ANDA211212"
+      ],
+      "brand_names": [
+        "Sirolimus"
+      ],
+      "combination": false,
+      "home_inn": "sirolimus",
+      "ingredients": [
+        "SIROLIMUS"
+      ],
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-10-25",
+      "moieties": [
+        "SIROLIMUS"
+      ],
+      "product_ndcs": [
+        "69238-1594"
+      ],
+      "rxcui": [
+        "314230"
+      ],
+      "setid": "a522b5e1-fe51-4eb8-9657-3b1d6af8dfd5",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "SIROLIMUS SOLUTION [AMNEAL PHARMACEUTICALS NY LLC]",
+      "upload_date": "2025-02-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA211406"
+      ],
+      "brand_names": [
+        "Sirolimus"
+      ],
+      "combination": false,
+      "home_inn": "sirolimus",
+      "ingredients": [
+        "SIROLIMUS"
+      ],
+      "labeler": "Apotex Corp",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-05-20",
+      "moieties": [
+        "SIROLIMUS"
+      ],
+      "product_ndcs": [
+        "60505-6197"
+      ],
+      "rxcui": [
+        "314230"
+      ],
+      "setid": "9f64692d-2a18-ffcb-c572-0f218a71ca67",
+      "source": "dailymed-title-match",
+      "spl_version": 7,
+      "title": "SIROLIMUS SOLUTION [APOTEX CORP]",
+      "upload_date": "2026-09-21"
+    },
+    {
+      "application_numbers": [
+        "NDA021083",
+        "NDA021110"
+      ],
+      "archived_versions": 49,
+      "brand_names": [
+        "RAPAMUNE"
+      ],
+      "first_posted": "2008-08-28",
+      "found_by": "RAPAMUNE",
+      "labeler": "Wyeth Pharmaceuticals LLC, a subsidiary of Pfizer Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2026-10-26",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-01-31",
+        "2025-02-28",
+        "2025-10-31",
+        "2025-12-31"
+      ],
+      "product_ndcs": [
+        "0008-1030",
+        "0008-1040",
+        "0008-1041",
+        "0008-1042"
+      ],
+      "rxcui": [],
+      "setid": "3275b824-3f82-4151-2ab2-0036a9ba0acc",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "5908cd1a-fc5a-462f-99ed-1d8983e253c9"
+      ],
+      "title": "RAPAMUNE (sirolimus) solution RAPAMUNE (sirolimus) tablet, sugar coated"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "RAPAMUNE"
+      ],
+      "first_posted": "2006-11-14",
+      "found_by": "RAPAMUNE",
+      "labeler": "Wyeth Pharmaceuticals Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2006-11-14",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0008-1030",
+        "0008-1031",
+        "0008-1032"
+      ],
+      "rxcui": [],
+      "setid": "b36f61fc-7573-4395-ae12-5a621fa19da7",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "rapamune (Sirolimus) tablet, sugar coated rapamune (Sirolimus) solution"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "RAPAMUNE"
+      ],
+      "first_posted": "2006-09-21",
+      "found_by": "RAPAMUNE",
+      "labeler": "Wyeth Pharmaceuticals Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2006-09-21",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0008-1030",
+        "0008-1031",
+        "0008-1032"
+      ],
+      "rxcui": [],
+      "setid": "e2aeb908-9c6c-4d15-8887-8f08b199c462",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "rapamune (Sirolimus) tablet, sugar coated rapamune (Sirolimus) solution"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "57fb4d90-3ccb-4a69-af1e-53be83f7a504"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cdc49844-3e77-41d3-8287-b16d0c4742c5"
+    },
+    {
+      "combination": false,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "580c1ec1-c1f5-45f6-89b7-3be25c07a0e5"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "80269e86-3b04-44d0-9bff-7e7129e8ccb3"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "400da0a5-2a85-44ab-a2c5-bb9161750db3"
+    },
+    {
+      "combination": false,
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "384cb547-55a4-47fc-a0a6-054c18a51b84"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ec473170-47f1-4a5c-b4d9-ac36406ed241"
+    },
+    {
+      "combination": false,
+      "labeler": "NORTHSTAR RX LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ad39eb60-1fa0-4722-8ba1-523194921c2a"
+    },
+    {
+      "combination": false,
+      "labeler": "Northstar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "848b53ea-cdb6-45f8-bc70-8600d2dd6dce"
+    }
+  ]
+}

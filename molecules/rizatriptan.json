@@ -1,0 +1,553 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "RIZATRIPTAN BENZOATE"
+  ],
+  "inn": "rizatriptan",
+  "name": "RIZATRIPTAN",
+  "rank": 172,
+  "rxcui": [
+    "213322",
+    "312837",
+    "312839",
+    "312840",
+    "314209",
+    "828537",
+    "2634482",
+    "2634489",
+    "2672955",
+    "2711789",
+    "2711795",
+    "2752328"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 22,
+    "approval_holders": 16,
+    "earliest_marketing_start": "2012-06-25",
+    "latest_label_update": "2026-10-12",
+    "nda_bla_applications": 4,
+    "repackagers": 8
+  },
+  "unii": [
+    {
+      "ingredient": "RIZATRIPTAN BENZOATE",
+      "unii": "WR978S7QHH"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020864",
+        "NDA020865"
+      ],
+      "brand_names": [
+        "MAXALT",
+        "MAXALT-MLT"
+      ],
+      "combination": false,
+      "home_inn": "rizatriptan",
+      "ingredients": [
+        "RIZATRIPTAN BENZOATE"
+      ],
+      "labeler": "Organon LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-06-01",
+      "moieties": [
+        "RIZATRIPTAN"
+      ],
+      "product_ndcs": [
+        "78206-142",
+        "78206-143"
+      ],
+      "rxcui": [
+        "213322",
+        "312837",
+        "314209",
+        "828537"
+      ],
+      "setid": "007b4644-e0e7-4863-9ae3-fe09676b3f5f",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "MAXALT (RIZATRIPTAN BENZOATE) TABLET MAXALT-MLT (RIZATRIPTAN BENZOATE) TABLET, ORALLY DISINTEGRATING [ORGANON LLC]",
+      "upload_date": "2026-02-06"
+    },
+    {
+      "application_numbers": [
+        "NDA205394"
+      ],
+      "brand_names": [
+        "RIZAFILM"
+      ],
+      "combination": false,
+      "home_inn": "rizatriptan",
+      "ingredients": [
+        "RIZATRIPTAN BENZOATE"
+      ],
+      "labeler": "Gensco Laboratories LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2026-04-27",
+      "moieties": [
+        "RIZATRIPTAN"
+      ],
+      "product_ndcs": [
+        "35781-0600",
+        "35781-0605"
+      ],
+      "rxcui": [
+        "2634482",
+        "2634489",
+        "2672955",
+        "2752328"
+      ],
+      "setid": "fa32794e-d26d-e0bf-e053-6294a90abb0e",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "RIZAFILM (RIZATRIPTAN BENZOATE) FILM [GENSCO LABORATORIES LLC]",
+      "upload_date": "2026-04-27"
+    },
+    {
+      "application_numbers": [
+        "NDA215431"
+      ],
+      "brand_names": [
+        "SYMBRAVO"
+      ],
+      "combination": true,
+      "home_inn": "meloxicam",
+      "ingredients": [
+        "MELOXICAM",
+        "RIZATRIPTAN BENZOATE"
+      ],
+      "labeler": "Axsome Therapeutics, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-05-19",
+      "moieties": [
+        "MELOXICAM",
+        "RIZATRIPTAN"
+      ],
+      "product_ndcs": [
+        "81968-020"
+      ],
+      "rxcui": [
+        "2711789",
+        "2711795"
+      ],
+      "setid": "dcf1ecd1-08a0-8e47-e053-2a95a90abdc7",
+      "source": "dailymed-title-match",
+      "spl_version": 6,
+      "title": "SYMBRAVO (MELOXICAM, RIZATRIPTAN) TABLET [AXSOME THERAPEUTICS, INC.]",
+      "upload_date": "2026-10-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA203269"
+      ],
+      "brand_names": [
+        "Rizatriptan Benzoate"
+      ],
+      "combination": false,
+      "home_inn": "rizatriptan",
+      "ingredients": [
+        "RIZATRIPTAN BENZOATE"
+      ],
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-06-25",
+      "moieties": [
+        "RIZATRIPTAN"
+      ],
+      "product_ndcs": [
+        "67877-261",
+        "67877-262"
+      ],
+      "rxcui": [
+        "312840",
+        "314209"
+      ],
+      "setid": "07e66554-bc85-4853-9f40-1249617630a9",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "RIZATRIPTAN BENZOATE TABLET [ASCEND LABORATORIES, LLC]",
+      "upload_date": "2022-10-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA202490"
+      ],
+      "brand_names": [
+        "Rizatriptan Benzoate"
+      ],
+      "combination": false,
+      "home_inn": "rizatriptan",
+      "ingredients": [
+        "RIZATRIPTAN BENZOATE"
+      ],
+      "labeler": "Golden State Medical Supply, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-12-31",
+      "moieties": [
+        "RIZATRIPTAN"
+      ],
+      "product_ndcs": [
+        "51407-681",
+        "51407-682"
+      ],
+      "rxcui": [
+        "312840",
+        "314209"
+      ],
+      "setid": "075f47ee-88d1-102b-e063-6394a90acbf8",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "RIZATRIPTAN BENZOATE TABLET [GOLDEN STATE MEDICAL SUPPLY, INC.]",
+      "upload_date": "2024-04-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA201914",
+        "ANDA201967"
+      ],
+      "brand_names": [
+        "rizatriptan benzoate"
+      ],
+      "combination": false,
+      "home_inn": "rizatriptan",
+      "ingredients": [
+        "RIZATRIPTAN BENZOATE"
+      ],
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-12-31",
+      "moieties": [
+        "RIZATRIPTAN"
+      ],
+      "product_ndcs": [
+        "68462-465",
+        "68462-466",
+        "68462-467",
+        "68462-468"
+      ],
+      "rxcui": [
+        "312837",
+        "312839"
+      ],
+      "setid": "4de33a24-db69-444a-b04d-c69ccba57ab2",
+      "source": "dailymed-title-match",
+      "spl_version": 14,
+      "title": "RIZATRIPTAN BENZOATE TABLET, ORALLY DISINTEGRATING [GLENMARK PHARMACEUTICALS INC., USA]",
+      "upload_date": "2026-10-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA202047"
+      ],
+      "brand_names": [
+        "RIZATRIPTAN BENZOATE"
+      ],
+      "combination": false,
+      "home_inn": "rizatriptan",
+      "ingredients": [
+        "RIZATRIPTAN BENZOATE"
+      ],
+      "labeler": "Creekwood Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-12-31",
+      "moieties": [
+        "RIZATRIPTAN"
+      ],
+      "product_ndcs": [
+        "82619-111",
+        "82619-112"
+      ],
+      "rxcui": [
+        "312840",
+        "314209"
+      ],
+      "setid": "b517896b-167e-47d5-801d-7458f80e8ee2",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "RIZATRIPTAN BENZOATE TABLET [CREEKWOOD PHARMACEUTICALS LLC]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA077263"
+      ],
+      "brand_names": [
+        "Rizatriptan Benzoate"
+      ],
+      "combination": false,
+      "home_inn": "rizatriptan",
+      "ingredients": [
+        "RIZATRIPTAN BENZOATE"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-02-12",
+      "moieties": [
+        "RIZATRIPTAN"
+      ],
+      "product_ndcs": [
+        "0093-7471",
+        "0093-7472"
+      ],
+      "rxcui": [
+        "312840",
+        "314209"
+      ],
+      "setid": "4ef60c83-ba48-4134-968b-13800ea9b7f2",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "RIZATRIPTAN BENZOATE TABLET [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2024-11-14"
+    },
+    {
+      "application_numbers": [
+        "ANDA203062"
+      ],
+      "brand_names": [
+        "Rizatriptan Benzoate"
+      ],
+      "combination": false,
+      "home_inn": "rizatriptan",
+      "ingredients": [
+        "RIZATRIPTAN BENZOATE"
+      ],
+      "labeler": "Golden State Medical Supply, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-07-01",
+      "moieties": [
+        "RIZATRIPTAN"
+      ],
+      "product_ndcs": [
+        "51407-679",
+        "51407-680"
+      ],
+      "rxcui": [
+        "312837",
+        "312839"
+      ],
+      "setid": "07605de4-bef2-70e8-e063-6394a90a33cc",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "RIZATRIPTAN BENZOATE TABLET, ORALLY DISINTEGRATING [GOLDEN STATE MEDICAL SUPPLY, INC.]",
+      "upload_date": "2025-09-05"
+    },
+    {
+      "application_numbers": [
+        "NDA020865"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "MAXALT"
+      ],
+      "first_posted": "2014-05-13",
+      "found_by": "MAXALT",
+      "labeler": "Frosst Iberica, S.A.",
+      "labeler_unverified": true,
+      "last_posted": "2014-05-13",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "68263-380",
+        "68263-381"
+      ],
+      "rxcui": [],
+      "setid": "bbad36cf-4b22-4738-a710-fa8f98e60683",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "007b4644-e0e7-4863-9ae3-fe09676b3f5f"
+      ],
+      "title": "MAXALT-MLT (rizatriptan benzoate) tablet, orally disintegrating"
+    },
+    {
+      "application_numbers": [
+        "NDA020864",
+        "NDA020865"
+      ],
+      "archived_versions": 15,
+      "brand_names": [
+        "MAXALT"
+      ],
+      "first_posted": "2008-03-25",
+      "found_by": "MAXALT",
+      "labeler": "Merck Sharp & Dohme Corp.",
+      "labeler_unverified": false,
+      "last_posted": "2022-03-03",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-12-31",
+        "2019-08-31",
+        "2021-12-31"
+      ],
+      "product_ndcs": [
+        "0006-0266",
+        "0006-0267",
+        "0006-3800",
+        "0006-3801"
+      ],
+      "rxcui": [],
+      "setid": "d93286f5-99f7-4dc5-aa9d-ad73ab8490db",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "007b4644-e0e7-4863-9ae3-fe09676b3f5f"
+      ],
+      "title": "MAXALT (rizatriptan benzoate) tablet MAXALT-MLT (rizatriptan benzoate) tablet, orally disintegrating"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "faf3bc1d-8818-47b0-8ad1-80bfbf40ab78"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "27bc2cfc-fefb-4b50-a0dc-6268c69b4902"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "57ed2505-28f1-4292-b3c3-a49bf0f7c683"
+    },
+    {
+      "combination": false,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f462a507-921c-41c2-93ba-36003b6e8914"
+    },
+    {
+      "combination": false,
+      "labeler": "Bionpharma Inc.,",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "91e160d6-f23f-e5e0-baec-908b2d25ce3c"
+    },
+    {
+      "combination": false,
+      "labeler": "Unichem Pharmaceuticals (USA), Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "35f26d3c-268b-4114-9b5b-1c2e0b9ddfd5"
+    },
+    {
+      "combination": false,
+      "labeler": "Unichem Pharmaceuticals (USA), Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3cdeccf6-36dd-4a9e-9687-2f7cce47af5f"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "222f77ff-d3f7-40f9-989c-e5902f44ef1e"
+    },
+    {
+      "combination": false,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "99c66300-bd75-4b31-9fab-88c6e4b12688"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fa0f65b8-96b0-49e4-ac47-9a86fb4aa5f1"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2337e102-8df0-4e7f-81d8-5cb86cd48674"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a8e37688-426c-4290-933d-54a34ae86000"
+    },
+    {
+      "combination": false,
+      "labeler": "Panacea Biotec Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9c70370d-72ac-e062-e25c-97d57e6397ab"
+    }
+  ]
+}

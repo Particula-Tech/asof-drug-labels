@@ -1,0 +1,324 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand FERRIPROX",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000236",
+      "eu_number": "EU/1/99/108",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000236",
+      "mah": "Chiesi Farmaceutici S.p.A.",
+      "marketing_authorisation_date": "1999-08-25",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ferriprox",
+      "name": "Ferriprox",
+      "record_from": "1999-08-25",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 27
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/004710",
+      "eu_number": "EU/1/18/1310",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-004710",
+      "mah": "Lipomed GmbH",
+      "marketing_authorisation_date": "2018-09-19",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/deferiprone-lipomed",
+      "name": "Deferiprone Lipomed",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000236",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "DEFERIPRONE"
+  ],
+  "inn": "deferiprone",
+  "name": "DEFERIPRONE",
+  "rank": 308,
+  "rxcui": [
+    "389242",
+    "1190357",
+    "1716264",
+    "1716268",
+    "2180997",
+    "2180999",
+    "2685014",
+    "2685015"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 6,
+    "approval_holders": 4,
+    "earliest_marketing_start": "2015-09-09",
+    "latest_label_update": "2026-01-30",
+    "nda_bla_applications": 3,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "DEFERIPRONE",
+      "unii": "2BTY8KH53L"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA208030"
+      ],
+      "brand_names": [
+        "FERRIPROX"
+      ],
+      "combination": false,
+      "home_inn": "deferiprone",
+      "ingredients": [
+        "DEFERIPRONE"
+      ],
+      "labeler": "Chiesi USA, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-09-09",
+      "moieties": [
+        "DEFERIPRONE"
+      ],
+      "product_ndcs": [
+        "10122-101"
+      ],
+      "rxcui": [
+        "1716264",
+        "1716268"
+      ],
+      "setid": "f057cf4d-b06f-4fbd-aa2e-68c5e4d8a846",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "FERRIPROX (DEFERIPRONE) SOLUTION [CHIESI USA, INC.]",
+      "upload_date": "2025-05-26"
+    },
+    {
+      "application_numbers": [
+        "NDA021825",
+        "NDA212269"
+      ],
+      "brand_names": [
+        "FERRIPROX"
+      ],
+      "combination": false,
+      "home_inn": "deferiprone",
+      "ingredients": [
+        "DEFERIPRONE"
+      ],
+      "labeler": "Chiesi USA, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2019-08-01",
+      "moieties": [
+        "DEFERIPRONE"
+      ],
+      "product_ndcs": [
+        "10122-103",
+        "10122-104"
+      ],
+      "rxcui": [
+        "389242",
+        "1190357",
+        "2180997",
+        "2180999",
+        "2685014",
+        "2685015"
+      ],
+      "setid": "946718ff-df43-1baa-74d1-e5bcfbe8ad86",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "FERRIPROX (DEFERIPRONE) TABLET FERRIPROX (DEFERIPRONE) TABLET, FILM COATED [CHIESI USA, INC.]",
+      "upload_date": "2026-01-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA213239"
+      ],
+      "brand_names": [
+        "Deferiprone"
+      ],
+      "combination": false,
+      "home_inn": "deferiprone",
+      "ingredients": [
+        "DEFERIPRONE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-06-03",
+      "moieties": [
+        "DEFERIPRONE"
+      ],
+      "product_ndcs": [
+        "0054-0576"
+      ],
+      "rxcui": [
+        "389242"
+      ],
+      "setid": "d7ea0a84-c328-4636-8cd6-ad75f2074b22",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "DEFERIPRONE TABLET, COATED [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2025-06-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA208800"
+      ],
+      "brand_names": [
+        "Deferiprone"
+      ],
+      "combination": false,
+      "home_inn": "deferiprone",
+      "ingredients": [
+        "DEFERIPRONE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-02-05",
+      "moieties": [
+        "DEFERIPRONE"
+      ],
+      "product_ndcs": [
+        "51672-4196",
+        "51672-4237"
+      ],
+      "rxcui": [
+        "389242",
+        "2180997"
+      ],
+      "setid": "5af1643d-4c6e-4668-ae9b-1046f0ad6d8a",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "DEFERIPRONE TABLET [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2025-05-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA220132"
+      ],
+      "brand_names": [
+        "DEFERIPRONE"
+      ],
+      "combination": false,
+      "home_inn": "deferiprone",
+      "ingredients": [
+        "DEFERIPRONE"
+      ],
+      "labeler": "DR. REDDY'S LABORATORIES, INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-12-15",
+      "moieties": [
+        "DEFERIPRONE"
+      ],
+      "product_ndcs": [
+        "75907-348",
+        "75907-349"
+      ],
+      "rxcui": [
+        "389242",
+        "2180997"
+      ],
+      "setid": "67139215-1154-4e1a-ae15-0f3cd8af5177",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "DEFERIPRONE TABLET, COATED [DR. REDDY'S LABORATORIES, INC.]",
+      "upload_date": "2025-12-16"
+    },
+    {
+      "application_numbers": [
+        "ANDA213239"
+      ],
+      "brand_names": [
+        "Deferiprone"
+      ],
+      "combination": false,
+      "home_inn": "deferiprone",
+      "ingredients": [
+        "DEFERIPRONE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-02-08",
+      "moieties": [
+        "DEFERIPRONE"
+      ],
+      "product_ndcs": [
+        "0054-0711"
+      ],
+      "rxcui": [
+        "2180997"
+      ],
+      "setid": "c4f9e9be-39e7-4940-9cb0-f17772d7e524",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "DEFERIPRONE TABLET, COATED [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2025-06-09"
+    },
+    {
+      "application_numbers": [
+        "NDA208030"
+      ],
+      "archived_versions": 10,
+      "brand_names": [
+        "FERRIPROX"
+      ],
+      "first_posted": "2015-10-27",
+      "found_by": "FERRIPROX",
+      "labeler": "ApoPharma USA, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2024-01-12",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-01-08"
+      ],
+      "product_ndcs": [
+        "52609-4502"
+      ],
+      "rxcui": [],
+      "setid": "97f7bfcb-8666-464c-87b6-9621ceca5ee2",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "f057cf4d-b06f-4fbd-aa2e-68c5e4d8a846"
+      ],
+      "title": "FERRIPROX (deferiprone) solution"
+    }
+  ],
+  "us_excluded": []
+}

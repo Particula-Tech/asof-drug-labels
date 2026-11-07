@@ -1,0 +1,721 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "CARBAMAZEPINE"
+  ],
+  "inn": "carbamazepine",
+  "name": "CARBAMAZEPINE",
+  "rank": 117,
+  "rxcui": [
+    "197442",
+    "199378",
+    "200131",
+    "200133",
+    "308971",
+    "308972",
+    "308973",
+    "308976",
+    "308977",
+    "308979",
+    "313931",
+    "388311",
+    "402505",
+    "402506",
+    "404742",
+    "672908",
+    "672909",
+    "672910",
+    "866303",
+    "866305",
+    "866307"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 37,
+    "approval_holders": 28,
+    "earliest_marketing_start": "1968-03-11",
+    "latest_label_update": "2026-10-30",
+    "nda_bla_applications": 5,
+    "repackagers": 14
+  },
+  "unii": [
+    {
+      "ingredient": "CARBAMAZEPINE",
+      "unii": "33CM23913M"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA016608",
+        "NDA018927",
+        "NDA020234"
+      ],
+      "brand_names": [
+        "Tegretol",
+        "Tegretol XR"
+      ],
+      "combination": false,
+      "home_inn": "carbamazepine",
+      "ingredients": [
+        "CARBAMAZEPINE"
+      ],
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1968-03-11",
+      "moieties": [
+        "CARBAMAZEPINE"
+      ],
+      "product_ndcs": [
+        "0078-0508",
+        "0078-0509",
+        "0078-0510",
+        "0078-0511",
+        "0078-0512"
+      ],
+      "rxcui": [
+        "199378",
+        "308971",
+        "308972",
+        "308976",
+        "308979",
+        "402505",
+        "402506",
+        "866303",
+        "866305",
+        "866307"
+      ],
+      "setid": "8d409411-aa9f-4f3a-a52c-fbcb0c3ec053",
+      "source": "openfda",
+      "spl_version": 39,
+      "title": "TEGRETOL (CARBAMAZEPINE) SUSPENSION TEGRETOL (CARBAMAZEPINE) TABLET TEGRETOL XR (CARBAMAZEPINE) TABLET, EXTENDED RELEASE [NOVARTIS PHARMACEUTICALS CORPORATION]",
+      "upload_date": "2026-08-21"
+    },
+    {
+      "application_numbers": [
+        "NDA020712"
+      ],
+      "brand_names": [
+        "Carbatrol"
+      ],
+      "combination": false,
+      "home_inn": "carbamazepine",
+      "ingredients": [
+        "CARBAMAZEPINE"
+      ],
+      "labeler": "Takeda Pharmaceuticals America, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1997-09-30",
+      "moieties": [
+        "CARBAMAZEPINE"
+      ],
+      "product_ndcs": [
+        "54092-171",
+        "54092-172",
+        "54092-173"
+      ],
+      "rxcui": [
+        "200131",
+        "200133",
+        "308977",
+        "313931",
+        "388311",
+        "404742"
+      ],
+      "setid": "bc03e499-5bac-4293-bff4-6864153a624d",
+      "source": "openfda",
+      "spl_version": 41,
+      "title": "CARBATROL (CARBAMAZEPINE) CAPSULE, EXTENDED RELEASE [TAKEDA PHARMACEUTICALS AMERICA, INC.]",
+      "upload_date": "2026-08-25"
+    },
+    {
+      "application_numbers": [
+        "NDA021710"
+      ],
+      "brand_names": [
+        "EQUETRO"
+      ],
+      "combination": false,
+      "home_inn": "carbamazepine",
+      "ingredients": [
+        "CARBAMAZEPINE"
+      ],
+      "labeler": "Validus Pharmaceuticals LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2004-12-10",
+      "moieties": [
+        "CARBAMAZEPINE"
+      ],
+      "product_ndcs": [
+        "30698-419",
+        "30698-421",
+        "30698-423"
+      ],
+      "rxcui": [
+        "200131",
+        "200133",
+        "388311",
+        "672908",
+        "672909",
+        "672910"
+      ],
+      "setid": "be478f3c-40f6-47cc-8ab9-f420a9372b1c",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "EQUETRO (CARBAMAZEPINE) CAPSULE, EXTENDED RELEASE [VALIDUS PHARMACEUTICALS LLC]",
+      "upload_date": "2025-08-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA074649",
+        "ANDA075687",
+        "ANDA076729",
+        "ANDA078115"
+      ],
+      "brand_names": [
+        "Carbamazepine"
+      ],
+      "combination": false,
+      "home_inn": "carbamazepine",
+      "ingredients": [
+        "CARBAMAZEPINE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1996-10-03",
+      "moieties": [
+        "CARBAMAZEPINE"
+      ],
+      "product_ndcs": [
+        "51672-4005",
+        "51672-4041",
+        "51672-4047",
+        "51672-4050",
+        "51672-4123",
+        "51672-4124",
+        "51672-4125"
+      ],
+      "rxcui": [
+        "197442",
+        "199378",
+        "308973",
+        "308976",
+        "308979",
+        "402505",
+        "402506"
+      ],
+      "setid": "0526a054-3eda-49b4-b390-7d5d16e30af8",
+      "source": "dailymed-title-match",
+      "spl_version": 12,
+      "title": "CARBAMAZEPINE TABLET, CHEWABLE CARBAMAZEPINE TABLET CARBAMAZEPINE TABLET, EXTENDED RELEASE CARBAMAZEPINE SUSPENSION [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2026-09-14"
+    },
+    {
+      "application_numbers": [
+        "ANDA075714"
+      ],
+      "brand_names": [
+        "Carbamazepine"
+      ],
+      "combination": false,
+      "home_inn": "carbamazepine",
+      "ingredients": [
+        "CARBAMAZEPINE"
+      ],
+      "labeler": "Chartwell Governmental & Specialty RX, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2002-06-05",
+      "moieties": [
+        "CARBAMAZEPINE"
+      ],
+      "product_ndcs": [
+        "68999-802",
+        "68999-867"
+      ],
+      "rxcui": [
+        "308976"
+      ],
+      "setid": "35298eaf-3478-4dfb-a629-298dd52713f0",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "CARBAMAZEPINE SUSPENSION [CHARTWELL GOVERNMENTAL & SPECIALTY RX, LLC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA075948"
+      ],
+      "brand_names": [
+        "CARBAMAZEPINE"
+      ],
+      "combination": false,
+      "home_inn": "carbamazepine",
+      "ingredients": [
+        "CARBAMAZEPINE"
+      ],
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2002-09-01",
+      "moieties": [
+        "CARBAMAZEPINE"
+      ],
+      "product_ndcs": [
+        "60505-0183"
+      ],
+      "rxcui": [
+        "308979"
+      ],
+      "setid": "bf0d012f-da14-8ce3-d74f-56172cddebc5",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "CARBAMAZEPINE TABLET [APOTEX CORP.]",
+      "upload_date": "2026-08-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA075712",
+        "ANDA077272"
+      ],
+      "brand_names": [
+        "CARBAMAZEPINE"
+      ],
+      "combination": false,
+      "home_inn": "carbamazepine",
+      "ingredients": [
+        "CARBAMAZEPINE"
+      ],
+      "labeler": "Torrent Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-08-26",
+      "moieties": [
+        "CARBAMAZEPINE"
+      ],
+      "product_ndcs": [
+        "13668-268",
+        "13668-271"
+      ],
+      "rxcui": [
+        "308973",
+        "308979"
+      ],
+      "setid": "97e6e175-75e8-437b-b457-ddb1ae4e857d",
+      "source": "openfda",
+      "spl_version": 25,
+      "title": "CARBAMAZEPINE TABLET CARBAMAZEPINE TABLET, CHEWABLE [TORRENT PHARMACEUTICALS LIMITED]",
+      "upload_date": "2026-08-06"
+    },
+    {
+      "application_numbers": [
+        "ANDA078986"
+      ],
+      "brand_names": [
+        "Carbamazepine"
+      ],
+      "combination": false,
+      "home_inn": "carbamazepine",
+      "ingredients": [
+        "CARBAMAZEPINE"
+      ],
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-03-23",
+      "moieties": [
+        "CARBAMAZEPINE"
+      ],
+      "product_ndcs": [
+        "60505-2805",
+        "60505-2806",
+        "60505-2807"
+      ],
+      "rxcui": [
+        "200131",
+        "200133",
+        "388311"
+      ],
+      "setid": "e91f9de3-3fdd-0a6b-71ce-53a2cc142816",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "CARBAMAZEPINE CAPSULE, EXTENDED RELEASE [APOTEX CORP.]",
+      "upload_date": "2026-09-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA205571"
+      ],
+      "brand_names": [
+        "carbamazepine"
+      ],
+      "combination": false,
+      "home_inn": "carbamazepine",
+      "ingredients": [
+        "CARBAMAZEPINE"
+      ],
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-03-12",
+      "moieties": [
+        "CARBAMAZEPINE"
+      ],
+      "product_ndcs": [
+        "68382-555",
+        "68382-556",
+        "68382-557"
+      ],
+      "rxcui": [
+        "199378",
+        "402505",
+        "402506"
+      ],
+      "setid": "c5e4a25a-0137-4327-96f5-15735891ad5c",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "CARBAMAZEPINE TABLET, EXTENDED RELEASE [ZYDUS PHARMACEUTICALS (USA) INC.]",
+      "upload_date": "2026-08-10"
+    },
+    {
+      "application_numbers": [
+        "NDA021710"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "EQUETRO"
+      ],
+      "first_posted": "2007-06-14",
+      "found_by": "EQUETRO",
+      "labeler": "Shire US Manufacturing Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2010-10-26",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2009-04-30"
+      ],
+      "product_ndcs": [
+        "54092-419",
+        "54092-421",
+        "54092-423"
+      ],
+      "rxcui": [],
+      "setid": "06f1b7dd-15f1-4385-b984-7e465966aaca",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "be478f3c-40f6-47cc-8ab9-f420a9372b1c"
+      ],
+      "title": "EQUETRO (carbamazepine) capsule, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA206030"
+      ],
+      "archived_versions": 11,
+      "brand_names": [
+        "CARNEXIV"
+      ],
+      "first_posted": "2016-10-21",
+      "found_by": "CARNEXIV",
+      "labeler": "Lundbeck Pharmaceuticals LLC",
+      "labeler_unverified": false,
+      "last_posted": "2025-02-12",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-02-06"
+      ],
+      "product_ndcs": [
+        "67386-621"
+      ],
+      "rxcui": [],
+      "setid": "fd22916c-ee35-4b57-9b1b-68d106422f5d",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "CARNEXIV (carbamazepine) injection, powder, for solution"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Umedica Laboratories USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "48080efd-1781-4585-83f8-c43957ac63b3"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bf1590a0-68a7-45ed-817e-f97366f96ec4"
+    },
+    {
+      "combination": false,
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "282c954f-e34a-4bd5-b5eb-771e3c56936f"
+    },
+    {
+      "combination": false,
+      "labeler": "Bostal LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b48741b3-0889-47b8-a26e-b12614f6e7fc"
+    },
+    {
+      "combination": false,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e006049f-1c0c-4544-969e-0344d1b8c5ba"
+    },
+    {
+      "combination": false,
+      "labeler": "Unichem Pharmaceuticals (USA), Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "50ba2042-fc67-4266-a773-a30f07649a5a"
+    },
+    {
+      "combination": false,
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2e3c4854-89a1-4e3f-88d4-e164829585fb"
+    },
+    {
+      "combination": false,
+      "labeler": "Ingenus Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "de67de85-15b3-4c27-b604-d028ce3789d0"
+    },
+    {
+      "combination": false,
+      "labeler": "Epic Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "46a9771e-5830-4905-b5fc-5d1c61fd56a0"
+    },
+    {
+      "combination": false,
+      "labeler": "Bionpharma Inc.,",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "138d9ed1-2f8e-d19d-e063-6394a90a695d"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "87d343a8-84d5-4cdd-b0a0-629311b51f11"
+    },
+    {
+      "combination": false,
+      "labeler": "Torrent Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7c4860c1-daba-4e0f-97fd-d30cbc8603a2"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f0a254c5-bd33-4b14-b9f0-830b3438f5c6"
+    },
+    {
+      "combination": false,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c1876184-0323-4b06-b459-603b40c0c002"
+    },
+    {
+      "combination": false,
+      "labeler": "Oryza Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "34b375d0-68b0-4bd5-8ac9-be043b57e91c"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8d5ace90-983b-48c4-baf1-b44f6af146de"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d10e5f83-56db-4bc9-8c51-150a2e3e20ea"
+    },
+    {
+      "combination": false,
+      "labeler": "NIVAGEN PHARMACEUTICALS, INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e68998cb-5f91-4d7e-85a6-555efb8b0384"
+    },
+    {
+      "combination": false,
+      "labeler": "Umedica Laboratories USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f3465f71-8931-43b6-baea-eac7046a4400"
+    },
+    {
+      "combination": false,
+      "labeler": "Northstar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c91a5a1b-5481-445b-86e8-f10109ac3937"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bf2bff52-d1ae-4b81-951c-7d39d3c5058f"
+    },
+    {
+      "combination": false,
+      "labeler": "Jubilant Cadista Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7c1dd8ce-c490-40b4-b17a-da331df24cba"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a742c03d-10b1-48e2-8df1-48967395ae06"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1fc170d7-db1a-486d-8c10-faa6e3da3b1e"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "726a127b-03b2-44e8-a63d-078b35e27525"
+    },
+    {
+      "combination": false,
+      "labeler": "Northstar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b563e4a1-d7dd-4901-ad45-614f85687589"
+    },
+    {
+      "combination": false,
+      "labeler": "Precision Dose, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "359585dc-ad0f-465b-b5c4-c4204bef0b0a"
+    },
+    {
+      "combination": false,
+      "labeler": "Precision Dose, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "84f4484d-b1ef-45b3-9b37-b4d8df7d6ccd"
+    }
+  ]
+}

@@ -1,0 +1,646 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "BUTALBITAL"
+  ],
+  "inn": "butalbital",
+  "name": "BUTALBITAL",
+  "rank": 143,
+  "rxcui": [
+    "197426",
+    "238134",
+    "238154",
+    "993943",
+    "994237",
+    "994239"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 48,
+    "approval_holders": 27,
+    "earliest_marketing_start": "1985-10-11",
+    "latest_label_update": "2026-10-12",
+    "nda_bla_applications": 0,
+    "repackagers": 18
+  },
+  "unii": [
+    {
+      "ingredient": "BUTALBITAL",
+      "unii": "KHS0AZ4JVK"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020232"
+      ],
+      "brand_names": [
+        "Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate"
+      ],
+      "combination": true,
+      "home_inn": "butalbital",
+      "ingredients": [
+        "ACETAMINOPHEN",
+        "BUTALBITAL",
+        "CAFFEINE",
+        "CODEINE PHOSPHATE"
+      ],
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2003-09-18",
+      "moieties": [
+        "ACETAMINOPHEN",
+        "BUTALBITAL",
+        "CAFFEINE",
+        "CODEINE"
+      ],
+      "product_ndcs": [
+        "0591-3220"
+      ],
+      "rxcui": [
+        "993943"
+      ],
+      "setid": "a58819b8-a52c-44a7-9ab0-c74480d98506",
+      "source": "openfda",
+      "spl_version": 38,
+      "title": "BUTALBITAL, ACETAMINOPHEN, CAFFEINE, AND CODEINE PHOSPHATE CAPSULE [ACTAVIS PHARMA, INC.]",
+      "upload_date": "2026-01-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA086996"
+      ],
+      "brand_names": [
+        "Butalbital, aspirin, and caffeine"
+      ],
+      "combination": true,
+      "home_inn": "butalbital",
+      "ingredients": [
+        "ASPIRIN",
+        "BUTALBITAL",
+        "CAFFEINE"
+      ],
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1985-10-11",
+      "moieties": [
+        "ASPIRIN",
+        "BUTALBITAL",
+        "CAFFEINE"
+      ],
+      "product_ndcs": [
+        "0527-1552"
+      ],
+      "rxcui": [
+        "238134"
+      ],
+      "setid": "ba60b130-33cd-4db9-92a7-2cab8ded0737",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "BUTALBITAL, ASPIRIN, AND CAFFEINE CAPSULE [LANNETT COMPANY, INC.]",
+      "upload_date": "2024-01-31"
+    },
+    {
+      "application_numbers": [
+        "ANDA089175"
+      ],
+      "brand_names": [
+        "BUTALBITAL, ACETAMINOPHEN AND CAFFEINE"
+      ],
+      "combination": true,
+      "home_inn": "butalbital",
+      "ingredients": [
+        "ACETAMINOPHEN",
+        "BUTALBITAL",
+        "CAFFEINE"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1987-01-21",
+      "moieties": [
+        "ACETAMINOPHEN",
+        "BUTALBITAL",
+        "CAFFEINE"
+      ],
+      "product_ndcs": [
+        "62135-751"
+      ],
+      "rxcui": [
+        "238154"
+      ],
+      "setid": "77776146-c6e6-478c-b30e-2b729e758400",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "BUTALBITAL, ACETAMINOPHEN AND CAFFEINE TABLET [CHARTWELL RX, LLC]",
+      "upload_date": "2025-12-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA089987"
+      ],
+      "brand_names": [
+        "butalbital and acetaminophen"
+      ],
+      "combination": true,
+      "home_inn": "butalbital",
+      "ingredients": [
+        "ACETAMINOPHEN",
+        "BUTALBITAL"
+      ],
+      "labeler": "Par Health",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1999-06-03",
+      "moieties": [
+        "ACETAMINOPHEN",
+        "BUTALBITAL"
+      ],
+      "product_ndcs": [
+        "0603-2540"
+      ],
+      "rxcui": [
+        "197426"
+      ],
+      "setid": "e619b656-4123-4878-b601-b0edad3c428b",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "BUTALBITAL AND ACETAMINOPHEN TABLET [PAR HEALTH]",
+      "upload_date": "2026-08-27"
+    },
+    {
+      "application_numbers": [
+        "ANDA075231"
+      ],
+      "brand_names": [
+        "Ascomp with Codeine"
+      ],
+      "combination": true,
+      "home_inn": "butalbital",
+      "ingredients": [
+        "ASPIRIN",
+        "BUTALBITAL",
+        "CAFFEINE",
+        "CODEINE PHOSPHATE"
+      ],
+      "labeler": "LGM PHARMA SOLUTIONS, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2001-11-30",
+      "moieties": [
+        "ASPIRIN",
+        "BUTALBITAL",
+        "CAFFEINE",
+        "CODEINE"
+      ],
+      "product_ndcs": [
+        "79739-6094"
+      ],
+      "rxcui": [
+        "994237",
+        "994239"
+      ],
+      "setid": "1cab3106-1064-4b42-892b-39f405d9e02f",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "ASCOMP WITH CODEINE (BUTALBITAL, ASPIRIN, CAFEINE, AND CODEINE PHOSPHATE) CAPSULE [LGM PHARMA SOLUTIONS, LLC]",
+      "upload_date": "2026-04-08"
+    },
+    {
+      "application_numbers": [
+        "ANDA076560"
+      ],
+      "brand_names": [
+        "Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate"
+      ],
+      "combination": true,
+      "home_inn": "butalbital",
+      "ingredients": [
+        "ACETAMINOPHEN",
+        "BUTALBITAL",
+        "CAFFEINE",
+        "CODEINE PHOSPHATE"
+      ],
+      "labeler": "LGM PHARMA SOLUTIONS, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2004-06-10",
+      "moieties": [
+        "ACETAMINOPHEN",
+        "BUTALBITAL",
+        "CAFFEINE",
+        "CODEINE"
+      ],
+      "product_ndcs": [
+        "79739-6670"
+      ],
+      "rxcui": [
+        "993943"
+      ],
+      "setid": "180d20a5-78a8-4faa-98ad-3196cdd5663a",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "BUTALBITAL, ACETAMINOPHEN, CAFFEINE, AND CODEINE PHOSPHATE CAPSULE [LGM PHARMA SOLUTIONS, LLC]",
+      "upload_date": "2024-05-06"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": true,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a6cbc17f-5c60-489c-8029-84b0add556d8"
+    },
+    {
+      "combination": true,
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "42594152-563e-4984-9901-d6ef3b8a6941"
+    },
+    {
+      "combination": true,
+      "labeler": "Larken Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "326c83fc-afed-45ad-9c87-f47968fa1d2a"
+    },
+    {
+      "combination": true,
+      "labeler": "SUNRISE PHARMACEUTICAL, INC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ee7630f8-f4b8-4eb0-b34d-d908567030c4"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurolife Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f9fde75d-7def-48fc-a2b0-727f677f6001"
+    },
+    {
+      "combination": true,
+      "labeler": "Oceanside Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d2213ffd-18f6-45f5-9af7-690a977562c4"
+    },
+    {
+      "combination": true,
+      "labeler": "KVK-Tech, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7f9c4668-4f4a-453b-b2fa-a6fed903ddfa"
+    },
+    {
+      "combination": true,
+      "labeler": "LGM PHARMA SOLUTIONS, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f6548126-faa1-4f53-8e0b-bc1b743de04d"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals of New York, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "828e30fa-7bb1-486b-80ee-806fce45e4e4"
+    },
+    {
+      "combination": true,
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4d62259d-a582-4621-b62e-3d5640cadf7c"
+    },
+    {
+      "combination": true,
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c1107153-494b-4068-8500-96bc241187a5"
+    },
+    {
+      "combination": true,
+      "labeler": "Granules Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2091c292-b77b-4ce6-8bba-436c74eee3d7"
+    },
+    {
+      "combination": true,
+      "labeler": "Granules Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2407efce-b77e-4072-bc4b-62c789d01e1a"
+    },
+    {
+      "combination": true,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a68de112-f5af-49ba-a8a8-3adbaa7df36e"
+    },
+    {
+      "combination": true,
+      "labeler": "LGM PHARMA SOLUTIONS, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a1c7b964-af71-4427-8f13-73b5e69ca525"
+    },
+    {
+      "combination": true,
+      "labeler": "Seton Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3c5cefe3-c84e-4380-97f3-78e3fe92543a"
+    },
+    {
+      "combination": true,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6e0e8abc-512b-42f7-8323-434c589edecf"
+    },
+    {
+      "combination": true,
+      "labeler": "Granules Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "74e27dab-9790-47e4-b4f1-3b9df4bce184"
+    },
+    {
+      "combination": true,
+      "labeler": "QUAGEN PHARMACEUTICALS LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5f3c7457-6670-4a0d-bdff-c3e0fe91b7c6"
+    },
+    {
+      "combination": true,
+      "labeler": "Burel Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0a8a6a16-b23f-45d2-b5d4-540264e74d14"
+    },
+    {
+      "combination": true,
+      "labeler": "QUAGEN PHARMACEUTICALS LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1f0dbe62-6aea-4323-ad25-c2211f919253"
+    },
+    {
+      "combination": true,
+      "labeler": "QUAGEN PHARMACEUTICALS LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "24813ec6-0111-4782-9182-a2b93501a2bc"
+    },
+    {
+      "combination": true,
+      "labeler": "QUAGEN PHARMACEUTICALS LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2eb09253-7f59-401e-afbc-70bb9600fedf"
+    },
+    {
+      "combination": true,
+      "labeler": "QUAGEN PHARMACEUTICALS LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8438f08f-a32a-4180-9030-e0fd5da4be30"
+    },
+    {
+      "combination": true,
+      "labeler": "Dr. Reddy's Labratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "42d808d6-d8d4-22f5-ac2f-0f0d1d71686a"
+    },
+    {
+      "combination": true,
+      "labeler": "Dr. Reddy's Labratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "69df02fa-c842-48dc-7ac6-5967b7dc30de"
+    },
+    {
+      "combination": true,
+      "labeler": "Aarkish Pharmaceuticals NJ Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "82fa5151-d5ee-4ad8-ba7c-a2df8a09e1a6"
+    },
+    {
+      "combination": true,
+      "labeler": "Genus Lifesciences Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5f603b0d-69e5-4c02-b6b3-b4705e243e9a"
+    },
+    {
+      "combination": true,
+      "labeler": "Westminster Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ac6ceec2-72d8-4901-9d30-278965a79049"
+    },
+    {
+      "combination": true,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e69d8bb1-ba09-42e2-8372-7f5e0a906174"
+    },
+    {
+      "combination": true,
+      "labeler": "Mikart, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a26775c2-cafb-4b13-99ac-d4e8248265fb"
+    },
+    {
+      "combination": true,
+      "labeler": "Breckenridge Pharmaceutical, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d74db417-d2de-495b-bb75-46a83745603d"
+    },
+    {
+      "combination": true,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ea5b9ffe-3cda-405e-8f75-3fd4a64c9a35"
+    },
+    {
+      "combination": true,
+      "labeler": "Breckenridge Pharmaceutical, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "243a6aea-0f48-42a9-a85e-ff247ab94336"
+    },
+    {
+      "combination": true,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "52321fe5-c001-4e2d-8149-3197ddc13764"
+    },
+    {
+      "combination": true,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c018be7d-f7b8-45e2-97b8-8e7a71740657"
+    },
+    {
+      "combination": true,
+      "labeler": "El Dorado Distributors LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4e4a9925-67aa-4be7-8bb7-c8b058ffe223"
+    },
+    {
+      "combination": true,
+      "labeler": "Westminster Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1c0511d0-fe63-45c6-8da2-6ceeb56edb17"
+    },
+    {
+      "combination": true,
+      "labeler": "SOLCO HEALTHCARE US, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5c9c3407-212a-4ae9-a574-2b0c53f3c5eb"
+    },
+    {
+      "combination": true,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0e5e3842-fc6c-4a24-8e5c-522701f7c291"
+    },
+    {
+      "combination": true,
+      "labeler": "Amici Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3280501f-928a-4112-803d-fb9771c86547"
+    },
+    {
+      "combination": true,
+      "labeler": "Amici Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fb12459c-82f8-43d2-8c05-a4b6d4a3e948"
+    }
+  ]
+}

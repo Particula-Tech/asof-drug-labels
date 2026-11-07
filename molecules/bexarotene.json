@@ -1,0 +1,418 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand TARGRETIN",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000326",
+      "eu_number": "EU/1/01/178",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000326",
+      "mah": "H.A.C. Pharma",
+      "marketing_authorisation_date": "2001-03-29",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/targretin",
+      "name": "Targretin",
+      "record_from": "2001-03-29",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 17
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000326",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "BEXAROTENE"
+  ],
+  "inn": "bexarotene",
+  "name": "BEXAROTENE",
+  "rank": 478,
+  "rxcui": [
+    "261349",
+    "308724",
+    "308725",
+    "991233"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 9,
+    "approval_holders": 7,
+    "earliest_marketing_start": "1999-12-29",
+    "latest_label_update": "2026-09-21",
+    "nda_bla_applications": 2,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "BEXAROTENE",
+      "unii": "A61RXM4375"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021055"
+      ],
+      "brand_names": [
+        "Targretin"
+      ],
+      "combination": false,
+      "home_inn": "bexarotene",
+      "ingredients": [
+        "BEXAROTENE"
+      ],
+      "labeler": "Bausch Health US, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1999-12-29",
+      "moieties": [
+        "BEXAROTENE"
+      ],
+      "product_ndcs": [
+        "0187-5526"
+      ],
+      "rxcui": [
+        "261349",
+        "308725"
+      ],
+      "setid": "1d056725-0576-4338-8089-6336e768ccdc",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "TARGRETIN (BEXAROTENE) CAPSULE, LIQUID FILLED [BAUSCH HEALTH US, LLC]",
+      "upload_date": "2026-07-20"
+    },
+    {
+      "application_numbers": [
+        "NDA021056"
+      ],
+      "brand_names": [
+        "Targretin"
+      ],
+      "combination": false,
+      "home_inn": "bexarotene",
+      "ingredients": [
+        "BEXAROTENE"
+      ],
+      "labeler": "Bausch Health US, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2000-06-28",
+      "moieties": [
+        "BEXAROTENE"
+      ],
+      "product_ndcs": [
+        "0187-5525"
+      ],
+      "rxcui": [
+        "308724",
+        "991233"
+      ],
+      "setid": "d35b4697-3f3b-4aa1-b5d9-153993e83811",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "TARGRETIN (BEXAROTENE) GEL [BAUSCH HEALTH US, LLC]",
+      "upload_date": "2022-08-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA203174"
+      ],
+      "brand_names": [
+        "Bexarotene"
+      ],
+      "combination": false,
+      "home_inn": "bexarotene",
+      "ingredients": [
+        "BEXAROTENE"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-07-09",
+      "moieties": [
+        "BEXAROTENE"
+      ],
+      "product_ndcs": [
+        "0378-6955"
+      ],
+      "rxcui": [
+        "308725"
+      ],
+      "setid": "2d1eb4bd-51f9-4c9b-9fb1-0be5e30a3dc5",
+      "source": "dailymed-title-match",
+      "spl_version": 6,
+      "title": "BEXAROTENE CAPSULE, LIQUID FILLED [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2026-09-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA209861"
+      ],
+      "brand_names": [
+        "Bexarotene"
+      ],
+      "combination": false,
+      "home_inn": "bexarotene",
+      "ingredients": [
+        "BEXAROTENE"
+      ],
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-05-10",
+      "moieties": [
+        "BEXAROTENE"
+      ],
+      "product_ndcs": [
+        "43975-315"
+      ],
+      "rxcui": [
+        "308725"
+      ],
+      "setid": "e713c60d-f623-4260-b0ca-db07e1365fd2",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "BEXAROTENE CAPSULE, LIQUID FILLED [ANI PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-09-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA209886"
+      ],
+      "brand_names": [
+        "Bexarotene"
+      ],
+      "combination": false,
+      "home_inn": "bexarotene",
+      "ingredients": [
+        "BEXAROTENE"
+      ],
+      "labeler": "Upsher-Smith Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-07-25",
+      "moieties": [
+        "BEXAROTENE"
+      ],
+      "product_ndcs": [
+        "0832-0285"
+      ],
+      "rxcui": [
+        "308725"
+      ],
+      "setid": "7437a43f-172a-4f4e-8132-fe23b00224f9",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "BEXAROTENE CAPSULE [UPSHER-SMITH LABORATORIES, INC.]",
+      "upload_date": "2023-04-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA210105"
+      ],
+      "brand_names": [
+        "Bexarotene"
+      ],
+      "combination": false,
+      "home_inn": "bexarotene",
+      "ingredients": [
+        "BEXAROTENE"
+      ],
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-09-04",
+      "moieties": [
+        "BEXAROTENE"
+      ],
+      "product_ndcs": [
+        "69238-1250"
+      ],
+      "rxcui": [
+        "308725"
+      ],
+      "setid": "d7fc7c7b-2ecf-4543-8bb4-9b4415d66613",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "BEXAROTENE CAPSULE [AMNEAL PHARMACEUTICALS NY LLC]",
+      "upload_date": "2023-06-08"
+    },
+    {
+      "application_numbers": [
+        "ANDA209931"
+      ],
+      "brand_names": [
+        "bexarotene"
+      ],
+      "combination": false,
+      "home_inn": "bexarotene",
+      "ingredients": [
+        "BEXAROTENE"
+      ],
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-11-11",
+      "moieties": [
+        "BEXAROTENE"
+      ],
+      "product_ndcs": [
+        "0591-2832"
+      ],
+      "rxcui": [
+        "308725"
+      ],
+      "setid": "3292c63c-052f-4f28-b739-530a86e660bf",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "BEXAROTENE CAPSULE, LIQUID FILLED [ACTAVIS PHARMA, INC.]",
+      "upload_date": "2025-02-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA215398"
+      ],
+      "brand_names": [
+        "Bexarotene"
+      ],
+      "combination": false,
+      "home_inn": "bexarotene",
+      "ingredients": [
+        "BEXAROTENE"
+      ],
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-05-04",
+      "moieties": [
+        "BEXAROTENE"
+      ],
+      "product_ndcs": [
+        "69238-2088"
+      ],
+      "rxcui": [
+        "308724"
+      ],
+      "setid": "2c21f361-e3d1-45a5-a6e7-df8164e3f90d",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "BEXAROTENE GEL [AMNEAL PHARMACEUTICALS NY LLC]",
+      "upload_date": "2024-01-01"
+    },
+    {
+      "application_numbers": [
+        "NDA021055"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "TARGRETIN"
+      ],
+      "first_posted": "2010-05-12",
+      "found_by": "TARGRETIN",
+      "labeler": "Eisai Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2017-02-09",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2014-12-01"
+      ],
+      "product_ndcs": [
+        "62856-602"
+      ],
+      "rxcui": [],
+      "setid": "1fe10df7-f710-419d-9035-3b4936ada303",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "1d056725-0576-4338-8089-6336e768ccdc"
+      ],
+      "title": "TARGRETIN (bexarotene) capsule, liquid filled"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "TARGRETIN"
+      ],
+      "first_posted": "2006-07-18",
+      "found_by": "TARGRETIN",
+      "labeler": "",
+      "labeler_unverified": true,
+      "last_posted": "2006-07-18",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "64365-502"
+      ],
+      "rxcui": [],
+      "setid": "63656f64-e240-4855-8df9-ca1655863735",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "targretin (bexarotene) capsule"
+    },
+    {
+      "application_numbers": [
+        "NDA021056"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "TARGRETIN"
+      ],
+      "first_posted": "2010-05-14",
+      "found_by": "TARGRETIN",
+      "labeler": "Eisai Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2017-02-16",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-04-30"
+      ],
+      "product_ndcs": [
+        "62856-604"
+      ],
+      "rxcui": [],
+      "setid": "df5d4f8d-a41f-4b99-a5cc-cd853c19f8ca",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "d35b4697-3f3b-4aa1-b5d9-153993e83811"
+      ],
+      "title": "TARGRETIN (bexarotene) gel"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "374c42b1-3d7f-4ca3-9d3a-2a111286f7ca"
+    }
+  ]
+}

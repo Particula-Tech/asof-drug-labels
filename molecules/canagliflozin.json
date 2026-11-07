@@ -1,0 +1,207 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand INVOKANA",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/002649",
+      "eu_number": "EU/1/13/884",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-002649",
+      "mah": "Janssen-Cilag International NV",
+      "marketing_authorisation_date": "2013-11-15",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/invokana",
+      "name": "Invokana",
+      "record_from": "2013-11-15",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 16
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 1,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-002649",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "CANAGLIFLOZIN"
+  ],
+  "inn": "canagliflozin",
+  "name": "CANAGLIFLOZIN",
+  "rank": 294,
+  "rxcui": [
+    "1373463",
+    "1373469",
+    "1373471",
+    "1373473",
+    "1545150",
+    "1545156",
+    "1545157",
+    "1545159",
+    "1545161",
+    "1545163",
+    "1545164",
+    "1545166",
+    "1810997",
+    "1810999",
+    "1811002",
+    "1811003",
+    "1811006",
+    "1811007",
+    "1811010",
+    "1811011"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 2,
+    "approval_holders": 1,
+    "earliest_marketing_start": "2013-03-29",
+    "latest_label_update": "2026-08-25",
+    "nda_bla_applications": 3,
+    "repackagers": 2
+  },
+  "unii": [
+    {
+      "ingredient": "CANAGLIFLOZIN",
+      "unii": "0SAC974Z85"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA204042"
+      ],
+      "brand_names": [
+        "INVOKANA"
+      ],
+      "combination": false,
+      "home_inn": "canagliflozin",
+      "ingredients": [
+        "CANAGLIFLOZIN"
+      ],
+      "labeler": "Janssen Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2013-03-29",
+      "moieties": [
+        "CANAGLIFLOZIN"
+      ],
+      "product_ndcs": [
+        "50458-140",
+        "50458-141"
+      ],
+      "rxcui": [
+        "1373463",
+        "1373469",
+        "1373471",
+        "1373473"
+      ],
+      "setid": "b9057d3b-b104-4f09-8a61-c61ef9d4a3f3",
+      "source": "openfda",
+      "spl_version": 32,
+      "title": "INVOKANA (CANAGLIFLOZIN) TABLET, FILM COATED [JANSSEN PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-06-15"
+    },
+    {
+      "application_numbers": [
+        "NDA204353",
+        "NDA205879"
+      ],
+      "brand_names": [
+        "INVOKAMET",
+        "INVOKAMET XR"
+      ],
+      "combination": true,
+      "home_inn": "metformin",
+      "ingredients": [
+        "CANAGLIFLOZIN",
+        "METFORMIN HYDROCHLORIDE"
+      ],
+      "labeler": "Janssen Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2014-08-08",
+      "moieties": [
+        "CANAGLIFLOZIN",
+        "METFORMIN"
+      ],
+      "product_ndcs": [
+        "50458-540",
+        "50458-541",
+        "50458-542",
+        "50458-543",
+        "50458-940",
+        "50458-941",
+        "50458-942",
+        "50458-943"
+      ],
+      "rxcui": [
+        "1545150",
+        "1545156",
+        "1545157",
+        "1545159",
+        "1545161",
+        "1545163",
+        "1545164",
+        "1545166",
+        "1810997",
+        "1810999",
+        "1811002",
+        "1811003",
+        "1811006",
+        "1811007",
+        "1811010",
+        "1811011"
+      ],
+      "setid": "6868666b-c25e-40d1-9d1f-306bbe9390c1",
+      "source": "openfda",
+      "spl_version": 32,
+      "title": "INVOKAMET (CANAGLIFLOZIN AND METFORMIN HYDROCHLORIDE) TABLET, FILM COATED INVOKAMET XR (CANAGLIFLOZIN AND METFORMIN HYDROCHLORIDE) TABLET, FILM COATED, EXTENDED RELEASE [JANSSEN PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-08-25"
+    },
+    {
+      "application_numbers": [
+        "NDA205879"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "INVOKAMET"
+      ],
+      "first_posted": "2016-09-22",
+      "found_by": "INVOKAMET",
+      "labeler": "Janssen Pharmaceuticals, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2018-09-07",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "50458-940",
+        "50458-941",
+        "50458-942",
+        "50458-943"
+      ],
+      "rxcui": [],
+      "setid": "9da7283e-9168-45df-9749-dc51cfcca450",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "6868666b-c25e-40d1-9d1f-306bbe9390c1"
+      ],
+      "title": "INVOKAMET XR (canagliflozin and metformin hydrochloride) tablet, film coated, extended release"
+    }
+  ],
+  "us_excluded": []
+}

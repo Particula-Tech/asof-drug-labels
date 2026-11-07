@@ -1,0 +1,1401 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 6,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "only combination central products under this exact INN (combinations are not built)",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "AMLODIPINE",
+    "AMLODIPINE BENZOATE",
+    "AMLODIPINE BESYLATE"
+  ],
+  "inn": "amlodipine",
+  "name": "AMLODIPINE",
+  "rank": 22,
+  "rxcui": [
+    "197361",
+    "212542",
+    "212549",
+    "212575",
+    "308135",
+    "308136",
+    "404011",
+    "404013",
+    "597967",
+    "597977",
+    "597980",
+    "597984",
+    "597987",
+    "597990",
+    "722126",
+    "722131",
+    "722134",
+    "722137",
+    "724879",
+    "724887",
+    "724891",
+    "724895",
+    "730861",
+    "730866",
+    "730869",
+    "730872",
+    "744624",
+    "744628",
+    "744632",
+    "744636",
+    "750199",
+    "750203",
+    "750207",
+    "750211",
+    "750227",
+    "750231",
+    "750235",
+    "750239",
+    "999967",
+    "999971",
+    "999986",
+    "999990",
+    "999991",
+    "999995",
+    "999996",
+    "1000000",
+    "1000001",
+    "1000005",
+    "2184120",
+    "2184126",
+    "2599173",
+    "2599179",
+    "2726058",
+    "2726064",
+    "2726065",
+    "2726067",
+    "2726068",
+    "2726070",
+    "2727452",
+    "2727458",
+    "2727460",
+    "2727462",
+    "2727463",
+    "2727465"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 80,
+    "approval_holders": 43,
+    "earliest_marketing_start": "1992-07-31",
+    "latest_label_update": "2026-10-30",
+    "nda_bla_applications": 10,
+    "repackagers": 24
+  },
+  "unii": [
+    {
+      "ingredient": "AMLODIPINE",
+      "unii": "1J444QC288"
+    },
+    {
+      "ingredient": "AMLODIPINE BENZOATE",
+      "unii": "XD75TQ8A2P"
+    },
+    {
+      "ingredient": "AMLODIPINE BESYLATE",
+      "unii": "864V2Q084H"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA019787"
+      ],
+      "brand_names": [
+        "Norvasc"
+      ],
+      "combination": false,
+      "home_inn": "amlodipine",
+      "ingredients": [
+        "AMLODIPINE BESYLATE"
+      ],
+      "labeler": "PFIZER LABORATORIES DIV PFIZER INC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1992-07-31",
+      "moieties": [
+        "AMLODIPINE"
+      ],
+      "product_ndcs": [
+        "0069-1520",
+        "0069-1530",
+        "0069-1540"
+      ],
+      "rxcui": [
+        "197361",
+        "212542",
+        "212549",
+        "212575",
+        "308135",
+        "308136"
+      ],
+      "setid": "abd6a2ca-40c2-485c-bc53-db1c652505ed",
+      "source": "openfda",
+      "spl_version": 29,
+      "title": "NORVASC (AMLODIPINE BESYLATE) TABLET [PFIZER LABORATORIES DIV PFIZER INC]",
+      "upload_date": "2025-06-09"
+    },
+    {
+      "application_numbers": [
+        "NDA211340"
+      ],
+      "brand_names": [
+        "Katerzia"
+      ],
+      "combination": false,
+      "home_inn": "amlodipine",
+      "ingredients": [
+        "AMLODIPINE BENZOATE"
+      ],
+      "labeler": "Azurity Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2019-08-15",
+      "moieties": [
+        "AMLODIPINE"
+      ],
+      "product_ndcs": [
+        "52652-5001"
+      ],
+      "rxcui": [
+        "2184120",
+        "2184126"
+      ],
+      "setid": "df673a4d-acb8-444c-a472-c87ab8cbd366",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "KATERZIA (AMLODIPINE) SUSPENSION [AZURITY PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-12-18"
+    },
+    {
+      "application_numbers": [
+        "NDA214439"
+      ],
+      "brand_names": [
+        "NORLIQVA"
+      ],
+      "combination": false,
+      "home_inn": "amlodipine",
+      "ingredients": [
+        "AMLODIPINE"
+      ],
+      "labeler": "CMP Pharma, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-04-15",
+      "moieties": [
+        "AMLODIPINE"
+      ],
+      "product_ndcs": [
+        "46287-035"
+      ],
+      "rxcui": [
+        "2599173",
+        "2599179"
+      ],
+      "setid": "c1730a51-4383-4c61-a9a1-7e1326bd0abe",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "NORLIQVA (AMLODIPINE) SOLUTION [CMP PHARMA, INC.]",
+      "upload_date": "2022-04-18"
+    },
+    {
+      "application_numbers": [
+        "NDA219531"
+      ],
+      "brand_names": [
+        "Sdamlo"
+      ],
+      "combination": false,
+      "home_inn": "amlodipine",
+      "ingredients": [
+        "AMLODIPINE BESYLATE"
+      ],
+      "labeler": "Pangea Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2026-04-17",
+      "moieties": [
+        "AMLODIPINE"
+      ],
+      "product_ndcs": [
+        "81279-133",
+        "81279-134",
+        "81279-135"
+      ],
+      "rxcui": [
+        "2726058",
+        "2726064",
+        "2726065",
+        "2726067",
+        "2726068",
+        "2726070"
+      ],
+      "setid": "886a7f97-60a4-4206-a6c7-5206069ed487",
+      "source": "dailymed-title-match",
+      "spl_version": 6,
+      "title": "SDAMLO (AMLODIPINE) SOLUTION [PANGEA PHARMACEUTICALS, LLC]",
+      "upload_date": "2026-10-05"
+    },
+    {
+      "application_numbers": [
+        "NDA021990"
+      ],
+      "brand_names": [
+        "Exforge"
+      ],
+      "combination": true,
+      "home_inn": "amlodipine",
+      "ingredients": [
+        "AMLODIPINE BESYLATE",
+        "VALSARTAN"
+      ],
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2007-06-20",
+      "moieties": [
+        "AMLODIPINE",
+        "VALSARTAN"
+      ],
+      "product_ndcs": [
+        "0078-0488",
+        "0078-0489",
+        "0078-0490",
+        "0078-0491"
+      ],
+      "rxcui": [
+        "722126",
+        "722131",
+        "722134",
+        "722137",
+        "724879",
+        "724887",
+        "724891",
+        "724895"
+      ],
+      "setid": "d0caec89-96ec-411d-a933-63eda74a6da7",
+      "source": "openfda",
+      "spl_version": 36,
+      "title": "EXFORGE (AMLODIPINE BESYLATE AND VALSARTAN) TABLET, FILM COATED [NOVARTIS PHARMACEUTICALS CORPORATION]",
+      "upload_date": "2026-02-18"
+    },
+    {
+      "application_numbers": [
+        "NDA022314"
+      ],
+      "brand_names": [
+        "Exforge HCT"
+      ],
+      "combination": true,
+      "home_inn": "hydrochlorothiazide",
+      "ingredients": [
+        "AMLODIPINE BESYLATE",
+        "HYDROCHLOROTHIAZIDE",
+        "VALSARTAN"
+      ],
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2009-04-04",
+      "moieties": [
+        "AMLODIPINE",
+        "HYDROCHLOROTHIAZIDE",
+        "VALSARTAN"
+      ],
+      "product_ndcs": [
+        "0078-0559",
+        "0078-0560",
+        "0078-0561",
+        "0078-0562",
+        "0078-0563"
+      ],
+      "rxcui": [],
+      "setid": "18d7820d-471f-4ee2-9ec6-25d8d27c77de",
+      "source": "dailymed-title-match",
+      "spl_version": 34,
+      "title": "EXFORGE HCT (AMLODIPINE VALSARTAN AND HYDROCHLOROTHIAZIDE) TABLET, FILM COATED [NOVARTIS PHARMACEUTICALS CORPORATION]",
+      "upload_date": "2026-10-30"
+    },
+    {
+      "application_numbers": [
+        "NDA021540"
+      ],
+      "brand_names": [
+        "Caduet"
+      ],
+      "combination": true,
+      "home_inn": "amlodipine",
+      "ingredients": [
+        "AMLODIPINE BESYLATE",
+        "ATORVASTATIN CALCIUM TRIHYDRATE"
+      ],
+      "labeler": "Pfizer Laboratories Div Pfizer Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-06-06",
+      "moieties": [
+        "AMLODIPINE",
+        "ATORVASTATIN"
+      ],
+      "product_ndcs": [
+        "0069-6180",
+        "0069-6323",
+        "0069-6565",
+        "0069-6747",
+        "0069-7232",
+        "0069-7476",
+        "0069-7654",
+        "0069-7810"
+      ],
+      "rxcui": [
+        "404011",
+        "404013",
+        "597967",
+        "597977",
+        "597980",
+        "597984",
+        "597987",
+        "597990",
+        "750199",
+        "750203",
+        "750207",
+        "750211",
+        "750227",
+        "750231",
+        "750235",
+        "750239"
+      ],
+      "setid": "6f1a9bd8-ee30-4c7d-932f-3fa8c4e087b6",
+      "source": "openfda",
+      "spl_version": 52,
+      "title": "CADUET (AMLODIPINE BESYLATE AND ATORVASTATIN CALCIUM) TABLET, FILM COATED CADUET (AMLODIPINE AND ATORVASTATIN) TABLET, FILM COATED [PFIZER LABORATORIES DIV PFIZER INC]",
+      "upload_date": "2026-06-26"
+    },
+    {
+      "application_numbers": [
+        "NDA200175"
+      ],
+      "brand_names": [
+        "Tribenzor"
+      ],
+      "combination": true,
+      "home_inn": "amlodipine",
+      "ingredients": [
+        "AMLODIPINE BESYLATE",
+        "HYDROCHLOROTHIAZIDE",
+        "OLMESARTAN MEDOXOMIL"
+      ],
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-09-01",
+      "moieties": [
+        "AMLODIPINE",
+        "HYDROCHLOROTHIAZIDE",
+        "OLMESARTAN"
+      ],
+      "product_ndcs": [
+        "0713-0874",
+        "0713-0875",
+        "0713-0876",
+        "0713-0877",
+        "0713-0878"
+      ],
+      "rxcui": [
+        "999967",
+        "999971",
+        "999986",
+        "999990",
+        "999991",
+        "999995",
+        "999996",
+        "1000000",
+        "1000001",
+        "1000005"
+      ],
+      "setid": "2f56d0bc-236b-41a0-9fc0-21cdfea8d890",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "TRIBENZOR (OLMESARTAN MEDOXOMIL / AMLODIPINE BESYLATE / HYDROCHLOROTHIAZIDE) TABLET, FILM COATED [COSETTE PHARMACEUTICALS, INC.]",
+      "upload_date": "2023-07-13"
+    },
+    {
+      "application_numbers": [
+        "NDA022100"
+      ],
+      "brand_names": [
+        "Azor"
+      ],
+      "combination": true,
+      "home_inn": "amlodipine",
+      "ingredients": [
+        "AMLODIPINE BESYLATE",
+        "OLMESARTAN MEDOXOMIL"
+      ],
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-09-01",
+      "moieties": [
+        "AMLODIPINE",
+        "OLMESARTAN"
+      ],
+      "product_ndcs": [
+        "0713-0870",
+        "0713-0871",
+        "0713-0872",
+        "0713-0873"
+      ],
+      "rxcui": [
+        "730861",
+        "730866",
+        "730869",
+        "730872",
+        "744624",
+        "744628",
+        "744632",
+        "744636"
+      ],
+      "setid": "c5535406-b63b-49aa-88b9-169aaf0ed08e",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "AZOR (AMLODIPINE BESYLATE AND OLMESARTAN MEDOXOMIL) TABLET, FILM COATED [COSETTE PHARMACEUTICALS, INC.]",
+      "upload_date": "2023-07-13"
+    },
+    {
+      "application_numbers": [
+        "NDA219423"
+      ],
+      "brand_names": [
+        "WIDAPLIK"
+      ],
+      "combination": true,
+      "home_inn": "amlodipine",
+      "ingredients": [
+        "AMLODIPINE BESYLATE",
+        "INDAPAMIDE",
+        "TELMISARTAN"
+      ],
+      "labeler": "Azurity Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-10-20",
+      "moieties": [
+        "AMLODIPINE",
+        "INDAPAMIDE",
+        "TELMISARTAN"
+      ],
+      "product_ndcs": [
+        "24338-001",
+        "24338-002",
+        "24338-003"
+      ],
+      "rxcui": [
+        "2727452",
+        "2727458",
+        "2727460",
+        "2727462",
+        "2727463",
+        "2727465"
+      ],
+      "setid": "a30ff81d-420b-40ea-83d8-670260a93fff",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "WIDAPLIK (TELMISARTAN, AMLODIPINE AND INDAPAMIDE) TABLET [AZURITY PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-07-13"
+    },
+    {
+      "application_numbers": [
+        "NDA019787"
+      ],
+      "brand_names": [
+        "amlodipine besylate"
+      ],
+      "combination": false,
+      "home_inn": "amlodipine",
+      "ingredients": [
+        "AMLODIPINE BESYLATE"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2019-06-24",
+      "moieties": [
+        "AMLODIPINE"
+      ],
+      "product_ndcs": [
+        "59762-2010",
+        "59762-2135",
+        "59762-2242"
+      ],
+      "rxcui": [
+        "197361",
+        "308135",
+        "308136"
+      ],
+      "setid": "180ee374-24f2-4b9c-9d54-8815f2b1dc9b",
+      "source": "openfda",
+      "spl_version": 32,
+      "title": "AMLODIPINE BESYLATE TABLET [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2026-03-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA076719"
+      ],
+      "brand_names": [
+        "Amlodipine Besylate"
+      ],
+      "combination": false,
+      "home_inn": "amlodipine",
+      "ingredients": [
+        "AMLODIPINE BESYLATE"
+      ],
+      "labeler": "PD-Rx Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2007-05-23",
+      "moieties": [
+        "AMLODIPINE"
+      ],
+      "product_ndcs": [
+        "72789-514",
+        "72789-515",
+        "72789-516"
+      ],
+      "rxcui": [
+        "197361",
+        "308135",
+        "308136"
+      ],
+      "setid": "5a0b3dd4-91f5-4173-a992-e91b1cac6a18",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "AMLODIPINE BESYLATE TABLET [PD-RX PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-05-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA078021"
+      ],
+      "brand_names": [
+        "Amlodipine Besylate"
+      ],
+      "combination": false,
+      "home_inn": "amlodipine",
+      "ingredients": [
+        "AMLODIPINE BESYLATE"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2007-07-17",
+      "moieties": [
+        "AMLODIPINE"
+      ],
+      "product_ndcs": [
+        "65862-101",
+        "65862-102",
+        "65862-103"
+      ],
+      "rxcui": [
+        "197361",
+        "308135",
+        "308136"
+      ],
+      "setid": "b6f298ba-2d7e-4a3c-9edb-8b60aba716d6",
+      "source": "openfda",
+      "spl_version": 20,
+      "title": "AMLODIPINE BESYLATE TABLET [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2026-03-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA078226"
+      ],
+      "brand_names": [
+        "Amlodipine Besylate"
+      ],
+      "combination": false,
+      "home_inn": "amlodipine",
+      "ingredients": [
+        "AMLODIPINE BESYLATE"
+      ],
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2007-09-21",
+      "moieties": [
+        "AMLODIPINE"
+      ],
+      "product_ndcs": [
+        "65841-620",
+        "65841-621",
+        "65841-622"
+      ],
+      "rxcui": [
+        "197361",
+        "308135",
+        "308136"
+      ],
+      "setid": "cacb3551-c579-41cb-bed6-4b4d8b0644fc",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "AMLODIPINE BESYLATE TABLET [ZYDUS LIFESCIENCES LIMITED]",
+      "upload_date": "2024-11-27"
+    },
+    {
+      "application_numbers": [
+        "ANDA077073"
+      ],
+      "brand_names": [
+        "AMLODIPINE BESYLATE"
+      ],
+      "combination": false,
+      "home_inn": "amlodipine",
+      "ingredients": [
+        "AMLODIPINE BESYLATE"
+      ],
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2007-09-26",
+      "moieties": [
+        "AMLODIPINE"
+      ],
+      "product_ndcs": [
+        "69097-126",
+        "69097-127",
+        "69097-128"
+      ],
+      "rxcui": [
+        "197361",
+        "308135",
+        "308136"
+      ],
+      "setid": "5409b296-3bed-47cd-abba-9fe6f6833af6",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "AMLODIPINE BESYLATE TABLET [CIPLA USA INC.]",
+      "upload_date": "2025-12-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA077955"
+      ],
+      "brand_names": [
+        "Amlodipine besylate"
+      ],
+      "combination": false,
+      "home_inn": "amlodipine",
+      "ingredients": [
+        "AMLODIPINE BESYLATE"
+      ],
+      "labeler": "Exelan Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2007-11-02",
+      "moieties": [
+        "AMLODIPINE"
+      ],
+      "product_ndcs": [
+        "76282-237",
+        "76282-238",
+        "76282-239"
+      ],
+      "rxcui": [
+        "197361",
+        "308135",
+        "308136"
+      ],
+      "setid": "efd9eda5-f497-45a3-ae13-dee729add999",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "AMLODIPINE BESYLATE TABLET [EXELAN PHARMACEUTICALS, INC.]",
+      "upload_date": "2023-03-24"
+    },
+    {
+      "application_numbers": [
+        "NDA200175"
+      ],
+      "archived_versions": 22,
+      "brand_names": [
+        "TRIBENZOR"
+      ],
+      "first_posted": "2010-08-06",
+      "found_by": "TRIBENZOR",
+      "labeler": "Daiichi Sankyo, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2022-06-14",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-07-31",
+        "2024-02-29",
+        "2024-05-31",
+        "2024-06-30",
+        "2024-08-31"
+      ],
+      "product_ndcs": [
+        "65597-114",
+        "65597-115",
+        "65597-116",
+        "65597-117",
+        "65597-118"
+      ],
+      "rxcui": [],
+      "setid": "5562b3f5-8757-11de-8a39-0800200c9a66",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "2f56d0bc-236b-41a0-9fc0-21cdfea8d890"
+      ],
+      "title": "TRIBENZOR (olmesartan medoxomil / amlodipine besylate / hydrochlorothiazide) tablet, film coated"
+    },
+    {
+      "application_numbers": [
+        "NDA022100"
+      ],
+      "archived_versions": 22,
+      "brand_names": [
+        "AZOR"
+      ],
+      "first_posted": "2007-10-19",
+      "found_by": "AZOR",
+      "labeler": "Daiichi Sankyo Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2022-06-09",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-05-31",
+        "2023-10-31",
+        "2024-08-31",
+        "2025-02-28"
+      ],
+      "product_ndcs": [
+        "65597-110",
+        "65597-111",
+        "65597-112",
+        "65597-113"
+      ],
+      "rxcui": [],
+      "setid": "f48911e0-705f-11dc-afc9-0002a5d5c51b",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "c5535406-b63b-49aa-88b9-169aaf0ed08e"
+      ],
+      "title": "AZOR (amlodipine besylate and olmesartan medoxomil) tablet, film coated"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Viatris Specialty LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "7367289c-b0b0-466a-83e2-558e2985c29f"
+    },
+    {
+      "combination": false,
+      "labeler": "CMP Pharma, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "614d974f-51c7-4b18-8171-39eb6e8d4c03"
+    },
+    {
+      "combination": true,
+      "labeler": "Viatris Specialty LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "164394b3-d7ba-4bbf-b64b-e2dd15735ea8"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3f4703c0-0b9e-41a0-8b70-da26683d9ed2"
+    },
+    {
+      "combination": false,
+      "labeler": "China Resources Saike Pharmaceutical Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3518853a-4c5b-4161-a178-8da7f656f009"
+    },
+    {
+      "combination": false,
+      "labeler": "Epic Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "090f3e51-8129-4b5d-97f9-ab410e14df2d"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "003dd1ec-16f8-4f96-b6a8-c4689d35892a"
+    },
+    {
+      "combination": false,
+      "labeler": "Unichem Pharmaceuticals (USA), Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a516b336-8f60-4b86-8921-c7d6c07629f2"
+    },
+    {
+      "combination": false,
+      "labeler": "Oxford Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6f20efca-943b-4bc2-a157-0931bd4d4585"
+    },
+    {
+      "combination": false,
+      "labeler": "Exelan Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1a24433f-4464-4c6d-9456-ed1ce38e8ec4"
+    },
+    {
+      "combination": false,
+      "labeler": "Teva Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "47edc328-2444-4ca1-a5c1-7c83141e105c"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4f42d132-9a8d-4cd4-ae94-318205fb870e"
+    },
+    {
+      "combination": true,
+      "labeler": "Prasco Laboratories",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "14124e56-77ba-426d-8f5a-dbe42eda1a20"
+    },
+    {
+      "combination": true,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "968c611b-43a7-40f0-9ed3-aa67ee88364b"
+    },
+    {
+      "combination": true,
+      "labeler": "Dr.Reddy's Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ca014f06-982c-6fe1-9948-a3701dd35d34"
+    },
+    {
+      "combination": true,
+      "labeler": "Dr.Reddy's Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f12f18bb-7ddb-e7dc-4edd-32f4ac212bca"
+    },
+    {
+      "combination": true,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "03b175fc-d430-490d-b7ac-9f7a2cb1dd8b"
+    },
+    {
+      "combination": true,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a97fefa6-99e6-4eb7-9393-ab2252a2c7d8"
+    },
+    {
+      "combination": true,
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4be76756-4114-4d50-a36c-fd410f6c773d"
+    },
+    {
+      "combination": true,
+      "labeler": "Dr. Reddy's Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "abee4a34-89cc-d886-192c-32582ab8f024"
+    },
+    {
+      "combination": true,
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ca60a4d5-ace7-4889-94ee-e2265fd63811"
+    },
+    {
+      "combination": true,
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "aa7e7d95-520a-461c-b1b3-e588aeb6a613"
+    },
+    {
+      "combination": true,
+      "labeler": "Lupin Pharmaceuticals,Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e05dd72c-7475-422e-bf8e-73148929450e"
+    },
+    {
+      "combination": true,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "35086164-bf92-4b3c-9845-f8cd7464c7d6"
+    },
+    {
+      "combination": true,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5dbb43b1-3ea4-4fa5-a9aa-95d869ae65fe"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7fa25f10-29e0-4162-81a8-9d2e03054ded"
+    },
+    {
+      "combination": true,
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "268d12e8-1cfc-4086-b613-8fd94f2d7c4e"
+    },
+    {
+      "combination": true,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c86a3c45-c906-46c9-9f7b-6c3d89bbe48f"
+    },
+    {
+      "combination": true,
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5c128ef2-60a6-40f3-b37f-ee139fe27987"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6894085d-6076-4e2e-8105-a9bbb0bd93ef"
+    },
+    {
+      "combination": true,
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "69fa6293-b10a-4473-ab9b-1bd53f099bdd"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b13a8b46-104e-4b75-8f4a-928d2204eff5"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1eb78d80-701d-4766-98c3-feee6790de1a"
+    },
+    {
+      "combination": true,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c1204fbe-d086-43cf-bbaa-efec9cd0487c"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6fba5243-ee00-4825-a04a-321cb6b49c56"
+    },
+    {
+      "combination": true,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7fcf6a87-7b3e-4cef-8c47-c8a008cfea82"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "02f9b562-6f7f-4783-bb0d-67c318073e1c"
+    },
+    {
+      "combination": true,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4c7b1b11-90a3-bc1c-0e45-9e2a14ef0b03"
+    },
+    {
+      "combination": true,
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9b76e441-e6a5-4036-8276-b7788ade5c44"
+    },
+    {
+      "combination": true,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "55a1d22e-04ad-4475-9b05-0d534e289160"
+    },
+    {
+      "combination": true,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5dfadaf0-c333-4b79-9a97-e42f77505c40"
+    },
+    {
+      "combination": true,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1ea4f227-b97a-49f1-bbc3-1dede2c1866d"
+    },
+    {
+      "combination": true,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "99865c67-5475-4e60-98d5-a8fa850fe9ba"
+    },
+    {
+      "combination": true,
+      "labeler": "Slate Run Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a469adff-25a6-4983-b471-60924d920a86"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1346631f-e6db-4c5c-a6af-5aa7b80a011d"
+    },
+    {
+      "combination": true,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "52c013e1-8c31-4bed-9241-e7845873ebe8"
+    },
+    {
+      "combination": true,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "45e975ff-07b1-411a-96ee-a011d1619b1e"
+    },
+    {
+      "combination": true,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "27b0c628-820a-48bf-a411-86c0ebd4cc8d"
+    },
+    {
+      "combination": true,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9fb71df8-f70f-47dc-9465-8d8748261caf"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "14f9b590-4c43-439c-a647-9fc2b0fd4d7f"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "856a8cdc-57cc-4355-966d-986bbc5fa6e6"
+    },
+    {
+      "combination": true,
+      "labeler": "Cadila Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "97be7df1-143e-4bff-aed3-2b9ec11d30b3"
+    },
+    {
+      "combination": false,
+      "labeler": "GSMS, Incorporated",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9c0f83f4-06ad-4bb1-a8e3-dcac43b840cf"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fda0739d-b355-478c-acae-8f773a3ec4b3"
+    },
+    {
+      "combination": false,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0c8d6b2f-3e4a-47a2-80e2-a34dcb337555"
+    },
+    {
+      "combination": false,
+      "labeler": "Quallent Pharmaceuticals Health LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c262dedb-1d13-4447-9355-f11e1dbbfb4d"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2b0bcb95-dc85-46f7-8b69-ca55cd58b30e"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "99ed4927-9a34-4e8d-8eea-60b63c867d46"
+    },
+    {
+      "combination": true,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "df8e23c8-6c8f-4293-8a37-5ad3d48dba94"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a9c442dc-749e-4de0-bca3-1044eb78da72"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cb2df7f7-fee8-42ba-8936-0788c4fcc0cb"
+    },
+    {
+      "combination": true,
+      "labeler": "ScieGen Pharmaceuticals, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c531fceb-09aa-492b-a5a3-2b004e9eadda"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ecab983e-6ed8-4440-b7b4-7ac4bf39b26c"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "15b438b4-4874-43f4-a50a-4e6f3e5530ac"
+    }
+  ]
+}

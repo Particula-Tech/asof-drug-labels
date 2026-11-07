@@ -1,0 +1,1005 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "NICARDIPINE",
+    "NICARDIPINE HYDROCHLORIDE"
+  ],
+  "inn": "nicardipine",
+  "name": "NICARDIPINE",
+  "rank": 131,
+  "rxcui": [
+    "858599",
+    "858601",
+    "858603",
+    "858605",
+    "858607",
+    "858609",
+    "858613",
+    "858616"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 34,
+    "approval_holders": 28,
+    "earliest_marketing_start": "1992-01-30",
+    "latest_label_update": "2026-10-06",
+    "nda_bla_applications": 2,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "NICARDIPINE HYDROCHLORIDE",
+      "unii": "K5BC5011K3"
+    }
+  ],
+  "unii_unresolved": [
+    "NICARDIPINE"
+  ],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA019734"
+      ],
+      "brand_names": [
+        "Cardene IV"
+      ],
+      "combination": false,
+      "home_inn": "nicardipine",
+      "ingredients": [
+        "NICARDIPINE HYDROCHLORIDE"
+      ],
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1992-01-30",
+      "moieties": [
+        "NICARDIPINE"
+      ],
+      "product_ndcs": [
+        "43066-021",
+        "43066-024"
+      ],
+      "rxcui": [
+        "858599",
+        "858601",
+        "858603",
+        "858605"
+      ],
+      "setid": "5499cfac-9147-4d5d-a8cb-f8d64f1481af",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "CARDENE IV (NICARDIPINE HYDROCHLORIDE) INJECTION, SOLUTION [BAXTER HEALTHCARE CORPORATION]",
+      "upload_date": "2026-04-14"
+    },
+    {
+      "application_numbers": [
+        "NDA022276"
+      ],
+      "brand_names": [
+        "Nicardipine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "nicardipine",
+      "ingredients": [
+        "NICARDIPINE HYDROCHLORIDE"
+      ],
+      "labeler": "West-Ward Pharmaceuticals Corp",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2012-03-02",
+      "moieties": [
+        "NICARDIPINE"
+      ],
+      "product_ndcs": [
+        "0143-9593"
+      ],
+      "rxcui": [
+        "858607"
+      ],
+      "setid": "0eb7d839-63d9-4b51-bf7b-4a8fde6339b5",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "NICARDIPINE HYDROCHLORIDE INJECTION [WEST-WARD PHARMACEUTICALS CORP]",
+      "upload_date": "2018-12-13"
+    },
+    {
+      "application_numbers": [
+        "NDA019734"
+      ],
+      "brand_names": [
+        "CARDENE IV"
+      ],
+      "combination": false,
+      "home_inn": "nicardipine",
+      "ingredients": [
+        "NICARDIPINE HYDROCHLORIDE"
+      ],
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1992-01-30",
+      "moieties": [
+        "NICARDIPINE"
+      ],
+      "product_ndcs": [
+        "43066-029"
+      ],
+      "rxcui": [
+        "858607",
+        "858609"
+      ],
+      "setid": "5749599d-ff2a-42e4-aa72-cd25013feee8",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "CARDENE IV (NICARDIPINE HYDROCHLORIDE) INJECTION, SOLUTION [BAXTER HEALTHCARE CORPORATION]",
+      "upload_date": "2026-01-09"
+    },
+    {
+      "application_numbers": [
+        "NDA019734"
+      ],
+      "brand_names": [
+        "CARDENE IV"
+      ],
+      "combination": false,
+      "home_inn": "nicardipine",
+      "ingredients": [
+        "NICARDIPINE HYDROCHLORIDE"
+      ],
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1992-01-30",
+      "moieties": [
+        "NICARDIPINE"
+      ],
+      "product_ndcs": [
+        "43066-026",
+        "43066-028"
+      ],
+      "rxcui": [
+        "858599",
+        "858601",
+        "858603",
+        "858605"
+      ],
+      "setid": "a3e33add-0d09-423a-9109-42e5ba7148d5",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "CARDENE IV (NICARDIPINE HYDROCHLORIDE) INJECTION, SOLUTION [BAXTER HEALTHCARE CORPORATION]",
+      "upload_date": "2026-04-14"
+    },
+    {
+      "application_numbers": [
+        "NDA019734"
+      ],
+      "brand_names": [
+        "CARDENE IV"
+      ],
+      "combination": false,
+      "home_inn": "nicardipine",
+      "ingredients": [
+        "NICARDIPINE HYDROCHLORIDE"
+      ],
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1992-01-30",
+      "moieties": [
+        "NICARDIPINE"
+      ],
+      "product_ndcs": [
+        "43066-009",
+        "43066-016"
+      ],
+      "rxcui": [
+        "858599",
+        "858601",
+        "858603",
+        "858605"
+      ],
+      "setid": "f12cea0d-b7cd-41d8-b551-2c74cc7f5f4e",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "CARDENE IV (NICARDIPINE HYDROCHLORIDE) INJECTION, SOLUTION [BAXTER HEALTHCARE CORPORATION]",
+      "upload_date": "2026-04-02"
+    },
+    {
+      "application_numbers": [
+        "NDA022276"
+      ],
+      "brand_names": [
+        "Nicardipine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "nicardipine",
+      "ingredients": [
+        "NICARDIPINE HYDROCHLORIDE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2012-03-02",
+      "moieties": [
+        "NICARDIPINE"
+      ],
+      "product_ndcs": [
+        "0143-9633",
+        "0143-9634",
+        "0143-9689"
+      ],
+      "rxcui": [
+        "858599",
+        "858603",
+        "858607"
+      ],
+      "setid": "18fb1c2b-0c1e-436c-a5b6-d4840b5da228",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "NICARDIPINE HYDROCHLORIDE INJECTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2025-03-27"
+    },
+    {
+      "application_numbers": [
+        "NDA022276"
+      ],
+      "brand_names": [
+        "Nicardipine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "nicardipine",
+      "ingredients": [
+        "NICARDIPINE HYDROCHLORIDE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2012-03-02",
+      "moieties": [
+        "NICARDIPINE"
+      ],
+      "product_ndcs": [
+        "0143-9542"
+      ],
+      "rxcui": [
+        "858607"
+      ],
+      "setid": "55bd6dcc-1f12-4378-8e9e-1ceed26818f5",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "NICARDIPINE HYDROCHLORIDE INJECTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2022-04-27"
+    },
+    {
+      "application_numbers": [
+        "ANDA074928"
+      ],
+      "brand_names": [
+        "Nicardipine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "nicardipine",
+      "ingredients": [
+        "NICARDIPINE HYDROCHLORIDE"
+      ],
+      "labeler": "Epic Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-05-05",
+      "moieties": [
+        "NICARDIPINE"
+      ],
+      "product_ndcs": [
+        "42806-501",
+        "42806-502"
+      ],
+      "rxcui": [
+        "858613",
+        "858616"
+      ],
+      "setid": "b8f147b8-955f-4733-9178-2cfa0beb60d6",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "NICARDIPINE HYDROCHLORIDE CAPSULE [EPIC PHARMA, LLC]",
+      "upload_date": "2023-12-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA090534"
+      ],
+      "brand_names": [
+        "Nicardipine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "nicardipine",
+      "ingredients": [
+        "NICARDIPINE HYDROCHLORIDE"
+      ],
+      "labeler": "American Regent, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-05-08",
+      "moieties": [
+        "NICARDIPINE"
+      ],
+      "product_ndcs": [
+        "0517-0735"
+      ],
+      "rxcui": [
+        "858607"
+      ],
+      "setid": "76fcb7e0-9034-4fcd-be14-ce7e9ccaee2a",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "NICARDIPINE HYDROCHLORIDE INJECTION, SOLUTION [AMERICAN REGENT, INC.]",
+      "upload_date": "2020-12-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA211121"
+      ],
+      "brand_names": [
+        "NICARDIPINE HYDROCHLORIDE"
+      ],
+      "combination": false,
+      "home_inn": "nicardipine",
+      "ingredients": [
+        "NICARDIPINE HYDROCHLORIDE"
+      ],
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-04-08",
+      "moieties": [
+        "NICARDIPINE"
+      ],
+      "product_ndcs": [
+        "55150-183"
+      ],
+      "rxcui": [
+        "858607"
+      ],
+      "setid": "9f5d3050-9cdf-404f-ac0f-72399178959f",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "NICARDIPINE HYDROCHLORIDE INJECTION, SOLUTION [EUGIA US LLC]",
+      "upload_date": "2025-05-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA074670"
+      ],
+      "brand_names": [
+        "Nicardipine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "nicardipine",
+      "ingredients": [
+        "NICARDIPINE HYDROCHLORIDE"
+      ],
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-06-25",
+      "moieties": [
+        "NICARDIPINE"
+      ],
+      "product_ndcs": [
+        "62559-205",
+        "62559-206"
+      ],
+      "rxcui": [
+        "858613",
+        "858616"
+      ],
+      "setid": "d1e275b8-c71a-4e8b-bca0-cfea048b5343",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "NICARDIPINE HYDROCHLORIDE CAPSULE [ANI PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-12-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA216357"
+      ],
+      "brand_names": [
+        "Nicardipine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "nicardipine",
+      "ingredients": [
+        "NICARDIPINE HYDROCHLORIDE"
+      ],
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-12-16",
+      "moieties": [
+        "NICARDIPINE"
+      ],
+      "product_ndcs": [
+        "68462-120",
+        "68462-121"
+      ],
+      "rxcui": [
+        "858613",
+        "858616"
+      ],
+      "setid": "3955d43d-a87f-4d2c-b90e-3ecf0d6aa148",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "NICARDIPINE HYDROCHLORIDE CAPSULE [GLENMARK PHARMACEUTICALS INC., USA]",
+      "upload_date": "2026-01-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA215377"
+      ],
+      "brand_names": [
+        "NICARDIPINE HYDROCHLORIDE"
+      ],
+      "combination": false,
+      "home_inn": "nicardipine",
+      "ingredients": [
+        "NICARDIPINE HYDROCHLORIDE"
+      ],
+      "labeler": "Burel Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-01-08",
+      "moieties": [
+        "NICARDIPINE"
+      ],
+      "product_ndcs": [
+        "35573-457",
+        "35573-458"
+      ],
+      "rxcui": [
+        "858613",
+        "858616"
+      ],
+      "setid": "cb902af0-b5ad-4680-b2f2-007ef2196efe",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "NICARDIPINE HYDROCHLORIDE CAPSULE [BUREL PHARMACEUTICALS, LLC]",
+      "upload_date": "2023-11-09"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "CARDENE"
+      ],
+      "first_posted": "2008-03-13",
+      "found_by": "CARDENE",
+      "labeler": "ESP Pharma, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2008-03-13",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "67286-0812"
+      ],
+      "rxcui": [],
+      "setid": "07568921-2ee9-42db-b9f1-e20e3749979c",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "cardene (nicardipine hydrochloride) injection"
+    },
+    {
+      "application_numbers": [
+        "NDA019734"
+      ],
+      "archived_versions": 9,
+      "brand_names": [
+        "CARDENE"
+      ],
+      "first_posted": "2014-02-20",
+      "found_by": "CARDENE",
+      "labeler": "Chiesi USA, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2020-02-28",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-06-30"
+      ],
+      "product_ndcs": [
+        "10122-313",
+        "10122-314",
+        "10122-325"
+      ],
+      "rxcui": [],
+      "setid": "0d58f812-37bf-439f-b3f2-c31f8eefe22e",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "5499cfac-9147-4d5d-a8cb-f8d64f1481af",
+        "5749599d-ff2a-42e4-aa72-cd25013feee8",
+        "a3e33add-0d09-423a-9109-42e5ba7148d5",
+        "f12cea0d-b7cd-41d8-b551-2c74cc7f5f4e"
+      ],
+      "title": "CARDENE IV (nicardipine hydrochloride) injection, solution"
+    },
+    {
+      "application_numbers": [
+        "NDA019734"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "CARDENE"
+      ],
+      "first_posted": "2010-11-23",
+      "found_by": "CARDENE",
+      "labeler": "EKR Therapeutics, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2018-05-30",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-05-01"
+      ],
+      "product_ndcs": [
+        "24477-030"
+      ],
+      "rxcui": [],
+      "setid": "13b13720-f64d-11df-93a0-0002a5d5c51b",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "5499cfac-9147-4d5d-a8cb-f8d64f1481af",
+        "5749599d-ff2a-42e4-aa72-cd25013feee8",
+        "a3e33add-0d09-423a-9109-42e5ba7148d5",
+        "f12cea0d-b7cd-41d8-b551-2c74cc7f5f4e"
+      ],
+      "title": "CARDENE I.V. (nicardipine hydrochloride) injection"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "CARDENE"
+      ],
+      "first_posted": "2008-05-22",
+      "found_by": "CARDENE",
+      "labeler": "",
+      "labeler_unverified": true,
+      "last_posted": "2008-05-22",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "67286-0813",
+        "67286-0814",
+        "67286-0815"
+      ],
+      "rxcui": [],
+      "setid": "58896863-63ac-4b99-9d3c-97ca472357c7",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "cardene sr (nicardipine hydrochloride) capsule, gelatin coated"
+    },
+    {
+      "application_numbers": [
+        "NDA019734"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "CARDENE"
+      ],
+      "first_posted": "2014-03-07",
+      "found_by": "CARDENE",
+      "labeler": "Chiesi USA, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2018-03-28",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "10122-325"
+      ],
+      "rxcui": [],
+      "setid": "72c19612-6dc6-4413-80a2-3f85953e4763",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "5499cfac-9147-4d5d-a8cb-f8d64f1481af",
+        "5749599d-ff2a-42e4-aa72-cd25013feee8",
+        "a3e33add-0d09-423a-9109-42e5ba7148d5",
+        "f12cea0d-b7cd-41d8-b551-2c74cc7f5f4e"
+      ],
+      "title": "CARDENE IV (nicardipine hydrochloride) injection, solution"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "CARDENE"
+      ],
+      "first_posted": "2006-07-25",
+      "found_by": "CARDENE",
+      "labeler": "Roche Pharmaceuticals",
+      "labeler_unverified": false,
+      "last_posted": "2006-07-25",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0004-0180",
+        "0004-0181",
+        "0004-0182"
+      ],
+      "rxcui": [],
+      "setid": "7586299c-159a-48c6-8a5f-e6c89aa17d78",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "cardene (nicardipine hydrochloride) capsule, extended release"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "CARDENE"
+      ],
+      "first_posted": "2007-06-14",
+      "found_by": "CARDENE",
+      "labeler": "Roche Pharmaceuticals",
+      "labeler_unverified": false,
+      "last_posted": "2007-06-14",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0004-0183",
+        "0004-0184"
+      ],
+      "rxcui": [],
+      "setid": "842541ab-ce10-4fa3-a85f-afc342e80818",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "cardene (nicardipine hydrochloride) capsule, gelatin coated"
+    },
+    {
+      "application_numbers": [
+        "NDA019734"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "CARDENE"
+      ],
+      "first_posted": "2010-11-01",
+      "found_by": "CARDENE",
+      "labeler": "EKR Therapeutics, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2017-10-26",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-10-01"
+      ],
+      "product_ndcs": [
+        "24477-311",
+        "24477-312"
+      ],
+      "rxcui": [],
+      "setid": "b7dfde10-01d4-11de-87af-0800200c9a66",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "5499cfac-9147-4d5d-a8cb-f8d64f1481af",
+        "5749599d-ff2a-42e4-aa72-cd25013feee8",
+        "a3e33add-0d09-423a-9109-42e5ba7148d5",
+        "f12cea0d-b7cd-41d8-b551-2c74cc7f5f4e"
+      ],
+      "title": "CARDENE I.V. (nicardipine hydrochloride) injection, solution"
+    },
+    {
+      "application_numbers": [
+        "NDA020005"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "CARDENE"
+      ],
+      "first_posted": "2010-11-17",
+      "found_by": "CARDENE",
+      "labeler": "EKR Therapeutics",
+      "labeler_unverified": true,
+      "last_posted": "2014-11-12",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2014-10-31"
+      ],
+      "product_ndcs": [
+        "24477-515",
+        "24477-516",
+        "24477-517"
+      ],
+      "rxcui": [],
+      "setid": "ce141ca0-d734-11df-8537-0002a5d5c51b",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "CARDENE SR (nicardipine hydrochloride) capsule, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA019734"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "CARDENE"
+      ],
+      "first_posted": "2010-11-01",
+      "found_by": "CARDENE",
+      "labeler": "EKR Therapeutics, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2017-10-26",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-10-01"
+      ],
+      "product_ndcs": [
+        "24477-323",
+        "24477-324"
+      ],
+      "rxcui": [],
+      "setid": "f8ef8420-01d2-11de-a455-0002a5d5c51b",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "5499cfac-9147-4d5d-a8cb-f8d64f1481af",
+        "5749599d-ff2a-42e4-aa72-cd25013feee8",
+        "a3e33add-0d09-423a-9109-42e5ba7148d5",
+        "f12cea0d-b7cd-41d8-b551-2c74cc7f5f4e"
+      ],
+      "title": "CARDENE I.V. (nicardipine hydrochloride) injection, solution"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "CARDENE"
+      ],
+      "first_posted": "2007-04-26",
+      "found_by": "CARDENE",
+      "labeler": "ESP Pharma, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2007-04-26",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "67286-0812"
+      ],
+      "rxcui": [],
+      "setid": "l07568921-2ee9-42db-b9f1-e20e3749979c",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "cardene (nicardipine hydrochloride) injection"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8e8611e0-7d8c-4f30-b53a-76c6588b6ef7"
+    },
+    {
+      "combination": false,
+      "labeler": "Chengdu Shuode Pharmaceutical Co., Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "433dbca3-0a86-44c2-835d-1051c1c93878"
+    },
+    {
+      "combination": false,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "570af1f8-6718-4b40-ae89-0f738d330ebd"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "79304b0f-53d3-4065-8c81-7031d1141694"
+    },
+    {
+      "combination": false,
+      "labeler": "Bionpharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7bed5d8c-30c2-4598-acf3-2edba825a56d"
+    },
+    {
+      "combination": false,
+      "labeler": "Archis Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d0070638-bea5-413a-8658-4c752c6104f5"
+    },
+    {
+      "combination": false,
+      "labeler": "WG Critical Care, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9ffe6b6f-b8bc-413f-9bec-7639e9d71d3d"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "372a4381-7302-4df7-81bb-a9521907f867"
+    },
+    {
+      "combination": false,
+      "labeler": "Qilu Pharmaceutical Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7433b5cd-9c3a-428a-bcaf-00f02cd52633"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b0e2bed3-f928-43ab-a05c-275bedc9856f"
+    },
+    {
+      "combination": false,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f8b49f59-7a54-425d-9eca-dfa4022a08d1"
+    },
+    {
+      "combination": false,
+      "labeler": "PuraCap Laboratories LLC dba Blu Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "065efabf-8c7d-4dd5-aef2-700c2eca399d"
+    },
+    {
+      "combination": false,
+      "labeler": "Civica, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "30fb3a4d-fa75-42fd-b4b6-2a21f202027f"
+    },
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dcd7d173-4d8e-4282-9edf-817711340e43"
+    },
+    {
+      "combination": false,
+      "labeler": "Armas Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7226a518-164b-4755-9624-1cc75c939063"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cdafe6cc-b03e-4e72-9d0a-6baa977149d6"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c576c9d5-853b-4e93-be6c-3579dfa5564c"
+    },
+    {
+      "combination": false,
+      "labeler": "Amici Pharma Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "edda985c-004e-4487-b856-13cf2cdb900f"
+    },
+    {
+      "combination": false,
+      "labeler": "Caplin Steriles Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9383f1dc-0310-4c87-a8f0-48c09a85d89b"
+    },
+    {
+      "combination": false,
+      "labeler": "Amerisyn LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "575c5dab-e832-192a-e063-6294a90a34a1"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6fd1dafe-4b51-49c7-bce1-c4295b2bd292"
+    }
+  ]
+}

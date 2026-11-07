@@ -1,0 +1,835 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/001014",
+      "eu_number": "EU/1/09/528",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-001014",
+      "mah": "Chiesi Farmaceutici SpA",
+      "marketing_authorisation_date": "2009-07-02",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/peyona",
+      "name": "Peyona (previously Nymusa)",
+      "record_from": "2009-07-02",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 9
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [
+      {
+        "ema_product_number": "EMEA/H/C/005435",
+        "kind": "salt",
+        "name": "Gencebok"
+      }
+    ],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-001014",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "CAFFEINE",
+    "CAFFEINE CITRATE"
+  ],
+  "inn": "caffeine",
+  "name": "CAFFEINE",
+  "rank": 75,
+  "rxcui": [
+    "849928",
+    "849931"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 59,
+    "approval_holders": 33,
+    "earliest_marketing_start": "1983-10-30",
+    "latest_label_update": "2026-10-12",
+    "nda_bla_applications": 1,
+    "repackagers": 18
+  },
+  "unii": [
+    {
+      "ingredient": "CAFFEINE",
+      "unii": "3G6A5W338E"
+    },
+    {
+      "ingredient": "CAFFEINE CITRATE",
+      "unii": "U26EO4675Q"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020793"
+      ],
+      "brand_names": [
+        "Caffeine Citrate"
+      ],
+      "combination": false,
+      "home_inn": "caffeine",
+      "ingredients": [
+        "CAFFEINE CITRATE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-01-11",
+      "moieties": [
+        "CAFFEINE"
+      ],
+      "product_ndcs": [
+        "0641-6267"
+      ],
+      "rxcui": [
+        "849931"
+      ],
+      "setid": "21489401-f2a7-47d3-897a-4b7efa04dd7a",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "CAFFEINE CITRATE INJECTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2024-04-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA077304"
+      ],
+      "brand_names": [
+        "caffeine citrate"
+      ],
+      "combination": false,
+      "home_inn": "caffeine",
+      "ingredients": [
+        "CAFFEINE CITRATE"
+      ],
+      "labeler": "Exela Pharma Sciences, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2006-09-21",
+      "moieties": [
+        "CAFFEINE"
+      ],
+      "product_ndcs": [
+        "51754-0501"
+      ],
+      "rxcui": [
+        "849928"
+      ],
+      "setid": "5d05ebf4-fd27-3bd1-5634-b41e33abc41f",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "CAFFEINE CITRATE SOLUTION [EXELA PHARMA SCIENCES, LLC]",
+      "upload_date": "2020-01-03"
+    },
+    {
+      "application_numbers": [
+        "ANDA077997"
+      ],
+      "brand_names": [
+        "Caffeine Citrate"
+      ],
+      "combination": false,
+      "home_inn": "caffeine",
+      "ingredients": [
+        "CAFFEINE CITRATE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-11-19",
+      "moieties": [
+        "CAFFEINE"
+      ],
+      "product_ndcs": [
+        "63323-407"
+      ],
+      "rxcui": [
+        "849931"
+      ],
+      "setid": "38b39044-737a-4247-a6c4-c86f5e92490e",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "CAFFEINE CITRATE INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2023-07-20"
+    },
+    {
+      "application_numbers": [
+        "ANDA078002"
+      ],
+      "brand_names": [
+        "Caffeine Citrate"
+      ],
+      "combination": false,
+      "home_inn": "caffeine",
+      "ingredients": [
+        "CAFFEINE CITRATE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-11-19",
+      "moieties": [
+        "CAFFEINE"
+      ],
+      "product_ndcs": [
+        "63323-406"
+      ],
+      "rxcui": [
+        "849928"
+      ],
+      "setid": "b4fb7c77-1e82-48b7-83c5-dd04ec7c5c4e",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "CAFFEINE CITRATE SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2019-04-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA090827",
+        "ANDA091102"
+      ],
+      "brand_names": [
+        "caffeine citrate"
+      ],
+      "combination": false,
+      "home_inn": "caffeine",
+      "ingredients": [
+        "CAFFEINE CITRATE"
+      ],
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-09-15",
+      "moieties": [
+        "CAFFEINE"
+      ],
+      "product_ndcs": [
+        "25021-601",
+        "25021-602"
+      ],
+      "rxcui": [
+        "849928",
+        "849931"
+      ],
+      "setid": "5f38c395-0093-4afd-89ec-f96e5dc0934a",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "CAFFEINE CITRATE SOLUTION [SAGENT PHARMACEUTICALS]",
+      "upload_date": "2026-08-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA090077"
+      ],
+      "brand_names": [
+        "Caffeine Citrate"
+      ],
+      "combination": false,
+      "home_inn": "caffeine",
+      "ingredients": [
+        "CAFFEINE CITRATE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-06-05",
+      "moieties": [
+        "CAFFEINE"
+      ],
+      "product_ndcs": [
+        "47335-289"
+      ],
+      "rxcui": [
+        "849928",
+        "849931"
+      ],
+      "setid": "d06d3810-9923-4199-be5e-ee5ee086b0a4",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "CAFFEINE CITRATE INJECTION CAFFEINE CITRATE SOLUTION [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2019-03-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA077233"
+      ],
+      "brand_names": [
+        "caffeine citrate"
+      ],
+      "combination": false,
+      "home_inn": "caffeine",
+      "ingredients": [
+        "CAFFEINE CITRATE"
+      ],
+      "labeler": "Exela Pharma Sciences, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-03-30",
+      "moieties": [
+        "CAFFEINE"
+      ],
+      "product_ndcs": [
+        "51754-0500"
+      ],
+      "rxcui": [
+        "849931"
+      ],
+      "setid": "f423a220-e7bf-4d24-bc52-bafc1864265b",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "CAFFEINE CITRATE INJECTION [EXELA PHARMA SCIENCES, LLC]",
+      "upload_date": "2020-01-23"
+    },
+    {
+      "application_numbers": [
+        "NDA020793"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "CAFCIT"
+      ],
+      "first_posted": "2024-02-08",
+      "found_by": "CAFCIT",
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2026-03-03",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2026-06-01"
+      ],
+      "product_ndcs": [
+        "0641-6164"
+      ],
+      "rxcui": [],
+      "setid": "f9feb925-e1b8-41bc-b9c5-89198f07c0e9",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "21489401-f2a7-47d3-897a-4b7efa04dd7a"
+      ],
+      "title": "CAFCIT (caffeine citrate) injection"
+    },
+    {
+      "application_numbers": [
+        "NDA020793"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "CAFCIT"
+      ],
+      "first_posted": "2010-06-11",
+      "found_by": "CAFCIT",
+      "labeler": "Bedford Laboratories",
+      "labeler_unverified": true,
+      "last_posted": "2014-05-30",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2016-04-30",
+        "2016-05-29"
+      ],
+      "product_ndcs": [
+        "55390-357",
+        "55390-358"
+      ],
+      "rxcui": [],
+      "setid": "fbcd234e-57e1-4da2-a96c-e3f7b7cf6ec0",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "21489401-f2a7-47d3-897a-4b7efa04dd7a"
+      ],
+      "title": "CAFCIT (caffeine citrate) injection CAFCIT (caffeine citrate) solution"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8ef448ca-5549-4272-a6b4-5c4f57653c4c"
+    },
+    {
+      "combination": false,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "279a43b8-9ff5-4792-ac19-441f3fa49269"
+    },
+    {
+      "combination": false,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "db4477a3-b291-4b77-9eca-b7ba8f66b2be"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cc632825-e0a4-4524-8d7d-ce926efab3d6"
+    },
+    {
+      "combination": true,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a58819b8-a52c-44a7-9ab0-c74480d98506"
+    },
+    {
+      "combination": true,
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3a31ad0c-7bdd-544b-f5df-a99d04cf541c"
+    },
+    {
+      "combination": true,
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ba60b130-33cd-4db9-92a7-2cab8ded0737"
+    },
+    {
+      "combination": true,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "77776146-c6e6-478c-b30e-2b729e758400"
+    },
+    {
+      "combination": true,
+      "labeler": "LGM PHARMA SOLUTIONS, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1cab3106-1064-4b42-892b-39f405d9e02f"
+    },
+    {
+      "combination": true,
+      "labeler": "LGM PHARMA SOLUTIONS, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "180d20a5-78a8-4faa-98ad-3196cdd5663a"
+    },
+    {
+      "combination": true,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a6cbc17f-5c60-489c-8029-84b0add556d8"
+    },
+    {
+      "combination": true,
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "42594152-563e-4984-9901-d6ef3b8a6941"
+    },
+    {
+      "combination": true,
+      "labeler": "Cintex Services, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "41f88ae7-c124-5b9c-e054-00144ff88e88"
+    },
+    {
+      "combination": true,
+      "labeler": "SUNRISE PHARMACEUTICAL, INC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ee7630f8-f4b8-4eb0-b34d-d908567030c4"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurolife Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f9fde75d-7def-48fc-a2b0-727f677f6001"
+    },
+    {
+      "combination": true,
+      "labeler": "KVK-Tech, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7f9c4668-4f4a-453b-b2fa-a6fed903ddfa"
+    },
+    {
+      "combination": true,
+      "labeler": "LGM PHARMA SOLUTIONS, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f6548126-faa1-4f53-8e0b-bc1b743de04d"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals of New York, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "828e30fa-7bb1-486b-80ee-806fce45e4e4"
+    },
+    {
+      "combination": true,
+      "labeler": "Poly Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "85a3b808-b476-f2f0-e053-2a91aa0af21f"
+    },
+    {
+      "combination": true,
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4d62259d-a582-4621-b62e-3d5640cadf7c"
+    },
+    {
+      "combination": true,
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c1107153-494b-4068-8500-96bc241187a5"
+    },
+    {
+      "combination": true,
+      "labeler": "Granules Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2407efce-b77e-4072-bc4b-62c789d01e1a"
+    },
+    {
+      "combination": true,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a68de112-f5af-49ba-a8a8-3adbaa7df36e"
+    },
+    {
+      "combination": true,
+      "labeler": "LGM PHARMA SOLUTIONS, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a1c7b964-af71-4427-8f13-73b5e69ca525"
+    },
+    {
+      "combination": true,
+      "labeler": "Seton Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3c5cefe3-c84e-4380-97f3-78e3fe92543a"
+    },
+    {
+      "combination": true,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6e0e8abc-512b-42f7-8323-434c589edecf"
+    },
+    {
+      "combination": true,
+      "labeler": "Granules Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "74e27dab-9790-47e4-b4f1-3b9df4bce184"
+    },
+    {
+      "combination": true,
+      "labeler": "QUAGEN PHARMACEUTICALS LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5f3c7457-6670-4a0d-bdff-c3e0fe91b7c6"
+    },
+    {
+      "combination": true,
+      "labeler": "QUAGEN PHARMACEUTICALS LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "24813ec6-0111-4782-9182-a2b93501a2bc"
+    },
+    {
+      "combination": true,
+      "labeler": "QUAGEN PHARMACEUTICALS LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8438f08f-a32a-4180-9030-e0fd5da4be30"
+    },
+    {
+      "combination": true,
+      "labeler": "Dr. Reddy's Labratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "69df02fa-c842-48dc-7ac6-5967b7dc30de"
+    },
+    {
+      "combination": true,
+      "labeler": "Genus Lifesciences Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5f603b0d-69e5-4c02-b6b3-b4705e243e9a"
+    },
+    {
+      "combination": true,
+      "labeler": "Westminster Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ac6ceec2-72d8-4901-9d30-278965a79049"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "baf9f88a-776a-44e7-82cc-8f0ca419572f"
+    },
+    {
+      "combination": false,
+      "labeler": "Armas Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c1129235-f7f6-43eb-8d6e-786c14c16f2f"
+    },
+    {
+      "combination": false,
+      "labeler": "Armas Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2bd238d4-4657-4341-9c28-1b468b8f3bf8"
+    },
+    {
+      "combination": true,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e69d8bb1-ba09-42e2-8372-7f5e0a906174"
+    },
+    {
+      "combination": true,
+      "labeler": "Mikart, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a26775c2-cafb-4b13-99ac-d4e8248265fb"
+    },
+    {
+      "combination": true,
+      "labeler": "Breckenridge Pharmaceutical, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d74db417-d2de-495b-bb75-46a83745603d"
+    },
+    {
+      "combination": true,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ea5b9ffe-3cda-405e-8f75-3fd4a64c9a35"
+    },
+    {
+      "combination": true,
+      "labeler": "Breckenridge Pharmaceutical, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "243a6aea-0f48-42a9-a85e-ff247ab94336"
+    },
+    {
+      "combination": true,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "52321fe5-c001-4e2d-8149-3197ddc13764"
+    },
+    {
+      "combination": true,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c018be7d-f7b8-45e2-97b8-8e7a71740657"
+    },
+    {
+      "combination": true,
+      "labeler": "Westminster Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1c0511d0-fe63-45c6-8da2-6ceeb56edb17"
+    },
+    {
+      "combination": true,
+      "labeler": "Galt Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5bc485db-9d96-4291-aaa3-2a96ebf3098a"
+    },
+    {
+      "combination": true,
+      "labeler": "Atland Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "61ca2af1-081c-411c-90ce-ec6d9e3157b2"
+    },
+    {
+      "combination": true,
+      "labeler": "Galt Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "be2761bc-e537-4039-846a-2ffa3d8b2afc"
+    },
+    {
+      "combination": true,
+      "labeler": "Atland Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7776aae6-3cbd-4aed-9aac-4bed80339e27"
+    },
+    {
+      "combination": true,
+      "labeler": "SOLCO HEALTHCARE US, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5c9c3407-212a-4ae9-a574-2b0c53f3c5eb"
+    },
+    {
+      "combination": true,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0e5e3842-fc6c-4a24-8e5c-522701f7c291"
+    },
+    {
+      "combination": true,
+      "labeler": "Trifluent Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4db7eece-2eef-bc1b-e063-6394a90a98cb"
+    },
+    {
+      "combination": true,
+      "labeler": "Amici Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fb12459c-82f8-43d2-8c05-a4b6d4a3e948"
+    }
+  ]
+}

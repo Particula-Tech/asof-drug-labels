@@ -1,0 +1,383 @@
+{
+  "biologic": true,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/000165",
+      "eu_number": "EU/1/98/067",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000165",
+      "mah": "Roche Registration GmbH",
+      "marketing_authorisation_date": "1998-06-02",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/mabthera",
+      "name": "MabThera",
+      "record_from": "1998-06-02",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 50
+    },
+    {
+      "biosimilar": true,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/003903",
+      "eu_number": "EU/1/17/1185",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-003903",
+      "mah": "Sandoz GmbH",
+      "marketing_authorisation_date": "2017-06-15",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/rixathon",
+      "name": "Rixathon",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": true,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/004112",
+      "eu_number": "EU/1/16/1167",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-004112",
+      "mah": "Celltrion Healthcare Hungary Kft.",
+      "marketing_authorisation_date": "2017-02-17",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/truxima",
+      "name": "Truxima",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": true,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/004696",
+      "eu_number": "EU/1/20/1431",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-004696",
+      "mah": "Pfizer Europe MA EEIG",
+      "marketing_authorisation_date": "2020-04-01",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ruxience",
+      "name": "Ruxience",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": true,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/004723",
+      "eu_number": "EU/1/17/1205",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-004723",
+      "mah": "Celltrion Healthcare Hungary Kft.",
+      "marketing_authorisation_date": "2017-07-13",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/blitzima",
+      "name": "Blitzima",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": true,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/004729",
+      "eu_number": "EU/1/17/1184",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-004729",
+      "mah": "Sandoz GmbH",
+      "marketing_authorisation_date": "2017-06-15",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/riximyo",
+      "name": "Riximyo",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": true,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/006224",
+      "eu_number": "EU/1/24/1861",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-006224",
+      "mah": "Reddy Holding GmbH",
+      "marketing_authorisation_date": "2024-09-19",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ituxredi",
+      "name": "Ituxredi",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000165",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "RITUXIMAB"
+  ],
+  "inn": "rituximab",
+  "name": "RITUXIMAB",
+  "rank": 116,
+  "rxcui": [
+    "1657862",
+    "1657864",
+    "1657867",
+    "1657868",
+    "1927885",
+    "1927890",
+    "1927893",
+    "1927894",
+    "2105826",
+    "2105831",
+    "2105834",
+    "2105835",
+    "2273512",
+    "2273517",
+    "2273520",
+    "2273521",
+    "2472327",
+    "2472332",
+    "2472335",
+    "2472336"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 5,
+    "approval_holders": 4,
+    "earliest_marketing_start": "1997-11-26",
+    "latest_label_update": "2026-10-16",
+    "nda_bla_applications": 5,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "RITUXIMAB",
+      "unii": "4F4X42SYQ6"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "BLA103705"
+      ],
+      "brand_names": [
+        "Rituxan"
+      ],
+      "combination": false,
+      "home_inn": "rituximab",
+      "ingredients": [
+        "RITUXIMAB"
+      ],
+      "labeler": "Genentech, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "1997-11-26",
+      "moieties": [
+        "RITUXIMAB"
+      ],
+      "product_ndcs": [
+        "50242-051",
+        "50242-053"
+      ],
+      "rxcui": [
+        "1657862",
+        "1657864",
+        "1657867",
+        "1657868"
+      ],
+      "setid": "b172773b-3905-4a1c-ad95-bab4b6126563",
+      "source": "openfda",
+      "spl_version": 36,
+      "title": "RITUXAN (RITUXIMAB) INJECTION, SOLUTION [GENENTECH, INC.]",
+      "upload_date": "2025-01-08"
+    },
+    {
+      "application_numbers": [
+        "BLA761103"
+      ],
+      "brand_names": [
+        "Ruxience"
+      ],
+      "combination": false,
+      "home_inn": "rituximab",
+      "ingredients": [
+        "RITUXIMAB"
+      ],
+      "labeler": "Pfizer Laboratories Div Pfizer Inc",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2020-01-23",
+      "moieties": [
+        "RITUXIMAB"
+      ],
+      "product_ndcs": [
+        "0069-0238",
+        "0069-0249"
+      ],
+      "rxcui": [
+        "2273512",
+        "2273517",
+        "2273520",
+        "2273521"
+      ],
+      "setid": "f941fc61-f7a3-4e4a-ab7c-87c1667fa05b",
+      "source": "dailymed-title-match",
+      "spl_version": 13,
+      "title": "RUXIENCE (RITUXIMAB-PVVR) INJECTION, SOLUTION [PFIZER LABORATORIES DIV PFIZER INC]",
+      "upload_date": "2026-10-16"
+    },
+    {
+      "application_numbers": [
+        "BLA761088"
+      ],
+      "brand_names": [
+        "Truxima"
+      ],
+      "combination": false,
+      "home_inn": "rituximab",
+      "ingredients": [
+        "RITUXIMAB"
+      ],
+      "labeler": "Cephalon, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2020-05-04",
+      "moieties": [
+        "RITUXIMAB"
+      ],
+      "product_ndcs": [
+        "63459-103",
+        "63459-104"
+      ],
+      "rxcui": [
+        "2105826",
+        "2105831",
+        "2105834",
+        "2105835"
+      ],
+      "setid": "9af3ddc7-4217-417a-ac89-8704edc5bc44",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "TRUXIMA (RITUXIMAB-ABBS) INJECTION, SOLUTION [CEPHALON, INC.]",
+      "upload_date": "2026-07-17"
+    },
+    {
+      "application_numbers": [
+        "BLA761140"
+      ],
+      "brand_names": [
+        "Riabni"
+      ],
+      "combination": false,
+      "home_inn": "rituximab",
+      "ingredients": [
+        "RITUXIMAB"
+      ],
+      "labeler": "Amgen, Inc",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2021-01-06",
+      "moieties": [
+        "RITUXIMAB"
+      ],
+      "product_ndcs": [
+        "55513-224",
+        "55513-326"
+      ],
+      "rxcui": [
+        "2472327",
+        "2472332",
+        "2472335",
+        "2472336"
+      ],
+      "setid": "da1c4de7-0e5b-4f72-97ec-7a8d368f085f",
+      "source": "dailymed-title-match",
+      "spl_version": 13,
+      "title": "RIABNI (RITUXIMAB-ARRX) INJECTION, SOLUTION [AMGEN, INC]",
+      "upload_date": "2026-10-12"
+    },
+    {
+      "application_numbers": [
+        "BLA761064"
+      ],
+      "brand_names": [
+        "Rituxan Hycela"
+      ],
+      "combination": true,
+      "home_inn": "hyaluronidase-human-recombinant",
+      "ingredients": [
+        "HYALURONIDASE (HUMAN RECOMBINANT)",
+        "RITUXIMAB"
+      ],
+      "labeler": "Genentech, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2017-06-22",
+      "moieties": [
+        "HYALURONIDASE (HUMAN RECOMBINANT)",
+        "RITUXIMAB"
+      ],
+      "product_ndcs": [
+        "50242-108",
+        "50242-109"
+      ],
+      "rxcui": [
+        "1927885",
+        "1927890",
+        "1927893",
+        "1927894"
+      ],
+      "setid": "3e5b7e82-f018-4eaf-ae78-d6145a906b20",
+      "source": "dailymed-title-match",
+      "spl_version": 22,
+      "title": "RITUXAN HYCELA (RITUXIMAB AND HYALURONIDASE) INJECTION, SOLUTION [GENENTECH, INC.]",
+      "upload_date": "2026-09-28"
+    }
+  ],
+  "us_excluded": []
+}

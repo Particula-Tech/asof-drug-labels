@@ -1,0 +1,209 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/002464",
+      "eu_number": "EU/1/12/773",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-002464",
+      "mah": "Novartis Europharm Limited",
+      "marketing_authorisation_date": "2012-08-23",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/jakavi",
+      "name": "Jakavi",
+      "record_from": "2012-08-23",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 16
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/005843",
+      "eu_number": "EU/1/23/1726",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-005843",
+      "mah": "Incyte Biosciences Distribution B.V.",
+      "marketing_authorisation_date": "2023-04-19",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/opzelura",
+      "name": "Opzelura",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [
+      {
+        "ema_product_number": "EMEA/H/C/006618",
+        "kind": "salt",
+        "name": "Ruxolitinib Viatris"
+      }
+    ],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-002464",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "RUXOLITINIB",
+    "RUXOLITINIB PHOSPHATE"
+  ],
+  "inn": "ruxolitinib",
+  "name": "RUXOLITINIB",
+  "rank": 342,
+  "rxcui": [
+    "1193331",
+    "1193337",
+    "1193339",
+    "1193341",
+    "1193343",
+    "1193345",
+    "1193347",
+    "1193349",
+    "1193351",
+    "1193353",
+    "2570752",
+    "2570757",
+    "2743012",
+    "2743016",
+    "2743019",
+    "2743022",
+    "2743025",
+    "2743028",
+    "2743032",
+    "2743035",
+    "2743041",
+    "2743044"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 2,
+    "approval_holders": 1,
+    "earliest_marketing_start": "2011-11-16",
+    "latest_label_update": "2026-08-03",
+    "nda_bla_applications": 3,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "RUXOLITINIB",
+      "unii": "82S8X8XX8H"
+    },
+    {
+      "ingredient": "RUXOLITINIB PHOSPHATE",
+      "unii": "436LRU32H5"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA202192",
+        "NDA217180"
+      ],
+      "brand_names": [
+        "JAKAFI",
+        "JAKAFI XR"
+      ],
+      "combination": false,
+      "home_inn": "ruxolitinib",
+      "ingredients": [
+        "RUXOLITINIB"
+      ],
+      "labeler": "Incyte Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2011-11-16",
+      "moieties": [
+        "RUXOLITINIB"
+      ],
+      "product_ndcs": [
+        "50881-005",
+        "50881-010",
+        "50881-011",
+        "50881-015",
+        "50881-020",
+        "50881-022",
+        "50881-025",
+        "50881-033",
+        "50881-044",
+        "50881-055"
+      ],
+      "rxcui": [
+        "1193331",
+        "1193337",
+        "1193339",
+        "1193341",
+        "1193343",
+        "1193345",
+        "1193347",
+        "1193349",
+        "1193351",
+        "1193353",
+        "2743012",
+        "2743016",
+        "2743019",
+        "2743022",
+        "2743025",
+        "2743028",
+        "2743032",
+        "2743035",
+        "2743041",
+        "2743044"
+      ],
+      "setid": "f1c82580-87ae-11e0-bc84-0002a5d5c51b",
+      "source": "openfda",
+      "spl_version": 42,
+      "title": "JAKAFI (RUXOLITINIB) TABLET JAKAFI XR (RUXOLITINIB) TABLET, EXTENDED RELEASE [INCYTE CORPORATION]",
+      "upload_date": "2026-08-03"
+    },
+    {
+      "application_numbers": [
+        "NDA215309"
+      ],
+      "brand_names": [
+        "OPZELURA"
+      ],
+      "combination": false,
+      "home_inn": "ruxolitinib",
+      "ingredients": [
+        "RUXOLITINIB PHOSPHATE"
+      ],
+      "labeler": "Incyte Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-09-21",
+      "moieties": [
+        "RUXOLITINIB"
+      ],
+      "product_ndcs": [
+        "50881-007"
+      ],
+      "rxcui": [
+        "2570752",
+        "2570757"
+      ],
+      "setid": "24da5509-6631-4795-9d42-273faecd08e7",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "OPZELURA (RUXOLITINIB) CREAM [INCYTE CORPORATION]",
+      "upload_date": "2026-07-15"
+    }
+  ],
+  "us_excluded": []
+}

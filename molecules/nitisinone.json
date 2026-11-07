@@ -1,0 +1,390 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand ORFADIN",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000555",
+      "eu_number": "EU/1/04/303",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000555",
+      "mah": "Swedish Orphan Biovitrum International AB",
+      "marketing_authorisation_date": "2005-02-21",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/orfadin",
+      "name": "Orfadin",
+      "record_from": "2005-02-21",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 16
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/004582",
+      "eu_number": "EU/1/18/1290",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-004582",
+      "mah": "Cycle Pharmaceuticals (Europe) Ltd",
+      "marketing_authorisation_date": "2018-07-26",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/nityr",
+      "name": "Nityr",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000555",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "NITISINONE"
+  ],
+  "inn": "nitisinone",
+  "name": "NITISINONE",
+  "rank": 296,
+  "rxcui": [
+    "351173",
+    "351174",
+    "351175",
+    "352119",
+    "352120",
+    "352121",
+    "1790310",
+    "1790317",
+    "1798999",
+    "1799001",
+    "1941464",
+    "1941470",
+    "1941471",
+    "1941473",
+    "1941474",
+    "1941476",
+    "2719722"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 7,
+    "approval_holders": 5,
+    "earliest_marketing_start": "2016-06-01",
+    "latest_label_update": "2026-10-26",
+    "nda_bla_applications": 3,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "NITISINONE",
+      "unii": "K5BN214699"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA206356"
+      ],
+      "brand_names": [
+        "ORFADIN"
+      ],
+      "combination": false,
+      "home_inn": "nitisinone",
+      "ingredients": [
+        "NITISINONE"
+      ],
+      "labeler": "Swedish Orphan Biovitrum AB (publ)",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2016-06-01",
+      "moieties": [
+        "NITISINONE"
+      ],
+      "product_ndcs": [
+        "66658-204"
+      ],
+      "rxcui": [
+        "1790310",
+        "1790317"
+      ],
+      "setid": "00307f42-748d-4227-8c6f-ed5f0a89ae0a",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "ORFADIN (NITISINONE) SUSPENSION [SWEDISH ORPHAN BIOVITRUM AB (PUBL)]",
+      "upload_date": "2025-12-22"
+    },
+    {
+      "application_numbers": [
+        "NDA021232"
+      ],
+      "brand_names": [
+        "Orfadin"
+      ],
+      "combination": false,
+      "home_inn": "nitisinone",
+      "ingredients": [
+        "NITISINONE"
+      ],
+      "labeler": "SWEDISH ORPHAN BIOVITRUM AB (PUBL)",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2016-07-01",
+      "moieties": [
+        "NITISINONE"
+      ],
+      "product_ndcs": [
+        "66658-102",
+        "66658-105",
+        "66658-110",
+        "66658-120"
+      ],
+      "rxcui": [
+        "351173",
+        "351174",
+        "351175",
+        "352119",
+        "352120",
+        "352121",
+        "1798999",
+        "1799001"
+      ],
+      "setid": "5d449b73-d503-4132-b978-d890491975df",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "ORFADIN (NITISINONE) CAPSULE [SWEDISH ORPHAN BIOVITRUM AB (PUBL)]",
+      "upload_date": "2022-06-14"
+    },
+    {
+      "application_numbers": [
+        "NDA209449"
+      ],
+      "brand_names": [
+        "NITYR"
+      ],
+      "combination": false,
+      "home_inn": "nitisinone",
+      "ingredients": [
+        "NITISINONE"
+      ],
+      "labeler": "Cycle Pharmaceuticals Ltd.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-07-26",
+      "moieties": [
+        "NITISINONE"
+      ],
+      "product_ndcs": [
+        "70709-000",
+        "70709-002",
+        "70709-005"
+      ],
+      "rxcui": [
+        "1941464",
+        "1941470",
+        "1941471",
+        "1941473",
+        "1941474",
+        "1941476"
+      ],
+      "setid": "00fd1905-27e4-420e-8dc5-a69e4ddc1526",
+      "source": "dailymed-title-match",
+      "spl_version": 14,
+      "title": "NITYR (NITISINONE) TABLET [CYCLE PHARMACEUTICALS LTD.]",
+      "upload_date": "2026-10-26"
+    },
+    {
+      "application_numbers": [
+        "NDA209449"
+      ],
+      "brand_names": [
+        "HARLIKU"
+      ],
+      "combination": false,
+      "home_inn": "nitisinone",
+      "ingredients": [
+        "NITISINONE"
+      ],
+      "labeler": "Cycle Pharmaceuticals Ltd.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-07-21",
+      "moieties": [
+        "NITISINONE"
+      ],
+      "product_ndcs": [
+        "70709-112"
+      ],
+      "rxcui": [
+        "1941474",
+        "2719722"
+      ],
+      "setid": "7cf67e24-d46b-4376-bbd0-0b973c406d0d",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "HARLIKU (NITISINONE) TABLET [CYCLE PHARMACEUTICALS LTD.]",
+      "upload_date": "2025-07-22"
+    },
+    {
+      "application_numbers": [
+        "ANDA211041"
+      ],
+      "brand_names": [
+        "Nitisinone"
+      ],
+      "combination": false,
+      "home_inn": "nitisinone",
+      "ingredients": [
+        "NITISINONE"
+      ],
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-10-04",
+      "moieties": [
+        "NITISINONE"
+      ],
+      "product_ndcs": [
+        "0254-3020",
+        "0254-3021",
+        "0254-3022"
+      ],
+      "rxcui": [
+        "351173",
+        "351174",
+        "351175"
+      ],
+      "setid": "437868f5-1c9e-4b0f-8a03-77df8ac0900d",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "NITISINONE CAPSULE [PAR HEALTH USA, LLC]",
+      "upload_date": "2026-08-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA212390"
+      ],
+      "brand_names": [
+        "Nitisinone"
+      ],
+      "combination": false,
+      "home_inn": "nitisinone",
+      "ingredients": [
+        "NITISINONE"
+      ],
+      "labeler": "Analog Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-06-15",
+      "moieties": [
+        "NITISINONE"
+      ],
+      "product_ndcs": [
+        "70505-202",
+        "70505-205",
+        "70505-210",
+        "70505-220"
+      ],
+      "rxcui": [
+        "351173",
+        "351174",
+        "351175",
+        "1798999"
+      ],
+      "setid": "645c8387-30d5-4a86-a5d8-2f6b5df6d5f0",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "NITISINONE CAPSULE [ANALOG PHARMA]",
+      "upload_date": "2025-09-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA216201"
+      ],
+      "brand_names": [
+        "Nitisinone"
+      ],
+      "combination": false,
+      "home_inn": "nitisinone",
+      "ingredients": [
+        "NITISINONE"
+      ],
+      "labeler": "Eton Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-01-15",
+      "moieties": [
+        "NITISINONE"
+      ],
+      "product_ndcs": [
+        "71863-119",
+        "71863-120",
+        "71863-121",
+        "71863-122"
+      ],
+      "rxcui": [
+        "351173",
+        "351174",
+        "351175",
+        "1798999"
+      ],
+      "setid": "dc5e4875-fcd7-408c-88c9-4a715f4384b6",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "NITISINONE CAPSULE [ETON PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "NDA021232"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "ORFADIN"
+      ],
+      "first_posted": "2010-01-25",
+      "found_by": "ORFADIN",
+      "labeler": "Rare Disease Therapeutics, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2014-04-01",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-07-31"
+      ],
+      "product_ndcs": [
+        "66621-1002",
+        "66621-1005",
+        "66621-1010"
+      ],
+      "rxcui": [],
+      "setid": "1eecf439-77ff-40c8-aef8-71e024ea8b7c",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "5d449b73-d503-4132-b978-d890491975df"
+      ],
+      "title": "ORFADIN (nitisinone) capsule"
+    }
+  ],
+  "us_excluded": []
+}

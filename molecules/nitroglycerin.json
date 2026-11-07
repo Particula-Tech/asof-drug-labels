@@ -1,0 +1,948 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "NITROGLYCERIN"
+  ],
+  "inn": "nitroglycerin",
+  "name": "NITROGLYCERIN",
+  "rank": 128,
+  "rxcui": [
+    "198038",
+    "198039",
+    "198040",
+    "207273",
+    "207331",
+    "207346",
+    "207361",
+    "237205",
+    "242946",
+    "312004",
+    "486146",
+    "486148",
+    "486152",
+    "705129",
+    "861657",
+    "899521",
+    "899607",
+    "899642",
+    "899660",
+    "899688",
+    "899690",
+    "899703",
+    "899705",
+    "995019",
+    "1114466",
+    "1114470",
+    "1868494",
+    "1868562"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 27,
+    "approval_holders": 24,
+    "earliest_marketing_start": "1989-12-29",
+    "latest_label_update": "2026-09-10",
+    "nda_bla_applications": 5,
+    "repackagers": 13
+  },
+  "unii": [
+    {
+      "ingredient": "NITROGLYCERIN",
+      "unii": "G59M7S0WS3"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA019970"
+      ],
+      "brand_names": [
+        "Nitroglycerin In Dextrose"
+      ],
+      "combination": false,
+      "home_inn": "nitroglycerin",
+      "ingredients": [
+        "NITROGLYCERIN"
+      ],
+      "labeler": "Baxter Healthcare Company",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1989-12-29",
+      "moieties": [
+        "NITROGLYCERIN"
+      ],
+      "product_ndcs": [
+        "0338-1047",
+        "0338-1049",
+        "0338-1051"
+      ],
+      "rxcui": [
+        "312004",
+        "1868494",
+        "1868562"
+      ],
+      "setid": "457a026c-ebce-4701-9deb-2d7652759a99",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "NITROGLYCERIN IN DEXTROSE (NITROGLYCERIN) INJECTION [BAXTER HEALTHCARE COMPANY]",
+      "upload_date": "2026-04-06"
+    },
+    {
+      "application_numbers": [
+        "NDA021359"
+      ],
+      "brand_names": [
+        "Rectiv"
+      ],
+      "combination": false,
+      "home_inn": "nitroglycerin",
+      "ingredients": [
+        "NITROGLYCERIN"
+      ],
+      "labeler": "Allergan, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2011-06-21",
+      "moieties": [
+        "NITROGLYCERIN"
+      ],
+      "product_ndcs": [
+        "58914-301"
+      ],
+      "rxcui": [
+        "1114466",
+        "1114470"
+      ],
+      "setid": "603aa9ed-54c4-4a35-ade4-690fa44850e4",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "RECTIV (NITROGLYCERIN) OINTMENT [ALLERGAN, INC.]",
+      "upload_date": "2026-09-10"
+    },
+    {
+      "application_numbers": [
+        "NDA020145"
+      ],
+      "brand_names": [
+        "NITRO-DUR"
+      ],
+      "combination": false,
+      "home_inn": "nitroglycerin",
+      "ingredients": [
+        "NITROGLYCERIN"
+      ],
+      "labeler": "Ingenus Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-12-06",
+      "moieties": [
+        "NITROGLYCERIN"
+      ],
+      "product_ndcs": [
+        "50742-513",
+        "50742-514",
+        "50742-515",
+        "50742-516",
+        "50742-517",
+        "50742-518"
+      ],
+      "rxcui": [
+        "486146",
+        "486148",
+        "486152",
+        "861657",
+        "899521",
+        "899607",
+        "899642",
+        "899660",
+        "899688",
+        "899690",
+        "899703",
+        "899705"
+      ],
+      "setid": "5e15296c-5acd-4bcc-80a8-b49cb1ef3eb0",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "NITRO-DUR (NITROGLYCERIN) PATCH [INGENUS PHARMACEUTICALS, LLC]",
+      "upload_date": "2023-05-31"
+    },
+    {
+      "application_numbers": [
+        "NDA021134"
+      ],
+      "brand_names": [
+        "Nitrostat"
+      ],
+      "combination": false,
+      "home_inn": "nitroglycerin",
+      "ingredients": [
+        "NITROGLYCERIN"
+      ],
+      "labeler": "Viatris Specialty LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-02-02",
+      "moieties": [
+        "NITROGLYCERIN"
+      ],
+      "product_ndcs": [
+        "58151-309",
+        "58151-310",
+        "58151-311"
+      ],
+      "rxcui": [
+        "198038",
+        "198039",
+        "198040",
+        "207331",
+        "207346",
+        "207361"
+      ],
+      "setid": "9a52da75-d0af-4237-96c0-0b12adfa8636",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "NITROSTAT (NITROGLYCERIN) TABLET [VIATRIS SPECIALTY LLC]",
+      "upload_date": "2024-06-06"
+    },
+    {
+      "application_numbers": [
+        "NDA018705"
+      ],
+      "brand_names": [
+        "NITROLINGUAL"
+      ],
+      "combination": false,
+      "home_inn": "nitroglycerin",
+      "ingredients": [
+        "NITROGLYCERIN"
+      ],
+      "labeler": "INDEPENDENCE PHARMACEUTICALS, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-12-02",
+      "moieties": [
+        "NITROGLYCERIN"
+      ],
+      "product_ndcs": [
+        "21724-100"
+      ],
+      "rxcui": [
+        "705129",
+        "995019"
+      ],
+      "setid": "d19b5f51-ca85-48d6-9ccd-8ae26249cdc3",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "NITROLINGUAL (NITROGLYCERIN) SPRAY [INDEPENDENCE PHARMACEUTICALS, LLC]",
+      "upload_date": "2024-12-03"
+    },
+    {
+      "application_numbers": [
+        "NDA021134"
+      ],
+      "brand_names": [
+        "NITROGLYCERIN"
+      ],
+      "combination": false,
+      "home_inn": "nitroglycerin",
+      "ingredients": [
+        "NITROGLYCERIN"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2016-08-26",
+      "moieties": [
+        "NITROGLYCERIN"
+      ],
+      "product_ndcs": [
+        "59762-0489",
+        "59762-3304",
+        "59762-4921"
+      ],
+      "rxcui": [
+        "198038",
+        "198039",
+        "198040"
+      ],
+      "setid": "041f127e-5166-4484-bc1a-0a373d1187ae",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "NITROGLYCERIN TABLET [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2025-05-05"
+    },
+    {
+      "application_numbers": [
+        "NDA018705"
+      ],
+      "brand_names": [
+        "NITROGLYCERIN LINGUAL"
+      ],
+      "combination": false,
+      "home_inn": "nitroglycerin",
+      "ingredients": [
+        "NITROGLYCERIN"
+      ],
+      "labeler": "Allegis Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2019-07-01",
+      "moieties": [
+        "NITROGLYCERIN"
+      ],
+      "product_ndcs": [
+        "28595-120"
+      ],
+      "rxcui": [
+        "705129"
+      ],
+      "setid": "fadd07b7-189b-4678-ad0f-bf1e4d3d1300",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "NITROGLYCERIN LINGUAL (NITROGLYCERIN) SPRAY [ALLEGIS PHARMACEUTICALS, LLC]",
+      "upload_date": "2025-12-19"
+    },
+    {
+      "application_numbers": [
+        "NDA020145"
+      ],
+      "brand_names": [
+        "Nitroglycerin Transdermal Infusion System"
+      ],
+      "combination": false,
+      "home_inn": "nitroglycerin",
+      "ingredients": [
+        "NITROGLYCERIN"
+      ],
+      "labeler": "Dr. Reddy's Laboratories, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2020-03-01",
+      "moieties": [
+        "NITROGLYCERIN"
+      ],
+      "product_ndcs": [
+        "43598-893",
+        "43598-894",
+        "43598-895",
+        "43598-896"
+      ],
+      "rxcui": [
+        "486146",
+        "486148",
+        "486152",
+        "861657"
+      ],
+      "setid": "4f85d2e0-2e37-fcd1-276d-5a6466554289",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "NITROGLYCERIN TRANSDERMAL INFUSION SYSTEM (NITROGLYCERIN) PATCH [DR. REDDY'S LABORATORIES, INC.]",
+      "upload_date": "2020-04-14"
+    },
+    {
+      "application_numbers": [
+        "ANDA074559"
+      ],
+      "brand_names": [
+        "Nitroglycerin"
+      ],
+      "combination": false,
+      "home_inn": "nitroglycerin",
+      "ingredients": [
+        "NITROGLYCERIN"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1996-08-30",
+      "moieties": [
+        "NITROGLYCERIN"
+      ],
+      "product_ndcs": [
+        "0378-9102",
+        "0378-9104",
+        "0378-9112",
+        "0378-9116"
+      ],
+      "rxcui": [
+        "486146",
+        "486148",
+        "486152",
+        "861657"
+      ],
+      "setid": "e98a2692-1cb9-4994-98d8-1d8d9ef1a256",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "NITROGLYCERIN PATCH [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2018-11-16"
+    },
+    {
+      "application_numbers": [
+        "ANDA072034"
+      ],
+      "brand_names": [
+        "Nitroglycerin"
+      ],
+      "combination": false,
+      "home_inn": "nitroglycerin",
+      "ingredients": [
+        "NITROGLYCERIN"
+      ],
+      "labeler": "American Regent, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2003-03-04",
+      "moieties": [
+        "NITROGLYCERIN"
+      ],
+      "product_ndcs": [
+        "0517-4810"
+      ],
+      "rxcui": [
+        "237205"
+      ],
+      "setid": "8c52cdf6-87be-4719-b105-f08be096d462",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "NITROGLYCERIN INJECTION, SOLUTION [AMERICAN REGENT, INC.]",
+      "upload_date": "2021-07-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA087355"
+      ],
+      "brand_names": [
+        "NITRO-BID"
+      ],
+      "combination": false,
+      "home_inn": "nitroglycerin",
+      "ingredients": [
+        "NITROGLYCERIN"
+      ],
+      "labeler": "Savage Laboratories a division of Fougera Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-08-15",
+      "moieties": [
+        "NITROGLYCERIN"
+      ],
+      "product_ndcs": [
+        "0281-0326"
+      ],
+      "rxcui": [
+        "207273",
+        "242946"
+      ],
+      "setid": "e464e9bb-48e8-4b9f-9fff-e220cfbac0c5",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "NITRO-BID (NITROGLYCERIN) OINTMENT [SAVAGE LABORATORIES A DIVISION OF FOUGERA PHARMACEUTICALS, LLC]",
+      "upload_date": "2026-02-27"
+    },
+    {
+      "application_numbers": [
+        "NDA018705"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "NITROLINGUAL"
+      ],
+      "first_posted": "2011-02-28",
+      "found_by": "NITROLINGUAL",
+      "labeler": "Arbor Pharmaceuticals, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2017-10-03",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-10-31"
+      ],
+      "product_ndcs": [
+        "24338-300"
+      ],
+      "rxcui": [],
+      "setid": "11cb2671-d3d5-425f-8509-f973b6cac876",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "d19b5f51-ca85-48d6-9ccd-8ae26249cdc3",
+        "fadd07b7-189b-4678-ad0f-bf1e4d3d1300"
+      ],
+      "title": "NITROLINGUAL PUMPSPRAY (nitroglycerin) spray, metered"
+    },
+    {
+      "application_numbers": [
+        "NDA208424"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "GONITRO"
+      ],
+      "first_posted": "2016-07-07",
+      "found_by": "GONITRO",
+      "labeler": "Espero Pharmaceuticals, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2025-11-17",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2020-05-18"
+      ],
+      "product_ndcs": [
+        "70007-400"
+      ],
+      "rxcui": [],
+      "setid": "1418d832-4a6a-45ab-8414-25e23f393abb",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "GONITRO (nitroglycerin) powder"
+    },
+    {
+      "application_numbers": [
+        "NDA021780"
+      ],
+      "archived_versions": 10,
+      "brand_names": [
+        "NITROMIST"
+      ],
+      "first_posted": "2010-12-07",
+      "found_by": "NITROMIST",
+      "labeler": "Akrimax Pharmaceuticals, LLC",
+      "labeler_unverified": true,
+      "last_posted": "2017-12-28",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-05-31"
+      ],
+      "product_ndcs": [
+        "24090-410"
+      ],
+      "rxcui": [],
+      "setid": "1dfb2a25-abbd-4fe2-9531-8c76a7b2efa6",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "NITROMIST (nitroglycerin) aerosol, metered"
+    },
+    {
+      "application_numbers": [
+        "NDA208424"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "GONITRO"
+      ],
+      "first_posted": "2020-02-18",
+      "found_by": "GONITRO",
+      "labeler": "Allegis Pharmaceuticals, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2022-09-28",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-06-30"
+      ],
+      "product_ndcs": [
+        "28595-705"
+      ],
+      "rxcui": [],
+      "setid": "2b2e9b6b-c6f0-4360-8cf3-83e1654982c2",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "GONITRO (nitroglycerin) powder"
+    },
+    {
+      "application_numbers": [
+        "NDA018705"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "NITROLINGUAL"
+      ],
+      "first_posted": "2016-03-11",
+      "found_by": "NITROLINGUAL",
+      "labeler": "Espero Pharmaceuticals, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2025-11-17",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2020-05-18"
+      ],
+      "product_ndcs": [
+        "70007-300"
+      ],
+      "rxcui": [],
+      "setid": "2b7c772a-adef-4eef-bb83-aaa798e1b712",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "d19b5f51-ca85-48d6-9ccd-8ae26249cdc3",
+        "fadd07b7-189b-4678-ad0f-bf1e4d3d1300"
+      ],
+      "title": "NITROLINGUAL (nitroglycerin) spray"
+    },
+    {
+      "application_numbers": [
+        "NDA020145"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "NITRO DUR"
+      ],
+      "first_posted": "2006-08-29",
+      "found_by": "NITRO-DUR",
+      "labeler": "Merck Sharp & Dohme Corp.",
+      "labeler_unverified": false,
+      "last_posted": "2018-04-25",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-06-02"
+      ],
+      "product_ndcs": [
+        "0085-0819",
+        "0085-3305",
+        "0085-3310",
+        "0085-3315",
+        "0085-3320",
+        "0085-3330"
+      ],
+      "rxcui": [],
+      "setid": "5de5366c-0719-4a4c-9483-cd99b218ee78",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "4f85d2e0-2e37-fcd1-276d-5a6466554289",
+        "5e15296c-5acd-4bcc-80a8-b49cb1ef3eb0"
+      ],
+      "title": "NITRO-DUR (nitroglycerin) patch"
+    },
+    {
+      "application_numbers": [
+        "NDA021134"
+      ],
+      "archived_versions": 14,
+      "brand_names": [
+        "NITROSTAT"
+      ],
+      "first_posted": "2010-05-04",
+      "found_by": "NITROSTAT",
+      "labeler": "Parke-Davis Div of Pfizer Inc",
+      "labeler_unverified": false,
+      "last_posted": "2024-06-06",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-02-28",
+        "2025-04-30",
+        "2026-02-28"
+      ],
+      "product_ndcs": [
+        "0071-0417",
+        "0071-0418",
+        "0071-0419"
+      ],
+      "rxcui": [],
+      "setid": "79ba021e-183c-4b4d-822e-4ff5ef54ca61",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "041f127e-5166-4484-bc1a-0a373d1187ae",
+        "9a52da75-d0af-4237-96c0-0b12adfa8636"
+      ],
+      "title": "NITROSTAT (nitroglycerin) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA021780"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "NITROMIST"
+      ],
+      "first_posted": "2016-01-25",
+      "found_by": "NITROMIST",
+      "labeler": "Mist Pharmaceuticals, LLC",
+      "labeler_unverified": true,
+      "last_posted": "2023-02-17",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-12-31"
+      ],
+      "product_ndcs": [
+        "76299-430"
+      ],
+      "rxcui": [],
+      "setid": "87a45267-b0d3-43c6-a92a-8febb107be19",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "NITROMIST (nitroglycerin) aerosol, metered"
+    },
+    {
+      "application_numbers": [
+        "NDA021359"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "RECTIV"
+      ],
+      "first_posted": "2011-07-01",
+      "found_by": "RECTIV",
+      "labeler": "ProStrakan, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2022-02-01",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-01-24"
+      ],
+      "product_ndcs": [
+        "42747-235"
+      ],
+      "rxcui": [],
+      "setid": "af05dde8-1c06-4cd5-bcd0-8e318874536a",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "603aa9ed-54c4-4a35-ade4-690fa44850e4"
+      ],
+      "title": "RECTIV (nitroglycerin) ointment"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 2,
+      "brand_names": [
+        "NITRONAL"
+      ],
+      "first_posted": "2014-04-07",
+      "found_by": "NITRONAL",
+      "labeler": "G. POHL-BOSKAMP GmbH & Co. KG",
+      "labeler_unverified": true,
+      "last_posted": "2016-03-25",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "62627-100"
+      ],
+      "rxcui": [],
+      "setid": "b82a7e93-d697-419a-8b02-dc05c5ab302e",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "NITRONAL (nitroglycerin) injection, solution"
+    },
+    {
+      "application_numbers": [
+        "NDA018705"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "NITROLINGUAL"
+      ],
+      "first_posted": "2019-10-22",
+      "found_by": "NITROLINGUAL",
+      "labeler": "Allegis Pharmaceuticals, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2025-12-19",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "28595-550"
+      ],
+      "rxcui": [],
+      "setid": "d8765f0e-1fe9-4e2a-9138-186c093edceb",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "d19b5f51-ca85-48d6-9ccd-8ae26249cdc3",
+        "fadd07b7-189b-4678-ad0f-bf1e4d3d1300"
+      ],
+      "title": "NITROLINGUAL (nitroglycerin) spray"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e7bbeff1-e4f1-43a6-a1b3-a8c3dcae817d"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddys Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c555f8de-477f-0225-98a2-baf8945bbd63"
+    },
+    {
+      "combination": false,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fa789d65-9407-4965-bd06-4457444b42be"
+    },
+    {
+      "combination": false,
+      "labeler": "Advagen Pharma Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5a36dac2-7d35-4cbf-be3d-705b7135754d"
+    },
+    {
+      "combination": false,
+      "labeler": "Natco Pharma USA LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "941ac242-120e-47c1-ac03-50026ff93dd6"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "26c314ea-077e-490b-826b-2aafcb6e9564"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "38059df3-be1b-4226-9f12-c3c37cb44fea"
+    },
+    {
+      "combination": false,
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ac908e70-9425-4e9c-8c67-7b2882b40204"
+    },
+    {
+      "combination": false,
+      "labeler": "Trupharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "543ef8c8-d520-461b-bf6e-f8d8c277feec"
+    },
+    {
+      "combination": false,
+      "labeler": "Encube Ethicals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7bcead76-a90f-4140-9c73-4339d981a084"
+    },
+    {
+      "combination": false,
+      "labeler": "Encube Ethicals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c17c997b-0e90-4105-888b-2de22d2bf697"
+    },
+    {
+      "combination": false,
+      "labeler": "Solco Healthcare U.S., LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "61759752-dd07-4bed-8079-b578e3930519"
+    },
+    {
+      "combination": false,
+      "labeler": "Solaris Pharma Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f0a76edb-9e63-4aa4-9362-7375c799b2b5"
+    },
+    {
+      "combination": false,
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "562d2e03-dfed-41ff-8e7f-ec4169141983"
+    },
+    {
+      "combination": false,
+      "labeler": "Prasco Laboratories",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f9731c86-34b0-42a2-8b39-eca907e02e74"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "141b6098-dd8e-4c99-a581-197d46f9e0b1"
+    }
+  ]
+}

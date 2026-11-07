@@ -1,0 +1,570 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "SOTALOL HYDROCHLORIDE"
+  ],
+  "inn": "sotalol",
+  "name": "SOTALOL",
+  "rank": 258,
+  "rxcui": [
+    "904589",
+    "904630",
+    "1593725",
+    "1593731",
+    "1922720",
+    "1922721",
+    "1922763",
+    "1922764",
+    "1922765",
+    "1922766",
+    "1923422",
+    "1923423",
+    "1923424",
+    "1923425",
+    "1923426",
+    "1923427"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 10,
+    "approval_holders": 10,
+    "earliest_marketing_start": "2000-05-04",
+    "latest_label_update": "2026-09-21",
+    "nda_bla_applications": 3,
+    "repackagers": 9
+  },
+  "unii": [
+    {
+      "ingredient": "SOTALOL HYDROCHLORIDE",
+      "unii": "HEC37C70XX"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA205108"
+      ],
+      "brand_names": [
+        "SOTYLIZE"
+      ],
+      "combination": false,
+      "home_inn": "sotalol",
+      "ingredients": [
+        "SOTALOL HYDROCHLORIDE"
+      ],
+      "labeler": "Azurity Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-03-01",
+      "moieties": [
+        "SOTALOL"
+      ],
+      "product_ndcs": [
+        "24338-530"
+      ],
+      "rxcui": [
+        "1593725",
+        "1593731"
+      ],
+      "setid": "1f33f900-0777-4a92-a7f7-00cf3d57d95c",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "SOTYLIZE (SOTALOL HYDROCHLORIDE) SOLUTION [AZURITY PHARMACEUTICALS, INC.]",
+      "upload_date": "2024-01-30"
+    },
+    {
+      "application_numbers": [
+        "NDA022306"
+      ],
+      "brand_names": [
+        "Sotalol hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "sotalol",
+      "ingredients": [
+        "SOTALOL HYDROCHLORIDE"
+      ],
+      "labeler": "ALTATHERA Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-10-15",
+      "moieties": [
+        "SOTALOL"
+      ],
+      "product_ndcs": [
+        "69724-112"
+      ],
+      "rxcui": [
+        "904630"
+      ],
+      "setid": "ff3061ab-d930-4318-a5be-684e38be229e",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "SOTALOL HYDROCHLORIDE INJECTION [ALTATHERA PHARMACEUTICALS, LLC]",
+      "upload_date": "2025-08-06"
+    },
+    {
+      "application_numbers": [
+        "NDA019865"
+      ],
+      "brand_names": [
+        "BETAPACE",
+        "BETAPACE AF"
+      ],
+      "combination": false,
+      "home_inn": "sotalol",
+      "ingredients": [
+        "SOTALOL HYDROCHLORIDE"
+      ],
+      "labeler": "Legacy Pharma USA, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2016-09-01",
+      "moieties": [
+        "SOTALOL"
+      ],
+      "product_ndcs": [
+        "83107-005",
+        "83107-006",
+        "83107-007",
+        "83107-008",
+        "83107-009",
+        "83107-010"
+      ],
+      "rxcui": [
+        "1922720",
+        "1922721",
+        "1922763",
+        "1922764",
+        "1922765",
+        "1922766",
+        "1923422",
+        "1923423",
+        "1923424",
+        "1923425",
+        "1923426",
+        "1923427"
+      ],
+      "setid": "a6a7702f-36c9-45db-b640-453dc324baee",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "BETAPACE (SOTALOL HYDROCHLORIDE) TABLET BETAPACE AF (SOTALOL HYDROCHLORIDE) TABLET [LEGACY PHARMA USA, INC.]",
+      "upload_date": "2024-12-20"
+    },
+    {
+      "application_numbers": [
+        "ANDA075429"
+      ],
+      "brand_names": [
+        "Sotalol Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "sotalol",
+      "ingredients": [
+        "SOTALOL HYDROCHLORIDE"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2000-05-04",
+      "moieties": [
+        "SOTALOL"
+      ],
+      "product_ndcs": [
+        "0093-1060",
+        "0093-1061",
+        "0093-1062",
+        "0093-1063"
+      ],
+      "rxcui": [
+        "904589",
+        "1923422",
+        "1923424",
+        "1923426"
+      ],
+      "setid": "8e2772cb-7dea-42d1-ba31-d479ba7cb09a",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "SOTALOL HYDROCHLORIDE TABLET [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2024-01-26"
+    },
+    {
+      "application_numbers": [
+        "ANDA076140",
+        "ANDA076214"
+      ],
+      "brand_names": [
+        "Sotalol Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "sotalol",
+      "ingredients": [
+        "SOTALOL HYDROCHLORIDE"
+      ],
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2003-02-01",
+      "moieties": [
+        "SOTALOL"
+      ],
+      "product_ndcs": [
+        "60505-0080",
+        "60505-0081",
+        "60505-0082",
+        "60505-0159",
+        "60505-0222",
+        "60505-0223",
+        "60505-0224"
+      ],
+      "rxcui": [
+        "904589",
+        "1922720",
+        "1922763",
+        "1922765",
+        "1923422",
+        "1923424",
+        "1923426"
+      ],
+      "setid": "1a56c82e-7ecd-43b0-2899-f89e47adf7db",
+      "source": "dailymed-title-match",
+      "spl_version": 18,
+      "title": "SOTALOL HYDROCHLORIDE TABLET [APOTEX CORP.]",
+      "upload_date": "2026-09-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA077070"
+      ],
+      "brand_names": [
+        "Sotalol hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "sotalol",
+      "ingredients": [
+        "SOTALOL HYDROCHLORIDE"
+      ],
+      "labeler": "Epic Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-01-04",
+      "moieties": [
+        "SOTALOL"
+      ],
+      "product_ndcs": [
+        "42806-121",
+        "42806-122",
+        "42806-123"
+      ],
+      "rxcui": [
+        "1922720",
+        "1922763",
+        "1922765"
+      ],
+      "setid": "c0a34c56-9641-4592-9754-bcc233ec86b6",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "SOTALOL HYDROCHLORIDE TABLET [EPIC PHARMA, LLC]",
+      "upload_date": "2025-12-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA207428",
+        "ANDA207429"
+      ],
+      "brand_names": [
+        "Sotalol",
+        "Sotalol Hydrochloride AF"
+      ],
+      "combination": false,
+      "home_inn": "sotalol",
+      "ingredients": [
+        "SOTALOL HYDROCHLORIDE"
+      ],
+      "labeler": "UNICHEM PHARMACEUTICALS (USA), INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-12-06",
+      "moieties": [
+        "SOTALOL"
+      ],
+      "product_ndcs": [
+        "76385-114",
+        "76385-115",
+        "76385-116",
+        "76385-125",
+        "76385-126",
+        "76385-127"
+      ],
+      "rxcui": [
+        "1922720",
+        "1922763",
+        "1922765",
+        "1923422",
+        "1923424",
+        "1923426"
+      ],
+      "setid": "56879738-8662-4f5c-8386-761ab2b5e46f",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "SOTALOL (SOTALOL HYDROCHLORIDE) TABLET SOTALOL HYDROCHLORIDE AF (SOTALOL HYDROCHLORIDE TABLES AF) TABLET SOTALOL HYDROCHLORIDE AF (SOTALOL HYDROCHLORIDE TABLETS AF) TABLET [UNICHEM PHARMACEUTICALS (USA), INC.]",
+      "upload_date": "2026-06-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA075563"
+      ],
+      "brand_names": [
+        "Sotalol Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "sotalol",
+      "ingredients": [
+        "SOTALOL HYDROCHLORIDE"
+      ],
+      "labeler": "Oxford Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-07-24",
+      "moieties": [
+        "SOTALOL"
+      ],
+      "product_ndcs": [
+        "69584-841",
+        "69584-842",
+        "69584-843",
+        "69584-844"
+      ],
+      "rxcui": [
+        "904589",
+        "1923422",
+        "1923424",
+        "1923426"
+      ],
+      "setid": "c8ac6351-b1e9-4dd2-82f2-5980814fda15",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "SOTALOL HYDROCHLORIDE TABLET [OXFORD PHARMACEUTICALS, LLC]",
+      "upload_date": "2023-11-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA077616"
+      ],
+      "brand_names": [
+        "SOTALOL HYDROCHLORIDE"
+      ],
+      "combination": false,
+      "home_inn": "sotalol",
+      "ingredients": [
+        "SOTALOL HYDROCHLORIDE"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-06-29",
+      "moieties": [
+        "SOTALOL"
+      ],
+      "product_ndcs": [
+        "59651-775",
+        "59651-776",
+        "59651-777"
+      ],
+      "rxcui": [
+        "1922720",
+        "1922763",
+        "1922765"
+      ],
+      "setid": "6f3145d7-f3c9-4456-a77d-d04c54f24668",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "SOTALOL HYDROCHLORIDE TABLET [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2024-10-04"
+    },
+    {
+      "application_numbers": [
+        "NDA021151"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "BETAPACE"
+      ],
+      "first_posted": "2007-09-14",
+      "found_by": "BETAPACE",
+      "labeler": "Bayer HealthCare Pharmaceuticals Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2017-11-13",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "50419-115",
+        "50419-116",
+        "50419-119"
+      ],
+      "rxcui": [],
+      "setid": "21aea811-f47d-4a44-a552-dfc46d2773bf",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "BETAPACE AF (sotalol hydrochloride) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA019865",
+        "NDA021151"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "BETAPACE"
+      ],
+      "first_posted": "2025-02-14",
+      "found_by": "BETAPACE",
+      "labeler": "Skyepharma Production SAS",
+      "labeler_unverified": true,
+      "last_posted": "2025-02-14",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "13672-051",
+        "13672-052",
+        "13672-053",
+        "13672-054",
+        "13672-055",
+        "13672-056"
+      ],
+      "rxcui": [],
+      "setid": "2df1a37b-1d22-6780-e063-6294a90a2028",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "a6a7702f-36c9-45db-b640-453dc324baee"
+      ],
+      "title": "BETAPACE (sotalol hcl) tablet BETAPACE AF (sotalol hcl) tablet"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "BETAPACE"
+      ],
+      "first_posted": "2007-01-26",
+      "found_by": "BETAPACE",
+      "labeler": "Berlex, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2007-01-26",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "50419-115",
+        "50419-116",
+        "50419-119"
+      ],
+      "rxcui": [],
+      "setid": "3887d6ca-1989-47ef-936b-5f2cdb8801c2",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "betapace af (sotalol hydrochloride) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA021151"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "BETAPACE"
+      ],
+      "first_posted": "2007-09-14",
+      "found_by": "BETAPACE",
+      "labeler": "Bayer HealthCare Pharmaceuticals Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2007-09-14",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-11-10"
+      ],
+      "product_ndcs": [
+        "50419-115",
+        "50419-116",
+        "50419-119"
+      ],
+      "rxcui": [],
+      "setid": "66dd794c-74c7-4512-8206-430ba79b7879",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "betapace af (sotalol hydrochloride) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA019865"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "BETAPACE"
+      ],
+      "first_posted": "2008-03-10",
+      "found_by": "BETAPACE",
+      "labeler": "Bayer HealthCare Pharmaceuticals Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2017-11-13",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-11-10"
+      ],
+      "product_ndcs": [
+        "50419-105",
+        "50419-106",
+        "50419-109"
+      ],
+      "rxcui": [],
+      "setid": "c4caf469-f684-4f6d-98e8-b6a2fff1de98",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "a6a7702f-36c9-45db-b640-453dc324baee"
+      ],
+      "title": "BETAPACE (sotalol hydrochloride) tablet"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "AiPing Pharmaceutical, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "56326224-fc80-4b89-8ba3-70cb873173b4"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "about": "Labels the MCP tests build into a small temporary repo from their pinned sources (sources/us/<setid>.json plus raw zips). Chosen from the full corpus so example query 2 (changes_between 2023-01-01..2025-12-31, section 43685-7, query 'suicidal ideation') has one example of every outcome. Expected values were cross-checked against an independent brute-force scan of the full US corpus on 2026-11-01.",
+  "setids": {
+    "1e11ad30-1041-4520-10b0-8f9d30d30fcc": "Synthroid (levothyroxine), 24 versions 2007-2024; known readings in known_readings.json",
+    "34496b43-05a2-45fb-a769-52b12e099341": "Plaquenil (hydroxychloroquine), 'suicidal ideation' added to 43685-7 in version 12 (2023-08-02)",
+    "6a9e2fc8-bedf-46d4-9973-328dbcb18061": "Hydroxychloroquine sulfate, phrase added in version 5 (2024-06-21)",
+    "84b00366-96ef-41e1-bac6-5d24acdb9e1d": "Hydroxychloroquine sulfate, phrase added in version 8 (2024-07-18)",
+    "7e09aeca-0cec-4a88-9dde-a2098a08b877": "Hydroxychloroquine, phrase present from its first version (2024-06-05): new_label, never 'added'",
+    "f350afed-120b-422d-9e6e-3aaa0f72a5fb": "Doxepin hydrochloride solution, phrase removed from 43685-7 in version 23 (2025-08-04)",
+    "0bbee292-0fba-4606-9c8e-4723742682c0": "Clomipramine hydrochloride, a line with the phrase reworded in version 7 (2025-05-15)",
+    "3fd850a2-af0f-4291-af5d-52c8d6094e64": "Ipratropium bromide, 10 versions 2008-2021; the 44425-7 file was renamed (deleted + created) in version 2 (2010-05-11); never carries the query-2 phrase"
+  },
+  "renamed_section": {
+    "setid": "3fd850a2-af0f-4291-af5d-52c8d6094e64",
+    "section": "44425-7",
+    "old_file": "44425-7-storage-and-handling.md",
+    "new_file": "44425-7-storage-and-handling-section.md",
+    "date_before": "2008-04-18",
+    "date_after": "2010-05-11",
+    "renamed_in_version": 2
+  },
+  "query2": {
+    "from": "2023-01-01",
+    "to": "2025-12-31",
+    "section": "43685-7",
+    "query": "suicidal ideation",
+    "added": [
+      {"label_id": "34496b43-05a2-45fb-a769-52b12e099341", "version": 12, "published_date": "2023-08-02"},
+      {"label_id": "6a9e2fc8-bedf-46d4-9973-328dbcb18061", "version": 5, "published_date": "2024-06-21"},
+      {"label_id": "84b00366-96ef-41e1-bac6-5d24acdb9e1d", "version": 8, "published_date": "2024-07-18"}
+    ],
+    "removed": [
+      {"label_id": "f350afed-120b-422d-9e6e-3aaa0f72a5fb", "version": 23, "published_date": "2025-08-04"}
+    ],
+    "reworded": [
+      {"label_id": "0bbee292-0fba-4606-9c8e-4723742682c0", "version": 7, "published_date": "2025-05-15"}
+    ],
+    "new_labels": [
+      {"label_id": "7e09aeca-0cec-4a88-9dde-a2098a08b877", "version": 1, "published_date": "2024-06-05"}
+    ]
+  }
+}

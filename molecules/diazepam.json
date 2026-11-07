@@ -1,0 +1,706 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "DIAZEPAM"
+  ],
+  "inn": "diazepam",
+  "name": "DIAZEPAM",
+  "rank": 179,
+  "rxcui": [
+    "104699",
+    "104700",
+    "104701",
+    "197589",
+    "197590",
+    "197591",
+    "309844",
+    "309845",
+    "801957",
+    "801961",
+    "801966",
+    "1807452",
+    "2272613",
+    "2272619",
+    "2272621",
+    "2272622",
+    "2272623",
+    "2272624",
+    "2272626",
+    "2272627",
+    "2272629",
+    "2272630",
+    "2272632",
+    "2272633",
+    "2272635",
+    "2272636"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 33,
+    "approval_holders": 24,
+    "earliest_marketing_start": "1963-11-15",
+    "latest_label_update": "2026-10-22",
+    "nda_bla_applications": 3,
+    "repackagers": 23
+  },
+  "unii": [
+    {
+      "ingredient": "DIAZEPAM",
+      "unii": "Q3JTX2Q7TU"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA013263"
+      ],
+      "brand_names": [
+        "Valium"
+      ],
+      "combination": false,
+      "home_inn": "diazepam",
+      "ingredients": [
+        "DIAZEPAM"
+      ],
+      "labeler": "Roche Laboratories Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1963-11-15",
+      "moieties": [
+        "DIAZEPAM"
+      ],
+      "product_ndcs": [
+        "0140-0004",
+        "0140-0005"
+      ],
+      "rxcui": [
+        "104699",
+        "104700",
+        "197590",
+        "197591"
+      ],
+      "setid": "554baee5-b171-4452-a50a-41a0946f956c",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "VALIUM (DIAZEPAM) TABLET [ROCHE LABORATORIES INC.]",
+      "upload_date": "2025-12-10"
+    },
+    {
+      "application_numbers": [
+        "NDA020124"
+      ],
+      "brand_names": [
+        "Diazepam"
+      ],
+      "combination": false,
+      "home_inn": "diazepam",
+      "ingredients": [
+        "DIAZEPAM"
+      ],
+      "labeler": "Meridian Medical Technologies LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1990-12-05",
+      "moieties": [
+        "DIAZEPAM"
+      ],
+      "product_ndcs": [
+        "11704-600"
+      ],
+      "rxcui": [
+        "1807452"
+      ],
+      "setid": "fa352464-14c8-49e9-b8b7-5a968b1cfa93",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "DIAZEPAM INJECTION [MERIDIAN MEDICAL TECHNOLOGIES LLC]",
+      "upload_date": "2023-12-22"
+    },
+    {
+      "application_numbers": [
+        "NDA211635"
+      ],
+      "brand_names": [
+        "Valtoco"
+      ],
+      "combination": false,
+      "home_inn": "diazepam",
+      "ingredients": [
+        "DIAZEPAM"
+      ],
+      "labeler": "Neurelis, Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2020-01-10",
+      "moieties": [
+        "DIAZEPAM"
+      ],
+      "product_ndcs": [
+        "72252-505",
+        "72252-510",
+        "72252-515",
+        "72252-520"
+      ],
+      "rxcui": [
+        "2272613",
+        "2272619",
+        "2272621",
+        "2272622",
+        "2272623",
+        "2272624",
+        "2272626",
+        "2272627",
+        "2272629",
+        "2272630",
+        "2272632",
+        "2272633",
+        "2272635",
+        "2272636"
+      ],
+      "setid": "1a8bcc90-68fa-474d-832c-0df01e825f39",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "VALTOCO (DIAZEPAM) SPRAY [NEURELIS, INC]",
+      "upload_date": "2026-06-05"
+    },
+    {
+      "application_numbers": [
+        "NDA013263"
+      ],
+      "brand_names": [
+        "Valium"
+      ],
+      "combination": false,
+      "home_inn": "diazepam",
+      "ingredients": [
+        "DIAZEPAM"
+      ],
+      "labeler": "Waylis Therapeutics LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-04-04",
+      "moieties": [
+        "DIAZEPAM"
+      ],
+      "product_ndcs": [
+        "80725-004",
+        "80725-005",
+        "80725-006"
+      ],
+      "rxcui": [
+        "104699",
+        "104700",
+        "104701",
+        "197589",
+        "197590",
+        "197591"
+      ],
+      "setid": "260e2041-2bb3-482f-850e-b5d47a7bdbe6",
+      "source": "dailymed-title-match",
+      "spl_version": 12,
+      "title": "VALIUM (DIAZEPAM) TABLET [WAYLIS THERAPEUTICS LLC]",
+      "upload_date": "2026-10-09"
+    },
+    {
+      "application_numbers": [
+        "NDA020648"
+      ],
+      "brand_names": [
+        "Diazepam"
+      ],
+      "combination": false,
+      "home_inn": "diazepam",
+      "ingredients": [
+        "DIAZEPAM"
+      ],
+      "labeler": "Oceanside Pharmaceuticals",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "1997-07-29",
+      "moieties": [
+        "DIAZEPAM"
+      ],
+      "product_ndcs": [
+        "68682-650",
+        "68682-652",
+        "68682-655"
+      ],
+      "rxcui": [
+        "801957",
+        "801961",
+        "801966"
+      ],
+      "setid": "b1b2848b-b265-4f6f-9141-bf106dec0726",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "DIAZEPAM GEL DIAZEPAM GEL [OCEANSIDE PHARMACEUTICALS]",
+      "upload_date": "2024-01-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA070325"
+      ],
+      "brand_names": [
+        "Diazepam"
+      ],
+      "combination": false,
+      "home_inn": "diazepam",
+      "ingredients": [
+        "DIAZEPAM"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1985-09-04",
+      "moieties": [
+        "DIAZEPAM"
+      ],
+      "product_ndcs": [
+        "0378-0271",
+        "0378-0345",
+        "0378-0477"
+      ],
+      "rxcui": [
+        "197589",
+        "197590",
+        "197591"
+      ],
+      "setid": "c397a9da-862f-4f3f-8109-7d21691de53a",
+      "source": "dailymed-title-match",
+      "spl_version": 17,
+      "title": "DIAZEPAM TABLET [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2026-09-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA070311"
+      ],
+      "brand_names": [
+        "Diazepam"
+      ],
+      "combination": false,
+      "home_inn": "diazepam",
+      "ingredients": [
+        "DIAZEPAM"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1985-12-16",
+      "moieties": [
+        "DIAZEPAM"
+      ],
+      "product_ndcs": [
+        "0641-6243",
+        "0641-6283"
+      ],
+      "rxcui": [
+        "309845"
+      ],
+      "setid": "f466f8a3-f31c-44f4-b0e8-444464f20f66",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "DIAZEPAM INJECTION DIAZEPAM INJECTION, SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2026-07-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA070302",
+        "ANDA070303",
+        "ANDA070304"
+      ],
+      "brand_names": [
+        "Diazepam"
+      ],
+      "combination": false,
+      "home_inn": "diazepam",
+      "ingredients": [
+        "DIAZEPAM"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1985-12-20",
+      "moieties": [
+        "DIAZEPAM"
+      ],
+      "product_ndcs": [
+        "62135-786",
+        "62135-787",
+        "62135-788"
+      ],
+      "rxcui": [
+        "197589",
+        "197590",
+        "197591"
+      ],
+      "setid": "6cb19468-be02-4219-9e80-94a28e2317b9",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "DIAZEPAM TABLET [CHARTWELL RX, LLC]",
+      "upload_date": "2024-05-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA071307",
+        "ANDA071321",
+        "ANDA071322"
+      ],
+      "brand_names": [
+        "Diazepam"
+      ],
+      "combination": false,
+      "home_inn": "diazepam",
+      "ingredients": [
+        "DIAZEPAM"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1986-12-10",
+      "moieties": [
+        "DIAZEPAM"
+      ],
+      "product_ndcs": [
+        "0172-3925",
+        "0172-3926",
+        "0172-3927"
+      ],
+      "rxcui": [
+        "197589",
+        "197590",
+        "197591"
+      ],
+      "setid": "48aa32cb-047a-414a-822e-82a5f26d8817",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "DIAZEPAM TABLET [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2024-02-22"
+    },
+    {
+      "application_numbers": [
+        "ANDA071415"
+      ],
+      "brand_names": [
+        "Diazepam Intensol"
+      ],
+      "combination": false,
+      "home_inn": "diazepam",
+      "ingredients": [
+        "DIAZEPAM"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1987-04-03",
+      "moieties": [
+        "DIAZEPAM"
+      ],
+      "product_ndcs": [
+        "0054-3185"
+      ],
+      "rxcui": [
+        "309844"
+      ],
+      "setid": "1aaf9375-ae3d-4fed-9cd1-24102e00be1a",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "DIAZEPAM INTENSOL SOLUTION, CONCENTRATE [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2024-12-12"
+    },
+    {
+      "application_numbers": [
+        "NDA020648"
+      ],
+      "archived_versions": 17,
+      "brand_names": [
+        "DIASTAT"
+      ],
+      "first_posted": "2013-07-25",
+      "found_by": "DIASTAT",
+      "labeler": "Bausch Health US, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2023-12-19",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-09-30"
+      ],
+      "product_ndcs": [
+        "66490-650"
+      ],
+      "rxcui": [],
+      "setid": "88e0f275-dd7b-447d-b9d3-316a06da934f",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "b1b2848b-b265-4f6f-9141-bf106dec0726"
+      ],
+      "title": "DIASTAT (diazepam) gel"
+    },
+    {
+      "application_numbers": [
+        "NDA020648"
+      ],
+      "archived_versions": 19,
+      "brand_names": [
+        "DIASTAT"
+      ],
+      "first_posted": "2007-10-10",
+      "found_by": "DIASTAT",
+      "labeler": "Bausch Health US, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2024-01-03",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-12-31",
+        "2024-08-31"
+      ],
+      "product_ndcs": [
+        "0187-0658",
+        "0187-0659"
+      ],
+      "rxcui": [],
+      "setid": "a84a73a7-8e3a-4985-8be0-04b3028f5e49",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "b1b2848b-b265-4f6f-9141-bf106dec0726"
+      ],
+      "title": "DIASTAT (diazepam) gel"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9e85abed-1a8b-4762-a31f-f2c7f196b8af"
+    },
+    {
+      "combination": false,
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "41044928-dd1f-40bf-1fa6-709dff559124"
+    },
+    {
+      "combination": false,
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7e7dd743-a87b-4ab3-b6ae-f116cd0c8b0f"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cdb839fb-27e5-4a11-aed6-da0a7ab6e996"
+    },
+    {
+      "combination": false,
+      "labeler": "Natco Pharma USA LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6b8dc373-fa01-42c9-89af-4e00bf00180a"
+    },
+    {
+      "combination": false,
+      "labeler": "Natco Pharma USA LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "19d0e3e5-f081-4574-9f0a-e7e97a88c7a9"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2719720b-4918-4f08-b1de-b267f404505f"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ae52866a-0b9a-4baf-af1b-f9d5e00c0e56"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals,Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d99b68aa-b3dc-49c8-8894-3da255cd26b0"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2f799120-0d08-47cd-8183-a98f0267c845"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1632f040-3b2c-43da-a42f-f2baf5ec778a"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2a633cef-6dfc-4186-b595-174db2d8330e"
+    },
+    {
+      "combination": false,
+      "labeler": "Sunrise Pharmaceutical, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "34ac0b9d-d4ad-4aaa-8bee-902365f4e9a8"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "652714c7-25c4-4d05-979d-8eee3b6f2f4d"
+    },
+    {
+      "combination": false,
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a0813073-d0b0-4fd7-b307-56f69c910c82"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell Governmental & Specialty RX, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "167ee280-be68-4a28-a7d8-de41df14bc48"
+    },
+    {
+      "combination": false,
+      "labeler": "Natco Pharma USA LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a14f5930-a3ac-4996-9778-df5baa3d0bab"
+    },
+    {
+      "combination": false,
+      "labeler": "Civica, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "83646a0f-eb43-4871-b95e-683c2533d2be"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6b6ca65b-4ede-47b9-bbf3-05bb67c0c71d"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9a860a4e-d670-d050-499d-eb1fd6b16176"
+    },
+    {
+      "combination": false,
+      "labeler": "Navinta LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b5b17a28-2cab-4c0d-8f9d-7b224e4d0989"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7a912f1a-deee-46df-a8df-22a0afb06529"
+    },
+    {
+      "combination": false,
+      "labeler": "Civica, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cf7bd9ba-5030-479a-8448-3a99395b0d0c"
+    }
+  ]
+}

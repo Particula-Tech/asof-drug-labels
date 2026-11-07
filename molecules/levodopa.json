@@ -1,0 +1,913 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "Inbrija is inhaled levodopa for off episodes, not oral levodopa",
+      "comparable_to_us": "no",
+      "ema_product_number": "EMEA/H/C/004786",
+      "eu_number": "EU/1/19/1390",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-004786",
+      "mah": "Merz Therapeutics GmbH",
+      "marketing_authorisation_date": "2019-09-19",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/inbrija",
+      "name": "Inbrija",
+      "record_from": "2019-09-19",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 5
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 5,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-004786",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "LEVODOPA"
+  ],
+  "inn": "levodopa",
+  "name": "LEVODOPA",
+  "rank": 88,
+  "rxcui": [
+    "197443",
+    "197444",
+    "197445",
+    "308988",
+    "308989",
+    "403850",
+    "403851",
+    "403852",
+    "724598",
+    "724602",
+    "724606",
+    "730988",
+    "810083",
+    "810090",
+    "1599846",
+    "1599852",
+    "1600773",
+    "1600774",
+    "1600775",
+    "1600776",
+    "1600914",
+    "1600915",
+    "1600916",
+    "1600917",
+    "2107616",
+    "2107621",
+    "2586032",
+    "2690259",
+    "2690265",
+    "2690279",
+    "2690281",
+    "2690284",
+    "2690286",
+    "2690290",
+    "2690292"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 34,
+    "approval_holders": 25,
+    "earliest_marketing_start": "1999-10-06",
+    "latest_label_update": "2026-10-23",
+    "nda_bla_applications": 6,
+    "repackagers": 15
+  },
+  "unii": [
+    {
+      "ingredient": "LEVODOPA",
+      "unii": "46627O600J"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA209184"
+      ],
+      "brand_names": [
+        "Inbrija"
+      ],
+      "combination": false,
+      "home_inn": "levodopa",
+      "ingredients": [
+        "LEVODOPA"
+      ],
+      "labeler": "Merz Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-12-22",
+      "moieties": [
+        "LEVODOPA"
+      ],
+      "product_ndcs": [
+        "0259-6142"
+      ],
+      "rxcui": [
+        "2107616",
+        "2107621"
+      ],
+      "setid": "077c0f39-a3a2-4b2b-a184-09131889dcfb",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "INBRIJA (LEVODOPA) CAPSULE [MERZ PHARMACEUTICALS, LLC]",
+      "upload_date": "2026-07-23"
+    },
+    {
+      "application_numbers": [
+        "NDA203312"
+      ],
+      "brand_names": [
+        "RYTARY"
+      ],
+      "combination": true,
+      "home_inn": "carbidopa",
+      "ingredients": [
+        "CARBIDOPA HYDRATE",
+        "LEVODOPA"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-01-12",
+      "moieties": [
+        "CARBIDOPA",
+        "LEVODOPA"
+      ],
+      "product_ndcs": [
+        "64896-661",
+        "64896-662",
+        "64896-663",
+        "64896-664"
+      ],
+      "rxcui": [
+        "1600773",
+        "1600774",
+        "1600775",
+        "1600776",
+        "1600914",
+        "1600915",
+        "1600916",
+        "1600917"
+      ],
+      "setid": "6c1f7cd4-de56-45c1-a734-5e77b4aeb6f7",
+      "source": "openfda",
+      "spl_version": 26,
+      "title": "RYTARY (CARBIDOPA AND LEVODOPA) CAPSULE, EXTENDED RELEASE [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2026-03-27"
+    },
+    {
+      "application_numbers": [
+        "NDA203952"
+      ],
+      "brand_names": [
+        "Duopa"
+      ],
+      "combination": true,
+      "home_inn": "carbidopa",
+      "ingredients": [
+        "CARBIDOPA HYDRATE",
+        "LEVODOPA"
+      ],
+      "labeler": "AbbVie Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-01-15",
+      "moieties": [
+        "CARBIDOPA",
+        "LEVODOPA"
+      ],
+      "product_ndcs": [
+        "0074-3012"
+      ],
+      "rxcui": [
+        "1599846",
+        "1599852"
+      ],
+      "setid": "7066d371-dc6a-0d6f-7bed-e5dd4ee912da",
+      "source": "openfda",
+      "spl_version": 171,
+      "title": "DUOPA (CARBIDOPA AND LEVODOPA) SUSPENSION [ABBVIE INC.]",
+      "upload_date": "2026-04-01"
+    },
+    {
+      "application_numbers": [
+        "NDA017555"
+      ],
+      "brand_names": [
+        "SINEMET"
+      ],
+      "combination": true,
+      "home_inn": "carbidopa",
+      "ingredients": [
+        "CARBIDOPA",
+        "LEVODOPA"
+      ],
+      "labeler": "Organon LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-06-01",
+      "moieties": [
+        "CARBIDOPA",
+        "LEVODOPA"
+      ],
+      "product_ndcs": [
+        "78206-166",
+        "78206-190"
+      ],
+      "rxcui": [
+        "197443",
+        "197444",
+        "197445",
+        "724598",
+        "724602",
+        "724606"
+      ],
+      "setid": "9b17b028-964a-473c-823d-81423535bd66",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "SINEMET (CARBIDOPA AND LEVODOPA) TABLET [ORGANON LLC]",
+      "upload_date": "2026-08-24"
+    },
+    {
+      "application_numbers": [
+        "NDA214869"
+      ],
+      "brand_names": [
+        "Dhivy"
+      ],
+      "combination": true,
+      "home_inn": "carbidopa",
+      "ingredients": [
+        "CARBIDOPA HYDRATE",
+        "LEVODOPA"
+      ],
+      "labeler": "Avion Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-07-13",
+      "moieties": [
+        "CARBIDOPA",
+        "LEVODOPA"
+      ],
+      "product_ndcs": [
+        "75854-701"
+      ],
+      "rxcui": [
+        "197444",
+        "2586032"
+      ],
+      "setid": "39d79ade-8ee0-40ba-9fdd-13045b8ddbdf",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "DHIVY (CARBIDOPA LEVODOPA) TABLET [AVION PHARMACEUTICALS, LLC]",
+      "upload_date": "2026-08-25"
+    },
+    {
+      "application_numbers": [
+        "NDA217186"
+      ],
+      "brand_names": [
+        "CREXONT"
+      ],
+      "combination": true,
+      "home_inn": "carbidopa",
+      "ingredients": [
+        "CARBIDOPA HYDRATE",
+        "LEVODOPA"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-08-09",
+      "moieties": [
+        "CARBIDOPA",
+        "LEVODOPA"
+      ],
+      "product_ndcs": [
+        "64896-967",
+        "64896-968",
+        "64896-969",
+        "64896-970"
+      ],
+      "rxcui": [
+        "2690259",
+        "2690265",
+        "2690279",
+        "2690281",
+        "2690284",
+        "2690286",
+        "2690290",
+        "2690292"
+      ],
+      "setid": "095a08b6-b0b8-4f88-b759-67e8b87287a0",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "CREXONT (CARBIDOPA AND LEVODOPA) CAPSULE, EXTENDED RELEASE [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2026-06-01"
+    },
+    {
+      "application_numbers": [
+        "NDA209184"
+      ],
+      "brand_names": [
+        "Inbrija"
+      ],
+      "combination": false,
+      "home_inn": "levodopa",
+      "ingredients": [
+        "LEVODOPA"
+      ],
+      "labeler": "Merz Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-12-22",
+      "moieties": [
+        "LEVODOPA"
+      ],
+      "product_ndcs": [
+        "10144-342"
+      ],
+      "rxcui": [
+        "2107616",
+        "2107621"
+      ],
+      "setid": "a906f8e1-6e1c-480a-8276-c01bc65dd3be",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "INBRIJA (LEVODOPA) CAPSULE [MERZ PHARMACEUTICALS, LLC]",
+      "upload_date": "2026-01-23"
+    },
+    {
+      "application_numbers": [
+        "NDA021485"
+      ],
+      "brand_names": [
+        "Carbidopa, Levodopa, and Entacapone"
+      ],
+      "combination": true,
+      "home_inn": "carbidopa",
+      "ingredients": [
+        "CARBIDOPA",
+        "ENTACAPONE",
+        "LEVODOPA"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2014-06-18",
+      "moieties": [
+        "CARBIDOPA",
+        "ENTACAPONE",
+        "LEVODOPA"
+      ],
+      "product_ndcs": [
+        "0781-5613",
+        "0781-5625",
+        "0781-5637",
+        "0781-5641",
+        "0781-5654",
+        "0781-5669"
+      ],
+      "rxcui": [
+        "403850",
+        "403851",
+        "403852",
+        "730988",
+        "810083",
+        "810090"
+      ],
+      "setid": "9c16c0e0-3b97-486b-b7d5-579f5853e2c5",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "CARBIDOPA, LEVODOPA, AND ENTACAPONE TABLET, FILM COATED [SANDOZ INC]",
+      "upload_date": "2026-04-06"
+    },
+    {
+      "application_numbers": [
+        "NDA203312"
+      ],
+      "brand_names": [
+        "Carbidopa and Levodopa"
+      ],
+      "combination": true,
+      "home_inn": "levodopa",
+      "ingredients": [
+        "CARBIDOPA",
+        "LEVODOPA"
+      ],
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2025-10-20",
+      "moieties": [
+        "CARBIDOPA",
+        "LEVODOPA"
+      ],
+      "product_ndcs": [
+        "70710-2139",
+        "70710-2140",
+        "70710-2141",
+        "70710-2142"
+      ],
+      "rxcui": [
+        "1600773",
+        "1600775",
+        "1600914",
+        "1600916"
+      ],
+      "setid": "74e7f96b-de31-4e3c-b32d-11421b291d4e",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "CARBIDOPA AND LEVODOPA CAPSULE, EXTENDED RELEASE [ZYDUS PHARMACEUTICALS USA INC.]",
+      "upload_date": "2025-11-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA075091"
+      ],
+      "brand_names": [
+        "Carbidopa and Levodopa"
+      ],
+      "combination": true,
+      "home_inn": "levodopa",
+      "ingredients": [
+        "CARBIDOPA",
+        "LEVODOPA"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1999-10-06",
+      "moieties": [
+        "CARBIDOPA",
+        "LEVODOPA"
+      ],
+      "product_ndcs": [
+        "0378-0088",
+        "0378-0094"
+      ],
+      "rxcui": [
+        "308988",
+        "308989"
+      ],
+      "setid": "aa5028d6-fd0a-4cf1-b708-c93bb2a7c76a",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "CARBIDOPA AND LEVODOPA TABLET, EXTENDED RELEASE [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2026-05-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA077828"
+      ],
+      "brand_names": [
+        "CARBIDOPA AND LEVODOPA"
+      ],
+      "combination": true,
+      "home_inn": "levodopa",
+      "ingredients": [
+        "CARBIDOPA",
+        "LEVODOPA"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2007-08-23",
+      "moieties": [
+        "CARBIDOPA",
+        "LEVODOPA"
+      ],
+      "product_ndcs": [
+        "62756-457",
+        "62756-461"
+      ],
+      "rxcui": [
+        "308988",
+        "308989"
+      ],
+      "setid": "d2a64f14-f638-49d9-8a96-cb7ae46ac3ea",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "CARBIDOPA AND LEVODOPA TABLET, EXTENDED RELEASE [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2026-06-08"
+    },
+    {
+      "application_numbers": [
+        "ANDA078536"
+      ],
+      "brand_names": [
+        "CARBIDOPA AND LEVODOPA"
+      ],
+      "combination": true,
+      "home_inn": "levodopa",
+      "ingredients": [
+        "CARBIDOPA",
+        "LEVODOPA"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2008-10-28",
+      "moieties": [
+        "CARBIDOPA",
+        "LEVODOPA"
+      ],
+      "product_ndcs": [
+        "62756-517",
+        "62756-518",
+        "62756-985"
+      ],
+      "rxcui": [
+        "197443",
+        "197444",
+        "197445"
+      ],
+      "setid": "829c35f9-ace0-11dd-8800-f3e252b43544",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "CARBIDOPA AND LEVODOPA TABLET [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2021-08-16"
+    },
+    {
+      "application_numbers": [
+        "ANDA202323"
+      ],
+      "brand_names": [
+        "CARBIDOPA AND LEVODOPA"
+      ],
+      "combination": true,
+      "home_inn": "levodopa",
+      "ingredients": [
+        "CARBIDOPA",
+        "LEVODOPA"
+      ],
+      "labeler": "Accord Healthcare, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-06-13",
+      "moieties": [
+        "CARBIDOPA",
+        "LEVODOPA"
+      ],
+      "product_ndcs": [
+        "16729-078",
+        "16729-079"
+      ],
+      "rxcui": [
+        "308988",
+        "308989"
+      ],
+      "setid": "5217a6ec-cc26-4acc-b2da-17f6545c3b60",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "CARBIDOPA AND LEVODOPA TABLET, EXTENDED RELEASE [ACCORD HEALTHCARE, INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "NDA017555"
+      ],
+      "archived_versions": 8,
+      "brand_names": [
+        "SINEMET"
+      ],
+      "first_posted": "2011-02-11",
+      "found_by": "SINEMET",
+      "labeler": "Merck Sharp & Dohme Corp.",
+      "labeler_unverified": false,
+      "last_posted": "2022-03-14",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-12-31"
+      ],
+      "product_ndcs": [
+        "0006-3915",
+        "0006-3916",
+        "0006-3917",
+        "0006-6722",
+        "0006-6723",
+        "0006-6724"
+      ],
+      "rxcui": [],
+      "setid": "0caee228-12c7-437c-9ea6-06b4e51722e1",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "9b17b028-964a-473c-823d-81423535bd66"
+      ],
+      "title": "SINEMET (carbidopa and levodopa) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA203312"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "RYTARY"
+      ],
+      "first_posted": "2025-06-26",
+      "found_by": "RYTARY",
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "labeler_unverified": false,
+      "last_posted": "2025-12-16",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-12-15"
+      ],
+      "product_ndcs": [
+        "60846-661",
+        "60846-662",
+        "60846-663",
+        "60846-664"
+      ],
+      "rxcui": [],
+      "setid": "4647e9b8-2861-4e4c-af5e-9d07979d7999",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "6c1f7cd4-de56-45c1-a734-5e77b4aeb6f7",
+        "74e7f96b-de31-4e3c-b32d-11421b291d4e"
+      ],
+      "title": "RYTARY (carbidopa and levodopa) capsule, extended release"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "SINEMET"
+      ],
+      "first_posted": "2008-02-22",
+      "found_by": "SINEMET",
+      "labeler": "Bristol-Myers Squibb Company",
+      "labeler_unverified": true,
+      "last_posted": "2008-02-22",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0056-0647",
+        "0056-0650",
+        "0056-0654"
+      ],
+      "rxcui": [],
+      "setid": "be8e535a-2f3a-42b1-bb18-ab88b20eea99",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "sinemet (Carbidopa and Levodopa) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA017555"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "SINEMET"
+      ],
+      "first_posted": "2009-02-20",
+      "found_by": "SINEMET",
+      "labeler": "Bristol-Myers Squibb Pharma Company",
+      "labeler_unverified": true,
+      "last_posted": "2011-04-11",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2012-09-30",
+        "2013-09-30",
+        "2014-05-18"
+      ],
+      "product_ndcs": [
+        "0056-0647",
+        "0056-0650",
+        "0056-0654"
+      ],
+      "rxcui": [],
+      "setid": "c4877476-24ca-31d3-9392-ea14e2f929b8",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "9b17b028-964a-473c-823d-81423535bd66"
+      ],
+      "title": "SINEMET (carbidopa and levodopa) tablet"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": true,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "48e0f2ec-b217-4c25-a71c-20e173d05edb"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a85a56c5-44dd-41d4-ac1c-bdc4758406a4"
+    },
+    {
+      "combination": true,
+      "labeler": "ScieGen Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a32afa84-7bc0-4bd3-bc50-55d738f3d7ce"
+    },
+    {
+      "combination": true,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2f8e82d7-6baf-456a-b8c3-4fda6e317902"
+    },
+    {
+      "combination": true,
+      "labeler": "ScieGen Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1b17ab1e-f3c1-4343-ba28-e2901cd97d43"
+    },
+    {
+      "combination": true,
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4ace5274-b6cf-414c-b9c0-f60e28a9cea5"
+    },
+    {
+      "combination": true,
+      "labeler": "Advagen Pharma Ltd.,",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9e3c796b-2e68-4bcc-b927-18a58bea4703"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4ced8a05-27ac-463f-b331-387e473fdaa1"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0eb24333-3c11-41dd-888d-3a30d3c9d188"
+    },
+    {
+      "combination": true,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f0d9d7a8-1d06-4119-b2bc-42b3ec08d45b"
+    },
+    {
+      "combination": true,
+      "labeler": "Dr. Reddy's Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "87ab55c9-203d-d595-3e3e-0e38f2f6d9c4"
+    },
+    {
+      "combination": true,
+      "labeler": "Advagen Pharma Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5b6519ff-d1af-402b-83eb-b4fce6743a18"
+    },
+    {
+      "combination": true,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "302bfe03-d222-4a87-80ff-f2dbfb9a07f4"
+    },
+    {
+      "combination": true,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "770ba054-fec4-4833-8096-85c3ce3ae830"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9d4e886e-edec-471d-b619-bf4828a6b7ce"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ac18e5fa-e2ee-4aa5-8d0f-94b63a076e66"
+    },
+    {
+      "combination": true,
+      "labeler": "Westminster Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3f026272-32a6-4c98-8b6f-d910c7f58aa2"
+    },
+    {
+      "combination": true,
+      "labeler": "TruPharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d1bb319b-82a3-4b66-9cdc-f77fdb8383ce"
+    },
+    {
+      "combination": true,
+      "labeler": "Radha Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "33a22ffe-0d41-162d-e063-6394a90a43d3"
+    },
+    {
+      "combination": true,
+      "labeler": "XLCare Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0c630a24-dc51-4601-a5d6-2f9e397a0449"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9ff83838-b7d0-4eec-98f2-fcc85789a189"
+    }
+  ]
+}

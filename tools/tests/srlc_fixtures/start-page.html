@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><title>Drug Safety-related Labeling Changes (SrLC)</title></head>
+<body>
+<h1 class="content-title text-center">Drug Safety-related Labeling Changes (SrLC)</h1>
+<h3 id="slc-guide-title">Drug Safety-related Labeling Changes (SrLC) Database</h3>
+<form name="dateForm" method="post" action="index.cfm?event=searchResult.page">
+  <label for="date_range_from">From</label>
+  <input type="text" name="date_range_from" id="date_range_from" value="">
+  <label for="date_range_to">To</label>
+  <input type="text" name="date_range_to" id="date_range_to" value="">
+  <input type="checkbox" name="section" value="BW" checked> Boxed Warning
+  <input type="checkbox" name="section" value="C" checked> Contraindications
+  <input type="checkbox" name="section" value="WP" checked> Warnings and Precautions
+  <input type="checkbox" name="section" value="AR" checked> Adverse Reactions
+  <input type="checkbox" name="section" value="DI" checked> Drug Interactions
+  <input type="checkbox" name="section" value="USP" checked> Use in Specific Populations
+  <input type="checkbox" name="section" value="MG" checked> PCI/PI/MG
+  <input type="submit" name="Datesearch" value="Search">
+</form>
+</body>
+</html>

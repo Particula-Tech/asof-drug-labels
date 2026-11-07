@@ -1,0 +1,849 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand Cialis",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000436",
+      "eu_number": "EU/1/02/237",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000436",
+      "mah": "Eli Lilly Nederland B.V.",
+      "marketing_authorisation_date": "2002-11-12",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/cialis",
+      "name": "Cialis",
+      "record_from": "2002-11-12",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 34
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/001021",
+      "eu_number": "EU/1/08/476",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-001021",
+      "mah": "Eli Lilly Nederland B.V.",
+      "marketing_authorisation_date": "2008-10-01",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/adcirca",
+      "name": "Adcirca (previously Tadalafil Lilly)",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/003787",
+      "eu_number": "EU/1/14/961",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-003787",
+      "mah": "Mylan Pharmaceuticals Limited",
+      "marketing_authorisation_date": "2014-11-21",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tadalafil-mylan",
+      "name": "Tadalafil Mylan",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/004297",
+      "eu_number": "EU/1/16/1153",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-004297",
+      "mah": "Viatris Limited",
+      "marketing_authorisation_date": "2017-01-09",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/talmanco",
+      "name": "Talmanco (previously Tadalafil Generics)",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/004666",
+      "eu_number": "EU/1/17/1177",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-004666",
+      "mah": "Eli Lilly Nederland B.V.",
+      "marketing_authorisation_date": "2017-03-22",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tadalafil-lilly",
+      "name": "Tadalafil Lilly",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 1,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000436",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "TADALAFIL"
+  ],
+  "inn": "tadalafil",
+  "name": "TADALAFIL",
+  "rank": 49,
+  "rxcui": [
+    "402019",
+    "402096",
+    "402097",
+    "403957",
+    "404711",
+    "484814",
+    "757707",
+    "849866",
+    "2123194",
+    "2613563",
+    "2613569",
+    "2677765",
+    "2677771",
+    "2677773",
+    "2677775"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 49,
+    "approval_holders": 37,
+    "earliest_marketing_start": "2003-11-26",
+    "latest_label_update": "2026-10-28",
+    "nda_bla_applications": 4,
+    "repackagers": 14
+  },
+  "unii": [
+    {
+      "ingredient": "TADALAFIL",
+      "unii": "742SXX0ICT"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021368"
+      ],
+      "brand_names": [
+        "Cialis"
+      ],
+      "combination": false,
+      "home_inn": "tadalafil",
+      "ingredients": [
+        "TADALAFIL"
+      ],
+      "labeler": "Eli Lilly and Company",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2003-11-26",
+      "moieties": [
+        "TADALAFIL"
+      ],
+      "product_ndcs": [
+        "0002-4462",
+        "0002-4463",
+        "0002-4464"
+      ],
+      "rxcui": [
+        "402019",
+        "402096",
+        "402097",
+        "403957",
+        "404711",
+        "484814"
+      ],
+      "setid": "bcd8f8ab-81a2-4891-83db-24a0b0e25895",
+      "source": "openfda",
+      "spl_version": 52,
+      "title": "CIALIS (TADALAFIL) TABLET, FILM COATED [ELI LILLY AND COMPANY]",
+      "upload_date": "2026-06-10"
+    },
+    {
+      "application_numbers": [
+        "NDA022332"
+      ],
+      "brand_names": [
+        "ADCIRCA"
+      ],
+      "combination": false,
+      "home_inn": "tadalafil",
+      "ingredients": [
+        "TADALAFIL"
+      ],
+      "labeler": "United Therapeutics Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2009-05-22",
+      "moieties": [
+        "TADALAFIL"
+      ],
+      "product_ndcs": [
+        "66302-467"
+      ],
+      "rxcui": [
+        "849866",
+        "2123194"
+      ],
+      "setid": "ff61b237-be8e-461b-8114-78c52a8ad0ae",
+      "source": "openfda",
+      "spl_version": 34,
+      "title": "ADCIRCA (TADALAFIL) TABLET [UNITED THERAPEUTICS CORPORATION]",
+      "upload_date": "2025-12-16"
+    },
+    {
+      "application_numbers": [
+        "NDA214522"
+      ],
+      "brand_names": [
+        "TADLIQ"
+      ],
+      "combination": false,
+      "home_inn": "tadalafil",
+      "ingredients": [
+        "TADALAFIL"
+      ],
+      "labeler": "CMP Pharma, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-08-30",
+      "moieties": [
+        "TADALAFIL"
+      ],
+      "product_ndcs": [
+        "46287-045"
+      ],
+      "rxcui": [
+        "2613563",
+        "2613569"
+      ],
+      "setid": "7a909b25-3772-403e-a5fe-e4a040293fb7",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "TADLIQ (TADALAFIL) SUSPENSION [CMP PHARMA, INC.]",
+      "upload_date": "2025-12-24"
+    },
+    {
+      "application_numbers": [
+        "NDA218490"
+      ],
+      "brand_names": [
+        "OPSYNVI"
+      ],
+      "combination": true,
+      "home_inn": "tadalafil",
+      "ingredients": [
+        "MACITENTAN",
+        "TADALAFIL"
+      ],
+      "labeler": "Actelion Pharmaceuticals US, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-03-22",
+      "moieties": [
+        "MACITENTAN",
+        "TADALAFIL"
+      ],
+      "product_ndcs": [
+        "66215-812",
+        "66215-814"
+      ],
+      "rxcui": [
+        "2677765",
+        "2677771",
+        "2677773",
+        "2677775"
+      ],
+      "setid": "6945b183-18d3-40de-afd1-c88e33cc1a63",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "OPSYNVI (MACITENTAN AND TADALAFIL) TABLET, FILM COATED [ACTELION PHARMACEUTICALS US, INC.]",
+      "upload_date": "2025-04-14"
+    },
+    {
+      "application_numbers": [
+        "ANDA210145"
+      ],
+      "brand_names": [
+        "Tadalafil"
+      ],
+      "combination": false,
+      "home_inn": "tadalafil",
+      "ingredients": [
+        "TADALAFIL"
+      ],
+      "labeler": "Dr.Reddys Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-02-05",
+      "moieties": [
+        "TADALAFIL"
+      ],
+      "product_ndcs": [
+        "43598-578"
+      ],
+      "rxcui": [
+        "2123194"
+      ],
+      "setid": "61955171-ca57-e300-1983-9472a56ca976",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "TADALAFIL TABLET, FILM COATED [DR.REDDYS LABORATORIES INC]",
+      "upload_date": "2020-12-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA206286"
+      ],
+      "brand_names": [
+        "Tadalafil"
+      ],
+      "combination": false,
+      "home_inn": "tadalafil",
+      "ingredients": [
+        "TADALAFIL"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-02-05",
+      "moieties": [
+        "TADALAFIL"
+      ],
+      "product_ndcs": [
+        "65862-880"
+      ],
+      "rxcui": [
+        "2123194"
+      ],
+      "setid": "a0ecc7cf-20dd-485a-b4dd-1bbc587280a7",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "TADALAFIL TABLET [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2024-06-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA210255"
+      ],
+      "brand_names": [
+        "Tadalafil"
+      ],
+      "combination": false,
+      "home_inn": "tadalafil",
+      "ingredients": [
+        "TADALAFIL"
+      ],
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-02-05",
+      "moieties": [
+        "TADALAFIL"
+      ],
+      "product_ndcs": [
+        "69097-526"
+      ],
+      "rxcui": [
+        "2123194"
+      ],
+      "setid": "cf6fc925-ad20-4ed0-9356-15d24afa8d0b",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "TADALAFIL TABLET, FILM COATED [CIPLA USA INC.]",
+      "upload_date": "2020-10-27"
+    },
+    {
+      "application_numbers": [
+        "ANDA209907"
+      ],
+      "brand_names": [
+        "Tadalafil"
+      ],
+      "combination": false,
+      "home_inn": "tadalafil",
+      "ingredients": [
+        "TADALAFIL"
+      ],
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-02-05",
+      "moieties": [
+        "TADALAFIL"
+      ],
+      "product_ndcs": [
+        "31722-647"
+      ],
+      "rxcui": [
+        "2123194"
+      ],
+      "setid": "dc0a6a03-5ef1-4507-b888-5b559653c3e9",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "TADALAFIL (TADALAFIL) TABLET [CAMBER PHARMACEUTICALS, INC.]",
+      "upload_date": "2023-11-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA210572"
+      ],
+      "brand_names": [
+        "Tadalafil"
+      ],
+      "combination": false,
+      "home_inn": "tadalafil",
+      "ingredients": [
+        "TADALAFIL"
+      ],
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-02-11",
+      "moieties": [
+        "TADALAFIL"
+      ],
+      "product_ndcs": [
+        "68180-914"
+      ],
+      "rxcui": [
+        "2123194"
+      ],
+      "setid": "efa03afa-c412-4b31-bf26-7c3a6f7311af",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "TADALAFIL TABLET, FILM COATED [LUPIN PHARMACEUTICALS, INC.]",
+      "upload_date": "2023-12-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA206285"
+      ],
+      "brand_names": [
+        "Tadalafil"
+      ],
+      "combination": false,
+      "home_inn": "tadalafil",
+      "ingredients": [
+        "TADALAFIL"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-03-26",
+      "moieties": [
+        "TADALAFIL"
+      ],
+      "product_ndcs": [
+        "65862-850",
+        "65862-851",
+        "65862-852",
+        "65862-853"
+      ],
+      "rxcui": [
+        "402019",
+        "403957",
+        "484814",
+        "757707"
+      ],
+      "setid": "0345b81b-f946-4dd6-b49d-2a2bdd4c49c9",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "TADALAFIL TABLET, FILM COATED [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2024-05-29"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "168a135b-1454-4def-9b03-c9a470bfcb5f"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr.Reddys Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "22b8a2e3-d1b8-f193-45fa-77cc62a1b941"
+    },
+    {
+      "combination": false,
+      "labeler": "Torrent Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3ea7612b-b004-43ef-accc-34c8ec5146b8"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "741102c1-8809-44d4-9098-3dc8c0604764"
+    },
+    {
+      "combination": false,
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7e4cdac1-42cc-4038-a86b-4890962ed806"
+    },
+    {
+      "combination": false,
+      "labeler": "Torrent Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "88132351-7fee-47ef-8007-ef2777543299"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a3892605-4eb1-4d6e-a675-f7f7d4302f38"
+    },
+    {
+      "combination": false,
+      "labeler": "Unichem Pharmaceuticals (USA), Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a7b3937e-ff03-436a-a5d4-92a4771034b6"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2cad2167-dbd1-4df8-b407-b270487d027b"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6c1c3a1f-80a4-417c-8830-5edbb9a0710f"
+    },
+    {
+      "combination": false,
+      "labeler": "HEC Pharm USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a0f728b6-2cc6-cb65-e053-2a95a90ab142"
+    },
+    {
+      "combination": false,
+      "labeler": "Accord Healthcare Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "eedf3ad9-7d40-496d-b1a9-6200010c18e1"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4348b7db-e5b2-4e87-8cdd-674797a18890"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "93dd604f-8f38-4600-afe8-0fcc92fd2497"
+    },
+    {
+      "combination": false,
+      "labeler": "Bostal LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "78509a43-a907-4359-9022-f38c4f765880"
+    },
+    {
+      "combination": false,
+      "labeler": "NIVAGEN PHARMACEUTICALS, INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ca1d46e3-ad9b-48c7-bb7f-63ee678ccf7a"
+    },
+    {
+      "combination": false,
+      "labeler": "Solco Healthcare US, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9489b635-385e-4a05-be02-df39fcafebe3"
+    },
+    {
+      "combination": false,
+      "labeler": "VKT Pharma Private Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b4d9851c-5c06-4532-bd82-16d92b60c28f"
+    },
+    {
+      "combination": false,
+      "labeler": "Qilu Pharmaceutical Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f295f164-78fb-4224-b319-9f20b7a453b5"
+    },
+    {
+      "combination": false,
+      "labeler": "Solco Healthcare US, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "05640a4d-afb7-42ae-a5bb-77dbc8412356"
+    },
+    {
+      "combination": false,
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fceb8aaf-b4eb-4004-8ca4-f004eac6b314"
+    },
+    {
+      "combination": false,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1dace1e7-c617-492f-bb0d-141bf4e673db"
+    },
+    {
+      "combination": false,
+      "labeler": "Teva Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3ad14d63-42e7-493f-b56c-e02a4fd139f7"
+    },
+    {
+      "combination": false,
+      "labeler": "Teva Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2faa7a55-3054-456b-8465-6ea6dc1c0aa9"
+    },
+    {
+      "combination": false,
+      "labeler": "FOURRTS (INDIA) LABORATORIES PRIVATE LIMITED",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0ea97208-5afc-4943-b35c-ea850203a794"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "abcb2cda-9b3f-45f6-ad5f-c2370b0dd114"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "90f38460-62ad-492e-a3da-403d5a5a5d86"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cfe43ab8-8721-4db8-8810-f0072cf8f4d3"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "594acc15-a5bc-43b5-9659-a864b2c46eea"
+    },
+    {
+      "combination": false,
+      "labeler": "AvKARE",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b96ae7f1-7d4a-a211-e053-2995a90ab6e2"
+    },
+    {
+      "combination": false,
+      "labeler": "Solco Healthcare US, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "491cb72b-71f2-4df9-99f8-c02d93500103"
+    },
+    {
+      "combination": false,
+      "labeler": "Burel Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a2e7f393-5cfc-45e5-b87d-9e8abc8e4355"
+    },
+    {
+      "combination": false,
+      "labeler": "Quallent Pharmaceuticals Health LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "84cb16c8-30ab-49f2-a6df-ec3c97bf6284"
+    },
+    {
+      "combination": false,
+      "labeler": "Quallent Pharmaceuticals Health LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dc14daa3-cae9-4751-9034-b0e9c18054b4"
+    },
+    {
+      "combination": false,
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ae801b15-0462-44af-99a4-affe3eed899a"
+    },
+    {
+      "combination": false,
+      "labeler": "XLCare Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "add6afb8-d38c-47a2-8c35-d5940667bb0c"
+    },
+    {
+      "combination": false,
+      "labeler": "AvKARE",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3c1c2136-099f-6232-e063-6294a90a6975"
+    },
+    {
+      "combination": false,
+      "labeler": "Umedica Laboratories USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6caf3b55-9bf4-4355-9e25-8bf368943fdd"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a10d464a-6ea7-4e5a-befa-71eceacc5039"
+    }
+  ]
+}

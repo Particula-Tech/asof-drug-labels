@@ -1,0 +1,607 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "HALOBETASOL PROPIONATE"
+  ],
+  "inn": "halobetasol",
+  "name": "HALOBETASOL",
+  "rank": 306,
+  "rxcui": [
+    "977978",
+    "977990",
+    "1789962",
+    "1790329",
+    "2101710",
+    "2101715",
+    "2166089",
+    "2166094"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 12,
+    "approval_holders": 8,
+    "earliest_marketing_start": "2005-06-14",
+    "latest_label_update": "2026-07-06",
+    "nda_bla_applications": 3,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "HALOBETASOL PROPIONATE",
+      "unii": "91A0K1TY3Z"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA209355"
+      ],
+      "brand_names": [
+        "Bryhali"
+      ],
+      "combination": false,
+      "home_inn": "halobetasol",
+      "ingredients": [
+        "HALOBETASOL PROPIONATE"
+      ],
+      "labeler": "Bausch Health US, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-11-06",
+      "moieties": [
+        "HALOBETASOL"
+      ],
+      "product_ndcs": [
+        "0187-0002"
+      ],
+      "rxcui": [
+        "2101710",
+        "2101715"
+      ],
+      "setid": "d4bbb66a-3f9d-4091-b1b0-1cbc908432d3",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "BRYHALI (HALOBETASOL PROPIONATE) LOTION [BAUSCH HEALTH US, LLC]",
+      "upload_date": "2020-08-05"
+    },
+    {
+      "application_numbers": [
+        "NDA208183"
+      ],
+      "brand_names": [
+        "ULTRAVATE"
+      ],
+      "combination": false,
+      "home_inn": "halobetasol",
+      "ingredients": [
+        "HALOBETASOL PROPIONATE"
+      ],
+      "labeler": "Lacer Pharma, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-04-06",
+      "moieties": [
+        "HALOBETASOL"
+      ],
+      "product_ndcs": [
+        "73159-008"
+      ],
+      "rxcui": [
+        "1789962",
+        "1790329"
+      ],
+      "setid": "74e899db-1c1f-48b2-9913-5d32a14906ae",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "ULTRAVATE (HALOBETASOL PROPIONATE) LOTION [LACER PHARMA, LLC]",
+      "upload_date": "2025-04-30"
+    },
+    {
+      "application_numbers": [
+        "NDA209354"
+      ],
+      "brand_names": [
+        "Duobrii"
+      ],
+      "combination": true,
+      "home_inn": "tazarotene",
+      "ingredients": [
+        "HALOBETASOL PROPIONATE",
+        "TAZAROTENE"
+      ],
+      "labeler": "Bausch Health US, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2019-04-25",
+      "moieties": [
+        "HALOBETASOL",
+        "TAZAROTENE"
+      ],
+      "product_ndcs": [
+        "0187-0653"
+      ],
+      "rxcui": [
+        "2166089",
+        "2166094"
+      ],
+      "setid": "b3f0cdc0-69fd-43d1-baf2-d776a3a20715",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "DUOBRII (HALOBETASOL PROPIONATE AND TAZAROTENE) LOTION [BAUSCH HEALTH US, LLC]",
+      "upload_date": "2023-04-25"
+    },
+    {
+      "application_numbers": [
+        "NDA208183"
+      ],
+      "brand_names": [
+        "Halobetasol Propionate"
+      ],
+      "combination": false,
+      "home_inn": "halobetasol",
+      "ingredients": [
+        "HALOBETASOL PROPIONATE"
+      ],
+      "labeler": "Coral Way Pharma, LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2026-03-10",
+      "moieties": [
+        "HALOBETASOL"
+      ],
+      "product_ndcs": [
+        "85437-008"
+      ],
+      "rxcui": [
+        "1789962"
+      ],
+      "setid": "4cb1f7b3-c412-6fc7-e063-6394a90a63c9",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "HALOBETASOL PROPIONATE LOTION [CORAL WAY PHARMA, LLC]",
+      "upload_date": "2026-06-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA077109"
+      ],
+      "brand_names": [
+        "Halobetasol Propionate"
+      ],
+      "combination": false,
+      "home_inn": "halobetasol",
+      "ingredients": [
+        "HALOBETASOL PROPIONATE"
+      ],
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2005-06-14",
+      "moieties": [
+        "HALOBETASOL"
+      ],
+      "product_ndcs": [
+        "0713-0339"
+      ],
+      "rxcui": [
+        "977978"
+      ],
+      "setid": "f12ff257-dd77-4f9c-97c4-339784772d9f",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "HALOBETASOL PROPIONATE OINTMENT [COSETTE PHARMACEUTICALS, INC.]",
+      "upload_date": "2024-04-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA078162"
+      ],
+      "brand_names": [
+        "Halobetasol Propionate"
+      ],
+      "combination": false,
+      "home_inn": "halobetasol",
+      "ingredients": [
+        "HALOBETASOL PROPIONATE"
+      ],
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2007-07-16",
+      "moieties": [
+        "HALOBETASOL"
+      ],
+      "product_ndcs": [
+        "0713-0640"
+      ],
+      "rxcui": [
+        "977990"
+      ],
+      "setid": "1f57aaae-8d5f-bfdf-08d6-495b84221311",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "HALOBETASOL PROPIONATE CREAM [COSETTE PHARMACEUTICALS, INC.]",
+      "upload_date": "2023-11-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA077123"
+      ],
+      "brand_names": [
+        "Halobetasol Propionate"
+      ],
+      "combination": false,
+      "home_inn": "halobetasol",
+      "ingredients": [
+        "HALOBETASOL PROPIONATE"
+      ],
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2008-08-04",
+      "moieties": [
+        "HALOBETASOL"
+      ],
+      "product_ndcs": [
+        "45802-129"
+      ],
+      "rxcui": [
+        "977990"
+      ],
+      "setid": "df26430c-8182-4d03-a254-06d913de4c95",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "HALOBETASOL PROPIONATE CREAM [PADAGIS ISRAEL PHARMACEUTICALS LTD]",
+      "upload_date": "2024-01-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA076872"
+      ],
+      "brand_names": [
+        "Halobetasol Propionate"
+      ],
+      "combination": false,
+      "home_inn": "halobetasol",
+      "ingredients": [
+        "HALOBETASOL PROPIONATE"
+      ],
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-02-05",
+      "moieties": [
+        "HALOBETASOL"
+      ],
+      "product_ndcs": [
+        "45802-131"
+      ],
+      "rxcui": [
+        "977978"
+      ],
+      "setid": "c420da92-a3e3-4760-8cad-e50cbacebfeb",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "HALOBETASOL PROPIONATE OINTMENT [PADAGIS ISRAEL PHARMACEUTICALS LTD]",
+      "upload_date": "2024-02-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA213560"
+      ],
+      "brand_names": [
+        "Halobetasol Propionate"
+      ],
+      "combination": false,
+      "home_inn": "halobetasol",
+      "ingredients": [
+        "HALOBETASOL PROPIONATE"
+      ],
+      "labeler": "QUAGEN PHARMACEUTICALS LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-10-06",
+      "moieties": [
+        "HALOBETASOL"
+      ],
+      "product_ndcs": [
+        "70752-119"
+      ],
+      "rxcui": [
+        "977978"
+      ],
+      "setid": "fd4ebec1-e5ba-46cc-9627-4645a7b3bf19",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "HALOBETASOL PROPIONATE OINTMENT [QUAGEN PHARMACEUTICALS LLC]",
+      "upload_date": "2023-02-03"
+    },
+    {
+      "application_numbers": [
+        "NDA019967",
+        "NDA019968"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "ULTRAVATE"
+      ],
+      "first_posted": "2009-09-25",
+      "found_by": "ULTRAVATE",
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2012-06-11",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-06-30"
+      ],
+      "product_ndcs": [
+        "10631-102",
+        "10631-103"
+      ],
+      "rxcui": [],
+      "setid": "0a62f646-5c92-4cec-b50a-6b61ea83abcb",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ULTRAVATE (halobetasol propionate) ointment"
+    },
+    {
+      "application_numbers": [
+        "NDA208183"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "ULTRAVATE"
+      ],
+      "first_posted": "2016-03-01",
+      "found_by": "ULTRAVATE",
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2025-01-20",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-04-30"
+      ],
+      "product_ndcs": [
+        "10631-122"
+      ],
+      "rxcui": [],
+      "setid": "0d563d44-17fd-4976-9f2c-f1d509f29587",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "4cb1f7b3-c412-6fc7-e063-6394a90a63c9",
+        "74e899db-1c1f-48b2-9913-5d32a14906ae"
+      ],
+      "title": "ULTRAVATE (halobetasol propionate) lotion"
+    },
+    {
+      "application_numbers": [
+        "NDA019968"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "ULTRAVATE"
+      ],
+      "first_posted": "2009-12-11",
+      "found_by": "ULTRAVATE",
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2018-03-02",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2008-05-13"
+      ],
+      "product_ndcs": [
+        "10631-110"
+      ],
+      "rxcui": [],
+      "setid": "736c1976-7448-4d04-8ca7-9455e4db96e8",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ULTRAVATE PAC (halobetasol propionate) ointment"
+    },
+    {
+      "application_numbers": [
+        "NDA019968"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "ULTRAVATE"
+      ],
+      "first_posted": "2007-11-30",
+      "found_by": "ULTRAVATE",
+      "labeler": "Bristol-Myers Squibb Pharma Company",
+      "labeler_unverified": true,
+      "last_posted": "2013-10-18",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2009-12-31"
+      ],
+      "product_ndcs": [
+        "0072-1450"
+      ],
+      "rxcui": [],
+      "setid": "93339b03-114c-837d-32a8-40b6f1eb71d7",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ULTRAVATE (halobetasol propionate) ointment"
+    },
+    {
+      "application_numbers": [
+        "NDA019967",
+        "NDA020508"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "ULTRAVATE"
+      ],
+      "first_posted": "2012-10-24",
+      "found_by": "ULTRAVATE",
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2020-01-21",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-08-31"
+      ],
+      "product_ndcs": [
+        "10631-103",
+        "10631-114",
+        "10631-121"
+      ],
+      "rxcui": [],
+      "setid": "b73836e9-7ccc-41bb-b4ef-65ad2d865085",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ULTRAVATE X (halobetasol propionate) kit"
+    },
+    {
+      "application_numbers": [
+        "NDA019967"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "ULTRAVATE"
+      ],
+      "first_posted": "2010-02-18",
+      "found_by": "ULTRAVATE",
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2018-03-02",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2010-02-10"
+      ],
+      "product_ndcs": [
+        "10631-113"
+      ],
+      "rxcui": [],
+      "setid": "cb350e8e-7e2e-4277-ba62-351df757f6ab",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ULTRAVATE PAC-CREAM (halobetasol propionate) cream"
+    },
+    {
+      "application_numbers": [
+        "NDA210566"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "LEXETTE"
+      ],
+      "first_posted": "2019-04-25",
+      "found_by": "LEXETTE",
+      "labeler": "Mayne Pharma",
+      "labeler_unverified": false,
+      "last_posted": "2026-01-16",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-09-30"
+      ],
+      "product_ndcs": [
+        "51862-604"
+      ],
+      "rxcui": [],
+      "setid": "d5d0d307-37ad-4714-ba3f-5343672bc0e7",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "LEXETTE (halobetasol propionate) aerosol, foam"
+    },
+    {
+      "application_numbers": [
+        "NDA019967"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "ULTRAVATE"
+      ],
+      "first_posted": "2009-09-25",
+      "found_by": "ULTRAVATE",
+      "labeler": "Ranbaxy Laboratories Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2011-07-06",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "10631-103"
+      ],
+      "rxcui": [],
+      "setid": "f1b22c22-6ee4-4e3e-8de4-8627a8c4c368",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ULTRAVATE (halobetasol propionate) cream"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Mayne Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "24c41e6d-a314-4984-b45f-e5aa1fffa9b6"
+    },
+    {
+      "combination": false,
+      "labeler": "Encube Ethicals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d4f03a79-3d5e-4a39-8ab0-8ebd3d804e39"
+    },
+    {
+      "combination": false,
+      "labeler": "Mayne Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8aa1f819-c81f-4af1-aaa7-353df3203ff6"
+    }
+  ]
+}

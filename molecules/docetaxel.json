@@ -1,0 +1,956 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand TAXOTERE",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000073",
+      "eu_number": "EU/1/95/002",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000073",
+      "mah": "Sanofi Winthrop Industrie",
+      "marketing_authorisation_date": "1995-11-27",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/taxotere",
+      "name": "Taxotere",
+      "record_from": "1996-10-07",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 48
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/002325",
+      "eu_number": "EU/1/12/770",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-002325",
+      "mah": "Fresenius Kabi Deutschland GmbH",
+      "marketing_authorisation_date": "2012-05-22",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/docetaxel-kabi",
+      "name": "Docetaxel Kabi",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/002539",
+      "eu_number": "EU/1/12/769",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-002539",
+      "mah": "Accord Healthcare S.L.U.",
+      "marketing_authorisation_date": "2012-05-22",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/docetaxel-accord",
+      "name": "Docetaxel Accord",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000073",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "DOCETAXEL",
+    "DOCETAXEL ANHYDROUS"
+  ],
+  "inn": "docetaxel",
+  "name": "DOCETAXEL",
+  "rank": 70,
+  "rxcui": [
+    "1001405",
+    "1093280",
+    "1860480",
+    "1860485",
+    "1860619",
+    "1861411",
+    "2679779",
+    "2679784",
+    "2679786",
+    "2679787",
+    "2679788",
+    "2697044",
+    "2728902"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 32,
+    "approval_holders": 22,
+    "earliest_marketing_start": "2010-10-21",
+    "latest_label_update": "2026-10-21",
+    "nda_bla_applications": 7,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "DOCETAXEL",
+      "unii": "15H5577CQD"
+    },
+    {
+      "ingredient": "DOCETAXEL ANHYDROUS",
+      "unii": "699121PHCA"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA022234"
+      ],
+      "brand_names": [
+        "Docetaxel"
+      ],
+      "combination": false,
+      "home_inn": "docetaxel",
+      "ingredients": [
+        "DOCETAXEL ANHYDROUS"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2011-03-17",
+      "moieties": [
+        "DOCETAXEL"
+      ],
+      "product_ndcs": [
+        "0409-0201"
+      ],
+      "rxcui": [
+        "1093280",
+        "1860619"
+      ],
+      "setid": "a0ec4bcc-93ea-4c41-a4b6-95ec19491807",
+      "source": "openfda",
+      "spl_version": 45,
+      "title": "DOCETAXEL (DOCETAXEL ANHYDROUS) INJECTION, SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2024-09-10"
+    },
+    {
+      "application_numbers": [
+        "NDA201525"
+      ],
+      "brand_names": [
+        "Docetaxel"
+      ],
+      "combination": false,
+      "home_inn": "docetaxel",
+      "ingredients": [
+        "DOCETAXEL"
+      ],
+      "labeler": "Sandoz Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2011-06-29",
+      "moieties": [
+        "DOCETAXEL"
+      ],
+      "product_ndcs": [
+        "66758-050"
+      ],
+      "rxcui": [
+        "1093280"
+      ],
+      "setid": "e03d1378-6889-43d5-a34c-f96132cffa88",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "DOCETAXEL INJECTION, SOLUTION [SANDOZ INC.]",
+      "upload_date": "2024-08-30"
+    },
+    {
+      "application_numbers": [
+        "NDA201195"
+      ],
+      "brand_names": [
+        "DOCETAXEL"
+      ],
+      "combination": false,
+      "home_inn": "docetaxel",
+      "ingredients": [
+        "DOCETAXEL ANHYDROUS"
+      ],
+      "labeler": "Accord Healthcare Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2013-05-30",
+      "moieties": [
+        "DOCETAXEL"
+      ],
+      "product_ndcs": [
+        "16729-267"
+      ],
+      "rxcui": [
+        "1001405"
+      ],
+      "setid": "f59f7811-70b7-4c44-99f7-4f4fdce3ed22",
+      "source": "openfda",
+      "spl_version": 20,
+      "title": "DOCETAXEL INJECTION, SOLUTION, CONCENTRATE DOCETAXEL INJECTION, SOLUTION, CONCENTRATE [ACCORD HEALTHCARE INC.]",
+      "upload_date": "2024-08-16"
+    },
+    {
+      "application_numbers": [
+        "NDA203551"
+      ],
+      "brand_names": [
+        "Docetaxel"
+      ],
+      "combination": false,
+      "home_inn": "docetaxel",
+      "ingredients": [
+        "DOCETAXEL"
+      ],
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2014-09-01",
+      "moieties": [
+        "DOCETAXEL"
+      ],
+      "product_ndcs": [
+        "45963-734",
+        "45963-765"
+      ],
+      "rxcui": [
+        "1860480",
+        "1860485"
+      ],
+      "setid": "2c806400-5fdc-4398-8475-37f700b3191f",
+      "source": "openfda",
+      "spl_version": 52,
+      "title": "DOCETAXEL INJECTION, SOLUTION, CONCENTRATE [ACTAVIS PHARMA, INC.]",
+      "upload_date": "2024-09-10"
+    },
+    {
+      "application_numbers": [
+        "NDA022534"
+      ],
+      "brand_names": [
+        "Docetaxel"
+      ],
+      "combination": false,
+      "home_inn": "docetaxel",
+      "ingredients": [
+        "DOCETAXEL ANHYDROUS"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2020-11-26",
+      "moieties": [
+        "DOCETAXEL"
+      ],
+      "product_ndcs": [
+        "47335-323",
+        "47335-895",
+        "47335-939"
+      ],
+      "rxcui": [
+        "1860480",
+        "1860485",
+        "1861411"
+      ],
+      "setid": "c85b2c62-3c33-4cbc-8b79-d5e17851a1b4",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "DOCETAXEL INJECTION, SOLUTION [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2021-02-05"
+    },
+    {
+      "application_numbers": [
+        "NDA215813"
+      ],
+      "brand_names": [
+        "DOCIVYX"
+      ],
+      "combination": false,
+      "home_inn": "docetaxel",
+      "ingredients": [
+        "DOCETAXEL"
+      ],
+      "labeler": "Avyxa Pharma, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-05-09",
+      "moieties": [
+        "DOCETAXEL"
+      ],
+      "product_ndcs": [
+        "83831-101",
+        "83831-102",
+        "83831-103"
+      ],
+      "rxcui": [
+        "1860619",
+        "2679779",
+        "2679784",
+        "2679786",
+        "2679787",
+        "2679788"
+      ],
+      "setid": "4763744e-360e-4d37-be05-cce4114548cd",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "DOCIVYX (DOCETAXEL) INJECTION, SOLUTION [AVYXA PHARMA, LLC]",
+      "upload_date": "2025-07-16"
+    },
+    {
+      "application_numbers": [
+        "NDA218711"
+      ],
+      "brand_names": [
+        "BEIZRAY"
+      ],
+      "combination": false,
+      "home_inn": "docetaxel",
+      "ingredients": [
+        "DOCETAXEL ANHYDROUS"
+      ],
+      "labeler": "Zhuhai Beihai Biotech Co., Ltd.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-10-23",
+      "moieties": [
+        "DOCETAXEL"
+      ],
+      "product_ndcs": [
+        "83513-008",
+        "83513-009"
+      ],
+      "rxcui": [
+        "1860480",
+        "1860485",
+        "2697044",
+        "2728902"
+      ],
+      "setid": "3538b979-8cac-49ed-b8dc-50f73ce38c72",
+      "source": "dailymed-title-match",
+      "spl_version": 13,
+      "title": "BEIZRAY (DOCETAXEL) INJECTION, SOLUTION [ZHUHAI BEIHAI BIOTECH CO., LTD.]",
+      "upload_date": "2026-10-21"
+    },
+    {
+      "application_numbers": [
+        "NDA022234"
+      ],
+      "brand_names": [
+        "Docetaxel"
+      ],
+      "combination": false,
+      "home_inn": "docetaxel",
+      "ingredients": [
+        "DOCETAXEL"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2016-08-24",
+      "moieties": [
+        "DOCETAXEL"
+      ],
+      "product_ndcs": [
+        "0409-0366",
+        "0409-0367",
+        "0409-0368"
+      ],
+      "rxcui": [
+        "1001405",
+        "1860480"
+      ],
+      "setid": "3104aab1-cd6e-4ad2-8e0a-286a0c5d1940",
+      "source": "openfda",
+      "spl_version": 24,
+      "title": "DOCETAXEL INJECTION, SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2024-10-25"
+    },
+    {
+      "application_numbers": [
+        "NDA201525"
+      ],
+      "brand_names": [
+        "Docetaxel"
+      ],
+      "combination": false,
+      "home_inn": "docetaxel",
+      "ingredients": [
+        "DOCETAXEL"
+      ],
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-02-19",
+      "moieties": [
+        "DOCETAXEL"
+      ],
+      "product_ndcs": [
+        "43066-001",
+        "43066-006",
+        "43066-010"
+      ],
+      "rxcui": [
+        "1093280"
+      ],
+      "setid": "0e0f06bd-d190-45da-be8b-062e8de01970",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "DOCETAXEL INJECTION, SOLUTION [BAXTER HEALTHCARE CORPORATION]",
+      "upload_date": "2024-08-29"
+    },
+    {
+      "application_numbers": [
+        "NDA022234"
+      ],
+      "brand_names": [
+        "Docetaxel"
+      ],
+      "combination": false,
+      "home_inn": "docetaxel",
+      "ingredients": [
+        "DOCETAXEL ANHYDROUS"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-06-28",
+      "moieties": [
+        "DOCETAXEL"
+      ],
+      "product_ndcs": [
+        "0409-1732",
+        "0409-7870"
+      ],
+      "rxcui": [
+        "1093280"
+      ],
+      "setid": "644c5035-20d2-4686-beaa-bef08e99051c",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "DOCETAXEL (DOCETAXEL ANHYDROUS) INJECTION, SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2025-01-23"
+    },
+    {
+      "application_numbers": [
+        "NDA020449"
+      ],
+      "brand_names": [
+        "Docetaxel"
+      ],
+      "combination": false,
+      "home_inn": "docetaxel",
+      "ingredients": [
+        "DOCETAXEL"
+      ],
+      "labeler": "Sanofi-Aventis U.S. LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2010-10-21",
+      "moieties": [
+        "DOCETAXEL"
+      ],
+      "product_ndcs": [
+        "0955-1020",
+        "0955-1021",
+        "0955-1022"
+      ],
+      "rxcui": [
+        "1860480",
+        "1860485",
+        "1861411"
+      ],
+      "setid": "dd0ca36d-1f54-4568-8d19-a7152addcd52",
+      "source": "openfda",
+      "spl_version": 30,
+      "title": "DOCETAXEL INJECTION, SOLUTION, CONCENTRATE [SANOFI-AVENTIS U.S. LLC]",
+      "upload_date": "2024-12-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA204193"
+      ],
+      "brand_names": [
+        "Docetaxel"
+      ],
+      "combination": false,
+      "home_inn": "docetaxel",
+      "ingredients": [
+        "DOCETAXEL"
+      ],
+      "labeler": "Dr. Reddy's Laboratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-11-10",
+      "moieties": [
+        "DOCETAXEL"
+      ],
+      "product_ndcs": [
+        "43598-258",
+        "43598-259",
+        "43598-389"
+      ],
+      "rxcui": [
+        "1860480",
+        "1860485",
+        "1861411"
+      ],
+      "setid": "a630937b-8369-74ad-b68a-f940eb16ff0f",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "DOCETAXEL INJECTION, SOLUTION [DR. REDDY'S LABORATORIES INC.]",
+      "upload_date": "2021-12-03"
+    },
+    {
+      "application_numbers": [
+        "ANDA207252"
+      ],
+      "brand_names": [
+        "Docetaxel"
+      ],
+      "combination": false,
+      "home_inn": "docetaxel",
+      "ingredients": [
+        "DOCETAXEL"
+      ],
+      "labeler": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-08-09",
+      "moieties": [
+        "DOCETAXEL"
+      ],
+      "product_ndcs": [
+        "57884-3041",
+        "57884-3042",
+        "57884-3043"
+      ],
+      "rxcui": [
+        "1860480",
+        "1860485",
+        "1861411"
+      ],
+      "setid": "e488100d-6728-4f44-9282-f63a805b8e13",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "DOCETAXEL INJECTION, SOLUTION, CONCENTRATE [JIANGSU HENGRUI PHARMACEUTICALS CO., LTD.]",
+      "upload_date": "2023-09-22"
+    },
+    {
+      "application_numbers": [
+        "ANDA209640"
+      ],
+      "brand_names": [
+        "Docetaxel"
+      ],
+      "combination": false,
+      "home_inn": "docetaxel",
+      "ingredients": [
+        "DOCETAXEL ANHYDROUS"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-01-19",
+      "moieties": [
+        "DOCETAXEL"
+      ],
+      "product_ndcs": [
+        "70121-1221",
+        "70121-1222",
+        "70121-1223"
+      ],
+      "rxcui": [
+        "1860480",
+        "1860485",
+        "1861411"
+      ],
+      "setid": "67508df6-b96f-46fa-a792-0afcdfa9810e",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "DOCETAXEL INJECTION [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2024-11-22"
+    },
+    {
+      "application_numbers": [
+        "ANDA209634"
+      ],
+      "brand_names": [
+        "Docetaxel anhydrous"
+      ],
+      "combination": false,
+      "home_inn": "docetaxel",
+      "ingredients": [
+        "DOCETAXEL ANHYDROUS"
+      ],
+      "labeler": "Meitheal Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-08-24",
+      "moieties": [
+        "DOCETAXEL"
+      ],
+      "product_ndcs": [
+        "71288-144"
+      ],
+      "rxcui": [
+        "1093280"
+      ],
+      "setid": "9fb533da-a7ba-4c2b-8e4f-8e336ba55d12",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "DOCETAXEL ANHYDROUS INJECTION, SOLUTION [MEITHEAL PHARMACEUTICALS INC]",
+      "upload_date": "2023-08-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA208137",
+        "ANDA208859",
+        "ANDA210072",
+        "ANDA210848"
+      ],
+      "brand_names": [
+        "Docetaxel"
+      ],
+      "combination": false,
+      "home_inn": "docetaxel",
+      "ingredients": [
+        "DOCETAXEL",
+        "DOCETAXEL ANHYDROUS"
+      ],
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-09-05",
+      "moieties": [
+        "DOCETAXEL"
+      ],
+      "product_ndcs": [
+        "67457-531",
+        "67457-532",
+        "67457-533",
+        "67457-781",
+        "72078-040",
+        "72078-086",
+        "72078-087"
+      ],
+      "rxcui": [
+        "1093280",
+        "1860619"
+      ],
+      "setid": "2992d633-08fa-44f3-b14d-41700f24686b",
+      "source": "dailymed-title-match",
+      "spl_version": 4,
+      "title": "DOCETAXEL (DOCETAXEL ANHYDROUS) INJECTION, SOLUTION [MYLAN INSTITUTIONAL LLC]",
+      "upload_date": "2026-07-23"
+    },
+    {
+      "application_numbers": [
+        "NDA020449"
+      ],
+      "archived_versions": 15,
+      "brand_names": [
+        "TAXOTERE"
+      ],
+      "first_posted": "2010-08-17",
+      "found_by": "TAXOTERE",
+      "labeler": "Sanofi-Aventis U.S. LLC",
+      "labeler_unverified": false,
+      "last_posted": "2021-02-04",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2020-03-31",
+        "2021-04-30"
+      ],
+      "product_ndcs": [
+        "0075-8003",
+        "0075-8004"
+      ],
+      "rxcui": [],
+      "setid": "45e6dce4-92e2-4ad1-bf11-bbcefb753636",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "dd0ca36d-1f54-4568-8d19-a7152addcd52"
+      ],
+      "title": "TAXOTERE (docetaxel) injection, solution, concentrate"
+    },
+    {
+      "application_numbers": [
+        "NDA020449"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "TAXOTERE"
+      ],
+      "first_posted": "2008-07-25",
+      "found_by": "TAXOTERE",
+      "labeler": "sanofi-aventis U.S. LLC",
+      "labeler_unverified": false,
+      "last_posted": "2014-02-18",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-06-30"
+      ],
+      "product_ndcs": [
+        "0075-8001"
+      ],
+      "rxcui": [],
+      "setid": "82731db6-92fc-483b-9d73-9b2aed79b104",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "dd0ca36d-1f54-4568-8d19-a7152addcd52"
+      ],
+      "title": "TAXOTERE (docetaxel) injection, solution, concentrate"
+    },
+    {
+      "application_numbers": [
+        "NDA022534"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "DOCEFREZ"
+      ],
+      "first_posted": "2011-05-10",
+      "found_by": "DOCEFREZ",
+      "labeler": "Sun Pharma Global FZE",
+      "labeler_unverified": false,
+      "last_posted": "2017-02-01",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2016-12-31"
+      ],
+      "product_ndcs": [
+        "47335-285",
+        "47335-287"
+      ],
+      "rxcui": [],
+      "setid": "b35e3633-8893-4b0b-af1e-92e342557199",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "c85b2c62-3c33-4cbc-8b79-d5e17851a1b4"
+      ],
+      "title": "DOCEFREZ (docetaxel anhydrous) kit"
+    },
+    {
+      "application_numbers": [
+        "NDA215813"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "DOCIVYX"
+      ],
+      "first_posted": "2025-02-03",
+      "found_by": "DOCIVYX",
+      "labeler": "Avyxa Pharma, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2025-02-03",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-01-17"
+      ],
+      "product_ndcs": [
+        "83831-128",
+        "83831-129",
+        "83831-130"
+      ],
+      "rxcui": [],
+      "setid": "baf89fc6-f9bd-433b-988f-77762ec9ad39",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "4763744e-360e-4d37-be05-cce4114548cd"
+      ],
+      "title": "DOCIVYX (docetaxel) injection, solution"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "6b9999bb-869e-4d25-838c-23c3ab280044"
+    },
+    {
+      "combination": false,
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "00c61d11-d6b7-4618-b6f6-2592dbcc8af7"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "8fb7d980-d6c7-468b-a9f0-adff16101a4b"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ff7fb2c2-97a7-4716-a269-925ca30cf0f1"
+    },
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1263799c-13dc-488b-b158-b834736a4e66"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "14cbd8f6-e11b-4d64-aa4c-e70a2ecbf975"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3a49c281-8cfd-4698-a9df-90ba800058ef"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "81686d37-a13f-46e2-b439-a84eb1433634"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f970e352-3d43-4cc4-a859-503ec37b6e22"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Laboratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "be3df07d-ea56-453a-25ad-c3cedc22712a"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "30077f79-341f-4618-9ec5-23b17b212fae"
+    },
+    {
+      "combination": false,
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2fb017fd-e55e-43ef-9024-07f2d412b37b"
+    },
+    {
+      "combination": false,
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a6417655-9448-4886-ba03-f57f36bcbd14"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "682a0b1a-3277-4718-a94e-9645633062bf"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6b227144-c844-4549-960c-cc3ac5c13b2b"
+    },
+    {
+      "combination": false,
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "654319ae-e5f9-4a6a-b566-201923153b6e"
+    }
+  ]
+}

@@ -1,0 +1,626 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "BUMETANIDE"
+  ],
+  "inn": "bumetanide",
+  "name": "BUMETANIDE",
+  "rank": 127,
+  "rxcui": [
+    "197417",
+    "197418",
+    "197419",
+    "205488",
+    "205489",
+    "205490",
+    "282486",
+    "1727569",
+    "2724437",
+    "2724443"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 33,
+    "approval_holders": 28,
+    "earliest_marketing_start": "1983-02-28",
+    "latest_label_update": "2026-10-30",
+    "nda_bla_applications": 2,
+    "repackagers": 11
+  },
+  "unii": [
+    {
+      "ingredient": "BUMETANIDE",
+      "unii": "0Y2S3XUQ5H"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA018225"
+      ],
+      "brand_names": [
+        "Bumex"
+      ],
+      "combination": false,
+      "home_inn": "bumetanide",
+      "ingredients": [
+        "BUMETANIDE"
+      ],
+      "labeler": "Validus Pharmaceuticals LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1983-02-28",
+      "moieties": [
+        "BUMETANIDE"
+      ],
+      "product_ndcs": [
+        "30698-630",
+        "30698-631",
+        "30698-632"
+      ],
+      "rxcui": [
+        "197417",
+        "197418",
+        "197419",
+        "205488",
+        "205489",
+        "205490"
+      ],
+      "setid": "32dfbea3-eb2b-4070-8605-57ce3e6d5a2f",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "BUMEX (BUMETANIDE) TABLET [VALIDUS PHARMACEUTICALS LLC]",
+      "upload_date": "2025-09-10"
+    },
+    {
+      "application_numbers": [
+        "NDA219500"
+      ],
+      "brand_names": [
+        "Enbumyst"
+      ],
+      "combination": false,
+      "home_inn": "bumetanide",
+      "ingredients": [
+        "BUMETANIDE"
+      ],
+      "labeler": "Corstasis USA LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-09-12",
+      "moieties": [
+        "BUMETANIDE"
+      ],
+      "product_ndcs": [
+        "84388-005"
+      ],
+      "rxcui": [
+        "2724437",
+        "2724443"
+      ],
+      "setid": "d6f752c5-d2bd-4f77-9611-ca2110066d1f",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "ENBUMYST (BUMETANIDE) SPRAY [CORSTASIS USA LLC]",
+      "upload_date": "2026-08-31"
+    },
+    {
+      "application_numbers": [
+        "NDA018225"
+      ],
+      "brand_names": [
+        "Bumetanide"
+      ],
+      "combination": false,
+      "home_inn": "bumetanide",
+      "ingredients": [
+        "BUMETANIDE"
+      ],
+      "labeler": "Edenbridge Pharmaceuticals LLC.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2015-10-15",
+      "moieties": [
+        "BUMETANIDE"
+      ],
+      "product_ndcs": [
+        "42799-119",
+        "42799-120",
+        "42799-121"
+      ],
+      "rxcui": [
+        "197417",
+        "197418",
+        "197419"
+      ],
+      "setid": "32c4372e-54ea-4fc8-b9f8-827fa4c8edd3",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "BUMETANIDE TABLET [EDENBRIDGE PHARMACEUTICALS LLC.]",
+      "upload_date": "2025-12-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA074700"
+      ],
+      "brand_names": [
+        "Bumetanide"
+      ],
+      "combination": false,
+      "home_inn": "bumetanide",
+      "ingredients": [
+        "BUMETANIDE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1996-11-21",
+      "moieties": [
+        "BUMETANIDE"
+      ],
+      "product_ndcs": [
+        "0185-0128",
+        "0185-0129",
+        "0185-0130"
+      ],
+      "rxcui": [
+        "197417",
+        "197418",
+        "197419"
+      ],
+      "setid": "05cb961d-ac33-4bcf-b04e-411e496c43c1",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "BUMETANIDE TABLET [SANDOZ INC]",
+      "upload_date": "2024-03-22"
+    },
+    {
+      "application_numbers": [
+        "ANDA079196"
+      ],
+      "brand_names": [
+        "Bumetanide"
+      ],
+      "combination": false,
+      "home_inn": "bumetanide",
+      "ingredients": [
+        "BUMETANIDE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2008-04-30",
+      "moieties": [
+        "BUMETANIDE"
+      ],
+      "product_ndcs": [
+        "0641-6007",
+        "0641-6008"
+      ],
+      "rxcui": [
+        "282486",
+        "1727569"
+      ],
+      "setid": "681b5e9d-e2c7-4f29-aaad-e06d4a528c11",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "BUMETANIDE INJECTION, SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2026-08-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA209724"
+      ],
+      "brand_names": [
+        "Bumetanide"
+      ],
+      "combination": false,
+      "home_inn": "bumetanide",
+      "ingredients": [
+        "BUMETANIDE"
+      ],
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-10-18",
+      "moieties": [
+        "BUMETANIDE"
+      ],
+      "product_ndcs": [
+        "69238-1489",
+        "69238-1490",
+        "69238-1491"
+      ],
+      "rxcui": [
+        "197417",
+        "197418",
+        "197419"
+      ],
+      "setid": "9188ab17-8539-48a5-905f-ad35ab5a0b93",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "BUMETANIDE TABLET [AMNEAL PHARMACEUTICALS NY LLC]",
+      "upload_date": "2024-01-01"
+    },
+    {
+      "application_numbers": [
+        "ANDA202900"
+      ],
+      "brand_names": [
+        "bumetanide"
+      ],
+      "combination": false,
+      "home_inn": "bumetanide",
+      "ingredients": [
+        "BUMETANIDE"
+      ],
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-05-01",
+      "moieties": [
+        "BUMETANIDE"
+      ],
+      "product_ndcs": [
+        "68382-525",
+        "68382-526",
+        "68382-527"
+      ],
+      "rxcui": [
+        "197417",
+        "197418",
+        "197419"
+      ],
+      "setid": "525138cd-832a-41d0-84b0-83921b12bd2a",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "BUMETANIDE TABLET [ZYDUS PHARMACEUTICALS (USA) INC.]",
+      "upload_date": "2023-12-06"
+    },
+    {
+      "application_numbers": [
+        "ANDA216434"
+      ],
+      "brand_names": [
+        "Bumetanide"
+      ],
+      "combination": false,
+      "home_inn": "bumetanide",
+      "ingredients": [
+        "BUMETANIDE"
+      ],
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-05-26",
+      "moieties": [
+        "BUMETANIDE"
+      ],
+      "product_ndcs": [
+        "68083-496",
+        "68083-497"
+      ],
+      "rxcui": [
+        "282486",
+        "1727569"
+      ],
+      "setid": "4d1ed6b2-c410-4f52-9b8a-aa256c37089e",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "BUMETANIDE INJECTION [GLAND PHARMA LIMITED]",
+      "upload_date": "2022-06-06"
+    },
+    {
+      "application_numbers": [
+        "NDA219500"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "ENBUMYST"
+      ],
+      "first_posted": "2025-11-25",
+      "found_by": "ENBUMYST",
+      "labeler": "Renaissance Lakewood LLC",
+      "labeler_unverified": true,
+      "last_posted": "2026-01-16",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-09-12"
+      ],
+      "product_ndcs": [
+        "49396-0050"
+      ],
+      "rxcui": [],
+      "setid": "4409c4a5-2090-7cb3-e063-6394a90a0872",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "d6f752c5-d2bd-4f77-9611-ca2110066d1f"
+      ],
+      "title": "ENBUMYST (bumetanide nasal spray) spray"
+    },
+    {
+      "application_numbers": [
+        "NDA018225"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "BUMEX"
+      ],
+      "first_posted": "2006-07-18",
+      "found_by": "BUMEX",
+      "labeler": "Genentech, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2013-01-30",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2007-10-31",
+        "2008-06-30"
+      ],
+      "product_ndcs": [
+        "0004-0121",
+        "0004-0125",
+        "0004-0162"
+      ],
+      "rxcui": [],
+      "setid": "a4987159-7590-47a6-be10-b50557c30fab",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "32c4372e-54ea-4fc8-b9f8-827fa4c8edd3",
+        "32dfbea3-eb2b-4070-8605-57ce3e6d5a2f"
+      ],
+      "title": "BUMEX (bumetanide) tablet"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "387edfd4-be85-41cd-8a6d-14e6a022b5a9"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5c753aae-77b7-4add-8453-385a8f62d7db"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c38a404d-a919-4a2c-9fbb-d0655dee9516"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "627c9732-eed1-4435-8d79-2e19ab974fd9"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d4688d53-9baf-4cf0-b37f-47779bce7815"
+    },
+    {
+      "combination": false,
+      "labeler": "Qilu Pharmaceutical Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ef5fe12a-f8ee-4ba7-932b-51bbaccf6575"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2c71a17e-ed76-4545-b23e-9f4997b13c2f"
+    },
+    {
+      "combination": false,
+      "labeler": "Advagen Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "94078edd-b9c0-449e-baaf-a9afceccb407"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "084b34ad-36ba-43bd-a43a-1f4b4da26d8f"
+    },
+    {
+      "combination": false,
+      "labeler": "Exelan Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "06745425-e7e7-4413-b9ff-22b121f0ea9a"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "51a344b6-acf9-4ac4-b743-1e63e3df7958"
+    },
+    {
+      "combination": false,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cddd33fb-25b0-49ca-ab32-7c79a9b3a384"
+    },
+    {
+      "combination": false,
+      "labeler": "Anthea Pharma Private Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9058fc52-f3f6-4d7f-b2a0-b1e2c714b133"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b5a68154-8003-4b80-81e2-e926524fb72c"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "82eb62ca-c32b-4ff8-9f71-43219b240480"
+    },
+    {
+      "combination": false,
+      "labeler": "Civica, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "308c690f-c2bd-4c32-8728-42ec95425f77"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a007f3aa-3977-4be3-a9a2-db3d458bca58"
+    },
+    {
+      "combination": false,
+      "labeler": "GLENMARK PHARMACEUTICALS INC., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "680563fe-5d3a-49bc-86a5-740bda2acebe"
+    },
+    {
+      "combination": false,
+      "labeler": "Solco Healthcare LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4bcc6cdb-3dfa-4757-bac2-a2dc8bd3a9f6"
+    },
+    {
+      "combination": false,
+      "labeler": "Mullan Pharmaceutical Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b7cd724b-817b-4b45-8133-1ebf505867e7"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6b92460e-48ba-44bb-9b61-5e65e5fd82cd"
+    },
+    {
+      "combination": false,
+      "labeler": "First Nation Group, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "79b77945-74a7-4cb5-8aa0-33a7babdf6d9"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "551918e1-96c4-453a-870c-61b282882206"
+    },
+    {
+      "combination": false,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8914d8bf-61b7-4cd2-a8ef-7e1c5df37828"
+    },
+    {
+      "combination": false,
+      "labeler": "Civica, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4a9229c8-89ba-423e-8e36-f56bc329ed38"
+    }
+  ]
+}

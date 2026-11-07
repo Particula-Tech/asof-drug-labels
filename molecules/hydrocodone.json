@@ -1,0 +1,751 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "HYDROCODONE BITARTRATE"
+  ],
+  "inn": "hydrocodone",
+  "name": "HYDROCODONE",
+  "rank": 207,
+  "rxcui": [
+    "856999",
+    "857002",
+    "857005",
+    "858770",
+    "858778",
+    "858798",
+    "859315",
+    "992656",
+    "992668",
+    "1595730",
+    "1595736",
+    "1595740",
+    "1595742",
+    "1595746",
+    "1595748",
+    "1595752",
+    "1595754",
+    "1595758",
+    "1595760",
+    "1595764",
+    "1595766",
+    "1860491",
+    "1860493",
+    "1860495",
+    "1860497",
+    "1860499",
+    "1860501"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 45,
+    "approval_holders": 23,
+    "earliest_marketing_start": "2000-07-26",
+    "latest_label_update": "2026-10-12",
+    "nda_bla_applications": 1,
+    "repackagers": 13
+  },
+  "unii": [
+    {
+      "ingredient": "HYDROCODONE BITARTRATE",
+      "unii": "NO70W886KK"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA206627"
+      ],
+      "brand_names": [
+        "Hysingla ER"
+      ],
+      "combination": false,
+      "home_inn": "hydrocodone",
+      "ingredients": [
+        "HYDROCODONE BITARTRATE"
+      ],
+      "labeler": "Knoa Pharma LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-01-15",
+      "moieties": [
+        "HYDROCODONE"
+      ],
+      "product_ndcs": [
+        "59011-271",
+        "59011-272",
+        "59011-273",
+        "59011-274",
+        "59011-275",
+        "59011-276"
+      ],
+      "rxcui": [
+        "1595730",
+        "1595736",
+        "1595740",
+        "1595742",
+        "1595746",
+        "1595748",
+        "1595752",
+        "1595754",
+        "1595758",
+        "1595760",
+        "1595764",
+        "1595766"
+      ],
+      "setid": "b7d23ac2-e776-9f62-3290-c64c2d6eb353",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "HYSINGLA ER (HYDROCODONE BITARTRATE) TABLET, EXTENDED RELEASE [KNOA PHARMA LLC]",
+      "upload_date": "2026-06-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA206986"
+      ],
+      "brand_names": [
+        "Hydrocodone Bitartrate"
+      ],
+      "combination": false,
+      "home_inn": "hydrocodone",
+      "ingredients": [
+        "HYDROCODONE BITARTRATE"
+      ],
+      "labeler": "Alvogen Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-01-21",
+      "moieties": [
+        "HYDROCODONE"
+      ],
+      "product_ndcs": [
+        "47781-409",
+        "47781-410",
+        "47781-411",
+        "47781-412",
+        "47781-413",
+        "47781-414"
+      ],
+      "rxcui": [
+        "1860491",
+        "1860493",
+        "1860495",
+        "1860497",
+        "1860499",
+        "1860501"
+      ],
+      "setid": "a7b8ea07-e926-f0a5-c20d-92f23ed350d0",
+      "source": "dailymed-title-match",
+      "spl_version": 10,
+      "title": "HYDROCODONE BITARTRATE CAPSULE, EXTENDED RELEASE [ALVOGEN INC.]",
+      "upload_date": "2026-10-02"
+    },
+    {
+      "application_numbers": [
+        "NDA005213"
+      ],
+      "brand_names": [
+        "Hydrocodone Bitartrate and Homatropine Methylbromide"
+      ],
+      "combination": true,
+      "home_inn": "hydrocodone",
+      "ingredients": [
+        "HOMATROPINE METHYLBROMIDE",
+        "HYDROCODONE BITARTRATE"
+      ],
+      "labeler": "Genus Lifesciences Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2022-08-10",
+      "moieties": [
+        "HOMATROPINE METHYLBROMIDE",
+        "HYDROCODONE"
+      ],
+      "product_ndcs": [
+        "64950-206",
+        "64950-371"
+      ],
+      "rxcui": [
+        "992656",
+        "992668"
+      ],
+      "setid": "320ff639-9854-407b-9bbd-a035c4f173e1",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "HYDROCODONE BITARTRATE AND HOMATROPINE METHYLBROMIDE TABLET HYDROCODONE BITARTRATE AND HOMATROPINE METHYLBROMIDE SOLUTION [GENUS LIFESCIENCES INC.]",
+      "upload_date": "2026-05-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA040400",
+        "ANDA040405",
+        "ANDA040409"
+      ],
+      "brand_names": [
+        "HYDROCODONE BITARTRATE AND ACETAMINOPHEN"
+      ],
+      "combination": true,
+      "home_inn": "hydrocodone",
+      "ingredients": [
+        "ACETAMINOPHEN",
+        "HYDROCODONE BITARTRATE"
+      ],
+      "labeler": "SpecGx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2000-07-26",
+      "moieties": [
+        "ACETAMINOPHEN",
+        "HYDROCODONE"
+      ],
+      "product_ndcs": [
+        "0406-0123",
+        "0406-0124",
+        "0406-0125"
+      ],
+      "rxcui": [
+        "856999",
+        "857002",
+        "857005"
+      ],
+      "setid": "73c1059b-0c7d-42ef-9827-f018858fc447",
+      "source": "openfda",
+      "spl_version": 56,
+      "title": "HYDROCODONE BITARTRATE AND ACETAMINOPHEN TABLET [SPECGX LLC]",
+      "upload_date": "2026-04-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA040736"
+      ],
+      "brand_names": [
+        "Hydrocodone Bitartrate and Acetaminophen"
+      ],
+      "combination": true,
+      "home_inn": "hydrocodone",
+      "ingredients": [
+        "ACETAMINOPHEN",
+        "HYDROCODONE BITARTRATE"
+      ],
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-01-18",
+      "moieties": [
+        "ACETAMINOPHEN",
+        "HYDROCODONE"
+      ],
+      "product_ndcs": [
+        "53746-109"
+      ],
+      "rxcui": [
+        "857002"
+      ],
+      "setid": "62be4147-6a72-49e5-9338-10887c65a93a",
+      "source": "openfda",
+      "spl_version": 50,
+      "title": "HYDROCODONE BITARTRATE AND ACETAMINOPHEN TABLET [AMNEAL PHARMACEUTICALS OF NEW YORK LLC]",
+      "upload_date": "2025-12-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA076642"
+      ],
+      "brand_names": [
+        "Hydrocodone Bitartrate and Ibuprofen"
+      ],
+      "combination": true,
+      "home_inn": "hydrocodone",
+      "ingredients": [
+        "HYDROCODONE BITARTRATE",
+        "IBUPROFEN"
+      ],
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-02-18",
+      "moieties": [
+        "HYDROCODONE",
+        "IBUPROFEN"
+      ],
+      "product_ndcs": [
+        "53746-116",
+        "53746-117",
+        "53746-145",
+        "53746-146"
+      ],
+      "rxcui": [
+        "858770",
+        "858778",
+        "858798",
+        "859315"
+      ],
+      "setid": "abc33718-4e88-43ea-9ffa-2b04ffc812ef",
+      "source": "openfda",
+      "spl_version": 46,
+      "title": "HYDROCODONE BITARTRATE AND IBUPROFEN TABLET [AMNEAL PHARMACEUTICALS OF NEW YORK LLC]",
+      "upload_date": "2025-12-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA040746"
+      ],
+      "brand_names": [
+        "Hydrocodone Bitartrate and Acetaminophen"
+      ],
+      "combination": true,
+      "home_inn": "hydrocodone",
+      "ingredients": [
+        "ACETAMINOPHEN",
+        "HYDROCODONE BITARTRATE"
+      ],
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-02-18",
+      "moieties": [
+        "ACETAMINOPHEN",
+        "HYDROCODONE"
+      ],
+      "product_ndcs": [
+        "53746-110"
+      ],
+      "rxcui": [
+        "856999"
+      ],
+      "setid": "e0cefc7b-e81c-4e15-89a0-fe71dc94338b",
+      "source": "openfda",
+      "spl_version": 50,
+      "title": "HYDROCODONE BITARTRATE AND ACETAMINOPHEN TABLET [AMNEAL PHARMACEUTICALS OF NEW YORK LLC]",
+      "upload_date": "2025-12-23"
+    },
+    {
+      "application_numbers": [
+        "NDA202880"
+      ],
+      "archived_versions": 10,
+      "brand_names": [
+        "ZOHYDRO"
+      ],
+      "first_posted": "2016-01-22",
+      "found_by": "ZOHYDRO",
+      "labeler": "Persion Pharmaceuticals LLC",
+      "labeler_unverified": true,
+      "last_posted": "2021-07-13",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-05-31"
+      ],
+      "product_ndcs": [
+        "65224-310",
+        "65224-315",
+        "65224-320",
+        "65224-330",
+        "65224-340",
+        "65224-350"
+      ],
+      "rxcui": [],
+      "setid": "1b89a045-d552-40b6-a717-09858b5e6239",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ZOHYDRO ER (hydrocodone bitartrate) capsule, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA207975"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "VANTRELA"
+      ],
+      "first_posted": "2018-01-19",
+      "found_by": "VANTRELA",
+      "labeler": "Cephalon, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2018-01-19",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-01-17"
+      ],
+      "product_ndcs": [
+        "63459-118",
+        "63459-120",
+        "63459-122",
+        "63459-130",
+        "63459-136"
+      ],
+      "rxcui": [],
+      "setid": "9ca41a03-243e-46d0-9c02-6ee3cd68fb63",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "VANTRELA ER (hydrocodone bitartrate) tablet, extended release"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": true,
+      "labeler": "Aurolife Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "60f43308-1deb-4f05-8f17-aa49ebdcf498"
+    },
+    {
+      "combination": true,
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c29b97e9-8097-4d87-a420-ccf5aec8274a"
+    },
+    {
+      "combination": true,
+      "labeler": "Lupin Pharmaceuticals,Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "41ac90b3-f007-4eb2-9d41-ea626ced2017"
+    },
+    {
+      "combination": true,
+      "labeler": "Cranbury Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d4caec6d-4af2-4f1c-9add-c0c948b83b16"
+    },
+    {
+      "combination": true,
+      "labeler": "Cranbury Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "25f400d9-1d6e-4d38-8f0d-98d471eba73b"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurolife Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "392a846e-7325-462d-b19b-8afda44c5cb0"
+    },
+    {
+      "combination": true,
+      "labeler": "Rhodes Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1f9c1adc-f84f-43de-af5c-d93703aba7f8"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurolife Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "470df63a-5c0f-42df-9023-a330a901153e"
+    },
+    {
+      "combination": true,
+      "labeler": "Lupin Pharmaceuticals,Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "48cc1378-ffab-4645-95bb-a05d78066575"
+    },
+    {
+      "combination": true,
+      "labeler": "Lupin Pharmaceuticals,Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "26a2178e-e0e5-4d61-81fd-e30a3142f1f2"
+    },
+    {
+      "combination": true,
+      "labeler": "Novel Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4050ae05-7f1a-48b7-99b9-f8db8aa02741"
+    },
+    {
+      "combination": true,
+      "labeler": "KVK-Tech, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9a737416-08e0-4df6-897e-cf9d1b5f0b01"
+    },
+    {
+      "combination": true,
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3aa0b733-b58f-46bd-8e76-37ddf1dc3356"
+    },
+    {
+      "combination": true,
+      "labeler": "SpecGx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d621b526-4d9a-48a9-9a3e-d29d6aea2f31"
+    },
+    {
+      "combination": true,
+      "labeler": "KVK-Tech, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f1063950-b302-4898-81c2-b1626c9c16ef"
+    },
+    {
+      "combination": true,
+      "labeler": "KVK-Tech, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "26d7c90c-5e6b-4bdb-b06f-c76173a01c21"
+    },
+    {
+      "combination": true,
+      "labeler": "Epic Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5179d4ab-6d57-4613-84fc-de3f6edd6a53"
+    },
+    {
+      "combination": true,
+      "labeler": "Eywa Pharma Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fcd2b59e-8087-475e-9e6b-911bd846ea96"
+    },
+    {
+      "combination": true,
+      "labeler": "XLCare Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b9f61b9c-d3f9-47e3-94a3-b5228f96f927"
+    },
+    {
+      "combination": true,
+      "labeler": "Elite Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "89b8145f-5310-4b58-a65d-586dc90d642d"
+    },
+    {
+      "combination": true,
+      "labeler": "Eywa Pharma Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "adb37532-aa19-48a2-95a1-8c92a6ce8651"
+    },
+    {
+      "combination": true,
+      "labeler": "Eywa Pharma Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8a201e19-3e47-7e58-e053-2995a90ab1d5"
+    },
+    {
+      "combination": true,
+      "labeler": "Genus Lifesciences Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "26242cd7-1dbe-4ca4-88ca-5b98a6566ff9"
+    },
+    {
+      "combination": true,
+      "labeler": "Granules Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "136bbd47-7a54-493f-9158-a84d39221d6c"
+    },
+    {
+      "combination": true,
+      "labeler": "Cranbury Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "57e1fe79-eb60-4f4f-bb38-6df0270d408f"
+    },
+    {
+      "combination": true,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "995a6cc7-8b72-4d35-b3b4-8c5752438fb7"
+    },
+    {
+      "combination": true,
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cc7f0a16-ff27-44d0-b69a-3f6aea1b993b"
+    },
+    {
+      "combination": false,
+      "labeler": "Alvogen Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f7b55d14-0980-b680-8ceb-7489ff65455e"
+    },
+    {
+      "combination": true,
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "71319a6f-aaf4-4bc5-8b40-a16c6f139be6"
+    },
+    {
+      "combination": true,
+      "labeler": "Golden State Medical Supply, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "87ed3420-1697-6f42-e053-2995a90a1a5b"
+    },
+    {
+      "combination": true,
+      "labeler": "Novel Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b203c87c-1108-4eaa-8a57-87be776d8a70"
+    },
+    {
+      "combination": true,
+      "labeler": "Cranbury Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d8fe4ae4-bd19-42eb-b74d-f302b3f914ee"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e23d135c-7aea-405a-804e-5c4f82179e96"
+    },
+    {
+      "combination": true,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ed6af366-753c-4f3b-a6a2-c9a183c50035"
+    },
+    {
+      "combination": true,
+      "labeler": "XLCare Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "73dea6de-20cb-4cef-b987-3ab2c64e5edb"
+    },
+    {
+      "combination": true,
+      "labeler": "Cranbury Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "93b6dfdf-ba6e-4ea6-ab85-5ac121e33101"
+    },
+    {
+      "combination": true,
+      "labeler": "Genus Lifesciences Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a9fb9779-76a5-407a-a155-84f198004ae2"
+    },
+    {
+      "combination": true,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4d5bfd3a-3793-4d24-aedd-c04fa34ea736"
+    }
+  ]
+}

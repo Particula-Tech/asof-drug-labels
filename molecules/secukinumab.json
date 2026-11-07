@@ -1,0 +1,113 @@
+{
+  "biologic": true,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand COSENTYX",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/003729",
+      "eu_number": "EU/1/14/980",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-003729",
+      "mah": "Novartis Europharm Limited",
+      "marketing_authorisation_date": "2015-01-14",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/cosentyx",
+      "name": "Cosentyx",
+      "record_from": "2015-01-15",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 21
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-003729",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "SECUKINUMAB"
+  ],
+  "inn": "secukinumab",
+  "name": "SECUKINUMAB",
+  "rank": 360,
+  "rxcui": [
+    "1599792",
+    "1599797",
+    "1653241",
+    "1653243",
+    "2550712",
+    "2550713",
+    "2637347",
+    "2637348",
+    "2667419",
+    "2667423"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 1,
+    "approval_holders": 1,
+    "earliest_marketing_start": "2015-01-21",
+    "latest_label_update": "2026-10-26",
+    "nda_bla_applications": 2,
+    "repackagers": 0
+  },
+  "unii": [],
+  "unii_unresolved": [
+    "SECUKINUMAB"
+  ],
+  "us": [
+    {
+      "application_numbers": [
+        "BLA125504",
+        "BLA761349"
+      ],
+      "brand_names": [
+        "COSENTYX"
+      ],
+      "combination": false,
+      "home_inn": "secukinumab",
+      "ingredients": [
+        "SECUKINUMAB"
+      ],
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2015-01-21",
+      "moieties": [
+        "SECUKINUMAB"
+      ],
+      "product_ndcs": [
+        "0078-0639",
+        "0078-1056",
+        "0078-1070",
+        "0078-1168"
+      ],
+      "rxcui": [
+        "1599792",
+        "1599797",
+        "1653241",
+        "1653243",
+        "2550712",
+        "2550713",
+        "2637347",
+        "2637348",
+        "2667419",
+        "2667423"
+      ],
+      "setid": "77c4b13e-7df3-42d4-81db-3d0cddb7f67a",
+      "source": "dailymed-title-match",
+      "spl_version": 31,
+      "title": "COSENTYX (SECUKINUMAB) INJECTION COSENTYX (SECUKINUMAB) INJECTION, SOLUTION, CONCENTRATE [NOVARTIS PHARMACEUTICALS CORPORATION]",
+      "upload_date": "2026-10-26"
+    }
+  ],
+  "us_excluded": []
+}

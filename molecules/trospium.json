@@ -1,0 +1,451 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "TROSPIUM CHLORIDE"
+  ],
+  "inn": "trospium",
+  "name": "TROSPIUM",
+  "rank": 441,
+  "rxcui": [
+    "857560",
+    "857564",
+    "2694843",
+    "2694850",
+    "2694853",
+    "2694855",
+    "2694989",
+    "2694991",
+    "2694992",
+    "2694993",
+    "2695671",
+    "2695672"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 15,
+    "approval_holders": 14,
+    "earliest_marketing_start": "2010-08-13",
+    "latest_label_update": "2026-10-12",
+    "nda_bla_applications": 1,
+    "repackagers": 7
+  },
+  "unii": [
+    {
+      "ingredient": "TROSPIUM CHLORIDE",
+      "unii": "1E6682427E"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA216158"
+      ],
+      "brand_names": [
+        "Cobenfy"
+      ],
+      "combination": true,
+      "home_inn": "trospium",
+      "ingredients": [
+        "TROSPIUM CHLORIDE",
+        "XANOMELINE"
+      ],
+      "labeler": "E.R. Squibb & Sons, L.L.C.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-09-27",
+      "moieties": [
+        "TROSPIUM",
+        "XANOMELINE"
+      ],
+      "product_ndcs": [
+        "0003-0050",
+        "0003-0125",
+        "0003-1100",
+        "0003-5150",
+        "0003-5200"
+      ],
+      "rxcui": [
+        "2694843",
+        "2694850",
+        "2694853",
+        "2694855",
+        "2694989",
+        "2694991",
+        "2694992",
+        "2694993",
+        "2695671",
+        "2695672"
+      ],
+      "setid": "8f0e73bf-6025-44f6-ab64-0983322de0df",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "COBENFY (XANOMELINE AND TROSPIUM CHLORIDE) CAPSULE, COATED PELLETS COBENFY (XANOMELINE AND TROSPIUM CHLORIDE) KIT [E.R. SQUIBB & SONS, L.L.C.]",
+      "upload_date": "2026-08-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA091575"
+      ],
+      "brand_names": [
+        "Trospium Chloride"
+      ],
+      "combination": false,
+      "home_inn": "trospium",
+      "ingredients": [
+        "TROSPIUM CHLORIDE"
+      ],
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-08-13",
+      "moieties": [
+        "TROSPIUM"
+      ],
+      "product_ndcs": [
+        "68462-461"
+      ],
+      "rxcui": [
+        "857560"
+      ],
+      "setid": "d5c837a4-d1c6-4615-b7ad-27f3162a03aa",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "TROSPIUM CHLORIDE TABLET, FILM COATED [GLENMARK PHARMACEUTICALS INC., USA]",
+      "upload_date": "2025-12-31"
+    },
+    {
+      "application_numbers": [
+        "ANDA091573"
+      ],
+      "brand_names": [
+        "TROSPIUM CHLORIDE"
+      ],
+      "combination": false,
+      "home_inn": "trospium",
+      "ingredients": [
+        "TROSPIUM CHLORIDE"
+      ],
+      "labeler": "Padagis US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-11-17",
+      "moieties": [
+        "TROSPIUM"
+      ],
+      "product_ndcs": [
+        "0574-0145"
+      ],
+      "rxcui": [
+        "857560"
+      ],
+      "setid": "bb3284ee-3d13-41c7-8e4b-f9b2d44350da",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "TROSPIUM CHLORIDE TABLET, FILM COATED [PADAGIS US LLC]",
+      "upload_date": "2024-05-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA091289"
+      ],
+      "brand_names": [
+        "Trospium Chloride"
+      ],
+      "combination": false,
+      "home_inn": "trospium",
+      "ingredients": [
+        "TROSPIUM CHLORIDE"
+      ],
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-10-12",
+      "moieties": [
+        "TROSPIUM"
+      ],
+      "product_ndcs": [
+        "0591-3636"
+      ],
+      "rxcui": [
+        "857564"
+      ],
+      "setid": "8b8d434c-daa2-4bf2-bde6-3e59f81bd88b",
+      "source": "dailymed-title-match",
+      "spl_version": 22,
+      "title": "TROSPIUM CHLORIDE CAPSULE, EXTENDED RELEASE [ACTAVIS PHARMA, INC.]",
+      "upload_date": "2026-10-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA201291"
+      ],
+      "brand_names": [
+        "Trospium Chloride ER"
+      ],
+      "combination": false,
+      "home_inn": "trospium",
+      "ingredients": [
+        "TROSPIUM CHLORIDE"
+      ],
+      "labeler": "Padagis US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-06-07",
+      "moieties": [
+        "TROSPIUM"
+      ],
+      "product_ndcs": [
+        "0574-0118"
+      ],
+      "rxcui": [
+        "857564"
+      ],
+      "setid": "4574f905-a8c5-4732-b934-d1c7f9e708c9",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "TROSPIUM CHLORIDE ER (TROSPIUM CHLORIDE) CAPSULE, EXTENDED RELEASE [PADAGIS US LLC]",
+      "upload_date": "2024-06-14"
+    },
+    {
+      "application_numbers": [
+        "ANDA204945"
+      ],
+      "brand_names": [
+        "Trospium Chloride"
+      ],
+      "combination": false,
+      "home_inn": "trospium",
+      "ingredients": [
+        "TROSPIUM CHLORIDE"
+      ],
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-08-30",
+      "moieties": [
+        "TROSPIUM"
+      ],
+      "product_ndcs": [
+        "23155-530"
+      ],
+      "rxcui": [
+        "857560"
+      ],
+      "setid": "570c3ae7-8011-4944-8935-57d0a66102aa",
+      "source": "dailymed-title-match",
+      "spl_version": 14,
+      "title": "TROSPIUM CHLORIDE TABLET, FILM COATED [HERITAGE PHARMACEUTICALS INC. D/B/A AVET PHARMACEUTICALS INC.]",
+      "upload_date": "2026-09-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA091688"
+      ],
+      "brand_names": [
+        "Trospium Chloride"
+      ],
+      "combination": false,
+      "home_inn": "trospium",
+      "ingredients": [
+        "TROSPIUM CHLORIDE"
+      ],
+      "labeler": "CIPLA USA INC.,",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-09-23",
+      "moieties": [
+        "TROSPIUM"
+      ],
+      "product_ndcs": [
+        "69097-912"
+      ],
+      "rxcui": [
+        "857560"
+      ],
+      "setid": "6a711666-9e80-4728-b745-e7dc86f57510",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "TROSPIUM CHLORIDE TABLET, FILM COATED [CIPLA USA INC.,]",
+      "upload_date": "2020-09-08"
+    },
+    {
+      "application_numbers": [
+        "NDA022103"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "SANCTURA"
+      ],
+      "first_posted": "2007-10-04",
+      "found_by": "SANCTURA",
+      "labeler": "Esprit Pharmaceuticals",
+      "labeler_unverified": true,
+      "last_posted": "2011-08-12",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2008-05-01"
+      ],
+      "product_ndcs": [
+        "15456-981"
+      ],
+      "rxcui": [],
+      "setid": "02b0a8ab-d5b2-4b84-aa2e-47143da03a69",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "SANCTURA XR (trospium chloride) capsule, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA022103"
+      ],
+      "archived_versions": 9,
+      "brand_names": [
+        "SANCTURA"
+      ],
+      "first_posted": "2009-09-10",
+      "found_by": "SANCTURA",
+      "labeler": "Allergan, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2014-08-04",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-03-04"
+      ],
+      "product_ndcs": [
+        "0023-9350"
+      ],
+      "rxcui": [],
+      "setid": "5bc62cef-1c78-4ddb-bdde-0574e5218f63",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "SANCTURA XR (trospium chloride) capsule, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA021595"
+      ],
+      "archived_versions": 8,
+      "brand_names": [
+        "SANCTURA"
+      ],
+      "first_posted": "2009-09-08",
+      "found_by": "SANCTURA",
+      "labeler": "Allergan, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2014-08-01",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-09-19"
+      ],
+      "product_ndcs": [
+        "0023-3513"
+      ],
+      "rxcui": [],
+      "setid": "f49bf265-01b1-484d-841b-342c3fb7b7f9",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "SANCTURA (trospium chloride) tablet"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Bluepoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ed27c30d-c83a-45af-9c47-807da858d696"
+    },
+    {
+      "combination": false,
+      "labeler": "Slate Run Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c1c8bd8b-7ff8-5940-e053-2995a90ae656"
+    },
+    {
+      "combination": false,
+      "labeler": "Zameer Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "048b4bc7-c77e-40fc-9bfb-bb35c6a3f871"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fcb13b21-e4a2-461b-b3cb-0daedc722050"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "801f2143-6816-4f34-b65d-16bb2cf07975"
+    },
+    {
+      "combination": false,
+      "labeler": "Exelan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a4108873-d2d2-4667-b049-02b89b8f2494"
+    },
+    {
+      "combination": false,
+      "labeler": "Granules Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5c088397-f407-4606-95a0-d9fe619888c3"
+    },
+    {
+      "combination": false,
+      "labeler": "MAJOR PHARMACEUTICALS",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7a2fea88-266d-4fc0-a476-66dc6effcff7"
+    }
+  ]
+}

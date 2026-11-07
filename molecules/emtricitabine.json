@@ -1,0 +1,892 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand Emtriva",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000533",
+      "eu_number": "EU/1/03/261",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000533",
+      "mah": "Gilead Sciences Ireland UC",
+      "marketing_authorisation_date": "2003-10-24",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/emtriva",
+      "name": "Emtriva",
+      "record_from": "2003-10-24",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 27
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 17,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000533",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "EMTRICITABINE"
+  ],
+  "inn": "emtricitabine",
+  "name": "EMTRICITABINE",
+  "rank": 26,
+  "rxcui": [
+    "403875",
+    "404587",
+    "476556",
+    "597291",
+    "616148",
+    "639888",
+    "643066",
+    "1147334",
+    "1147337",
+    "1306292",
+    "1306298",
+    "1721613",
+    "1721619",
+    "1741733",
+    "1741739",
+    "1744001",
+    "1744003",
+    "1744005",
+    "1744007",
+    "1744009",
+    "1744011",
+    "1747691",
+    "1747697",
+    "1999667",
+    "1999673",
+    "2049671",
+    "2049677",
+    "2584354",
+    "2584356",
+    "2590641",
+    "2590643"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 37,
+    "approval_holders": 18,
+    "earliest_marketing_start": "2003-07-02",
+    "latest_label_update": "2026-10-26",
+    "nda_bla_applications": 10,
+    "repackagers": 10
+  },
+  "unii": [
+    {
+      "ingredient": "EMTRICITABINE",
+      "unii": "G70B4ETF4S"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021500",
+        "NDA021896"
+      ],
+      "brand_names": [
+        "Emtriva"
+      ],
+      "combination": false,
+      "home_inn": "emtricitabine",
+      "ingredients": [
+        "EMTRICITABINE"
+      ],
+      "labeler": "Gilead Sciences, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2003-07-02",
+      "moieties": [
+        "EMTRICITABINE"
+      ],
+      "product_ndcs": [
+        "61958-0601",
+        "61958-0602"
+      ],
+      "rxcui": [
+        "403875",
+        "404587",
+        "597291",
+        "616148"
+      ],
+      "setid": "d6599395-3944-44f9-97f2-e0424c6b6a1f",
+      "source": "dailymed-title-match",
+      "spl_version": 14,
+      "title": "EMTRIVA (EMTRICITABINE) CAPSULE EMTRIVA (EMTRICITABINE) SOLUTION [GILEAD SCIENCES, INC.]",
+      "upload_date": "2026-10-26"
+    },
+    {
+      "application_numbers": [
+        "NDA021752"
+      ],
+      "brand_names": [
+        "Truvada"
+      ],
+      "combination": true,
+      "home_inn": "emtricitabine",
+      "ingredients": [
+        "EMTRICITABINE",
+        "TENOFOVIR DISOPROXIL FUMARATE"
+      ],
+      "labeler": "Gilead Sciences, Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2004-08-02",
+      "moieties": [
+        "EMTRICITABINE",
+        "TENOFOVIR DISOPROXIL"
+      ],
+      "product_ndcs": [
+        "61958-0701",
+        "61958-0703",
+        "61958-0704",
+        "61958-0705"
+      ],
+      "rxcui": [
+        "476556",
+        "639888",
+        "1744001",
+        "1744003",
+        "1744005",
+        "1744007",
+        "1744009",
+        "1744011"
+      ],
+      "setid": "54e82b13-a037-49ed-b4b3-030b37c0ecdd",
+      "source": "openfda",
+      "spl_version": 32,
+      "title": "TRUVADA (EMTRICITABINE AND TENOFOVIR DISOPROXIL FUMARATE) TABLET, FILM COATED [GILEAD SCIENCES, INC]",
+      "upload_date": "2025-07-25"
+    },
+    {
+      "application_numbers": [
+        "NDA202123"
+      ],
+      "brand_names": [
+        "COMPLERA"
+      ],
+      "combination": true,
+      "home_inn": "emtricitabine",
+      "ingredients": [
+        "EMTRICITABINE",
+        "RILPIVIRINE HYDROCHLORIDE",
+        "TENOFOVIR DISOPROXIL FUMARATE"
+      ],
+      "labeler": "Gilead Sciences, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2011-08-10",
+      "moieties": [
+        "EMTRICITABINE",
+        "RILPIVIRINE",
+        "TENOFOVIR DISOPROXIL"
+      ],
+      "product_ndcs": [
+        "61958-1101"
+      ],
+      "rxcui": [
+        "1147334",
+        "1147337"
+      ],
+      "setid": "d637cfab-f1e8-4eb3-a1b3-f85ca3bec612",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "COMPLERA (EMTRICITABINE, RILPIVIRINE HYDROCHLORIDE, AND TENOFOVIR DISOPROXIL FUMARATE) TABLET, FILM COATED [GILEAD SCIENCES, INC.]",
+      "upload_date": "2025-07-25"
+    },
+    {
+      "application_numbers": [
+        "NDA203100"
+      ],
+      "brand_names": [
+        "Stribild"
+      ],
+      "combination": true,
+      "home_inn": "emtricitabine",
+      "ingredients": [
+        "COBICISTAT",
+        "ELVITEGRAVIR",
+        "EMTRICITABINE",
+        "TENOFOVIR DISOPROXIL FUMARATE"
+      ],
+      "labeler": "Gilead Sciences, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2012-08-27",
+      "moieties": [
+        "COBICISTAT",
+        "ELVITEGRAVIR",
+        "EMTRICITABINE",
+        "TENOFOVIR DISOPROXIL"
+      ],
+      "product_ndcs": [
+        "61958-1201"
+      ],
+      "rxcui": [
+        "1306292",
+        "1306298"
+      ],
+      "setid": "74ae2a93-b267-444c-8f0f-a2a6522260ee",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "STRIBILD (ELVITEGRAVIR, COBICISTAT, EMTRICITABINE, AND TENOFOVIR DISOPROXIL FUMARATE) TABLET, FILM COATED [GILEAD SCIENCES, INC.]",
+      "upload_date": "2025-02-14"
+    },
+    {
+      "application_numbers": [
+        "NDA207561"
+      ],
+      "brand_names": [
+        "Genvoya"
+      ],
+      "combination": true,
+      "home_inn": "emtricitabine",
+      "ingredients": [
+        "COBICISTAT",
+        "ELVITEGRAVIR",
+        "EMTRICITABINE",
+        "TENOFOVIR ALAFENAMIDE FUMARATE"
+      ],
+      "labeler": "Gilead Sciences, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-11-05",
+      "moieties": [
+        "COBICISTAT",
+        "ELVITEGRAVIR",
+        "EMTRICITABINE",
+        "TENOFOVIR ALAFENAMIDE"
+      ],
+      "product_ndcs": [
+        "61958-1901"
+      ],
+      "rxcui": [
+        "1721613",
+        "1721619"
+      ],
+      "setid": "34784acf-15ed-4715-b504-eb30430518e9",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "GENVOYA (ELVITEGRAVIR, COBICISTAT, EMTRICITABINE, AND TENOFOVIR ALAFENAMIDE) TABLET [GILEAD SCIENCES, INC.]",
+      "upload_date": "2025-02-05"
+    },
+    {
+      "application_numbers": [
+        "NDA208351"
+      ],
+      "brand_names": [
+        "ODEFSEY"
+      ],
+      "combination": true,
+      "home_inn": "emtricitabine",
+      "ingredients": [
+        "EMTRICITABINE",
+        "RILPIVIRINE HYDROCHLORIDE",
+        "TENOFOVIR ALAFENAMIDE FUMARATE"
+      ],
+      "labeler": "Gilead Sciences, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2016-03-01",
+      "moieties": [
+        "EMTRICITABINE",
+        "RILPIVIRINE",
+        "TENOFOVIR ALAFENAMIDE"
+      ],
+      "product_ndcs": [
+        "61958-2101"
+      ],
+      "rxcui": [
+        "1741733",
+        "1741739"
+      ],
+      "setid": "ea3b9ec8-e04a-412c-8b3f-e5cbc7e641d5",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "ODEFSEY (EMTRICITABINE, RILPIVIRINE HYDROCHLORIDE, AND TENOFOVIR ALAFENAMIDE) TABLET [GILEAD SCIENCES, INC.]",
+      "upload_date": "2025-12-10"
+    },
+    {
+      "application_numbers": [
+        "NDA208215"
+      ],
+      "brand_names": [
+        "DESCOVY"
+      ],
+      "combination": true,
+      "home_inn": "emtricitabine",
+      "ingredients": [
+        "EMTRICITABINE",
+        "TENOFOVIR ALAFENAMIDE FUMARATE"
+      ],
+      "labeler": "Gilead Sciences, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2016-04-04",
+      "moieties": [
+        "EMTRICITABINE",
+        "TENOFOVIR ALAFENAMIDE"
+      ],
+      "product_ndcs": [
+        "61958-2002",
+        "61958-2005"
+      ],
+      "rxcui": [
+        "1747691",
+        "1747697",
+        "2590641",
+        "2590643"
+      ],
+      "setid": "06f66e98-e6ee-4538-9506-6c1282cc14c1",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "DESCOVY (EMTRICITABINE AND TENOFOVIR ALAFENAMIDE) TABLET [GILEAD SCIENCES, INC.]",
+      "upload_date": "2026-07-29"
+    },
+    {
+      "application_numbers": [
+        "NDA210251"
+      ],
+      "brand_names": [
+        "Biktarvy"
+      ],
+      "combination": true,
+      "home_inn": "emtricitabine",
+      "ingredients": [
+        "BICTEGRAVIR SODIUM",
+        "EMTRICITABINE",
+        "TENOFOVIR ALAFENAMIDE FUMARATE"
+      ],
+      "labeler": "Gilead Sciences, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-02-07",
+      "moieties": [
+        "BICTEGRAVIR",
+        "EMTRICITABINE",
+        "TENOFOVIR ALAFENAMIDE"
+      ],
+      "product_ndcs": [
+        "61958-2501",
+        "61958-2505",
+        "61958-2506"
+      ],
+      "rxcui": [
+        "1999667",
+        "1999673",
+        "2584354",
+        "2584356"
+      ],
+      "setid": "664cb8f0-1f65-441b-b0d9-ba3d798be309",
+      "source": "dailymed-title-match",
+      "spl_version": 26,
+      "title": "BIKTARVY (BICTEGRAVIR SODIUM, EMTRICITABINE, AND TENOFOVIR ALAFENAMIDE FUMARATE) TABLET [GILEAD SCIENCES, INC.]",
+      "upload_date": "2026-09-14"
+    },
+    {
+      "application_numbers": [
+        "NDA210455"
+      ],
+      "brand_names": [
+        "Symtuza"
+      ],
+      "combination": true,
+      "home_inn": "emtricitabine",
+      "ingredients": [
+        "COBICISTAT",
+        "DARUNAVIR",
+        "EMTRICITABINE",
+        "TENOFOVIR ALAFENAMIDE"
+      ],
+      "labeler": "Janssen Products LP",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-07-17",
+      "moieties": [
+        "COBICISTAT",
+        "DARUNAVIR",
+        "EMTRICITABINE",
+        "TENOFOVIR ALAFENAMIDE"
+      ],
+      "product_ndcs": [
+        "59676-800"
+      ],
+      "rxcui": [
+        "2049671",
+        "2049677"
+      ],
+      "setid": "85a17d00-6b7c-41ea-a6b3-5ad924820dab",
+      "source": "openfda",
+      "spl_version": 23,
+      "title": "SYMTUZA (DARUNAVIR, COBICISTAT, EMTRICITABINE, AND TENOFOVIR ALAFENAMIDE) TABLET, FILM COATED [JANSSEN PRODUCTS LP]",
+      "upload_date": "2026-04-20"
+    },
+    {
+      "application_numbers": [
+        "ANDA091168"
+      ],
+      "brand_names": [
+        "emtricitabine"
+      ],
+      "combination": false,
+      "home_inn": "emtricitabine",
+      "ingredients": [
+        "EMTRICITABINE"
+      ],
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-08-31",
+      "moieties": [
+        "EMTRICITABINE"
+      ],
+      "product_ndcs": [
+        "69097-642"
+      ],
+      "rxcui": [
+        "403875"
+      ],
+      "setid": "a229c922-58eb-4795-9219-6cebb1779e35",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "EMTRICITABINE CAPSULE [CIPLA USA INC.]",
+      "upload_date": "2026-08-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA079188"
+      ],
+      "brand_names": [
+        "Emtricitabine"
+      ],
+      "combination": false,
+      "home_inn": "emtricitabine",
+      "ingredients": [
+        "EMTRICITABINE"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-03-15",
+      "moieties": [
+        "EMTRICITABINE"
+      ],
+      "product_ndcs": [
+        "65862-301"
+      ],
+      "rxcui": [
+        "403875"
+      ],
+      "setid": "cdfb7868-3eba-46e1-a286-ca40760fd98d",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "EMTRICITABINE CAPSULE [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2024-02-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA209721"
+      ],
+      "brand_names": [
+        "Emtricitabine and Tenofovir Disoproxil Fumarate"
+      ],
+      "combination": true,
+      "home_inn": "emtricitabine",
+      "ingredients": [
+        "EMTRICITABINE",
+        "TENOFOVIR DISOPROXIL FUMARATE"
+      ],
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-08-26",
+      "moieties": [
+        "EMTRICITABINE",
+        "TENOFOVIR DISOPROXIL"
+      ],
+      "product_ndcs": [
+        "60219-2095"
+      ],
+      "rxcui": [
+        "476556"
+      ],
+      "setid": "94d78028-4ba5-4a5d-bd6f-5eca2a1b4b9d",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "EMTRICITABINE AND TENOFOVIR DISOPROXIL FUMARATE TABLET, FILM COATED [AMNEAL PHARMACEUTICALS NY LLC]",
+      "upload_date": "2023-12-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA212114"
+      ],
+      "brand_names": [
+        "Emtricitabine and Tenofovir Disoproxil Fumarate"
+      ],
+      "combination": true,
+      "home_inn": "emtricitabine",
+      "ingredients": [
+        "EMTRICITABINE",
+        "TENOFOVIR DISOPROXIL FUMARATE"
+      ],
+      "labeler": "Laurus Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-07-26",
+      "moieties": [
+        "EMTRICITABINE",
+        "TENOFOVIR DISOPROXIL"
+      ],
+      "product_ndcs": [
+        "42385-953"
+      ],
+      "rxcui": [
+        "476556"
+      ],
+      "setid": "4a7ccbbf-da20-4012-9717-31c411efb3fb",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "EMTRICITABINE AND TENOFOVIR DISOPROXIL FUMARATE TABLET, FILM COATED [LAURUS LABS LIMITED]",
+      "upload_date": "2025-09-01"
+    },
+    {
+      "application_numbers": [
+        "ANDA203442"
+      ],
+      "brand_names": [
+        "Emtricitabine and tenofovir disoproxil fumarate"
+      ],
+      "combination": true,
+      "home_inn": "emtricitabine",
+      "ingredients": [
+        "EMTRICITABINE",
+        "TENOFOVIR DISOPROXIL FUMARATE"
+      ],
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-05-15",
+      "moieties": [
+        "EMTRICITABINE",
+        "TENOFOVIR DISOPROXIL"
+      ],
+      "product_ndcs": [
+        "33342-106"
+      ],
+      "rxcui": [
+        "476556"
+      ],
+      "setid": "bc858a35-e0e1-450b-95c3-db3a4fe51a4c",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "EMTRICITABINE AND TENOFOVIR DISOPROXIL FUMARATE TABLET, FILM COATED [MACLEODS PHARMACEUTICALS LIMITED]",
+      "upload_date": "2024-07-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA091215"
+      ],
+      "brand_names": [
+        "Efavirenz, Emtricitabine and Tenofovir Disoproxil Fumarate"
+      ],
+      "combination": true,
+      "home_inn": "emtricitabine",
+      "ingredients": [
+        "EFAVIRENZ",
+        "EMTRICITABINE",
+        "TENOFOVIR DISOPROXIL FUMARATE"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-10-01",
+      "moieties": [
+        "EFAVIRENZ",
+        "EMTRICITABINE",
+        "TENOFOVIR DISOPROXIL"
+      ],
+      "product_ndcs": [
+        "0093-5234"
+      ],
+      "rxcui": [
+        "643066"
+      ],
+      "setid": "fc9c2149-8d40-401b-af13-5ae7f953950a",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "EFAVIRENZ, EMTRICITABINE AND TENOFOVIR DISOPROXIL FUMARATE TABLET, FILM COATED [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2024-07-08"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "EMTRIVA"
+      ],
+      "first_posted": "2006-11-17",
+      "found_by": "EMTRIVA",
+      "labeler": "Gilead Sciences, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2006-11-17",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "61958-0601",
+        "61958-0602"
+      ],
+      "rxcui": [],
+      "setid": "f6d2380b-2208-421f-b881-bad4b2d4f25d",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "emtriva (emtricitabine) capsule emtriva (emtricitabine) solution"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "EMTRIVA"
+      ],
+      "first_posted": "2008-05-22",
+      "found_by": "EMTRIVA",
+      "labeler": "Gilead Sciences, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2008-05-22",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "61958-0601",
+        "61958-0602"
+      ],
+      "rxcui": [],
+      "setid": "fddb6da0-f53f-4964-ba94-c37a1ae5f4d6",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "emtriva (emtricitabine) capsule emtriva (emtricitabine) solution"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": true,
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e1e4d828-7870-4ea9-a66a-e658487bd859"
+    },
+    {
+      "combination": true,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7def7a95-e69e-4985-974a-efacadcecc95"
+    },
+    {
+      "combination": true,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1ac2a796-495e-4182-8eec-40363d8a85c0"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1b71df95-b1ce-4e40-908a-67fb336457f4"
+    },
+    {
+      "combination": true,
+      "labeler": "Strides Pharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7ecc604c-c4b4-4419-a733-ecb11662fc81"
+    },
+    {
+      "combination": true,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a7d94a1c-31b0-4272-8f8d-186d580e16e0"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d8c32565-9ff2-4bfb-a5cf-ae6e0e498ccc"
+    },
+    {
+      "combination": true,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e4fb5710-e23b-429e-9b51-c12366e614fc"
+    },
+    {
+      "combination": true,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3b244bb3-2e8b-4fde-b69d-330aca56fb8e"
+    },
+    {
+      "combination": true,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7fa6961e-3602-4e31-a60a-e5735899f63b"
+    },
+    {
+      "combination": true,
+      "labeler": "Laurus Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "aca22076-f435-4533-9fcf-566b0734c313"
+    },
+    {
+      "combination": true,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5f261872-d705-4549-a43d-2ad6b0164dc3"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "974d2ec8-1b51-4e69-991d-0d5dea8360f4"
+    },
+    {
+      "combination": true,
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d9a4185e-43fa-4aeb-9b0f-8db01b166038"
+    },
+    {
+      "combination": true,
+      "labeler": "Laurus Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7193c90e-456c-4cfb-8181-65a1618dae51"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b0459301-2bff-4336-9172-b90c7a582433"
+    },
+    {
+      "combination": true,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a0ee89b6-72c3-4b99-8d1c-d7473f1d5ef3"
+    },
+    {
+      "combination": true,
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bc37cba9-83c8-4660-a527-cd77fae9ea87"
+    },
+    {
+      "combination": true,
+      "labeler": "Exelan Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "31af598d-6ef2-469b-ac4c-3ac805e6fa44"
+    },
+    {
+      "combination": true,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d08c9455-e788-435c-9076-2bdb1a4f5b37"
+    },
+    {
+      "combination": true,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fbbc7b73-eddf-40b5-8ebb-7b3d9c42dba6"
+    },
+    {
+      "combination": true,
+      "labeler": "QUALLENT PHARMACEUTICALS HEALTH LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4af2529d-a14f-4337-87ed-04f8f27da746"
+    }
+  ]
+}

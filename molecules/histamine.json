@@ -1,0 +1,127 @@
+{
+  "biologic": true,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/000796",
+      "eu_number": "EU/1/08/477",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000796",
+      "mah": "Laboratoires Delbert",
+      "marketing_authorisation_date": "2008-10-07",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ceplene",
+      "name": "Ceplene",
+      "record_from": "2008-10-07",
+      "record_to": "2026-11-03",
+      "role": "reference",
+      "versions": 14
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000796",
+    "reference_selected_by": "salt-alias-v2",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "HISTAMINE",
+    "HISTAMINE PHOSPHATE"
+  ],
+  "inn": "histamine",
+  "name": "HISTAMINE",
+  "rank": 398,
+  "rxcui": [],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 2,
+    "approval_holders": 2,
+    "earliest_marketing_start": "1989-10-23",
+    "latest_label_update": "2026-04-06",
+    "nda_bla_applications": 2,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "HISTAMINE",
+      "unii": "820484N8I3"
+    },
+    {
+      "ingredient": "HISTAMINE PHOSPHATE",
+      "unii": "QWB37T4WZZ"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "BLA103754"
+      ],
+      "brand_names": [
+        "Histamine Positive Skin Test Control",
+        "histamine positive skin test control"
+      ],
+      "combination": false,
+      "home_inn": "histamine",
+      "ingredients": [
+        "HISTAMINE PHOSPHATE"
+      ],
+      "labeler": "ALK-Abello, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "1989-10-23",
+      "moieties": [
+        "HISTAMINE"
+      ],
+      "product_ndcs": [
+        "0268-0247",
+        "0268-0248"
+      ],
+      "rxcui": [],
+      "setid": "1159c24c-d9ce-49a2-b0bd-dc27c710f146",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "HISTAMINE POSITIVE SKIN TEST CONTROL (HISTAMINE PHOSPHATE) INJECTION, SOLUTION HISTAMINE POSITIVE SKIN TEST CONTROL (HISTAMINE PHOSPHATE) SOLUTION [ALK-ABELLO, INC.]",
+      "upload_date": "2020-08-26"
+    },
+    {
+      "application_numbers": [
+        "BLA103891"
+      ],
+      "brand_names": [
+        "Positive Skin Test Control - Histamine"
+      ],
+      "combination": false,
+      "home_inn": "histamine",
+      "ingredients": [
+        "HISTAMINE"
+      ],
+      "labeler": "Jubilant HollisterStier LLC",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "1995-06-15",
+      "moieties": [
+        "HISTAMINE"
+      ],
+      "product_ndcs": [
+        "65044-9998"
+      ],
+      "rxcui": [],
+      "setid": "5c20f3f4-65f8-4cdb-bdd1-5774da1c551b",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "POSITIVE SKIN TEST CONTROL - HISTAMINE (HISTAMINE) INJECTION [JUBILANT HOLLISTERSTIER LLC]",
+      "upload_date": "2026-04-06"
+    }
+  ],
+  "us_excluded": []
+}

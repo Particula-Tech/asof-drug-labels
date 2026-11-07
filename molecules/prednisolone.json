@@ -1,0 +1,839 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "PREDNISOLONE",
+    "PREDNISOLONE ACETATE",
+    "PREDNISOLONE SODIUM PHOSPHATE"
+  ],
+  "inn": "prednisolone",
+  "name": "PREDNISOLONE",
+  "rank": 170,
+  "rxcui": [
+    "198142",
+    "209002",
+    "312614",
+    "314165",
+    "562379",
+    "643123",
+    "643125",
+    "643127",
+    "647127",
+    "668658",
+    "668660",
+    "1376336",
+    "1548724"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 31,
+    "approval_holders": 22,
+    "earliest_marketing_start": "1972-12-01",
+    "latest_label_update": "2026-09-04",
+    "nda_bla_applications": 4,
+    "repackagers": 9
+  },
+  "unii": [
+    {
+      "ingredient": "PREDNISOLONE",
+      "unii": "9PHQ9Y1OLM"
+    },
+    {
+      "ingredient": "PREDNISOLONE ACETATE",
+      "unii": "8B2807733D"
+    },
+    {
+      "ingredient": "PREDNISOLONE SODIUM PHOSPHATE",
+      "unii": "IV021NXA9J"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA017100"
+      ],
+      "brand_names": [
+        "PRED MILD"
+      ],
+      "combination": false,
+      "home_inn": "prednisolone",
+      "ingredients": [
+        "PREDNISOLONE ACETATE"
+      ],
+      "labeler": "Allergan, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1972-12-01",
+      "moieties": [
+        "PREDNISOLONE"
+      ],
+      "product_ndcs": [
+        "11980-174"
+      ],
+      "rxcui": [
+        "209002",
+        "562379"
+      ],
+      "setid": "4fcce64a-94ea-4031-ad5a-c4eddc73a910",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "PRED MILD (PREDNISOLONE ACETATE) SUSPENSION/ DROPS [ALLERGAN, INC.]",
+      "upload_date": "2026-01-15"
+    },
+    {
+      "application_numbers": [
+        "NDA017011"
+      ],
+      "brand_names": [
+        "PRED FORTE"
+      ],
+      "combination": false,
+      "home_inn": "prednisolone",
+      "ingredients": [
+        "PREDNISOLONE ACETATE"
+      ],
+      "labeler": "Allergan, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1973-06-01",
+      "moieties": [
+        "PREDNISOLONE"
+      ],
+      "product_ndcs": [
+        "11980-180"
+      ],
+      "rxcui": [
+        "1376336",
+        "1548724"
+      ],
+      "setid": "00a5aa88-e361-4ea7-8922-530c738b726e",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "PRED FORTE (PREDNISOLONE ACETATE) SUSPENSION/ DROPS [ALLERGAN, INC.]",
+      "upload_date": "2026-01-09"
+    },
+    {
+      "application_numbers": [
+        "NDA021959"
+      ],
+      "brand_names": [
+        "Orapred ODT"
+      ],
+      "combination": false,
+      "home_inn": "prednisolone",
+      "ingredients": [
+        "PREDNISOLONE SODIUM PHOSPHATE"
+      ],
+      "labeler": "Advanz Pharma (US) Corp.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2006-06-01",
+      "moieties": [
+        "PREDNISOLONE"
+      ],
+      "product_ndcs": [
+        "59212-700",
+        "59212-701",
+        "59212-702"
+      ],
+      "rxcui": [
+        "643123",
+        "643125",
+        "643127",
+        "647127",
+        "668658",
+        "668660"
+      ],
+      "setid": "1e379543-c4cf-4e72-953b-db15b7f0c2a1",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "ORAPRED ODT (PREDNISOLONE SODIUM PHOSPHATE) TABLET, ORALLY DISINTEGRATING [ADVANZ PHARMA (US) CORP.]",
+      "upload_date": "2025-06-20"
+    },
+    {
+      "application_numbers": [
+        "NDA019157"
+      ],
+      "brand_names": [
+        "Prednisolone Sodium Phosphate"
+      ],
+      "combination": false,
+      "home_inn": "prednisolone",
+      "ingredients": [
+        "PREDNISOLONE SODIUM PHOSPHATE"
+      ],
+      "labeler": "Seton Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2013-10-18",
+      "moieties": [
+        "PREDNISOLONE"
+      ],
+      "product_ndcs": [
+        "13925-166"
+      ],
+      "rxcui": [
+        "312614"
+      ],
+      "setid": "833ba492-8823-43b4-9a91-8b28d94a740b",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "PREDNISOLONE SODIUM PHOSPHATE SOLUTION [SETON PHARMACEUTICALS, LLC]",
+      "upload_date": "2024-09-25"
+    },
+    {
+      "application_numbers": [
+        "NDA019157"
+      ],
+      "brand_names": [
+        "PrednisoLONE Sodium Phosphate"
+      ],
+      "combination": false,
+      "home_inn": "prednisolone",
+      "ingredients": [
+        "PREDNISOLONE SODIUM PHOSPHATE"
+      ],
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2026-06-26",
+      "moieties": [
+        "PREDNISOLONE"
+      ],
+      "product_ndcs": [
+        "0121-1100"
+      ],
+      "rxcui": [
+        "312614"
+      ],
+      "setid": "d1f937e7-fed5-4079-bd52-5d930b34ae9f",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "PREDNISOLONE SODIUM PHOSPHATE SOLUTION [PAI HOLDINGS, LLC DBA PAI PHARMA]",
+      "upload_date": "2026-07-13"
+    },
+    {
+      "application_numbers": [
+        "NDA017469"
+      ],
+      "brand_names": [
+        "Prednisolone Acetate"
+      ],
+      "combination": false,
+      "home_inn": "prednisolone",
+      "ingredients": [
+        "PREDNISOLONE ACETATE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "1994-12-15",
+      "moieties": [
+        "PREDNISOLONE"
+      ],
+      "product_ndcs": [
+        "61314-637"
+      ],
+      "rxcui": [
+        "1376336"
+      ],
+      "setid": "05d205c7-8f51-46b9-a6c5-4199bc432b26",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "PREDNISOLONE ACETATE SUSPENSION/ DROPS [SANDOZ INC]",
+      "upload_date": "2025-01-08"
+    },
+    {
+      "application_numbers": [
+        "NDA017011"
+      ],
+      "brand_names": [
+        "PREDNISOLONE ACETATE"
+      ],
+      "combination": false,
+      "home_inn": "prednisolone",
+      "ingredients": [
+        "PREDNISOLONE ACETATE"
+      ],
+      "labeler": "Pacific Pharma, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "1997-08-19",
+      "moieties": [
+        "PREDNISOLONE"
+      ],
+      "product_ndcs": [
+        "60758-119"
+      ],
+      "rxcui": [
+        "1376336"
+      ],
+      "setid": "1474d1df-70b6-4b1e-86d1-3349aa6d42fb",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "PREDNISOLONE ACETATE SUSPENSION/ DROPS [PACIFIC PHARMA, INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "NDA021959"
+      ],
+      "brand_names": [
+        "prednisolone sodium phosphate ODT"
+      ],
+      "combination": false,
+      "home_inn": "prednisolone",
+      "ingredients": [
+        "PREDNISOLONE SODIUM PHOSPHATE"
+      ],
+      "labeler": "Ingenus Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2025-09-15",
+      "moieties": [
+        "PREDNISOLONE"
+      ],
+      "product_ndcs": [
+        "50742-383",
+        "50742-384",
+        "50742-385"
+      ],
+      "rxcui": [
+        "643123",
+        "643125",
+        "643127"
+      ],
+      "setid": "ebbc1751-9381-4db1-89ff-ae5a2963fb2c",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "PREDNISOLONE SODIUM PHOSPHATE ODT (PREDNISOLONE SODIUM PHOSPHATE) TABLET, ORALLY DISINTEGRATING [INGENUS PHARMACEUTICALS, LLC]",
+      "upload_date": "2025-10-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA080531"
+      ],
+      "brand_names": [
+        "Prednisolone"
+      ],
+      "combination": false,
+      "home_inn": "prednisolone",
+      "ingredients": [
+        "PREDNISOLONE"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1974-05-31",
+      "moieties": [
+        "PREDNISOLONE"
+      ],
+      "product_ndcs": [
+        "62135-437"
+      ],
+      "rxcui": [
+        "198142"
+      ],
+      "setid": "2e965355-f7f2-4dd3-9c5c-1524c6f39c91",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "PREDNISOLONE TABLET [CHARTWELL RX, LLC]",
+      "upload_date": "2024-06-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA040070"
+      ],
+      "brand_names": [
+        "PREDNISOLONE SODIUM PHOSPHATE"
+      ],
+      "combination": false,
+      "home_inn": "prednisolone",
+      "ingredients": [
+        "PREDNISOLONE SODIUM PHOSPHATE"
+      ],
+      "labeler": "Bausch & Lomb Incorporated",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1994-07-29",
+      "moieties": [
+        "PREDNISOLONE"
+      ],
+      "product_ndcs": [
+        "24208-715"
+      ],
+      "rxcui": [
+        "314165"
+      ],
+      "setid": "8a7f0f2a-3a48-4488-89cd-3e91c3b1365f",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "PREDNISOLONE SODIUM PHOSPHATE SOLUTION/ DROPS [BAUSCH & LOMB INCORPORATED]",
+      "upload_date": "2023-06-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA075988"
+      ],
+      "brand_names": [
+        "Prednisolone Sodium Phosphate"
+      ],
+      "combination": false,
+      "home_inn": "prednisolone",
+      "ingredients": [
+        "PREDNISOLONE SODIUM PHOSPHATE"
+      ],
+      "labeler": "Chartwell RX, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2004-05-25",
+      "moieties": [
+        "PREDNISOLONE"
+      ],
+      "product_ndcs": [
+        "62135-330"
+      ],
+      "rxcui": [
+        "312614"
+      ],
+      "setid": "2d8c861d-3756-4b75-aaa9-1b82cf11eb94",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "PREDNISOLONE SODIUM PHOSPHATE SOLUTION [CHARTWELL RX, LLC.]",
+      "upload_date": "2026-02-16"
+    },
+    {
+      "application_numbers": [
+        "NDA019157"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "PEDIAPRED"
+      ],
+      "first_posted": "2012-09-04",
+      "found_by": "PEDIAPRED",
+      "labeler": "Unither Manufacturing, LLC",
+      "labeler_unverified": true,
+      "last_posted": "2015-09-15",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2014-12-31"
+      ],
+      "product_ndcs": [
+        "53014-250"
+      ],
+      "rxcui": [],
+      "setid": "08f3bc2f-0862-4e35-b656-777fbe4d66c4",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "833ba492-8823-43b4-9a91-8b28d94a740b",
+        "d1f937e7-fed5-4079-bd52-5d930b34ae9f"
+      ],
+      "title": "PEDIAPRED (prednisolone sodium phosphate) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA021959"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "ORAPRED"
+      ],
+      "first_posted": "2011-12-09",
+      "found_by": "ORAPRED",
+      "labeler": "Shionogi Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2016-09-12",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-03-31",
+        "2015-08-31",
+        "2016-08-31"
+      ],
+      "product_ndcs": [
+        "59630-700",
+        "59630-701",
+        "59630-702"
+      ],
+      "rxcui": [],
+      "setid": "1af1b064-b9e0-4354-8e34-dca85b634bbc",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "1e379543-c4cf-4e72-953b-db15b7f0c2a1",
+        "ebbc1751-9381-4db1-89ff-ae5a2963fb2c"
+      ],
+      "title": "ORAPRED ODT (prednisolone sodium phosphate) tablet, orally disintegrating"
+    },
+    {
+      "application_numbers": [
+        "NDA019157"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "PEDIAPRED"
+      ],
+      "first_posted": "2017-07-17",
+      "found_by": "PEDIAPRED",
+      "labeler": "Royal Pharmaceuticals",
+      "labeler_unverified": false,
+      "last_posted": "2025-11-21",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-05-22"
+      ],
+      "product_ndcs": [
+        "68791-104"
+      ],
+      "rxcui": [],
+      "setid": "1b996564-a777-4d37-ae00-b6a5ffc5e596",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "833ba492-8823-43b4-9a91-8b28d94a740b",
+        "d1f937e7-fed5-4079-bd52-5d930b34ae9f"
+      ],
+      "title": "PEDIAPRED (prednisolone sodium phosphate) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA017469"
+      ],
+      "archived_versions": 9,
+      "brand_names": [
+        "OMNIPRED"
+      ],
+      "first_posted": "2008-03-13",
+      "found_by": "OMNIPRED",
+      "labeler": "Alcon Laboratories, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2022-03-16",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-05-31"
+      ],
+      "product_ndcs": [
+        "0065-0638"
+      ],
+      "rxcui": [],
+      "setid": "4bbb4356-b4b3-4497-a3a3-8f4b65d326fe",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "05d205c7-8f51-46b9-a6c5-4199bc432b26"
+      ],
+      "title": "OMNIPRED (prednisolone acetate) suspension"
+    },
+    {
+      "application_numbers": [
+        "NDA022067"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "FLO PRED"
+      ],
+      "first_posted": "2008-08-07",
+      "found_by": "FLO-PRED",
+      "labeler": "Taro Pharmaceuticals U.S.A., Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2023-03-23",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-03-17"
+      ],
+      "product_ndcs": [
+        "51672-1338"
+      ],
+      "rxcui": [],
+      "setid": "980b3c11-a502-4235-bbff-af83a17ebcdf",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "FLO-PRED (prednisolone acetate) suspension"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "ECONOPRED"
+      ],
+      "first_posted": "2006-09-21",
+      "found_by": "ECONOPRED",
+      "labeler": "Alcon Laboratories, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2006-09-21",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0998-0635",
+        "0998-0637"
+      ],
+      "rxcui": [],
+      "setid": "l2d6c3ea4-5189-4f6e-bb6a-c9379f441d7a",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "econopred (prednisolone acetate) suspension"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "OMNIPRED"
+      ],
+      "first_posted": "2007-11-01",
+      "found_by": "OMNIPRED",
+      "labeler": "Alcon Laboratories, INC.",
+      "labeler_unverified": false,
+      "last_posted": "2007-11-01",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0065-0638"
+      ],
+      "rxcui": [],
+      "setid": "l4bbb4356-b4b3-4497-a3a3-8f4b65d326fe",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "omnipred (prednisolone acetate) suspension"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "ECONOPRED"
+      ],
+      "first_posted": "2006-09-21",
+      "found_by": "ECONOPRED",
+      "labeler": "ALCON LABORATORIES, INC.",
+      "labeler_unverified": false,
+      "last_posted": "2006-09-21",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0998-0637"
+      ],
+      "rxcui": [],
+      "setid": "l92ae1de4-6b27-4f03-acb5-7170664f67cb",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "econopred (prednisolone acetate) suspension"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a0d74ae0-7b2d-4d36-9211-c76f5063b5a9"
+    },
+    {
+      "combination": false,
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "86652e2d-664a-4388-a611-c2a9aa4a4bc8"
+    },
+    {
+      "combination": false,
+      "labeler": "Edenbridge Pharmaceuticals LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1793e218-7b49-497d-879f-1020de6e6d68"
+    },
+    {
+      "combination": false,
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "93cd0ddd-1cf5-4064-9a4c-015819c0065a"
+    },
+    {
+      "combination": false,
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "acc8badf-d9fd-4f99-a650-a149138b68b1"
+    },
+    {
+      "combination": false,
+      "labeler": "BioComp Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "95208441-1700-5d3f-e053-2a95a90a7da2"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "286a6032-41de-435a-b6e6-14052b66b85d"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell Governmental & Specialty RX, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2dac9898-6492-4f34-ad86-83a902e0fe0b"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "070f1937-50a5-457f-bef5-4e597014e26d"
+    },
+    {
+      "combination": false,
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cebd7b5b-8e9f-4de9-9fcf-8ee0661fede3"
+    },
+    {
+      "combination": false,
+      "labeler": "Hisun Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "16d4e064-66d3-4497-8c7d-3aa355f91e1d"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "75fbeab1-ce8d-4999-a875-472174be5cc6"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8d8e8f9b-4d65-426f-8c57-451001cdd849"
+    },
+    {
+      "combination": false,
+      "labeler": "Tulex Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "757b41c4-a0fe-4a09-8816-a4cdb7558f41"
+    },
+    {
+      "combination": true,
+      "labeler": "Bausch & Lomb Incoporated",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9ec403eb-b5df-4e41-9e17-9d9d8ecac3f3"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell Governmental & Specialty RX, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5ec401b5-132a-4cd2-8c24-6a5c8b63c2f9"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "aa40f582-cced-4e6e-90f0-10ab310ab2a7"
+    },
+    {
+      "combination": false,
+      "labeler": "Zhejiang Xianju Pharmaceutical Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "52e6e21d-94b8-41a0-8d13-371c0e66bcee"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharma Labs Inc. d/b/a Avet Pharmaceuticals Labs Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b079834f-9aa3-4db9-bd53-de28e8f81c04"
+    },
+    {
+      "combination": false,
+      "labeler": "TRUPHARMA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4f83514d-5342-4748-a0d3-b0306ca303c8"
+    }
+  ]
+}

@@ -1,0 +1,916 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "TOPIRAMATE"
+  ],
+  "inn": "topiramate",
+  "name": "TOPIRAMATE",
+  "rank": 86,
+  "rxcui": [
+    "151226",
+    "151227",
+    "151228",
+    "151229",
+    "152855",
+    "199888",
+    "199889",
+    "199890",
+    "205315",
+    "205316",
+    "252413",
+    "845478",
+    "845479",
+    "1302827",
+    "1302833",
+    "1302839",
+    "1302845",
+    "1302850",
+    "1302856",
+    "1313059",
+    "1313061",
+    "1436239",
+    "1436245",
+    "1437278",
+    "1437280",
+    "1437283",
+    "1437285",
+    "1437288",
+    "1437290",
+    "1494766",
+    "1494769",
+    "1494771",
+    "1494775",
+    "1494778",
+    "1494781",
+    "1812419",
+    "1812421",
+    "1812425",
+    "1812427",
+    "2586427",
+    "2586433"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 47,
+    "approval_holders": 27,
+    "earliest_marketing_start": "1997-01-01",
+    "latest_label_update": "2026-10-16",
+    "nda_bla_applications": 6,
+    "repackagers": 22
+  },
+  "unii": [
+    {
+      "ingredient": "TOPIRAMATE",
+      "unii": "0H73WJJ391"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020505",
+        "NDA020844"
+      ],
+      "brand_names": [
+        "Topamax"
+      ],
+      "combination": false,
+      "home_inn": "topiramate",
+      "ingredients": [
+        "TOPIRAMATE"
+      ],
+      "labeler": "Janssen Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1997-01-01",
+      "moieties": [
+        "TOPIRAMATE"
+      ],
+      "product_ndcs": [
+        "50458-639",
+        "50458-640",
+        "50458-641",
+        "50458-642",
+        "50458-645",
+        "50458-647"
+      ],
+      "rxcui": [
+        "151226",
+        "151227",
+        "151228",
+        "151229",
+        "152855",
+        "199888",
+        "199889",
+        "199890",
+        "205315",
+        "205316",
+        "845478",
+        "845479"
+      ],
+      "setid": "21628112-0c47-11df-95b3-498d55d89593",
+      "source": "dailymed-title-match",
+      "spl_version": 31,
+      "title": "TOPAMAX (TOPIRAMATE) TABLET, COATED TOPAMAX (TOPIRAMATE) CAPSULE, COATED PELLETS [JANSSEN PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-10-06"
+    },
+    {
+      "application_numbers": [
+        "NDA201635"
+      ],
+      "brand_names": [
+        "Trokendi XR"
+      ],
+      "combination": false,
+      "home_inn": "topiramate",
+      "ingredients": [
+        "TOPIRAMATE"
+      ],
+      "labeler": "Supernus Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2013-08-16",
+      "moieties": [
+        "TOPIRAMATE"
+      ],
+      "product_ndcs": [
+        "17772-101",
+        "17772-102",
+        "17772-103",
+        "17772-104"
+      ],
+      "rxcui": [
+        "1436239",
+        "1436245",
+        "1437278",
+        "1437280",
+        "1437283",
+        "1437285",
+        "1437288",
+        "1437290"
+      ],
+      "setid": "2dc7957e-a3e5-46bb-aa66-f3250f872f5e",
+      "source": "dailymed-title-match",
+      "spl_version": 31,
+      "title": "TROKENDI XR (TOPIRAMATE) CAPSULE, EXTENDED RELEASE [SUPERNUS PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-10-06"
+    },
+    {
+      "application_numbers": [
+        "NDA205122"
+      ],
+      "brand_names": [
+        "QUDEXY XR"
+      ],
+      "combination": false,
+      "home_inn": "topiramate",
+      "ingredients": [
+        "TOPIRAMATE"
+      ],
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2014-04-11",
+      "moieties": [
+        "TOPIRAMATE"
+      ],
+      "product_ndcs": [
+        "0245-1071",
+        "0245-1072",
+        "0245-1073",
+        "0245-1074",
+        "0245-1075"
+      ],
+      "rxcui": [
+        "1494766",
+        "1494769",
+        "1494771",
+        "1494775",
+        "1494778",
+        "1494781",
+        "1812419",
+        "1812421",
+        "1812425",
+        "1812427"
+      ],
+      "setid": "46f54677-3a22-4c38-9b92-923020164e15",
+      "source": "openfda",
+      "spl_version": 30,
+      "title": "QUDEXY XR (TOPIRAMATE) CAPSULE, EXTENDED RELEASE QUDEXY XR (TOPIRAMATE) CAPSULE, EXTENDED RELEASE [UPSHER-SMITH LABORATORIES, LLC]",
+      "upload_date": "2026-09-10"
+    },
+    {
+      "application_numbers": [
+        "NDA214679"
+      ],
+      "brand_names": [
+        "Eprontia"
+      ],
+      "combination": false,
+      "home_inn": "topiramate",
+      "ingredients": [
+        "TOPIRAMATE"
+      ],
+      "labeler": "Azurity Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-12-06",
+      "moieties": [
+        "TOPIRAMATE"
+      ],
+      "product_ndcs": [
+        "52652-9001"
+      ],
+      "rxcui": [
+        "2586427",
+        "2586433"
+      ],
+      "setid": "e2a4df59-fead-4a01-9021-9eda02c48010",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "EPRONTIA (TOPIRAMATE) SOLUTION [AZURITY PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-03-23"
+    },
+    {
+      "application_numbers": [
+        "NDA022580"
+      ],
+      "brand_names": [
+        "Qsymia"
+      ],
+      "combination": true,
+      "home_inn": "topiramate",
+      "ingredients": [
+        "PHENTERMINE HYDROCHLORIDE",
+        "TOPIRAMATE"
+      ],
+      "labeler": "Vivus LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2012-09-17",
+      "moieties": [
+        "PHENTERMINE",
+        "TOPIRAMATE"
+      ],
+      "product_ndcs": [
+        "62541-201",
+        "62541-202",
+        "62541-203",
+        "62541-204"
+      ],
+      "rxcui": [
+        "1302827",
+        "1302833",
+        "1302839",
+        "1302845",
+        "1302850",
+        "1302856",
+        "1313059",
+        "1313061"
+      ],
+      "setid": "40dd5602-53da-45ac-bb4b-15789aba40f9",
+      "source": "openfda",
+      "spl_version": 42,
+      "title": "QSYMIA (PHENTERMINE AND TOPIRAMATE) CAPSULE, EXTENDED RELEASE [VIVUS LLC]",
+      "upload_date": "2026-04-24"
+    },
+    {
+      "application_numbers": [
+        "NDA205122"
+      ],
+      "brand_names": [
+        "Topiramate"
+      ],
+      "combination": false,
+      "home_inn": "topiramate",
+      "ingredients": [
+        "TOPIRAMATE"
+      ],
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2014-07-07",
+      "moieties": [
+        "TOPIRAMATE"
+      ],
+      "product_ndcs": [
+        "0832-1071",
+        "0832-1072",
+        "0832-1073",
+        "0832-1074",
+        "0832-1075"
+      ],
+      "rxcui": [
+        "1494769",
+        "1812419",
+        "1812421",
+        "1812425",
+        "1812427"
+      ],
+      "setid": "691d276c-9cc1-4d39-828f-0f44d7ef6328",
+      "source": "openfda",
+      "spl_version": 23,
+      "title": "TOPIRAMATE CAPSULE, EXTENDED RELEASE [UPSHER-SMITH LABORATORIES, LLC]",
+      "upload_date": "2026-08-20"
+    },
+    {
+      "application_numbers": [
+        "ANDA078462"
+      ],
+      "brand_names": [
+        "Topiramate"
+      ],
+      "combination": false,
+      "home_inn": "topiramate",
+      "ingredients": [
+        "TOPIRAMATE"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-03-27",
+      "moieties": [
+        "TOPIRAMATE"
+      ],
+      "product_ndcs": [
+        "65862-171",
+        "65862-172",
+        "65862-173",
+        "65862-174"
+      ],
+      "rxcui": [
+        "151226",
+        "199888",
+        "199889",
+        "199890"
+      ],
+      "setid": "32b48ea0-a215-43b8-83b4-a5435a686d68",
+      "source": "openfda",
+      "spl_version": 33,
+      "title": "TOPIRAMATE TABLET, FILM COATED [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2026-04-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA077627"
+      ],
+      "brand_names": [
+        "Topiramate"
+      ],
+      "combination": false,
+      "home_inn": "topiramate",
+      "ingredients": [
+        "TOPIRAMATE"
+      ],
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-03-27",
+      "moieties": [
+        "TOPIRAMATE"
+      ],
+      "product_ndcs": [
+        "68462-108",
+        "68462-109",
+        "68462-110",
+        "68462-153"
+      ],
+      "rxcui": [
+        "151226",
+        "199888",
+        "199889",
+        "199890"
+      ],
+      "setid": "35312f49-decf-428d-bf5f-4215b762ed3c",
+      "source": "openfda",
+      "spl_version": 26,
+      "title": "TOPIRAMATE TABLET, FILM COATED [GLENMARK PHARMACEUTICALS INC., USA]",
+      "upload_date": "2026-04-16"
+    },
+    {
+      "application_numbers": [
+        "ANDA078235"
+      ],
+      "brand_names": [
+        "topiramate"
+      ],
+      "combination": false,
+      "home_inn": "topiramate",
+      "ingredients": [
+        "TOPIRAMATE"
+      ],
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-03-27",
+      "moieties": [
+        "TOPIRAMATE"
+      ],
+      "product_ndcs": [
+        "65841-647",
+        "65841-648",
+        "65841-649",
+        "65841-650"
+      ],
+      "rxcui": [
+        "151226",
+        "199888",
+        "199889",
+        "199890"
+      ],
+      "setid": "57016639-89fe-43ad-89c4-5e7a756dddec",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "TOPIRAMATE TABLET, FILM COATED [ZYDUS LIFESCIENCES LIMITED]",
+      "upload_date": "2024-08-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA078877"
+      ],
+      "brand_names": [
+        "topiramate"
+      ],
+      "combination": false,
+      "home_inn": "topiramate",
+      "ingredients": [
+        "TOPIRAMATE"
+      ],
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-10-14",
+      "moieties": [
+        "TOPIRAMATE"
+      ],
+      "product_ndcs": [
+        "65841-651",
+        "65841-652",
+        "65841-846"
+      ],
+      "rxcui": [
+        "205315",
+        "205316",
+        "252413"
+      ],
+      "setid": "6f9d59e3-d10d-48f3-af01-83ba3e1e3a2b",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "TOPIRAMATE CAPSULE, COATED PELLETS [ZYDUS LIFESCIENCES LIMITED]",
+      "upload_date": "2024-10-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA090162"
+      ],
+      "brand_names": [
+        "topiramate"
+      ],
+      "combination": false,
+      "home_inn": "topiramate",
+      "ingredients": [
+        "TOPIRAMATE"
+      ],
+      "labeler": "Unichem Pharmaceuticals (USA), Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-07-01",
+      "moieties": [
+        "TOPIRAMATE"
+      ],
+      "product_ndcs": [
+        "29300-115",
+        "29300-116",
+        "29300-117",
+        "29300-118"
+      ],
+      "rxcui": [
+        "151226",
+        "199888",
+        "199889",
+        "199890"
+      ],
+      "setid": "6ee00e82-799d-445e-b658-a9712c49a28e",
+      "source": "openfda",
+      "spl_version": 20,
+      "title": "TOPIRAMATE TABLET, FILM COATED [UNICHEM PHARMACEUTICALS (USA), INC.]",
+      "upload_date": "2026-04-09"
+    },
+    {
+      "application_numbers": [
+        "NDA214679"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "EPRONTIA"
+      ],
+      "first_posted": "2025-06-19",
+      "found_by": "EPRONTIA",
+      "labeler": "Praxis, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2025-06-19",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "59368-405"
+      ],
+      "rxcui": [],
+      "setid": "37c8a54c-a803-d22f-e063-6294a90a8f5d",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "e2a4df59-fead-4a01-9021-9eda02c48010"
+      ],
+      "title": "EPRONTIA (topiramate) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA020505",
+        "NDA020844"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "TOPAMAX"
+      ],
+      "first_posted": "2008-05-22",
+      "found_by": "TOPAMAX",
+      "labeler": "McNeil Pharmaceuticals",
+      "labeler_unverified": true,
+      "last_posted": "2012-05-30",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2010-07-31",
+        "2010-08-31",
+        "2010-09-30",
+        "2010-10-31"
+      ],
+      "product_ndcs": [
+        "0045-0639",
+        "0045-0640",
+        "0045-0641",
+        "0045-0642",
+        "0045-0645",
+        "0045-0647"
+      ],
+      "rxcui": [],
+      "setid": "dede8847-972b-41df-9f68-2e069f269af8",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "21628112-0c47-11df-95b3-498d55d89593"
+      ],
+      "title": "TOPAMAX (topiramate) capsule, coated pellets TOPAMAX (topiramate) tablet, coated"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ca4ec248-285d-4066-8f89-5ed0c538c4c9"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3c909a53-ae66-4b28-a741-b60bb25a69cf"
+    },
+    {
+      "combination": false,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4087eb3c-96e9-4d0a-b80b-663e1c86d256"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9a943af0-1c6d-43c2-830a-f303baa16124"
+    },
+    {
+      "combination": false,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "54bfabce-1f8a-40ee-8b55-efce8fe6fbf1"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cefbc5f4-ef5f-4732-ab96-a69a183f0b6b"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "57b5d67b-b29b-4c18-a53d-51d5374f3be3"
+    },
+    {
+      "combination": false,
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9ac09563-5967-498c-93ae-675a7f4efc48"
+    },
+    {
+      "combination": false,
+      "labeler": "Teva Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4f20155f-05b9-40ec-af34-3b58aa8d60d4"
+    },
+    {
+      "combination": false,
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b94629e3-ae2e-473e-b2f5-06e32ee19aa9"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d1588c37-9da9-4ccb-b78a-64234938a115"
+    },
+    {
+      "combination": false,
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e0d88f34-865c-441b-80e2-e814c9a7d670"
+    },
+    {
+      "combination": false,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "872927eb-0b61-44bb-9892-3c700b6f2181"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cb966bcb-3af7-4dbe-b540-58d473b891e5"
+    },
+    {
+      "combination": false,
+      "labeler": "Vitruvias Therapeutics, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a9d7c5ef-daf9-4f97-8673-7f4a2007f408"
+    },
+    {
+      "combination": false,
+      "labeler": "Advagen Pharma Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "48169bbc-4fb2-4bc4-9bdd-de71bf7722df"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddys Laboratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f07d81bc-5090-fbc5-2945-557cf002849c"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e310afcd-1260-434e-a994-34549c789d99"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dbc52b16-b93d-4d83-942b-485c502db1fa"
+    },
+    {
+      "combination": false,
+      "labeler": "Cranbury Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8d5f9f77-403e-432a-8dcb-7995c6947ae0"
+    },
+    {
+      "combination": true,
+      "labeler": "Prasco Laboratories",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "876bd763-13fa-481e-b579-c2fc44dbf3c2"
+    },
+    {
+      "combination": true,
+      "labeler": "Teva Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "918df93d-e033-4419-adcc-e21655ef8158"
+    },
+    {
+      "combination": true,
+      "labeler": "Dr.Reddys Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "260c3f90-163d-0bdd-1099-55d18a900e68"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "67dcdd6e-48bc-418e-a887-805929d83ce0"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e4886adf-199d-4b19-a4ef-75f8f94cb54e"
+    },
+    {
+      "combination": false,
+      "labeler": "EXELAN PHARMACEUTICALS INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "690baf58-1ec9-463e-99b7-d601362ea56b"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b5f8da43-6daf-413c-9dcd-363617973738"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a5ca2fce-bd2d-40db-b963-e3ec27c8bf23"
+    },
+    {
+      "combination": false,
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "11e0924b-fbee-4ec4-b1e4-22d7683b21ee"
+    },
+    {
+      "combination": false,
+      "labeler": "Quallent Pharmaceuticals Health LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9dae6824-6913-42de-b98a-cdcb0d3b4a46"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f72774dd-c7eb-41f9-9837-02baf77cc523"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "035bf713-1642-4215-83ec-0ed07c29f92c"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7bc4ec7a-9b83-4842-9057-e1a804b2596d"
+    },
+    {
+      "combination": false,
+      "labeler": "XLCare Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "546103e1-ea6e-466b-b0de-b1ff8c494512"
+    },
+    {
+      "combination": false,
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "813f5fe2-df82-479c-8014-d503ff5df52b"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a01b2631-263f-4b28-9820-9a5bed2f8d5c"
+    }
+  ]
+}

@@ -1,0 +1,516 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "NIFEDIPINE"
+  ],
+  "inn": "nifedipine",
+  "name": "NIFEDIPINE",
+  "rank": 435,
+  "rxcui": [
+    "198032",
+    "198033",
+    "198035",
+    "198036",
+    "207772",
+    "207773",
+    "1812011",
+    "1812013",
+    "1812015"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 22,
+    "approval_holders": 14,
+    "earliest_marketing_start": "1989-09-06",
+    "latest_label_update": "2026-09-24",
+    "nda_bla_applications": 1,
+    "repackagers": 18
+  },
+  "unii": [
+    {
+      "ingredient": "NIFEDIPINE",
+      "unii": "I9ZF7L6G2L"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA019684"
+      ],
+      "brand_names": [
+        "Procardia XL"
+      ],
+      "combination": false,
+      "home_inn": "nifedipine",
+      "ingredients": [
+        "NIFEDIPINE"
+      ],
+      "labeler": "Pfizer Laboratories Div Pfizer Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1989-09-06",
+      "moieties": [
+        "NIFEDIPINE"
+      ],
+      "product_ndcs": [
+        "0069-2650",
+        "0069-2660"
+      ],
+      "rxcui": [
+        "207772",
+        "207773",
+        "1812011",
+        "1812013"
+      ],
+      "setid": "8ebcb33c-f43b-4b36-9f94-9774b2a59e06",
+      "source": "dailymed-title-match",
+      "spl_version": 20,
+      "title": "PROCARDIA XL (NIFEDIPINE) TABLET, FILM COATED, EXTENDED RELEASE [PFIZER LABORATORIES DIV PFIZER INC]",
+      "upload_date": "2026-09-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA075289"
+      ],
+      "brand_names": [
+        "nifedipine"
+      ],
+      "combination": false,
+      "home_inn": "nifedipine",
+      "ingredients": [
+        "NIFEDIPINE"
+      ],
+      "labeler": "Oceanside Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2000-09-27",
+      "moieties": [
+        "NIFEDIPINE"
+      ],
+      "product_ndcs": [
+        "68682-108",
+        "68682-109"
+      ],
+      "rxcui": [
+        "1812011",
+        "1812013"
+      ],
+      "setid": "c7874606-c71e-424c-b881-38697988e0d0",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "NIFEDIPINE TABLET, FILM COATED, EXTENDED RELEASE [OCEANSIDE PHARMACEUTICALS]",
+      "upload_date": "2026-02-06"
+    },
+    {
+      "application_numbers": [
+        "ANDA075269"
+      ],
+      "brand_names": [
+        "Nifedipine"
+      ],
+      "combination": false,
+      "home_inn": "nifedipine",
+      "ingredients": [
+        "NIFEDIPINE"
+      ],
+      "labeler": "Oceanside Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2000-12-04",
+      "moieties": [
+        "NIFEDIPINE"
+      ],
+      "product_ndcs": [
+        "68682-106"
+      ],
+      "rxcui": [
+        "198035"
+      ],
+      "setid": "fb6d8f32-198e-4ccf-bf25-069c03d624fd",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "NIFEDIPINE TABLET, EXTENDED RELEASE [OCEANSIDE PHARMACEUTICALS]",
+      "upload_date": "2026-02-06"
+    },
+    {
+      "application_numbers": [
+        "ANDA076070"
+      ],
+      "brand_names": [
+        "Nifedipine"
+      ],
+      "combination": false,
+      "home_inn": "nifedipine",
+      "ingredients": [
+        "NIFEDIPINE"
+      ],
+      "labeler": "Oceanside Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2002-08-16",
+      "moieties": [
+        "NIFEDIPINE"
+      ],
+      "product_ndcs": [
+        "68682-107"
+      ],
+      "rxcui": [
+        "198036"
+      ],
+      "setid": "ca5b0178-4e5f-4077-ada5-7058b0a03858",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "NIFEDIPINE TABLET, EXTENDED RELEASE [OCEANSIDE PHARMACEUTICALS]",
+      "upload_date": "2026-02-06"
+    },
+    {
+      "application_numbers": [
+        "ANDA077127"
+      ],
+      "brand_names": [
+        "Nifedipine"
+      ],
+      "combination": false,
+      "home_inn": "nifedipine",
+      "ingredients": [
+        "NIFEDIPINE"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2005-11-21",
+      "moieties": [
+        "NIFEDIPINE"
+      ],
+      "product_ndcs": [
+        "62135-521",
+        "62135-522",
+        "62135-523"
+      ],
+      "rxcui": [
+        "1812011",
+        "1812013",
+        "1812015"
+      ],
+      "setid": "0a8e3090-7733-4914-bacb-01bbdc8deb30",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "NIFEDIPINE TABLET, FILM COATED, EXTENDED RELEASE [CHARTWELL RX, LLC]",
+      "upload_date": "2025-12-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA202644"
+      ],
+      "brand_names": [
+        "Nifedipine"
+      ],
+      "combination": false,
+      "home_inn": "nifedipine",
+      "ingredients": [
+        "NIFEDIPINE"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-12-07",
+      "moieties": [
+        "NIFEDIPINE"
+      ],
+      "product_ndcs": [
+        "62135-739",
+        "62135-740"
+      ],
+      "rxcui": [
+        "198032",
+        "198033"
+      ],
+      "setid": "5014847e-389d-48c1-8350-b9b24ca8d2a4",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "NIFEDIPINE CAPSULE [CHARTWELL RX, LLC]",
+      "upload_date": "2025-12-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA203126"
+      ],
+      "brand_names": [
+        "Nifedipine"
+      ],
+      "combination": false,
+      "home_inn": "nifedipine",
+      "ingredients": [
+        "NIFEDIPINE"
+      ],
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-11-01",
+      "moieties": [
+        "NIFEDIPINE"
+      ],
+      "product_ndcs": [
+        "24979-009",
+        "24979-010",
+        "24979-011"
+      ],
+      "rxcui": [
+        "1812011",
+        "1812013",
+        "1812015"
+      ],
+      "setid": "160271a8-7922-2107-e054-00144ff88e88",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "NIFEDIPINE TABLET, FILM COATED, EXTENDED RELEASE NIFEDIPINE TABLET, EXTENDED RELEASE [UPSHER-SMITH LABORATORIES, LLC]",
+      "upload_date": "2026-02-25"
+    },
+    {
+      "application_numbers": [
+        "NDA020198"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "ADALAT"
+      ],
+      "first_posted": "2017-02-03",
+      "found_by": "ADALAT",
+      "labeler": "Almatica Pharma Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2019-10-08",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2020-04-01"
+      ],
+      "product_ndcs": [
+        "52427-494",
+        "52427-495",
+        "52427-496"
+      ],
+      "rxcui": [],
+      "setid": "9d11d875-48e6-4e93-c031-d6b971fd7da0",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ADALAT CC (nifedipine) tablet, film coated"
+    },
+    {
+      "application_numbers": [
+        "NDA020198"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "ADALAT"
+      ],
+      "first_posted": "2008-06-05",
+      "found_by": "ADALAT",
+      "labeler": "Schering Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2013-07-03",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-07-01"
+      ],
+      "product_ndcs": [
+        "0085-1701",
+        "0085-1716",
+        "0085-1722"
+      ],
+      "rxcui": [],
+      "setid": "b8fdcb32-b571-43b4-91e9-b4e9f75d86ae",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ADALAT CC (nifedipine) tablet, film coated"
+    },
+    {
+      "application_numbers": [
+        "NDA018482"
+      ],
+      "archived_versions": 15,
+      "brand_names": [
+        "PROCARDIA"
+      ],
+      "first_posted": "2006-09-01",
+      "found_by": "PROCARDIA",
+      "labeler": "Pfizer Laboratories Div Pfizer Inc",
+      "labeler_unverified": false,
+      "last_posted": "2026-05-20",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-10-31"
+      ],
+      "product_ndcs": [
+        "0069-2600"
+      ],
+      "rxcui": [],
+      "setid": "e04aa152-b08d-47f7-b976-f8bee4c386db",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "PROCARDIA (nifedipine) capsule"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Ingenus Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4d02eba2-e964-4fa7-aaae-25949b5f0316"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "657221d5-9eb8-42f9-8cdc-39cefc386f51"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1c857df2-9cce-40de-95c3-b1274ed1e1bc"
+    },
+    {
+      "combination": false,
+      "labeler": "Ingenus Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4d3e11d2-d320-45d3-96c8-48322202b504"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "eb70b7ff-f9f0-41d0-901a-f4c04ae9ed46"
+    },
+    {
+      "combination": false,
+      "labeler": "Elite Pharmaceutical Solution, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1df07edb-630d-4c70-a68c-bdbc607ce850"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f661c1d9-f0f6-4595-82dd-f656bff974f1"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1486f187-0ec6-4c70-8991-02c1493912b4"
+    },
+    {
+      "combination": false,
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "331db003-cc8e-4509-9415-20e48c5cc5b2"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b8b8cfee-ea71-44c2-81af-675efecfdf15"
+    },
+    {
+      "combination": false,
+      "labeler": "Oceanside Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cb051508-60f3-4b89-9da0-5261024bd7f4"
+    },
+    {
+      "combination": false,
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3bf4282f-b063-4d35-8ef0-6f48b98e9deb"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ac3f68b2-29b5-45c1-b6a2-54704dc3143e"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "925e2ea9-f51a-4b89-ab5d-ce590b6c4d85"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "63f062f6-5669-434c-8ded-9801d8486dbf"
+    }
+  ]
+}

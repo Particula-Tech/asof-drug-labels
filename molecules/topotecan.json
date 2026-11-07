@@ -1,0 +1,510 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand HYCAMTIN",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000123",
+      "eu_number": "EU/1/96/027",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000123",
+      "mah": "Sandoz Pharmaceuticals d.d.",
+      "marketing_authorisation_date": "1996-11-12",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/hycamtin",
+      "name": "Hycamtin",
+      "record_from": "1996-11-12",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 31
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/001192",
+      "eu_number": "EU/1/10/633",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-001192",
+      "mah": "Pfizer Europe MA EEIG",
+      "marketing_authorisation_date": "2010-06-09",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/topotecan-hospira",
+      "name": "Topotecan Hospira",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/002282",
+      "eu_number": "EU/1/10/660",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-002282",
+      "mah": "Actavis Group PTC ehf",
+      "marketing_authorisation_date": "2011-01-06",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/potactasol",
+      "name": "Potactasol",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000123",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "TOPOTECAN",
+    "TOPOTECAN HYDROCHLORIDE"
+  ],
+  "inn": "topotecan",
+  "name": "TOPOTECAN",
+  "rank": 346,
+  "rxcui": [
+    "637549",
+    "637550",
+    "747193",
+    "747195",
+    "748738",
+    "748740",
+    "1799416",
+    "1799424"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 7,
+    "approval_holders": 6,
+    "earliest_marketing_start": "2010-11-30",
+    "latest_label_update": "2026-02-09",
+    "nda_bla_applications": 3,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "TOPOTECAN",
+      "unii": "7M7YKX2N15"
+    },
+    {
+      "ingredient": "TOPOTECAN HYDROCHLORIDE",
+      "unii": "956S425ZCY"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA200582"
+      ],
+      "brand_names": [
+        "Topotecan"
+      ],
+      "combination": false,
+      "home_inn": "topotecan",
+      "ingredients": [
+        "TOPOTECAN HYDROCHLORIDE"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2011-02-21",
+      "moieties": [
+        "TOPOTECAN"
+      ],
+      "product_ndcs": [
+        "0409-0302"
+      ],
+      "rxcui": [
+        "1799424"
+      ],
+      "setid": "1d4e1cce-c57e-4a8b-be96-f95a2778e221",
+      "source": "openfda",
+      "spl_version": 23,
+      "title": "TOPOTECAN INJECTION, SOLUTION, CONCENTRATE [HOSPIRA, INC.]",
+      "upload_date": "2021-02-03"
+    },
+    {
+      "application_numbers": [
+        "NDA020671"
+      ],
+      "brand_names": [
+        "HYCAMTIN"
+      ],
+      "combination": false,
+      "home_inn": "topotecan",
+      "ingredients": [
+        "TOPOTECAN HYDROCHLORIDE"
+      ],
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2016-12-21",
+      "moieties": [
+        "TOPOTECAN"
+      ],
+      "product_ndcs": [
+        "0078-0674"
+      ],
+      "rxcui": [
+        "637550",
+        "1799416"
+      ],
+      "setid": "eeee060c-a9ec-423e-a374-8484009f8524",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "HYCAMTIN (TOPOTECAN HYDROCHLORIDE) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [NOVARTIS PHARMACEUTICALS CORPORATION]",
+      "upload_date": "2022-07-11"
+    },
+    {
+      "application_numbers": [
+        "NDA020981"
+      ],
+      "brand_names": [
+        "HYCAMTIN"
+      ],
+      "combination": false,
+      "home_inn": "topotecan",
+      "ingredients": [
+        "TOPOTECAN HYDROCHLORIDE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-02-24",
+      "moieties": [
+        "TOPOTECAN"
+      ],
+      "product_ndcs": [
+        "66758-101",
+        "66758-102"
+      ],
+      "rxcui": [
+        "747193",
+        "747195",
+        "748738",
+        "748740"
+      ],
+      "setid": "b23b46f5-c276-47f5-8bbd-940680b3f579",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "HYCAMTIN (TOPOTECAN) CAPSULE [SANDOZ INC]",
+      "upload_date": "2024-10-31"
+    },
+    {
+      "application_numbers": [
+        "ANDA091089"
+      ],
+      "brand_names": [
+        "Topotecan Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "topotecan",
+      "ingredients": [
+        "TOPOTECAN HYDROCHLORIDE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-11-30",
+      "moieties": [
+        "TOPOTECAN"
+      ],
+      "product_ndcs": [
+        "63323-762"
+      ],
+      "rxcui": [
+        "1799416"
+      ],
+      "setid": "b6019088-cd94-43b4-b5ce-ba20b6b8021e",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "TOPOTECAN HYDROCHLORIDE INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2026-02-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA202351"
+      ],
+      "brand_names": [
+        "topotecan hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "topotecan",
+      "ingredients": [
+        "TOPOTECAN HYDROCHLORIDE"
+      ],
+      "labeler": "Accord Healthcare, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-07-23",
+      "moieties": [
+        "TOPOTECAN"
+      ],
+      "product_ndcs": [
+        "16729-151"
+      ],
+      "rxcui": [
+        "1799416"
+      ],
+      "setid": "729b2b22-1344-44f3-b614-14f6ec3c263e",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "TOPOTECAN HYDROCHLORIDE INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [ACCORD HEALTHCARE, INC.]",
+      "upload_date": "2024-10-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA090620"
+      ],
+      "brand_names": [
+        "Topotecan hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "topotecan",
+      "ingredients": [
+        "TOPOTECAN HYDROCHLORIDE"
+      ],
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-01-05",
+      "moieties": [
+        "TOPOTECAN"
+      ],
+      "product_ndcs": [
+        "45963-615"
+      ],
+      "rxcui": [
+        "1799416"
+      ],
+      "setid": "996430c0-ee26-4ed9-82b8-a8b645becba6",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "TOPOTECAN HYDROCHLORIDE INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [ACTAVIS PHARMA, INC.]",
+      "upload_date": "2022-11-22"
+    },
+    {
+      "application_numbers": [
+        "ANDA204406"
+      ],
+      "brand_names": [
+        "Topotecan"
+      ],
+      "combination": false,
+      "home_inn": "topotecan",
+      "ingredients": [
+        "TOPOTECAN"
+      ],
+      "labeler": "Accord Healthcare Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-07-08",
+      "moieties": [
+        "TOPOTECAN"
+      ],
+      "product_ndcs": [
+        "16729-243"
+      ],
+      "rxcui": [
+        "637549"
+      ],
+      "setid": "7636bc1e-77b6-46ad-9df0-c8bb1c5e503f",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "TOPOTECAN INJECTION [ACCORD HEALTHCARE INC.]",
+      "upload_date": "2025-12-19"
+    },
+    {
+      "application_numbers": [
+        "NDA020981"
+      ],
+      "archived_versions": 13,
+      "brand_names": [
+        "HYCAMTIN"
+      ],
+      "first_posted": "2007-12-05",
+      "found_by": "HYCAMTIN",
+      "labeler": "GlaxoSmithKline LLC",
+      "labeler_unverified": true,
+      "last_posted": "2017-12-13",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-12-31",
+        "2018-01-31"
+      ],
+      "product_ndcs": [
+        "0007-4205",
+        "0007-4207"
+      ],
+      "rxcui": [],
+      "setid": "140399d0-4b28-4100-b792-3d1aa3c3e29c",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "b23b46f5-c276-47f5-8bbd-940680b3f579"
+      ],
+      "title": "HYCAMTIN (topotecan hydrochloride) capsule"
+    },
+    {
+      "application_numbers": [
+        "NDA020671"
+      ],
+      "archived_versions": 11,
+      "brand_names": [
+        "HYCAMTIN"
+      ],
+      "first_posted": "2007-10-19",
+      "found_by": "HYCAMTIN",
+      "labeler": "GlaxoSmithKline LLC",
+      "labeler_unverified": true,
+      "last_posted": "2017-12-14",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-07-31"
+      ],
+      "product_ndcs": [
+        "0007-4201"
+      ],
+      "rxcui": [],
+      "setid": "3c15da96-d309-4b93-f5aa-cfb52c25c174",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "eeee060c-a9ec-423e-a374-8484009f8524"
+      ],
+      "title": "HYCAMTIN (topotecan hydrochloride) injection, powder, lyophilized, for solution"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "HYCAMTIN"
+      ],
+      "first_posted": "2007-11-20",
+      "found_by": "HYCAMTIN",
+      "labeler": "GlaxoSmithKline",
+      "labeler_unverified": true,
+      "last_posted": "2007-11-20",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0007-4205",
+        "0007-4207"
+      ],
+      "rxcui": [],
+      "setid": "8a19cc45-7e53-46d6-62bb-b5015aaf5b38",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "hycamtin (topotecan hydrochloride) capsule for oral use"
+    },
+    {
+      "application_numbers": [
+        "NDA020981"
+      ],
+      "archived_versions": 9,
+      "brand_names": [
+        "HYCAMTIN"
+      ],
+      "first_posted": "2017-02-27",
+      "found_by": "HYCAMTIN",
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2025-09-05",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-12-31"
+      ],
+      "product_ndcs": [
+        "0078-0672",
+        "0078-0673"
+      ],
+      "rxcui": [],
+      "setid": "aa0815bb-8916-4c2c-9201-b04eb78e91fa",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "b23b46f5-c276-47f5-8bbd-940680b3f579"
+      ],
+      "title": "HYCAMTIN (topotecan) capsule"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "HYCAMTIN"
+      ],
+      "first_posted": "2017-12-13",
+      "found_by": "HYCAMTIN",
+      "labeler": "GlaxoSmithKline Manufacturing SpA",
+      "labeler_unverified": true,
+      "last_posted": "2017-12-13",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "12064-000",
+        "12064-001"
+      ],
+      "rxcui": [],
+      "setid": "b271a5cb-cc1b-4082-8a29-0e43182630fc",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "HYCAMTIN (topotecan hydrochloride) capsule"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "HYCAMTIN"
+      ],
+      "first_posted": "2017-12-14",
+      "found_by": "HYCAMTIN",
+      "labeler": "GlaxoSmithKline Manufacturing SpA",
+      "labeler_unverified": true,
+      "last_posted": "2017-12-14",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "12064-002"
+      ],
+      "rxcui": [],
+      "setid": "c46a2a4e-90f5-44e7-9973-c1a580be0106",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "HYCAMTIN (topotecan hydrochloride) injection, powder, lyophilized, for solution"
+    }
+  ],
+  "us_excluded": []
+}

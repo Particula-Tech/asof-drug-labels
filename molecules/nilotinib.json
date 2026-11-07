@@ -1,0 +1,460 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand Tasigna",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000798",
+      "eu_number": "EU/1/07/422",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000798",
+      "mah": "Novartis Europharm Limited",
+      "marketing_authorisation_date": "2007-11-19",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tasigna",
+      "name": "Tasigna",
+      "record_from": "2007-11-19",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 34
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/006315",
+      "eu_number": "EU/1/24/1845",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-006315",
+      "mah": "Accord Healthcare S.L.U.",
+      "marketing_authorisation_date": "2024-08-22",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/nilotinib-accord",
+      "name": "Nilotinib Accord",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000798",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "NILOTINIB",
+    "NILOTINIB HYDROCHLORIDE MONOHYDRATE"
+  ],
+  "inn": "nilotinib",
+  "name": "NILOTINIB",
+  "rank": 212,
+  "rxcui": [
+    "746606",
+    "746609",
+    "997653",
+    "1002300",
+    "2002717",
+    "2002719",
+    "2698564",
+    "2698570",
+    "2698572",
+    "2698574",
+    "2715459",
+    "2715469",
+    "2715473",
+    "2747509",
+    "2747516",
+    "2747518",
+    "2747520"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 10,
+    "approval_holders": 10,
+    "earliest_marketing_start": "2007-10-29",
+    "latest_label_update": "2026-10-23",
+    "nda_bla_applications": 4,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "NILOTINIB",
+      "unii": "F41401512X"
+    },
+    {
+      "ingredient": "NILOTINIB HYDROCHLORIDE MONOHYDRATE",
+      "unii": "5JHU0N1R6K"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA022068"
+      ],
+      "brand_names": [
+        "Tasigna"
+      ],
+      "combination": false,
+      "home_inn": "nilotinib",
+      "ingredients": [
+        "NILOTINIB HYDROCHLORIDE MONOHYDRATE"
+      ],
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2007-10-29",
+      "moieties": [
+        "NILOTINIB"
+      ],
+      "product_ndcs": [
+        "0078-0526",
+        "0078-0592",
+        "0078-0951"
+      ],
+      "rxcui": [
+        "746606",
+        "746609",
+        "997653",
+        "1002300",
+        "2002717",
+        "2002719"
+      ],
+      "setid": "6093952a-5248-45cb-ad17-33716a411146",
+      "source": "openfda",
+      "spl_version": 42,
+      "title": "TASIGNA (NILOTINIB) CAPSULE [NOVARTIS PHARMACEUTICALS CORPORATION]",
+      "upload_date": "2025-12-18"
+    },
+    {
+      "application_numbers": [
+        "NDA219293"
+      ],
+      "brand_names": [
+        "DANZITEN"
+      ],
+      "combination": false,
+      "home_inn": "nilotinib",
+      "ingredients": [
+        "NILOTINIB"
+      ],
+      "labeler": "Azurity Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-11-30",
+      "moieties": [
+        "NILOTINIB"
+      ],
+      "product_ndcs": [
+        "24338-154",
+        "24338-155"
+      ],
+      "rxcui": [
+        "2698564",
+        "2698570",
+        "2698572",
+        "2698574"
+      ],
+      "setid": "d288d165-3505-49bb-9b2e-124490d65f49",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "DANZITEN (NILOTINIB) TABLET [AZURITY PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-07-31"
+    },
+    {
+      "application_numbers": [
+        "NDA218922"
+      ],
+      "brand_names": [
+        "Nilotinib"
+      ],
+      "combination": false,
+      "home_inn": "nilotinib",
+      "ingredients": [
+        "NILOTINIB"
+      ],
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-06-18",
+      "moieties": [
+        "NILOTINIB"
+      ],
+      "product_ndcs": [
+        "69097-030",
+        "69097-031",
+        "69097-032"
+      ],
+      "rxcui": [
+        "2715459",
+        "2715469",
+        "2715473"
+      ],
+      "setid": "e27c3e09-bc4f-4f01-be05-1c43ac72285d",
+      "source": "dailymed-title-match",
+      "spl_version": 6,
+      "title": "NILOTINIB CAPSULE [CIPLA USA INC.]",
+      "upload_date": "2026-09-30"
+    },
+    {
+      "application_numbers": [
+        "NDA217379"
+      ],
+      "brand_names": [
+        "CAVHANZA"
+      ],
+      "combination": false,
+      "home_inn": "nilotinib",
+      "ingredients": [
+        "NILOTINIB"
+      ],
+      "labeler": "Cycle Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2026-06-30",
+      "moieties": [
+        "NILOTINIB"
+      ],
+      "product_ndcs": [
+        "70709-191",
+        "70709-192"
+      ],
+      "rxcui": [
+        "2747509",
+        "2747516",
+        "2747518",
+        "2747520"
+      ],
+      "setid": "98b197ea-bca4-427e-8737-97f70a3262bc",
+      "source": "dailymed-title-match",
+      "spl_version": 5,
+      "title": "CAVHANZA (NILOTINIB) TABLET, ORALLY DISINTEGRATING [CYCLE PHARMACEUTICALS LTD]",
+      "upload_date": "2026-10-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA203640"
+      ],
+      "brand_names": [
+        "Nilotinib"
+      ],
+      "combination": false,
+      "home_inn": "nilotinib",
+      "ingredients": [
+        "NILOTINIB"
+      ],
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-05-23",
+      "moieties": [
+        "NILOTINIB"
+      ],
+      "product_ndcs": [
+        "60505-3801",
+        "60505-3802",
+        "60505-3803"
+      ],
+      "rxcui": [
+        "746606",
+        "997653",
+        "2002717"
+      ],
+      "setid": "8283672c-619f-fe60-3d25-040f95ac1440",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "NILOTINIB CAPSULE [APOTEX CORP.]",
+      "upload_date": "2026-06-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA218544"
+      ],
+      "brand_names": [
+        "nilotinib"
+      ],
+      "combination": false,
+      "home_inn": "nilotinib",
+      "ingredients": [
+        "NILOTINIB"
+      ],
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-11-19",
+      "moieties": [
+        "NILOTINIB"
+      ],
+      "product_ndcs": [
+        "72205-237",
+        "72205-238",
+        "72205-239"
+      ],
+      "rxcui": [
+        "746606",
+        "997653",
+        "2002717"
+      ],
+      "setid": "13b46e09-62d2-4ce9-b3c0-deafcb1f1842",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "NILOTINIB CAPSULE [NOVADOZ PHARMACEUTICALS LLC]",
+      "upload_date": "2025-11-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA218350"
+      ],
+      "brand_names": [
+        "Nilotinib"
+      ],
+      "combination": false,
+      "home_inn": "nilotinib",
+      "ingredients": [
+        "NILOTINIB HYDROCHLORIDE MONOHYDRATE"
+      ],
+      "labeler": "Dr. Reddy's Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-11-19",
+      "moieties": [
+        "NILOTINIB"
+      ],
+      "product_ndcs": [
+        "43598-055",
+        "43598-455",
+        "43598-456"
+      ],
+      "rxcui": [
+        "746606",
+        "997653",
+        "2002717"
+      ],
+      "setid": "805cc504-60bb-7743-5ada-679eb3badc7f",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "NILOTINIB (NILOTINIB) CAPSULE [DR. REDDY'S LABORATORIES INC]",
+      "upload_date": "2025-11-20"
+    },
+    {
+      "application_numbers": [
+        "ANDA209651"
+      ],
+      "brand_names": [
+        "Nilotinib"
+      ],
+      "combination": false,
+      "home_inn": "nilotinib",
+      "ingredients": [
+        "NILOTINIB"
+      ],
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-11-19",
+      "moieties": [
+        "NILOTINIB"
+      ],
+      "product_ndcs": [
+        "31722-779",
+        "31722-780"
+      ],
+      "rxcui": [
+        "746606",
+        "997653"
+      ],
+      "setid": "86dc5507-ae0a-43d2-8d5e-5b0568ce9c5e",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "NILOTINIB (NILOTINIB) CAPSULE [CAMBER PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-11-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA218532"
+      ],
+      "brand_names": [
+        "nilotinib"
+      ],
+      "combination": false,
+      "home_inn": "nilotinib",
+      "ingredients": [
+        "NILOTINIB HYDROCHLORIDE MONOHYDRATE"
+      ],
+      "labeler": "Torrent Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-12-16",
+      "moieties": [
+        "NILOTINIB"
+      ],
+      "product_ndcs": [
+        "13668-710",
+        "13668-711"
+      ],
+      "rxcui": [
+        "746606",
+        "997653"
+      ],
+      "setid": "b34e7fd4-53c5-46d8-bf8a-1fcbe7a16504",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "NILOTINIB CAPSULE [TORRENT PHARMACEUTICALS LIMITED]",
+      "upload_date": "2026-09-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA218544"
+      ],
+      "brand_names": [
+        "nilotinib"
+      ],
+      "combination": false,
+      "home_inn": "nilotinib",
+      "ingredients": [
+        "NILOTINIB"
+      ],
+      "labeler": "AvKARE",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-03-02",
+      "moieties": [
+        "NILOTINIB"
+      ],
+      "product_ndcs": [
+        "73190-033",
+        "73190-034"
+      ],
+      "rxcui": [
+        "746606",
+        "997653"
+      ],
+      "setid": "4c0bc799-ce6a-822a-e063-6394a90ab748",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "NILOTINIB CAPSULE [AVKARE]",
+      "upload_date": "2026-03-03"
+    }
+  ],
+  "us_excluded": []
+}

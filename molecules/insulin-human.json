@@ -1,0 +1,221 @@
+{
+  "biologic": true,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/000201",
+      "eu_number": "EU/1/97/030",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000201",
+      "mah": "Sanofi-aventis Deutschland GmbH",
+      "marketing_authorisation_date": "1997-02-21",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/insuman",
+      "name": "Insuman",
+      "record_from": "1998-11-11",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 31
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [
+      {
+        "ema_product_number": "EMEA/H/C/000427",
+        "kind": "variant",
+        "name": "Actraphane"
+      },
+      {
+        "ema_product_number": "EMEA/H/C/000428",
+        "kind": "variant",
+        "name": "Mixtard"
+      },
+      {
+        "ema_product_number": "EMEA/H/C/000441",
+        "kind": "variant",
+        "name": "Insulatard"
+      },
+      {
+        "ema_product_number": "EMEA/H/C/000442",
+        "kind": "variant",
+        "name": "Protaphane"
+      }
+    ],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000201",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "INSULIN HUMAN"
+  ],
+  "inn": "insulin-human",
+  "name": "INSULIN HUMAN",
+  "rank": 228,
+  "rxcui": [
+    "249220",
+    "351859",
+    "1543202",
+    "1543207",
+    "1544488",
+    "1544490",
+    "1654910",
+    "1654912",
+    "1731315",
+    "1731317",
+    "1798387",
+    "1798388",
+    "1862101",
+    "1862102",
+    "2100028",
+    "2100029",
+    "2179744",
+    "2179749",
+    "2715452",
+    "2715453"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 3,
+    "approval_holders": 3,
+    "earliest_marketing_start": "2015-01-21",
+    "latest_label_update": "2026-09-02",
+    "nda_bla_applications": 3,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "INSULIN HUMAN",
+      "unii": "1Y17CTI5SR"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "BLA022472"
+      ],
+      "brand_names": [
+        "AFREZZA"
+      ],
+      "combination": false,
+      "home_inn": "insulin-human",
+      "ingredients": [
+        "INSULIN HUMAN"
+      ],
+      "labeler": "Mannkind Corporation",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2015-01-21",
+      "moieties": [
+        "INSULIN HUMAN"
+      ],
+      "product_ndcs": [
+        "47918-874",
+        "47918-878",
+        "47918-880",
+        "47918-891",
+        "47918-898",
+        "47918-902",
+        "47918-904"
+      ],
+      "rxcui": [
+        "1543202",
+        "1543207",
+        "1544488",
+        "1544490",
+        "1654910",
+        "1654912",
+        "1798387",
+        "1798388",
+        "1862101",
+        "1862102",
+        "2100028",
+        "2100029",
+        "2715452",
+        "2715453"
+      ],
+      "setid": "29f4637b-e204-425b-b89c-7238008d8c10",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "AFREZZA (INSULIN HUMAN) POWDER, METERED AFREZZA (INSULIN HUMAN) POWDER, METERED AFREZZA (INSULIN HUMAN) KIT [MANNKIND CORPORATION]",
+      "upload_date": "2026-06-26"
+    },
+    {
+      "application_numbers": [
+        "BLA018780"
+      ],
+      "brand_names": [
+        "Humulin R U-500 KwikPen"
+      ],
+      "combination": false,
+      "home_inn": "insulin-human",
+      "ingredients": [
+        "INSULIN HUMAN"
+      ],
+      "labeler": "Eli Lilly and Company",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2015-12-29",
+      "moieties": [
+        "INSULIN HUMAN"
+      ],
+      "product_ndcs": [
+        "0002-8824"
+      ],
+      "rxcui": [
+        "249220",
+        "351859",
+        "1731315",
+        "1731317"
+      ],
+      "setid": "b60e8dd0-1d48-4dc9-87fd-e14675255e8c",
+      "source": "openfda",
+      "spl_version": 41,
+      "title": "HUMULIN R U-500 (INSULIN HUMAN) INJECTION, SOLUTION HUMULIN R U-500 KWIKPEN (INSULIN HUMAN) INJECTION, SOLUTION [ELI LILLY AND COMPANY]",
+      "upload_date": "2026-09-02"
+    },
+    {
+      "application_numbers": [
+        "BLA208157"
+      ],
+      "brand_names": [
+        "MYXREDLIN"
+      ],
+      "combination": false,
+      "home_inn": "insulin-human",
+      "ingredients": [
+        "INSULIN HUMAN"
+      ],
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2019-07-12",
+      "moieties": [
+        "INSULIN HUMAN"
+      ],
+      "product_ndcs": [
+        "0338-0126"
+      ],
+      "rxcui": [
+        "2179744",
+        "2179749"
+      ],
+      "setid": "afca6e80-a802-49fb-a978-5fe28a173001",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "MYXREDLIN (INSULIN HUMAN) INJECTION, SOLUTION [BAXTER HEALTHCARE CORPORATION]",
+      "upload_date": "2026-07-24"
+    }
+  ],
+  "us_excluded": []
+}

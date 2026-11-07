@@ -1,0 +1,418 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "TRIAMTERENE"
+  ],
+  "inn": "triamterene",
+  "name": "TRIAMTERENE",
+  "rank": 439,
+  "rxcui": [
+    "198312",
+    "198313",
+    "198316",
+    "208674",
+    "208675",
+    "310812",
+    "310818"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 17,
+    "approval_holders": 14,
+    "earliest_marketing_start": "1993-09-23",
+    "latest_label_update": "2026-09-21",
+    "nda_bla_applications": 1,
+    "repackagers": 12
+  },
+  "unii": [
+    {
+      "ingredient": "TRIAMTERENE",
+      "unii": "WS821Z52LQ"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA013174"
+      ],
+      "brand_names": [
+        "Dyrenium"
+      ],
+      "combination": false,
+      "home_inn": "triamterene",
+      "ingredients": [
+        "TRIAMTERENE"
+      ],
+      "labeler": "Advanz Pharma (US) Corp.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1999-01-01",
+      "moieties": [
+        "TRIAMTERENE"
+      ],
+      "product_ndcs": [
+        "59212-002",
+        "59212-003"
+      ],
+      "rxcui": [
+        "198312",
+        "198313",
+        "208674",
+        "208675"
+      ],
+      "setid": "ebb177c0-d45d-4443-a85a-e76bd9931a42",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "DYRENIUM (TRIAMTERENE) CAPSULE [ADVANZ PHARMA (US) CORP.]",
+      "upload_date": "2024-12-24"
+    },
+    {
+      "application_numbers": [
+        "NDA013174"
+      ],
+      "brand_names": [
+        "Triamterene",
+        "triamterene"
+      ],
+      "combination": false,
+      "home_inn": "triamterene",
+      "ingredients": [
+        "TRIAMTERENE"
+      ],
+      "labeler": "Prasco Laboratories",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2019-08-13",
+      "moieties": [
+        "TRIAMTERENE"
+      ],
+      "product_ndcs": [
+        "66993-831",
+        "66993-832"
+      ],
+      "rxcui": [
+        "198312",
+        "198313"
+      ],
+      "setid": "a09c2212-1dd5-4fbe-ad09-2a57aeabcaea",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "TRIAMTERENE CAPSULE TRIAMTERENE CAPSULE [PRASCO LABORATORIES]",
+      "upload_date": "2023-07-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA211581"
+      ],
+      "brand_names": [
+        "Triamterene"
+      ],
+      "combination": false,
+      "home_inn": "triamterene",
+      "ingredients": [
+        "TRIAMTERENE"
+      ],
+      "labeler": "TRUPHARMA LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-12-12",
+      "moieties": [
+        "TRIAMTERENE"
+      ],
+      "product_ndcs": [
+        "52817-364",
+        "52817-365"
+      ],
+      "rxcui": [
+        "198312",
+        "198313"
+      ],
+      "setid": "fea50328-b3d5-4300-8c67-82cda0a975b7",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "TRIAMTERENE (TRIAMTERENE CAPSULES) CAPSULE [TRUPHARMA LLC]",
+      "upload_date": "2025-12-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA214768"
+      ],
+      "brand_names": [
+        "Triamterene"
+      ],
+      "combination": false,
+      "home_inn": "triamterene",
+      "ingredients": [
+        "TRIAMTERENE"
+      ],
+      "labeler": "Biocon Pharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-02-10",
+      "moieties": [
+        "TRIAMTERENE"
+      ],
+      "product_ndcs": [
+        "70377-138",
+        "70377-139"
+      ],
+      "rxcui": [
+        "198312",
+        "198313"
+      ],
+      "setid": "dcaa7b4d-9613-298a-5a39-f2032492096c",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "TRIAMTERENE CAPSULE [BIOCON PHARMA INC. ]",
+      "upload_date": "2025-02-27"
+    },
+    {
+      "application_numbers": [
+        "ANDA071851",
+        "ANDA073449"
+      ],
+      "brand_names": [
+        "Triamterene and Hydrochlorothiazide"
+      ],
+      "combination": true,
+      "home_inn": "triamterene",
+      "ingredients": [
+        "HYDROCHLOROTHIAZIDE",
+        "TRIAMTERENE"
+      ],
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1993-09-23",
+      "moieties": [
+        "HYDROCHLOROTHIAZIDE",
+        "TRIAMTERENE"
+      ],
+      "product_ndcs": [
+        "0591-0348",
+        "0591-0424"
+      ],
+      "rxcui": [
+        "310812",
+        "310818"
+      ],
+      "setid": "abf2fe45-8b69-4d3c-981e-289c0aa3e98b",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "TRIAMTERENE AND HYDROCHLOROTHIAZIDE TABLET [ACTAVIS PHARMA, INC.]",
+      "upload_date": "2024-12-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA074821"
+      ],
+      "brand_names": [
+        "Triamterene and Hydrochlorothiazide"
+      ],
+      "combination": true,
+      "home_inn": "triamterene",
+      "ingredients": [
+        "HYDROCHLOROTHIAZIDE",
+        "TRIAMTERENE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1997-06-05",
+      "moieties": [
+        "HYDROCHLOROTHIAZIDE",
+        "TRIAMTERENE"
+      ],
+      "product_ndcs": [
+        "0781-2074"
+      ],
+      "rxcui": [
+        "198316"
+      ],
+      "setid": "f824b6ba-bd1c-41a8-8f6f-ad507b48f3e0",
+      "source": "openfda",
+      "spl_version": 24,
+      "title": "TRIAMTERENE AND HYDROCHLOROTHIAZIDE CAPSULE [SANDOZ INC]",
+      "upload_date": "2026-07-27"
+    },
+    {
+      "application_numbers": [
+        "ANDA071251"
+      ],
+      "brand_names": [
+        "Triamterene and Hydrochlorothiazide"
+      ],
+      "combination": true,
+      "home_inn": "triamterene",
+      "ingredients": [
+        "HYDROCHLOROTHIAZIDE",
+        "TRIAMTERENE"
+      ],
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-09-21",
+      "moieties": [
+        "HYDROCHLOROTHIAZIDE",
+        "TRIAMTERENE"
+      ],
+      "product_ndcs": [
+        "60505-2656",
+        "60505-2657"
+      ],
+      "rxcui": [
+        "310812",
+        "310818"
+      ],
+      "setid": "bd6c3495-ec70-908b-482a-a979506659e9",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "TRIAMTERENE AND HYDROCHLOROTHIAZIDE TABLET [APOTEX CORP.]",
+      "upload_date": "2026-02-18"
+    },
+    {
+      "application_numbers": [
+        "NDA013174"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "DYRENIUM"
+      ],
+      "first_posted": "2007-10-19",
+      "found_by": "DYRENIUM",
+      "labeler": "WellSpring Pharmaceutical Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2015-04-29",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-12-31",
+        "2020-01-31"
+      ],
+      "product_ndcs": [
+        "65197-002",
+        "65197-003"
+      ],
+      "rxcui": [],
+      "setid": "5012f997-9fb2-4c3d-99fd-4f7efd7c39af",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "a09c2212-1dd5-4fbe-ad09-2a57aeabcaea",
+        "ebb177c0-d45d-4443-a85a-e76bd9931a42"
+      ],
+      "title": "DYRENIUM (triamterene) capsule"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": true,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "261dd83f-8048-488f-8b71-c4abd9692720"
+    },
+    {
+      "combination": true,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1af80800-e7a5-42e5-aa6c-3f61aff4a77b"
+    },
+    {
+      "combination": true,
+      "labeler": "Advagen Pharma Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a5525a2a-d2c7-411b-9ffc-0cc4fe77f7c7"
+    },
+    {
+      "combination": true,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e05e3314-5520-4bbd-b7f0-623afd9ba569"
+    },
+    {
+      "combination": true,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4f44fb73-7f61-4623-ae89-61abd8e945ab"
+    },
+    {
+      "combination": true,
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fa69eeb8-ec82-4be1-8cb7-f64094ed957c"
+    },
+    {
+      "combination": true,
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ee11db7b-91bd-4231-8783-889d98e4fa32"
+    },
+    {
+      "combination": true,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b8a55c23-b509-4790-88fa-9dc9bacd4bbe"
+    },
+    {
+      "combination": true,
+      "labeler": "Viona Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9925ab75-e3b7-43b7-888e-a2c8763240ba"
+    },
+    {
+      "combination": true,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e92f1118-8eaf-4fa8-b167-1447550af1ab"
+    }
+  ]
+}

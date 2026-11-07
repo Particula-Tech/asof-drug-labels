@@ -1,0 +1,142 @@
+{
+  "biologic": true,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand KEYTRUDA",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/003820",
+      "eu_number": "EU/1/15/1024",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-003820",
+      "mah": "Merck Sharp & Dohme B.V.",
+      "marketing_authorisation_date": "2015-07-17",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/keytruda",
+      "name": "Keytruda",
+      "record_from": "2015-07-17",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 51
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-003820",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "PEMBROLIZUMAB"
+  ],
+  "inn": "pembrolizumab",
+  "name": "PEMBROLIZUMAB",
+  "rank": 382,
+  "rxcui": [
+    "1657746",
+    "1657749",
+    "1657750",
+    "1657751",
+    "2723762",
+    "2723769",
+    "2723771",
+    "2723772"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 2,
+    "approval_holders": 1,
+    "earliest_marketing_start": "2015-01-15",
+    "latest_label_update": "2026-08-12",
+    "nda_bla_applications": 2,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "PEMBROLIZUMAB",
+      "unii": "DPT0O3T46P"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "BLA125514"
+      ],
+      "brand_names": [
+        "KEYTRUDA"
+      ],
+      "combination": false,
+      "home_inn": "pembrolizumab",
+      "ingredients": [
+        "PEMBROLIZUMAB"
+      ],
+      "labeler": "Merck Sharp & Dohme LLC",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2015-01-15",
+      "moieties": [
+        "PEMBROLIZUMAB"
+      ],
+      "product_ndcs": [
+        "0006-3026"
+      ],
+      "rxcui": [
+        "1657746",
+        "1657749",
+        "1657750",
+        "1657751"
+      ],
+      "setid": "9333c79b-d487-4538-a9f0-71b91a02b287",
+      "source": "openfda",
+      "spl_version": 228,
+      "title": "KEYTRUDA (PEMBROLIZUMAB) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION KEYTRUDA (PEMBROLIZUMAB) INJECTION, SOLUTION [MERCK SHARP & DOHME LLC ]",
+      "upload_date": "2026-07-24"
+    },
+    {
+      "application_numbers": [
+        "BLA761467"
+      ],
+      "brand_names": [
+        "KEYTRUDA QLEX"
+      ],
+      "combination": true,
+      "home_inn": "pembrolizumab",
+      "ingredients": [
+        "BERAHYALURONIDASE ALFA",
+        "PEMBROLIZUMAB"
+      ],
+      "labeler": "Merck Sharp & Dohme LLC",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2025-09-19",
+      "moieties": [
+        "BERAHYALURONIDASE ALFA",
+        "PEMBROLIZUMAB"
+      ],
+      "product_ndcs": [
+        "0006-3083",
+        "0006-5083"
+      ],
+      "rxcui": [
+        "2723762",
+        "2723769",
+        "2723771",
+        "2723772"
+      ],
+      "setid": "097d166f-b73b-41d3-9b37-7653cd2a0c41",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "KEYTRUDA QLEX (PEMBROLIZUMAB AND BERAHYALURONIDASE ALFA-PMPH) INJECTION, SOLUTION [MERCK SHARP & DOHME LLC]",
+      "upload_date": "2026-08-12"
+    }
+  ],
+  "us_excluded": []
+}

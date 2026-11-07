@@ -1,0 +1,536 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "FLUPHENAZINE DECANOATE",
+    "FLUPHENAZINE HYDROCHLORIDE"
+  ],
+  "inn": "fluphenazine",
+  "name": "FLUPHENAZINE",
+  "rank": 159,
+  "rxcui": [
+    "859824",
+    "859835",
+    "859841",
+    "860918",
+    "861848",
+    "865117",
+    "865123",
+    "865129"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 31,
+    "approval_holders": 26,
+    "earliest_marketing_start": "1988-08-25",
+    "latest_label_update": "2026-08-28",
+    "nda_bla_applications": 0,
+    "repackagers": 9
+  },
+  "unii": [
+    {
+      "ingredient": "FLUPHENAZINE DECANOATE",
+      "unii": "FMU62K1L3C"
+    },
+    {
+      "ingredient": "FLUPHENAZINE HYDROCHLORIDE",
+      "unii": "ZOU145W1XL"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "ANDA089743"
+      ],
+      "brand_names": [
+        "Fluphenazine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "fluphenazine",
+      "ingredients": [
+        "FLUPHENAZINE HYDROCHLORIDE"
+      ],
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1988-08-25",
+      "moieties": [
+        "FLUPHENAZINE"
+      ],
+      "product_ndcs": [
+        "0527-1788",
+        "0527-1789",
+        "0527-1790",
+        "0527-1791"
+      ],
+      "rxcui": [
+        "859841",
+        "860918",
+        "865117",
+        "865123"
+      ],
+      "setid": "6cd6ba35-3481-48c1-87db-dc74ce9d7d75",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "FLUPHENAZINE HYDROCHLORIDE TABLET, FILM COATED [LANNETT COMPANY, INC.]",
+      "upload_date": "2024-11-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA074531"
+      ],
+      "brand_names": [
+        "Fluphenazine Decanoate"
+      ],
+      "combination": false,
+      "home_inn": "fluphenazine",
+      "ingredients": [
+        "FLUPHENAZINE DECANOATE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1996-08-30",
+      "moieties": [
+        "FLUPHENAZINE"
+      ],
+      "product_ndcs": [
+        "0143-9529"
+      ],
+      "rxcui": [
+        "859824"
+      ],
+      "setid": "1967dc24-f2a5-4095-baa9-a9d1c5410311",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "FLUPHENAZINE DECANOATE INJECTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2025-01-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA040146"
+      ],
+      "brand_names": [
+        "Fluphenazine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "fluphenazine",
+      "ingredients": [
+        "FLUPHENAZINE HYDROCHLORIDE"
+      ],
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-08-31",
+      "moieties": [
+        "FLUPHENAZINE"
+      ],
+      "product_ndcs": [
+        "0121-0654"
+      ],
+      "rxcui": [
+        "859835"
+      ],
+      "setid": "f0a89d5d-01db-47f3-a873-33ab49c6e4f8",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "FLUPHENAZINE HYDROCHLORIDE ELIXIR [PAI HOLDINGS, LLC DBA PAI PHARMA]",
+      "upload_date": "2025-02-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA074725"
+      ],
+      "brand_names": [
+        "Fluphenazine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "fluphenazine",
+      "ingredients": [
+        "FLUPHENAZINE HYDROCHLORIDE"
+      ],
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-09-01",
+      "moieties": [
+        "FLUPHENAZINE"
+      ],
+      "product_ndcs": [
+        "0121-0653"
+      ],
+      "rxcui": [
+        "861848"
+      ],
+      "setid": "0860b3f3-3116-40f8-bcb0-e5c47731bdc8",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "FLUPHENAZINE HYDROCHLORIDE SOLUTION, CONCENTRATE [PAI HOLDINGS, LLC DBA PAI PHARMA]",
+      "upload_date": "2025-02-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA071413"
+      ],
+      "brand_names": [
+        "Fluphenazine Decanoate"
+      ],
+      "combination": false,
+      "home_inn": "fluphenazine",
+      "ingredients": [
+        "FLUPHENAZINE DECANOATE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-12-15",
+      "moieties": [
+        "FLUPHENAZINE"
+      ],
+      "product_ndcs": [
+        "63323-272"
+      ],
+      "rxcui": [
+        "859824"
+      ],
+      "setid": "f8ba014e-aea0-49bc-8345-4e0a384b484e",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "FLUPHENAZINE DECANOATE (FLUPHENAZINE DECANOATE) INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2024-10-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA089556"
+      ],
+      "brand_names": [
+        "Fluphenazine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "fluphenazine",
+      "ingredients": [
+        "FLUPHENAZINE HYDROCHLORIDE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-12-28",
+      "moieties": [
+        "FLUPHENAZINE"
+      ],
+      "product_ndcs": [
+        "63323-281"
+      ],
+      "rxcui": [
+        "865129"
+      ],
+      "setid": "d571f04f-6190-42f2-932c-5a075fd978b9",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "FLUPHENAZINE HYDROCHLORIDE (FLUPHENAZINE HYDROCHLORIDE) INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2024-10-21"
+    },
+    {
+      "application_numbers": [
+        "NDA016727"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "PROLIXIN"
+      ],
+      "first_posted": "2006-09-18",
+      "found_by": "PROLIXIN",
+      "labeler": "E.R. Squibb & Sons, L.L.C.",
+      "labeler_unverified": false,
+      "last_posted": "2012-01-31",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2006-10-31"
+      ],
+      "product_ndcs": [
+        "0003-0569"
+      ],
+      "rxcui": [],
+      "setid": "56112d20-4475-4546-9ddc-6c6356a21017",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "PROLIXIN DECANOATE (fluphenazine decanoate) injection"
+    },
+    {
+      "application_numbers": [
+        "NDA011751"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "PROLIXIN"
+      ],
+      "first_posted": "2006-10-13",
+      "found_by": "PROLIXIN",
+      "labeler": "E.R. Squibb & Sons, L.L.C.",
+      "labeler_unverified": false,
+      "last_posted": "2012-01-24",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2006-10-31"
+      ],
+      "product_ndcs": [
+        "0003-0877",
+        "0003-0956"
+      ],
+      "rxcui": [],
+      "setid": "7b762f8b-86f7-46b0-8ace-83addaabe46b",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "PROLIXIN (fluphenazine hydrochloride) tablet, film coated"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b580471f-44a1-4da0-96ad-2f537eabec3e"
+    },
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1f532edc-1a2c-4221-80dd-1ac158dd3a72"
+    },
+    {
+      "combination": false,
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3832d3d3-15ce-4d41-8431-11e9bd04cf4d"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5b443b30-5682-4cf3-9ed0-716efddbc865"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddys Laboratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "98aeddfd-4f24-4d1a-820d-d0abc1733794"
+    },
+    {
+      "combination": false,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6218cbd2-1f7f-40fa-92d2-5d5b0d7fa60b"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "977dc369-6b6d-4ad1-9239-a46f63a764bd"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "325af2a4-2280-4236-8cf8-44f5700ba73f"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7036f7c6-0792-400d-a1c7-54f21b2bd481"
+    },
+    {
+      "combination": false,
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d0a090fa-f7c9-4f6d-a9a3-9838870c7049"
+    },
+    {
+      "combination": false,
+      "labeler": "Upsher-Smith Laboratories,LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f07bb3f1-c68c-441b-9de4-99a219f2500a"
+    },
+    {
+      "combination": false,
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "47695e20-9c0b-4a6b-ab1a-1dfaa75e96d8"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8caa3896-cde1-4cb1-9332-2e92bcf5c1f6"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e73764e7-e666-4ad3-a029-04a528dc1c9e"
+    },
+    {
+      "combination": false,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "83ce71b9-28eb-4074-b1e7-192ed254c529"
+    },
+    {
+      "combination": false,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8d7ba627-cf3f-4b94-aee8-8b44cc9400be"
+    },
+    {
+      "combination": false,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4c3eea71-a7a1-4eda-9871-034ddeb83ed6"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9fd44ab9-79bb-472e-8434-c3d786b42de5"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1991be2c-9629-4c3e-93f0-e40bcffc82b0"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4dd61338-8e4b-41c6-99d8-811a8e990c4e"
+    },
+    {
+      "combination": false,
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "970e6fde-9cc8-475b-8a9e-bde0579a72a7"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c4448579-3ccb-442e-8950-a219d1f01a98"
+    },
+    {
+      "combination": false,
+      "labeler": "Zameer Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d9db3882-a7b5-435b-9d5a-a5e4ef7c2537"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1842a678-c32b-4e81-998e-597fc370fb9e"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7c29fb1f-9403-4e55-abd9-36adfb152e8e"
+    }
+  ]
+}

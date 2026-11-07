@@ -1,0 +1,901 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand Vimpat",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000863",
+      "eu_number": "EU/1/08/470",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000863",
+      "mah": "UCB Pharma SA",
+      "marketing_authorisation_date": "2008-08-29",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/vimpat",
+      "name": "Vimpat",
+      "record_from": "2008-08-29",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 28
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/004443",
+      "eu_number": "EU/1/17/1230",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-004443",
+      "mah": "Accord Healthcare S.L.U.",
+      "marketing_authorisation_date": "2017-09-18",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/lacosamide-accord",
+      "name": "Lacosamide Accord",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/005243",
+      "eu_number": "EU/1/19/1383",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-005243",
+      "mah": "UCB Pharma S.A.",
+      "marketing_authorisation_date": "2019-08-26",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/lacosamide-ucb",
+      "name": "Lacosamide UCB",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/006047",
+      "eu_number": "EU/1/23/1732",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-006047",
+      "mah": "Extrovis EU Ltd",
+      "marketing_authorisation_date": "2023-05-31",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/lacosamide-adroiq",
+      "name": "Lacosamide Adroiq",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000863",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "LACOSAMIDE"
+  ],
+  "inn": "lacosamide",
+  "name": "LACOSAMIDE",
+  "rank": 21,
+  "rxcui": [
+    "809974",
+    "809984",
+    "809987",
+    "809990",
+    "809992",
+    "809994",
+    "809996",
+    "809998",
+    "810000",
+    "810002",
+    "993856",
+    "995156",
+    "2637018",
+    "2637025",
+    "2637027",
+    "2637030",
+    "2637032",
+    "2637035"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 58,
+    "approval_holders": 46,
+    "earliest_marketing_start": "2009-05-26",
+    "latest_label_update": "2026-10-22",
+    "nda_bla_applications": 4,
+    "repackagers": 11
+  },
+  "unii": [
+    {
+      "ingredient": "LACOSAMIDE",
+      "unii": "563KS2PQY5"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA022253",
+        "NDA022254",
+        "NDA022255"
+      ],
+      "brand_names": [
+        "Vimpat"
+      ],
+      "combination": false,
+      "home_inn": "lacosamide",
+      "ingredients": [
+        "LACOSAMIDE"
+      ],
+      "labeler": "UCB, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2009-05-26",
+      "moieties": [
+        "LACOSAMIDE"
+      ],
+      "product_ndcs": [
+        "0131-1810",
+        "0131-2477",
+        "0131-2478",
+        "0131-2479",
+        "0131-2480",
+        "0131-5410"
+      ],
+      "rxcui": [
+        "809974",
+        "809984",
+        "809987",
+        "809990",
+        "809992",
+        "809994",
+        "809996",
+        "809998",
+        "810000",
+        "810002",
+        "993856",
+        "995156"
+      ],
+      "setid": "9e79b42c-38a3-4b2c-a196-a5a1948250e2",
+      "source": "openfda",
+      "spl_version": 63,
+      "title": "VIMPAT (LACOSAMIDE) TABLET, FILM COATED VIMPAT (LACOSAMIDE) INJECTION VIMPAT (LACOSAMIDE) SOLUTION [UCB, INC.]",
+      "upload_date": "2026-05-13"
+    },
+    {
+      "application_numbers": [
+        "NDA216185"
+      ],
+      "brand_names": [
+        "MOTPOLY XR"
+      ],
+      "combination": false,
+      "home_inn": "lacosamide",
+      "ingredients": [
+        "LACOSAMIDE"
+      ],
+      "labeler": "Aucta Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-05-05",
+      "moieties": [
+        "LACOSAMIDE"
+      ],
+      "product_ndcs": [
+        "73289-0063",
+        "73289-0064",
+        "73289-0065"
+      ],
+      "rxcui": [
+        "2637018",
+        "2637025",
+        "2637027",
+        "2637030",
+        "2637032",
+        "2637035"
+      ],
+      "setid": "fb8235b4-4cd3-6f22-e053-6294a90a545c",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "MOTPOLY XR (LACOSAMIDE) CAPSULE, EXTENDED RELEASE [AUCTA PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-07-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA214301"
+      ],
+      "brand_names": [
+        "LACOSAMIDE"
+      ],
+      "combination": false,
+      "home_inn": "lacosamide",
+      "ingredients": [
+        "LACOSAMIDE"
+      ],
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-03-17",
+      "moieties": [
+        "LACOSAMIDE"
+      ],
+      "product_ndcs": [
+        "25021-791"
+      ],
+      "rxcui": [
+        "809974"
+      ],
+      "setid": "6b4536d0-5703-42b0-9f59-46a3e1b75b22",
+      "source": "dailymed-title-match",
+      "spl_version": 8,
+      "title": "LACOSAMIDE INJECTION, SOLUTION [SAGENT PHARMACEUTICALS]",
+      "upload_date": "2026-09-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA204787"
+      ],
+      "brand_names": [
+        "LACOSAMIDE"
+      ],
+      "combination": false,
+      "home_inn": "lacosamide",
+      "ingredients": [
+        "LACOSAMIDE"
+      ],
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-03-17",
+      "moieties": [
+        "LACOSAMIDE"
+      ],
+      "product_ndcs": [
+        "31722-812",
+        "31722-813",
+        "31722-814",
+        "31722-815"
+      ],
+      "rxcui": [
+        "809987",
+        "809992",
+        "809996",
+        "810000"
+      ],
+      "setid": "c5b91128-f838-4e98-9684-5f477fc7af06",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "LACOSAMIDE (LACOSAMIDE) TABLET, FILM COATED [CAMBER PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-06-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA204974"
+      ],
+      "brand_names": [
+        "Lacosamide"
+      ],
+      "combination": false,
+      "home_inn": "lacosamide",
+      "ingredients": [
+        "LACOSAMIDE"
+      ],
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-03-18",
+      "moieties": [
+        "LACOSAMIDE"
+      ],
+      "product_ndcs": [
+        "62332-171",
+        "62332-172",
+        "62332-173",
+        "62332-174"
+      ],
+      "rxcui": [
+        "809987",
+        "809992",
+        "809996",
+        "810000"
+      ],
+      "setid": "07b7b3f2-16a0-4deb-883b-10522676d966",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "LACOSAMIDE TABLET, FILM COATED [ALEMBIC PHARMACEUTICALS INC.]",
+      "upload_date": "2023-12-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA205006"
+      ],
+      "brand_names": [
+        "lacosamide"
+      ],
+      "combination": false,
+      "home_inn": "lacosamide",
+      "ingredients": [
+        "LACOSAMIDE"
+      ],
+      "labeler": "Glenmark Pharmaceuticals Inc. USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-03-18",
+      "moieties": [
+        "LACOSAMIDE"
+      ],
+      "product_ndcs": [
+        "68462-678",
+        "68462-679",
+        "68462-680",
+        "68462-681"
+      ],
+      "rxcui": [
+        "809987",
+        "809992",
+        "809996",
+        "810000"
+      ],
+      "setid": "df1d2e6a-6129-49c9-b2c1-0fdf73f38b9c",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "LACOSAMIDE TABLET, FILM COATED [GLENMARK PHARMACEUTICALS INC. USA]",
+      "upload_date": "2025-12-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA205237"
+      ],
+      "brand_names": [
+        "LACOSAMIDE"
+      ],
+      "combination": false,
+      "home_inn": "lacosamide",
+      "ingredients": [
+        "LACOSAMIDE"
+      ],
+      "labeler": "ScieGen Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-03-18",
+      "moieties": [
+        "LACOSAMIDE"
+      ],
+      "product_ndcs": [
+        "50228-192",
+        "50228-193",
+        "50228-194",
+        "50228-195"
+      ],
+      "rxcui": [
+        "809987",
+        "809992",
+        "809996",
+        "810000"
+      ],
+      "setid": "f4ffa3ad-1278-4772-9ef8-ed6fdaa47605",
+      "source": "dailymed-title-match",
+      "spl_version": 6,
+      "title": "LACOSAMIDE TABLET, FILM COATED [SCIEGEN PHARMACEUTICALS INC]",
+      "upload_date": "2026-09-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA204921"
+      ],
+      "brand_names": [
+        "LACOSAMIDE"
+      ],
+      "combination": false,
+      "home_inn": "lacosamide",
+      "ingredients": [
+        "LACOSAMIDE"
+      ],
+      "labeler": "Breckenridge Pharmaceutical, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-03-18",
+      "moieties": [
+        "LACOSAMIDE"
+      ],
+      "product_ndcs": [
+        "51991-348",
+        "51991-349",
+        "51991-350",
+        "51991-351"
+      ],
+      "rxcui": [
+        "809987",
+        "809992",
+        "809996",
+        "810000"
+      ],
+      "setid": "f7ea3ce6-4ca7-4405-a011-48e7d71360a5",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "LACOSAMIDE TABLET, FILM COATED [BRECKENRIDGE PHARMACEUTICAL, INC.]",
+      "upload_date": "2025-01-10"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2098d3a5-776e-4b52-8ade-80a3ab7b3de7"
+    },
+    {
+      "combination": false,
+      "labeler": "Tris Pharma Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7f37f8b8-07d3-48c4-a0c4-7652b62a1ad9"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9d7fde23-dc3f-41e9-89cf-6a1a9eeaa7de"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4ae87834-05d8-43c8-aaa3-78047d4a573c"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bbd80370-3d23-41f8-8914-c6ea897c0154"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "07356cf2-224b-40d2-b827-e10a6b42c232"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "419ff519-2b19-4fb9-adfa-868ba0229407"
+    },
+    {
+      "combination": false,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "68033c90-d9cc-4d5f-896c-9a61a0c3b529"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e24d3c45-a559-4fca-a7be-74ce37a7066e"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "779d2381-f590-45f9-a191-f44af821f4c8"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6140b3f1-ff60-427c-91d7-15af99fd78f1"
+    },
+    {
+      "combination": false,
+      "labeler": "Kanchan Healthcare Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "41f02424-231d-4039-a122-df4b49dc9998"
+    },
+    {
+      "combination": false,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a024081a-e131-4e88-967d-40155651a945"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0e21389b-2f51-4975-aa21-fc5c9dd9f6dc"
+    },
+    {
+      "combination": false,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b9a0ca8c-593c-48e8-b2a7-d30d5f6e6a9b"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "614490ce-a62c-4222-8e4b-ce802cf63028"
+    },
+    {
+      "combination": false,
+      "labeler": "Sintetica US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "08ac486a-4f61-4e9e-9683-d1a66a6c2a4d"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Laboratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cd5ac33e-6ac5-772b-2ead-d66cbd5bd1b4"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7197c0b6-5bb9-43b3-be1d-e7615629df9a"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "035d85e5-8688-4390-bd55-74baa91c0e9d"
+    },
+    {
+      "combination": false,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "00203a7b-e774-45f7-ac6b-48db6d32a48a"
+    },
+    {
+      "combination": false,
+      "labeler": "Unichem Pharmaceuticals (USA), Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7ed5cebe-470e-48a4-86ec-2ce79cc32688"
+    },
+    {
+      "combination": false,
+      "labeler": "Marlex Pharmaceuticals, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0a273024-c2d2-4fae-90c3-b2f38a323f24"
+    },
+    {
+      "combination": false,
+      "labeler": "Westminster Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "61e3747a-3957-4840-81f0-313aefbd5d2b"
+    },
+    {
+      "combination": false,
+      "labeler": "Trigen Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d98ec7ed-353f-4d4f-9ccd-57ddc62edd0d"
+    },
+    {
+      "combination": false,
+      "labeler": "Kesin Pharma Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "446f14be-5d79-26b9-e063-6294a90ae0b5"
+    },
+    {
+      "combination": false,
+      "labeler": "Anthea Pharma Private Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b4f2620a-2047-4b33-bb75-18702f6c55e6"
+    },
+    {
+      "combination": false,
+      "labeler": "Florida Pharmaceutical Products, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ba4e2e28-7dc3-47b3-9c2c-34e0b1f39fb8"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "46b98d5e-fdb6-483a-b022-8b1f0aa832c5"
+    },
+    {
+      "combination": false,
+      "labeler": "MSN LABORATORIES PRIVATE LIMITED",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0ae4e2d1-305d-4045-95da-cfe7c2d8b435"
+    },
+    {
+      "combination": false,
+      "labeler": "Indoco Remedies Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "145b4fae-ce6d-43e8-a474-fcb9dff92a53"
+    },
+    {
+      "combination": false,
+      "labeler": "Indoco Remedies Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ba337b2c-7c1f-4f7b-ba93-054f502400f3"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3bc84c70-bc1d-4a72-bbe7-86f32cd646d0"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9dffda6c-9e44-478f-9e02-9da3ab4c50e1"
+    },
+    {
+      "combination": false,
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "75de00d8-d2e7-4025-be4e-f49299068e7e"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "16a9afd2-35a6-44a9-b1d9-ca195c8640d7"
+    },
+    {
+      "combination": false,
+      "labeler": "Fosun Pharma USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ec1c5ddb-1143-7e6a-e053-2995a90a8382"
+    },
+    {
+      "combination": false,
+      "labeler": "XLCare Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c7793da3-787b-4364-9192-7caab49066f1"
+    },
+    {
+      "combination": false,
+      "labeler": "Leading Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "45786c84-51ef-4440-bc88-2501951e4c41"
+    },
+    {
+      "combination": false,
+      "labeler": "Virtus Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "01162e2f-967b-4596-8188-c0d9889c3814"
+    },
+    {
+      "combination": false,
+      "labeler": "Westminster Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ecb8b33e-7cbd-4f5e-9fe9-e72dff9bcb86"
+    },
+    {
+      "combination": false,
+      "labeler": "Florida Pharmaceutical Products, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3680c0ff-7f5c-4572-b1eb-4fea96b7fbe2"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell Governmental & Specialty RX, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e265fd09-8149-4423-a317-5760d34b8e9b"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "48fcaa27-baaa-446e-a282-0c3e232cd151"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e969b294-48d9-42a2-a093-0ac715142460"
+    },
+    {
+      "combination": false,
+      "labeler": "Glenmark Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "458e80da-8fc1-4715-9b4b-bc4f388f933f"
+    },
+    {
+      "combination": false,
+      "labeler": "Kanchan Healthcare Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5c03b90e-6985-4005-b6c5-44626d0600d7"
+    },
+    {
+      "combination": false,
+      "labeler": "Ajenat Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cb29da34-89aa-405a-8fbc-2308bda37187"
+    },
+    {
+      "combination": false,
+      "labeler": "GLENMARK PHARMACEUTICALS INC., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bc7ed8a6-acce-48f2-9ef1-4e366c71dbbc"
+    },
+    {
+      "combination": false,
+      "labeler": "AvKARE",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5b10986e-0809-b6d1-e063-6394a90a5738"
+    }
+  ]
+}

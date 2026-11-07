@@ -1,0 +1,505 @@
+{
+  "biologic": true,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand Victoza",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/001026",
+      "eu_number": "EU/1/09/529",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-001026",
+      "mah": "Novo Nordisk A/S",
+      "marketing_authorisation_date": "2009-06-30",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/victoza",
+      "name": "Victoza",
+      "record_from": "2009-06-30",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 23
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/003780",
+      "eu_number": "EU/1/15/992",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-003780",
+      "mah": "Novo Nordisk A/S",
+      "marketing_authorisation_date": "2015-03-23",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/saxenda",
+      "name": "Saxenda",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/006615",
+      "eu_number": "EU/1/26/2037",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-006615",
+      "mah": "STADA Arzneimittel AG",
+      "marketing_authorisation_date": "2026-07-15",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/liraglutide-stada",
+      "name": "Liraglutide STADA",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/006620",
+      "eu_number": "EU/1/26/2036",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-006620",
+      "mah": "STADA Arzneimittel AG",
+      "marketing_authorisation_date": "2026-07-15",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ablymico",
+      "name": "Ablymico",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 1,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-001026",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "LIRAGLUTIDE"
+  ],
+  "inn": "liraglutide",
+  "name": "LIRAGLUTIDE",
+  "rank": 224,
+  "rxcui": [
+    "897122",
+    "897126",
+    "1598268",
+    "1860167",
+    "1860172",
+    "2735350"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 18,
+    "approval_holders": 12,
+    "earliest_marketing_start": "2010-01-25",
+    "latest_label_update": "2026-10-19",
+    "nda_bla_applications": 3,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "LIRAGLUTIDE",
+      "unii": "839I73S42A"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA022341"
+      ],
+      "brand_names": [
+        "Victoza"
+      ],
+      "combination": false,
+      "home_inn": "liraglutide",
+      "ingredients": [
+        "LIRAGLUTIDE"
+      ],
+      "labeler": "Novo Nordisk",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2010-01-25",
+      "moieties": [
+        "LIRAGLUTIDE"
+      ],
+      "product_ndcs": [
+        "0169-4060"
+      ],
+      "rxcui": [
+        "897122",
+        "897126"
+      ],
+      "setid": "5a9ef4ea-c76a-4d34-a604-27c5b505f5a4",
+      "source": "openfda",
+      "spl_version": 31,
+      "title": "VICTOZA (LIRAGLUTIDE) INJECTION [NOVO NORDISK]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "NDA206321"
+      ],
+      "brand_names": [
+        "Saxenda"
+      ],
+      "combination": false,
+      "home_inn": "liraglutide",
+      "ingredients": [
+        "LIRAGLUTIDE"
+      ],
+      "labeler": "Novo Nordisk Pharmaceutical Industries, LP",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2014-12-31",
+      "moieties": [
+        "LIRAGLUTIDE"
+      ],
+      "product_ndcs": [
+        "0169-2800"
+      ],
+      "rxcui": [
+        "1598268",
+        "2735350"
+      ],
+      "setid": "3946d389-0926-4f77-a708-0acb8153b143",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "SAXENDA (LIRAGLUTIDE) INJECTION, SOLUTION [NOVO NORDISK PHARMACEUTICAL INDUSTRIES, LP]",
+      "upload_date": "2026-06-15"
+    },
+    {
+      "application_numbers": [
+        "BLA208583"
+      ],
+      "brand_names": [
+        "Xultophy 100/3.6"
+      ],
+      "combination": true,
+      "home_inn": "liraglutide",
+      "ingredients": [
+        "INSULIN DEGLUDEC",
+        "LIRAGLUTIDE"
+      ],
+      "labeler": "Novo Nordisk",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2016-11-21",
+      "moieties": [
+        "INSULIN DEGLUDEC",
+        "LIRAGLUTIDE"
+      ],
+      "product_ndcs": [
+        "0169-2911"
+      ],
+      "rxcui": [
+        "1860167",
+        "1860172"
+      ],
+      "setid": "21335fe4-d395-4501-ac2a-2f20d7520da9",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "XULTOPHY 100/3.6 (INSULIN DEGLUDEC AND LIRAGLUTIDE) INJECTION, SOLUTION [NOVO NORDISK]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "NDA022341"
+      ],
+      "brand_names": [
+        "Liraglutide"
+      ],
+      "combination": false,
+      "home_inn": "liraglutide",
+      "ingredients": [
+        "LIRAGLUTIDE"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2024-06-24",
+      "moieties": [
+        "LIRAGLUTIDE"
+      ],
+      "product_ndcs": [
+        "0480-3667"
+      ],
+      "rxcui": [
+        "897122"
+      ],
+      "setid": "14bf9812-14ee-46ce-93b1-686e4906cbbc",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "LIRAGLUTIDE INJECTION [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2026-03-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA215503"
+      ],
+      "brand_names": [
+        "Liraglutide"
+      ],
+      "combination": false,
+      "home_inn": "liraglutide",
+      "ingredients": [
+        "LIRAGLUTIDE"
+      ],
+      "labeler": "Hybio Pharmaceutical Co., Ltd. (Pingshan Factory)",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-06-21",
+      "moieties": [
+        "LIRAGLUTIDE"
+      ],
+      "product_ndcs": [
+        "14403-3400"
+      ],
+      "rxcui": [
+        "897122"
+      ],
+      "setid": "1a36b801-41e2-2eed-e063-6294a90a6f27",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "LIRAGLUTIDE INJECTION, SOLUTION [HYBIO PHARMACEUTICAL CO., LTD. (PINGSHAN FACTORY)]",
+      "upload_date": "2024-12-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA218115"
+      ],
+      "brand_names": [
+        "Liraglutide"
+      ],
+      "combination": false,
+      "home_inn": "liraglutide",
+      "ingredients": [
+        "LIRAGLUTIDE"
+      ],
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-04-02",
+      "moieties": [
+        "LIRAGLUTIDE"
+      ],
+      "product_ndcs": [
+        "71288-563"
+      ],
+      "rxcui": [
+        "897122"
+      ],
+      "setid": "0efc3a89-211a-4496-baab-e8265e07de2b",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "LIRAGLUTIDE INJECTION [MEITHEAL PHARMACEUTICALS INC.]",
+      "upload_date": "2026-07-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA214568"
+      ],
+      "brand_names": [
+        "Liraglutide"
+      ],
+      "combination": false,
+      "home_inn": "liraglutide",
+      "ingredients": [
+        "LIRAGLUTIDE"
+      ],
+      "labeler": "Teva Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-08-28",
+      "moieties": [
+        "LIRAGLUTIDE"
+      ],
+      "product_ndcs": [
+        "0480-7250"
+      ],
+      "rxcui": [
+        "2735350"
+      ],
+      "setid": "625ac780-70a9-41e4-a892-bcba0f803f1c",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "LIRAGLUTIDE INJECTION, SOLUTION [TEVA PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-05-06"
+    },
+    {
+      "application_numbers": [
+        "ANDA215421"
+      ],
+      "brand_names": [
+        "Liraglutide"
+      ],
+      "combination": false,
+      "home_inn": "liraglutide",
+      "ingredients": [
+        "LIRAGLUTIDE"
+      ],
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-10-02",
+      "moieties": [
+        "LIRAGLUTIDE"
+      ],
+      "product_ndcs": [
+        "70748-346"
+      ],
+      "rxcui": [
+        "897122"
+      ],
+      "setid": "0450d8a2-a88e-4849-9788-ed4f5246f223",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "LIRAGLUTIDE INJECTION [LUPIN PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-11-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA217234",
+        "ANDA217590"
+      ],
+      "brand_names": [
+        "LIRAGLUTIDE",
+        "liraglutide"
+      ],
+      "combination": false,
+      "home_inn": "liraglutide",
+      "ingredients": [
+        "LIRAGLUTIDE"
+      ],
+      "labeler": "Orbicular Pharmaceutical Technologies Private Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-01-21",
+      "moieties": [
+        "LIRAGLUTIDE"
+      ],
+      "product_ndcs": [
+        "81607-018",
+        "81607-019"
+      ],
+      "rxcui": [
+        "897122"
+      ],
+      "setid": "bb66a46c-9019-4a98-8e5d-581109facfba",
+      "source": "dailymed-title-match",
+      "spl_version": 2,
+      "title": "LIRAGLUTIDE INJECTION, SOLUTION [ORBICULAR PHARMACEUTICAL TECHNOLOGIES PRIVATE LIMITED]",
+      "upload_date": "2026-10-19"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Biocon Pharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0b898330-eca1-f60a-71d2-b91716e336ed"
+    },
+    {
+      "combination": false,
+      "labeler": "Biocon Pharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cb032379-043b-443c-d552-b5d25f27f3c4"
+    },
+    {
+      "combination": false,
+      "labeler": "Hybio Pharmaceutical Co., Ltd. (Pingshan Factory)",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1a36f43f-d734-97cc-e063-6294a90ae0da"
+    },
+    {
+      "combination": false,
+      "labeler": "Hybio Pharmaceutical Co., Ltd. (Pingshan Factory)",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1a372465-d56b-2b80-e063-6394a90a3304"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2100ec49-57b2-4330-ab5f-057ce9b7e4d0"
+    },
+    {
+      "combination": false,
+      "labeler": "Orbicular Pharmaceutical Technologies Private Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d2bfc30a-8392-4255-a4d8-fa0b8d1659b2"
+    },
+    {
+      "combination": false,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "22c86976-9657-4dd0-8fff-0c3f3f08357c"
+    },
+    {
+      "combination": false,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8fe557ae-4ff0-47a2-8ec3-37bb0fbdcc64"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4253be3b-bda6-4efd-8118-9c9538168a88"
+    }
+  ]
+}

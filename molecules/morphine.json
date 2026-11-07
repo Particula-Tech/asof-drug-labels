@@ -1,0 +1,1347 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "MORPHINE SULFATE"
+  ],
+  "inn": "morphine",
+  "name": "MORPHINE",
+  "rank": 96,
+  "rxcui": [
+    "891874",
+    "891881",
+    "891888",
+    "891893",
+    "892345",
+    "892352",
+    "892473",
+    "892489",
+    "892494",
+    "892554",
+    "892574",
+    "892582",
+    "892589",
+    "892596",
+    "892625",
+    "892646",
+    "892652",
+    "892660",
+    "892672",
+    "894780",
+    "894801",
+    "894813",
+    "894814",
+    "894912",
+    "894914",
+    "998212",
+    "998213",
+    "1442790",
+    "1728783",
+    "1728800",
+    "1729197",
+    "1731522",
+    "1731537",
+    "1731545",
+    "1731993",
+    "1731998",
+    "1731999",
+    "1732006",
+    "1732011",
+    "1732014",
+    "1732136",
+    "2003714",
+    "2752697"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 31,
+    "approval_holders": 19,
+    "earliest_marketing_start": "1984-09-18",
+    "latest_label_update": "2026-10-16",
+    "nda_bla_applications": 6,
+    "repackagers": 7
+  },
+  "unii": [
+    {
+      "ingredient": "MORPHINE SULFATE",
+      "unii": "X3P646A2J0"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA018565"
+      ],
+      "brand_names": [
+        "INFUMORPH 200",
+        "INFUMORPH 500"
+      ],
+      "combination": false,
+      "home_inn": "morphine",
+      "ingredients": [
+        "MORPHINE SULFATE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1984-09-18",
+      "moieties": [
+        "MORPHINE"
+      ],
+      "product_ndcs": [
+        "0641-6039",
+        "0641-6040"
+      ],
+      "rxcui": [
+        "892652",
+        "1731522",
+        "1731998",
+        "1731999"
+      ],
+      "setid": "db9ac9e3-d761-4a99-9f34-4946ebe8f255",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "INFUMORPH 200 (MORPHINE SULFATE) INJECTION, SOLUTION INFUMORPH 500 (MORPHINE SULFATE) INJECTION, SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2026-01-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA073509",
+        "ANDA073510",
+        "NDA202515"
+      ],
+      "brand_names": [
+        "Morphine Sulfate"
+      ],
+      "combination": false,
+      "home_inn": "morphine",
+      "ingredients": [
+        "MORPHINE SULFATE"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA",
+        "NDA"
+      ],
+      "marketing_start": "2005-06-29",
+      "moieties": [
+        "MORPHINE"
+      ],
+      "product_ndcs": [
+        "0409-1890",
+        "0409-1891",
+        "0409-3814",
+        "0409-3815"
+      ],
+      "rxcui": [
+        "1728783",
+        "1728800"
+      ],
+      "setid": "1d181906-f3ec-4222-1883-e61577a3122e",
+      "source": "openfda",
+      "spl_version": 29,
+      "title": "MORPHINE SULFATE INJECTION, SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2026-05-07"
+    },
+    {
+      "application_numbers": [
+        "NDA022207"
+      ],
+      "brand_names": [
+        "Morphine Sulfate"
+      ],
+      "combination": false,
+      "home_inn": "morphine",
+      "ingredients": [
+        "MORPHINE SULFATE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2008-03-17",
+      "moieties": [
+        "MORPHINE"
+      ],
+      "product_ndcs": [
+        "0054-0235",
+        "0054-0236"
+      ],
+      "rxcui": [
+        "892582",
+        "892672"
+      ],
+      "setid": "3c847554-3b4b-4d24-a145-2ef7e9b83699",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "MORPHINE SULFATE TABLET [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2026-03-30"
+    },
+    {
+      "application_numbers": [
+        "NDA022195"
+      ],
+      "brand_names": [
+        "Morphine Sulfate"
+      ],
+      "combination": false,
+      "home_inn": "morphine",
+      "ingredients": [
+        "MORPHINE SULFATE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2008-03-17",
+      "moieties": [
+        "MORPHINE"
+      ],
+      "product_ndcs": [
+        "0054-0237",
+        "0054-0238",
+        "0054-0517"
+      ],
+      "rxcui": [
+        "892589",
+        "892625",
+        "894780"
+      ],
+      "setid": "ca359246-4674-4b32-b8b2-673d32b7112f",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "MORPHINE SULFATE SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2026-03-30"
+    },
+    {
+      "application_numbers": [
+        "NDA204223"
+      ],
+      "brand_names": [
+        "Morphine Sulfate"
+      ],
+      "combination": false,
+      "home_inn": "morphine",
+      "ingredients": [
+        "MORPHINE SULFATE"
+      ],
+      "labeler": "Fresenius Kabi, USA LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2013-10-30",
+      "moieties": [
+        "MORPHINE"
+      ],
+      "product_ndcs": [
+        "76045-004",
+        "76045-005",
+        "76045-006",
+        "76045-007",
+        "76045-008",
+        "76045-238"
+      ],
+      "rxcui": [
+        "894912",
+        "894914",
+        "998212",
+        "998213",
+        "1442790",
+        "2752697"
+      ],
+      "setid": "1f53de80-efc8-4930-b3e3-fba0d026af05",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "MORPHINE SULFATE INJECTION, SOLUTION [FRESENIUS KABI, USA LLC]",
+      "upload_date": "2026-09-10"
+    },
+    {
+      "application_numbers": [
+        "NDA019516"
+      ],
+      "brand_names": [
+        "MS Contin"
+      ],
+      "combination": false,
+      "home_inn": "morphine",
+      "ingredients": [
+        "MORPHINE SULFATE"
+      ],
+      "labeler": "Rhodes Pharmaceuticals LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-05-15",
+      "moieties": [
+        "MORPHINE"
+      ],
+      "product_ndcs": [
+        "42858-515",
+        "42858-631",
+        "42858-760"
+      ],
+      "rxcui": [
+        "891881",
+        "891888",
+        "891893",
+        "892574",
+        "892660",
+        "894813"
+      ],
+      "setid": "c354b3bf-86c0-4bb8-8b1f-be2164942698",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "MS CONTIN (MORPHINE SULFATE) TABLET, FILM COATED, EXTENDED RELEASE [RHODES PHARMACEUTICALS LLC]",
+      "upload_date": "2026-08-19"
+    },
+    {
+      "application_numbers": [
+        "NDA018565"
+      ],
+      "brand_names": [
+        "Duramorph"
+      ],
+      "combination": false,
+      "home_inn": "morphine",
+      "ingredients": [
+        "MORPHINE SULFATE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1984-09-18",
+      "moieties": [
+        "MORPHINE"
+      ],
+      "product_ndcs": [
+        "0641-6019",
+        "0641-6020"
+      ],
+      "rxcui": [
+        "892473",
+        "892489",
+        "1728783",
+        "1728800"
+      ],
+      "setid": "ebb18761-e5c4-4238-bb84-f9549f500210",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "DURAMORPH (MORPHINE SULFATE) INJECTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2026-01-30"
+    },
+    {
+      "application_numbers": [
+        "NDA202515"
+      ],
+      "brand_names": [
+        "Morphine Sulfate"
+      ],
+      "combination": false,
+      "home_inn": "morphine",
+      "ingredients": [
+        "MORPHINE SULFATE"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2012-08-07",
+      "moieties": [
+        "MORPHINE"
+      ],
+      "product_ndcs": [
+        "0409-1890",
+        "0409-1891"
+      ],
+      "rxcui": [
+        "998212",
+        "998213",
+        "1729197",
+        "1732014"
+      ],
+      "setid": "be420e8b-bcb0-49b5-bb4d-1df8b9959809",
+      "source": "dailymed-title-match",
+      "spl_version": 27,
+      "title": "MORPHINE SULFATE INJECTION, SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2026-10-16"
+    },
+    {
+      "application_numbers": [
+        "NDA202515"
+      ],
+      "brand_names": [
+        "Morphine Sulfate",
+        "Morphine sulfate"
+      ],
+      "combination": false,
+      "home_inn": "morphine",
+      "ingredients": [
+        "MORPHINE SULFATE"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2012-08-07",
+      "moieties": [
+        "MORPHINE"
+      ],
+      "product_ndcs": [
+        "0409-1890",
+        "0409-1891",
+        "0409-1896",
+        "0409-2022"
+      ],
+      "rxcui": [
+        "1731537",
+        "1731545"
+      ],
+      "setid": "ee8057d1-ed12-4e18-9efa-d83504abf612",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "MORPHINE SULFATE INJECTION, SOLUTION MORPHINE SULFATE INJECTION, SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2026-01-05"
+    },
+    {
+      "application_numbers": [
+        "NDA204223"
+      ],
+      "brand_names": [
+        "Morphine Sulfate"
+      ],
+      "combination": false,
+      "home_inn": "morphine",
+      "ingredients": [
+        "MORPHINE SULFATE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-04-10",
+      "moieties": [
+        "MORPHINE"
+      ],
+      "product_ndcs": [
+        "63323-451",
+        "63323-452",
+        "63323-454",
+        "63323-455",
+        "63323-458"
+      ],
+      "rxcui": [
+        "1731993",
+        "1732006",
+        "1732011",
+        "1732136",
+        "2003714"
+      ],
+      "setid": "582f42e5-444e-4246-af8c-e7e28097c69a",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "MORPHINE SULFATE INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2026-09-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA076412",
+        "ANDA076438"
+      ],
+      "brand_names": [
+        "MORPHINE SULFATE"
+      ],
+      "combination": false,
+      "home_inn": "morphine",
+      "ingredients": [
+        "MORPHINE SULFATE"
+      ],
+      "labeler": "SpecGx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2003-07-03",
+      "moieties": [
+        "MORPHINE"
+      ],
+      "product_ndcs": [
+        "0406-8315",
+        "0406-8320",
+        "0406-8330",
+        "0406-8380",
+        "0406-8390"
+      ],
+      "rxcui": [
+        "891874",
+        "891881",
+        "891888",
+        "891893",
+        "892646"
+      ],
+      "setid": "533034fd-c8e7-495b-8874-0db41bd1e65a",
+      "source": "openfda",
+      "spl_version": 39,
+      "title": "MORPHINE SULFATE TABLET, EXTENDED RELEASE [SPECGX LLC]",
+      "upload_date": "2026-09-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA203158"
+      ],
+      "brand_names": [
+        "Morphine Sulfate"
+      ],
+      "combination": false,
+      "home_inn": "morphine",
+      "ingredients": [
+        "MORPHINE SULFATE"
+      ],
+      "labeler": "Nortec Development Associates, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-04-07",
+      "moieties": [
+        "MORPHINE"
+      ],
+      "product_ndcs": [
+        "42689-005",
+        "42689-006",
+        "42689-007",
+        "42689-008",
+        "42689-009",
+        "42689-010"
+      ],
+      "rxcui": [
+        "892345",
+        "892352",
+        "892554",
+        "892596",
+        "894801",
+        "894814"
+      ],
+      "setid": "9c1a5b8b-8faa-4ee0-80bd-853c239bb1c4",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "MORPHINE SULFATE CAPSULE, EXTENDED RELEASE [NORTEC DEVELOPMENT ASSOCIATES, INC.]",
+      "upload_date": "2025-08-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA074769",
+        "ANDA074862"
+      ],
+      "brand_names": [
+        "Morphine Sulfate Extended Release"
+      ],
+      "combination": false,
+      "home_inn": "morphine",
+      "ingredients": [
+        "MORPHINE SULFATE"
+      ],
+      "labeler": "Rhodes Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-01-14",
+      "moieties": [
+        "MORPHINE"
+      ],
+      "product_ndcs": [
+        "42858-801",
+        "42858-802",
+        "42858-803",
+        "42858-804",
+        "42858-805"
+      ],
+      "rxcui": [
+        "891874",
+        "891881",
+        "891888",
+        "891893",
+        "892646"
+      ],
+      "setid": "19c7d9cc-6ce2-4c5c-8c3f-c24fd3342804",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "MORPHINE SULFATE EXTENDED RELEASE (MORPHINE SULFATE) TABLET, FILM COATED, EXTENDED RELEASE [RHODES PHARMACEUTICALS LLC]",
+      "upload_date": "2026-05-06"
+    },
+    {
+      "application_numbers": [
+        "ANDA202348"
+      ],
+      "brand_names": [
+        "Morphine Sulfate"
+      ],
+      "combination": false,
+      "home_inn": "morphine",
+      "ingredients": [
+        "MORPHINE SULFATE"
+      ],
+      "labeler": "SpecGx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-07-15",
+      "moieties": [
+        "MORPHINE"
+      ],
+      "product_ndcs": [
+        "0406-8003"
+      ],
+      "rxcui": [
+        "892625"
+      ],
+      "setid": "242c2512-1d49-486b-a9c3-6905f667799e",
+      "source": "openfda",
+      "spl_version": 30,
+      "title": "MORPHINE SULFATE SOLUTION [SPECGX LLC]",
+      "upload_date": "2026-07-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA078761"
+      ],
+      "brand_names": [
+        "Morphine sulfate"
+      ],
+      "combination": false,
+      "home_inn": "morphine",
+      "ingredients": [
+        "MORPHINE SULFATE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-05-11",
+      "moieties": [
+        "MORPHINE"
+      ],
+      "product_ndcs": [
+        "63304-450",
+        "63304-451",
+        "63304-452",
+        "63304-453",
+        "63304-758"
+      ],
+      "rxcui": [
+        "891874",
+        "891881",
+        "891888",
+        "891893",
+        "892646"
+      ],
+      "setid": "736c9b80-682c-4cda-bf18-61b18de0bd39",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "MORPHINE SULFATE TABLET, FILM COATED, EXTENDED RELEASE [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2026-04-08"
+    },
+    {
+      "application_numbers": [
+        "ANDA202104"
+      ],
+      "brand_names": [
+        "Morphine Sulfate"
+      ],
+      "combination": false,
+      "home_inn": "morphine",
+      "ingredients": [
+        "MORPHINE SULFATE"
+      ],
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-06-30",
+      "moieties": [
+        "MORPHINE"
+      ],
+      "product_ndcs": [
+        "0832-0225",
+        "0832-0226",
+        "0832-0227",
+        "0832-0228",
+        "0832-0229",
+        "0832-0230",
+        "0832-0233"
+      ],
+      "rxcui": [
+        "892345",
+        "892352",
+        "892494",
+        "892554",
+        "892596",
+        "894801",
+        "894814"
+      ],
+      "setid": "97948a8f-7d1b-4614-b11d-e944cf56590b",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "MORPHINE SULFATE CAPSULE, EXTENDED RELEASE [UPSHER-SMITH LABORATORIES, LLC]",
+      "upload_date": "2025-07-11"
+    },
+    {
+      "application_numbers": [
+        "NDA206544"
+      ],
+      "archived_versions": 12,
+      "brand_names": [
+        "MORPHABOND"
+      ],
+      "first_posted": "2017-03-03",
+      "found_by": "MORPHABOND",
+      "labeler": "Daiichi Sankyo Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2021-01-21",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-01-22"
+      ],
+      "product_ndcs": [
+        "65597-301",
+        "65597-302",
+        "65597-303",
+        "65597-304"
+      ],
+      "rxcui": [],
+      "setid": "1806c935-0a76-4f6a-80c8-4aee8a95cb7d",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "MORPHABOND ER (morphine sulfate) tablet, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA020616"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "KADIAN"
+      ],
+      "first_posted": "2009-09-15",
+      "found_by": "KADIAN",
+      "labeler": "Actavis Kadian LLC",
+      "labeler_unverified": true,
+      "last_posted": "2018-12-20",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-07-01"
+      ],
+      "product_ndcs": [
+        "46987-322",
+        "46987-323",
+        "46987-324",
+        "46987-325",
+        "46987-326",
+        "46987-327",
+        "46987-328",
+        "46987-329",
+        "46987-330",
+        "46987-377",
+        "46987-410",
+        "46987-412"
+      ],
+      "rxcui": [],
+      "setid": "2cb462d0-f4a5-41b4-b4d5-8b3d8453e0e9",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "KADIAN (morphine sulfate) capsule, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA021260"
+      ],
+      "archived_versions": 8,
+      "brand_names": [
+        "AVINZA"
+      ],
+      "first_posted": "2011-07-18",
+      "found_by": "AVINZA",
+      "labeler": "Pfizer Laboratories Div Pfizer Inc",
+      "labeler_unverified": false,
+      "last_posted": "2015-11-06",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-08-31",
+        "2015-11-30",
+        "2017-01-31"
+      ],
+      "product_ndcs": [
+        "60793-603",
+        "60793-604",
+        "60793-605",
+        "60793-606",
+        "60793-607",
+        "60793-608"
+      ],
+      "rxcui": [],
+      "setid": "3e361ca5-911a-4216-bac4-67ee47cb0e24",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "AVINZA (morphine sulfate) capsule, extended release"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "MS CONTIN"
+      ],
+      "first_posted": "2007-05-04",
+      "found_by": "MS CONTIN",
+      "labeler": "Purdue Pharma L.P.",
+      "labeler_unverified": false,
+      "last_posted": "2007-05-04",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "59011-260",
+        "59011-261",
+        "59011-262",
+        "59011-263",
+        "59011-264"
+      ],
+      "rxcui": [],
+      "setid": "86133175-4dd8-407a-a541-7d4e50a3d241",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ms contin (morphine sulfate) tablet, film coated, extended release"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "KADIAN"
+      ],
+      "first_posted": "2007-09-26",
+      "found_by": "KADIAN",
+      "labeler": "Alpharma Branded Products Division Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2007-09-26",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "63857-322",
+        "63857-323",
+        "63857-324",
+        "63857-325",
+        "63857-326",
+        "63857-377",
+        "63857-412"
+      ],
+      "rxcui": [],
+      "setid": "a3200bb2-43d5-47fb-99b2-5870b8311d2e",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "kadian (morphine sulfate) capsule, extended release"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "KADIAN"
+      ],
+      "first_posted": "2007-10-10",
+      "found_by": "KADIAN",
+      "labeler": "Alpharma Pharmaceuticals LLC",
+      "labeler_unverified": true,
+      "last_posted": "2007-10-10",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "63857-322",
+        "63857-323",
+        "63857-324",
+        "63857-325",
+        "63857-326",
+        "63857-377",
+        "63857-410",
+        "63857-412"
+      ],
+      "rxcui": [],
+      "setid": "a39aa7e2-bb56-4f0c-9b69-716447816a8e",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "kadian (morphine sulfate) capsule, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA020616"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "KADIAN"
+      ],
+      "first_posted": "2008-12-05",
+      "found_by": "KADIAN",
+      "labeler": "Alpharma Pharmaceuticals LLC",
+      "labeler_unverified": true,
+      "last_posted": "2011-09-09",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2008-12-29"
+      ],
+      "product_ndcs": [
+        "63857-322",
+        "63857-323",
+        "63857-324",
+        "63857-325",
+        "63857-326",
+        "63857-377",
+        "63857-410",
+        "63857-412"
+      ],
+      "rxcui": [],
+      "setid": "ac279229-f781-4098-9c17-6c22804a31d4",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "KADIAN (morphine sulfate) capsule, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA018565"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "DURAMORPH"
+      ],
+      "first_posted": "2006-09-01",
+      "found_by": "DURAMORPH",
+      "labeler": "Baxter Healthcare Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2015-08-28",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-02-28"
+      ],
+      "product_ndcs": [
+        "60977-016",
+        "60977-017"
+      ],
+      "rxcui": [],
+      "setid": "ad46c618-67e3-40fe-8ac7-57d567f454b3",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "db9ac9e3-d761-4a99-9f34-4946ebe8f255",
+        "ebb18761-e5c4-4238-bb84-f9549f500210"
+      ],
+      "title": "DURAMORPH (morphine sulfate) injection, solution"
+    },
+    {
+      "application_numbers": [
+        "NDA020616"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "KADIAN"
+      ],
+      "first_posted": "2014-07-09",
+      "found_by": "KADIAN",
+      "labeler": "Actavis Pharma, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2018-12-20",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-05-31",
+        "2019-09-30",
+        "2020-02-29",
+        "2020-06-30",
+        "2020-07-31"
+      ],
+      "product_ndcs": [
+        "52544-011",
+        "52544-032",
+        "52544-039",
+        "52544-052",
+        "52544-063",
+        "52544-164",
+        "52544-211",
+        "52544-220",
+        "52544-896"
+      ],
+      "rxcui": [],
+      "setid": "adae46f8-3477-418d-9fd0-322ace413817",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "KADIAN (morphine sulfate) capsule, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA020616"
+      ],
+      "archived_versions": 9,
+      "brand_names": [
+        "KADIAN"
+      ],
+      "first_posted": "2016-12-29",
+      "found_by": "KADIAN",
+      "labeler": "Allergan, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2021-03-12",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-06-30",
+        "2023-02-23",
+        "2023-02-28",
+        "2023-03-31",
+        "2023-06-30"
+      ],
+      "product_ndcs": [
+        "0023-6011",
+        "0023-6012",
+        "0023-6013",
+        "0023-6014",
+        "0023-6015",
+        "0023-6016",
+        "0023-6017",
+        "0023-6018",
+        "0023-6019"
+      ],
+      "rxcui": [],
+      "setid": "b5cee013-000f-4e35-a284-1f58add31b4d",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "KADIAN (morphine sulfate) capsule, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA019977"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "ORAMORPH"
+      ],
+      "first_posted": "2008-04-04",
+      "found_by": "ORAMORPH",
+      "labeler": "Xanodyne Pharmaceuticals, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2012-01-25",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2011-12-31",
+        "2012-02-29",
+        "2012-03-31",
+        "2012-06-30"
+      ],
+      "product_ndcs": [
+        "66479-540",
+        "66479-541",
+        "66479-542",
+        "66479-543"
+      ],
+      "rxcui": [],
+      "setid": "b5cf84ad-1efa-4ea0-9495-1a9e80c069fc",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ORAMORPH SR SUSTAINED RELEASE (morphine sulfate) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA206544"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "MORPHABOND"
+      ],
+      "first_posted": "2016-04-04",
+      "found_by": "MORPHABOND",
+      "labeler": "Inspirion Delivery Technologies, Llc",
+      "labeler_unverified": true,
+      "last_posted": "2017-03-03",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-03-02"
+      ],
+      "product_ndcs": [
+        "69296-001",
+        "69296-002",
+        "69296-003",
+        "69296-004"
+      ],
+      "rxcui": [],
+      "setid": "dfc30217-4e2b-426b-bad1-c222cb26d571",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "MORPHABOND (morphine sulfate) tablet, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA019516"
+      ],
+      "archived_versions": 14,
+      "brand_names": [
+        "MS CONTIN"
+      ],
+      "first_posted": "2007-07-19",
+      "found_by": "MS CONTIN",
+      "labeler": "Purdue Pharma LP",
+      "labeler_unverified": false,
+      "last_posted": "2024-06-12",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-06-01"
+      ],
+      "product_ndcs": [
+        "59011-260",
+        "59011-261",
+        "59011-262",
+        "59011-263",
+        "59011-264"
+      ],
+      "rxcui": [],
+      "setid": "e0472c35-3f44-42e2-9b75-37b2e9ff65f6",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "c354b3bf-86c0-4bb8-8b1f-be2164942698"
+      ],
+      "title": "MS CONTIN (morphine sulfate) tablet, film coated, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA018565"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "INFUMORPH"
+      ],
+      "first_posted": "2016-01-14",
+      "found_by": "INFUMORPH",
+      "labeler": "Baxter Healthcare Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2016-01-14",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2014-09-30",
+        "2014-10-31"
+      ],
+      "product_ndcs": [
+        "60977-114",
+        "60977-115"
+      ],
+      "rxcui": [],
+      "setid": "e5954090-039b-45a2-9493-722c1fd18c45",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "db9ac9e3-d761-4a99-9f34-4946ebe8f255",
+        "ebb18761-e5c4-4238-bb84-f9549f500210"
+      ],
+      "title": "INFUMORPH 200/INFUMORPH 500 (morphine sulfate) injection, solution"
+    },
+    {
+      "application_numbers": [
+        "NDA208603"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "ARYMO"
+      ],
+      "first_posted": "2017-02-01",
+      "found_by": "ARYMO",
+      "labeler": "Zyla Life Sciences US Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2021-01-13",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-09-18"
+      ],
+      "product_ndcs": [
+        "69344-111",
+        "69344-211",
+        "69344-311"
+      ],
+      "rxcui": [],
+      "setid": "e60552c9-06ce-4790-95e7-aadd4df12b2a",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ARYMO ER (morphine sulfate) tablet, film coated, extended release"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2da87bfa-11fd-43e3-8fef-d16ebeb15680"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6023606c-150c-40c5-9175-598efe2a56c3"
+    },
+    {
+      "combination": false,
+      "labeler": "Cranbury Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d8598654-94ad-4cfb-81d2-9b68e013a428"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals,Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d360a33f-6323-4b10-9e81-07e2813c2dbd"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f7e9a4b3-a2ee-4f0a-becd-6ef90867332b"
+    },
+    {
+      "combination": false,
+      "labeler": "Piramal Critical Care, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "728f3d83-9a63-0c1f-e053-2a91aa0ac7db"
+    },
+    {
+      "combination": false,
+      "labeler": "Winder Laboratories LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e9a7319a-bf1f-48db-a71e-6d4e6ead9555"
+    },
+    {
+      "combination": false,
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5ceb3205-2f8d-4ba3-9f27-dc328bab4fa1"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "07593aa4-f2c4-4d6e-b186-ab2a4ecaa38a"
+    },
+    {
+      "combination": false,
+      "labeler": "International Medication Systems, Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1034467f-d436-4b87-a902-c7e8885daa8a"
+    },
+    {
+      "combination": false,
+      "labeler": "SpecGx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8b69f67f-30b3-4982-953e-5a4b87ec6ac6"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "69a0d5be-3211-4b7f-962b-e9d9a507321f"
+    },
+    {
+      "combination": false,
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9405556c-20e0-4e47-b1b0-7872bcc6517e"
+    },
+    {
+      "combination": false,
+      "labeler": "Civica, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9362eca1-2bc9-4f72-8895-0b9179bfeb2b"
+    },
+    {
+      "combination": false,
+      "labeler": "American Health Packaging",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "66a3f607-7f48-490f-84dd-b74dd1ee39e5"
+    }
+  ]
+}

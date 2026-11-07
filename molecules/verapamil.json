@@ -1,0 +1,783 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "VERAPAMIL HYDROCHLORIDE"
+  ],
+  "inn": "verapamil",
+  "name": "VERAPAMIL",
+  "rank": 211,
+  "rxcui": [
+    "897584",
+    "897612",
+    "897618",
+    "897624",
+    "897640",
+    "897649",
+    "897659",
+    "897666",
+    "897683",
+    "897722",
+    "1665057",
+    "1665061"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 33,
+    "approval_holders": 23,
+    "earliest_marketing_start": "1986-10-01",
+    "latest_label_update": "2026-08-20",
+    "nda_bla_applications": 1,
+    "repackagers": 17
+  },
+  "unii": [
+    {
+      "ingredient": "VERAPAMIL HYDROCHLORIDE",
+      "unii": "V3888OEY5R"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA018925"
+      ],
+      "brand_names": [
+        "Verapamil Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "verapamil",
+      "ingredients": [
+        "VERAPAMIL HYDROCHLORIDE"
+      ],
+      "labeler": "EXELA PHARMA SCIENCES, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2016-04-22",
+      "moieties": [
+        "VERAPAMIL"
+      ],
+      "product_ndcs": [
+        "51754-0203"
+      ],
+      "rxcui": [
+        "1665057",
+        "1665061"
+      ],
+      "setid": "eff5e83b-f819-4a5b-9746-12bce328d7a7",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "VERAPAMIL HYDROCHLORIDE INJECTION [EXELA PHARMA SCIENCES, LLC]",
+      "upload_date": "2021-09-16"
+    },
+    {
+      "application_numbers": [
+        "NDA018925"
+      ],
+      "brand_names": [
+        "Verapamil Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "verapamil",
+      "ingredients": [
+        "VERAPAMIL HYDROCHLORIDE"
+      ],
+      "labeler": "EXELA PHARMA SCIENCES, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-02-01",
+      "moieties": [
+        "VERAPAMIL"
+      ],
+      "product_ndcs": [
+        "51754-0204"
+      ],
+      "rxcui": [
+        "1665057"
+      ],
+      "setid": "3318e357-0660-44f4-8170-91a51bd762fb",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "VERAPAMIL HYDROCHLORIDE INJECTION [EXELA PHARMA SCIENCES, LLC]",
+      "upload_date": "2017-02-01"
+    },
+    {
+      "application_numbers": [
+        "NDA019614"
+      ],
+      "brand_names": [
+        "Verapamil Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "verapamil",
+      "ingredients": [
+        "VERAPAMIL HYDROCHLORIDE"
+      ],
+      "labeler": "Wilshire Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "1990-05-29",
+      "moieties": [
+        "VERAPAMIL"
+      ],
+      "product_ndcs": [
+        "52536-880",
+        "52536-882",
+        "52536-884",
+        "52536-886"
+      ],
+      "rxcui": [],
+      "setid": "f9399858-fd7a-4b73-8759-3e5bf3af2666",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "VERAPAMIL HYDROCHLORIDE CAPSULE, DELAYED RELEASE [WILSHIRE PHARMACEUTICALS, INC.]",
+      "upload_date": "2024-12-02"
+    },
+    {
+      "application_numbers": [
+        "NDA020943"
+      ],
+      "brand_names": [
+        "Verapamil Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "verapamil",
+      "ingredients": [
+        "VERAPAMIL HYDROCHLORIDE"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "1998-11-25",
+      "moieties": [
+        "VERAPAMIL"
+      ],
+      "product_ndcs": [
+        "62135-532"
+      ],
+      "rxcui": [
+        "897584"
+      ],
+      "setid": "18f6d349-8c5c-4443-ac65-16bf6619ecdc",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "VERAPAMIL HYDROCHLORIDE CAPSULE, EXTENDED RELEASE [CHARTWELL RX, LLC]",
+      "upload_date": "2025-03-27"
+    },
+    {
+      "application_numbers": [
+        "ANDA070994",
+        "ANDA070995",
+        "ANDA072924"
+      ],
+      "brand_names": [
+        "Verapamil Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "verapamil",
+      "ingredients": [
+        "VERAPAMIL HYDROCHLORIDE"
+      ],
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1986-10-01",
+      "moieties": [
+        "VERAPAMIL"
+      ],
+      "product_ndcs": [
+        "0591-0343",
+        "0591-0345",
+        "0591-0404"
+      ],
+      "rxcui": [
+        "897666",
+        "897683",
+        "897722"
+      ],
+      "setid": "a0343397-897b-46d6-943f-a87e07e1de10",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "VERAPAMIL HYDROCHLORIDE TABLET, FILM COATED [ACTAVIS PHARMA, INC.]",
+      "upload_date": "2024-12-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA075138"
+      ],
+      "brand_names": [
+        "Verapamil Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "verapamil",
+      "ingredients": [
+        "VERAPAMIL HYDROCHLORIDE"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1999-05-20",
+      "moieties": [
+        "VERAPAMIL"
+      ],
+      "product_ndcs": [
+        "0378-6320",
+        "0378-6380",
+        "0378-6440"
+      ],
+      "rxcui": [
+        "897612",
+        "897618",
+        "897624"
+      ],
+      "setid": "c86084bc-33aa-eece-5a96-6c0dad2d1a32",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "VERAPAMIL HYDROCHLORIDE CAPSULE, EXTENDED RELEASE [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2024-12-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA070737",
+        "ANDA070738"
+      ],
+      "brand_names": [
+        "Verapamil Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "verapamil",
+      "ingredients": [
+        "VERAPAMIL HYDROCHLORIDE"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2005-02-28",
+      "moieties": [
+        "VERAPAMIL"
+      ],
+      "product_ndcs": [
+        "0409-1144",
+        "0409-4011"
+      ],
+      "rxcui": [
+        "1665057",
+        "1665061"
+      ],
+      "setid": "1c993365-1b62-4524-e781-d307f28f63bc",
+      "source": "openfda",
+      "spl_version": 26,
+      "title": "VERAPAMIL HYDROCHLORIDE INJECTION, SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2026-07-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA078906",
+        "ANDA090700"
+      ],
+      "brand_names": [
+        "verapamil hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "verapamil",
+      "ingredients": [
+        "VERAPAMIL HYDROCHLORIDE"
+      ],
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-09-17",
+      "moieties": [
+        "VERAPAMIL"
+      ],
+      "product_ndcs": [
+        "68462-260",
+        "68462-292",
+        "68462-293"
+      ],
+      "rxcui": [
+        "897640",
+        "897649",
+        "897659"
+      ],
+      "setid": "ba1bf1ae-9347-4d17-998b-14bf7b5984ce",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "VERAPAMIL HYDROCHLORIDE TABLET, FILM COATED, EXTENDED RELEASE [GLENMARK PHARMACEUTICALS INC., USA]",
+      "upload_date": "2025-12-03"
+    },
+    {
+      "application_numbers": [
+        "NDA018817"
+      ],
+      "archived_versions": 23,
+      "brand_names": [
+        "CALAN"
+      ],
+      "first_posted": "2006-07-18",
+      "found_by": "CALAN",
+      "labeler": "Pfizer Laboratories Div Pfizer Inc",
+      "labeler_unverified": false,
+      "last_posted": "2023-12-04",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-06-30",
+        "2020-07-31"
+      ],
+      "product_ndcs": [
+        "0025-1851",
+        "0025-1861"
+      ],
+      "rxcui": [],
+      "setid": "55d5f933-42ff-4c80-a102-0ccb7f76b082",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "CALAN (verapamil hydrochloride) tablet, film coated"
+    },
+    {
+      "application_numbers": [
+        "NDA020943"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "VERELAN"
+      ],
+      "first_posted": "2006-09-18",
+      "found_by": "VERELAN",
+      "labeler": "UCB, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2016-10-24",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2016-06-30"
+      ],
+      "product_ndcs": [
+        "0091-4085",
+        "0091-4086",
+        "0091-4087"
+      ],
+      "rxcui": [],
+      "setid": "7c822705-827f-43c7-8c27-35bc31cf6484",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "18f6d349-8c5c-4443-ac65-16bf6619ecdc"
+      ],
+      "title": "VERELAN PM (verapamil hydrochloride) capsule, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA019614"
+      ],
+      "archived_versions": 12,
+      "brand_names": [
+        "VERELAN"
+      ],
+      "first_posted": "2013-12-20",
+      "found_by": "VERELAN",
+      "labeler": "Lannett Company, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2025-08-14",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-08-14"
+      ],
+      "product_ndcs": [
+        "62175-580",
+        "62175-581",
+        "62175-582",
+        "62175-583"
+      ],
+      "rxcui": [],
+      "setid": "92f7adf1-cb8c-4c6e-95d1-9afd28fe5116",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "f9399858-fd7a-4b73-8759-3e5bf3af2666"
+      ],
+      "title": "VERELAN (verapamil hydrochloride) capsule, delayed release pellets"
+    },
+    {
+      "application_numbers": [
+        "NDA019152"
+      ],
+      "archived_versions": 26,
+      "brand_names": [
+        "CALAN"
+      ],
+      "first_posted": "2010-02-18",
+      "found_by": "CALAN",
+      "labeler": "Pfizer Laboratories Div Pfizer Inc",
+      "labeler_unverified": false,
+      "last_posted": "2024-04-01",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-05-31",
+        "2023-07-31",
+        "2024-01-31"
+      ],
+      "product_ndcs": [
+        "0025-2712",
+        "0025-2818",
+        "0025-2924"
+      ],
+      "rxcui": [],
+      "setid": "acb6e57b-af44-432f-a4de-a293a2e20121",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "CALAN SR (verapamil hydrochloride) tablet, film coated, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA020552"
+      ],
+      "archived_versions": 12,
+      "brand_names": [
+        "COVERA HS"
+      ],
+      "first_posted": "2006-07-18",
+      "found_by": "COVERA-HS",
+      "labeler": "Pfizer Laboratories Div Pfizer Inc",
+      "labeler_unverified": false,
+      "last_posted": "2026-05-26",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2011-07-31",
+        "2012-02-29"
+      ],
+      "product_ndcs": [
+        "0025-2011",
+        "0025-2021"
+      ],
+      "rxcui": [],
+      "setid": "c56b20d8-eeee-4d87-94a1-ae186f9b550e",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "COVERA-HS (verapamil hydrochloride) tablet, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA019614"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "VERELAN"
+      ],
+      "first_posted": "2007-08-24",
+      "found_by": "VERELAN",
+      "labeler": "UCB, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2016-10-24",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2016-06-30"
+      ],
+      "product_ndcs": [
+        "0091-2489",
+        "0091-2490",
+        "0091-2491",
+        "0091-2495"
+      ],
+      "rxcui": [],
+      "setid": "e96aaa64-63ac-4016-99c1-f05b8dd3fee9",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "f9399858-fd7a-4b73-8759-3e5bf3af2666"
+      ],
+      "title": "VERELAN (verapamil hydrochloride) capsule, delayed release pellets"
+    },
+    {
+      "application_numbers": [
+        "NDA020943"
+      ],
+      "archived_versions": 12,
+      "brand_names": [
+        "VERELAN"
+      ],
+      "first_posted": "2013-12-20",
+      "found_by": "VERELAN",
+      "labeler": "Lannett Company, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2026-06-03",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2026-05-31"
+      ],
+      "product_ndcs": [
+        "62175-570",
+        "62175-571",
+        "62175-572"
+      ],
+      "rxcui": [],
+      "setid": "fd1b433f-1895-4af0-9d1f-3901c6d34c20",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "18f6d349-8c5c-4443-ac65-16bf6619ecdc"
+      ],
+      "title": "VERELAN PM (verapamil hydrochloride) capsule, extended release"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ebc9a09a-7b5f-4df6-ace7-31185d469b28"
+    },
+    {
+      "combination": false,
+      "labeler": "Cadila Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5501208c-aa2b-47aa-89f7-87f4d4a73fd0"
+    },
+    {
+      "combination": false,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "50131bbc-ad43-4708-946f-e4000828137c"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9055ed6b-f466-4f38-a9d9-f22e9ac97ad4"
+    },
+    {
+      "combination": false,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9c89764e-ff07-4077-a40f-91eb1c179af2"
+    },
+    {
+      "combination": false,
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "03c5daf8-5399-4d89-a747-9a9d7667b6e4"
+    },
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "def3b9ba-523d-4b83-a80d-fa6f362e111c"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "eb3c66f6-581f-422b-9ca2-9b877b323a33"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c87c7f7e-cdf5-42c7-a831-a7515d2d51d6"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "df77b8d1-1d2b-4fea-a1e9-153bd25008a6"
+    },
+    {
+      "combination": false,
+      "labeler": "FRESENIUS KABI USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "38ca9270-5538-467a-a3e9-c27968f3aafe"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1076a3ef-de02-487f-8117-b4e80495db29"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "051392d3-8ec1-450c-8c38-791d4ef1a2db"
+    },
+    {
+      "combination": true,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "39bad727-af4c-4d20-933b-7f287e88099a"
+    },
+    {
+      "combination": false,
+      "labeler": "Wilshire Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5f665d08-e1e4-422a-88c2-d8834abf9e1a"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ed1e0c14-3571-43f9-88fc-5a4d2b598263"
+    },
+    {
+      "combination": false,
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "70057a53-ca29-4848-ab3d-5e691e2a14a3"
+    },
+    {
+      "combination": false,
+      "labeler": "Nivagen Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e36e485f-fbed-4e30-9a63-984931f2e54e"
+    },
+    {
+      "combination": false,
+      "labeler": "Armas Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2d595d9d-af88-474d-b622-d63d786f06a7"
+    },
+    {
+      "combination": false,
+      "labeler": "Armas Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "51597adb-bfb1-4611-b577-8989724fc3a4"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cccf4a5f-6c5d-4d52-97e4-fe7a2dbd28d8"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a76b2cff-7029-4607-88db-9921ec2842b6"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a9a1a522-231b-41a1-95c6-0c75dbb62f47"
+    },
+    {
+      "combination": false,
+      "labeler": "Caplin Steriles Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e18cc04c-a808-4d92-9b66-762cd787abc5"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e19ab8d8-dae5-489d-9805-7e7407bea06d"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "biologic": true,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand DARZALEX",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/004077",
+      "eu_number": "EU/1/16/1101",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-004077",
+      "mah": "",
+      "marketing_authorisation_date": "2016-05-20",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/darzalex",
+      "name": "Darzalex",
+      "record_from": "2016-05-20",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 17
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-004077",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "DARATUMUMAB"
+  ],
+  "inn": "daratumumab",
+  "name": "DARATUMUMAB",
+  "rank": 368,
+  "rxcui": [
+    "1721951",
+    "1721956",
+    "1726439",
+    "1726440",
+    "2375136",
+    "2375141"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 2,
+    "approval_holders": 1,
+    "earliest_marketing_start": "2015-11-16",
+    "latest_label_update": "2026-10-14",
+    "nda_bla_applications": 2,
+    "repackagers": 0
+  },
+  "unii": [],
+  "unii_unresolved": [
+    "DARATUMUMAB"
+  ],
+  "us": [
+    {
+      "application_numbers": [
+        "BLA761036"
+      ],
+      "brand_names": [
+        "DARZALEX",
+        "Darzalex IV"
+      ],
+      "combination": false,
+      "home_inn": "daratumumab",
+      "ingredients": [
+        "DARATUMUMAB"
+      ],
+      "labeler": "Janssen Biotech, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2015-11-16",
+      "moieties": [
+        "DARATUMUMAB"
+      ],
+      "product_ndcs": [
+        "57894-502",
+        "57894-505"
+      ],
+      "rxcui": [
+        "1721951",
+        "1721956",
+        "1726439",
+        "1726440"
+      ],
+      "setid": "a4d0efe9-5e54-467e-9eb4-56fa7d53b60b",
+      "source": "dailymed-title-match",
+      "spl_version": 46,
+      "title": "DARZALEX (DARATUMUMAB) INJECTION, SOLUTION, CONCENTRATE DARZALEX IV (DARATUMUMAB) INJECTION, SOLUTION, CONCENTRATE [JANSSEN BIOTECH, INC.]",
+      "upload_date": "2026-09-24"
+    },
+    {
+      "application_numbers": [
+        "BLA761036",
+        "BLA761145"
+      ],
+      "brand_names": [
+        "DARZALEX",
+        "Darzalex Faspro"
+      ],
+      "combination": true,
+      "home_inn": "hyaluronidase-human-recombinant",
+      "ingredients": [
+        "DARATUMUMAB",
+        "HYALURONIDASE (HUMAN RECOMBINANT)"
+      ],
+      "labeler": "Janssen Biotech, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2015-11-16",
+      "moieties": [
+        "DARATUMUMAB",
+        "HYALURONIDASE (HUMAN RECOMBINANT)"
+      ],
+      "product_ndcs": [
+        "57894-502",
+        "57894-503"
+      ],
+      "rxcui": [
+        "2375136",
+        "2375141"
+      ],
+      "setid": "4bb241af-4299-4373-8762-2d6709515db0",
+      "source": "dailymed-title-match",
+      "spl_version": 34,
+      "title": "DARZALEX FASPRO (DARATUMUMAB AND HYALURONIDASE-FIHJ (HUMAN RECOMBINANT)) INJECTION [JANSSEN BIOTECH, INC.]",
+      "upload_date": "2026-10-14"
+    }
+  ],
+  "us_excluded": []
+}

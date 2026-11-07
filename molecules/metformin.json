@@ -1,0 +1,2060 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 12,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "only combination central products under this exact INN (combinations are not built)",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "METFORMIN HYDROCHLORIDE"
+  ],
+  "inn": "metformin",
+  "name": "METFORMIN",
+  "rank": 4,
+  "rxcui": [
+    "860975",
+    "860981",
+    "861004",
+    "861007",
+    "861010",
+    "861015",
+    "861018",
+    "861021",
+    "861771",
+    "861821",
+    "861822",
+    "861824",
+    "1243020",
+    "1243026",
+    "1243027",
+    "1243033",
+    "1243034",
+    "1243040",
+    "1243833",
+    "1243843",
+    "1243848",
+    "1368385",
+    "1368391",
+    "1368392",
+    "1368398",
+    "1545150",
+    "1545156",
+    "1545157",
+    "1545159",
+    "1545161",
+    "1545163",
+    "1545164",
+    "1545166",
+    "1593058",
+    "1593068",
+    "1593070",
+    "1593072",
+    "1593775",
+    "1593831",
+    "1593833",
+    "1593835",
+    "1664315",
+    "1664321",
+    "1664323",
+    "1664325",
+    "1664326",
+    "1664328",
+    "1665367",
+    "1665369",
+    "1796089",
+    "1796091",
+    "1796094",
+    "1796096",
+    "1807888",
+    "1807915",
+    "1810997",
+    "1810999",
+    "1811002",
+    "1811003",
+    "1811006",
+    "1811007",
+    "1811010",
+    "1811011",
+    "1940496",
+    "1940498",
+    "2703582",
+    "2709470",
+    "2709477",
+    "2709482",
+    "2709488",
+    "2709491"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 128,
+    "approval_holders": 63,
+    "earliest_marketing_start": "2002-01-24",
+    "latest_label_update": "2026-10-29",
+    "nda_bla_applications": 16,
+    "repackagers": 25
+  },
+  "unii": [
+    {
+      "ingredient": "METFORMIN HYDROCHLORIDE",
+      "unii": "786Z46389E"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021748"
+      ],
+      "brand_names": [
+        "Glumetza"
+      ],
+      "combination": false,
+      "home_inn": "metformin",
+      "ingredients": [
+        "METFORMIN HYDROCHLORIDE"
+      ],
+      "labeler": "Santarus, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2006-08-01",
+      "moieties": [
+        "METFORMIN"
+      ],
+      "product_ndcs": [
+        "68012-002",
+        "68012-003",
+        "68012-004"
+      ],
+      "rxcui": [
+        "861015",
+        "861018",
+        "1807888",
+        "1807915"
+      ],
+      "setid": "fb832474-88d9-4e29-95cd-fbc446944cc4",
+      "source": "dailymed-title-match",
+      "spl_version": 32,
+      "title": "GLUMETZA (METFORMIN HYDROCHLORIDE) TABLET, FILM COATED, EXTENDED RELEASE [SANTARUS, INC.]",
+      "upload_date": "2026-09-21"
+    },
+    {
+      "application_numbers": [
+        "NDA021842"
+      ],
+      "brand_names": [
+        "Actoplus Met"
+      ],
+      "combination": true,
+      "home_inn": "metformin",
+      "ingredients": [
+        "METFORMIN HYDROCHLORIDE",
+        "PIOGLITAZONE HYDROCHLORIDE"
+      ],
+      "labeler": "Takeda Pharmaceuticals America, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2005-08-29",
+      "moieties": [
+        "METFORMIN",
+        "PIOGLITAZONE"
+      ],
+      "product_ndcs": [
+        "64764-158"
+      ],
+      "rxcui": [
+        "861822",
+        "861824"
+      ],
+      "setid": "42e49120-6f3f-11db-9fe1-0800200c9a66",
+      "source": "openfda",
+      "spl_version": 28,
+      "title": "ACTOPLUS MET (PIOGLITAZONE AND METFORMIN HYDROCHLORIDE) TABLET, FILM COATED [TAKEDA PHARMACEUTICALS AMERICA, INC.]",
+      "upload_date": "2026-08-24"
+    },
+    {
+      "application_numbers": [
+        "NDA022044"
+      ],
+      "brand_names": [
+        "JANUMET"
+      ],
+      "combination": true,
+      "home_inn": "metformin",
+      "ingredients": [
+        "METFORMIN HYDROCHLORIDE",
+        "SITAGLIPTIN PHOSPHATE"
+      ],
+      "labeler": "Merck Sharp & Dohme LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2007-03-30",
+      "moieties": [
+        "METFORMIN",
+        "SITAGLIPTIN"
+      ],
+      "product_ndcs": [
+        "0006-0575",
+        "0006-0577"
+      ],
+      "rxcui": [
+        "861771",
+        "861821",
+        "2709488",
+        "2709491"
+      ],
+      "setid": "d19c7ed0-ad5c-426e-b2df-722508f97d67",
+      "source": "openfda",
+      "spl_version": 61,
+      "title": "JANUMET (SITAGLIPTIN AND METFORMIN HYDROCHLORIDE) TABLET, FILM COATED [MERCK SHARP & DOHME LLC]",
+      "upload_date": "2026-08-27"
+    },
+    {
+      "application_numbers": [
+        "NDA202270"
+      ],
+      "brand_names": [
+        "JANUMET XR"
+      ],
+      "combination": true,
+      "home_inn": "metformin",
+      "ingredients": [
+        "METFORMIN HYDROCHLORIDE",
+        "SITAGLIPTIN PHOSPHATE"
+      ],
+      "labeler": "Merck Sharp & Dohme LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2012-02-02",
+      "moieties": [
+        "METFORMIN",
+        "SITAGLIPTIN"
+      ],
+      "product_ndcs": [
+        "0006-0078",
+        "0006-0080",
+        "0006-0081"
+      ],
+      "rxcui": [
+        "1243833",
+        "1243843",
+        "1243848",
+        "2709470",
+        "2709477",
+        "2709482"
+      ],
+      "setid": "64beb3d2-3aeb-4cd5-ba11-dacf6c9a5b50",
+      "source": "openfda",
+      "spl_version": 44,
+      "title": "JANUMET XR (SITAGLIPTIN AND METFORMIN HYDROCHLORIDE) TABLET, FILM COATED, EXTENDED RELEASE [MERCK SHARP & DOHME LLC]",
+      "upload_date": "2026-08-28"
+    },
+    {
+      "application_numbers": [
+        "NDA201281"
+      ],
+      "brand_names": [
+        "Jentadueto"
+      ],
+      "combination": true,
+      "home_inn": "metformin",
+      "ingredients": [
+        "LINAGLIPTIN",
+        "METFORMIN HYDROCHLORIDE"
+      ],
+      "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2012-02-13",
+      "moieties": [
+        "LINAGLIPTIN",
+        "METFORMIN"
+      ],
+      "product_ndcs": [
+        "0597-0146",
+        "0597-0147",
+        "0597-0148"
+      ],
+      "rxcui": [
+        "1243020",
+        "1243026",
+        "1243027",
+        "1243033",
+        "1243034",
+        "1243040"
+      ],
+      "setid": "f6dd9b86-0d18-95d4-2bc7-05591bfdd597",
+      "source": "openfda",
+      "spl_version": 46,
+      "title": "JENTADUETO (LINAGLIPTIN AND METFORMIN HYDROCHLORIDE) TABLET, FILM COATED [BOEHRINGER INGELHEIM PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-08-26"
+    },
+    {
+      "application_numbers": [
+        "NDA203414"
+      ],
+      "brand_names": [
+        "KAZANO"
+      ],
+      "combination": true,
+      "home_inn": "metformin",
+      "ingredients": [
+        "ALOGLIPTIN BENZOATE",
+        "METFORMIN HYDROCHLORIDE"
+      ],
+      "labeler": "Takeda Pharmaceuticals America, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2013-01-25",
+      "moieties": [
+        "ALOGLIPTIN",
+        "METFORMIN"
+      ],
+      "product_ndcs": [
+        "64764-335",
+        "64764-337"
+      ],
+      "rxcui": [
+        "1368385",
+        "1368391",
+        "1368392",
+        "1368398"
+      ],
+      "setid": "83cb7914-a683-47bb-a713-f2bc6a596bd2",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "KAZANO (ALOGLIPTIN AND METFORMIN HYDROCHLORIDE) TABLET, FILM COATED [TAKEDA PHARMACEUTICALS AMERICA, INC.]",
+      "upload_date": "2026-08-21"
+    },
+    {
+      "application_numbers": [
+        "NDA204353",
+        "NDA205879"
+      ],
+      "brand_names": [
+        "INVOKAMET",
+        "INVOKAMET XR"
+      ],
+      "combination": true,
+      "home_inn": "metformin",
+      "ingredients": [
+        "CANAGLIFLOZIN",
+        "METFORMIN HYDROCHLORIDE"
+      ],
+      "labeler": "Janssen Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2014-08-08",
+      "moieties": [
+        "CANAGLIFLOZIN",
+        "METFORMIN"
+      ],
+      "product_ndcs": [
+        "50458-540",
+        "50458-541",
+        "50458-542",
+        "50458-543",
+        "50458-940",
+        "50458-941",
+        "50458-942",
+        "50458-943"
+      ],
+      "rxcui": [
+        "1545150",
+        "1545156",
+        "1545157",
+        "1545159",
+        "1545161",
+        "1545163",
+        "1545164",
+        "1545166",
+        "1810997",
+        "1810999",
+        "1811002",
+        "1811003",
+        "1811006",
+        "1811007",
+        "1811010",
+        "1811011"
+      ],
+      "setid": "6868666b-c25e-40d1-9d1f-306bbe9390c1",
+      "source": "openfda",
+      "spl_version": 32,
+      "title": "INVOKAMET (CANAGLIFLOZIN AND METFORMIN HYDROCHLORIDE) TABLET, FILM COATED INVOKAMET XR (CANAGLIFLOZIN AND METFORMIN HYDROCHLORIDE) TABLET, FILM COATED, EXTENDED RELEASE [JANSSEN PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-08-25"
+    },
+    {
+      "application_numbers": [
+        "NDA205649"
+      ],
+      "brand_names": [
+        "XIGDUO XR"
+      ],
+      "combination": true,
+      "home_inn": "metformin",
+      "ingredients": [
+        "DAPAGLIFLOZIN PROPANEDIOL",
+        "METFORMIN HYDROCHLORIDE"
+      ],
+      "labeler": "AstraZeneca Pharmaceuticals LP",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2014-10-29",
+      "moieties": [
+        "DAPAGLIFLOZIN",
+        "METFORMIN"
+      ],
+      "product_ndcs": [
+        "0310-6225",
+        "0310-6250",
+        "0310-6260",
+        "0310-6270",
+        "0310-6280"
+      ],
+      "rxcui": [
+        "1593058",
+        "1593068",
+        "1593070",
+        "1593072",
+        "1593775",
+        "1593831",
+        "1593833",
+        "1593835",
+        "1940496",
+        "1940498"
+      ],
+      "setid": "ac8a0f7b-9f69-4495-abbc-3a47cd75a859",
+      "source": "openfda",
+      "spl_version": 40,
+      "title": "XIGDUO XR (DAPAGLIFLOZIN AND METFORMIN HYDROCHLORIDE) TABLET, FILM COATED, EXTENDED RELEASE [ASTRAZENECA PHARMACEUTICALS LP]",
+      "upload_date": "2026-08-26"
+    },
+    {
+      "application_numbers": [
+        "NDA206111"
+      ],
+      "brand_names": [
+        "Synjardy"
+      ],
+      "combination": true,
+      "home_inn": "metformin",
+      "ingredients": [
+        "EMPAGLIFLOZIN",
+        "METFORMIN HYDROCHLORIDE"
+      ],
+      "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-08-26",
+      "moieties": [
+        "EMPAGLIFLOZIN",
+        "METFORMIN"
+      ],
+      "product_ndcs": [
+        "0597-0159",
+        "0597-0168",
+        "0597-0175",
+        "0597-0180"
+      ],
+      "rxcui": [
+        "1664315",
+        "1664321",
+        "1664323",
+        "1664325",
+        "1664326",
+        "1664328",
+        "1665367",
+        "1665369"
+      ],
+      "setid": "0fdd0255-0055-65f3-b2c0-db8fbb87beae",
+      "source": "openfda",
+      "spl_version": 23,
+      "title": "SYNJARDY (EMPAGLIFLOZIN AND METFORMIN HYDROCHLORIDE) TABLET [BOEHRINGER INGELHEIM PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-08-27"
+    },
+    {
+      "application_numbers": [
+        "NDA208026"
+      ],
+      "brand_names": [
+        "Jentadueto XR"
+      ],
+      "combination": true,
+      "home_inn": "metformin",
+      "ingredients": [
+        "LINAGLIPTIN",
+        "METFORMIN HYDROCHLORIDE"
+      ],
+      "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2016-05-27",
+      "moieties": [
+        "LINAGLIPTIN",
+        "METFORMIN"
+      ],
+      "product_ndcs": [
+        "0597-0270",
+        "0597-0275"
+      ],
+      "rxcui": [
+        "1796089",
+        "1796091",
+        "1796094",
+        "1796096"
+      ],
+      "setid": "3d02a4d4-d312-80b4-05c4-691b8f0aa7aa",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "JENTADUETO XR (LINAGLIPTIN AND METFORMIN HYDROCHLORIDE) TABLET, FILM COATED, EXTENDED RELEASE [BOEHRINGER INGELHEIM PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-08-27"
+    },
+    {
+      "application_numbers": [
+        "NDA021748"
+      ],
+      "brand_names": [
+        "Metformin hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "metformin",
+      "ingredients": [
+        "METFORMIN HYDROCHLORIDE"
+      ],
+      "labeler": "Oceanside Pharmaceuticals",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2008-06-17",
+      "moieties": [
+        "METFORMIN"
+      ],
+      "product_ndcs": [
+        "68682-018",
+        "68682-021"
+      ],
+      "rxcui": [
+        "1807888",
+        "1807915"
+      ],
+      "setid": "74d32a8a-c4c2-4dbb-b376-eea3f8fa64d7",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "METFORMIN HYDROCHLORIDE TABLET, FILM COATED, EXTENDED RELEASE [OCEANSIDE PHARMACEUTICALS]",
+      "upload_date": "2024-11-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA075972"
+      ],
+      "brand_names": [
+        "Metformin Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "metformin",
+      "ingredients": [
+        "METFORMIN HYDROCHLORIDE"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2002-01-24",
+      "moieties": [
+        "METFORMIN"
+      ],
+      "product_ndcs": [
+        "62135-680",
+        "62135-681",
+        "62135-682",
+        "62135-683",
+        "62135-684"
+      ],
+      "rxcui": [
+        "861004",
+        "861007",
+        "861010",
+        "861021",
+        "2703582"
+      ],
+      "setid": "4d3dbf6f-1c8a-4daa-8343-8cd8f64a65cd",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "METFORMIN HYDROCHLORIDE TABLET [CHARTWELL RX, LLC]",
+      "upload_date": "2026-07-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA077095",
+        "ANDA209694"
+      ],
+      "brand_names": [
+        "Metformin Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "metformin",
+      "ingredients": [
+        "METFORMIN HYDROCHLORIDE"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2005-01-14",
+      "moieties": [
+        "METFORMIN"
+      ],
+      "product_ndcs": [
+        "59651-042",
+        "59651-043",
+        "65862-008",
+        "65862-009",
+        "65862-010"
+      ],
+      "rxcui": [
+        "861004",
+        "861007",
+        "861010"
+      ],
+      "setid": "4ac6d01a-af26-44e7-ae2e-3618de0080aa",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "METFORMIN HYDROCHLORIDE TABLET, FILM COATED [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2026-07-20"
+    },
+    {
+      "application_numbers": [
+        "ANDA077060",
+        "ANDA077078"
+      ],
+      "brand_names": [
+        "METFORMIN HYDROCHLORIDE"
+      ],
+      "combination": false,
+      "home_inn": "metformin",
+      "ingredients": [
+        "METFORMIN HYDROCHLORIDE"
+      ],
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2005-09-28",
+      "moieties": [
+        "METFORMIN"
+      ],
+      "product_ndcs": [
+        "65841-027",
+        "65841-039"
+      ],
+      "rxcui": [
+        "860975",
+        "860981"
+      ],
+      "setid": "a8a10ea0-7aa6-48ab-aad4-af8895636672",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "METFORMIN HYDROCHLORIDE TABLET, EXTENDED RELEASE [ZYDUS LIFESCIENCES LIMITED]",
+      "upload_date": "2024-08-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA078321"
+      ],
+      "brand_names": [
+        "Metformin Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "metformin",
+      "ingredients": [
+        "METFORMIN HYDROCHLORIDE"
+      ],
+      "labeler": "TAGI Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2008-04-17",
+      "moieties": [
+        "METFORMIN"
+      ],
+      "product_ndcs": [
+        "51224-007",
+        "51224-107"
+      ],
+      "rxcui": [
+        "860975",
+        "860981"
+      ],
+      "setid": "dd0ee2bf-f658-42dc-976d-49af0b1f32b5",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "METFORMIN HYDROCHLORIDE TABLET, EXTENDED RELEASE [TAGI PHARMA, INC.]",
+      "upload_date": "2025-04-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA078596"
+      ],
+      "brand_names": [
+        "Metformin Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "metformin",
+      "ingredients": [
+        "METFORMIN HYDROCHLORIDE"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-12-02",
+      "moieties": [
+        "METFORMIN"
+      ],
+      "product_ndcs": [
+        "65162-178",
+        "65162-179"
+      ],
+      "rxcui": [
+        "860975",
+        "860981"
+      ],
+      "setid": "c01a79e0-f2b7-4d99-857e-bda7f24fe319",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "METFORMIN HYDROCHLORIDE TABLET, EXTENDED RELEASE [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2024-10-31"
+    },
+    {
+      "application_numbers": [
+        "NDA021591"
+      ],
+      "archived_versions": 8,
+      "brand_names": [
+        "RIOMET"
+      ],
+      "first_posted": "2008-11-21",
+      "found_by": "RIOMET",
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2026-10-19",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2004-01-04",
+        "2021-03-23"
+      ],
+      "product_ndcs": [
+        "10631-206",
+        "10631-238"
+      ],
+      "rxcui": [],
+      "setid": "05d4df4b-dfe8-4828-b423-a3d4f2c4114a",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "RIOMET (metformin hydrochloride) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA201281"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "JENTADUETO"
+      ],
+      "first_posted": "2024-07-09",
+      "found_by": "JENTADUETO",
+      "labeler": "Praxis, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2024-07-09",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "59368-036",
+        "59368-037",
+        "59368-038"
+      ],
+      "rxcui": [],
+      "setid": "1cc1b612-dc13-c230-e063-6294a90a8566",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "f6dd9b86-0d18-95d4-2bc7-05591bfdd597"
+      ],
+      "title": "JENTADUETO (linagliptin and metformin hydrochloride) tablet, film coated"
+    },
+    {
+      "application_numbers": [
+        "NDA208026"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "JENTADUETO"
+      ],
+      "first_posted": "2025-06-09",
+      "found_by": "JENTADUETO",
+      "labeler": "Praxis, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2025-06-09",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "59368-381"
+      ],
+      "rxcui": [],
+      "setid": "36d616e1-c256-ce92-e063-6394a90ab94b",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "3d02a4d4-d312-80b4-05c4-691b8f0aa7aa"
+      ],
+      "title": "JENTADUETO XR (linagliptin and metformin hydrochloride) tablet, film coated, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA021748"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "GLUMETZA"
+      ],
+      "first_posted": "2009-12-03",
+      "found_by": "GLUMETZA",
+      "labeler": "Depomed, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2023-02-17",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-02-16"
+      ],
+      "product_ndcs": [
+        "13913-002",
+        "13913-003"
+      ],
+      "rxcui": [],
+      "setid": "4383c6ec-53ad-4c79-b0af-316b3284b2fb",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "74d32a8a-c4c2-4dbb-b376-eea3f8fa64d7",
+        "fb832474-88d9-4e29-95cd-fbc446944cc4"
+      ],
+      "title": "GLUMETZA (metformin hydrochloride) tablet, film coated, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA020357",
+        "NDA021202"
+      ],
+      "archived_versions": 14,
+      "brand_names": [
+        "GLUCOPHAGE"
+      ],
+      "first_posted": "2008-03-06",
+      "found_by": "GLUCOPHAGE",
+      "labeler": "Bristol-Myers Squibb Company",
+      "labeler_unverified": true,
+      "last_posted": "2019-12-26",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2020-07-31",
+        "2020-10-31",
+        "2021-04-30",
+        "2021-09-30"
+      ],
+      "product_ndcs": [
+        "0087-6060",
+        "0087-6063",
+        "0087-6064",
+        "0087-6070",
+        "0087-6071"
+      ],
+      "rxcui": [],
+      "setid": "4a0166c7-7097-4e4a-9036-6c9a60d08fc6",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "GLUCOPHAGE (metformin hydrochloride) tablet, film coated GLUCOPHAGE XR (metformin hydrochloride) tablet, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA212595"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "RIOMET"
+      ],
+      "first_posted": "2019-09-10",
+      "found_by": "RIOMET",
+      "labeler": "Sun Pharmaceutical Industries Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2021-01-21",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-01-20"
+      ],
+      "product_ndcs": [
+        "10631-019"
+      ],
+      "rxcui": [],
+      "setid": "5ed47329-b89e-4aa2-89b6-157c85d4eb56",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "RIOMET ER (metformin hydrochloride) for suspension, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA205879"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "INVOKAMET"
+      ],
+      "first_posted": "2016-09-22",
+      "found_by": "INVOKAMET",
+      "labeler": "Janssen Pharmaceuticals, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2018-09-07",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "50458-940",
+        "50458-941",
+        "50458-942",
+        "50458-943"
+      ],
+      "rxcui": [],
+      "setid": "9da7283e-9168-45df-9749-dc51cfcca450",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "6868666b-c25e-40d1-9d1f-306bbe9390c1"
+      ],
+      "title": "INVOKAMET XR (canagliflozin and metformin hydrochloride) tablet, film coated, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA021202"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "GLUCOPHAGE"
+      ],
+      "first_posted": "2010-01-20",
+      "found_by": "GLUCOPHAGE",
+      "labeler": "Caremark L.L.C.",
+      "labeler_unverified": true,
+      "last_posted": "2010-01-20",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2012-08-31"
+      ],
+      "product_ndcs": [
+        "0087-6063",
+        "0339-6478"
+      ],
+      "rxcui": [],
+      "setid": "b29f46e1-9e9d-4194-ac1e-4756e20b130b",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "GLUCOPHAGE XR (metformin hydrochloride) tablet, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA021574"
+      ],
+      "archived_versions": 11,
+      "brand_names": [
+        "FORTAMET"
+      ],
+      "first_posted": "2008-09-04",
+      "found_by": "FORTAMET",
+      "labeler": "Shionogi Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2024-06-17",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-07-31",
+        "2020-08-31"
+      ],
+      "product_ndcs": [
+        "59630-574",
+        "59630-575"
+      ],
+      "rxcui": [],
+      "setid": "ed71d7ea-f5af-4406-8b0d-68e17cb1e61e",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "FORTAMET (metformin hydrochloride) tablet, film coated, extended release"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "ACTOPLUS"
+      ],
+      "first_posted": "2007-09-28",
+      "found_by": "ACTOPLUS",
+      "labeler": "Takeda Pharmaceuticals America, Inc",
+      "labeler_unverified": false,
+      "last_posted": "2007-09-28",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "64764-155",
+        "64764-158"
+      ],
+      "rxcui": [],
+      "setid": "l42e49120-6f3f-11db-9fe1-0800200c9a66",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "actoplus met (pioglitazone hydrochloride and metformin hydrochloride) tablet, film coated"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": true,
+      "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "8006ba29-ee3a-f852-a9bb-c8ec9b41cf66"
+    },
+    {
+      "combination": true,
+      "labeler": "Merck Sharp & Dohme LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "a6aeb99a-ce49-4125-90ce-642df3f1ebad"
+    },
+    {
+      "combination": true,
+      "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "71873567-9594-452a-bb92-34a129adecac"
+    },
+    {
+      "combination": true,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "0098dec4-f0e5-45d5-8aa4-5d0faf9ab142"
+    },
+    {
+      "combination": true,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "2f635b36-e86a-4e53-8eaf-589917b5f342"
+    },
+    {
+      "combination": true,
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "eeda90a0-4941-4716-8684-f9f12cbdf3af"
+    },
+    {
+      "combination": true,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "4bade493-499e-434a-97a0-26ca68917623"
+    },
+    {
+      "combination": false,
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4f70f907-08d5-4c2e-a4be-32c6124faa7b"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0ff1ba75-3c86-4baf-a6b1-1bb883839866"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1200ea71-8a9e-4e49-bb77-7d9fe0d84ae7"
+    },
+    {
+      "combination": false,
+      "labeler": "MARKSANS PHARMA LIMITED",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b8004451-7b26-425b-b5ea-cbb1b08e30e3"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b090b18b-b53c-4c92-892f-d11551cfedc3"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5043d03e-3c9d-4c96-b48d-187f02a1d27c"
+    },
+    {
+      "combination": false,
+      "labeler": "ScieGen Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4e4c4ba9-65c6-4273-8f6b-2423ab521dad"
+    },
+    {
+      "combination": false,
+      "labeler": "PuraCap Laboratories LLC dba Blu Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5c2581e3-2b30-4da5-8bed-228173ca20d2"
+    },
+    {
+      "combination": false,
+      "labeler": "TIME CAP LABORATORIES, INC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1d8b8970-c2a1-4780-be87-ab8ccfd401fa"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "623b3bc6-1b07-4a04-bc7a-7fc695adf063"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2d98aea3-35ba-447a-b88f-a5a20b612b2f"
+    },
+    {
+      "combination": false,
+      "labeler": "UNICHEM PHARMACEUTICALS (USA), INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "93c8deae-3103-4cbf-a5d1-fe0d37e76df8"
+    },
+    {
+      "combination": false,
+      "labeler": "Granules India Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b857eccf-b9ff-45ba-8241-f47f5caada2a"
+    },
+    {
+      "combination": false,
+      "labeler": "Ingenus Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "49a0b5c2-ebaf-4c4c-905f-dfd1962ac647"
+    },
+    {
+      "combination": false,
+      "labeler": "Qingdao BAHEAL Pharmaceutical Co. Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7ea6e623-4073-4671-e053-2a91aa0a3ca3"
+    },
+    {
+      "combination": false,
+      "labeler": "GLENMARK PHARMACEUTICALS INC., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0ef9de1a-b786-4b6c-a250-3f5ac532b16a"
+    },
+    {
+      "combination": false,
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1ed9dde4-339c-486f-a346-dde33a5e493f"
+    },
+    {
+      "combination": false,
+      "labeler": "MICRO LABS LIMITED",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fb90693a-074a-45be-94f4-ed6298b1f4e4"
+    },
+    {
+      "combination": false,
+      "labeler": "Epic Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a9e7608f-540c-d90c-e053-2a95a90a4f98"
+    },
+    {
+      "combination": false,
+      "labeler": "ScieGen Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1452fbb1-e591-4a51-9f83-8a8a6a780b52"
+    },
+    {
+      "combination": false,
+      "labeler": "Laurus Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0e7b02cc-2ddc-4394-a80c-128e6452d697"
+    },
+    {
+      "combination": false,
+      "labeler": "Unichem Pharmaceuticals (USA), Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9eebed09-2562-4d21-b3b3-c06562fe3f99"
+    },
+    {
+      "combination": false,
+      "labeler": "VGYAAN Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "129ff158-097f-401a-8924-d9258465c1f3"
+    },
+    {
+      "combination": false,
+      "labeler": "ScieGen Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "16dc4008-7b5e-4c6d-9bc8-8db96be911a1"
+    },
+    {
+      "combination": false,
+      "labeler": "Solco Healthcare US, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1016cad7-2198-483c-893b-e25fd397a226"
+    },
+    {
+      "combination": false,
+      "labeler": "VistaPharm, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e087ce3b-8d7f-43a3-8d20-54513da7617d"
+    },
+    {
+      "combination": false,
+      "labeler": "Mullan Pharmaceutical Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "082b4de9-e452-fe71-e063-6394a90ac863"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7cc02a26-5c22-445b-ad8f-3e7570c143d3"
+    },
+    {
+      "combination": false,
+      "labeler": "Bionpharma Inc.,",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3ab005d4-bc99-4fdb-e063-6394a90a5124"
+    },
+    {
+      "combination": false,
+      "labeler": "Westminster Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "07b4ee2a-8435-4d38-a6b0-b919e3424153"
+    },
+    {
+      "combination": false,
+      "labeler": "Marlex Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3d6f397b-e909-bee9-e063-6294a90aba17"
+    },
+    {
+      "combination": true,
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "14d98490-4f8f-4d2f-a4e9-7a3d7a0199ba"
+    },
+    {
+      "combination": true,
+      "labeler": "Prasco Laboratories",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "eaf135b6-e378-4f62-a1e7-db45e23668c7"
+    },
+    {
+      "combination": true,
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4d812277-21a8-4de3-b728-e3fdd01305b5"
+    },
+    {
+      "combination": true,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a07fa1d9-7171-4f2a-ab34-f8fa410364a6"
+    },
+    {
+      "combination": true,
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "03d9ce02-0559-494c-a53d-de9b9a64b606"
+    },
+    {
+      "combination": true,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "372af566-d6ec-446f-88db-0b4cc83b577f"
+    },
+    {
+      "combination": true,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "94a7f96e-2ed1-432d-bc6a-5840863816e1"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1fa2703e-fb73-44d5-aaa2-b12b1090d42c"
+    },
+    {
+      "combination": true,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5ff2cd9e-a579-48f5-845f-c37a68372a34"
+    },
+    {
+      "combination": true,
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2239742b-74e1-4bc2-b5a8-15c4758d6f7b"
+    },
+    {
+      "combination": true,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1b18b903-eb52-4d08-b4a5-f984957eb116"
+    },
+    {
+      "combination": true,
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cbf8677c-cafe-48bc-8844-0cc6547886bd"
+    },
+    {
+      "combination": true,
+      "labeler": "Dr.Reddys Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "65884427-4dde-63bb-a23f-36a7779c0a6b"
+    },
+    {
+      "combination": true,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b38213bb-d663-4c95-a1b2-96c23ee5be09"
+    },
+    {
+      "combination": true,
+      "labeler": "Torrent Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "237d8fa2-633c-4c29-84d3-f1b413610dc3"
+    },
+    {
+      "combination": true,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5cff87ef-97f9-4e3c-9e06-fd257f3cb3fb"
+    },
+    {
+      "combination": true,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4f890458-be94-4baf-b606-83a097e1e23e"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "513bdf9f-774c-4f7f-935a-54d3885e80a4"
+    },
+    {
+      "combination": true,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7d575ca8-9c1f-469d-a341-34daf2f036dd"
+    },
+    {
+      "combination": true,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bddc2d47-8d3d-4c2f-8e5c-7a1a0782219a"
+    },
+    {
+      "combination": true,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "eadcc3ef-f5c2-4a56-a6aa-12909844144e"
+    },
+    {
+      "combination": true,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e6957674-86c1-4536-8e23-54ad7f2cacc4"
+    },
+    {
+      "combination": true,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "950613e2-e959-6b57-e172-251ddc53c64c"
+    },
+    {
+      "combination": true,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a0fcdc08-0afc-4912-a126-3efea6bc8c61"
+    },
+    {
+      "combination": true,
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "43e3b1c9-3cbd-8dc3-e063-6394a90a10a2"
+    },
+    {
+      "combination": true,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "10aa7cc4-4f9a-4403-a5c0-753d2aa5f0f9"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifsa Drugs, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a2385bcd-0943-4411-8658-c22b50360385"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dc65065b-cba0-46d7-8fb5-3368f3210b4d"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2a84c550-aed8-4058-961f-351a5e4cf7a1"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8c7835fa-3f68-4850-b1da-34893bafb485"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a944a167-e3ac-4084-af1c-22b48713471c"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c82a10fa-1e8e-46b6-890a-737de3f34ee1"
+    },
+    {
+      "combination": false,
+      "labeler": "MARKSANS PHARMA LIMITED",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d09a2eda-fdd8-44ed-8e2f-ea91ddfd3c68"
+    },
+    {
+      "combination": false,
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7e41818c-60e9-4bcf-9586-7bb8d33d5e89"
+    },
+    {
+      "combination": false,
+      "labeler": "TIME CAP LABORATORIES, INC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "542cec22-eeae-4704-9bb6-4176640e5ea8"
+    },
+    {
+      "combination": false,
+      "labeler": "Epic Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8c1848f9-c113-4552-b6ef-715e72630ad9"
+    },
+    {
+      "combination": false,
+      "labeler": "Metcure Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5df6adc9-79fd-66ef-e053-2991aa0a75ce"
+    },
+    {
+      "combination": false,
+      "labeler": "Westminster Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "836f3647-bfef-40d1-b475-c0d240241a67"
+    },
+    {
+      "combination": false,
+      "labeler": "ACI Healthcare USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e18b60f9-721e-4db6-9f61-d3437e18faf2"
+    },
+    {
+      "combination": false,
+      "labeler": "Granules Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6d6ee6f8-9650-ff4f-e053-2991aa0acf19"
+    },
+    {
+      "combination": false,
+      "labeler": "EPIC PHARMA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "356b02d0-d239-4441-bb33-c4c54166fcd7"
+    },
+    {
+      "combination": false,
+      "labeler": "Viona Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "85027e6c-d35b-49eb-a234-dd71aa77aee0"
+    },
+    {
+      "combination": false,
+      "labeler": "Granules Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2387a618-24d8-4813-aa83-9114edb35374"
+    },
+    {
+      "combination": false,
+      "labeler": "Granules India Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8cd5555c-f6b2-28d8-e053-2a95a90a5f1e"
+    },
+    {
+      "combination": false,
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6d9179a8-9579-4804-a4c7-633f37aef1ee"
+    },
+    {
+      "combination": false,
+      "labeler": "Granules Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a5980bc8-8de8-c456-e053-2a95a90a792e"
+    },
+    {
+      "combination": false,
+      "labeler": "Granules India Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "73197cb5-3e23-4ac0-b189-f9bc848bce66"
+    },
+    {
+      "combination": false,
+      "labeler": "Laurus Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c3dfa8a1-d10a-4a1a-8eba-5f4e2a5a2949"
+    },
+    {
+      "combination": false,
+      "labeler": "TRUPHARMA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "73691c6c-8841-4c5d-b4a5-c3ed3b5effa1"
+    },
+    {
+      "combination": false,
+      "labeler": "Quallent Pharmaceuticals Health LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f39ee08d-73db-71b9-e053-2995a90a877c"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b63bfafa-db4c-4fb8-84cd-ff73a5e7d320"
+    },
+    {
+      "combination": false,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cc070735-5e8d-4bb3-9caa-e84d29bb8943"
+    },
+    {
+      "combination": false,
+      "labeler": "Quallent Pharmaceuticals Health LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ff196435-14f4-8b9d-e053-6294a90a4ee8"
+    },
+    {
+      "combination": false,
+      "labeler": "Precision Dose, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "37ff1b8e-a434-41c0-82e1-4583842921a5"
+    },
+    {
+      "combination": false,
+      "labeler": "Precision Dose, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "60142fb2-16da-4f54-a542-74f9a70b9c8b"
+    },
+    {
+      "combination": false,
+      "labeler": "Westminster Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "583dac53-65e7-4710-912a-ecd89d07ad03"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2737f784-07ad-4e5a-862f-beaea31d005e"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b8f22f07-c6b2-4d0d-85c5-573bc6f0d1b0"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fc466c46-abaa-4675-aef2-4b1a1adfd912"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8d4b8620-5e99-4d12-b4f2-e9967b627b57"
+    },
+    {
+      "combination": false,
+      "labeler": "Saptalis Pharmaceuticals, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "df61d56e-18ff-404c-b671-42b39aa23574"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ef77c7dd-a65f-4adc-a0d9-a93779b459a0"
+    },
+    {
+      "combination": false,
+      "labeler": "Leading Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3dca884d-ec44-496f-9eeb-31fd8fa3f574"
+    },
+    {
+      "combination": false,
+      "labeler": "Quallent Pharmaceuticals Health LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "25be863d-490c-47f6-9ad3-c828dc43fbf0"
+    },
+    {
+      "combination": false,
+      "labeler": "Quallent Pharmaceuticals Health LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6864ff5a-7512-4a4f-ad26-b2b9c5843414"
+    },
+    {
+      "combination": false,
+      "labeler": "AiPing Pharmaceutical, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "96c8a89d-99db-24b1-e053-2a95a90ac2b8"
+    },
+    {
+      "combination": false,
+      "labeler": "Method Pharmaceuticals, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4aa880a4-7ec0-9155-e063-6394a90a8f3e"
+    },
+    {
+      "combination": true,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e07abcb1-1f0c-4cad-8405-8eedba4b8ff8"
+    },
+    {
+      "combination": true,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d3a728a0-decb-4340-8ee4-c5e27c13eb19"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7010b662-8b34-49ce-8e5b-73dee0821a60"
+    },
+    {
+      "combination": true,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ac018f64-fd9d-4b3c-b0ac-ca305b8df635"
+    },
+    {
+      "combination": true,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8d252dab-e868-42d3-95ea-69423d909e84"
+    },
+    {
+      "combination": true,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "df752bd4-e197-40a4-a01b-d48ba2c10516"
+    },
+    {
+      "combination": true,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bd2e1c06-424b-4222-b723-90ffdcc3983c"
+    }
+  ]
+}

@@ -1,0 +1,1528 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 3,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "only combination central products under this exact INN (combinations are not built)",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "TIMOLOL",
+    "TIMOLOL ANHYDROUS",
+    "TIMOLOL MALEATE"
+  ],
+  "inn": "timolol",
+  "name": "TIMOLOL",
+  "rank": 40,
+  "rxcui": [
+    "198284",
+    "198285",
+    "198286",
+    "208560",
+    "313407",
+    "313408",
+    "861420",
+    "861422",
+    "861635",
+    "861637",
+    "1922783",
+    "1922784",
+    "1922876",
+    "1922877",
+    "1922894",
+    "1922895",
+    "1923428",
+    "1923429",
+    "1923432",
+    "1923433",
+    "1992299",
+    "1992300",
+    "1992303",
+    "1992304",
+    "1992305",
+    "2702393",
+    "2702398"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 69,
+    "approval_holders": 32,
+    "earliest_marketing_start": "1990-06-08",
+    "latest_label_update": "2026-10-15",
+    "nda_bla_applications": 9,
+    "repackagers": 2
+  },
+  "unii": [
+    {
+      "ingredient": "TIMOLOL",
+      "unii": "817W3C6175"
+    },
+    {
+      "ingredient": "TIMOLOL ANHYDROUS",
+      "unii": "5JKY92S7BR"
+    },
+    {
+      "ingredient": "TIMOLOL MALEATE",
+      "unii": "P8Y54F701R"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020963"
+      ],
+      "brand_names": [
+        "Timolol GFS"
+      ],
+      "combination": false,
+      "home_inn": "timolol",
+      "ingredients": [
+        "TIMOLOL MALEATE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1998-12-24",
+      "moieties": [
+        "TIMOLOL"
+      ],
+      "product_ndcs": [
+        "61314-224",
+        "61314-225"
+      ],
+      "rxcui": [
+        "313407",
+        "313408"
+      ],
+      "setid": "72b0d0ec-832a-4c25-b845-2537ab506354",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "TIMOLOL GFS (TIMOLOL MALEATE) SOLUTION, GEL FORMING / DROPS [SANDOZ INC]",
+      "upload_date": "2024-06-10"
+    },
+    {
+      "application_numbers": [
+        "NDA021516"
+      ],
+      "brand_names": [
+        "Istalol"
+      ],
+      "combination": false,
+      "home_inn": "timolol",
+      "ingredients": [
+        "TIMOLOL MALEATE"
+      ],
+      "labeler": "Bausch & Lomb Incorporated",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2004-08-02",
+      "moieties": [
+        "TIMOLOL"
+      ],
+      "product_ndcs": [
+        "24208-004"
+      ],
+      "rxcui": [
+        "1992299",
+        "1992300"
+      ],
+      "setid": "258bbc8d-00ee-45b0-ac35-6f16c4e8d45f",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "ISTALOL (TIMOLOL MALEATE) SOLUTION/ DROPS [BAUSCH & LOMB INCORPORATED]",
+      "upload_date": "2024-11-01"
+    },
+    {
+      "application_numbers": [
+        "NDA020330"
+      ],
+      "brand_names": [
+        "Timoptic-XE"
+      ],
+      "combination": false,
+      "home_inn": "timolol",
+      "ingredients": [
+        "TIMOLOL MALEATE"
+      ],
+      "labeler": "Bausch & Lomb Incorporated",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2016-05-31",
+      "moieties": [
+        "TIMOLOL"
+      ],
+      "product_ndcs": [
+        "24208-814",
+        "24208-816"
+      ],
+      "rxcui": [
+        "313407",
+        "313408",
+        "861420",
+        "861422"
+      ],
+      "setid": "a4d03de7-06b7-4cfc-9d1b-616969df209c",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "TIMOPTIC-XE (TIMOLOL MALEATE) SOLUTION [BAUSCH & LOMB INCORPORATED]",
+      "upload_date": "2022-05-23"
+    },
+    {
+      "application_numbers": [
+        "NDA018086"
+      ],
+      "brand_names": [
+        "Timoptic"
+      ],
+      "combination": false,
+      "home_inn": "timolol",
+      "ingredients": [
+        "TIMOLOL MALEATE"
+      ],
+      "labeler": "Bausch & Lomb Incorporated",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2016-12-30",
+      "moieties": [
+        "TIMOLOL"
+      ],
+      "product_ndcs": [
+        "24208-812",
+        "24208-813"
+      ],
+      "rxcui": [
+        "1923428",
+        "1923429",
+        "1992303",
+        "1992304"
+      ],
+      "setid": "45ac65b3-19f7-4f33-aebf-cadd3daa4bf1",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "TIMOPTIC (TIMOLOL MALEATE) SOLUTION [BAUSCH & LOMB INCORPORATED]",
+      "upload_date": "2022-09-16"
+    },
+    {
+      "application_numbers": [
+        "NDA019463"
+      ],
+      "brand_names": [
+        "Timoptic in Ocudose"
+      ],
+      "combination": false,
+      "home_inn": "timolol",
+      "ingredients": [
+        "TIMOLOL MALEATE"
+      ],
+      "labeler": "Bausch & Lomb Incorporated",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-02-17",
+      "moieties": [
+        "TIMOLOL"
+      ],
+      "product_ndcs": [
+        "24208-498",
+        "24208-499"
+      ],
+      "rxcui": [
+        "1922876",
+        "1922877",
+        "1922894",
+        "1922895"
+      ],
+      "setid": "d130f0ec-c3b5-4bc3-8f4a-68fd6c3ec0cf",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "TIMOPTIC IN OCUDOSE (TIMOLOL MALEATE) SOLUTION [BAUSCH & LOMB INCORPORATED]",
+      "upload_date": "2022-02-22"
+    },
+    {
+      "application_numbers": [
+        "NDA020439"
+      ],
+      "brand_names": [
+        "BETIMOL"
+      ],
+      "combination": false,
+      "home_inn": "timolol",
+      "ingredients": [
+        "TIMOLOL"
+      ],
+      "labeler": "Thea Pharma Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-11-15",
+      "moieties": [
+        "TIMOLOL"
+      ],
+      "product_ndcs": [
+        "82584-001",
+        "82584-002"
+      ],
+      "rxcui": [
+        "208560",
+        "1992305",
+        "2702393",
+        "2702398"
+      ],
+      "setid": "3ae775f4-340c-4bf4-aa49-8a31daba0f8b",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "BETIMOL (TIMOLOL) SOLUTION/ DROPS [THEA PHARMA INC.]",
+      "upload_date": "2025-06-30"
+    },
+    {
+      "application_numbers": [
+        "NDA021398"
+      ],
+      "brand_names": [
+        "COMBIGAN"
+      ],
+      "combination": true,
+      "home_inn": "timolol",
+      "ingredients": [
+        "BRIMONIDINE TARTRATE",
+        "TIMOLOL MALEATE"
+      ],
+      "labeler": "Allergan, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2007-11-14",
+      "moieties": [
+        "BRIMONIDINE",
+        "TIMOLOL"
+      ],
+      "product_ndcs": [
+        "0023-9211"
+      ],
+      "rxcui": [
+        "861635",
+        "861637"
+      ],
+      "setid": "feaf1480-a4b8-4486-992a-96be3a596243",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "COMBIGAN (BRIMONIDINE TARTRATE, TIMOLOL MALEATE) SOLUTION/ DROPS [ALLERGAN, INC.]",
+      "upload_date": "2026-03-30"
+    },
+    {
+      "application_numbers": [
+        "NDA202667"
+      ],
+      "brand_names": [
+        "Dorzolamide Hydrochloride and Timolol Maleate"
+      ],
+      "combination": true,
+      "home_inn": "timolol",
+      "ingredients": [
+        "DORZOLAMIDE HYDROCHLORIDE",
+        "TIMOLOL MALEATE"
+      ],
+      "labeler": "Akorn",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2019-02-01",
+      "moieties": [
+        "DORZOLAMIDE",
+        "TIMOLOL"
+      ],
+      "product_ndcs": [
+        "50383-261"
+      ],
+      "rxcui": [
+        "1922783"
+      ],
+      "setid": "4e90c721-21e8-46ea-ab49-19f535bf7202",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "DORZOLAMIDE HYDROCHLORIDE AND TIMOLOL MALEATE SOLUTION/ DROPS [AKORN]",
+      "upload_date": "2025-09-12"
+    },
+    {
+      "application_numbers": [
+        "NDA020869"
+      ],
+      "brand_names": [
+        "COSOPT"
+      ],
+      "combination": true,
+      "home_inn": "timolol",
+      "ingredients": [
+        "DORZOLAMIDE HYDROCHLORIDE",
+        "TIMOLOL MALEATE"
+      ],
+      "labeler": "Thea Pharma Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-11-10",
+      "moieties": [
+        "DORZOLAMIDE",
+        "TIMOLOL"
+      ],
+      "product_ndcs": [
+        "82584-605"
+      ],
+      "rxcui": [
+        "1923432",
+        "1923433"
+      ],
+      "setid": "23bdf1c1-3134-4ad1-8e7c-bc655156bdc6",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "COSOPT (DORZOLAMIDE HYDROCHLORIDE AND TIMOLOL MALEATE) SOLUTION/ DROPS [THEA PHARMA INC.]",
+      "upload_date": "2024-04-30"
+    },
+    {
+      "application_numbers": [
+        "NDA202667"
+      ],
+      "brand_names": [
+        "COSOPT PF"
+      ],
+      "combination": true,
+      "home_inn": "timolol",
+      "ingredients": [
+        "DORZOLAMIDE HYDROCHLORIDE",
+        "TIMOLOL MALEATE"
+      ],
+      "labeler": "Thea Pharma Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-12-10",
+      "moieties": [
+        "DORZOLAMIDE",
+        "TIMOLOL"
+      ],
+      "product_ndcs": [
+        "82584-604"
+      ],
+      "rxcui": [
+        "1922783",
+        "1922784"
+      ],
+      "setid": "535fc801-8c3f-4974-a120-3eff1d5a5062",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "COSOPT PF (DORZOLAMIDE HYDROCHLORIDE AND TIMOLOL MALEATE) SOLUTION/ DROPS [THEA PHARMA INC.]",
+      "upload_date": "2026-05-15"
+    },
+    {
+      "application_numbers": [
+        "NDA020330"
+      ],
+      "brand_names": [
+        "Timolol Maleate"
+      ],
+      "combination": false,
+      "home_inn": "timolol",
+      "ingredients": [
+        "TIMOLOL MALEATE"
+      ],
+      "labeler": "Bausch & Lomb Americas Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2018-02-14",
+      "moieties": [
+        "TIMOLOL"
+      ],
+      "product_ndcs": [
+        "82260-818",
+        "82260-819"
+      ],
+      "rxcui": [
+        "313407",
+        "313408"
+      ],
+      "setid": "581f80f7-4419-49e2-867d-40443c75409f",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "TIMOLOL MALEATE SOLUTION [BAUSCH & LOMB AMERICAS INC.]",
+      "upload_date": "2025-03-28"
+    },
+    {
+      "application_numbers": [
+        "NDA018086"
+      ],
+      "brand_names": [
+        "Timolol Maleate"
+      ],
+      "combination": false,
+      "home_inn": "timolol",
+      "ingredients": [
+        "TIMOLOL MALEATE"
+      ],
+      "labeler": "Bausch & Lomb Americas Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2020-06-01",
+      "moieties": [
+        "TIMOLOL"
+      ],
+      "product_ndcs": [
+        "82260-812",
+        "82260-813"
+      ],
+      "rxcui": [
+        "1923428",
+        "1992303"
+      ],
+      "setid": "9c14ca2d-80f3-48ef-b99a-beafaa728a24",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "TIMOLOL MALEATE SOLUTION [BAUSCH & LOMB AMERICAS INC.]",
+      "upload_date": "2025-03-06"
+    },
+    {
+      "application_numbers": [
+        "NDA019463"
+      ],
+      "brand_names": [
+        "Timolol Maleate"
+      ],
+      "combination": false,
+      "home_inn": "timolol",
+      "ingredients": [
+        "TIMOLOL MALEATE"
+      ],
+      "labeler": "Bausch & Lomb Americas Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2022-02-17",
+      "moieties": [
+        "TIMOLOL"
+      ],
+      "product_ndcs": [
+        "82260-496"
+      ],
+      "rxcui": [
+        "1922894"
+      ],
+      "setid": "036dc753-1698-4c69-9bcf-752c7061203c",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "TIMOLOL MALEATE SOLUTION [BAUSCH & LOMB AMERICAS INC.]",
+      "upload_date": "2025-03-10"
+    },
+    {
+      "application_numbers": [
+        "NDA021516"
+      ],
+      "brand_names": [
+        "Timolol Maleate"
+      ],
+      "combination": false,
+      "home_inn": "timolol",
+      "ingredients": [
+        "TIMOLOL MALEATE"
+      ],
+      "labeler": "Bausch & Lomb Americas Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2022-06-23",
+      "moieties": [
+        "TIMOLOL"
+      ],
+      "product_ndcs": [
+        "82260-045"
+      ],
+      "rxcui": [
+        "1992299"
+      ],
+      "setid": "b686bbad-1ef7-4b94-a316-4d182a40b89a",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "TIMOLOL MALEATE SOLUTION/ DROPS [BAUSCH & LOMB AMERICAS INC.]",
+      "upload_date": "2024-11-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA072668"
+      ],
+      "brand_names": [
+        "Timolol Maleate"
+      ],
+      "combination": false,
+      "home_inn": "timolol",
+      "ingredients": [
+        "TIMOLOL MALEATE"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1990-06-08",
+      "moieties": [
+        "TIMOLOL"
+      ],
+      "product_ndcs": [
+        "0378-0221"
+      ],
+      "rxcui": [
+        "198284",
+        "198285",
+        "198286"
+      ],
+      "setid": "57c62928-63d8-4505-9b9e-c085a3a12c95",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "TIMOLOL MALEATE TABLET [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2025-05-22"
+    },
+    {
+      "application_numbers": [
+        "ANDA074261",
+        "ANDA074262"
+      ],
+      "brand_names": [
+        "Timolol Maleate"
+      ],
+      "combination": false,
+      "home_inn": "timolol",
+      "ingredients": [
+        "TIMOLOL MALEATE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1996-01-15",
+      "moieties": [
+        "TIMOLOL"
+      ],
+      "product_ndcs": [
+        "61314-226",
+        "61314-227"
+      ],
+      "rxcui": [
+        "1923428",
+        "1992303"
+      ],
+      "setid": "f949fa34-6a9a-40d5-91ab-ff1cbb79b9ea",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "TIMOLOL MALEATE SOLUTION [SANDOZ INC]",
+      "upload_date": "2026-08-04"
+    },
+    {
+      "application_numbers": [
+        "NDA020439"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "BETIMOL"
+      ],
+      "first_posted": "2006-07-31",
+      "found_by": "BETIMOL",
+      "labeler": "Vistakon Pharmaceuticals LLC",
+      "labeler_unverified": true,
+      "last_posted": "2025-11-24",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-12-31"
+      ],
+      "product_ndcs": [
+        "68669-522",
+        "68669-525"
+      ],
+      "rxcui": [],
+      "setid": "00f62dd1-dad2-4892-8a5d-21e5e54509ce",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "3ae775f4-340c-4bf4-aa49-8a31daba0f8b"
+      ],
+      "title": "BETIMOL (timolol) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA202667"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "COSOPT"
+      ],
+      "first_posted": "2012-02-13",
+      "found_by": "COSOPT",
+      "labeler": "Merck Sharp & Dohme Corp.",
+      "labeler_unverified": false,
+      "last_posted": "2016-04-12",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2016-03-31"
+      ],
+      "product_ndcs": [
+        "0006-3629"
+      ],
+      "rxcui": [],
+      "setid": "06c062ca-add7-4ddf-ba7c-7b5dd531e9ec",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "4e90c721-21e8-46ea-ab49-19f535bf7202",
+        "535fc801-8c3f-4974-a120-3eff1d5a5062"
+      ],
+      "title": "COSOPT PF (dorzolamide hydrochloride and timolol maleate) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA019463"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "TIMOPTIC"
+      ],
+      "first_posted": "2009-10-22",
+      "found_by": "TIMOPTIC",
+      "labeler": "Bausch Health US LLC",
+      "labeler_unverified": false,
+      "last_posted": "2021-05-07",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-11-06"
+      ],
+      "product_ndcs": [
+        "25010-814",
+        "25010-815"
+      ],
+      "rxcui": [],
+      "setid": "15ca19c2-f28b-4703-aa23-5af265af9e8b",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "036dc753-1698-4c69-9bcf-752c7061203c",
+        "d130f0ec-c3b5-4bc3-8f4a-68fd6c3ec0cf"
+      ],
+      "title": "TIMOPTIC (timolol maleate) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA020869"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "COSOPT"
+      ],
+      "first_posted": "2008-06-12",
+      "found_by": "COSOPT",
+      "labeler": "Merck Sharp & Dohme Corp.",
+      "labeler_unverified": false,
+      "last_posted": "2016-02-19",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-12-31"
+      ],
+      "product_ndcs": [
+        "0006-3628"
+      ],
+      "rxcui": [],
+      "setid": "3092b5b7-ef53-480c-968a-09c9c5df7bf8",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "23bdf1c1-3134-4ad1-8e7c-bc655156bdc6"
+      ],
+      "title": "COSOPT (dorzolamide hydrochloride and timolol maleate) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA020330"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "TIMOPTIC"
+      ],
+      "first_posted": "2009-10-20",
+      "found_by": "TIMOPTIC",
+      "labeler": "Aton Pharma, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2017-11-24",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-06-30",
+        "2018-01-31"
+      ],
+      "product_ndcs": [
+        "25010-810",
+        "25010-811"
+      ],
+      "rxcui": [],
+      "setid": "32e96044-2713-40f2-b6f7-c342a31382d8",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "581f80f7-4419-49e2-867d-40443c75409f",
+        "a4d03de7-06b7-4cfc-9d1b-616969df209c"
+      ],
+      "title": "TIMOPTIC-XE (timolol maleate) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA018086"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "TIMOPTIC"
+      ],
+      "first_posted": "2006-11-14",
+      "found_by": "TIMOPTIC",
+      "labeler": "Merck Sharp & Dohme Corp.",
+      "labeler_unverified": false,
+      "last_posted": "2012-10-16",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2011-03-31"
+      ],
+      "product_ndcs": [
+        "0006-8895",
+        "0006-8896"
+      ],
+      "rxcui": [],
+      "setid": "538d6550-d873-4236-b9b3-ffe33d34571d",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "45ac65b3-19f7-4f33-aebf-cadd3daa4bf1",
+        "9c14ca2d-80f3-48ef-b99a-beafaa728a24"
+      ],
+      "title": "TIMOPTIC (timolol maleate) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA020330"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "TIMOPTIC"
+      ],
+      "first_posted": "2007-02-16",
+      "found_by": "TIMOPTIC",
+      "labeler": "Merck Sharp & Dohme Corp.",
+      "labeler_unverified": false,
+      "last_posted": "2012-10-16",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2011-02-28"
+      ],
+      "product_ndcs": [
+        "0006-3557",
+        "0006-3558"
+      ],
+      "rxcui": [],
+      "setid": "55267322-113a-4ff2-24af-c4828de06836",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "581f80f7-4419-49e2-867d-40443c75409f",
+        "a4d03de7-06b7-4cfc-9d1b-616969df209c"
+      ],
+      "title": "TIMOPTIC-XE (timolol maleate) solution, gel forming, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA020869"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "DORZOLAMIDE"
+      ],
+      "first_posted": "2010-06-30",
+      "found_by": "DORZOLAMIDE",
+      "labeler": "Prasco Laboratories",
+      "labeler_unverified": false,
+      "last_posted": "2017-08-02",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-11-30"
+      ],
+      "product_ndcs": [
+        "66993-190"
+      ],
+      "rxcui": [],
+      "setid": "6ae5ed44-8e5a-41ed-a223-988b4c1436ac",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "23bdf1c1-3134-4ad1-8e7c-bc655156bdc6"
+      ],
+      "title": "DORZOLAMIDE HYDROCHLORIDE-TIMOLOL MALEATE (dorzolamide hydrochloride and timolol maleate) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA018017"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "BLOCADREN"
+      ],
+      "first_posted": "2006-07-13",
+      "found_by": "BLOCADREN",
+      "labeler": "Merck Sharp & Dohme Corp.",
+      "labeler_unverified": false,
+      "last_posted": "2012-10-02",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2004-08-31"
+      ],
+      "product_ndcs": [
+        "0006-0059",
+        "0006-0136",
+        "0006-0437"
+      ],
+      "rxcui": [],
+      "setid": "6eb7207f-25d7-4816-a8db-1bdcf543a831",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "BLOCADREN (timolol maleate) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA021516"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "ISTALOL"
+      ],
+      "first_posted": "2006-11-17",
+      "found_by": "ISTALOL",
+      "labeler": "ISTA PHARMACEUTICALS, INC.",
+      "labeler_unverified": true,
+      "last_posted": "2017-06-27",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-06-27"
+      ],
+      "product_ndcs": [
+        "67425-003"
+      ],
+      "rxcui": [],
+      "setid": "80fa20dc-b181-48be-83ce-d66a83753878",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "258bbc8d-00ee-45b0-ac35-6f16c4e8d45f",
+        "b686bbad-1ef7-4b94-a316-4d182a40b89a"
+      ],
+      "title": "ISTALOL (timolol maleate) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA018086"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "TIMOPTIC"
+      ],
+      "first_posted": "2009-10-20",
+      "found_by": "TIMOPTIC",
+      "labeler": "Aton Pharma, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2018-10-11",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2016-06-30",
+        "2016-09-30"
+      ],
+      "product_ndcs": [
+        "25010-812",
+        "25010-813"
+      ],
+      "rxcui": [],
+      "setid": "98d81fc6-4482-45e5-8106-4dfd56f3433b",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "45ac65b3-19f7-4f33-aebf-cadd3daa4bf1",
+        "9c14ca2d-80f3-48ef-b99a-beafaa728a24"
+      ],
+      "title": "TIMOPTIC (timolol maleate) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA019463"
+      ],
+      "archived_versions": 12,
+      "brand_names": [
+        "TIMOPTIC"
+      ],
+      "first_posted": "2015-08-18",
+      "found_by": "TIMOPTIC",
+      "labeler": "Bausch Health US LLC",
+      "labeler_unverified": false,
+      "last_posted": "2026-01-14",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-02-28"
+      ],
+      "product_ndcs": [
+        "0187-1496",
+        "0187-1498"
+      ],
+      "rxcui": [],
+      "setid": "c1293d51-b633-486c-8e13-fcf60063faeb",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "036dc753-1698-4c69-9bcf-752c7061203c",
+        "d130f0ec-c3b5-4bc3-8f4a-68fd6c3ec0cf"
+      ],
+      "title": "TIMOPTIC IN OCUDOSE (timolol maleate) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA019463"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "TIMOPTIC"
+      ],
+      "first_posted": "2007-02-16",
+      "found_by": "TIMOPTIC",
+      "labeler": "Merck Sharp & Dohme Corp.",
+      "labeler_unverified": false,
+      "last_posted": "2012-10-16",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2012-05-31"
+      ],
+      "product_ndcs": [
+        "0006-9689",
+        "0006-9690"
+      ],
+      "rxcui": [],
+      "setid": "d4008d19-00a3-4119-49a6-3cd6d7570e3f",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "036dc753-1698-4c69-9bcf-752c7061203c",
+        "d130f0ec-c3b5-4bc3-8f4a-68fd6c3ec0cf"
+      ],
+      "title": "TIMOPTIC (timolol maleate) solution"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Pacific Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e16c33fd-aa86-49ad-a767-c79ade4a62c7"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2ed21930-1e05-46de-8acd-cb6f4798a7fa"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9a5aab8f-59b9-4d73-82c4-dc5b8fa8119e"
+    },
+    {
+      "combination": false,
+      "labeler": "Nordic Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "16323b0e-78ae-40e5-be93-04f698dd672b"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d987fdfa-3643-aa1d-cacd-c4f95f192ce7"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "79730e4f-d533-42c7-b7b6-cdbc47242baa"
+    },
+    {
+      "combination": false,
+      "labeler": "Ingenus Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4c4318b3-9865-4172-a7bd-9e68913eca1e"
+    },
+    {
+      "combination": false,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "79b223e4-d929-4667-8149-e79bfab13fdf"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e6c74f66-ee84-4bcc-b1da-b8e6ff240dd2"
+    },
+    {
+      "combination": false,
+      "labeler": "Armas Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ea585fe8-3356-4f08-8078-34e8ab5de37e"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "545b7bee-8d5d-4206-b973-8de3c14d6dfe"
+    },
+    {
+      "combination": false,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6c9f3971-8c07-4d3a-915d-76438baa2a0b"
+    },
+    {
+      "combination": false,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5d60db57-ca24-4cab-a90d-8cf06992a34e"
+    },
+    {
+      "combination": false,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bfd95433-e47a-4c5c-9bdf-77bffc13544d"
+    },
+    {
+      "combination": false,
+      "labeler": "Caplin Steriles Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4847f180-45e6-40f0-ae8c-6cc500cb0add"
+    },
+    {
+      "combination": false,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cebc9a5e-0bdb-4f23-9b2c-cde543b62fb6"
+    },
+    {
+      "combination": false,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e797f7c7-0588-4627-b060-8df6bcfe3f7b"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0bc40b2c-65eb-4095-87e6-4752d5b19a3a"
+    },
+    {
+      "combination": true,
+      "labeler": "Bausch & Lomb Incorporated",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7f6ab3f6-3644-434c-b6cf-e4f111d18962"
+    },
+    {
+      "combination": true,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "78f39126-3e3b-4633-a4e0-c1f09a794eec"
+    },
+    {
+      "combination": true,
+      "labeler": "Leading Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c9ae08c5-275d-44b3-9d1e-5d8fedc21b96"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f41a9cd5-48c8-42eb-bb1b-d0355d981201"
+    },
+    {
+      "combination": true,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "17f04726-725f-4839-911d-47fc5e02baae"
+    },
+    {
+      "combination": true,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f45cce05-fb47-4607-b68e-5a3d47e7235a"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2b1fa44a-3890-4634-bcfc-c7310b51128e"
+    },
+    {
+      "combination": true,
+      "labeler": "Indoco Remedies Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0b75a79a-e048-4bf1-b02b-a72a8b8a0b3b"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2d5dcaa5-97ee-40c3-aa29-fcfb91fb78e1"
+    },
+    {
+      "combination": true,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "268c3f6b-8798-7987-3b8c-7b7f560af5d7"
+    },
+    {
+      "combination": true,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b0a1d984-efee-4751-9797-c09adc2d307d"
+    },
+    {
+      "combination": true,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "af21d2e5-0029-4889-ba93-6417baa91ce6"
+    },
+    {
+      "combination": true,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "efab039e-a69d-4306-8305-b1d27781cfe0"
+    },
+    {
+      "combination": true,
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b54e5bee-2329-4cc2-bed1-8eef11ee488c"
+    },
+    {
+      "combination": true,
+      "labeler": "Ingenus Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "36c0e765-dfda-4b3b-8a98-a5f8b32607f7"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "10e79593-b991-4899-89fd-6fff7a213d81"
+    },
+    {
+      "combination": true,
+      "labeler": "ARMAS PHARMACEUTICALS INC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "09476aab-0816-812c-e063-6394a90a12a2"
+    },
+    {
+      "combination": true,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bf6a7f59-5a10-49fe-9e57-19e3ba202918"
+    },
+    {
+      "combination": true,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e4fdbd17-73b7-49ed-9de3-591f36e0645d"
+    },
+    {
+      "combination": true,
+      "labeler": "Caplin Steriles Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "eac3cec2-b373-4936-89f0-c6d300e09f6e"
+    },
+    {
+      "combination": true,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "038cf2ba-ad08-4981-a3cc-bff0e4ba5dfb"
+    },
+    {
+      "combination": true,
+      "labeler": "Devatis Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ed315996-a7a7-4609-9f3e-92e6aba139fe"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b909ecf0-c90a-4719-a144-9e74f457cb87"
+    },
+    {
+      "combination": false,
+      "labeler": "FOSUN PHARMA USA INC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e93036c6-3120-e989-e053-2a95a90acf7f"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9515f95c-e29b-3c7f-0bdd-cda783988a72"
+    },
+    {
+      "combination": false,
+      "labeler": "First Nation Group, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "140e1bfc-b75e-40d1-856c-242be4d9c8cc"
+    },
+    {
+      "combination": false,
+      "labeler": "Leading Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d6fa2971-dacf-42ab-99bc-c7ce6013221e"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9db7322d-eb31-4fff-9b14-8a0294d01704"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "272bb565-f099-4896-b2f6-48ab9180e941"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6b9c446e-7068-479b-8611-aead7a8d2f50"
+    },
+    {
+      "combination": true,
+      "labeler": "Florida Pharmaceutical Products, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "02d89d37-cbca-4e06-83ef-2a10f988f1ea"
+    },
+    {
+      "combination": true,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b5d560b6-847e-4f09-b1ef-22e4deb8a206"
+    },
+    {
+      "combination": true,
+      "labeler": "Florida Pharmaceutical Products, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7011a203-46cf-434d-ba11-253f107ff80f"
+    },
+    {
+      "combination": true,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "be282a72-0797-449d-ae07-fb8d4bdcc0a5"
+    },
+    {
+      "combination": true,
+      "labeler": "Leading Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "533f9979-0cd7-485c-8c50-abbf717c5031"
+    }
+  ]
+}

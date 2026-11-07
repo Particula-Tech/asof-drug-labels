@@ -1,0 +1,563 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "SERTRALINE HYDROCHLORIDE"
+  ],
+  "inn": "sertraline",
+  "name": "SERTRALINE",
+  "rank": 165,
+  "rxcui": [
+    "208149",
+    "208161",
+    "212233",
+    "251201",
+    "312938",
+    "312940",
+    "312941",
+    "410584",
+    "861064",
+    "861066"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 29,
+    "approval_holders": 25,
+    "earliest_marketing_start": "2007-02-06",
+    "latest_label_update": "2026-10-29",
+    "nda_bla_applications": 3,
+    "repackagers": 22
+  },
+  "unii": [
+    {
+      "ingredient": "SERTRALINE HYDROCHLORIDE",
+      "unii": "UTI8907Y6X"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA215133"
+      ],
+      "brand_names": [
+        "sertraline HCl"
+      ],
+      "combination": false,
+      "home_inn": "sertraline",
+      "ingredients": [
+        "SERTRALINE HYDROCHLORIDE"
+      ],
+      "labeler": "Almatica Pharma LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-10-04",
+      "moieties": [
+        "SERTRALINE"
+      ],
+      "product_ndcs": [
+        "52427-664",
+        "52427-672"
+      ],
+      "rxcui": [
+        "251201",
+        "410584"
+      ],
+      "setid": "8c8bcba9-eaeb-aa44-f9ea-b580de55a439",
+      "source": "dailymed-title-match",
+      "spl_version": 6,
+      "title": "SERTRALINE HCL (SERTRALINE HYDROCHLORIDE) CAPSULE [ALMATICA PHARMA LLC]",
+      "upload_date": "2026-10-15"
+    },
+    {
+      "application_numbers": [
+        "NDA019839",
+        "NDA020990"
+      ],
+      "brand_names": [
+        "Zoloft"
+      ],
+      "combination": false,
+      "home_inn": "sertraline",
+      "ingredients": [
+        "SERTRALINE HYDROCHLORIDE"
+      ],
+      "labeler": "Viatris Specialty LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-10-30",
+      "moieties": [
+        "SERTRALINE"
+      ],
+      "product_ndcs": [
+        "58151-574",
+        "58151-575",
+        "58151-576",
+        "58151-601"
+      ],
+      "rxcui": [
+        "208149",
+        "208161",
+        "212233",
+        "312938",
+        "312940",
+        "312941",
+        "861064",
+        "861066"
+      ],
+      "setid": "fda754f6-d0f3-4dce-a17a-927d64f912f7",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "ZOLOFT (SERTRALINE HYDROCHLORIDE) TABLET, FILM COATED ZOLOFT (SERTRALINE HYDROCHLORIDE) SOLUTION, CONCENTRATE [VIATRIS SPECIALTY LLC]",
+      "upload_date": "2025-07-24"
+    },
+    {
+      "application_numbers": [
+        "NDA020990"
+      ],
+      "brand_names": [
+        "Sertraline hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "sertraline",
+      "ingredients": [
+        "SERTRALINE HYDROCHLORIDE"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2018-05-15",
+      "moieties": [
+        "SERTRALINE"
+      ],
+      "product_ndcs": [
+        "59762-0067"
+      ],
+      "rxcui": [
+        "861064"
+      ],
+      "setid": "1a58062b-e635-431a-908d-2651c6a4a21c",
+      "source": "openfda",
+      "spl_version": 41,
+      "title": "SERTRALINE HYDROCHLORIDE SOLUTION, CONCENTRATE [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2025-05-05"
+    },
+    {
+      "application_numbers": [
+        "NDA215133"
+      ],
+      "brand_names": [
+        "sertraline hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "sertraline",
+      "ingredients": [
+        "SERTRALINE HYDROCHLORIDE"
+      ],
+      "labeler": "Alvogen, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2025-09-18",
+      "moieties": [
+        "SERTRALINE"
+      ],
+      "product_ndcs": [
+        "47781-951",
+        "47781-962"
+      ],
+      "rxcui": [
+        "251201",
+        "410584"
+      ],
+      "setid": "e0e1f35e-114d-bb39-34f1-70208b94ac9e",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "SERTRALINE HYDROCHLORIDE CAPSULE [ALVOGEN, INC.]",
+      "upload_date": "2025-09-22"
+    },
+    {
+      "application_numbers": [
+        "ANDA077206"
+      ],
+      "brand_names": [
+        "Sertraline Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "sertraline",
+      "ingredients": [
+        "SERTRALINE HYDROCHLORIDE"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2007-02-06",
+      "moieties": [
+        "SERTRALINE"
+      ],
+      "product_ndcs": [
+        "65862-011",
+        "65862-012",
+        "65862-013"
+      ],
+      "rxcui": [
+        "312938",
+        "312940",
+        "312941"
+      ],
+      "setid": "39a85db1-9e59-4ab0-9e18-36757f019faa",
+      "source": "openfda",
+      "spl_version": 30,
+      "title": "SERTRALINE HYDROCHLORIDE TABLET, FILM COATED [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2024-02-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA077670"
+      ],
+      "brand_names": [
+        "Sertraline Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "sertraline",
+      "ingredients": [
+        "SERTRALINE HYDROCHLORIDE"
+      ],
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2007-02-06",
+      "moieties": [
+        "SERTRALINE"
+      ],
+      "product_ndcs": [
+        "68180-351",
+        "68180-352",
+        "68180-353",
+        "68180-978",
+        "68180-986",
+        "68180-992"
+      ],
+      "rxcui": [
+        "312938",
+        "312940",
+        "312941"
+      ],
+      "setid": "42120ff8-b353-4632-9ea9-54de9a698724",
+      "source": "openfda",
+      "spl_version": 28,
+      "title": "SERTRALINE HYDROCHLORIDE TABLET, FILM COATED [LUPIN PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-02-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA078861"
+      ],
+      "brand_names": [
+        "Sertraline Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "sertraline",
+      "ingredients": [
+        "SERTRALINE HYDROCHLORIDE"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2008-10-31",
+      "moieties": [
+        "SERTRALINE"
+      ],
+      "product_ndcs": [
+        "65862-224"
+      ],
+      "rxcui": [
+        "861064"
+      ],
+      "setid": "01800452-c353-4235-a66a-214048752e74",
+      "source": "openfda",
+      "spl_version": 27,
+      "title": "SERTRALINE HYDROCHLORIDE SOLUTION, CONCENTRATE [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2024-03-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA077397"
+      ],
+      "brand_names": [
+        "Sertraline Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "sertraline",
+      "ingredients": [
+        "SERTRALINE HYDROCHLORIDE"
+      ],
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-07-21",
+      "moieties": [
+        "SERTRALINE"
+      ],
+      "product_ndcs": [
+        "69097-833",
+        "69097-834",
+        "69097-835"
+      ],
+      "rxcui": [
+        "312938",
+        "312940",
+        "312941"
+      ],
+      "setid": "cf71d1b9-5ebb-429f-a07f-a87cd168250f",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "SERTRALINE HYDROCHLORIDE TABLET [CIPLA USA INC.]",
+      "upload_date": "2026-06-23"
+    },
+    {
+      "application_numbers": [
+        "NDA019839",
+        "NDA020990"
+      ],
+      "archived_versions": 45,
+      "brand_names": [
+        "ZOLOFT"
+      ],
+      "first_posted": "2008-02-08",
+      "found_by": "ZOLOFT",
+      "labeler": "ROERIG",
+      "labeler_unverified": false,
+      "last_posted": "2025-07-10",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-10-31",
+        "2026-06-30"
+      ],
+      "product_ndcs": [
+        "0049-0050",
+        "0049-4900",
+        "0049-4910",
+        "0049-4960"
+      ],
+      "rxcui": [],
+      "setid": "fe9e8b7d-61ea-409d-84aa-3ebd79a046b5",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "1a58062b-e635-431a-908d-2651c6a4a21c",
+        "fda754f6-d0f3-4dce-a17a-927d64f912f7"
+      ],
+      "title": "ZOLOFT (sertraline hydrochloride) tablet, film coated ZOLOFT (sertraline hydrochloride) solution, concentrate"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Accord Healthcare, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "205ecf52-8138-44a7-ad9a-b3aa7f4fa11a"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascent Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "056191ca-999a-4c9b-93b9-64db44b8e628"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "444ca054-e450-4c10-a31b-71ad43946cb8"
+    },
+    {
+      "combination": false,
+      "labeler": "ScieGen Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "10b9cae4-b452-4abb-866a-9f9d2568f212"
+    },
+    {
+      "combination": false,
+      "labeler": "Granules Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "98960cc1-1d44-4d89-b415-7e250cc762cc"
+    },
+    {
+      "combination": false,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3a3efb5f-b24a-438d-9253-371ff3b5417d"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Laboratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0621fe8d-fdee-4d4c-a8e3-97f729472a58"
+    },
+    {
+      "combination": false,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dfc9fee6-c032-4994-9f14-5beaf39bb5d5"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "23f1c8c5-032c-4ea9-beb0-ca3a614ba4b6"
+    },
+    {
+      "combination": false,
+      "labeler": "Biocon Pharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "623b9672-b41e-4ec9-b2cc-f5bb383c39ba"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a5c49e6e-b8e0-4a75-99e6-b88e323ce653"
+    },
+    {
+      "combination": false,
+      "labeler": "TRUPHARMA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c9e89324-0834-4434-8168-b4f2fa1e0a08"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9bc362d4-489c-4e7f-915a-3076ff8d132a"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7f144b68-ae90-483c-b030-f6824662a734"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "af2c75a3-131e-4bde-83fd-310fd2c01161"
+    },
+    {
+      "combination": false,
+      "labeler": "XLCare Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5b73a90e-b883-419b-b30f-a379eed764d9"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "de1f85ac-df1b-4b7b-8e18-48ebdc8b9279"
+    },
+    {
+      "combination": false,
+      "labeler": "Quallent Pharmaceuticals Health LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "61835f25-bfe4-49ac-9dbf-3d6387866e78"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b497dfeb-a48c-4f2a-b309-b56f3a26a19b"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "96dedceb-81ad-447c-800e-800cf473d4e4"
+    },
+    {
+      "combination": false,
+      "labeler": "Umedica Laboratories USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a6d0f35c-f4f4-456d-b8d9-d56297261ad6"
+    }
+  ]
+}

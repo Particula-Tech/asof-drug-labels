@@ -1,0 +1,152 @@
+{
+  "biologic": true,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand Skyrizi",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/004759",
+      "eu_number": "EU/1/19/1361",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-004759",
+      "mah": "AbbVie Deutschland GmbH & Co. KG",
+      "marketing_authorisation_date": "2019-04-26",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/skyrizi",
+      "name": "Skyrizi",
+      "record_from": "2019-04-26",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 12
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-004759",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "RISANKIZUMAB"
+  ],
+  "inn": "risankizumab",
+  "name": "RISANKIZUMAB",
+  "rank": 384,
+  "rxcui": [
+    "797544",
+    "2166136",
+    "2166137",
+    "2166142",
+    "2166143",
+    "2540692",
+    "2540695",
+    "2540698",
+    "2540699",
+    "2604618",
+    "2604622",
+    "2604625",
+    "2604628",
+    "2613758",
+    "2613759",
+    "2632994",
+    "2632997",
+    "2632999",
+    "2633000",
+    "2633001",
+    "2633002",
+    "2723331",
+    "2723332",
+    "2745412",
+    "2745415"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 1,
+    "approval_holders": 1,
+    "earliest_marketing_start": "2021-04-26",
+    "latest_label_update": "2026-07-31",
+    "nda_bla_applications": 2,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "RISANKIZUMAB",
+      "unii": "90ZX3Q3FR7"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "BLA761105",
+        "BLA761262"
+      ],
+      "brand_names": [
+        "Skyrizi"
+      ],
+      "combination": false,
+      "home_inn": "risankizumab",
+      "ingredients": [
+        "RISANKIZUMAB"
+      ],
+      "labeler": "AbbVie Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2021-04-26",
+      "moieties": [
+        "RISANKIZUMAB"
+      ],
+      "product_ndcs": [
+        "0074-1050",
+        "0074-1065",
+        "0074-1070",
+        "0074-2100",
+        "0074-4059",
+        "0074-5015",
+        "0074-7040",
+        "0074-7042",
+        "0074-8300",
+        "0074-8350"
+      ],
+      "rxcui": [
+        "797544",
+        "2166136",
+        "2166137",
+        "2166142",
+        "2166143",
+        "2540692",
+        "2540695",
+        "2540698",
+        "2540699",
+        "2604618",
+        "2604622",
+        "2604625",
+        "2604628",
+        "2613758",
+        "2613759",
+        "2632994",
+        "2632997",
+        "2632999",
+        "2633000",
+        "2633001",
+        "2633002",
+        "2723331",
+        "2723332",
+        "2745412",
+        "2745415"
+      ],
+      "setid": "7148c8eb-b39e-e20a-6494-a6df82392858",
+      "source": "openfda",
+      "spl_version": 179,
+      "title": "SKYRIZI (RISANKIZUMAB-RZAA) KIT SKYRIZI (RISANKIZUMAB-RZAA) INJECTION SKYRIZI (RISANKIZUMAB-RZAA) INJECTION, SOLUTION [ABBVIE INC.]",
+      "upload_date": "2026-07-31"
+    }
+  ],
+  "us_excluded": []
+}

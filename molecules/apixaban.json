@@ -1,0 +1,197 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand ELIQUIS",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/002148",
+      "eu_number": "EU/1/11/691",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-002148",
+      "mah": "Bristol-Myers Squibb / Pfizer EEIG",
+      "marketing_authorisation_date": "2011-05-18",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/eliquis",
+      "name": "Eliquis",
+      "record_from": "2011-05-18",
+      "record_to": "2026-11-03",
+      "role": "reference",
+      "versions": 20
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/005358",
+      "eu_number": "EU/1/20/1458",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-005358",
+      "mah": "Accord Healthcare S.L.U.",
+      "marketing_authorisation_date": "2020-07-23",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/apixaban-accord",
+      "name": "Apixaban Accord",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-002148",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "APIXABAN"
+  ],
+  "inn": "apixaban",
+  "name": "APIXABAN",
+  "rank": 501,
+  "rxcui": [
+    "1364435",
+    "1364441",
+    "1364445",
+    "1364447",
+    "1992427",
+    "1992428"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "manual",
+  "stats": {
+    "approval_holder_setids": 3,
+    "approval_holders": 3,
+    "earliest_marketing_start": "2012-12-28",
+    "latest_label_update": "2025-05-05",
+    "nda_bla_applications": 1,
+    "repackagers": 4
+  },
+  "unii": [
+    {
+      "ingredient": "APIXABAN",
+      "unii": "3Z9Y7UWC1J"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA202155"
+      ],
+      "brand_names": [
+        "ELIQUIS",
+        "ELIQUIS 30-Day Starter Pack"
+      ],
+      "combination": false,
+      "home_inn": "apixaban",
+      "ingredients": [
+        "APIXABAN"
+      ],
+      "labeler": "E.R. Squibb & Sons, L.L.C.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2012-12-28",
+      "moieties": [
+        "APIXABAN"
+      ],
+      "product_ndcs": [
+        "0003-0893",
+        "0003-0894",
+        "0003-1028",
+        "0003-3764",
+        "0003-3765"
+      ],
+      "rxcui": [
+        "1364435",
+        "1364441",
+        "1364445",
+        "1364447",
+        "1992427",
+        "1992428"
+      ],
+      "setid": "e9481622-7cc6-418a-acb6-c5450daae9b0",
+      "source": "dailymed-title-match",
+      "spl_version": 30,
+      "title": "ELIQUIS (APIXABAN) TABLET, FILM COATED ELIQUIS 30-DAY STARTER PACK (APIXABAN) KIT [E.R. SQUIBB & SONS, L.L.C.]",
+      "upload_date": "2025-05-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA209810"
+      ],
+      "brand_names": [
+        "Apixaban"
+      ],
+      "combination": false,
+      "home_inn": "apixaban",
+      "ingredients": [
+        "APIXABAN"
+      ],
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-08-31",
+      "moieties": [
+        "APIXABAN"
+      ],
+      "product_ndcs": [
+        "0115-1721",
+        "0115-1722"
+      ],
+      "rxcui": [
+        "1364435",
+        "1364445"
+      ],
+      "setid": "19a60552-374d-4b8b-a8ce-ceae252ea5ba",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "APIXABAN TABLET, FILM COATED [AMNEAL PHARMACEUTICALS OF NEW YORK LLC]",
+      "upload_date": "2025-02-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA209898"
+      ],
+      "brand_names": [
+        "apixaban"
+      ],
+      "combination": false,
+      "home_inn": "apixaban",
+      "ingredients": [
+        "APIXABAN"
+      ],
+      "labeler": "Indoco Remedies Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-09-16",
+      "moieties": [
+        "APIXABAN"
+      ],
+      "product_ndcs": [
+        "14445-149",
+        "14445-150"
+      ],
+      "rxcui": [
+        "1364435",
+        "1364445"
+      ],
+      "setid": "095a08ac-cf0e-497e-a682-ddef38d6b29c",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "APIXABAN TABLET, FILM COATED [INDOCO REMEDIES LIMITED ]",
+      "upload_date": "2021-06-15"
+    }
+  ],
+  "us_excluded": []
+}

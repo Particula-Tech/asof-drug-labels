@@ -1,0 +1,928 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "PAROXETINE HYDROCHLORIDE",
+    "PAROXETINE HYDROCHLORIDE ANHYDROUS",
+    "PAROXETINE HYDROCHLORIDE HEMIHYDRATE",
+    "PAROXETINE MESYLATE"
+  ],
+  "inn": "paroxetine",
+  "name": "PAROXETINE",
+  "rank": 199,
+  "rxcui": [
+    "207349",
+    "207350",
+    "211699",
+    "211700",
+    "1430122",
+    "1430128",
+    "1738483",
+    "1738495",
+    "1738503",
+    "1738511",
+    "1738803",
+    "1738804",
+    "1738805",
+    "1738806",
+    "1738807",
+    "1738808"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 27,
+    "approval_holders": 23,
+    "earliest_marketing_start": "2003-09-08",
+    "latest_label_update": "2026-10-29",
+    "nda_bla_applications": 3,
+    "repackagers": 18
+  },
+  "unii": [
+    {
+      "ingredient": "PAROXETINE HYDROCHLORIDE",
+      "unii": "X2ELS050D8"
+    },
+    {
+      "ingredient": "PAROXETINE HYDROCHLORIDE ANHYDROUS",
+      "unii": "3I3T11UD2S"
+    },
+    {
+      "ingredient": "PAROXETINE HYDROCHLORIDE HEMIHYDRATE",
+      "unii": "X2ELS050D8"
+    },
+    {
+      "ingredient": "PAROXETINE MESYLATE",
+      "unii": "M711N184JE"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020031",
+        "NDA020936"
+      ],
+      "brand_names": [
+        "PAXIL",
+        "PAXIL CR"
+      ],
+      "combination": false,
+      "home_inn": "paroxetine",
+      "ingredients": [
+        "PAROXETINE HYDROCHLORIDE"
+      ],
+      "labeler": "Apotex Corp",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2011-01-01",
+      "moieties": [
+        "PAROXETINE"
+      ],
+      "product_ndcs": [
+        "60505-4377",
+        "60505-4378",
+        "60505-4379",
+        "60505-4517",
+        "60505-4518",
+        "60505-4519",
+        "60505-4520"
+      ],
+      "rxcui": [
+        "1738803",
+        "1738804",
+        "1738805",
+        "1738806",
+        "1738807",
+        "1738808"
+      ],
+      "setid": "483bd97f-c4d0-4e23-aaa8-6334f4471e0c",
+      "source": "dailymed-title-match",
+      "spl_version": 34,
+      "title": "PAXIL CR (PAROXETINE HYDROCHLORIDE) TABLET, FILM COATED, EXTENDED RELEASE [APOTEX CORP]",
+      "upload_date": "2026-10-02"
+    },
+    {
+      "application_numbers": [
+        "NDA204516"
+      ],
+      "brand_names": [
+        "BRISDELLE"
+      ],
+      "combination": false,
+      "home_inn": "paroxetine",
+      "ingredients": [
+        "PAROXETINE MESYLATE"
+      ],
+      "labeler": "Legacy Pharma USA, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-02-18",
+      "moieties": [
+        "PAROXETINE"
+      ],
+      "product_ndcs": [
+        "83107-027"
+      ],
+      "rxcui": [
+        "1430122",
+        "1430128"
+      ],
+      "setid": "502311b3-b617-4cbd-a3ab-a60f2c62880a",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "BRISDELLE (PAROXETINE) CAPSULE [LEGACY PHARMA USA, INC.]",
+      "upload_date": "2025-05-05"
+    },
+    {
+      "application_numbers": [
+        "NDA020031"
+      ],
+      "brand_names": [
+        "PAXIL"
+      ],
+      "combination": false,
+      "home_inn": "paroxetine",
+      "ingredients": [
+        "PAROXETINE HYDROCHLORIDE"
+      ],
+      "labeler": "Apotex Corp",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2019-03-11",
+      "moieties": [
+        "PAROXETINE"
+      ],
+      "product_ndcs": [
+        "60505-4517",
+        "60505-4518",
+        "60505-4519",
+        "60505-4520"
+      ],
+      "rxcui": [
+        "207349",
+        "207350",
+        "211699",
+        "211700",
+        "1738483",
+        "1738495",
+        "1738503",
+        "1738511"
+      ],
+      "setid": "ef3b5cbe-f9e1-c1ac-79da-cfe14e3a7e7e",
+      "source": "dailymed-title-match",
+      "spl_version": 13,
+      "title": "PAXIL (PAROXETINE HYDROCHLORIDE) TABLET, FILM COATED [APOTEX CORP]",
+      "upload_date": "2026-10-01"
+    },
+    {
+      "application_numbers": [
+        "ANDA075356",
+        "NDA020936"
+      ],
+      "brand_names": [
+        "PAROXETINE",
+        "PAROXETINE HYDROCHLORIDE"
+      ],
+      "combination": false,
+      "home_inn": "paroxetine",
+      "ingredients": [
+        "PAROXETINE HYDROCHLORIDE",
+        "PAROXETINE HYDROCHLORIDE ANHYDROUS",
+        "PAROXETINE HYDROCHLORIDE HEMIHYDRATE"
+      ],
+      "labeler": "Apotex Corp",
+      "marketing_categories": [
+        "ANDA",
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2003-09-08",
+      "moieties": [
+        "PAROXETINE"
+      ],
+      "product_ndcs": [
+        "60505-0083",
+        "60505-0084",
+        "60505-0097",
+        "60505-0101",
+        "60505-1316",
+        "60505-1317",
+        "60505-1318"
+      ],
+      "rxcui": [
+        "1738803",
+        "1738805",
+        "1738807"
+      ],
+      "setid": "087ff0d3-1761-47ea-a8c1-7c4cb679af97",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "PAROXETINE HYDROCHLORIDE TABLET, FILM COATED, EXTENDED RELEASE [APOTEX CORP]",
+      "upload_date": "2026-09-18"
+    },
+    {
+      "application_numbers": [
+        "NDA204516"
+      ],
+      "brand_names": [
+        "Paroxetine"
+      ],
+      "combination": false,
+      "home_inn": "paroxetine",
+      "ingredients": [
+        "PAROXETINE MESYLATE"
+      ],
+      "labeler": "Padagis US LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2017-10-03",
+      "moieties": [
+        "PAROXETINE"
+      ],
+      "product_ndcs": [
+        "0574-0279"
+      ],
+      "rxcui": [
+        "1430122"
+      ],
+      "setid": "1383d713-79b9-45bd-bd06-65707f28bc99",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "PAROXETINE CAPSULE [PADAGIS US LLC]",
+      "upload_date": "2023-09-22"
+    },
+    {
+      "application_numbers": [
+        "ANDA077584"
+      ],
+      "brand_names": [
+        "Paroxetine"
+      ],
+      "combination": false,
+      "home_inn": "paroxetine",
+      "ingredients": [
+        "PAROXETINE HYDROCHLORIDE ANHYDROUS"
+      ],
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2007-04-13",
+      "moieties": [
+        "PAROXETINE"
+      ],
+      "product_ndcs": [
+        "65841-097",
+        "65841-098",
+        "65841-099",
+        "65841-601"
+      ],
+      "rxcui": [
+        "1738483",
+        "1738495",
+        "1738503",
+        "1738511"
+      ],
+      "setid": "6d5fcdb2-4d84-4b20-87e3-58a43e567500",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "PAROXETINE (PAROXETINE HYDROCHLORIDE) TABLET, FILM COATED [ZYDUS LIFESCIENCES LIMITED]",
+      "upload_date": "2024-12-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA078406"
+      ],
+      "brand_names": [
+        "Paroxetine"
+      ],
+      "combination": false,
+      "home_inn": "paroxetine",
+      "ingredients": [
+        "PAROXETINE HYDROCHLORIDE HEMIHYDRATE"
+      ],
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2007-07-25",
+      "moieties": [
+        "PAROXETINE"
+      ],
+      "product_ndcs": [
+        "16714-181",
+        "16714-182",
+        "16714-183",
+        "16714-184"
+      ],
+      "rxcui": [
+        "1738483",
+        "1738495",
+        "1738503",
+        "1738511"
+      ],
+      "setid": "118320de-0632-4139-8b13-7428b41da0ac",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "PAROXETINE (PAROXETINE HYDROCHLORIDE) TABLET, FILM COATED [NORTHSTAR RX LLC]",
+      "upload_date": "2026-07-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA078902"
+      ],
+      "brand_names": [
+        "Paroxetine"
+      ],
+      "combination": false,
+      "home_inn": "paroxetine",
+      "ingredients": [
+        "PAROXETINE HYDROCHLORIDE"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2008-03-24",
+      "moieties": [
+        "PAROXETINE"
+      ],
+      "product_ndcs": [
+        "0378-7001",
+        "0378-7002",
+        "0378-7003",
+        "0378-7004"
+      ],
+      "rxcui": [
+        "1738483",
+        "1738495",
+        "1738503",
+        "1738511"
+      ],
+      "setid": "89dd7e24-85fc-4152-89ea-47ec2b48a1ed",
+      "source": "openfda",
+      "spl_version": 20,
+      "title": "PAROXETINE (PAROXETINE HYDROCHLORIDE HEMIHYDRATE) TABLET, FILM COATED [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2026-03-16"
+    },
+    {
+      "application_numbers": [
+        "ANDA204744"
+      ],
+      "brand_names": [
+        "Paroxetine"
+      ],
+      "combination": false,
+      "home_inn": "paroxetine",
+      "ingredients": [
+        "PAROXETINE HYDROCHLORIDE"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-10-31",
+      "moieties": [
+        "PAROXETINE"
+      ],
+      "product_ndcs": [
+        "62135-425",
+        "62135-426",
+        "62135-427"
+      ],
+      "rxcui": [
+        "1738803",
+        "1738805",
+        "1738807"
+      ],
+      "setid": "52c3c5c4-6434-4f95-b5f0-9ecfdc0a7e0a",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "PAROXETINE TABLET, FILM COATED, EXTENDED RELEASE [CHARTWELL RX, LLC]",
+      "upload_date": "2022-12-19"
+    },
+    {
+      "application_numbers": [
+        "NDA204516"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "BRISDELLE"
+      ],
+      "first_posted": "2017-05-24",
+      "found_by": "BRISDELLE",
+      "labeler": "Sebela Pharmaceuticals Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2022-06-20",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-01-31"
+      ],
+      "product_ndcs": [
+        "54766-907"
+      ],
+      "rxcui": [],
+      "setid": "50361fc8-8fba-1c45-e054-00144ff88e88",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "1383d713-79b9-45bd-bd06-65707f28bc99",
+        "502311b3-b617-4cbd-a3ab-a60f2c62880a"
+      ],
+      "title": "BRISDELLE (paroxetine) capsule"
+    },
+    {
+      "application_numbers": [
+        "NDA021299"
+      ],
+      "archived_versions": 10,
+      "brand_names": [
+        "PEXEVA"
+      ],
+      "first_posted": "2017-06-02",
+      "found_by": "PEXEVA",
+      "labeler": "Sebela Pharmaceuticals Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2023-09-07",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-05-31"
+      ],
+      "product_ndcs": [
+        "54766-201",
+        "54766-202",
+        "54766-203",
+        "54766-204"
+      ],
+      "rxcui": [],
+      "setid": "50fe88bd-f0dd-5fad-e054-00144ff8d46c",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "PEXEVA (paroxetine mesylate) tablet, film coated"
+    },
+    {
+      "application_numbers": [
+        "NDA020031",
+        "NDA020710"
+      ],
+      "archived_versions": 18,
+      "brand_names": [
+        "PAXIL"
+      ],
+      "first_posted": "2011-01-03",
+      "found_by": "PAXIL",
+      "labeler": "Apotex Corp",
+      "labeler_unverified": false,
+      "last_posted": "2025-05-23",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-05-31",
+        "2024-11-30"
+      ],
+      "product_ndcs": [
+        "60505-0402",
+        "60505-3666"
+      ],
+      "rxcui": [],
+      "setid": "584ace29-6e40-432f-950f-ab7e98653d32",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "483bd97f-c4d0-4e23-aaa8-6334f4471e0c",
+        "ef3b5cbe-f9e1-c1ac-79da-cfe14e3a7e7e"
+      ],
+      "title": "PAXIL (paroxetine hydrochloride) suspension PAXIL (paroxetine hydrochloride) tablet, film coated"
+    },
+    {
+      "application_numbers": [
+        "NDA020031",
+        "NDA020710"
+      ],
+      "archived_versions": 9,
+      "brand_names": [
+        "PAXIL"
+      ],
+      "first_posted": "2008-06-20",
+      "found_by": "PAXIL",
+      "labeler": "GlaxoSmithKline LLC",
+      "labeler_unverified": true,
+      "last_posted": "2012-03-05",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-02-28",
+        "2013-04-30",
+        "2013-06-30"
+      ],
+      "product_ndcs": [
+        "0029-3210",
+        "0029-3211",
+        "0029-3212",
+        "0029-3213",
+        "0029-3215"
+      ],
+      "rxcui": [],
+      "setid": "65ee7ef8-cc68-41d1-cc8b-c01a056409a9",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "483bd97f-c4d0-4e23-aaa8-6334f4471e0c",
+        "ef3b5cbe-f9e1-c1ac-79da-cfe14e3a7e7e"
+      ],
+      "title": "PAXIL (paroxetine hydrochloride) tablet, film coated PAXIL (paroxetine hydrochloride) suspension"
+    },
+    {
+      "application_numbers": [
+        "NDA021299"
+      ],
+      "archived_versions": 9,
+      "brand_names": [
+        "PEXEVA"
+      ],
+      "first_posted": "2009-01-15",
+      "found_by": "PEXEVA",
+      "labeler": "NOVEN THERAPEUTICS, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2017-11-30",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-11-30"
+      ],
+      "product_ndcs": [
+        "68968-2010",
+        "68968-2020",
+        "68968-2030",
+        "68968-2040"
+      ],
+      "rxcui": [],
+      "setid": "6c4d4603-190a-496f-a40f-bc09853b9820",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "PEXEVA (paroxetine mesylate) tablet, film coated"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "PEXEVA"
+      ],
+      "first_posted": "2008-05-05",
+      "found_by": "PEXEVA",
+      "labeler": "NovenTherapeutics, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2008-05-05",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "68968-2010",
+        "68968-2020",
+        "68968-2030",
+        "68968-2040"
+      ],
+      "rxcui": [],
+      "setid": "8be93c0b-2c49-4010-8502-00017f46c0d4",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "pexeva (paroxetine mesylate) tablet, film coated"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "PAXIL"
+      ],
+      "first_posted": "2006-09-01",
+      "found_by": "PAXIL",
+      "labeler": "GlaxoSmithKLine",
+      "labeler_unverified": true,
+      "last_posted": "2006-09-01",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0029-3210",
+        "0029-3211",
+        "0029-3212",
+        "0029-3213",
+        "0029-3215"
+      ],
+      "rxcui": [],
+      "setid": "8ddd13b8-3300-4592-f3a3-4375284aa0c2",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "paxil (paroxetine hydrochloride) tablet paxil (paroxetine hydrochloride) suspension"
+    },
+    {
+      "application_numbers": [
+        "NDA020936"
+      ],
+      "archived_versions": 10,
+      "brand_names": [
+        "PAXIL"
+      ],
+      "first_posted": "2008-06-12",
+      "found_by": "PAXIL",
+      "labeler": "GlaxoSmithKline LLC",
+      "labeler_unverified": true,
+      "last_posted": "2012-03-05",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2011-06-03",
+        "2012-02-28",
+        "2012-03-31",
+        "2012-04-30",
+        "2013-09-30"
+      ],
+      "product_ndcs": [
+        "0029-3206",
+        "0029-3207",
+        "0029-3208",
+        "0029-4606",
+        "0029-4607",
+        "0029-4608"
+      ],
+      "rxcui": [],
+      "setid": "beb15c4c-9ad8-4fa4-d28c-cef6ed9871b5",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "087ff0d3-1761-47ea-a8c1-7c4cb679af97",
+        "483bd97f-c4d0-4e23-aaa8-6334f4471e0c"
+      ],
+      "title": "PAXIL CR (paroxetine hydrochloride) tablet, film coated, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA204516"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "BRISDELLE"
+      ],
+      "first_posted": "2013-07-12",
+      "found_by": "BRISDELLE",
+      "labeler": "Noven Therapeutics, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2017-11-30",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-11-30"
+      ],
+      "product_ndcs": [
+        "68968-9075"
+      ],
+      "rxcui": [],
+      "setid": "bf208751-e6d8-11e1-aff1-0800200c9a66",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "1383d713-79b9-45bd-bd06-65707f28bc99",
+        "502311b3-b617-4cbd-a3ab-a60f2c62880a"
+      ],
+      "title": "BRISDELLE (paroxetine) capsule"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "PAXIL"
+      ],
+      "first_posted": "2017-12-26",
+      "found_by": "PAXIL",
+      "labeler": "GlaxoSmithKline Inc",
+      "labeler_unverified": true,
+      "last_posted": "2017-12-26",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "53873-045",
+        "53873-046",
+        "53873-047"
+      ],
+      "rxcui": [],
+      "setid": "cd76d1e7-8c7a-4851-bb0e-c590c1c0de8f",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "PAXIL CR (paroxetine hydrochloride) tablet, film coated, extended release"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "PEXEVA"
+      ],
+      "first_posted": "2007-09-06",
+      "found_by": "PEXEVA",
+      "labeler": "JDS Pharmaceuticals, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2007-09-06",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "68968-2010",
+        "68968-2020",
+        "68968-2030",
+        "68968-2040"
+      ],
+      "rxcui": [],
+      "setid": "l8be93c0b-2c49-4010-8502-00017f46c0d4",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "pexeva (paroxetine mesylate) tablet, film coated"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d315e0da-f829-408b-be5d-2bca2e06913c"
+    },
+    {
+      "combination": false,
+      "labeler": "Solco Healthcare LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2c5836c3-2099-452e-b6af-d2d50dc359fd"
+    },
+    {
+      "combination": false,
+      "labeler": "Cadila Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5e43cdbd-2419-434b-96b9-920f02558d1c"
+    },
+    {
+      "combination": false,
+      "labeler": "Westminster Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f39a2a7a-7a7e-4dd8-9704-54d9598504fb"
+    },
+    {
+      "combination": false,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "134e76f0-45cf-47eb-b6e1-cdb3bb522a0a"
+    },
+    {
+      "combination": false,
+      "labeler": "Yiling Pharmaceutical, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4abd94c5-5ad5-4a43-9c51-a93ea1c1f3bc"
+    },
+    {
+      "combination": false,
+      "labeler": "Solco Healthcare US, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6cfde064-ddcb-49df-a53c-953c40eb1470"
+    },
+    {
+      "combination": false,
+      "labeler": "Oxford Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "25182b68-8f7a-48e8-9788-6818b0984b29"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "59cb7de6-483d-4007-b6ef-f10a70b872e9"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "26d37a39-1c53-461c-8834-c67fbffcfe99"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "08320ea3-8f93-6f04-5d1c-f69af3eb5a81"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a6bb4f0a-1555-4550-a7a4-99609674b1e7"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "326e8ab0-6886-4749-9544-885b37070051"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurolife Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e1ea4019-bb66-403c-a3d5-6ae056a59116"
+    },
+    {
+      "combination": false,
+      "labeler": "Lannett Company, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f22886f5-230c-47e4-9dd8-ffb14c8d6ae4"
+    },
+    {
+      "combination": false,
+      "labeler": "Modavar Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "555cfa31-3865-450f-b16b-2f4004af7a67"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "69699d40-4a64-4337-8664-e4e093437fbf"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5da839f9-e2bf-4b83-a410-1226ba4552a1"
+    }
+  ]
+}

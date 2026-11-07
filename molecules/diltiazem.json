@@ -1,0 +1,1137 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "DILTIAZEM HYDROCHLORIDE"
+  ],
+  "inn": "diltiazem",
+  "name": "DILTIAZEM",
+  "rank": 107,
+  "rxcui": [
+    "830795",
+    "830798",
+    "830801",
+    "830803",
+    "830837",
+    "830839",
+    "830845",
+    "830847",
+    "830861",
+    "830863",
+    "830865",
+    "830869",
+    "830872",
+    "830874",
+    "830876",
+    "830877",
+    "830878",
+    "830879",
+    "830880",
+    "830882",
+    "830883",
+    "830897",
+    "830898",
+    "830900",
+    "830902",
+    "831054",
+    "831055",
+    "831102",
+    "831103",
+    "831137",
+    "831193",
+    "831244",
+    "831296",
+    "831323",
+    "831347",
+    "831359",
+    "831360",
+    "833217",
+    "833219",
+    "834393",
+    "2586036",
+    "2709225"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 51,
+    "approval_holders": 29,
+    "earliest_marketing_start": "1992-11-05",
+    "latest_label_update": "2026-10-23",
+    "nda_bla_applications": 5,
+    "repackagers": 21
+  },
+  "unii": [
+    {
+      "ingredient": "DILTIAZEM HYDROCHLORIDE",
+      "unii": "OLH94387TE"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020062"
+      ],
+      "brand_names": [
+        "Cardizem CD"
+      ],
+      "combination": false,
+      "home_inn": "diltiazem",
+      "ingredients": [
+        "DILTIAZEM HYDROCHLORIDE"
+      ],
+      "labeler": "Bausch Health US LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2001-04-11",
+      "moieties": [
+        "DILTIAZEM"
+      ],
+      "product_ndcs": [
+        "0187-0795",
+        "0187-0796",
+        "0187-0797",
+        "0187-0798",
+        "0187-0799"
+      ],
+      "rxcui": [
+        "830795",
+        "830798",
+        "830801",
+        "830803",
+        "830837",
+        "830839",
+        "830845",
+        "830847",
+        "830861",
+        "830863"
+      ],
+      "setid": "1042fa13-e6af-46b9-8008-6c941f0978b1",
+      "source": "openfda",
+      "spl_version": 25,
+      "title": "CARDIZEM CD (DILTIAZEM HYDROCHLORIDE) CAPSULE, COATED, EXTENDED RELEASE [BAUSCH HEALTH US LLC]",
+      "upload_date": "2025-12-12"
+    },
+    {
+      "application_numbers": [
+        "NDA021392"
+      ],
+      "brand_names": [
+        "Cardizem LA"
+      ],
+      "combination": false,
+      "home_inn": "diltiazem",
+      "ingredients": [
+        "DILTIAZEM HYDROCHLORIDE"
+      ],
+      "labeler": "Bausch Health US LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2010-12-25",
+      "moieties": [
+        "DILTIAZEM"
+      ],
+      "product_ndcs": [
+        "0187-2045",
+        "0187-2046",
+        "0187-2047",
+        "0187-2048",
+        "0187-2049",
+        "0187-2050"
+      ],
+      "rxcui": [
+        "830874",
+        "830876",
+        "830877",
+        "830878",
+        "830879",
+        "830880",
+        "830882",
+        "830883",
+        "830897",
+        "830898",
+        "830900",
+        "830902"
+      ],
+      "setid": "3e180dc7-c871-4efc-8755-cae882976c8d",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "CARDIZEM LA (DILTIAZEM HYDROCHLORIDE) TABLET, EXTENDED RELEASE [BAUSCH HEALTH US LLC]",
+      "upload_date": "2025-12-12"
+    },
+    {
+      "application_numbers": [
+        "NDA018602"
+      ],
+      "brand_names": [
+        "Cardizem"
+      ],
+      "combination": false,
+      "home_inn": "diltiazem",
+      "ingredients": [
+        "DILTIAZEM HYDROCHLORIDE"
+      ],
+      "labeler": "Bausch Health US LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2010-12-25",
+      "moieties": [
+        "DILTIAZEM"
+      ],
+      "product_ndcs": [
+        "0187-0771",
+        "0187-0772",
+        "0187-0792"
+      ],
+      "rxcui": [
+        "831054",
+        "831055",
+        "831102",
+        "831103",
+        "831137",
+        "833217",
+        "833219",
+        "834393"
+      ],
+      "setid": "f3e7ecef-f360-4987-a4f5-933214130ab2",
+      "source": "openfda",
+      "spl_version": 20,
+      "title": "CARDIZEM (DILTIAZEM HYDROCHLORIDE) TABLET, COATED [BAUSCH HEALTH US LLC]",
+      "upload_date": "2025-05-02"
+    },
+    {
+      "application_numbers": [
+        "NDA020401"
+      ],
+      "brand_names": [
+        "TIAZAC EXTENDED RELEASE"
+      ],
+      "combination": false,
+      "home_inn": "diltiazem",
+      "ingredients": [
+        "DILTIAZEM HYDROCHLORIDE"
+      ],
+      "labeler": "Bausch Health US, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2014-08-20",
+      "moieties": [
+        "DILTIAZEM"
+      ],
+      "product_ndcs": [
+        "0187-2612",
+        "0187-2613",
+        "0187-2614",
+        "0187-2615",
+        "0187-2616",
+        "0187-2617"
+      ],
+      "rxcui": [
+        "830795",
+        "830801",
+        "830837",
+        "830845",
+        "830861",
+        "831193",
+        "831244",
+        "831296",
+        "831323",
+        "831347",
+        "831359",
+        "831360"
+      ],
+      "setid": "c567fe7e-887e-4291-a0d1-2dd3f25cbf25",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "TIAZAC EXTENDED RELEASE (DILTIAZEM HYDROCHLORIDE) CAPSULE, EXTENDED RELEASE [BAUSCH HEALTH US, LLC]",
+      "upload_date": "2026-08-10"
+    },
+    {
+      "application_numbers": [
+        "NDA218038"
+      ],
+      "brand_names": [
+        "DILTIAZEM HYDROCHLORIDE in SODIUM CHLORIDE"
+      ],
+      "combination": false,
+      "home_inn": "diltiazem",
+      "ingredients": [
+        "DILTIAZEM HYDROCHLORIDE"
+      ],
+      "labeler": "WG Critical Care, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-03-21",
+      "moieties": [
+        "DILTIAZEM"
+      ],
+      "product_ndcs": [
+        "44567-662",
+        "44567-663"
+      ],
+      "rxcui": [
+        "2586036",
+        "2709225"
+      ],
+      "setid": "8bae87a5-2137-467e-a1ad-79b2bc075e07",
+      "source": "dailymed-title-match",
+      "spl_version": 4,
+      "title": "DILTIAZEM HYDROCHLORIDE IN SODIUM CHLORIDE (DILTIAZEM HYDROCHLORIDE) INJECTION, SOLUTION [WG CRITICAL CARE, LLC]",
+      "upload_date": "2026-09-21"
+    },
+    {
+      "application_numbers": [
+        "NDA018602"
+      ],
+      "brand_names": [
+        "Diltiazem Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "diltiazem",
+      "ingredients": [
+        "DILTIAZEM HYDROCHLORIDE"
+      ],
+      "labeler": "Oceanside Pharmaceuticals",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2010-12-25",
+      "moieties": [
+        "DILTIAZEM"
+      ],
+      "product_ndcs": [
+        "68682-006",
+        "68682-007",
+        "68682-008",
+        "68682-009"
+      ],
+      "rxcui": [
+        "831054",
+        "831102",
+        "831103",
+        "833217"
+      ],
+      "setid": "f6a24de7-8ffe-48af-873f-10fdcd5551d1",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "DILTIAZEM HYDROCHLORIDE TABLET DILTIAZEM HYDROCHLORIDE TABLET [OCEANSIDE PHARMACEUTICALS]",
+      "upload_date": "2023-03-29"
+    },
+    {
+      "application_numbers": [
+        "NDA021392"
+      ],
+      "brand_names": [
+        "Diltiazem Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "diltiazem",
+      "ingredients": [
+        "DILTIAZEM HYDROCHLORIDE"
+      ],
+      "labeler": "Oceanside Pharmaceuticals",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2014-02-06",
+      "moieties": [
+        "DILTIAZEM"
+      ],
+      "product_ndcs": [
+        "68682-704",
+        "68682-705",
+        "68682-706",
+        "68682-707",
+        "68682-708",
+        "68682-709"
+      ],
+      "rxcui": [
+        "830874",
+        "830877",
+        "830879",
+        "830882",
+        "830897",
+        "830900"
+      ],
+      "setid": "73b3607a-99d0-44d8-92ef-0074684c9d7d",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "DILTIAZEM HYDROCHLORIDE (DILTIAZEM HYDROCHLORIDE EXTENDED-RELEASE TABLETS) TABLET, EXTENDED RELEASE [OCEANSIDE PHARMACEUTICALS]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "NDA020401"
+      ],
+      "brand_names": [
+        "Diltiazem Hydrochloride EXTENDED RELEASE"
+      ],
+      "combination": false,
+      "home_inn": "diltiazem",
+      "ingredients": [
+        "DILTIAZEM HYDROCHLORIDE"
+      ],
+      "labeler": "Oceanside Pharmaceuticals",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2014-08-20",
+      "moieties": [
+        "DILTIAZEM"
+      ],
+      "product_ndcs": [
+        "68682-367",
+        "68682-368",
+        "68682-369",
+        "68682-370",
+        "68682-371",
+        "68682-372"
+      ],
+      "rxcui": [
+        "830795",
+        "830801",
+        "830837",
+        "830845",
+        "830861",
+        "831359"
+      ],
+      "setid": "862d65cb-a732-4786-b569-bad2eaafddfd",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "DILTIAZEM HYDROCHLORIDE EXTENDED RELEASE (DILTIAZEM HYDROCHLORIDE) CAPSULE, EXTENDED RELEASE [OCEANSIDE PHARMACEUTICALS]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA074093"
+      ],
+      "brand_names": [
+        "Diltiazem Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "diltiazem",
+      "ingredients": [
+        "DILTIAZEM HYDROCHLORIDE"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1992-11-05",
+      "moieties": [
+        "DILTIAZEM"
+      ],
+      "product_ndcs": [
+        "62135-333",
+        "62135-334",
+        "62135-335",
+        "62135-336"
+      ],
+      "rxcui": [
+        "831054",
+        "831102",
+        "831103",
+        "833217"
+      ],
+      "setid": "51abce7b-e3d1-44b5-bccc-d463150d0bba",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "DILTIAZEM HYDROCHLORIDE TABLET [CHARTWELL RX, LLC]",
+      "upload_date": "2024-06-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA074185"
+      ],
+      "brand_names": [
+        "Diltiazem Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "diltiazem",
+      "ingredients": [
+        "DILTIAZEM HYDROCHLORIDE"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1995-12-22",
+      "moieties": [
+        "DILTIAZEM"
+      ],
+      "product_ndcs": [
+        "0093-0318",
+        "0093-0319",
+        "0093-0320",
+        "0093-0321"
+      ],
+      "rxcui": [
+        "831054",
+        "831102",
+        "831103",
+        "833217"
+      ],
+      "setid": "69ca7cae-fdf3-413a-900b-95cf6e9e7b63",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "DILTIAZEM HYDROCHLORIDE TABLET, FILM COATED [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2025-07-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA074910"
+      ],
+      "brand_names": [
+        "Diltiazem Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "diltiazem",
+      "ingredients": [
+        "DILTIAZEM HYDROCHLORIDE"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1997-05-02",
+      "moieties": [
+        "DILTIAZEM"
+      ],
+      "product_ndcs": [
+        "0378-6060",
+        "0378-6090",
+        "0378-6120"
+      ],
+      "rxcui": [
+        "830865",
+        "830869",
+        "830872"
+      ],
+      "setid": "ec7e93b8-666c-4d2f-8d08-07931e09f748",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "DILTIAZEM HYDROCHLORIDE CAPSULE, EXTENDED RELEASE [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2026-02-10"
+    },
+    {
+      "application_numbers": [
+        "NDA021392"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "CARDIZEM"
+      ],
+      "first_posted": "2007-09-06",
+      "found_by": "CARDIZEM",
+      "labeler": "AbbVie Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2013-03-19",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-02-07"
+      ],
+      "product_ndcs": [
+        "60598-120",
+        "60598-121",
+        "60598-122",
+        "60598-123",
+        "60598-124",
+        "60598-125"
+      ],
+      "rxcui": [],
+      "setid": "22c4ce8c-32cf-46b3-8483-2344a1f0bdc7",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "3e180dc7-c871-4efc-8755-cae882976c8d",
+        "73b3607a-99d0-44d8-92ef-0074684c9d7d"
+      ],
+      "title": "CARDIZEM LA (diltiazem hydrochloride) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA018602"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "CARDIZEM"
+      ],
+      "first_posted": "2006-07-18",
+      "found_by": "CARDIZEM",
+      "labeler": "BTA Pharmaceuticals",
+      "labeler_unverified": true,
+      "last_posted": "2013-12-24",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-05-31",
+        "2013-09-30",
+        "2014-07-31",
+        "2014-11-30"
+      ],
+      "product_ndcs": [
+        "64455-771",
+        "64455-772",
+        "64455-791",
+        "64455-792"
+      ],
+      "rxcui": [],
+      "setid": "461fe23f-4453-4e3f-9621-0e3fda057d14",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "f3e7ecef-f360-4987-a4f5-933214130ab2",
+        "f6a24de7-8ffe-48af-873f-10fdcd5551d1"
+      ],
+      "title": "CARDIZEM (diltiazem hydrochloride) tablet, coated"
+    },
+    {
+      "application_numbers": [
+        "NDA020401"
+      ],
+      "archived_versions": 8,
+      "brand_names": [
+        "TIAZAC"
+      ],
+      "first_posted": "2007-07-19",
+      "found_by": "TIAZAC",
+      "labeler": "Forest Laboratories, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2014-11-18",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2014-09-11"
+      ],
+      "product_ndcs": [
+        "0456-2612",
+        "0456-2613",
+        "0456-2614",
+        "0456-2615",
+        "0456-2616",
+        "0456-2617"
+      ],
+      "rxcui": [],
+      "setid": "77fd7414-85aa-4161-87ff-dbff9e97ee02",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "862d65cb-a732-4786-b569-bad2eaafddfd",
+        "c567fe7e-887e-4291-a0d1-2dd3f25cbf25"
+      ],
+      "title": "TIAZAC EXTENDED RELEASE (diltiazem hydrochloride) capsule, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA020062"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "CARDIZEM"
+      ],
+      "first_posted": "2006-07-25",
+      "found_by": "CARDIZEM",
+      "labeler": "BTA Pharmaceuticals Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2013-12-27",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-03-31",
+        "2013-04-30",
+        "2013-07-30",
+        "2014-08-31",
+        "2015-05-31"
+      ],
+      "product_ndcs": [
+        "64455-795",
+        "64455-796",
+        "64455-797",
+        "64455-798",
+        "64455-799"
+      ],
+      "rxcui": [],
+      "setid": "867fd84c-902e-4ddc-a3ec-2204c1de2c5e",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "1042fa13-e6af-46b9-8008-6c941f0978b1"
+      ],
+      "title": "CARDIZEM CD (diltiazem hydrochloride) capsule"
+    },
+    {
+      "application_numbers": [
+        "NDA020092"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "DILACOR"
+      ],
+      "first_posted": "2007-09-14",
+      "found_by": "DILACOR",
+      "labeler": "Actavis Pharma, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2016-11-28",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2005-05-28"
+      ],
+      "product_ndcs": [
+        "52544-732",
+        "52544-733",
+        "52544-734"
+      ],
+      "rxcui": [],
+      "setid": "a6ad506a-a3f9-45be-ae03-24313b9a9b7c",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "DILACOR XR (diltiazem hydrochloride) capsule, extended release"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "DILACOR"
+      ],
+      "first_posted": "2006-09-21",
+      "found_by": "DILACOR",
+      "labeler": "WATSON Pharma, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2006-09-21",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "52544-732",
+        "52544-733",
+        "52544-734"
+      ],
+      "rxcui": [],
+      "setid": "abfbd58e-f985-4438-8351-10fdfc7724ad",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "dilacor xr (diltiazem hydrochloride) capsule"
+    },
+    {
+      "application_numbers": [
+        "NDA021392"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "CARDIZEM"
+      ],
+      "first_posted": "2011-01-06",
+      "found_by": "CARDIZEM",
+      "labeler": "AbbVie Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2018-07-27",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-04-14"
+      ],
+      "product_ndcs": [
+        "0074-3045",
+        "0074-3061",
+        "0074-3062",
+        "0074-3063",
+        "0074-3064",
+        "0074-3069"
+      ],
+      "rxcui": [],
+      "setid": "b4626a8d-a28d-4937-aa61-b9d958ae336c",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "3e180dc7-c871-4efc-8755-cae882976c8d",
+        "73b3607a-99d0-44d8-92ef-0074684c9d7d"
+      ],
+      "title": "CARDIZEM LA (diltiazem hydrochloride) tablet, extended release"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2dc2b889-8443-4f7f-83be-86c68e179804"
+    },
+    {
+      "combination": false,
+      "labeler": "OCEANSIDE PHARMACEUTICALS",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "43892b97-449d-45bc-bb09-29d47c655d65"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "56573e9d-7bd2-694c-cd6d-26039590e548"
+    },
+    {
+      "combination": false,
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bba03666-ff4f-4bf6-fa92-78e1ec2d9073"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "453b73bd-c52d-4d72-a0b3-47588e723e0b"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "eebf29fe-ce22-4482-b850-5854550bf2c4"
+    },
+    {
+      "combination": false,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e8c8dd18-9d95-4068-9762-bec1eb1bc25c"
+    },
+    {
+      "combination": false,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "178eec1f-1d4d-4a38-b66a-d3ba3de06c3d"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1e2f2025-0350-40c4-ab42-3b57f3d105a6"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1278cd76-b8e9-42d9-ad19-6858e72cf9f2"
+    },
+    {
+      "combination": false,
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bb32d681-9a83-431e-9984-a5cee2c94852"
+    },
+    {
+      "combination": false,
+      "labeler": "Ingenus Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "355f560a-8ebb-4661-ad74-2a22f707d7f8"
+    },
+    {
+      "combination": false,
+      "labeler": "Accord Healthcare, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "70293a05-d314-43fa-a2b1-398cfb39edf8"
+    },
+    {
+      "combination": false,
+      "labeler": "GLENMARK PHARMACEUTICALS INC., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fb1606ea-1cff-46fd-b8e5-8135da76436c"
+    },
+    {
+      "combination": false,
+      "labeler": "Slate Run Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e66665e8-22eb-f5cd-e053-2a95a90a72e4"
+    },
+    {
+      "combination": false,
+      "labeler": "ScieGen Pharmaceuticals, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "196fc367-330e-4d15-b1d6-084ad3f97ae7"
+    },
+    {
+      "combination": false,
+      "labeler": "Slate Run Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f7137458-0db3-7ecd-e053-6394a90a5f95"
+    },
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f8d962ab-6cd4-43a1-a8fa-fb6548ac2a08"
+    },
+    {
+      "combination": false,
+      "labeler": "ScieGen Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1ca03c9e-edc8-4c7f-89ee-f2346ea8c067"
+    },
+    {
+      "combination": false,
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f276d9fe-a685-4d99-ad82-d4452ef4ba98"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "850566b1-0c8e-42bc-85fa-c8ee710f34ba"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9d51c0f6-26b7-4220-83fb-4e736b289e64"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Labratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f1d09c53-5eb9-0b7c-e977-e2a602e84e5f"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "04a85be5-f746-418e-8e37-292703f16934"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ac9aa10d-cd52-4ac9-a01d-e3cbf14d4913"
+    },
+    {
+      "combination": false,
+      "labeler": "Ingenus Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "64401d2a-bd5b-43fd-879a-e9d16345e827"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "74bab197-f719-48c0-ac84-c0cf0087b45a"
+    },
+    {
+      "combination": false,
+      "labeler": "Viona Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "43cffe12-304a-4e15-9512-94f812188f1a"
+    },
+    {
+      "combination": false,
+      "labeler": "Cranbury Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2ef6b112-d3e9-4999-a8e0-46fb40d1ad81"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "734beeef-3968-4137-af2c-276e8a9317df"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6f71ba5e-7bd6-409a-80c6-2f22d975aefc"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fe790439-85d4-4cd8-a385-149ea3442a38"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d88e3546-3984-4dc9-893a-a29e95804550"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "976d9dd0-4f11-4439-b84e-0c0f0e018d8b"
+    },
+    {
+      "combination": false,
+      "labeler": "NORTHSTAR RX LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "56616fc9-f3f7-8e0a-22c8-a6af106e6b1d"
+    },
+    {
+      "combination": false,
+      "labeler": "Cipla USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bce61158-201d-458c-be0c-9bdd2d3a0bec"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "61b9ca82-7d41-4f49-b4a0-549c9473c447"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d9c5c1ed-1a9d-494c-b798-9da09ba1fe1b"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ab38794a-914d-4bcd-9c6d-1578aa10041a"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8329d0ac-d68c-48d2-9cbc-e1a1b60192d9"
+    }
+  ]
+}

@@ -1,0 +1,673 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 1,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "only combination central products under this exact INN (combinations are not built)",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "MEROPENEM",
+    "MEROPENEM ANHYDROUS"
+  ],
+  "inn": "meropenem",
+  "name": "MEROPENEM",
+  "rank": 277,
+  "rxcui": [
+    "1722934",
+    "1722939",
+    "1945218",
+    "1946651",
+    "2664894"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 27,
+    "approval_holders": 19,
+    "earliest_marketing_start": "2011-10-14",
+    "latest_label_update": "2026-09-24",
+    "nda_bla_applications": 3,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "MEROPENEM",
+      "unii": "FV9J3JU8B1"
+    },
+    {
+      "ingredient": "MEROPENEM ANHYDROUS",
+      "unii": "YOP6PX0BAO"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA202106"
+      ],
+      "brand_names": [
+        "Meropenem and Sodium Chloride"
+      ],
+      "combination": false,
+      "home_inn": "meropenem",
+      "ingredients": [
+        "MEROPENEM"
+      ],
+      "labeler": "B. Braun Medical Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-04-30",
+      "moieties": [
+        "MEROPENEM"
+      ],
+      "product_ndcs": [
+        "0264-3183",
+        "0264-3185"
+      ],
+      "rxcui": [
+        "1722934",
+        "1722939"
+      ],
+      "setid": "3b952a55-6ef7-45c8-be21-16eefe37ec2e",
+      "source": "openfda",
+      "spl_version": 25,
+      "title": "MEROPENEM AND SODIUM CHLORIDE INJECTION, SOLUTION [B. BRAUN MEDICAL INC.]",
+      "upload_date": "2025-08-08"
+    },
+    {
+      "application_numbers": [
+        "ANDA210773",
+        "NDA215212"
+      ],
+      "brand_names": [
+        "Meropenem"
+      ],
+      "combination": false,
+      "home_inn": "meropenem",
+      "ingredients": [
+        "MEROPENEM"
+      ],
+      "labeler": "WG Critical Care, LLC",
+      "marketing_categories": [
+        "ANDA",
+        "NDA"
+      ],
+      "marketing_start": "2020-01-09",
+      "moieties": [
+        "MEROPENEM"
+      ],
+      "product_ndcs": [
+        "44567-400",
+        "44567-401",
+        "44567-402"
+      ],
+      "rxcui": [
+        "2664894"
+      ],
+      "setid": "240325ba-47a8-4ad1-bcab-6772069ee790",
+      "source": "dailymed-title-match",
+      "spl_version": 7,
+      "title": "MEROPENEM INJECTION, POWDER, FOR SOLUTION [WG CRITICAL CARE, LLC]",
+      "upload_date": "2026-09-23"
+    },
+    {
+      "application_numbers": [
+        "NDA209776"
+      ],
+      "brand_names": [
+        "VABOMERE"
+      ],
+      "combination": true,
+      "home_inn": "meropenem",
+      "ingredients": [
+        "MEROPENEM",
+        "VABORBACTAM"
+      ],
+      "labeler": "Melinta Therapeutics, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-10-02",
+      "moieties": [
+        "MEROPENEM",
+        "VABORBACTAM"
+      ],
+      "product_ndcs": [
+        "70842-120"
+      ],
+      "rxcui": [
+        "1945218",
+        "1946651"
+      ],
+      "setid": "e237fd0f-3050-42a3-b43e-b6fb4824e93d",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "VABOMERE (MEROPENEM-VABORBACTAM) INJECTION, POWDER, FOR SOLUTION [MELINTA THERAPEUTICS, LLC]",
+      "upload_date": "2026-03-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA210773",
+        "NDA215212"
+      ],
+      "brand_names": [
+        "Meropenem"
+      ],
+      "combination": false,
+      "home_inn": "meropenem",
+      "ingredients": [
+        "MEROPENEM"
+      ],
+      "labeler": "WG Critical Care, LLC",
+      "marketing_categories": [
+        "ANDA",
+        "NDA"
+      ],
+      "marketing_start": "2020-01-09",
+      "moieties": [
+        "MEROPENEM"
+      ],
+      "product_ndcs": [
+        "44567-145",
+        "44567-146",
+        "44567-400",
+        "44567-401",
+        "44567-402"
+      ],
+      "rxcui": [
+        "1722934",
+        "1722939"
+      ],
+      "setid": "6520ae3d-e149-499c-8152-36f6ab861662",
+      "source": "dailymed-title-match",
+      "spl_version": 4,
+      "title": "MEROPENEM INJECTION, POWDER, FOR SOLUTION [WG CRITICAL CARE, LLC]",
+      "upload_date": "2025-02-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA210773",
+        "NDA215212"
+      ],
+      "brand_names": [
+        "Meropenem"
+      ],
+      "combination": false,
+      "home_inn": "meropenem",
+      "ingredients": [
+        "MEROPENEM"
+      ],
+      "labeler": "WG Critical Care, LLC",
+      "marketing_categories": [
+        "ANDA",
+        "NDA"
+      ],
+      "marketing_start": "2020-01-09",
+      "moieties": [
+        "MEROPENEM"
+      ],
+      "product_ndcs": [
+        "44567-400",
+        "44567-401",
+        "44567-402"
+      ],
+      "rxcui": [
+        "1722934",
+        "1722939"
+      ],
+      "setid": "74ff19b5-6156-4a27-affb-744b0ce1aeec",
+      "source": "dailymed-title-match",
+      "spl_version": 6,
+      "title": "MEROPENEM INJECTION, POWDER, FOR SOLUTION [WG CRITICAL CARE, LLC]",
+      "upload_date": "2026-09-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA091404"
+      ],
+      "brand_names": [
+        "Meropenem"
+      ],
+      "combination": false,
+      "home_inn": "meropenem",
+      "ingredients": [
+        "MEROPENEM"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-10-14",
+      "moieties": [
+        "MEROPENEM"
+      ],
+      "product_ndcs": [
+        "63323-507",
+        "63323-508"
+      ],
+      "rxcui": [
+        "1722934",
+        "1722939"
+      ],
+      "setid": "12714f80-d6e5-4453-b66c-62f57c16ddfc",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "MEROPENEM (MEROPENEM) INJECTION, POWDER, FOR SOLUTION [FRESENIUS KABI USA, LLC",
+      "upload_date": "2021-03-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA206086"
+      ],
+      "brand_names": [
+        "MEROPENEM"
+      ],
+      "combination": false,
+      "home_inn": "meropenem",
+      "ingredients": [
+        "MEROPENEM"
+      ],
+      "labeler": "Savior Lifetec Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-04-19",
+      "moieties": [
+        "MEROPENEM"
+      ],
+      "product_ndcs": [
+        "44647-032",
+        "44647-033"
+      ],
+      "rxcui": [
+        "1722934",
+        "1722939"
+      ],
+      "setid": "31dd2160-7dbd-51fa-e054-00144ff88e88",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "MEROPENEM INJECTION [SAVIOR LIFETEC CORPORATION]",
+      "upload_date": "2025-12-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA205883"
+      ],
+      "brand_names": [
+        "Meropenem"
+      ],
+      "combination": false,
+      "home_inn": "meropenem",
+      "ingredients": [
+        "MEROPENEM"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-05-09",
+      "moieties": [
+        "MEROPENEM"
+      ],
+      "product_ndcs": [
+        "70121-1453",
+        "70121-1454"
+      ],
+      "rxcui": [
+        "1722934",
+        "1722939"
+      ],
+      "setid": "a456013b-b20e-4b29-b2f9-06f18f1ea6bd",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "MEROPENEM INJECTION, POWDER, FOR SOLUTION [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2025-06-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA205835"
+      ],
+      "brand_names": [
+        "Meropenem"
+      ],
+      "combination": false,
+      "home_inn": "meropenem",
+      "ingredients": [
+        "MEROPENEM"
+      ],
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-03-27",
+      "moieties": [
+        "MEROPENEM"
+      ],
+      "product_ndcs": [
+        "55150-207",
+        "55150-208"
+      ],
+      "rxcui": [
+        "1722934",
+        "1722939"
+      ],
+      "setid": "bf1d3433-9e3f-40a0-8bff-c8ceaa8bab7c",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "MEROPENEM INJECTION, POWDER, FOR SOLUTION [EUGIA US LLC]",
+      "upload_date": "2025-08-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA206141"
+      ],
+      "brand_names": [
+        "Meropenem"
+      ],
+      "combination": false,
+      "home_inn": "meropenem",
+      "ingredients": [
+        "MEROPENEM"
+      ],
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-04-28",
+      "moieties": [
+        "MEROPENEM"
+      ],
+      "product_ndcs": [
+        "68083-146",
+        "68083-147"
+      ],
+      "rxcui": [
+        "1722934",
+        "1722939"
+      ],
+      "setid": "4e4e2c0c-df54-4229-ab90-fa671ecedd57",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "MEROPENEM INJECTION [GLAND PHARMA LIMITED]",
+      "upload_date": "2025-06-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA216154"
+      ],
+      "brand_names": [
+        "Meropenem"
+      ],
+      "combination": false,
+      "home_inn": "meropenem",
+      "ingredients": [
+        "MEROPENEM"
+      ],
+      "labeler": "BROOKS STERISCIENCE LIMITED",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-05-31",
+      "moieties": [
+        "MEROPENEM"
+      ],
+      "product_ndcs": [
+        "81962-000",
+        "81962-001"
+      ],
+      "rxcui": [
+        "1722934",
+        "1722939"
+      ],
+      "setid": "58e165b7-e230-4459-abf9-06d5ca1dd7b2",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "MEROPENEM INJECTION [BROOKS STERISCIENCE LIMITED]",
+      "upload_date": "2026-03-11"
+    },
+    {
+      "application_numbers": [
+        "NDA209776"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "VABOMERE"
+      ],
+      "first_posted": "2017-10-02",
+      "found_by": "VABOMERE",
+      "labeler": "The Medicines Company",
+      "labeler_unverified": true,
+      "last_posted": "2020-02-13",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-07-31"
+      ],
+      "product_ndcs": [
+        "65293-009"
+      ],
+      "rxcui": [],
+      "setid": "580db23f-c655-3049-e053-2a91aa0ad616",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "e237fd0f-3050-42a3-b43e-b6fb4824e93d"
+      ],
+      "title": "VABOMERE (meropenem-vaborbactam) injection, powder, for solution"
+    },
+    {
+      "application_numbers": [
+        "NDA050706"
+      ],
+      "archived_versions": 11,
+      "brand_names": [
+        "MERREM"
+      ],
+      "first_posted": "2018-07-18",
+      "found_by": "MERREM",
+      "labeler": "Pfizer Laboratories Div Pfizer Inc",
+      "labeler_unverified": false,
+      "last_posted": "2025-05-16",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-04-30",
+        "2023-03-31"
+      ],
+      "product_ndcs": [
+        "0069-0313",
+        "0069-0314"
+      ],
+      "rxcui": [],
+      "setid": "8f0c2a90-956a-4430-b26d-00d48169a9b0",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "MERREM IV (meropenem) injection"
+    },
+    {
+      "application_numbers": [
+        "NDA050706"
+      ],
+      "archived_versions": 23,
+      "brand_names": [
+        "MERREM"
+      ],
+      "first_posted": "2008-02-22",
+      "found_by": "MERREM",
+      "labeler": "AstraZeneca Pharmaceuticals LP",
+      "labeler_unverified": false,
+      "last_posted": "2019-07-22",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-02-28",
+        "2019-11-30"
+      ],
+      "product_ndcs": [
+        "0310-0321",
+        "0310-0325"
+      ],
+      "rxcui": [],
+      "setid": "c15e88d3-d903-4e7a-f683-e29f51afa848",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "MERREM IV (meropenem) injection"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d54fdbad-ca93-467c-92d7-c1bd88f3bbe3"
+    },
+    {
+      "combination": false,
+      "labeler": "BROOKS STERISCIENCE LIMITED",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6902fee1-6022-4145-a79a-4680ad1fb1e8"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8a2a545e-b336-416a-be73-9e0a7ccf6177"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "185181e3-c004-4d61-b992-5df94fe57a90"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7a68d899-2678-43a9-a9c1-ef8f916b562f"
+    },
+    {
+      "combination": false,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0d37e43b-ff8d-495d-b9af-4fd5fce53d56"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ca5f501c-6520-4d09-aae2-4f5db74d468f"
+    },
+    {
+      "combination": false,
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "092ebd9b-77a0-4877-afc3-dd8211730f71"
+    },
+    {
+      "combination": false,
+      "labeler": "Civica, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b0075b72-c3cc-f844-e053-2a95a90a417f"
+    },
+    {
+      "combination": false,
+      "labeler": "Xellia Pharmaceuticals USA LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "06d84c55-94ff-46e5-8477-b8881c12eb0a"
+    },
+    {
+      "combination": false,
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e9b6555f-20a1-4415-bb80-3d034cfab95b"
+    },
+    {
+      "combination": false,
+      "labeler": "ARMAS PHARMACEUTICALS INC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e1122310-c3ed-42f1-b189-301c221ff1f0"
+    },
+    {
+      "combination": false,
+      "labeler": "Qilu Antibiotics Pharmaceutical Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1f9591ed-3a6c-422e-b1be-7b3e4fe5bf3c"
+    },
+    {
+      "combination": false,
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f5154b6f-bca8-4f1e-907b-48ea34caf483"
+    },
+    {
+      "combination": false,
+      "labeler": "Civica, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "35466216-55ed-4836-8cbc-c8aafb079dae"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e8848f4a-bca9-4978-b0a1-38483fd4d639"
+    }
+  ]
+}

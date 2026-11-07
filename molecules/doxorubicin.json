@@ -1,0 +1,739 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "Caelyx is pegylated liposomal doxorubicin (US Doxil), not conventional doxorubicin",
+      "comparable_to_us": "no",
+      "ema_product_number": "EMEA/H/C/000089",
+      "eu_number": "EU/1/96/011",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000089",
+      "mah": "Baxter Holding B.V.",
+      "marketing_authorisation_date": "1996-06-20",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/caelyx-pegylated-liposomal",
+      "name": "Caelyx pegylated liposomal",
+      "record_from": "1996-06-21",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 29
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/000297",
+      "eu_number": "EU/1/00/141",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-000297",
+      "mah": "CHEPLAPHARM Arzneimittel GmbH",
+      "marketing_authorisation_date": "2000-07-13",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/myocet-liposomal",
+      "name": "Myocet liposomal (previously Myocet)",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/005320",
+      "eu_number": "EU/1/22/1629",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-005320",
+      "mah": "Accord Healthcare S.L.U.",
+      "marketing_authorisation_date": "2022-05-31",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/zolsketil-pegylated-liposomal",
+      "name": "Zolsketil pegylated liposomal",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000089",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "DOXORUBICIN HYDROCHLORIDE"
+  ],
+  "inn": "doxorubicin",
+  "name": "DOXORUBICIN",
+  "rank": 261,
+  "rxcui": [
+    "1191138",
+    "1790097",
+    "1790099",
+    "1790100",
+    "1790115",
+    "1790127",
+    "1790128",
+    "1790131"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 30,
+    "approval_holders": 20,
+    "earliest_marketing_start": "1996-05-01",
+    "latest_label_update": "2026-10-23",
+    "nda_bla_applications": 2,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "DOXORUBICIN HYDROCHLORIDE",
+      "unii": "82F2G7BL4E"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA050718"
+      ],
+      "brand_names": [
+        "DOXIL"
+      ],
+      "combination": false,
+      "home_inn": "doxorubicin",
+      "ingredients": [
+        "DOXORUBICIN HYDROCHLORIDE"
+      ],
+      "labeler": "Baxter Healthcare Company",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2019-08-13",
+      "moieties": [
+        "DOXORUBICIN"
+      ],
+      "product_ndcs": [
+        "0338-0063",
+        "0338-0067"
+      ],
+      "rxcui": [
+        "1790115",
+        "1790127",
+        "1790128",
+        "1790131"
+      ],
+      "setid": "1c153e9e-4cf2-4ac7-9cf9-16f9b48d7dce",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "DOXIL (DOXORUBICIN HYDROCHLORIDE) INJECTION, SUSPENSION, LIPOSOMAL [BAXTER HEALTHCARE COMPANY]",
+      "upload_date": "2026-06-03"
+    },
+    {
+      "application_numbers": [
+        "NDA050629"
+      ],
+      "brand_names": [
+        "Doxorubicin Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "doxorubicin",
+      "ingredients": [
+        "DOXORUBICIN HYDROCHLORIDE"
+      ],
+      "labeler": "Pfizer Laboratories Div Pfizer Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-07-22",
+      "moieties": [
+        "DOXORUBICIN"
+      ],
+      "product_ndcs": [
+        "0069-0277",
+        "0069-0343",
+        "0069-0358",
+        "0069-1542"
+      ],
+      "rxcui": [
+        "1191138",
+        "1790097",
+        "1790099",
+        "1790100"
+      ],
+      "setid": "1fd148fb-0fbc-4b6f-b790-23546fb46a71",
+      "source": "openfda",
+      "spl_version": 28,
+      "title": "DOXORUBICIN HYDROCHLORIDE INJECTION, SOLUTION [PFIZER LABORATORIES DIV PFIZER INC]",
+      "upload_date": "2026-05-07"
+    },
+    {
+      "application_numbers": [
+        "NDA050718"
+      ],
+      "brand_names": [
+        "DOXIL"
+      ],
+      "combination": false,
+      "home_inn": "doxorubicin",
+      "ingredients": [
+        "DOXORUBICIN HYDROCHLORIDE"
+      ],
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-08-26",
+      "moieties": [
+        "DOXORUBICIN"
+      ],
+      "product_ndcs": [
+        "0338-9665",
+        "0338-9667"
+      ],
+      "rxcui": [
+        "1790115",
+        "1790127",
+        "1790128",
+        "1790131"
+      ],
+      "setid": "917eddf9-1d3f-4abe-8c81-d33b066e5bae",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "DOXIL (DOXORUBICIN HYDROCHLORIDE) INJECTION, SUSPENSION, LIPOSOMAL [BAXTER HEALTHCARE CORPORATION]",
+      "upload_date": "2026-03-18"
+    },
+    {
+      "application_numbers": [
+        "NDA050629"
+      ],
+      "brand_names": [
+        "Doxorubicin Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "doxorubicin",
+      "ingredients": [
+        "DOXORUBICIN HYDROCHLORIDE"
+      ],
+      "labeler": "Pfizer Laboratories Div Pfizer Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-10-14",
+      "moieties": [
+        "DOXORUBICIN"
+      ],
+      "product_ndcs": [
+        "0069-0255",
+        "0069-1442",
+        "0069-3358",
+        "0069-4205"
+      ],
+      "rxcui": [
+        "1191138",
+        "1790097",
+        "1790099",
+        "1790100"
+      ],
+      "setid": "00634b2b-4e48-4178-8877-28582af894ad",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "DOXORUBICIN HYDROCHLORIDE INJECTION, SOLUTION [PFIZER LABORATORIES DIV PFIZER INC]",
+      "upload_date": "2026-05-01"
+    },
+    {
+      "application_numbers": [
+        "NDA050629"
+      ],
+      "brand_names": [
+        "Doxorubicin Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "doxorubicin",
+      "ingredients": [
+        "DOXORUBICIN HYDROCHLORIDE"
+      ],
+      "labeler": "Pfizer Laboratories Div Pfizer Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-03-31",
+      "moieties": [
+        "DOXORUBICIN"
+      ],
+      "product_ndcs": [
+        "0069-4031",
+        "0069-5629"
+      ],
+      "rxcui": [
+        "1790097",
+        "1790099"
+      ],
+      "setid": "d31d7f58-66d0-4826-b6b5-5914c031965f",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "DOXORUBICIN HYDROCHLORIDE INJECTION, SOLUTION [PFIZER LABORATORIES DIV PFIZER INC]",
+      "upload_date": "2025-04-02"
+    },
+    {
+      "application_numbers": [
+        "NDA050718"
+      ],
+      "brand_names": [
+        "Doxorubicin Hydrochloride Liposome"
+      ],
+      "combination": false,
+      "home_inn": "doxorubicin",
+      "ingredients": [
+        "DOXORUBICIN HYDROCHLORIDE"
+      ],
+      "labeler": "Baxter Healthcare Company",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2019-08-15",
+      "moieties": [
+        "DOXORUBICIN"
+      ],
+      "product_ndcs": [
+        "0338-0080",
+        "0338-0086"
+      ],
+      "rxcui": [
+        "1790115",
+        "1790127"
+      ],
+      "setid": "cf25a018-e795-49e4-8533-a581f8366dd9",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "DOXORUBICIN HYDROCHLORIDE LIPOSOME INJECTION, SUSPENSION, LIPOSOMAL [BAXTER HEALTHCARE COMPANY]",
+      "upload_date": "2025-11-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA062975",
+        "ANDA064097"
+      ],
+      "brand_names": [
+        "Doxorubicin Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "doxorubicin",
+      "ingredients": [
+        "DOXORUBICIN HYDROCHLORIDE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1996-05-01",
+      "moieties": [
+        "DOXORUBICIN"
+      ],
+      "product_ndcs": [
+        "0143-9084",
+        "0143-9085",
+        "0143-9086",
+        "0143-9087"
+      ],
+      "rxcui": [
+        "1191138",
+        "1790097",
+        "1790099",
+        "1790100"
+      ],
+      "setid": "36924f82-6c05-4989-9f41-a398c0ad48e6",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "DOXORUBICIN HYDROCHLORIDE INJECTION, SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2024-04-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA063277"
+      ],
+      "brand_names": [
+        "Doxorubicin Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "doxorubicin",
+      "ingredients": [
+        "DOXORUBICIN HYDROCHLORIDE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2000-04-14",
+      "moieties": [
+        "DOXORUBICIN"
+      ],
+      "product_ndcs": [
+        "63323-101",
+        "63323-883"
+      ],
+      "rxcui": [
+        "1191138",
+        "1790097",
+        "1790099",
+        "1790100"
+      ],
+      "setid": "e0349f98-42fa-4003-b6d8-a1db1401b0ef",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "DOXORUBICIN HYDROCHLORIDE (DOXORUBICIN HYDROCHLORIDE) INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2024-10-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA091418"
+      ],
+      "brand_names": [
+        "DOXOrubicin Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "doxorubicin",
+      "ingredients": [
+        "DOXORUBICIN HYDROCHLORIDE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-02-20",
+      "moieties": [
+        "DOXORUBICIN"
+      ],
+      "product_ndcs": [
+        "62756-826",
+        "62756-827"
+      ],
+      "rxcui": [
+        "1191138",
+        "1790100"
+      ],
+      "setid": "6bcde92b-e584-4919-866a-68847ea201ba",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "DOXORUBICIN HYDROCHLORIDE INJECTION, SOLUTION [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2022-01-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA203263"
+      ],
+      "brand_names": [
+        "Doxorubicin Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "doxorubicin",
+      "ingredients": [
+        "DOXORUBICIN HYDROCHLORIDE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-02-05",
+      "moieties": [
+        "DOXORUBICIN"
+      ],
+      "product_ndcs": [
+        "47335-049",
+        "47335-050"
+      ],
+      "rxcui": [
+        "1790115",
+        "1790127"
+      ],
+      "setid": "fbc48fa5-0bfb-4957-b13c-a56bb7a13b56",
+      "source": "openfda",
+      "spl_version": 24,
+      "title": "DOXORUBICIN HYDROCHLORIDE INJECTABLE, LIPOSOMAL [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2026-04-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA209825"
+      ],
+      "brand_names": [
+        "doxorubicin hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "doxorubicin",
+      "ingredients": [
+        "DOXORUBICIN HYDROCHLORIDE"
+      ],
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-10-31",
+      "moieties": [
+        "DOXORUBICIN"
+      ],
+      "product_ndcs": [
+        "25021-207"
+      ],
+      "rxcui": [
+        "1191138",
+        "1790100"
+      ],
+      "setid": "ae80bd3a-b99a-4e01-a444-b9d05687f00e",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "DOXORUBICIN HYDROCHLORIDE INJECTION, SOLUTION [SAGENT PHARMACEUTICALS]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "NDA050718"
+      ],
+      "archived_versions": 23,
+      "brand_names": [
+        "DOXIL"
+      ],
+      "first_posted": "2010-10-15",
+      "found_by": "DOXIL",
+      "labeler": "Janssen Products, LP",
+      "labeler_unverified": false,
+      "last_posted": "2019-08-19",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2020-09-30"
+      ],
+      "product_ndcs": [
+        "59676-960"
+      ],
+      "rxcui": [],
+      "setid": "21d9c619-7e94-49e2-ac41-31e9ea96554a",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "1c153e9e-4cf2-4ac7-9cf9-16f9b48d7dce",
+        "917eddf9-1d3f-4abe-8c81-d33b066e5bae",
+        "cf25a018-e795-49e4-8533-a581f8366dd9"
+      ],
+      "title": "DOXIL (doxorubicin hydrochloride) injection, suspension, liposomal"
+    },
+    {
+      "application_numbers": [
+        "NDA050718"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "DOXIL"
+      ],
+      "first_posted": "2008-02-08",
+      "found_by": "DOXIL",
+      "labeler": "ALZA Corporation",
+      "labeler_unverified": true,
+      "last_posted": "2012-06-04",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2012-05-31"
+      ],
+      "product_ndcs": [
+        "17314-9600"
+      ],
+      "rxcui": [],
+      "setid": "f764d619-d2dd-4081-8467-dd2ec2ac68c3",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "1c153e9e-4cf2-4ac7-9cf9-16f9b48d7dce",
+        "917eddf9-1d3f-4abe-8c81-d33b066e5bae",
+        "cf25a018-e795-49e4-8533-a581f8366dd9"
+      ],
+      "title": "DOXIL (doxorubicin hydrochloride) injectable, liposomal"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5f71f79a-4f14-472d-b982-e28c3ce8f972"
+    },
+    {
+      "combination": false,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "33ddfdb1-b4bc-464d-a186-49c4b156279f"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d928625e-c1ef-4f25-8d25-764c8c6aab67"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f62aa88d-1e25-4049-87ec-99d42edd1d31"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "15a84bd6-b565-4722-bb92-e4c919620a90"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0f8eb9a1-74d0-47fd-94b8-a65b29006521"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Laboratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0885dddf-727e-4692-92dd-a26c69cc278d"
+    },
+    {
+      "combination": false,
+      "labeler": "Qilu Pharmaceutical Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ed634b03-87cf-4a1c-a513-f34196dabd6f"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "971de64b-ff09-4370-afd9-6eb1093ad27d"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "74b14803-afc8-4a2e-ba92-43f1a72025eb"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ddf55319-bf62-4ec7-8be2-ef97188837c4"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bad467d4-7e27-4eda-b4d3-854460f0adab"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f6508535-e7a7-4e50-8d0c-43deda8d0d08"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b8b66e93-0813-4876-b291-8d7c36a99807"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c9cb8a8d-944f-4fe1-bfba-c55904a79fda"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f8e001f5-441c-47cd-86f6-5d5e3de16bc0"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c8eb4784-36e0-483f-9e5d-af0552e49bb5"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ada390ce-50ea-4de5-be58-5b03caf33c23"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "55889588-c5f1-d9bc-e063-6294a90a5791"
+    }
+  ]
+}

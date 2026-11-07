@@ -1,0 +1,100 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand TAGRISSO",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/004124",
+      "eu_number": "EU/1/16/1086",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-004124",
+      "mah": "AstraZeneca AB",
+      "marketing_authorisation_date": "2016-02-01",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tagrisso",
+      "name": "Tagrisso",
+      "record_from": "2016-02-02",
+      "record_to": "2026-11-03",
+      "role": "reference",
+      "versions": 15
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-004124",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "OSIMERTINIB"
+  ],
+  "inn": "osimertinib",
+  "name": "OSIMERTINIB",
+  "rank": 503,
+  "rxcui": [
+    "1721565",
+    "1721571",
+    "1721581",
+    "1721583"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "manual",
+  "stats": {
+    "approval_holder_setids": 1,
+    "approval_holders": 1,
+    "earliest_marketing_start": "2015-11-13",
+    "latest_label_update": "2026-09-25",
+    "nda_bla_applications": 1,
+    "repackagers": 0
+  },
+  "unii": [],
+  "unii_unresolved": [
+    "OSIMERTINIB"
+  ],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA208065"
+      ],
+      "brand_names": [
+        "TAGRISSO"
+      ],
+      "combination": false,
+      "home_inn": "osimertinib",
+      "ingredients": [
+        "OSIMERTINIB"
+      ],
+      "labeler": "AstraZeneca Pharmaceuticals LP",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-11-13",
+      "moieties": [
+        "OSIMERTINIB"
+      ],
+      "product_ndcs": [
+        "0310-1248",
+        "0310-1251",
+        "0310-1349",
+        "0310-1350"
+      ],
+      "rxcui": [
+        "1721565",
+        "1721571",
+        "1721581",
+        "1721583"
+      ],
+      "setid": "5e81b4a7-b971-45e1-9c31-29cea8c87ce7",
+      "source": "dailymed-title-match",
+      "spl_version": 37,
+      "title": "TAGRISSO (OSIMERTINIB) TABLET, FILM COATED [ASTRAZENECA PHARMACEUTICALS LP]",
+      "upload_date": "2026-09-25"
+    }
+  ],
+  "us_excluded": []
+}

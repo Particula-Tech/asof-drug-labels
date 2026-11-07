@@ -1,0 +1,774 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "FLUOROURACIL"
+  ],
+  "inn": "fluorouracil",
+  "name": "FLUOROURACIL",
+  "rank": 225,
+  "rxcui": [
+    "105583",
+    "213045",
+    "239177",
+    "284191",
+    "310379",
+    "310380",
+    "1669868",
+    "1669873",
+    "1791701",
+    "1791736"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 40,
+    "approval_holders": 21,
+    "earliest_marketing_start": "1970-07-29",
+    "latest_label_update": "2026-10-29",
+    "nda_bla_applications": 3,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "FLUOROURACIL",
+      "unii": "U3P01618RT"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA016831"
+      ],
+      "brand_names": [
+        "Efudex"
+      ],
+      "combination": false,
+      "home_inn": "fluorouracil",
+      "ingredients": [
+        "FLUOROURACIL"
+      ],
+      "labeler": "Bausch Health US, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1970-07-29",
+      "moieties": [
+        "FLUOROURACIL"
+      ],
+      "product_ndcs": [
+        "0187-3204"
+      ],
+      "rxcui": [
+        "105583",
+        "213045"
+      ],
+      "setid": "35de1c1c-bef5-46c5-b6f8-ea032147411c",
+      "source": "openfda",
+      "spl_version": 20,
+      "title": "EFUDEX (FLUOROURACIL) SOLUTION EFUDEX (FLUOROURACIL) CREAM [BAUSCH HEALTH US, LLC]",
+      "upload_date": "2025-04-25"
+    },
+    {
+      "application_numbers": [
+        "NDA022259"
+      ],
+      "brand_names": [
+        "TOLAK"
+      ],
+      "combination": false,
+      "home_inn": "fluorouracil",
+      "ingredients": [
+        "FLUOROURACIL"
+      ],
+      "labeler": "HILL DERMACEUTICALS, INC.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-09-18",
+      "moieties": [
+        "FLUOROURACIL"
+      ],
+      "product_ndcs": [
+        "28105-421"
+      ],
+      "rxcui": [
+        "1669868",
+        "1669873"
+      ],
+      "setid": "59de2709-00b8-4f0a-867c-f0dfeb947192",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "TOLAK (FLUOROURACIL) CREAM [HILL DERMACEUTICALS, INC.]",
+      "upload_date": "2022-09-28"
+    },
+    {
+      "application_numbers": [
+        "NDA220201"
+      ],
+      "brand_names": [
+        "FAVLYXA"
+      ],
+      "combination": false,
+      "home_inn": "fluorouracil",
+      "ingredients": [
+        "FLUOROURACIL"
+      ],
+      "labeler": "Avyxa Pharma, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2026-04-01",
+      "moieties": [
+        "FLUOROURACIL"
+      ],
+      "product_ndcs": [
+        "83831-143",
+        "83831-164"
+      ],
+      "rxcui": [],
+      "setid": "1daf714b-704c-4bcc-b6e0-6f0eb2bfe66b",
+      "source": "dailymed-title-match",
+      "spl_version": 8,
+      "title": "FAVLYXA (FLUOROURACIL) INJECTION, SOLUTION [AVYXA PHARMA, LLC]",
+      "upload_date": "2026-10-29"
+    },
+    {
+      "application_numbers": [
+        "NDA016831"
+      ],
+      "brand_names": [
+        "Fluorouracil"
+      ],
+      "combination": false,
+      "home_inn": "fluorouracil",
+      "ingredients": [
+        "FLUOROURACIL"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2013-09-19",
+      "moieties": [
+        "FLUOROURACIL"
+      ],
+      "product_ndcs": [
+        "0378-4791"
+      ],
+      "rxcui": [],
+      "setid": "744737c5-0d96-4214-82ab-6cff016b1ea0",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "FLUOROURACIL CREAM [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2023-07-10"
+    },
+    {
+      "application_numbers": [
+        "NDA020985"
+      ],
+      "brand_names": [
+        "FLUOROURACIL"
+      ],
+      "combination": false,
+      "home_inn": "fluorouracil",
+      "ingredients": [
+        "FLUOROURACIL"
+      ],
+      "labeler": "Dr. Reddy's Laboratories Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2025-07-06",
+      "moieties": [
+        "FLUOROURACIL"
+      ],
+      "product_ndcs": [
+        "75907-169"
+      ],
+      "rxcui": [
+        "284191"
+      ],
+      "setid": "37dcfb83-0e7d-d23d-9cd5-afa5bdc30628",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "FLUOROURACIL (FLUOROURACIL CREAM, 0.5%) CREAM [DR. REDDY'S LABORATORIES INC.]",
+      "upload_date": "2025-07-14"
+    },
+    {
+      "application_numbers": [
+        "ANDA040278"
+      ],
+      "brand_names": [
+        "Fluorouracil"
+      ],
+      "combination": false,
+      "home_inn": "fluorouracil",
+      "ingredients": [
+        "FLUOROURACIL"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2000-07-12",
+      "moieties": [
+        "FLUOROURACIL"
+      ],
+      "product_ndcs": [
+        "63323-117"
+      ],
+      "rxcui": [
+        "239177",
+        "1791701",
+        "1791736"
+      ],
+      "setid": "21af1777-87f7-4e40-9917-f1677e7ff1a5",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "FLUOROURACIL INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2026-06-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA040279"
+      ],
+      "brand_names": [
+        "Fluorouracil"
+      ],
+      "combination": false,
+      "home_inn": "fluorouracil",
+      "ingredients": [
+        "FLUOROURACIL"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2000-07-12",
+      "moieties": [
+        "FLUOROURACIL"
+      ],
+      "product_ndcs": [
+        "63323-117"
+      ],
+      "rxcui": [
+        "239177",
+        "1791701",
+        "1791736"
+      ],
+      "setid": "a85ab26a-05ea-498f-8f34-564a925fa9d9",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "FLUOROURACIL INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2026-06-26"
+    },
+    {
+      "application_numbers": [
+        "ANDA076526"
+      ],
+      "brand_names": [
+        "Fluorouracil"
+      ],
+      "combination": false,
+      "home_inn": "fluorouracil",
+      "ingredients": [
+        "FLUOROURACIL"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2003-11-05",
+      "moieties": [
+        "FLUOROURACIL"
+      ],
+      "product_ndcs": [
+        "51672-4062",
+        "51672-4063"
+      ],
+      "rxcui": [
+        "310379",
+        "310380"
+      ],
+      "setid": "1b2f6145-b338-42ed-88a7-f4da65c59164",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "FLUOROURACIL SOLUTION [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2026-07-16"
+    },
+    {
+      "application_numbers": [
+        "ANDA090368"
+      ],
+      "brand_names": [
+        "Fluorouracil"
+      ],
+      "combination": false,
+      "home_inn": "fluorouracil",
+      "ingredients": [
+        "FLUOROURACIL"
+      ],
+      "labeler": "NORTHSTAR RX LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-03-05",
+      "moieties": [
+        "FLUOROURACIL"
+      ],
+      "product_ndcs": [
+        "16714-178"
+      ],
+      "rxcui": [
+        "105583"
+      ],
+      "setid": "52ef5f41-2312-4b55-aa86-abd5bb28b9d3",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "FLUOROURACIL CREAM [NORTHSTAR RX LLC]",
+      "upload_date": "2026-07-10"
+    },
+    {
+      "application_numbers": [
+        "NDA016988"
+      ],
+      "archived_versions": 8,
+      "brand_names": [
+        "FLUOROPLEX"
+      ],
+      "first_posted": "2012-11-16",
+      "found_by": "FLUOROPLEX",
+      "labeler": "Almirall, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2025-11-18",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-01-31"
+      ],
+      "product_ndcs": [
+        "16110-812"
+      ],
+      "rxcui": [],
+      "setid": "258bb79a-56b3-4f46-ade6-7331ec031074",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "FLUOROPLEX (fluorouracil) cream"
+    },
+    {
+      "application_numbers": [
+        "NDA020985"
+      ],
+      "archived_versions": 10,
+      "brand_names": [
+        "CARAC"
+      ],
+      "first_posted": "2013-06-28",
+      "found_by": "CARAC",
+      "labeler": "Bausch Health US, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2024-12-16",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-07-19"
+      ],
+      "product_ndcs": [
+        "0187-5200"
+      ],
+      "rxcui": [],
+      "setid": "6795f2b1-1381-4a4f-ad34-2c28ebd1cfaf",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "37dcfb83-0e7d-d23d-9cd5-afa5bdc30628"
+      ],
+      "title": "CARAC (fluorouracil) cream"
+    },
+    {
+      "application_numbers": [
+        "NDA020985"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "CARAC"
+      ],
+      "first_posted": "2008-02-08",
+      "found_by": "CARAC",
+      "labeler": "Dermik Laboratories",
+      "labeler_unverified": true,
+      "last_posted": "2014-03-26",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-11-30"
+      ],
+      "product_ndcs": [
+        "0066-7150"
+      ],
+      "rxcui": [],
+      "setid": "8379f1db-4255-4285-abd3-8ecdcaf03372",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "37dcfb83-0e7d-d23d-9cd5-afa5bdc30628"
+      ],
+      "title": "CARAC (fluorouracil) cream"
+    },
+    {
+      "application_numbers": [
+        "NDA016988"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "FLUOROPLEX"
+      ],
+      "first_posted": "2007-05-04",
+      "found_by": "FLUOROPLEX",
+      "labeler": "Allergan, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2012-01-23",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-05-01"
+      ],
+      "product_ndcs": [
+        "0023-0812"
+      ],
+      "rxcui": [],
+      "setid": "d33749f0-0205-4ad2-bc8a-83482e379ef7",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "FLUOROPLEX (fluorouracil) cream"
+    },
+    {
+      "application_numbers": [
+        "NDA022259"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "TOLAK"
+      ],
+      "first_posted": "2017-03-16",
+      "found_by": "TOLAK",
+      "labeler": "Pierre Fabre Pharmaceuticals, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2019-11-01",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2020-12-31"
+      ],
+      "product_ndcs": [
+        "64370-421"
+      ],
+      "rxcui": [],
+      "setid": "e37ae7a6-7074-4744-8d56-c85d7e4ad587",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "59de2709-00b8-4f0a-867c-f0dfeb947192"
+      ],
+      "title": "TOLAK (fluorouracil) cream"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Accord Healthcare, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "66d451fe-2436-494c-80c5-4528c8e34369"
+    },
+    {
+      "combination": false,
+      "labeler": "Accord Healthcare, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8eff167f-203a-4a81-b2fc-d8773bc3555e"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "37e35e8c-5d51-413b-a3a0-b72a18caaf65"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "572b710e-8e2b-46eb-bd80-648ad769d34d"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ea3497db-23b9-4ace-9a6f-b54853d04a82"
+    },
+    {
+      "combination": false,
+      "labeler": "Mayne Pharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "06475bd8-66d9-4f88-90e4-b367480dab39"
+    },
+    {
+      "combination": false,
+      "labeler": "Accord Healthcare Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "667d4059-de90-4d3f-86c2-c2573def2ecb"
+    },
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "199ef964-8a9b-403e-a2ae-759280b3d1d1"
+    },
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "697816ce-dc05-4943-b7f0-2f0b125e93b7"
+    },
+    {
+      "combination": false,
+      "labeler": "Encube Ethicals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2c631ce7-ea15-4b51-b5bc-4962e3c315cd"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a0cd6301-c6e0-4b62-8683-39c99913db24"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "de8a3fce-85a9-4a77-a3cd-e50179b93098"
+    },
+    {
+      "combination": false,
+      "labeler": "Encube Ethicals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "30294dd2-40fb-420d-b838-376343308895"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b4328ae3-f48f-40b1-9719-1c1aced7c734"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "beb8c6c5-4b6e-4770-b6d4-718e33c7a2ff"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fdf2a165-2ca4-48be-89c1-570e6010b47c"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "acca0036-f19c-459b-9dfc-9592f1cd588d"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c45f5286-a52b-43e5-8a6f-d0312e7da0c8"
+    },
+    {
+      "combination": false,
+      "labeler": "Xiromed LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "19735014-c6fb-0a05-c330-2e9389c71216"
+    },
+    {
+      "combination": false,
+      "labeler": "Xiromed LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f4b0cae1-a2fc-2991-d663-3b729503cd1c"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "300304fa-4791-4455-962c-493ae467f504"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9c42eeff-ab0c-4820-94d7-e1a3df9fda74"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c612b05f-f37d-47fa-9c1e-b2d876dd7093"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cdf07a8b-91ee-424f-8c04-34f53dfb82be"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6b34cbf2-66f9-48a4-b41f-deb84ba8e8c4"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d10f12a2-7b38-4351-93df-1e8444d2a9e4"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fdee9255-9447-4ae7-951d-b694802b5966"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b6b0d9e2-c6f0-4523-a33b-b958d32d3a28"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Labratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e137c766-1f7f-0251-90b9-450c3d4d78b9"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b268684b-487f-4716-a2e8-6e6d3e117b14"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f0b60247-89ff-42b5-a55b-61980c282749"
+    }
+  ]
+}

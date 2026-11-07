@@ -1,0 +1,340 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/001176",
+      "eu_number": "EU/1/10/643",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-001176",
+      "mah": "GE Healthcare AS ",
+      "marketing_authorisation_date": "2010-09-06",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/rapiscan",
+      "name": "Rapiscan",
+      "record_from": "2010-09-06",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 17
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-001176",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "REGADENOSON",
+    "REGADENOSON ANHYDROUS"
+  ],
+  "inn": "regadenoson",
+  "name": "REGADENOSON",
+  "rank": 471,
+  "rxcui": [],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 14,
+    "approval_holders": 13,
+    "earliest_marketing_start": "2008-04-10",
+    "latest_label_update": "2026-09-21",
+    "nda_bla_applications": 1,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "REGADENOSON",
+      "unii": "2XLN4Y044H"
+    },
+    {
+      "ingredient": "REGADENOSON ANHYDROUS",
+      "unii": "7AXV542LZ4"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA022161"
+      ],
+      "brand_names": [
+        "LEXISCAN"
+      ],
+      "combination": false,
+      "home_inn": "regadenoson",
+      "ingredients": [
+        "REGADENOSON"
+      ],
+      "labeler": "Astellas Pharma US, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2008-04-10",
+      "moieties": [
+        "REGADENOSON"
+      ],
+      "product_ndcs": [
+        "0469-6501"
+      ],
+      "rxcui": [],
+      "setid": "057289f4-2e18-4c1e-bed4-6c1858e2ef16",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "LEXISCAN (REGADENOSON) INJECTION, SOLUTION [ASTELLAS PHARMA US, INC.]",
+      "upload_date": "2019-01-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA212806"
+      ],
+      "brand_names": [
+        "Regadenoson"
+      ],
+      "combination": false,
+      "home_inn": "regadenoson",
+      "ingredients": [
+        "REGADENOSON"
+      ],
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-04-11",
+      "moieties": [
+        "REGADENOSON"
+      ],
+      "product_ndcs": [
+        "71288-201"
+      ],
+      "rxcui": [],
+      "setid": "a550b451-fb30-4c1c-a60e-6e40fba20c88",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "REGADENOSON INJECTION, SOLUTION [MEITHEAL PHARMACEUTICALS INC.]",
+      "upload_date": "2022-04-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA207320"
+      ],
+      "brand_names": [
+        "Regadenoson"
+      ],
+      "combination": false,
+      "home_inn": "regadenoson",
+      "ingredients": [
+        "REGADENOSON"
+      ],
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-07-12",
+      "moieties": [
+        "REGADENOSON"
+      ],
+      "product_ndcs": [
+        "68083-175"
+      ],
+      "rxcui": [],
+      "setid": "5e4109f0-4875-4f8e-b70d-4055b3a785a3",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "REGADENOSON INJECTION, SOLUTION [GLAND PHARMA LIMITED]",
+      "upload_date": "2022-07-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA216437"
+      ],
+      "brand_names": [
+        "regadenoson"
+      ],
+      "combination": false,
+      "home_inn": "regadenoson",
+      "ingredients": [
+        "REGADENOSON"
+      ],
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-10-26",
+      "moieties": [
+        "REGADENOSON"
+      ],
+      "product_ndcs": [
+        "55150-443"
+      ],
+      "rxcui": [],
+      "setid": "b553eb2d-0c3f-444e-ad4c-282328683110",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "REGADENOSON INJECTION [EUGIA US LLC]",
+      "upload_date": "2023-12-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA214349"
+      ],
+      "brand_names": [
+        "Regadenoson"
+      ],
+      "combination": false,
+      "home_inn": "regadenoson",
+      "ingredients": [
+        "REGADENOSON ANHYDROUS"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-03-01",
+      "moieties": [
+        "REGADENOSON"
+      ],
+      "product_ndcs": [
+        "0409-1401"
+      ],
+      "rxcui": [],
+      "setid": "0e3f080d-b1fb-47ed-8cd3-90a4206fa704",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "REGADENOSON INJECTION, SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2025-12-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA207604"
+      ],
+      "brand_names": [
+        "Regadenoson"
+      ],
+      "combination": false,
+      "home_inn": "regadenoson",
+      "ingredients": [
+        "REGADENOSON"
+      ],
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-03-10",
+      "moieties": [
+        "REGADENOSON"
+      ],
+      "product_ndcs": [
+        "60505-6116",
+        "60505-6288"
+      ],
+      "rxcui": [],
+      "setid": "88909dc6-502a-61b1-b8e1-22a42da65847",
+      "source": "dailymed-title-match",
+      "spl_version": 3,
+      "title": "REGADENOSON INJECTION, SOLUTION [APOTEX CORP.]",
+      "upload_date": "2026-09-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA215827"
+      ],
+      "brand_names": [
+        "Regadenoson"
+      ],
+      "combination": false,
+      "home_inn": "regadenoson",
+      "ingredients": [
+        "REGADENOSON ANHYDROUS"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-04-03",
+      "moieties": [
+        "REGADENOSON"
+      ],
+      "product_ndcs": [
+        "0641-6253"
+      ],
+      "rxcui": [],
+      "setid": "9e48b407-1ce3-461d-b48e-de183802de25",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "REGADENOSON INJECTION, SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2024-04-12"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "International Medication Systems, Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "288c76cc-ff3e-47ea-ae02-be566bd3e093"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Laboratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "03ef6420-8190-a404-f7f6-def1864a77de"
+    },
+    {
+      "combination": false,
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a81d66a7-b714-439e-ad7b-c7caf9d6f3b8"
+    },
+    {
+      "combination": false,
+      "labeler": "Indies Pharma Jamaica Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5095ab40-8503-46db-9b08-6a36f05fb5d9"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "af131207-097f-3901-e711-fba004944076"
+    },
+    {
+      "combination": false,
+      "labeler": "Marlex Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "843bfba9-47de-4d76-843a-997bb4564f6e"
+    },
+    {
+      "combination": false,
+      "labeler": "Kanchan Healthcare Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b183399d-b8dc-4924-90cd-a1c2247742f3"
+    }
+  ]
+}

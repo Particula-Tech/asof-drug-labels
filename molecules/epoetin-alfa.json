@@ -1,0 +1,333 @@
+{
+  "biologic": true,
+  "eu": [
+    {
+      "biosimilar": true,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/000725",
+      "eu_number": "EU/1/07/410",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-000725",
+      "mah": "Sandoz GmbH",
+      "marketing_authorisation_date": "2007-08-28",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/binocrit",
+      "name": "Binocrit",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": true,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/000726",
+      "eu_number": "EU/1/07/411",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-000726",
+      "mah": "Hexal AG",
+      "marketing_authorisation_date": "2007-08-27",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/epoetin-alfa-hexal",
+      "name": "Epoetin Alfa Hexal",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": true,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/000727",
+      "eu_number": "EU/1/07/412",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-000727",
+      "mah": "Medice Arzneimittel Pütter GmbH  Co. KG",
+      "marketing_authorisation_date": "2007-08-27",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/abseamed",
+      "name": "Abseamed",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "only generic or biosimilar central products under this exact INN",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "EPOETIN"
+  ],
+  "inn": "epoetin-alfa",
+  "name": "EPOETIN ALFA",
+  "rank": 392,
+  "rxcui": [
+    "205912",
+    "205913",
+    "205917",
+    "205918",
+    "205921",
+    "205922",
+    "205923",
+    "205924",
+    "212218",
+    "212219",
+    "213475",
+    "239998",
+    "239999",
+    "240000",
+    "240377",
+    "241999",
+    "242706",
+    "1721684",
+    "1721685",
+    "1721690",
+    "2047591",
+    "2047596",
+    "2047600",
+    "2047602",
+    "2047606",
+    "2047608",
+    "2047612",
+    "2047614",
+    "2047621",
+    "2047623",
+    "2463731",
+    "2463733",
+    "2463735",
+    "2463737"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 4,
+    "approval_holders": 4,
+    "earliest_marketing_start": "1989-06-01",
+    "latest_label_update": "2026-07-01",
+    "nda_bla_applications": 2,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "EPOETIN",
+      "unii": "64FS3BFH5W"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "BLA103234"
+      ],
+      "brand_names": [
+        "PROCRIT"
+      ],
+      "combination": false,
+      "home_inn": "epoetin-alfa",
+      "ingredients": [
+        "EPOETIN"
+      ],
+      "labeler": "Janssen Products, LP",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "1989-06-01",
+      "moieties": [
+        "EPOETIN ALFA"
+      ],
+      "product_ndcs": [
+        "59676-302",
+        "59676-303",
+        "59676-304",
+        "59676-310",
+        "59676-312",
+        "59676-320",
+        "59676-340"
+      ],
+      "rxcui": [
+        "205913",
+        "205918",
+        "205922",
+        "205924",
+        "212219",
+        "213475",
+        "239998",
+        "239999",
+        "240000",
+        "240377",
+        "241999",
+        "242706",
+        "1721684",
+        "1721690"
+      ],
+      "setid": "0c721ba4-ae19-417f-aae1-221ed1a0866a",
+      "source": "openfda",
+      "spl_version": 31,
+      "title": "PROCRIT (ERYTHROPOIETIN) INJECTION, SOLUTION [JANSSEN PRODUCTS, LP]",
+      "upload_date": "2025-04-10"
+    },
+    {
+      "application_numbers": [
+        "BLA125545"
+      ],
+      "brand_names": [
+        "RETACRIT"
+      ],
+      "combination": false,
+      "home_inn": "epoetin-alfa",
+      "ingredients": [
+        "EPOETIN"
+      ],
+      "labeler": "Pfizer Laboratories Div Pfizer Inc",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2018-06-18",
+      "moieties": [
+        "EPOETIN ALFA"
+      ],
+      "product_ndcs": [
+        "0069-1305",
+        "0069-1306",
+        "0069-1307",
+        "0069-1308",
+        "0069-1309",
+        "0069-1311",
+        "0069-1318"
+      ],
+      "rxcui": [
+        "2047591",
+        "2047596",
+        "2047600",
+        "2047602",
+        "2047606",
+        "2047608",
+        "2047612",
+        "2047614",
+        "2047621",
+        "2047623",
+        "2463731",
+        "2463733",
+        "2463735",
+        "2463737"
+      ],
+      "setid": "3af26b0d-8ad0-44e1-a538-8bdb5ab39374",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "RETACRIT (EPOETIN ALFA-EPBX) INJECTION, SOLUTION [PFIZER LABORATORIES DIV PFIZER INC]",
+      "upload_date": "2025-06-26"
+    },
+    {
+      "application_numbers": [
+        "BLA103234"
+      ],
+      "brand_names": [
+        "EPOGEN"
+      ],
+      "combination": false,
+      "home_inn": "epoetin-alfa",
+      "ingredients": [
+        "EPOETIN"
+      ],
+      "labeler": "Amgen, Inc",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "1989-06-30",
+      "moieties": [
+        "EPOETIN ALFA"
+      ],
+      "product_ndcs": [
+        "55513-126",
+        "55513-144",
+        "55513-148",
+        "55513-267",
+        "55513-283",
+        "55513-478"
+      ],
+      "rxcui": [
+        "205912",
+        "205917",
+        "205921",
+        "205923",
+        "212218",
+        "239998",
+        "239999",
+        "240000",
+        "240377",
+        "241999",
+        "1721684",
+        "1721685"
+      ],
+      "setid": "1f2d0b28-9cc5-4523-80b8-637fdaf3f7a5",
+      "source": "openfda",
+      "spl_version": 137,
+      "title": "EPOGEN (EPOETIN ALFA) SOLUTION [AMGEN, INC]",
+      "upload_date": "2026-07-01"
+    },
+    {
+      "application_numbers": [
+        "BLA125545"
+      ],
+      "brand_names": [
+        "RETACRIT"
+      ],
+      "combination": false,
+      "home_inn": "epoetin-alfa",
+      "ingredients": [
+        "EPOETIN"
+      ],
+      "labeler": "Vifor (International) Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2018-06-18",
+      "moieties": [
+        "EPOETIN ALFA"
+      ],
+      "product_ndcs": [
+        "59353-002",
+        "59353-003",
+        "59353-004",
+        "59353-010",
+        "59353-120",
+        "59353-220"
+      ],
+      "rxcui": [
+        "2047591",
+        "2047596",
+        "2047600",
+        "2047602",
+        "2047606",
+        "2047608",
+        "2047612",
+        "2047614",
+        "2463731",
+        "2463733",
+        "2463735",
+        "2463737"
+      ],
+      "setid": "e6e4dd0c-25ca-40b2-ba6b-6138a68621fe",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "RETACRIT (EPOETIN ALFA-EPBX) INJECTION, SOLUTION [VIFOR (INTERNATIONAL) INC.]",
+      "upload_date": "2025-06-26"
+    }
+  ],
+  "us_excluded": []
+}

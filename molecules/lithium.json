@@ -1,0 +1,546 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "LITHIUM CARBONATE",
+    "LITHIUM CITRATE"
+  ],
+  "inn": "lithium",
+  "name": "LITHIUM",
+  "rank": 250,
+  "rxcui": [
+    "197889",
+    "197890",
+    "197891",
+    "197892",
+    "197893",
+    "206786",
+    "311355",
+    "756059"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 20,
+    "approval_holders": 12,
+    "earliest_marketing_start": "1980-11-26",
+    "latest_label_update": "2026-09-14",
+    "nda_bla_applications": 3,
+    "repackagers": 14
+  },
+  "unii": [
+    {
+      "ingredient": "LITHIUM CARBONATE",
+      "unii": "2BMD2GNA4V"
+    },
+    {
+      "ingredient": "LITHIUM CITRATE",
+      "unii": "5Z6E9K79YV"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA017812",
+        "NDA018558"
+      ],
+      "brand_names": [
+        "Lithium Carbonate"
+      ],
+      "combination": false,
+      "home_inn": "lithium",
+      "ingredients": [
+        "LITHIUM CARBONATE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1980-11-26",
+      "moieties": [
+        "LITHIUM"
+      ],
+      "product_ndcs": [
+        "0054-2526",
+        "0054-2527",
+        "0054-2531",
+        "0054-4527",
+        "0054-8526",
+        "0054-8527",
+        "0054-8528"
+      ],
+      "rxcui": [
+        "197889",
+        "197890",
+        "197893",
+        "311355",
+        "756059"
+      ],
+      "setid": "7dc9c6d2-6d9a-49e4-a8ab-437b0ed5f84e",
+      "source": "openfda",
+      "spl_version": 28,
+      "title": "LITHIUM CARBONATE TABLET LITHIUM CARBONATE CAPSULE, GELATIN COATED LITHIUM SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2023-11-29"
+    },
+    {
+      "application_numbers": [
+        "NDA018027"
+      ],
+      "brand_names": [
+        "LITHOBID"
+      ],
+      "combination": false,
+      "home_inn": "lithium",
+      "ingredients": [
+        "LITHIUM CARBONATE"
+      ],
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2014-07-01",
+      "moieties": [
+        "LITHIUM"
+      ],
+      "product_ndcs": [
+        "62559-280"
+      ],
+      "rxcui": [
+        "197891",
+        "206786"
+      ],
+      "setid": "f7f5b69a-c2a1-4586-a189-1475d41387c0",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "LITHOBID (LITHIUM CARBONATE) TABLET, FILM COATED, EXTENDED RELEASE [ANI PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-08-24"
+    },
+    {
+      "application_numbers": [
+        "NDA017812",
+        "NDA018558"
+      ],
+      "brand_names": [
+        "Lithium Carbonate"
+      ],
+      "combination": false,
+      "home_inn": "lithium",
+      "ingredients": [
+        "LITHIUM CARBONATE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2026-08-16",
+      "moieties": [
+        "LITHIUM"
+      ],
+      "product_ndcs": [
+        "0054-0886",
+        "0054-0887",
+        "0054-0890",
+        "0054-0891"
+      ],
+      "rxcui": [
+        "197889",
+        "197890",
+        "197893",
+        "311355"
+      ],
+      "setid": "b839ff4b-f62d-41ab-a823-550a756d58ec",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "LITHIUM CARBONATE TABLET LITHIUM CARBONATE CAPSULE, GELATIN COATED [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2026-09-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA076691"
+      ],
+      "brand_names": [
+        "Lithium Carbonate"
+      ],
+      "combination": false,
+      "home_inn": "lithium",
+      "ingredients": [
+        "LITHIUM CARBONATE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2004-01-13",
+      "moieties": [
+        "LITHIUM"
+      ],
+      "product_ndcs": [
+        "0054-0020"
+      ],
+      "rxcui": [
+        "197892"
+      ],
+      "setid": "a226a88d-eb57-4c96-afda-939801bca0a9",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "LITHIUM CARBONATE TABLET, EXTENDED RELEASE [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2023-07-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA076832"
+      ],
+      "brand_names": [
+        "Lithium Carbonate"
+      ],
+      "combination": false,
+      "home_inn": "lithium",
+      "ingredients": [
+        "LITHIUM CARBONATE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2004-10-28",
+      "moieties": [
+        "LITHIUM"
+      ],
+      "product_ndcs": [
+        "0054-0021"
+      ],
+      "rxcui": [
+        "197891"
+      ],
+      "setid": "c612b6c5-eeb9-4fdd-8c85-bb3d2147cd1e",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "LITHIUM CARBONATE TABLET, EXTENDED RELEASE [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2023-07-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA079139"
+      ],
+      "brand_names": [
+        "Lithium Carbonate"
+      ],
+      "combination": false,
+      "home_inn": "lithium",
+      "ingredients": [
+        "LITHIUM CARBONATE"
+      ],
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-02-03",
+      "moieties": [
+        "LITHIUM"
+      ],
+      "product_ndcs": [
+        "68462-220",
+        "68462-221",
+        "68462-222"
+      ],
+      "rxcui": [
+        "197889",
+        "197893",
+        "311355"
+      ],
+      "setid": "63b3790f-a9b5-47f4-bae1-ddf8b43c13c1",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "LITHIUM CARBONATE CAPSULE [GLENMARK PHARMACEUTICALS INC., USA]",
+      "upload_date": "2025-12-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA090702"
+      ],
+      "brand_names": [
+        "lithium carbonate"
+      ],
+      "combination": false,
+      "home_inn": "lithium",
+      "ingredients": [
+        "LITHIUM CARBONATE"
+      ],
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-12-15",
+      "moieties": [
+        "LITHIUM"
+      ],
+      "product_ndcs": [
+        "31722-544",
+        "31722-545",
+        "31722-546"
+      ],
+      "rxcui": [
+        "197889",
+        "197893",
+        "311355"
+      ],
+      "setid": "04518b80-7563-4544-bf05-04f286223faa",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "LITHIUM CARBONATE (LITHIUM CARBONATE) CAPSULE [CAMBER PHARMACEUTICALS, INC.]",
+      "upload_date": "2022-12-27"
+    },
+    {
+      "application_numbers": [
+        "ANDA091027"
+      ],
+      "brand_names": [
+        "Lithium Carbonate"
+      ],
+      "combination": false,
+      "home_inn": "lithium",
+      "ingredients": [
+        "LITHIUM CARBONATE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-07-08",
+      "moieties": [
+        "LITHIUM"
+      ],
+      "product_ndcs": [
+        "62756-430"
+      ],
+      "rxcui": [
+        "197890"
+      ],
+      "setid": "d3284649-ed4c-4096-987b-4ac16b8278f2",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "LITHIUM CARBONATE TABLET [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2023-10-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA091544"
+      ],
+      "brand_names": [
+        "Lithium Carbonate"
+      ],
+      "combination": false,
+      "home_inn": "lithium",
+      "ingredients": [
+        "LITHIUM CARBONATE"
+      ],
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-12-27",
+      "moieties": [
+        "LITHIUM"
+      ],
+      "product_ndcs": [
+        "68462-223"
+      ],
+      "rxcui": [
+        "197891"
+      ],
+      "setid": "1b65d27e-5086-4a87-8387-c49f3d060978",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "LITHIUM CARBONATE TABLET, FILM COATED, EXTENDED RELEASE [GLENMARK PHARMACEUTICALS INC., USA]",
+      "upload_date": "2026-02-02"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "ESKALITH"
+      ],
+      "first_posted": "2007-06-25",
+      "found_by": "ESKALITH",
+      "labeler": "GlaxoSmithKline",
+      "labeler_unverified": true,
+      "last_posted": "2007-06-25",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0007-4007",
+        "0007-4010"
+      ],
+      "rxcui": [],
+      "setid": "a556610d-5e10-4815-bfa0-1f929497b6ab",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "eskalith (lithium carbonate) capsule, gelatin coated eskalith cr (lithium carbonate) tablet, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA018027"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "LITHOBID"
+      ],
+      "first_posted": "2008-03-13",
+      "found_by": "LITHOBID",
+      "labeler": "NOVEN THERAPEUTICS, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2016-08-19",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-10-01"
+      ],
+      "product_ndcs": [
+        "68968-4492"
+      ],
+      "rxcui": [],
+      "setid": "ea4ece7f-e81f-48de-b262-577db5b6fe6c",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "f7f5b69a-c2a1-4586-a189-1475d41387c0"
+      ],
+      "title": "LITHOBID (lithium carbonate) tablet, film coated, extended release"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "LITHOBID"
+      ],
+      "first_posted": "2007-06-14",
+      "found_by": "LITHOBID",
+      "labeler": "JDS Pharmaceuticals, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2007-06-14",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "68968-4492"
+      ],
+      "rxcui": [],
+      "setid": "lea4ece7f-e81f-48de-b262-577db5b6fe6c",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "lithobid (lithium carbonate) tablet, film coated, extended release"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "525a9d9b-cbb1-4644-a28a-8bba96f09348"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3418bdb6-12ac-4626-9de5-44987b73ae89"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4ca2b977-b94c-4232-9b7e-835db97c9544"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8e950a50-689d-4bf8-87ce-cffd43c6d5c2"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5e18d105-662d-4729-aa81-00be7472adde"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "074e3c3b-3a36-4c66-b0a7-e19f9aac8548"
+    },
+    {
+      "combination": false,
+      "labeler": "Advagen Pharma Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ff9baf45-830f-4a8a-8986-5caeaa1b38cf"
+    },
+    {
+      "combination": false,
+      "labeler": "Saptalis Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e95036c7-542a-437a-969b-f95f6f949f84"
+    },
+    {
+      "combination": false,
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "677b20c4-84f0-4716-aca3-aead3bbe1283"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d1800f34-3d67-4b2f-874e-8639b125d853"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a1e2f942-2bc0-4afd-91ad-6c4cab38c8f0"
+    }
+  ]
+}

@@ -1,0 +1,692 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "TRANEXAMIC ACID"
+  ],
+  "inn": "tranexamic-acid",
+  "name": "TRANEXAMIC ACID",
+  "rank": 95,
+  "rxcui": [
+    "208104",
+    "238720",
+    "883826",
+    "2170286"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 38,
+    "approval_holders": 31,
+    "earliest_marketing_start": "1986-12-30",
+    "latest_label_update": "2026-10-29",
+    "nda_bla_applications": 2,
+    "repackagers": 6
+  },
+  "unii": [
+    {
+      "ingredient": "TRANEXAMIC ACID",
+      "unii": "6T84R30KC1"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA019281"
+      ],
+      "brand_names": [
+        "Cyklokapron"
+      ],
+      "combination": false,
+      "home_inn": "tranexamic-acid",
+      "ingredients": [
+        "TRANEXAMIC ACID"
+      ],
+      "labeler": "Pfizer Laboratories Div Pfizer Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1986-12-30",
+      "moieties": [
+        "TRANEXAMIC ACID"
+      ],
+      "product_ndcs": [
+        "0013-1114"
+      ],
+      "rxcui": [
+        "208104",
+        "238720"
+      ],
+      "setid": "6e89a7d9-4da4-42aa-b7f8-c602c24eefe5",
+      "source": "openfda",
+      "spl_version": 34,
+      "title": "CYKLOKAPRON (TRANEXAMIC ACID) INJECTION, SOLUTION [PFIZER LABORATORIES DIV PFIZER INC]",
+      "upload_date": "2025-09-08"
+    },
+    {
+      "application_numbers": [
+        "NDA212020"
+      ],
+      "brand_names": [
+        "TRANEXAMIC ACID IN SODIUM CHLORIDE"
+      ],
+      "combination": false,
+      "home_inn": "tranexamic-acid",
+      "ingredients": [
+        "TRANEXAMIC ACID"
+      ],
+      "labeler": "Exela Pharma Sciences, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2019-06-01",
+      "moieties": [
+        "TRANEXAMIC ACID"
+      ],
+      "product_ndcs": [
+        "51754-0108"
+      ],
+      "rxcui": [
+        "2170286"
+      ],
+      "setid": "db36ddf2-4ac5-47ac-bdce-e3fa6983073e",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "TRANEXAMIC ACID IN SODIUM CHLORIDE (TRANEXAMIC ACID) INJECTION, SOLUTION [EXELA PHARMA SCIENCES, LLC]",
+      "upload_date": "2019-06-03"
+    },
+    {
+      "application_numbers": [
+        "NDA022430"
+      ],
+      "brand_names": [
+        "Tranexamic Acid"
+      ],
+      "combination": false,
+      "home_inn": "tranexamic-acid",
+      "ingredients": [
+        "TRANEXAMIC ACID"
+      ],
+      "labeler": "Nordic Pharma, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2016-03-01",
+      "moieties": [
+        "TRANEXAMIC ACID"
+      ],
+      "product_ndcs": [
+        "69918-301"
+      ],
+      "rxcui": [
+        "883826"
+      ],
+      "setid": "031bf7c2-3b07-469d-bc5a-31fc6238e25f",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "TRANEXAMIC ACID TABLET [NORDIC PHARMA, INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA091657"
+      ],
+      "brand_names": [
+        "Tranexamic Acid"
+      ],
+      "combination": false,
+      "home_inn": "tranexamic-acid",
+      "ingredients": [
+        "TRANEXAMIC ACID"
+      ],
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-11-29",
+      "moieties": [
+        "TRANEXAMIC ACID"
+      ],
+      "product_ndcs": [
+        "67457-197"
+      ],
+      "rxcui": [
+        "238720"
+      ],
+      "setid": "6f033f1e-8c78-4c87-b870-6493944315ff",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "TRANEXAMIC ACID INJECTION, SOLUTION [MYLAN INSTITUTIONAL LLC]",
+      "upload_date": "2025-12-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA201580"
+      ],
+      "brand_names": [
+        "Tranexamic Acid"
+      ],
+      "combination": false,
+      "home_inn": "tranexamic-acid",
+      "ingredients": [
+        "TRANEXAMIC ACID"
+      ],
+      "labeler": "XGen Pharmaceuticals DJB, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-05-18",
+      "moieties": [
+        "TRANEXAMIC ACID"
+      ],
+      "product_ndcs": [
+        "39822-1000"
+      ],
+      "rxcui": [
+        "238720"
+      ],
+      "setid": "1553f7eb-d5a8-4274-9762-5bcc5ffcf809",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "TRANEXAMIC ACID INJECTION, SOLUTION [XGEN PHARMACEUTICALS DJB, INC.]",
+      "upload_date": "2026-02-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA202093"
+      ],
+      "brand_names": [
+        "Tranexamic Acid"
+      ],
+      "combination": false,
+      "home_inn": "tranexamic-acid",
+      "ingredients": [
+        "TRANEXAMIC ACID"
+      ],
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-01-03",
+      "moieties": [
+        "TRANEXAMIC ACID"
+      ],
+      "product_ndcs": [
+        "0591-3720"
+      ],
+      "rxcui": [
+        "883826"
+      ],
+      "setid": "3f07e93b-3568-487e-894f-8f90e5a0960a",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "TRANEXAMIC ACID TABLET, FILM COATED [ACTAVIS PHARMA, INC.]",
+      "upload_date": "2026-03-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA203521"
+      ],
+      "brand_names": [
+        "Tranexamic Acid"
+      ],
+      "combination": false,
+      "home_inn": "tranexamic-acid",
+      "ingredients": [
+        "TRANEXAMIC ACID"
+      ],
+      "labeler": "Heritage Pharmaceuticals Labs Inc. d/b/a Avet Pharmaceuticals Labs Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-08-13",
+      "moieties": [
+        "TRANEXAMIC ACID"
+      ],
+      "product_ndcs": [
+        "23155-166"
+      ],
+      "rxcui": [],
+      "setid": "28ccedba-99cd-49f3-a782-798df5258524",
+      "source": "dailymed-title-match",
+      "spl_version": 22,
+      "title": "TRANEXAMIC ACID INJECTION, SOLUTION [HERITAGE PHARMACEUTICALS LABS INC. D/B/A AVET PHARMACEUTICALS LABS INC.]",
+      "upload_date": "2026-10-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA205035"
+      ],
+      "brand_names": [
+        "Tranexamic Acid"
+      ],
+      "combination": false,
+      "home_inn": "tranexamic-acid",
+      "ingredients": [
+        "TRANEXAMIC ACID"
+      ],
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-01-14",
+      "moieties": [
+        "TRANEXAMIC ACID"
+      ],
+      "product_ndcs": [
+        "55150-188"
+      ],
+      "rxcui": [],
+      "setid": "246a3c6c-a7fb-45c7-9509-49a48a5bdcc6",
+      "source": "dailymed-title-match",
+      "spl_version": 11,
+      "title": "TRANEXAMIC ACID INJECTION, SOLUTION [EUGIA US LLC]",
+      "upload_date": "2026-10-28"
+    },
+    {
+      "application_numbers": [
+        "NDA022430"
+      ],
+      "archived_versions": 8,
+      "brand_names": [
+        "LYSTEDA"
+      ],
+      "first_posted": "2013-11-18",
+      "found_by": "LYSTEDA",
+      "labeler": "Ferring Pharmaceuticals Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2020-12-10",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-12-31"
+      ],
+      "product_ndcs": [
+        "55566-2110"
+      ],
+      "rxcui": [],
+      "setid": "49317334-a833-4620-a3b5-f179f8a821e2",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "031bf7c2-3b07-469d-bc5a-31fc6238e25f"
+      ],
+      "title": "LYSTEDA (tranexamic acid) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA022430"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "LYSTEDA"
+      ],
+      "first_posted": "2010-10-21",
+      "found_by": "LYSTEDA",
+      "labeler": "Ferring Pharmaceuticals Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2016-07-28",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-12-31"
+      ],
+      "product_ndcs": [
+        "55566-2100"
+      ],
+      "rxcui": [],
+      "setid": "84a65305-65d7-e7fd-66f3-dda8d8f920b1",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "031bf7c2-3b07-469d-bc5a-31fc6238e25f"
+      ],
+      "title": "LYSTEDA (tranexamic acid) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA022430"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "LYSTEDA"
+      ],
+      "first_posted": "2021-01-13",
+      "found_by": "LYSTEDA",
+      "labeler": "Nordic Pharma, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2025-03-10",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-12-15"
+      ],
+      "product_ndcs": [
+        "69918-300"
+      ],
+      "rxcui": [],
+      "setid": "a7e3180d-cf5b-4c2c-a31f-68bf6181f19a",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "031bf7c2-3b07-469d-bc5a-31fc6238e25f"
+      ],
+      "title": "LYSTEDA (tranexamic acid) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA022430"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "LYSTEDA"
+      ],
+      "first_posted": "2010-05-17",
+      "found_by": "LYSTEDA",
+      "labeler": "Xanodyne Pharmaceuticals, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2011-05-18",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2010-05-17"
+      ],
+      "product_ndcs": [
+        "66479-650"
+      ],
+      "rxcui": [],
+      "setid": "aea7e4e6-632f-4f49-90aa-9642d6d23df8",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "031bf7c2-3b07-469d-bc5a-31fc6238e25f"
+      ],
+      "title": "LYSTEDA (tranexamic acid) tablet"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "31462875-4941-4d50-bf0c-9675493731f3"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a4d95a17-9745-4780-b4dc-8683df8ca5bd"
+    },
+    {
+      "combination": false,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ee5aeb09-40fb-40f9-b655-97c50652a05e"
+    },
+    {
+      "combination": false,
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "32750a05-6617-46e8-b9e7-04e613e6bf4b"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a93d6ef3-e160-db0d-142f-9b91af8d8428"
+    },
+    {
+      "combination": false,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "82bc4879-bcf5-47c4-8636-a73c4e7d0de9"
+    },
+    {
+      "combination": false,
+      "labeler": "Provepharm Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1b8c3500-8e87-4b6e-b6a9-8da5f9c00820"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals Private Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c1a38ece-2050-42ea-b9de-cae3e416c59d"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "773eb919-7d48-4ba2-af58-aa169f0ea75f"
+    },
+    {
+      "combination": false,
+      "labeler": "ADVAGEN PHARMA LIMITED",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0a843fa7-1266-4666-b23f-22fd313d24a1"
+    },
+    {
+      "combination": false,
+      "labeler": "Nexus Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c479dccd-15c6-47c2-9675-680ebb9db2cb"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4f42a81c-37e3-4b57-8e9a-d42c55bbfc52"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "63f6c65f-b06b-4905-8ff8-3ac87569c7e0"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Laboratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e5a52dad-e328-48f2-9182-4df46f5572ef"
+    },
+    {
+      "combination": false,
+      "labeler": "Avenacy Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c3aad84a-aa99-42a0-b4b6-6fdee7585e19"
+    },
+    {
+      "combination": false,
+      "labeler": "i3 Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2c48c13a-5e7d-43ef-81a3-27d3bcda0f80"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Labs Inc. d/b/a Avet Pharmaceuticals Labs Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d5f55a98-aeb8-47e1-9154-87ba70222027"
+    },
+    {
+      "combination": false,
+      "labeler": "Milla Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fb2fcae9-6aa0-4708-b250-b0e40beb147e"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0277db2d-7c81-4cd0-ac19-fa12b5721428"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "80465b90-3f92-4e35-b2ba-69871bbd4a7f"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b28a18a4-391d-48ab-8fa5-6391f15553f3"
+    },
+    {
+      "combination": false,
+      "labeler": "Armas Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a3468b9f-a1c1-43ca-afc0-5b32c8f58b83"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f06f07de-bedf-4b37-b15e-0959e0a154e6"
+    },
+    {
+      "combination": false,
+      "labeler": "Avenacy, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "00630e54-0e84-465d-96a5-63486c87dcd9"
+    },
+    {
+      "combination": false,
+      "labeler": "Emcure Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ceea739a-21dd-4c3a-9ef6-2b7ab2bdd95a"
+    },
+    {
+      "combination": false,
+      "labeler": "Northstar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4877eacd-fda7-4708-93a5-81052c1d2e14"
+    },
+    {
+      "combination": false,
+      "labeler": "Northstar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "faa7c6bc-d7b9-48d5-9446-542a6a376db8"
+    },
+    {
+      "combination": false,
+      "labeler": "HP Halden Pharma AS",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0c638812-ba60-49fe-a715-f40246b6cbf7"
+    },
+    {
+      "combination": false,
+      "labeler": "Caplin Steriles Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6326bdbf-fb2e-451a-a0a0-7d0b59ce5438"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals Private Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "615a9bec-f769-4774-8b05-22473b93668c"
+    }
+  ]
+}

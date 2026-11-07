@@ -1,0 +1,166 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 2,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "only combination central products under this exact INN (combinations are not built)",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "VELPATASVIR"
+  ],
+  "inn": "velpatasvir",
+  "name": "VELPATASVIR",
+  "rank": 354,
+  "rxcui": [
+    "1799212",
+    "1799218",
+    "1939329",
+    "1939335",
+    "2288814",
+    "2288816",
+    "2584196",
+    "2584199",
+    "2584200",
+    "2584201"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 3,
+    "approval_holders": 2,
+    "earliest_marketing_start": "2016-06-28",
+    "latest_label_update": "2025-07-25",
+    "nda_bla_applications": 3,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "VELPATASVIR",
+      "unii": "KCU0C7RS7Z"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA208341",
+        "NDA214187"
+      ],
+      "brand_names": [
+        "Epclusa"
+      ],
+      "combination": true,
+      "home_inn": "sofosbuvir",
+      "ingredients": [
+        "SOFOSBUVIR",
+        "VELPATASVIR"
+      ],
+      "labeler": "Gilead Sciences, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2016-06-28",
+      "moieties": [
+        "SOFOSBUVIR",
+        "VELPATASVIR"
+      ],
+      "product_ndcs": [
+        "61958-2201",
+        "61958-2203",
+        "61958-2204",
+        "61958-2205"
+      ],
+      "rxcui": [
+        "1799212",
+        "1799218",
+        "2288814",
+        "2288816",
+        "2584196",
+        "2584199",
+        "2584200",
+        "2584201"
+      ],
+      "setid": "7f30631a-ee3b-4cfe-866b-964df3f0a44f",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "EPCLUSA (VELPATASVIR AND SOFOSBUVIR) TABLET, FILM COATED EPCLUSA (VELPATASVIR AND SOFOSBUVIR) PELLET [GILEAD SCIENCES, INC.]",
+      "upload_date": "2025-02-06"
+    },
+    {
+      "application_numbers": [
+        "NDA209195"
+      ],
+      "brand_names": [
+        "Vosevi"
+      ],
+      "combination": true,
+      "home_inn": "sofosbuvir",
+      "ingredients": [
+        "SOFOSBUVIR",
+        "VELPATASVIR",
+        "VOXILAPREVIR"
+      ],
+      "labeler": "Gilead Sciences, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-07-18",
+      "moieties": [
+        "SOFOSBUVIR",
+        "VELPATASVIR",
+        "VOXILAPREVIR"
+      ],
+      "product_ndcs": [
+        "61958-2401"
+      ],
+      "rxcui": [
+        "1939329",
+        "1939335"
+      ],
+      "setid": "17ffc094-8ca7-45d2-80d8-fd043bc9a221",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "VOSEVI (SOFOSBUVIR, VELPATASVIR, AND VOXILAPREVIR) TABLET, FILM COATED [GILEAD SCIENCES, INC.]",
+      "upload_date": "2025-07-25"
+    },
+    {
+      "application_numbers": [
+        "NDA208341"
+      ],
+      "brand_names": [
+        "Sofosbuvir and Velpatasvir"
+      ],
+      "combination": true,
+      "home_inn": "sofosbuvir",
+      "ingredients": [
+        "SOFOSBUVIR",
+        "VELPATASVIR"
+      ],
+      "labeler": "Asegua Therapeutics LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2018-11-14",
+      "moieties": [
+        "SOFOSBUVIR",
+        "VELPATASVIR"
+      ],
+      "product_ndcs": [
+        "72626-2701"
+      ],
+      "rxcui": [
+        "1799212"
+      ],
+      "setid": "d0c1a945-4440-4b5c-81aa-693ed3db597c",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "SOFOSBUVIR AND VELPATASVIR (VELPATASVIR AND SOFOSBUVIR) TABLET, FILM COATED [ASEGUA THERAPEUTICS LLC]",
+      "upload_date": "2025-03-10"
+    }
+  ],
+  "us_excluded": []
+}

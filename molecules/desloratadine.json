@@ -1,0 +1,526 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "Azomyr is a duplicate marketing authorisation of Aerius (EMEA/H/C/000313, same day); text normally identical",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000310",
+      "eu_number": "EU/1/00/157",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000310",
+      "mah": "Organon N.V.",
+      "marketing_authorisation_date": "2001-01-15",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/azomyr",
+      "name": "Azomyr",
+      "record_from": "2001-01-15",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 33
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/000313",
+      "eu_number": "EU/1/00/160",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-000313",
+      "mah": "Organon N.V.",
+      "marketing_authorisation_date": "2001-01-15",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/aerius",
+      "name": "Aerius",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/000314",
+      "eu_number": "EU/1/00/161",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-000314",
+      "mah": "Organon N.V.",
+      "marketing_authorisation_date": "2001-01-15",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/neoclarityn",
+      "name": "Neoclarityn",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/002310",
+      "eu_number": "EU/1/11/739",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-002310",
+      "mah": "Krka, d.d., Novo mesto",
+      "marketing_authorisation_date": "2011-11-28",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/dasselta",
+      "name": "Dasselta",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/002404",
+      "eu_number": "EU/1/11/746",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-002404",
+      "mah": "Ratiopharm GmbH",
+      "marketing_authorisation_date": "2012-01-13",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/desloratadine-ratiopharm",
+      "name": "Desloratadine ratiopharm",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/002419",
+      "eu_number": "EU/1/11/732",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-002419",
+      "mah": "Teva B.V",
+      "marketing_authorisation_date": "2011-11-24",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/desloratadine-teva",
+      "name": "Desloratadine Teva",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/002435",
+      "eu_number": "EU/1/11/745",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-002435",
+      "mah": "Actavis Group PTC ehf",
+      "marketing_authorisation_date": "2012-01-13",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/desloratadine-actavis",
+      "name": "Desloratadine Actavis",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 1,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000310",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "DESLORATADINE"
+  ],
+  "inn": "desloratadine",
+  "name": "DESLORATADINE",
+  "rank": 452,
+  "rxcui": [
+    "349420",
+    "352086",
+    "403841",
+    "577080",
+    "607573",
+    "1112248",
+    "1112250"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 9,
+    "approval_holders": 8,
+    "earliest_marketing_start": "2013-01-11",
+    "latest_label_update": "2026-08-28",
+    "nda_bla_applications": 2,
+    "repackagers": 2
+  },
+  "unii": [
+    {
+      "ingredient": "DESLORATADINE",
+      "unii": "FVF865388R"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021165"
+      ],
+      "brand_names": [
+        "Clarinex"
+      ],
+      "combination": false,
+      "home_inn": "desloratadine",
+      "ingredients": [
+        "DESLORATADINE"
+      ],
+      "labeler": "Organon LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-06-01",
+      "moieties": [
+        "DESLORATADINE"
+      ],
+      "product_ndcs": [
+        "78206-119",
+        "78206-188"
+      ],
+      "rxcui": [
+        "349420",
+        "352086"
+      ],
+      "setid": "c671342e-69a2-4ca5-abc2-8166ed4240d4",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "CLARINEX (DESLORATADINE) TABLET, FILM COATED [ORGANON LLC]",
+      "upload_date": "2025-05-28"
+    },
+    {
+      "application_numbers": [
+        "NDA021313"
+      ],
+      "brand_names": [
+        "CLARINEX-D 12 HOUR"
+      ],
+      "combination": true,
+      "home_inn": "desloratadine",
+      "ingredients": [
+        "DESLORATADINE",
+        "PSEUDOEPHEDRINE SULFATE"
+      ],
+      "labeler": "Organon LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-06-01",
+      "moieties": [
+        "DESLORATADINE",
+        "PSEUDOEPHEDRINE"
+      ],
+      "product_ndcs": [
+        "78206-120"
+      ],
+      "rxcui": [
+        "1112248",
+        "1112250"
+      ],
+      "setid": "1af66b7a-4ab8-40d8-abdd-22d3310228a8",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "CLARINEX-D 12 HOUR (DESLORATADINE AND PSEUDOEPHEDRINE SULFATE) TABLET, EXTENDED RELEASE [ORGANON LLC]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA078367"
+      ],
+      "brand_names": [
+        "Desloratadine"
+      ],
+      "combination": false,
+      "home_inn": "desloratadine",
+      "ingredients": [
+        "DESLORATADINE"
+      ],
+      "labeler": "Dr. Reddy's Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-01-11",
+      "moieties": [
+        "DESLORATADINE"
+      ],
+      "product_ndcs": [
+        "55111-360",
+        "55111-551"
+      ],
+      "rxcui": [
+        "403841",
+        "577080"
+      ],
+      "setid": "e5d1f465-e436-b4fd-d351-07a7b2acb440",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "DESLORATADINE TABLET, ORALLY DISINTEGRATING [DR. REDDY'S LABORATORIES LIMITED]",
+      "upload_date": "2024-05-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA078352"
+      ],
+      "brand_names": [
+        "DESLORATADINE"
+      ],
+      "combination": false,
+      "home_inn": "desloratadine",
+      "ingredients": [
+        "DESLORATADINE"
+      ],
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-02-25",
+      "moieties": [
+        "DESLORATADINE"
+      ],
+      "product_ndcs": [
+        "68180-153"
+      ],
+      "rxcui": [
+        "349420"
+      ],
+      "setid": "2a90b899-7746-43dc-ac8a-e754428eb30c",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "DESLORATADINE TABLET, FILM COATED [LUPIN PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-07-03"
+    },
+    {
+      "application_numbers": [
+        "ANDA078355"
+      ],
+      "brand_names": [
+        "Desloratadine"
+      ],
+      "combination": false,
+      "home_inn": "desloratadine",
+      "ingredients": [
+        "DESLORATADINE"
+      ],
+      "labeler": "Virtus Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-06-12",
+      "moieties": [
+        "DESLORATADINE"
+      ],
+      "product_ndcs": [
+        "69543-107"
+      ],
+      "rxcui": [
+        "349420"
+      ],
+      "setid": "0fe374d0-c14b-4102-b568-eb79165fc7ef",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "DESLORATADINE TABLET [VIRTUS PHARMACEUTICALS, LLC]",
+      "upload_date": "2025-07-14"
+    },
+    {
+      "application_numbers": [
+        "ANDA078357"
+      ],
+      "brand_names": [
+        "Desloratadine"
+      ],
+      "combination": false,
+      "home_inn": "desloratadine",
+      "ingredients": [
+        "DESLORATADINE"
+      ],
+      "labeler": "Bionpharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-11-28",
+      "moieties": [
+        "DESLORATADINE"
+      ],
+      "product_ndcs": [
+        "69452-363"
+      ],
+      "rxcui": [
+        "349420"
+      ],
+      "setid": "4d094001-b85a-47b3-bc67-a46660384ece",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "DESLORATADINE TABLET, FILM COATED [BIONPHARMA INC.]",
+      "upload_date": "2023-11-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA202936"
+      ],
+      "brand_names": [
+        "Desloratadine Oral Solution"
+      ],
+      "combination": false,
+      "home_inn": "desloratadine",
+      "ingredients": [
+        "DESLORATADINE"
+      ],
+      "labeler": "INA Pharmaceutics, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-07-01",
+      "moieties": [
+        "DESLORATADINE"
+      ],
+      "product_ndcs": [
+        "74157-011"
+      ],
+      "rxcui": [
+        "607573"
+      ],
+      "setid": "41d5e0d4-6188-847b-e063-6294a90a2e2f",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "DESLORATADINE ORAL SOLUTION (DESLORATADINE) SOLUTION [INA PHARMACEUTICS, INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA078351"
+      ],
+      "brand_names": [
+        "Desloratadine"
+      ],
+      "combination": false,
+      "home_inn": "desloratadine",
+      "ingredients": [
+        "DESLORATADINE"
+      ],
+      "labeler": "Natco Pharma USA LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-04-01",
+      "moieties": [
+        "DESLORATADINE"
+      ],
+      "product_ndcs": [
+        "69339-194"
+      ],
+      "rxcui": [
+        "349420"
+      ],
+      "setid": "e4db30a5-48e5-4fe3-8793-30b6866f87c1",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "DESLORATADINE TABLET, FILM COATED [NATCO PHARMA USA LLC]",
+      "upload_date": "2026-04-27"
+    },
+    {
+      "application_numbers": [
+        "NDA021165",
+        "NDA021300"
+      ],
+      "archived_versions": 17,
+      "brand_names": [
+        "CLARINEX"
+      ],
+      "first_posted": "2008-03-19",
+      "found_by": "CLARINEX",
+      "labeler": "Merck Sharp & Dohme Corp.",
+      "labeler_unverified": false,
+      "last_posted": "2022-02-14",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-06-30",
+        "2021-12-31"
+      ],
+      "product_ndcs": [
+        "0085-1264",
+        "0085-1334"
+      ],
+      "rxcui": [],
+      "setid": "5b79aff4-9bed-429d-8def-a7929293387d",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "c671342e-69a2-4ca5-abc2-8166ed4240d4"
+      ],
+      "title": "CLARINEX (desloratadine) tablet, film coated CLARINEX (desloratadine) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA021313"
+      ],
+      "archived_versions": 11,
+      "brand_names": [
+        "CLARINEX"
+      ],
+      "first_posted": "2007-05-10",
+      "found_by": "CLARINEX",
+      "labeler": "Merck Sharp & Dohme Corp.",
+      "labeler_unverified": false,
+      "last_posted": "2022-02-14",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-12-31"
+      ],
+      "product_ndcs": [
+        "0085-1322"
+      ],
+      "rxcui": [],
+      "setid": "61a1562b-46c6-40ed-af02-305342e76e2f",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "1af66b7a-4ab8-40d8-abdd-22d3310228a8"
+      ],
+      "title": "CLARINEX-D 12 HOUR (desloratadine and pseudoephedrine sulfate) tablet, extended release"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Morepen Bio Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "21174c0f-9204-4c75-b6e6-2f9ada5b535d"
+    }
+  ]
+}

@@ -1,0 +1,413 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "THEOPHYLLINE",
+    "THEOPHYLLINE ANHYDROUS"
+  ],
+  "inn": "theophylline",
+  "name": "THEOPHYLLINE",
+  "rank": 273,
+  "rxcui": [
+    "198264",
+    "313272",
+    "313291",
+    "313306",
+    "313310",
+    "314241",
+    "317769",
+    "348472",
+    "701712",
+    "844590",
+    "844591",
+    "844813",
+    "844829"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 22,
+    "approval_holders": 20,
+    "earliest_marketing_start": "2010-07-13",
+    "latest_label_update": "2026-10-16",
+    "nda_bla_applications": 0,
+    "repackagers": 5
+  },
+  "unii": [
+    {
+      "ingredient": "THEOPHYLLINE",
+      "unii": "C137DTR5RG"
+    },
+    {
+      "ingredient": "THEOPHYLLINE ANHYDROUS",
+      "unii": "0I55128JYK"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "ANDA090355"
+      ],
+      "brand_names": [
+        "Theophylline"
+      ],
+      "combination": false,
+      "home_inn": "theophylline",
+      "ingredients": [
+        "THEOPHYLLINE ANHYDROUS"
+      ],
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-07-13",
+      "moieties": [
+        "THEOPHYLLINE"
+      ],
+      "product_ndcs": [
+        "68462-356",
+        "68462-380"
+      ],
+      "rxcui": [
+        "313291",
+        "348472"
+      ],
+      "setid": "56fc2167-ceb6-4e3e-8ff7-5e400dfbd533",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "THEOPHYLLINE TABLET, EXTENDED RELEASE [GLENMARK PHARMACEUTICALS INC., USA]",
+      "upload_date": "2026-01-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA090430"
+      ],
+      "brand_names": [
+        "Theophylline"
+      ],
+      "combination": false,
+      "home_inn": "theophylline",
+      "ingredients": [
+        "THEOPHYLLINE ANHYDROUS"
+      ],
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-11-01",
+      "moieties": [
+        "THEOPHYLLINE"
+      ],
+      "product_ndcs": [
+        "46708-025",
+        "46708-026"
+      ],
+      "rxcui": [
+        "314241",
+        "317769"
+      ],
+      "setid": "31f3c720-1597-4d43-9296-33017b90b15f",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "THEOPHYLLINE TABLET, EXTENDED RELEASE [ALEMBIC PHARMACEUTICALS LIMITED]",
+      "upload_date": "2023-01-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA091156"
+      ],
+      "brand_names": [
+        "Theophylline"
+      ],
+      "combination": false,
+      "home_inn": "theophylline",
+      "ingredients": [
+        "THEOPHYLLINE ANHYDROUS"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-04-13",
+      "moieties": [
+        "THEOPHYLLINE"
+      ],
+      "product_ndcs": [
+        "62135-556"
+      ],
+      "rxcui": [
+        "313306"
+      ],
+      "setid": "1b685384-5d96-46fa-b93b-e96538a2cfe7",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "THEOPHYLLINE SOLUTION [CHARTWELL RX, LLC]",
+      "upload_date": "2026-02-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA091586"
+      ],
+      "brand_names": [
+        "Theophylline"
+      ],
+      "combination": false,
+      "home_inn": "theophylline",
+      "ingredients": [
+        "THEOPHYLLINE ANHYDROUS"
+      ],
+      "labeler": "Cranbury Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-08-02",
+      "moieties": [
+        "THEOPHYLLINE"
+      ],
+      "product_ndcs": [
+        "27808-033"
+      ],
+      "rxcui": [
+        "313306"
+      ],
+      "setid": "78a99bfe-6ebe-4ace-80b0-ee019921435e",
+      "source": "dailymed-title-match",
+      "spl_version": 7,
+      "title": "THEOPHYLLINE SOLUTION [CRANBURY PHARMACEUTICALS, LLC]",
+      "upload_date": "2026-10-16"
+    },
+    {
+      "application_numbers": [
+        "ANDA081034",
+        "ANDA087942",
+        "ANDA087943",
+        "ANDA087944"
+      ],
+      "brand_names": [
+        "Theo-24"
+      ],
+      "combination": false,
+      "home_inn": "theophylline",
+      "ingredients": [
+        "THEOPHYLLINE ANHYDROUS"
+      ],
+      "labeler": "ENDO USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-08-25",
+      "moieties": [
+        "THEOPHYLLINE"
+      ],
+      "product_ndcs": [
+        "52244-100",
+        "52244-200",
+        "52244-300",
+        "52244-400"
+      ],
+      "rxcui": [
+        "198264",
+        "313272",
+        "313310",
+        "701712",
+        "844590",
+        "844591",
+        "844813",
+        "844829"
+      ],
+      "setid": "7a108fa0-c230-475f-be93-6f864b98a410",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "THEO-24 (THEOPHYLLINE ANHYDROUS) CAPSULE, EXTENDED RELEASE [ENDO USA, INC.]",
+      "upload_date": "2024-07-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA206344"
+      ],
+      "brand_names": [
+        "THEOPHYLLINE"
+      ],
+      "combination": false,
+      "home_inn": "theophylline",
+      "ingredients": [
+        "THEOPHYLLINE"
+      ],
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-12-16",
+      "moieties": [
+        "THEOPHYLLINE"
+      ],
+      "product_ndcs": [
+        "0121-0820",
+        "0121-4820"
+      ],
+      "rxcui": [
+        "313306"
+      ],
+      "setid": "32b9780f-c46f-4e0f-9641-2cab60600e6e",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "THEOPHYLLINE SOLUTION [PAI HOLDINGS, LLC DBA PAI PHARMA]",
+      "upload_date": "2024-11-21"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "48330a8e-be08-4d38-b8b1-d30fbd5a35de"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "701fbf9c-e06b-46f4-863b-981acf3021aa"
+    },
+    {
+      "combination": false,
+      "labeler": "Teva Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "25eabefa-518b-4030-9b72-01ac8b3deba9"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b0d5d1cd-c79b-4229-929c-2eb3e4f43298"
+    },
+    {
+      "combination": false,
+      "labeler": "Leading Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ac490ebf-24e1-47c4-a932-ad4dcafe7aad"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bf320619-c53b-49a7-97b5-cd0c075a9f75"
+    },
+    {
+      "combination": false,
+      "labeler": "Bionpharma Inc.,",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "63517422-45a0-4e78-8505-eca054068ee9"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7339f98d-b996-4e20-a7a7-315fd2a9fa4d"
+    },
+    {
+      "combination": false,
+      "labeler": "Harman Finochem Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "098db8bb-fa9a-4577-b7d9-86caaefc168a"
+    },
+    {
+      "combination": false,
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b7a90ccf-9c32-40cc-9008-7e55b3da4dfd"
+    },
+    {
+      "combination": false,
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7a422c32-bbdf-4297-84f4-9c438c904b0c"
+    },
+    {
+      "combination": false,
+      "labeler": "Westminster Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "04f1d1da-ce61-45b3-acf4-903cc81d16da"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell Governmental & Specialty RX, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e2716dac-8b23-4e06-bc3e-4dd76b7c813e"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "77e849b8-900b-4f0d-ac5c-1391abcd5721"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9591d4db-2b88-4f0f-b61e-64ba67626e3d"
+    },
+    {
+      "combination": false,
+      "labeler": "Viona Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "abdfb9b9-9402-4761-9347-8eb1c4d86242"
+    }
+  ]
+}

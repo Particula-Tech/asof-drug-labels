@@ -1,0 +1,664 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand Tamiflu",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000402",
+      "eu_number": "EU/1/02/222",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000402",
+      "mah": "Roche Registration GmbH",
+      "marketing_authorisation_date": "2002-06-20",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tamiflu",
+      "name": "Tamiflu",
+      "record_from": "2002-06-20",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 42
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/003717",
+      "eu_number": "EU/1/14/915",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-003717",
+      "mah": "Actavis Group PTC ehf",
+      "marketing_authorisation_date": "2014-05-22",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ebilfumin",
+      "name": "Ebilfumin",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000402",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "OSELTAMIVIR PHOSPHATE"
+  ],
+  "inn": "oseltamivir",
+  "name": "OSELTAMIVIR",
+  "rank": 111,
+  "rxcui": [
+    "261315",
+    "312122",
+    "728109",
+    "728111",
+    "728113",
+    "728115",
+    "1115698",
+    "1115700"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 43,
+    "approval_holders": 29,
+    "earliest_marketing_start": "1999-10-27",
+    "latest_label_update": "2026-10-12",
+    "nda_bla_applications": 2,
+    "repackagers": 8
+  },
+  "unii": [
+    {
+      "ingredient": "OSELTAMIVIR PHOSPHATE",
+      "unii": "4A3O49NGEZ"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021087",
+        "NDA021246"
+      ],
+      "brand_names": [
+        "Tamiflu"
+      ],
+      "combination": false,
+      "home_inn": "oseltamivir",
+      "ingredients": [
+        "OSELTAMIVIR PHOSPHATE"
+      ],
+      "labeler": "Genentech, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1999-10-27",
+      "moieties": [
+        "OSELTAMIVIR"
+      ],
+      "product_ndcs": [
+        "0004-0800",
+        "0004-0802",
+        "0004-0822"
+      ],
+      "rxcui": [
+        "261315",
+        "312122",
+        "728109",
+        "728111",
+        "728113",
+        "728115",
+        "1115698",
+        "1115700"
+      ],
+      "setid": "ee3c9555-60f2-4f82-a760-11983c86e97b",
+      "source": "openfda",
+      "spl_version": 45,
+      "title": "TAMIFLU (OSELTAMIVIR PHOSPHATE) CAPSULE TAMIFLU (OSELTAMIVIR PHOSPHATE) POWDER, FOR SUSPENSION [GENENTECH, INC.]",
+      "upload_date": "2025-12-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA202595"
+      ],
+      "brand_names": [
+        "Oseltamivir Phosphate"
+      ],
+      "combination": false,
+      "home_inn": "oseltamivir",
+      "ingredients": [
+        "OSELTAMIVIR PHOSPHATE"
+      ],
+      "labeler": "Alvogen Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-12-12",
+      "moieties": [
+        "OSELTAMIVIR"
+      ],
+      "product_ndcs": [
+        "47781-468",
+        "47781-469",
+        "47781-470"
+      ],
+      "rxcui": [
+        "312122",
+        "728109",
+        "728113"
+      ],
+      "setid": "809f859e-0852-80d3-1a67-da87ed399c15",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "OSELTAMIVIR PHOSPHATE CAPSULE [ALVOGEN INC.]",
+      "upload_date": "2026-07-20"
+    },
+    {
+      "application_numbers": [
+        "ANDA208578"
+      ],
+      "brand_names": [
+        "OSELTAMIVIR PHOSPHATE"
+      ],
+      "combination": false,
+      "home_inn": "oseltamivir",
+      "ingredients": [
+        "OSELTAMIVIR PHOSPHATE"
+      ],
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-02-24",
+      "moieties": [
+        "OSELTAMIVIR"
+      ],
+      "product_ndcs": [
+        "70710-1008",
+        "70710-1009",
+        "70710-1010"
+      ],
+      "rxcui": [
+        "312122",
+        "728109",
+        "728113"
+      ],
+      "setid": "0e666061-1bfd-48cd-896b-ded8298a1847",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "OSELTAMIVIR PHOSPHATE CAPSULE [ZYDUS PHARMACEUTICALS USA INC.]",
+      "upload_date": "2022-12-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA209093"
+      ],
+      "brand_names": [
+        "Oseltamivir Phosphate"
+      ],
+      "combination": false,
+      "home_inn": "oseltamivir",
+      "ingredients": [
+        "OSELTAMIVIR PHOSPHATE"
+      ],
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-05-21",
+      "moieties": [
+        "OSELTAMIVIR"
+      ],
+      "product_ndcs": [
+        "69238-1264",
+        "69238-1265",
+        "69238-1266"
+      ],
+      "rxcui": [
+        "312122",
+        "728109",
+        "728113"
+      ],
+      "setid": "d306e22c-0cb8-46cb-9a40-8194a2bc9e85",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "OSELTAMIVIR PHOSPHATE (OSELTAMIVIR) CAPSULE [AMNEAL PHARMACEUTICALS NY LLC]",
+      "upload_date": "2024-01-01"
+    },
+    {
+      "application_numbers": [
+        "ANDA209113"
+      ],
+      "brand_names": [
+        "OSELTAMIVIR PHOSPHATE"
+      ],
+      "combination": false,
+      "home_inn": "oseltamivir",
+      "ingredients": [
+        "OSELTAMIVIR PHOSPHATE"
+      ],
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-09-14",
+      "moieties": [
+        "OSELTAMIVIR"
+      ],
+      "product_ndcs": [
+        "70710-1165"
+      ],
+      "rxcui": [
+        "1115698"
+      ],
+      "setid": "432d9e7b-9cb2-4b7d-9fb2-015449096757",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "OSELTAMIVIR PHOSPHATE FOR SUSPENSION [ZYDUS PHARMACEUTICALS USA INC.]",
+      "upload_date": "2023-03-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA207211"
+      ],
+      "brand_names": [
+        "oseltamivir phosphate"
+      ],
+      "combination": false,
+      "home_inn": "oseltamivir",
+      "ingredients": [
+        "OSELTAMIVIR PHOSPHATE"
+      ],
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-09-21",
+      "moieties": [
+        "OSELTAMIVIR"
+      ],
+      "product_ndcs": [
+        "33342-256",
+        "33342-257",
+        "33342-258"
+      ],
+      "rxcui": [
+        "312122",
+        "728109",
+        "728113"
+      ],
+      "setid": "e9307620-36bd-46c2-a8b2-027d3fba87ba",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "OSELTAMIVIR PHOSPHATE CAPSULE [MACLEODS PHARMACEUTICALS LIMITED]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA208823"
+      ],
+      "brand_names": [
+        "Oseltamivir Phosphate for Oral Suspension"
+      ],
+      "combination": false,
+      "home_inn": "oseltamivir",
+      "ingredients": [
+        "OSELTAMIVIR PHOSPHATE"
+      ],
+      "labeler": "Alvogen Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-11-01",
+      "moieties": [
+        "OSELTAMIVIR"
+      ],
+      "product_ndcs": [
+        "47781-384"
+      ],
+      "rxcui": [
+        "1115698"
+      ],
+      "setid": "82df3237-636b-7bf9-3ba0-2b476e74bf4c",
+      "source": "dailymed-title-match",
+      "spl_version": 14,
+      "title": "OSELTAMIVIR PHOSPHATE FOR ORAL SUSPENSION (OSELTAMIVIR PHOSPHATE) POWDER, FOR SUSPENSION [ALVOGEN INC.]",
+      "upload_date": "2026-10-09"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7dd9f7f2-a887-454a-8d3e-761083b840db"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b428e1f2-0082-4d9f-908e-e3633ea0457b"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2a673aa2-e8f0-4aa4-8782-6fb3067ff108"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c1a280d0-4ce9-494a-9924-eb5621ce3757"
+    },
+    {
+      "combination": false,
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f26154bd-374c-44a8-983a-b2724a591653"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0a7181a6-e9eb-4047-a26f-4268f174db16"
+    },
+    {
+      "combination": false,
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3ea5bf8f-c3fa-4d44-bc3d-b1912374ee4b"
+    },
+    {
+      "combination": false,
+      "labeler": "MSN LABORATORIES PRIVATE LIMITED",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1b7a02ca-ee0e-4853-91e6-71a79f2bc040"
+    },
+    {
+      "combination": false,
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c6f78d2d-6452-4af3-83c6-b044d1604bdc"
+    },
+    {
+      "combination": false,
+      "labeler": "EPIC PHARMA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "141c4005-89de-447e-961f-3780f62eded4"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5c959361-8f08-4c65-968f-404a44422133"
+    },
+    {
+      "combination": false,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "46dda802-32b8-4608-8eae-97e2cfc57472"
+    },
+    {
+      "combination": false,
+      "labeler": "Leading Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ef093e4d-5b1a-463f-a1a3-b795a4387a81"
+    },
+    {
+      "combination": false,
+      "labeler": "EPIC PHARMA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1b17fffc-5774-4b9b-8440-3a5295a34f89"
+    },
+    {
+      "combination": false,
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "39255500-0ffd-4d72-abe8-257570b543e7"
+    },
+    {
+      "combination": false,
+      "labeler": "Cipla USA, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7d04f367-8f62-4f63-bac9-717d14f555a5"
+    },
+    {
+      "combination": false,
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "00e2e995-6296-b544-e063-6294a90a8345"
+    },
+    {
+      "combination": false,
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "005b2784-e410-a50c-e063-6394a90a881c"
+    },
+    {
+      "combination": false,
+      "labeler": "Zhejiang Poly Pharm. Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "339778ee-0b6f-6d81-e063-6394a90a2d32"
+    },
+    {
+      "combination": false,
+      "labeler": "Exelan Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "31c90a2e-9d14-4236-8dc2-b2a862e8cbac"
+    },
+    {
+      "combination": false,
+      "labeler": "Laurus Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "927cba3a-62cf-4e9f-9871-92835927ea46"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "07958a9a-2360-4380-b7da-5371ed80a271"
+    },
+    {
+      "combination": false,
+      "labeler": "Shandong New Time Pharmaceutical Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "61b673d9-4787-4bc8-bf9e-2cfef0326911"
+    },
+    {
+      "combination": false,
+      "labeler": "Oryza Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "11cf45d4-0e6c-4408-bbe6-5ed94468cf2e"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "379f59fe-22d9-4bac-b9b5-31fdaebbd923"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "58118069-cb24-4fa3-92d7-cabdc1b027f2"
+    },
+    {
+      "combination": false,
+      "labeler": "AvKARE",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c61bb5af-558f-4b32-b34d-8fdae480443c"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "82685c2f-791b-440f-a1c2-5a032da7adca"
+    },
+    {
+      "combination": false,
+      "labeler": "AvKARE",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7d8ce967-8037-9fd5-e053-2991aa0a015f"
+    },
+    {
+      "combination": false,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c456f293-daf7-46b1-bffc-5ca234adbb70"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7c0923ad-80b0-4134-b44a-754ea599f356"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8ca926e0-4c3c-473f-9cd0-ff38032d6963"
+    },
+    {
+      "combination": false,
+      "labeler": "Exelan Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9fb09e82-42ef-4a2a-9bcd-3aab3ac52bb3"
+    },
+    {
+      "combination": false,
+      "labeler": "Slate Run Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "613c8c4d-e647-4a4b-ac9b-c39aaa781ace"
+    },
+    {
+      "combination": false,
+      "labeler": "HEC Pharm USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4dd9214a-6b7f-efe9-e063-6294a90ac4fb"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a70d9914-078f-4b4d-a1be-04669f7d0878"
+    }
+  ]
+}

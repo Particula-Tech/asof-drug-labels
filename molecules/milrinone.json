@@ -1,0 +1,398 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "MILRINONE LACTATE"
+  ],
+  "inn": "milrinone",
+  "name": "MILRINONE",
+  "rank": 481,
+  "rxcui": [
+    "1791840",
+    "1791842",
+    "1791854",
+    "1791859",
+    "1791861"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 19,
+    "approval_holders": 13,
+    "earliest_marketing_start": "2002-05-28",
+    "latest_label_update": "2026-08-20",
+    "nda_bla_applications": 0,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "MILRINONE LACTATE",
+      "unii": "9K8XR81MO8"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "ANDA075834"
+      ],
+      "brand_names": [
+        "Milrinone Lactate in Dextrose"
+      ],
+      "combination": false,
+      "home_inn": "milrinone",
+      "ingredients": [
+        "MILRINONE LACTATE"
+      ],
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2002-05-28",
+      "moieties": [
+        "MILRINONE"
+      ],
+      "product_ndcs": [
+        "0338-6010",
+        "0338-6011"
+      ],
+      "rxcui": [
+        "1791840",
+        "1791842"
+      ],
+      "setid": "8fd0f93a-6150-4020-b7ee-4b95b520f6ce",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "MILRINONE LACTATE IN DEXTROSE (MILRINONE LACTATE) INJECTION, SOLUTION [BAXTER HEALTHCARE CORPORATION]",
+      "upload_date": "2026-04-06"
+    },
+    {
+      "application_numbers": [
+        "ANDA075936"
+      ],
+      "brand_names": [
+        "Milrinone Lactate"
+      ],
+      "combination": false,
+      "home_inn": "milrinone",
+      "ingredients": [
+        "MILRINONE LACTATE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2002-08-01",
+      "moieties": [
+        "MILRINONE"
+      ],
+      "product_ndcs": [
+        "63323-617"
+      ],
+      "rxcui": [
+        "1791854",
+        "1791859",
+        "1791861"
+      ],
+      "setid": "ac43ba6b-635d-4129-8eea-96f3f5a4785e",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "MILRINONE LACTATE INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2023-04-06"
+    },
+    {
+      "application_numbers": [
+        "ANDA090038"
+      ],
+      "brand_names": [
+        "Milrinone Lactate in Dextrose"
+      ],
+      "combination": false,
+      "home_inn": "milrinone",
+      "ingredients": [
+        "MILRINONE LACTATE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-01-21",
+      "moieties": [
+        "MILRINONE"
+      ],
+      "product_ndcs": [
+        "0143-9718",
+        "0143-9719"
+      ],
+      "rxcui": [
+        "1791840",
+        "1791842"
+      ],
+      "setid": "4c2f052b-7ba2-4122-a50b-37ef2a834d61",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "MILRINONE LACTATE IN DEXTROSE INJECTION, SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2026-05-20"
+    },
+    {
+      "application_numbers": [
+        "ANDA077966"
+      ],
+      "brand_names": [
+        "Milrinone Lactate"
+      ],
+      "combination": false,
+      "home_inn": "milrinone",
+      "ingredients": [
+        "MILRINONE LACTATE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-12-03",
+      "moieties": [
+        "MILRINONE"
+      ],
+      "product_ndcs": [
+        "0143-9708",
+        "0143-9709",
+        "0143-9710"
+      ],
+      "rxcui": [
+        "1791854",
+        "1791859",
+        "1791861"
+      ],
+      "setid": "88f78780-399f-4780-be19-205739db1682",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "MILRINONE LACTATE INJECTION, SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2026-05-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA203280"
+      ],
+      "brand_names": [
+        "MILRINONE LACTATE"
+      ],
+      "combination": false,
+      "home_inn": "milrinone",
+      "ingredients": [
+        "MILRINONE LACTATE"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-03-31",
+      "moieties": [
+        "MILRINONE"
+      ],
+      "product_ndcs": [
+        "0409-0212"
+      ],
+      "rxcui": [
+        "1791854",
+        "1791859",
+        "1791861"
+      ],
+      "setid": "813e8ca2-de54-4a7c-a2d2-8bd44396c341",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "MILRINONE LACTATE INJECTION, SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2025-10-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA211671"
+      ],
+      "brand_names": [
+        "Milrinone Lactate"
+      ],
+      "combination": false,
+      "home_inn": "milrinone",
+      "ingredients": [
+        "MILRINONE LACTATE"
+      ],
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-03-24",
+      "moieties": [
+        "MILRINONE"
+      ],
+      "product_ndcs": [
+        "71288-200"
+      ],
+      "rxcui": [
+        "1791854",
+        "1791859",
+        "1791861"
+      ],
+      "setid": "6c6b69f9-e229-4a93-a108-9eafdab614f0",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "MILRINONE LACTATE INJECTION, SOLUTION [MEITHEAL PHARMACEUTICALS INC.]",
+      "upload_date": "2022-01-17"
+    },
+    {
+      "application_numbers": [
+        "NDA020343"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "PRIMACOR"
+      ],
+      "first_posted": "2008-05-22",
+      "found_by": "PRIMACOR",
+      "labeler": "sanofi-aventis U.S. LLC",
+      "labeler_unverified": false,
+      "last_posted": "2018-10-11",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2009-09-30"
+      ],
+      "product_ndcs": [
+        "0024-1203"
+      ],
+      "rxcui": [],
+      "setid": "2a0a2d3a-1900-4c73-89c5-c4bde1b61553",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "PRIMACOR (milrinone lactate) injection, solution"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "838da14b-c070-4c09-b088-99e7c64d9964"
+    },
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4e489fab-75bc-4514-9bf2-85b8ed08a1b0"
+    },
+    {
+      "combination": false,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ce43e850-4e80-4c5b-8811-9cb65824768c"
+    },
+    {
+      "combination": false,
+      "labeler": "Shandong New Time Pharmaceutical Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0fdaee3c-2144-4ca7-9868-54d251f468c0"
+    },
+    {
+      "combination": false,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "27a19fc1-5e18-44e1-957d-d90f18dedc54"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b3c936b3-5c86-4d87-9544-e94e95d0245f"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bb7500f8-dbfd-4c8a-ac2e-5533609c3970"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bb0157d0-a414-43fa-81e0-8c92d717f1b2"
+    },
+    {
+      "combination": false,
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5273ea17-6920-4bff-8c5b-20ea531a0423"
+    },
+    {
+      "combination": false,
+      "labeler": "Armas Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fde1e354-4f15-4ade-9ae3-db2ba67e0431"
+    },
+    {
+      "combination": false,
+      "labeler": "Mullan Pharmaceutical Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "07dddead-22ed-004c-e063-6294a90a76fc"
+    },
+    {
+      "combination": false,
+      "labeler": "Caplin Steriles Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cbe097f8-9599-4f5b-bdf3-3f43d3e3461b"
+    },
+    {
+      "combination": false,
+      "labeler": "Caplin Steriles Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a2822b12-0560-49d6-ace5-2377c04425e8"
+    }
+  ]
+}

@@ -1,0 +1,703 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 6,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "only combination central products under this exact INN (combinations are not built)",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "FORMOTEROL",
+    "FORMOTEROL FUMARATE"
+  ],
+  "inn": "formoterol",
+  "name": "FORMOTEROL",
+  "rank": 100,
+  "rxcui": [
+    "1246288",
+    "1246290",
+    "1246304",
+    "1246306",
+    "1246308",
+    "1246310",
+    "1246311",
+    "1246313",
+    "1246314",
+    "1246315",
+    "1246316",
+    "1246317",
+    "1246319",
+    "1246321",
+    "1660933",
+    "1660934",
+    "1660937",
+    "1660938",
+    "1790639",
+    "1790644",
+    "2196590",
+    "2196592",
+    "2205094",
+    "2205099",
+    "2205103",
+    "2205104",
+    "2387326",
+    "2387328",
+    "2387329",
+    "2387331",
+    "2741705",
+    "2741708",
+    "2741710",
+    "2741711"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 20,
+    "approval_holders": 16,
+    "earliest_marketing_start": "2007-05-29",
+    "latest_label_update": "2026-07-13",
+    "nda_bla_applications": 6,
+    "repackagers": 3
+  },
+  "unii": [
+    {
+      "ingredient": "FORMOTEROL FUMARATE",
+      "unii": "W34SHF8J2K"
+    }
+  ],
+  "unii_unresolved": [
+    "FORMOTEROL"
+  ],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA022007"
+      ],
+      "brand_names": [
+        "Perforomist"
+      ],
+      "combination": false,
+      "home_inn": "formoterol",
+      "ingredients": [
+        "FORMOTEROL FUMARATE"
+      ],
+      "labeler": "Viatris Specialty LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2007-10-01",
+      "moieties": [
+        "FORMOTEROL"
+      ],
+      "product_ndcs": [
+        "49502-605"
+      ],
+      "rxcui": [
+        "1246319",
+        "1246321"
+      ],
+      "setid": "fb2fe258-fe2e-47f6-8adf-ca75bf6f90af",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "PERFOROMIST (FORMOTEROL FUMARATE DIHYDRATE) SOLUTION [VIATRIS SPECIALTY LLC]",
+      "upload_date": "2025-02-13"
+    },
+    {
+      "application_numbers": [
+        "NDA021929"
+      ],
+      "brand_names": [
+        "SYMBICORT"
+      ],
+      "combination": true,
+      "home_inn": "budesonide",
+      "ingredients": [
+        "BUDESONIDE",
+        "FORMOTEROL FUMARATE"
+      ],
+      "labeler": "AstraZeneca Pharmaceuticals LP",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2007-05-29",
+      "moieties": [
+        "BUDESONIDE",
+        "FORMOTEROL"
+      ],
+      "product_ndcs": [
+        "0186-0370",
+        "0186-0372"
+      ],
+      "rxcui": [
+        "1246288",
+        "1246290",
+        "1246304",
+        "1246306",
+        "1246314",
+        "1246315",
+        "1246316",
+        "1246317"
+      ],
+      "setid": "fafa4cf1-99c2-43d5-73ad-51f256de3be0",
+      "source": "openfda",
+      "spl_version": 31,
+      "title": "SYMBICORT (BUDESONIDE AND FORMOTEROL FUMARATE DIHYDRATE) AEROSOL [ASTRAZENECA PHARMACEUTICALS LP]",
+      "upload_date": "2024-11-20"
+    },
+    {
+      "application_numbers": [
+        "NDA208294"
+      ],
+      "brand_names": [
+        "BEVESPI AEROSPHERE"
+      ],
+      "combination": true,
+      "home_inn": "glycopyrronium",
+      "ingredients": [
+        "FORMOTEROL FUMARATE",
+        "GLYCOPYRROLATE"
+      ],
+      "labeler": "AstraZeneca Pharmaceuticals LP",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2016-10-03",
+      "moieties": [
+        "FORMOTEROL",
+        "GLYCOPYRRONIUM"
+      ],
+      "product_ndcs": [
+        "0310-4600"
+      ],
+      "rxcui": [
+        "1790639",
+        "1790644"
+      ],
+      "setid": "ae02436e-9528-490e-a844-0c0f6f2843f9",
+      "source": "openfda",
+      "spl_version": 26,
+      "title": "BEVESPI AEROSPHERE (GLYCOPYRROLATE AND FORMOTEROL FUMARATE) AEROSOL, METERED [ASTRAZENECA PHARMACEUTICALS LP]",
+      "upload_date": "2025-12-19"
+    },
+    {
+      "application_numbers": [
+        "NDA210595"
+      ],
+      "brand_names": [
+        "DUAKLIR PRESSAIR"
+      ],
+      "combination": true,
+      "home_inn": "formoterol",
+      "ingredients": [
+        "ACLIDINIUM BROMIDE",
+        "FORMOTEROL FUMARATE"
+      ],
+      "labeler": "Covis Pharma US, Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2019-03-29",
+      "moieties": [
+        "ACLIDINIUM",
+        "FORMOTEROL"
+      ],
+      "product_ndcs": [
+        "70515-001"
+      ],
+      "rxcui": [
+        "2205094",
+        "2205099",
+        "2205103",
+        "2205104"
+      ],
+      "setid": "2eba3089-28b4-4190-9fba-2511246cfd16",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "DUAKLIR PRESSAIR (ACLIDINIUM BROMIDE AND FORMOTEROL FUMARATE) POWDER, METERED [COVIS PHARMA US, INC]",
+      "upload_date": "2023-12-08"
+    },
+    {
+      "application_numbers": [
+        "NDA212122"
+      ],
+      "brand_names": [
+        "BREZTRI"
+      ],
+      "combination": true,
+      "home_inn": "glycopyrronium",
+      "ingredients": [
+        "BUDESONIDE",
+        "FORMOTEROL",
+        "GLYCOPYRROLATE"
+      ],
+      "labeler": "AstraZeneca Pharmaceuticals LP",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2020-07-23",
+      "moieties": [
+        "BUDESONIDE",
+        "FORMOTEROL",
+        "GLYCOPYRRONIUM"
+      ],
+      "product_ndcs": [
+        "0310-4616",
+        "0310-6616"
+      ],
+      "rxcui": [
+        "2387326",
+        "2387328",
+        "2387329",
+        "2387331",
+        "2741705",
+        "2741708",
+        "2741710",
+        "2741711"
+      ],
+      "setid": "715433dc-cb2b-43ea-b6df-c5b4177adc6c",
+      "source": "dailymed-title-match",
+      "spl_version": 9,
+      "title": "BREZTRI (BUDESONIDE, GLYCOPYRROLATE, AND FORMOTEROL FUMARATE) AEROSOL, METERED [ASTRAZENECA PHARMACEUTICALS LP]",
+      "upload_date": "2026-06-23"
+    },
+    {
+      "application_numbers": [
+        "NDA022518"
+      ],
+      "brand_names": [
+        "Dulera"
+      ],
+      "combination": true,
+      "home_inn": "formoterol",
+      "ingredients": [
+        "FORMOTEROL FUMARATE",
+        "MOMETASONE FUROATE"
+      ],
+      "labeler": "Organon LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-06-01",
+      "moieties": [
+        "FORMOTEROL",
+        "MOMETASONE"
+      ],
+      "product_ndcs": [
+        "78206-125",
+        "78206-126",
+        "78206-127"
+      ],
+      "rxcui": [
+        "1246308",
+        "1246310",
+        "1246311",
+        "1246313",
+        "1660933",
+        "1660934",
+        "1660937",
+        "1660938",
+        "2196590",
+        "2196592"
+      ],
+      "setid": "8f399784-f257-4f31-b3dc-368bf2a1864d",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "DULERA (MOMETASONE FUROATE AND FORMOTEROL FUMARATE DIHYDRATE) AEROSOL [ORGANON LLC]",
+      "upload_date": "2026-07-13"
+    },
+    {
+      "application_numbers": [
+        "NDA022007"
+      ],
+      "brand_names": [
+        "FORMOTEROL FUMARATE"
+      ],
+      "combination": false,
+      "home_inn": "formoterol",
+      "ingredients": [
+        "FORMOTEROL FUMARATE"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2021-06-22",
+      "moieties": [
+        "FORMOTEROL"
+      ],
+      "product_ndcs": [
+        "0378-1631"
+      ],
+      "rxcui": [
+        "1246319"
+      ],
+      "setid": "6c1a6c53-af85-4220-9ce3-2373e0928f7f",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "FORMOTEROL FUMARATE (FORMOTEROL FUMARATE DIHYDRATE) SOLUTION [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2025-01-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA091141"
+      ],
+      "brand_names": [
+        "Formoterol fumarate"
+      ],
+      "combination": false,
+      "home_inn": "formoterol",
+      "ingredients": [
+        "FORMOTEROL FUMARATE"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-06-22",
+      "moieties": [
+        "FORMOTEROL"
+      ],
+      "product_ndcs": [
+        "0093-4061"
+      ],
+      "rxcui": [
+        "1246319"
+      ],
+      "setid": "419bc85d-8e24-478b-921e-babfb73e79f3",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "FORMOTEROL FUMARATE SOLUTION [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2022-07-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA215078"
+      ],
+      "brand_names": [
+        "Formoterol Fumarate"
+      ],
+      "combination": false,
+      "home_inn": "formoterol",
+      "ingredients": [
+        "FORMOTEROL FUMARATE"
+      ],
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-11-22",
+      "moieties": [
+        "FORMOTEROL"
+      ],
+      "product_ndcs": [
+        "62332-655"
+      ],
+      "rxcui": [
+        "1246319"
+      ],
+      "setid": "07afdf7e-c480-4806-b469-a6a460522bc0",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "FORMOTEROL FUMARATE SOLUTION [ALEMBIC PHARMACEUTICALS INC.]",
+      "upload_date": "2025-12-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA215053"
+      ],
+      "brand_names": [
+        "formoterol fumarate"
+      ],
+      "combination": false,
+      "home_inn": "formoterol",
+      "ingredients": [
+        "FORMOTEROL FUMARATE"
+      ],
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-11-28",
+      "moieties": [
+        "FORMOTEROL"
+      ],
+      "product_ndcs": [
+        "70748-261"
+      ],
+      "rxcui": [
+        "1246319"
+      ],
+      "setid": "44284e8c-0503-48c4-ae71-a0d6b865665d",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "FORMOTEROL FUMARATE SOLUTION [LUPIN PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-01-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA215883"
+      ],
+      "brand_names": [
+        "Formoterol fumarate"
+      ],
+      "combination": false,
+      "home_inn": "formoterol",
+      "ingredients": [
+        "FORMOTEROL FUMARATE"
+      ],
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-03-22",
+      "moieties": [
+        "FORMOTEROL"
+      ],
+      "product_ndcs": [
+        "70756-608"
+      ],
+      "rxcui": [
+        "1246319"
+      ],
+      "setid": "35538d89-a984-4335-acdf-85a893f51eee",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "FORMOTEROL FUMARATE (FORMOTEROL FUMARATE DIHYDRATE) SOLUTION [LIFESTAR PHARMA LLC]",
+      "upload_date": "2026-05-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA218304"
+      ],
+      "brand_names": [
+        "Formoterol fumarate"
+      ],
+      "combination": false,
+      "home_inn": "formoterol",
+      "ingredients": [
+        "FORMOTEROL FUMARATE"
+      ],
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-10-01",
+      "moieties": [
+        "FORMOTEROL"
+      ],
+      "product_ndcs": [
+        "42571-463"
+      ],
+      "rxcui": [
+        "1246319"
+      ],
+      "setid": "0796acea-70d6-479f-af48-18723b1efd2a",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "FORMOTEROL FUMARATE (FORMOTEROL FUMARATE) SOLUTION [MICRO LABS LIMITED]",
+      "upload_date": "2024-10-02"
+    },
+    {
+      "application_numbers": [
+        "NDA022518"
+      ],
+      "archived_versions": 28,
+      "brand_names": [
+        "DULERA"
+      ],
+      "first_posted": "2010-07-14",
+      "found_by": "DULERA",
+      "labeler": "Merck Sharp & Dohme Corp.",
+      "labeler_unverified": false,
+      "last_posted": "2022-02-17",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-12-31"
+      ],
+      "product_ndcs": [
+        "0085-2223",
+        "0085-4610",
+        "0085-7206"
+      ],
+      "rxcui": [],
+      "setid": "116464ce-cfd8-4b9f-8b5a-3a114b6ff2b1",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "8f399784-f257-4f31-b3dc-368bf2a1864d"
+      ],
+      "title": "DULERA (mometasone furoate and formoterol fumarate dihydrate) aerosol"
+    },
+    {
+      "application_numbers": [
+        "NDA020831"
+      ],
+      "archived_versions": 10,
+      "brand_names": [
+        "FORADIL"
+      ],
+      "first_posted": "2006-10-27",
+      "found_by": "FORADIL",
+      "labeler": "Merck Sharp & Dohme Corp.",
+      "labeler_unverified": false,
+      "last_posted": "2016-03-29",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-01-31"
+      ],
+      "product_ndcs": [
+        "0085-1401",
+        "0085-1402"
+      ],
+      "rxcui": [],
+      "setid": "7b9da867-04ad-4ace-a889-9f4ff8bec47b",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "FORADIL (formoterol fumarate) capsule"
+    },
+    {
+      "application_numbers": [
+        "NDA210595"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "DUAKLIR"
+      ],
+      "first_posted": "2022-08-18",
+      "found_by": "DUAKLIR",
+      "labeler": "AstraZeneca Pharmaceuticals LP",
+      "labeler_unverified": false,
+      "last_posted": "2024-05-22",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-04-30"
+      ],
+      "product_ndcs": [
+        "0310-0900"
+      ],
+      "rxcui": [],
+      "setid": "8fdb44a3-4fe3-451c-b18f-d458c04fe7eb",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "2eba3089-28b4-4190-9fba-2511246cfd16"
+      ],
+      "title": "DUAKLIR PRESSAIR (aclidinium bromide and formoterol fumarate) powder, metered"
+    },
+    {
+      "application_numbers": [
+        "NDA210595"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "DUAKLIR"
+      ],
+      "first_posted": "2019-10-11",
+      "found_by": "DUAKLIR",
+      "labeler": "Circassia Pharmaceuticals Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2022-01-25",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-07-31"
+      ],
+      "product_ndcs": [
+        "72124-001"
+      ],
+      "rxcui": [],
+      "setid": "bb24d6b0-0d69-4a3c-a7f4-a35ca4804657",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "2eba3089-28b4-4190-9fba-2511246cfd16"
+      ],
+      "title": "DUAKLIR PRESSAIR (aclidinium bromide and formoterol fumarte) powder, metered"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Laboratories Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2010b5cb-c277-57dd-ed6b-607cad2c45a4"
+    },
+    {
+      "combination": false,
+      "labeler": "Ritedose Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2d9bf685-8886-4865-834b-2748af124b79"
+    },
+    {
+      "combination": false,
+      "labeler": "Ingenus Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "303479a7-80fb-1f6d-e063-6394a90abbda"
+    },
+    {
+      "combination": false,
+      "labeler": "Devatis, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fd0dac5d-e58c-46ee-9d28-1a1ef7a6be5e"
+    },
+    {
+      "combination": true,
+      "labeler": "AstraZeneca Pharmaceuticals LP",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1d266fe8-52e3-4f85-a037-c5c1afa15e60"
+    },
+    {
+      "combination": true,
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dc529fc4-bddb-4673-8202-dc401f86166f"
+    },
+    {
+      "combination": true,
+      "labeler": "Teva Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dd352302-e2fe-4388-b4b0-00b34f6ebe48"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4dbb9620-5731-40d9-8258-2977ecc781c4"
+    }
+  ]
+}

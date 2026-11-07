@@ -1,0 +1,476 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/006322",
+      "eu_number": "EU/1/25/1938",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-006322",
+      "mah": "Camurus AB",
+      "marketing_authorisation_date": "2025-06-30",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/oczyesa",
+      "name": "Oczyesa",
+      "record_from": "2025-06-30",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 1
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-006322",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "OCTREOTIDE",
+    "OCTREOTIDE ACETATE"
+  ],
+  "inn": "octreotide",
+  "name": "OCTREOTIDE",
+  "rank": 322,
+  "rxcui": [
+    "207194",
+    "207198",
+    "207200",
+    "312068",
+    "312069",
+    "312070",
+    "312071",
+    "314152",
+    "1090558",
+    "1090559",
+    "1090560",
+    "2360543",
+    "2360548",
+    "2380611",
+    "2380617"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 14,
+    "approval_holders": 12,
+    "earliest_marketing_start": "1988-10-21",
+    "latest_label_update": "2026-10-15",
+    "nda_bla_applications": 3,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "OCTREOTIDE",
+      "unii": "RWM8CCW8GP"
+    },
+    {
+      "ingredient": "OCTREOTIDE ACETATE",
+      "unii": "75R0U2568I"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA019667"
+      ],
+      "brand_names": [
+        "Sandostatin"
+      ],
+      "combination": false,
+      "home_inn": "octreotide",
+      "ingredients": [
+        "OCTREOTIDE ACETATE"
+      ],
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1988-10-21",
+      "moieties": [
+        "OCTREOTIDE"
+      ],
+      "product_ndcs": [
+        "0078-0180",
+        "0078-0181",
+        "0078-0182"
+      ],
+      "rxcui": [
+        "207194",
+        "207198",
+        "207200",
+        "312068",
+        "312069",
+        "312070"
+      ],
+      "setid": "4e2c9856-1836-49f0-9472-4dbeeb408f39",
+      "source": "openfda",
+      "spl_version": 23,
+      "title": "SANDOSTATIN (OCTREOTIDE ACETATE) INJECTION, SOLUTION [NOVARTIS PHARMACEUTICALS CORPORATION]",
+      "upload_date": "2026-07-24"
+    },
+    {
+      "application_numbers": [
+        "NDA208232"
+      ],
+      "brand_names": [
+        "Mycapssa"
+      ],
+      "combination": false,
+      "home_inn": "octreotide",
+      "ingredients": [
+        "OCTREOTIDE"
+      ],
+      "labeler": "Chiesi USA, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2020-07-06",
+      "moieties": [
+        "OCTREOTIDE"
+      ],
+      "product_ndcs": [
+        "10122-550"
+      ],
+      "rxcui": [
+        "2380611",
+        "2380617"
+      ],
+      "setid": "58d80bc6-bdfb-4908-93e7-aace447c8d1a",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "MYCAPSSA (OCTREOTIDE) CAPSULE, DELAYED RELEASE [CHIESI USA, INC.]",
+      "upload_date": "2025-07-28"
+    },
+    {
+      "application_numbers": [
+        "NDA213224"
+      ],
+      "brand_names": [
+        "BYNFEZIA Pen"
+      ],
+      "combination": false,
+      "home_inn": "octreotide",
+      "ingredients": [
+        "OCTREOTIDE ACETATE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-02-24",
+      "moieties": [
+        "OCTREOTIDE"
+      ],
+      "product_ndcs": [
+        "62756-452"
+      ],
+      "rxcui": [
+        "2360543",
+        "2360548"
+      ],
+      "setid": "20ed4e79-ad4c-426f-859d-83790c00439b",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "BYNFEZIA PEN (OCTREOTIDE ACETATE) INJECTION [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2025-02-25"
+    },
+    {
+      "application_numbers": [
+        "NDA208232"
+      ],
+      "brand_names": [
+        "Mycapssa"
+      ],
+      "combination": false,
+      "home_inn": "octreotide",
+      "ingredients": [
+        "OCTREOTIDE"
+      ],
+      "labeler": "Amryt Pharmaceuticals Designated Activity Company",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2020-07-06",
+      "moieties": [
+        "OCTREOTIDE"
+      ],
+      "product_ndcs": [
+        "69880-120"
+      ],
+      "rxcui": [
+        "2380611",
+        "2380617"
+      ],
+      "setid": "62a5e1eb-b48e-4ea6-8781-f75e490b17e4",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "MYCAPSSA (OCTREOTIDE) CAPSULE, DELAYED RELEASE [AMRYT PHARMACEUTICALS DESIGNATED ACTIVITY COMPANY]",
+      "upload_date": "2025-07-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA076313",
+        "ANDA076330"
+      ],
+      "brand_names": [
+        "Octreotide Acetate"
+      ],
+      "combination": false,
+      "home_inn": "octreotide",
+      "ingredients": [
+        "OCTREOTIDE ACETATE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2005-04-04",
+      "moieties": [
+        "OCTREOTIDE"
+      ],
+      "product_ndcs": [
+        "0641-6174",
+        "0641-6175",
+        "0641-6176",
+        "0641-6177",
+        "0641-6178"
+      ],
+      "rxcui": [
+        "312068",
+        "312069",
+        "312070",
+        "312071",
+        "314152"
+      ],
+      "setid": "9502860d-0261-4d69-a4be-827a5376d356",
+      "source": "dailymed-title-match",
+      "spl_version": 12,
+      "title": "OCTREOTIDE ACETATE INJECTION, SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2026-10-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA077457"
+      ],
+      "brand_names": [
+        "Octreotide"
+      ],
+      "combination": false,
+      "home_inn": "octreotide",
+      "ingredients": [
+        "OCTREOTIDE ACETATE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2006-03-14",
+      "moieties": [
+        "OCTREOTIDE"
+      ],
+      "product_ndcs": [
+        "63323-376",
+        "63323-377"
+      ],
+      "rxcui": [
+        "312069",
+        "312070"
+      ],
+      "setid": "d6a9a800-889d-417f-b533-1913197d0022",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "OCTREOTIDE (OCTREOTIDE ACETATE) INJECTION, SOLUTION [FRESENIUS KABI USA, LLC",
+      "upload_date": "2024-05-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA079198"
+      ],
+      "brand_names": [
+        "Octreotide Acetate"
+      ],
+      "combination": false,
+      "home_inn": "octreotide",
+      "ingredients": [
+        "OCTREOTIDE ACETATE"
+      ],
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-04-01",
+      "moieties": [
+        "OCTREOTIDE"
+      ],
+      "product_ndcs": [
+        "67457-239",
+        "67457-245",
+        "67457-246"
+      ],
+      "rxcui": [
+        "1090558",
+        "1090559",
+        "1090560"
+      ],
+      "setid": "2d78d5d1-77b2-4da1-98d4-d9c36e743ce2",
+      "source": "openfda",
+      "spl_version": 20,
+      "title": "OCTREOTIDE ACETATE INJECTION, SOLUTION [MYLAN INSTITUTIONAL LLC]",
+      "upload_date": "2024-12-16"
+    },
+    {
+      "application_numbers": [
+        "ANDA203765",
+        "ANDA204669"
+      ],
+      "brand_names": [
+        "OCTREOTIDE ACETATE"
+      ],
+      "combination": false,
+      "home_inn": "octreotide",
+      "ingredients": [
+        "OCTREOTIDE ACETATE"
+      ],
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-05-25",
+      "moieties": [
+        "OCTREOTIDE"
+      ],
+      "product_ndcs": [
+        "23155-685",
+        "23155-686",
+        "23155-687",
+        "23155-688",
+        "23155-689"
+      ],
+      "rxcui": [
+        "312068",
+        "312069",
+        "312070",
+        "312071",
+        "314152"
+      ],
+      "setid": "ffaf9462-cdd8-433b-8b03-464a35577fe9",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "OCTREOTIDE ACETATE INJECTION, SOLUTION [HERITAGE PHARMACEUTICALS INC. D/B/A AVET PHARMACEUTICALS INC.]",
+      "upload_date": "2024-12-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA216807"
+      ],
+      "brand_names": [
+        "Octreotide Acetate"
+      ],
+      "combination": false,
+      "home_inn": "octreotide",
+      "ingredients": [
+        "OCTREOTIDE ACETATE"
+      ],
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-06-13",
+      "moieties": [
+        "OCTREOTIDE"
+      ],
+      "product_ndcs": [
+        "68083-515",
+        "68083-516"
+      ],
+      "rxcui": [
+        "312071",
+        "314152"
+      ],
+      "setid": "2344ae7a-c2f0-433b-9133-1dcb16bb18a0",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "OCTREOTIDE ACETATE INJECTION, SOLUTION [GLAND PHARMA LIMITED]",
+      "upload_date": "2024-07-31"
+    },
+    {
+      "application_numbers": [
+        "ANDA216839"
+      ],
+      "brand_names": [
+        "Octreotide Acetate"
+      ],
+      "combination": false,
+      "home_inn": "octreotide",
+      "ingredients": [
+        "OCTREOTIDE ACETATE"
+      ],
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-06-22",
+      "moieties": [
+        "OCTREOTIDE"
+      ],
+      "product_ndcs": [
+        "68083-517",
+        "68083-560"
+      ],
+      "rxcui": [
+        "312069",
+        "312070"
+      ],
+      "setid": "884e4287-a4d8-4a6e-8d99-dbe5e88875b9",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "OCTREOTIDE ACETATE INJECTION, SOLUTION [GLAND PHARMA LIMITED]",
+      "upload_date": "2024-08-05"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Hainan Shuangcheng Pharmaceuticals Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ab9b0d3d-4dab-4c5b-9c23-3a14f8fcfcde"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "01962c67-e551-47b6-a276-e1ae1860d2a4"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f278f0d8-4062-420a-97c3-3a8b88253a08"
+    },
+    {
+      "combination": false,
+      "labeler": "GLENMARK PHARMACEUTICALS INC., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "387d7f8d-9762-4f6b-99e1-bdc50b8a1633"
+    }
+  ]
+}

@@ -1,0 +1,679 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 1,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "only combination central products under this exact INN (combinations are not built)",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "SALMETEROL XINAFOATE"
+  ],
+  "inn": "salmeterol",
+  "name": "SALMETEROL",
+  "rank": 182,
+  "rxcui": [
+    "866048",
+    "866049",
+    "896161",
+    "896165",
+    "896184",
+    "896185",
+    "896186",
+    "896190",
+    "896209",
+    "896212",
+    "896218",
+    "896222",
+    "896228",
+    "896229",
+    "896231",
+    "896235",
+    "896236",
+    "896237",
+    "896239",
+    "896243",
+    "896244",
+    "896245",
+    "896267",
+    "896271",
+    "896272",
+    "896273",
+    "1918194",
+    "1918199",
+    "1918203",
+    "1918205",
+    "1918209",
+    "1918211",
+    "2110510",
+    "2110513",
+    "2110516"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 12,
+    "approval_holders": 8,
+    "earliest_marketing_start": "1997-11-25",
+    "latest_label_update": "2026-09-14",
+    "nda_bla_applications": 4,
+    "repackagers": 5
+  },
+  "unii": [
+    {
+      "ingredient": "SALMETEROL XINAFOATE",
+      "unii": "6EW8Q962A5"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020692"
+      ],
+      "brand_names": [
+        "SEREVENT DISKUS"
+      ],
+      "combination": false,
+      "home_inn": "salmeterol",
+      "ingredients": [
+        "SALMETEROL XINAFOATE"
+      ],
+      "labeler": "GlaxoSmithKline LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1997-11-25",
+      "moieties": [
+        "SALMETEROL"
+      ],
+      "product_ndcs": [
+        "0173-0521"
+      ],
+      "rxcui": [
+        "866048",
+        "866049"
+      ],
+      "setid": "12d9728e-6b5c-4aee-bfb0-745e542ed2e4",
+      "source": "openfda",
+      "spl_version": 32,
+      "title": "SEREVENT DISKUS (SALMETEROL XINAFOATE) POWDER, METERED [GLAXOSMITHKLINE LLC]",
+      "upload_date": "2026-09-07"
+    },
+    {
+      "application_numbers": [
+        "NDA021077"
+      ],
+      "brand_names": [
+        "ADVAIR DISKUS"
+      ],
+      "combination": true,
+      "home_inn": "fluticasone",
+      "ingredients": [
+        "FLUTICASONE PROPIONATE",
+        "SALMETEROL XINAFOATE"
+      ],
+      "labeler": "GlaxoSmithKline LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2001-02-05",
+      "moieties": [
+        "FLUTICASONE",
+        "SALMETEROL"
+      ],
+      "product_ndcs": [
+        "0173-0695",
+        "0173-0696",
+        "0173-0697"
+      ],
+      "rxcui": [
+        "896161",
+        "896165",
+        "896184",
+        "896185",
+        "896186",
+        "896190",
+        "896209",
+        "896212",
+        "896218",
+        "896222",
+        "896228",
+        "896229"
+      ],
+      "setid": "4eeb5f6a-593f-4a9e-9692-adefa2caf8fc",
+      "source": "openfda",
+      "spl_version": 32,
+      "title": "ADVAIR DISKUS (FLUTICASONE PROPIONATE AND SALMETEROL) POWDER [GLAXOSMITHKLINE LLC]",
+      "upload_date": "2026-03-30"
+    },
+    {
+      "application_numbers": [
+        "NDA021254"
+      ],
+      "brand_names": [
+        "ADVAIR HFA"
+      ],
+      "combination": true,
+      "home_inn": "fluticasone",
+      "ingredients": [
+        "FLUTICASONE PROPIONATE",
+        "SALMETEROL XINAFOATE"
+      ],
+      "labeler": "GlaxoSmithKline LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2008-09-29",
+      "moieties": [
+        "FLUTICASONE",
+        "SALMETEROL"
+      ],
+      "product_ndcs": [
+        "0173-0715",
+        "0173-0716",
+        "0173-0717"
+      ],
+      "rxcui": [
+        "896231",
+        "896235",
+        "896236",
+        "896237",
+        "896239",
+        "896243",
+        "896244",
+        "896245",
+        "896267",
+        "896271",
+        "896272",
+        "896273"
+      ],
+      "setid": "dfaca6f9-3277-47b2-319d-1377917cb54c",
+      "source": "openfda",
+      "spl_version": 37,
+      "title": "ADVAIR HFA (FLUTICASONE PROPIONATE AND SALMETEROL XINAFOATE) AEROSOL, METERED [GLAXOSMITHKLINE LLC]",
+      "upload_date": "2026-05-20"
+    },
+    {
+      "application_numbers": [
+        "NDA208799"
+      ],
+      "brand_names": [
+        "AirDuo RespiClick"
+      ],
+      "combination": true,
+      "home_inn": "fluticasone",
+      "ingredients": [
+        "FLUTICASONE PROPIONATE",
+        "SALMETEROL XINAFOATE"
+      ],
+      "labeler": "Teva Respiratory, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-04-12",
+      "moieties": [
+        "FLUTICASONE",
+        "SALMETEROL"
+      ],
+      "product_ndcs": [
+        "59310-805",
+        "59310-812",
+        "59310-822"
+      ],
+      "rxcui": [
+        "1918194",
+        "1918199",
+        "1918203",
+        "1918205",
+        "1918209",
+        "1918211"
+      ],
+      "setid": "9c122b91-a11f-49ca-80bb-3eec5112db87",
+      "source": "dailymed-title-match",
+      "spl_version": 17,
+      "title": "AIRDUO RESPICLICK (FLUTICASONE PROPIONATE AND SALMETEROL) POWDER, METERED [TEVA RESPIRATORY, LLC]",
+      "upload_date": "2026-09-14"
+    },
+    {
+      "application_numbers": [
+        "NDA208799"
+      ],
+      "brand_names": [
+        "Fluticasone Propionate and Salmeterol"
+      ],
+      "combination": true,
+      "home_inn": "salmeterol",
+      "ingredients": [
+        "FLUTICASONE PROPIONATE",
+        "SALMETEROL XINAFOATE"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2017-04-28",
+      "moieties": [
+        "FLUTICASONE",
+        "SALMETEROL"
+      ],
+      "product_ndcs": [
+        "0093-3607",
+        "0093-3608",
+        "0093-3609"
+      ],
+      "rxcui": [
+        "1918194",
+        "1918203",
+        "1918209"
+      ],
+      "setid": "43a27267-2f2b-410d-9c30-9cb95f35d9a1",
+      "source": "dailymed-title-match",
+      "spl_version": 19,
+      "title": "FLUTICASONE PROPIONATE AND SALMETEROL POWDER, METERED [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2026-09-14"
+    },
+    {
+      "application_numbers": [
+        "NDA021077"
+      ],
+      "brand_names": [
+        "Fluticasone Propionate and Salmeterol DISKUS"
+      ],
+      "combination": true,
+      "home_inn": "salmeterol",
+      "ingredients": [
+        "FLUTICASONE PROPIONATE",
+        "SALMETEROL XINAFOATE"
+      ],
+      "labeler": "Prasco Laboratories",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2019-02-08",
+      "moieties": [
+        "FLUTICASONE",
+        "SALMETEROL"
+      ],
+      "product_ndcs": [
+        "66993-584",
+        "66993-585",
+        "66993-586"
+      ],
+      "rxcui": [
+        "896184",
+        "896209",
+        "896228"
+      ],
+      "setid": "6eb6ddac-fa26-43b3-bf3e-5b7b58138fdc",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "FLUTICASONE PROPIONATE AND SALMETEROL DISKUS (FLUTICASONE PROPIONATE AND SALMETEROL) POWDER [PRASCO LABORATORIES]",
+      "upload_date": "2026-06-10"
+    },
+    {
+      "application_numbers": [
+        "NDA021254"
+      ],
+      "brand_names": [
+        "Fluticasone Propionate and Salmeterol HFA"
+      ],
+      "combination": true,
+      "home_inn": "salmeterol",
+      "ingredients": [
+        "FLUTICASONE PROPIONATE",
+        "SALMETEROL XINAFOATE"
+      ],
+      "labeler": "Prasco Laboratories",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2023-03-01",
+      "moieties": [
+        "FLUTICASONE",
+        "SALMETEROL"
+      ],
+      "product_ndcs": [
+        "66993-086",
+        "66993-087",
+        "66993-088"
+      ],
+      "rxcui": [
+        "896236",
+        "896244",
+        "896272"
+      ],
+      "setid": "666c5b12-a4f7-4c53-8261-4742b5e5a6df",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "FLUTICASONE PROPIONATE AND SALMETEROL HFA (FLUTICASONE PROPIONATE AND SALMETEROL XINAFOATE) AEROSOL, METERED [PRASCO LABORATORIES]",
+      "upload_date": "2026-03-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA208891"
+      ],
+      "brand_names": [
+        "Wixela Inhub"
+      ],
+      "combination": true,
+      "home_inn": "salmeterol",
+      "ingredients": [
+        "FLUTICASONE PROPIONATE",
+        "SALMETEROL XINAFOATE"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-02-11",
+      "moieties": [
+        "FLUTICASONE",
+        "SALMETEROL"
+      ],
+      "product_ndcs": [
+        "0378-9320",
+        "0378-9321",
+        "0378-9322"
+      ],
+      "rxcui": [
+        "896184",
+        "896209",
+        "896228",
+        "2110510",
+        "2110513",
+        "2110516"
+      ],
+      "setid": "3beef422-8a07-4a45-9ba6-414511e4b7e2",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "WIXELA INHUB (FLUTICASONE PROPIONATE AND SALMETEROL) POWDER [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2022-09-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA203433"
+      ],
+      "brand_names": [
+        "fluticasone propionate and salmeterol"
+      ],
+      "combination": true,
+      "home_inn": "salmeterol",
+      "ingredients": [
+        "FLUTICASONE PROPIONATE",
+        "SALMETEROL XINAFOATE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-12-17",
+      "moieties": [
+        "FLUTICASONE",
+        "SALMETEROL"
+      ],
+      "product_ndcs": [
+        "0054-0326",
+        "0054-0327",
+        "0054-0328"
+      ],
+      "rxcui": [
+        "896184",
+        "896209",
+        "896228"
+      ],
+      "setid": "f9fcfc90-3677-4a9b-900e-44417d50d507",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "FLUTICASONE PROPIONATE AND SALMETEROL POWDER [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2024-12-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA214464"
+      ],
+      "brand_names": [
+        "Fluticasone Propionate and Salmeterol"
+      ],
+      "combination": true,
+      "home_inn": "salmeterol",
+      "ingredients": [
+        "FLUTICASONE PROPIONATE",
+        "SALMETEROL XINAFOATE"
+      ],
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-11-29",
+      "moieties": [
+        "FLUTICASONE",
+        "SALMETEROL"
+      ],
+      "product_ndcs": [
+        "0527-6010",
+        "0527-6011"
+      ],
+      "rxcui": [
+        "896184",
+        "896209"
+      ],
+      "setid": "9c1680db-16e9-4658-977b-110631f95a65",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "FLUTICASONE PROPIONATE AND SALMETEROL POWDER [LANNETT COMPANY, INC.]",
+      "upload_date": "2026-05-11"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "ADVAIR"
+      ],
+      "first_posted": "2008-06-17",
+      "found_by": "ADVAIR",
+      "labeler": "GlaxoSmithKline",
+      "labeler_unverified": false,
+      "last_posted": "2008-06-17",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0173-0695",
+        "0173-0696",
+        "0173-0697"
+      ],
+      "rxcui": [],
+      "setid": "13f62927-772d-49a7-a7b0-240932b99628",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "advair diskus (fluticasone propionate and salmeterol xinafoate) powder for respiratory (inhalation) use"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "ADVAIR"
+      ],
+      "first_posted": "2018-03-13",
+      "found_by": "ADVAIR",
+      "labeler": "Glaxo Wellcome Production",
+      "labeler_unverified": true,
+      "last_posted": "2018-03-13",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "60937-005",
+        "60937-006",
+        "60937-007"
+      ],
+      "rxcui": [],
+      "setid": "1ae9d924-e047-40ac-97e4-595a427b547f",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ADVAIR DISKUS (fluticasone propionate and salmeterol) powder"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "SEREVENT"
+      ],
+      "first_posted": "2007-08-24",
+      "found_by": "SEREVENT",
+      "labeler": "GlaxoSmithKline",
+      "labeler_unverified": false,
+      "last_posted": "2007-08-24",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0173-0520",
+        "0173-0521"
+      ],
+      "rxcui": [],
+      "setid": "688da899-590a-491c-909c-d140db07d849",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "serevent (salmeterol xinafoate) powder"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "ADVAIR"
+      ],
+      "first_posted": "2018-01-05",
+      "found_by": "ADVAIR",
+      "labeler": "Glaxo Operations UK Ltd",
+      "labeler_unverified": true,
+      "last_posted": "2018-01-05",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "63379-043",
+        "63379-044",
+        "63379-045"
+      ],
+      "rxcui": [],
+      "setid": "71924fb6-0a78-473f-b38b-9b2c7aed646f",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ADVAIR DISKUS (fluticasone propionate and salmeterol) powder"
+    },
+    {
+      "application_numbers": [
+        "NDA208799"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "AIRDUO"
+      ],
+      "first_posted": "2020-09-15",
+      "found_by": "AIRDUO",
+      "labeler": "Teva Respiratory, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2024-04-30",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-08-31",
+        "2025-07-31"
+      ],
+      "product_ndcs": [
+        "59310-111",
+        "59310-129",
+        "59310-136",
+        "59310-510",
+        "59310-520",
+        "59310-530"
+      ],
+      "rxcui": [],
+      "setid": "ac79cc13-4241-427c-a69b-6b00dafcef00",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "43a27267-2f2b-410d-9c30-9cb95f35d9a1",
+        "9c122b91-a11f-49ca-80bb-3eec5112db87"
+      ],
+      "title": "AIRDUO DIGIHALER (fluticasone propionate and salmeterol) powder, metered"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "SEREVENT"
+      ],
+      "first_posted": "2006-08-29",
+      "found_by": "SEREVENT",
+      "labeler": "GlaxoSmithKline",
+      "labeler_unverified": false,
+      "last_posted": "2006-08-29",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0173-0464",
+        "0173-0465",
+        "0173-0467"
+      ],
+      "rxcui": [],
+      "setid": "c53c5704-dcb5-4bd5-3cbc-4fdc3ec0df6d",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "serevent (salmeterol xinafoate) aerosol"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "ADVAIR"
+      ],
+      "first_posted": "2018-01-05",
+      "found_by": "ADVAIR",
+      "labeler": "GlaxoSmithKline LLC",
+      "labeler_unverified": true,
+      "last_posted": "2018-01-05",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "58437-000",
+        "58437-001",
+        "58437-002"
+      ],
+      "rxcui": [],
+      "setid": "f78710a4-4213-47db-b608-ffe759c447b2",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ADVAIR DISKUS (fluticasone propionate and salmeterol) powder"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": true,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1349a04c-2024-42b9-b81d-a7d995716ade"
+    },
+    {
+      "combination": true,
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA",
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ce347bf4-4cc1-46dc-b5f1-6f8ff48da84b"
+    }
+  ]
+}

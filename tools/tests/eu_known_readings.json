@@ -1,0 +1,136 @@
+{
+  "description": "Five EU readings for build/eu. Each quote is one line of the given SmPC section file. It first appears in the English Annex I of first_decision and is absent from the annex of absent_before, the previous converted decision of the same product. Checked against the PDF page text (PyMuPDF, whitespace collapsed, no converter) of both annexes, identified by SHA-256 in raw/eu/sha256/, and against build/eu by tools/tests/test_eu.py KnownReadingsTest.",
+  "checked": "2026-11-01",
+  "readings": [
+    {
+      "product": "EMEA-H-C-000252",
+      "inn": "abacavir",
+      "name": "Ziagen",
+      "eu_number": "EU/1/99/112",
+      "section": "smpc-4.4-special-warnings-and-precautions-for-use",
+      "quote": "In addition, two retrospective, case-controlled pharmacogenetic studies have shown that carriage of HLA-B*5701 is associated with a significantly increased risk of clinically suspected hypersensitivity in Caucasians.",
+      "first_decision": {
+        "procedure_id": "16988",
+        "decision_number": "(2006) 5915",
+        "decision_date": "2006-11-28",
+        "ema_procedure": "EMEA/H/C/252/II/37, 38",
+        "source_url": "https://ec.europa.eu/health/documents/community-register/2006/2006112816988/anx_16988_en.pdf",
+        "sha256": "f6e4a92a032e4864dbd1bc50c54937f7d02985ef27c57540dda1526b09c4af0e"
+      },
+      "absent_before": {
+        "procedure_id": "10527",
+        "decision_number": "(2005) 4388",
+        "decision_date": "2005-11-07",
+        "ema_procedure": "EMEA/H/C/252/II/30",
+        "source_url": "https://ec.europa.eu/health/documents/community-register/2005/2005110710527/anx_10527_en.pdf",
+        "sha256": "b34054722673484f2f35c96f12adb15efd38930f4b546d9e1a134e18fb5ad4e4"
+      },
+      "reading_date": "2006-11-28",
+      "reading": "On 2006-11-28 Ziagen section 4.4 carries the quoted sentence; the annex of decision (2005) 4388 (2005-11-07), in force until then, does not."
+    },
+    {
+      "product": "EMEA-H-C-000073",
+      "inn": "docetaxel",
+      "name": "Taxotere",
+      "eu_number": "EU/1/95/002",
+      "section": "smpc-4.4-special-warnings-and-precautions-for-use",
+      "quote": "Cystoid macular oedema (CMO) has been reported in patients treated with docetaxel.",
+      "first_decision": {
+        "procedure_id": "127972",
+        "decision_number": "(2014) 784",
+        "decision_date": "2014-02-06",
+        "ema_procedure": null,
+        "source_url": "https://ec.europa.eu/health/documents/community-register/2014/20140206127972/anx_127972_en.pdf",
+        "sha256": "ed634d9d3815ee0051ebdac7a3984cb5375b274c4e5021ba039a963c23224e72"
+      },
+      "absent_before": {
+        "procedure_id": "123910",
+        "decision_number": "(2012) 5276",
+        "decision_date": "2012-07-20",
+        "ema_procedure": null,
+        "source_url": "https://ec.europa.eu/health/documents/community-register/2012/20120720123910/anx_123910_en.pdf",
+        "sha256": "daa43514efdd1442920de29b99dae3ed6676f4c53a86ff7c8ce5e3053e098c82"
+      },
+      "reading_date": "2014-02-06",
+      "reading": "On 2014-02-06 Taxotere section 4.4 carries the quoted sentence; the annex of decision (2012) 5276 (2012-07-20), in force until then, does not."
+    },
+    {
+      "product": "EMEA-H-C-002677",
+      "inn": "empagliflozin",
+      "name": "Jardiance",
+      "eu_number": "EU/1/14/930",
+      "section": "smpc-4.4-special-warnings-and-precautions-for-use",
+      "quote": "Rare cases of diabetic ketoacidosis (DKA), including life-threatening cases, have been reported in clinical trials and post-marketing in patients treated with SGLT2 inhibitors, including empagliflozin.",
+      "first_decision": {
+        "procedure_id": "134555",
+        "decision_number": "(2016) 2628",
+        "decision_date": "2016-04-25",
+        "ema_procedure": "EMEA/H/A-20/1419/C/2677/7",
+        "source_url": "https://ec.europa.eu/health/documents/community-register/2016/20160425134555/anx_134555_en.pdf",
+        "sha256": "fb1672cdb29d95e728acec1fe015d110bc473eb264eb25b3958d6b7f9209a506"
+      },
+      "absent_before": {
+        "procedure_id": "133765",
+        "decision_number": "(2015) 9548",
+        "decision_date": "2015-12-14",
+        "ema_procedure": null,
+        "source_url": "https://ec.europa.eu/health/documents/community-register/2015/20151214133765/anx_133765_en.pdf",
+        "sha256": "339d48e6e6cc10c2f10bdbb980efa252b49e0754afdf662f53523dfe4e80798d"
+      },
+      "reading_date": "2016-04-25",
+      "reading": "On 2016-04-25 Jardiance section 4.4 carries the quoted sentence; the annex of decision (2015) 9548 (2015-12-14), in force until then, does not."
+    },
+    {
+      "product": "EMEA-H-C-003820",
+      "inn": "pembrolizumab",
+      "name": "Keytruda",
+      "eu_number": "EU/1/15/1024",
+      "section": "smpc-4.1-therapeutic-indications",
+      "quote": "KEYTRUDA is indicated for the treatment of locally advanced or metastatic non-small cell lung carcinoma (NSCLC) in adults whose tumours express PD-L1 and who have received at least one prior chemotherapy regimen.",
+      "first_decision": {
+        "procedure_id": "135466",
+        "decision_number": "(2016) 5075",
+        "decision_date": "2016-07-29",
+        "ema_procedure": "EMEA/H/C/3820/II/7",
+        "source_url": "https://ec.europa.eu/health/documents/community-register/2016/20160729135466/anx_135466_en.pdf",
+        "sha256": "1143369dc25d9e6e359b21706db1cd5f16559446b59c68ee4acaa3f44a8712f0"
+      },
+      "absent_before": {
+        "procedure_id": "132284",
+        "decision_number": "(2015) 5144",
+        "decision_date": "2015-07-17",
+        "ema_procedure": "EMEA/H/C/3820",
+        "source_url": "https://ec.europa.eu/health/documents/community-register/2015/20150717132284/anx_132284_en.pdf",
+        "sha256": "d12e8d4818da384129d0f23164735bb09838bc64f362d48b8e1aa6e072cf232f"
+      },
+      "reading_date": "2016-07-29",
+      "reading": "On 2016-07-29 Keytruda section 4.1 carries the quoted sentence; the annex of decision (2015) 5144 (2015-07-17), in force until then, does not."
+    },
+    {
+      "product": "EMEA-H-C-004174",
+      "inn": "semaglutide",
+      "name": "Ozempic",
+      "eu_number": "EU/1/17/1251",
+      "section": "smpc-4.4-special-warnings-and-precautions-for-use",
+      "quote": "Cases of pulmonary aspiration have been reported in patients receiving GLP-1 receptor agonists undergoing general anaesthesia or deep sedation.",
+      "first_decision": {
+        "procedure_id": "167540",
+        "decision_number": "(2025) 6459",
+        "decision_date": "2025-09-17",
+        "ema_procedure": null,
+        "source_url": "https://ec.europa.eu/health/documents/community-register/2025/20250917167540/anx_167540_en.pdf",
+        "sha256": "c9261acd192a157cd05fe83112101c1766c3383ec709f9644a2ed9ee7a2b51de"
+      },
+      "absent_before": {
+        "procedure_id": "162750",
+        "decision_number": "(2024) 3991",
+        "decision_date": "2024-06-10",
+        "ema_procedure": "EMEA/H/C/004174/X/0043",
+        "source_url": "https://ec.europa.eu/health/documents/community-register/2024/20240610162750/anx_162750_en.pdf",
+        "sha256": "50b302159d236079f71bbff44b44442b2671144752d3e1bef24e1e17a8f4752d"
+      },
+      "reading_date": "2025-09-17",
+      "reading": "On 2025-09-17 Ozempic section 4.4 carries the quoted sentence; the annex of decision (2024) 3991 (2024-06-10), in force until then, does not."
+    }
+  ]
+}

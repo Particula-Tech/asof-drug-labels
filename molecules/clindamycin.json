@@ -1,0 +1,1689 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "CLINDAMYCIN",
+    "CLINDAMYCIN HYDROCHLORIDE",
+    "CLINDAMYCIN PALMITATE HYDROCHLORIDE",
+    "CLINDAMYCIN PHOSPHATE"
+  ],
+  "inn": "clindamycin",
+  "name": "CLINDAMYCIN",
+  "rank": 12,
+  "rxcui": [
+    "197518",
+    "197519",
+    "205964",
+    "259233",
+    "284215",
+    "309329",
+    "309332",
+    "309333",
+    "309335",
+    "309336",
+    "309337",
+    "309339",
+    "351330",
+    "562266",
+    "602427",
+    "685574",
+    "685576",
+    "685578",
+    "706461",
+    "748743",
+    "748746",
+    "748748",
+    "748750",
+    "804973",
+    "804975",
+    "804978",
+    "882533",
+    "882536",
+    "882548",
+    "882550",
+    "1737244",
+    "1737245",
+    "1737578",
+    "1737579",
+    "1737581",
+    "1737582",
+    "2587810",
+    "2587815",
+    "2676585"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 94,
+    "approval_holders": 38,
+    "earliest_marketing_start": "1970-05-22",
+    "latest_label_update": "2026-10-26",
+    "nda_bla_applications": 12,
+    "repackagers": 30
+  },
+  "unii": [
+    {
+      "ingredient": "CLINDAMYCIN",
+      "unii": "3U02EL437C"
+    },
+    {
+      "ingredient": "CLINDAMYCIN HYDROCHLORIDE",
+      "unii": "T20OQ1YN1W"
+    },
+    {
+      "ingredient": "CLINDAMYCIN PALMITATE HYDROCHLORIDE",
+      "unii": "VN9A8JM7M7"
+    },
+    {
+      "ingredient": "CLINDAMYCIN PHOSPHATE",
+      "unii": "EH6D7113I8"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA050162"
+      ],
+      "brand_names": [
+        "Cleocin Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "clindamycin",
+      "ingredients": [
+        "CLINDAMYCIN HYDROCHLORIDE"
+      ],
+      "labeler": "Pharmacia & Upjohn Company LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1970-05-22",
+      "moieties": [
+        "CLINDAMYCIN"
+      ],
+      "product_ndcs": [
+        "0009-0225",
+        "0009-0331",
+        "0009-0395"
+      ],
+      "rxcui": [
+        "197518",
+        "284215",
+        "309329",
+        "748746",
+        "748748",
+        "748750"
+      ],
+      "setid": "df9a2a41-b132-4f43-8940-b2d773b1369a",
+      "source": "dailymed-title-match",
+      "spl_version": 41,
+      "title": "CLEOCIN HYDROCHLORIDE (CLINDAMYCIN HYDROCHLORIDE) CAPSULE [PHARMACIA & UPJOHN COMPANY LLC]",
+      "upload_date": "2026-09-16"
+    },
+    {
+      "application_numbers": [
+        "NDA050441"
+      ],
+      "brand_names": [
+        "Cleocin Phosphate"
+      ],
+      "combination": false,
+      "home_inn": "clindamycin",
+      "ingredients": [
+        "CLINDAMYCIN PHOSPHATE"
+      ],
+      "labeler": "Pharmacia & Upjohn Company LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1972-10-02",
+      "moieties": [
+        "CLINDAMYCIN"
+      ],
+      "product_ndcs": [
+        "0009-0775",
+        "0009-0870",
+        "0009-0902"
+      ],
+      "rxcui": [
+        "205964",
+        "309335",
+        "309336",
+        "309339",
+        "685574",
+        "685576",
+        "685578",
+        "706461",
+        "1737244",
+        "1737245",
+        "1737578",
+        "1737579",
+        "1737581",
+        "1737582"
+      ],
+      "setid": "05a75685-0af5-407c-ac57-e380c882b49d",
+      "source": "openfda",
+      "spl_version": 60,
+      "title": "CLEOCIN PHOSPHATE (CLINDAMYCIN PHOSPHATE) INJECTION, SOLUTION CLEOCIN PHOSPHATE (0009-6582) (STANDALONE) (CLINDAMYCIN PHOSPHATE) INJECTION, SOLUTION [PHARMACIA & UPJOHN COMPANY LLC]",
+      "upload_date": "2026-07-31"
+    },
+    {
+      "application_numbers": [
+        "NDA050600"
+      ],
+      "brand_names": [
+        "Cleocin T"
+      ],
+      "combination": false,
+      "home_inn": "clindamycin",
+      "ingredients": [
+        "CLINDAMYCIN PHOSPHATE"
+      ],
+      "labeler": "Pharmacia & Upjohn Company LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1989-05-31",
+      "moieties": [
+        "CLINDAMYCIN"
+      ],
+      "product_ndcs": [
+        "0009-3329"
+      ],
+      "rxcui": [
+        "197519",
+        "309333",
+        "804973",
+        "804975",
+        "804978",
+        "2676585"
+      ],
+      "setid": "4a3901a4-194f-4a15-9c85-3d0982afcf31",
+      "source": "openfda",
+      "spl_version": 30,
+      "title": "CLEOCIN T (CLINDAMYCIN PHOSPHATE) SOLUTION CLEOCIN T (CLINDAMYCIN PHOSPHATE) LOTION CLEOCIN T (CLINDAMYCIN PHOSPHATE) GEL [PHARMACIA & UPJOHN COMPANY LLC]",
+      "upload_date": "2025-11-24"
+    },
+    {
+      "application_numbers": [
+        "NDA050680"
+      ],
+      "brand_names": [
+        "Cleocin"
+      ],
+      "combination": false,
+      "home_inn": "clindamycin",
+      "ingredients": [
+        "CLINDAMYCIN PHOSPHATE"
+      ],
+      "labeler": "Pharmacia & Upjohn Company LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1992-08-11",
+      "moieties": [
+        "CLINDAMYCIN"
+      ],
+      "product_ndcs": [
+        "0009-3448"
+      ],
+      "rxcui": [
+        "309337",
+        "882536"
+      ],
+      "setid": "f9be442d-0782-4b93-828f-9ebbf67dbced",
+      "source": "openfda",
+      "spl_version": 23,
+      "title": "CLEOCIN (CLINDAMYCIN PHOSPHATE) CREAM [PHARMACIA & UPJOHN COMPANY LLC]",
+      "upload_date": "2025-11-19"
+    },
+    {
+      "application_numbers": [
+        "NDA050782"
+      ],
+      "brand_names": [
+        "Clindagel"
+      ],
+      "combination": false,
+      "home_inn": "clindamycin",
+      "ingredients": [
+        "CLINDAMYCIN PHOSPHATE"
+      ],
+      "labeler": "Bausch Health US, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2013-11-25",
+      "moieties": [
+        "CLINDAMYCIN"
+      ],
+      "product_ndcs": [
+        "16781-462"
+      ],
+      "rxcui": [
+        "309332",
+        "351330"
+      ],
+      "setid": "f7b4e985-719a-4547-b624-94612d520991",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "CLINDAGEL (CLINDAMYCIN) GEL [BAUSCH HEALTH US, LLC]",
+      "upload_date": "2025-09-03"
+    },
+    {
+      "application_numbers": [
+        "NDA050793"
+      ],
+      "brand_names": [
+        "Clindesse"
+      ],
+      "combination": false,
+      "home_inn": "clindamycin",
+      "ingredients": [
+        "CLINDAMYCIN PHOSPHATE"
+      ],
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-07-03",
+      "moieties": [
+        "CLINDAMYCIN"
+      ],
+      "product_ndcs": [
+        "45802-042"
+      ],
+      "rxcui": [
+        "309337",
+        "602427"
+      ],
+      "setid": "fe8bb204-f173-44fe-803b-b08f2ec5aa31",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "CLINDESSE (CLINDAMYCIN PHOSPHATE) CREAM [PADAGIS ISRAEL PHARMACEUTICALS LTD]",
+      "upload_date": "2026-01-08"
+    },
+    {
+      "application_numbers": [
+        "NDA208083"
+      ],
+      "brand_names": [
+        "clindamycin phosphate"
+      ],
+      "combination": false,
+      "home_inn": "clindamycin",
+      "ingredients": [
+        "CLINDAMYCIN PHOSPHATE"
+      ],
+      "labeler": "Baxter Healthcare Company",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-04-20",
+      "moieties": [
+        "CLINDAMYCIN"
+      ],
+      "product_ndcs": [
+        "0338-9545",
+        "0338-9549",
+        "0338-9553"
+      ],
+      "rxcui": [
+        "309335",
+        "309336",
+        "309339"
+      ],
+      "setid": "44fa506b-90ac-42de-831b-5f3f1a500fc0",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "CLINDAMYCIN PHOSPHATE INJECTION, SOLUTION [BAXTER HEALTHCARE COMPANY]",
+      "upload_date": "2026-05-11"
+    },
+    {
+      "application_numbers": [
+        "NDA215650"
+      ],
+      "brand_names": [
+        "XACIATO"
+      ],
+      "combination": false,
+      "home_inn": "clindamycin",
+      "ingredients": [
+        "CLINDAMYCIN PHOSPHATE"
+      ],
+      "labeler": "Organon LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-10-13",
+      "moieties": [
+        "CLINDAMYCIN"
+      ],
+      "product_ndcs": [
+        "78206-189"
+      ],
+      "rxcui": [
+        "2587810",
+        "2587815"
+      ],
+      "setid": "0423007f-28fa-4159-bf58-9174626d2347",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "XACIATO (CLINDAMYCIN PHOSPHATE) GEL [ORGANON LLC]",
+      "upload_date": "2026-02-23"
+    },
+    {
+      "application_numbers": [
+        "NDA050767"
+      ],
+      "brand_names": [
+        "Cleocin"
+      ],
+      "combination": false,
+      "home_inn": "clindamycin",
+      "ingredients": [
+        "CLINDAMYCIN PHOSPHATE"
+      ],
+      "labeler": "Pharmacia & Upjohn Company LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-02-03",
+      "moieties": [
+        "CLINDAMYCIN"
+      ],
+      "product_ndcs": [
+        "0009-7667"
+      ],
+      "rxcui": [
+        "259233",
+        "882533"
+      ],
+      "setid": "3db26227-208d-4fdd-8426-1d9be5cda9b4",
+      "source": "openfda",
+      "spl_version": 32,
+      "title": "CLEOCIN (CLINDAMYCIN PHOSPHATE) SUPPOSITORY [PHARMACIA & UPJOHN COMPANY LLC]",
+      "upload_date": "2026-03-11"
+    },
+    {
+      "application_numbers": [
+        "NDA050802"
+      ],
+      "brand_names": [
+        "ZIANA"
+      ],
+      "combination": true,
+      "home_inn": "clindamycin",
+      "ingredients": [
+        "CLINDAMYCIN PHOSPHATE",
+        "TRETINOIN"
+      ],
+      "labeler": "Bausch Health US, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2006-12-01",
+      "moieties": [
+        "CLINDAMYCIN",
+        "TRETINOIN"
+      ],
+      "product_ndcs": [
+        "99207-300"
+      ],
+      "rxcui": [
+        "882548",
+        "882550"
+      ],
+      "setid": "78c329f9-f0c9-486d-9e54-0123699fb9e1",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "ZIANA (CLINDAMYCIN PHOSPHATE AND TRETINOIN) GEL [BAUSCH HEALTH US, LLC]",
+      "upload_date": "2026-05-11"
+    },
+    {
+      "application_numbers": [
+        "NDA050600",
+        "NDA050615"
+      ],
+      "brand_names": [
+        "clindamycin phosphate"
+      ],
+      "combination": false,
+      "home_inn": "clindamycin",
+      "ingredients": [
+        "CLINDAMYCIN PHOSPHATE"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "1987-01-07",
+      "moieties": [
+        "CLINDAMYCIN"
+      ],
+      "product_ndcs": [
+        "59762-3743",
+        "59762-3744"
+      ],
+      "rxcui": [
+        "197519",
+        "309333",
+        "2676585"
+      ],
+      "setid": "f7480256-8b32-419a-8983-e2c413040dba",
+      "source": "openfda",
+      "spl_version": 25,
+      "title": "CLINDAMYCIN PHOSPHATE SOLUTION CLINDAMYCIN PHOSPHATE LOTION CLINDAMYCIN PHOSPHATE GEL [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2025-12-15"
+    },
+    {
+      "application_numbers": [
+        "NDA050680"
+      ],
+      "brand_names": [
+        "clindamycin phosphate"
+      ],
+      "combination": false,
+      "home_inn": "clindamycin",
+      "ingredients": [
+        "CLINDAMYCIN PHOSPHATE"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "1992-08-11",
+      "moieties": [
+        "CLINDAMYCIN"
+      ],
+      "product_ndcs": [
+        "59762-5009"
+      ],
+      "rxcui": [
+        "309337"
+      ],
+      "setid": "b52bdaf7-3b54-4165-9ab0-9dfa08170e47",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "CLINDAMYCIN PHOSPHATE CREAM [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2026-08-11"
+    },
+    {
+      "application_numbers": [
+        "NDA050782"
+      ],
+      "brand_names": [
+        "Clindamycin Phosphate"
+      ],
+      "combination": false,
+      "home_inn": "clindamycin",
+      "ingredients": [
+        "CLINDAMYCIN PHOSPHATE"
+      ],
+      "labeler": "Oceanside Pharmaceuticals",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2018-06-08",
+      "moieties": [
+        "CLINDAMYCIN"
+      ],
+      "product_ndcs": [
+        "68682-462"
+      ],
+      "rxcui": [
+        "309332"
+      ],
+      "setid": "7fd5e0a2-159b-4147-947e-944eeebc1783",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "CLINDAMYCIN PHOSPHATE GEL [OCEANSIDE PHARMACEUTICALS]",
+      "upload_date": "2025-09-03"
+    },
+    {
+      "application_numbers": [
+        "ANDA062644"
+      ],
+      "brand_names": [
+        "Cleocin Pediatric"
+      ],
+      "combination": false,
+      "home_inn": "clindamycin",
+      "ingredients": [
+        "CLINDAMYCIN PALMITATE HYDROCHLORIDE"
+      ],
+      "labeler": "Pharmacia & Upjohn Company LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1986-04-17",
+      "moieties": [
+        "CLINDAMYCIN"
+      ],
+      "product_ndcs": [
+        "0009-0760"
+      ],
+      "rxcui": [
+        "562266",
+        "748743"
+      ],
+      "setid": "1ef87b6c-9d32-44ac-8c55-8bf01424cc45",
+      "source": "openfda",
+      "spl_version": 35,
+      "title": "CLEOCIN PEDIATRIC (CLINDAMYCIN PALMITATE HYDROCHLORIDE) GRANULE, FOR SOLUTION [PHARMACIA & UPJOHN COMPANY LLC]",
+      "upload_date": "2026-06-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA064159",
+        "ANDA064160",
+        "ANDA065067"
+      ],
+      "brand_names": [
+        "clindamycin phosphate"
+      ],
+      "combination": false,
+      "home_inn": "clindamycin",
+      "ingredients": [
+        "CLINDAMYCIN PHOSPHATE"
+      ],
+      "labeler": "E. Fougera & Co. a division of Fougera Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1997-06-05",
+      "moieties": [
+        "CLINDAMYCIN"
+      ],
+      "product_ndcs": [
+        "0168-0201",
+        "0168-0202",
+        "0168-0203"
+      ],
+      "rxcui": [
+        "197519",
+        "309333",
+        "2676585"
+      ],
+      "setid": "62a2019f-7410-4251-95ed-181925ade6e4",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "CLINDAMYCIN PHOSPHATE LOTION CLINDAMYCIN PHOSPHATE SOLUTION CLINDAMYCIN PHOSPHATE GEL [E. FOUGERA & CO. A DIVISION OF FOUGERA PHARMACEUTICALS, LLC]",
+      "upload_date": "2026-03-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA065061"
+      ],
+      "brand_names": [
+        "Clindamycin hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "clindamycin",
+      "ingredients": [
+        "CLINDAMYCIN HYDROCHLORIDE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2001-03-23",
+      "moieties": [
+        "CLINDAMYCIN"
+      ],
+      "product_ndcs": [
+        "63304-692",
+        "63304-693"
+      ],
+      "rxcui": [
+        "197518",
+        "284215"
+      ],
+      "setid": "1dbd8448-c1e5-46df-8060-50ef82380445",
+      "source": "dailymed-title-match",
+      "spl_version": 20,
+      "title": "CLINDAMYCIN HYDROCHLORIDE CAPSULE [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2026-10-19"
+    },
+    {
+      "application_numbers": [
+        "NDA050801"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "EVOCLIN"
+      ],
+      "first_posted": "2018-04-19",
+      "found_by": "EVOCLIN",
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2023-03-13",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-05-31"
+      ],
+      "product_ndcs": [
+        "0378-8134"
+      ],
+      "rxcui": [],
+      "setid": "0bf27280-f246-4087-9dd4-3649c57810bb",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "EVOCLIN (clindamycin phosphate) aerosol, foam"
+    },
+    {
+      "application_numbers": [
+        "NDA215650"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "XACIATO"
+      ],
+      "first_posted": "2021-12-21",
+      "found_by": "XACIATO",
+      "labeler": "Daré Bioscience, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2022-12-02",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-11-18"
+      ],
+      "product_ndcs": [
+        "81505-100"
+      ],
+      "rxcui": [],
+      "setid": "1f55f371-a27d-4331-815b-d8a90874223a",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "0423007f-28fa-4159-bf58-9174626d2347"
+      ],
+      "title": "XACIATO (clindamycin phosphate) gel"
+    },
+    {
+      "application_numbers": [
+        "NDA050801"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "EVOCLIN"
+      ],
+      "first_posted": "2007-03-19",
+      "found_by": "EVOCLIN",
+      "labeler": "Stiefel Laboratories Inc",
+      "labeler_unverified": true,
+      "last_posted": "2013-01-09",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-03-31"
+      ],
+      "product_ndcs": [
+        "63032-061"
+      ],
+      "rxcui": [],
+      "setid": "6d2cda9a-449c-4d06-8f9b-e5a2cce059fe",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "EVOCLIN (clindamycin phosphate) aerosol, foam"
+    },
+    {
+      "application_numbers": [
+        "NDA050782"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "CLINDAGEL"
+      ],
+      "first_posted": "2010-12-01",
+      "found_by": "CLINDAGEL",
+      "labeler": "Galderma Laboratories, L.P.",
+      "labeler_unverified": false,
+      "last_posted": "2013-12-17",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-07-01"
+      ],
+      "product_ndcs": [
+        "0299-4500"
+      ],
+      "rxcui": [],
+      "setid": "a53c3ef3-d89d-4c63-b3cd-521d1de531c5",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "7fd5e0a2-159b-4147-947e-944eeebc1783",
+        "f7b4e985-719a-4547-b624-94612d520991"
+      ],
+      "title": "CLINDAGEL (clindamycin phosphate) gel"
+    },
+    {
+      "application_numbers": [
+        "NDA050767"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "CLEOCIN"
+      ],
+      "first_posted": "2015-09-14",
+      "found_by": "CLEOCIN",
+      "labeler": "U.S. Pharmaceuticals",
+      "labeler_unverified": false,
+      "last_posted": "2020-11-20",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-10-05"
+      ],
+      "product_ndcs": [
+        "63539-011"
+      ],
+      "rxcui": [],
+      "setid": "c72f21f8-c81a-4e4c-9c98-ed46a57b3343",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "3db26227-208d-4fdd-8426-1d9be5cda9b4"
+      ],
+      "title": "CLEOCIN (clindamycin phosphate) suppository"
+    },
+    {
+      "application_numbers": [
+        "NDA050441",
+        "NDA050639"
+      ],
+      "archived_versions": 26,
+      "brand_names": [
+        "CLEOCIN"
+      ],
+      "first_posted": "2014-04-11",
+      "found_by": "CLEOCIN",
+      "labeler": "Pharmacia & Upjohn Company LLC",
+      "labeler_unverified": false,
+      "last_posted": "2024-01-12",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-06-30",
+        "2019-12-31",
+        "2022-09-30",
+        "2022-11-30"
+      ],
+      "product_ndcs": [
+        "0009-0302",
+        "0009-0602",
+        "0009-0901",
+        "0009-3470",
+        "0009-6780",
+        "0009-9890"
+      ],
+      "rxcui": [],
+      "setid": "d157983f-4794-400d-a3cf-c515d0c24b62",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "05a75685-0af5-407c-ac57-e380c882b49d"
+      ],
+      "title": "CLEOCIN PHOSPHATE (clindamycin phosphate) injection, solution"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 2,
+      "brand_names": [
+        "CLEOCIN"
+      ],
+      "first_posted": "2023-07-31",
+      "found_by": "CLEOCIN",
+      "labeler": "Pharmacia & Upjohn Company LLC",
+      "labeler_unverified": false,
+      "last_posted": "2026-02-11",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0009-1313",
+        "0009-1333"
+      ],
+      "rxcui": [],
+      "setid": "d31e7f35-93b2-4679-95ee-cc1040e325e3",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "CLEOCIN T (clindamycin phosphate) gel"
+    },
+    {
+      "application_numbers": [
+        "NDA050801"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "EVOCLIN"
+      ],
+      "first_posted": "2014-10-14",
+      "found_by": "EVOCLIN",
+      "labeler": "Prestium Pharma, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2019-07-23",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2020-06-30"
+      ],
+      "product_ndcs": [
+        "40076-061"
+      ],
+      "rxcui": [],
+      "setid": "daa3d9d1-c906-41f3-83a2-c47f2283da48",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "EVOCLIN (clindamycin phosphate) aerosol, foam"
+    },
+    {
+      "application_numbers": [
+        "NDA050793"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "CLINDESSE"
+      ],
+      "first_posted": "2008-03-13",
+      "found_by": "CLINDESSE",
+      "labeler": "AMAG Pharmaceuticals, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2021-12-02",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-07-01"
+      ],
+      "product_ndcs": [
+        "64011-124"
+      ],
+      "rxcui": [],
+      "setid": "dac31f82-b35e-49b9-aff9-f0101292f1be",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "fe8bb204-f173-44fe-803b-b08f2ec5aa31"
+      ],
+      "title": "CLINDESSE (clindamycin phosphate) cream"
+    },
+    {
+      "application_numbers": [
+        "NDA050801"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "EVOCLIN"
+      ],
+      "first_posted": "2011-05-02",
+      "found_by": "EVOCLIN",
+      "labeler": "Stiefel Laboratories Inc",
+      "labeler_unverified": true,
+      "last_posted": "2013-06-28",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-06-30"
+      ],
+      "product_ndcs": [
+        "0145-0061"
+      ],
+      "rxcui": [],
+      "setid": "fcb96831-1c51-4003-adc2-3a3c34e45feb",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "EVOCLIN (clindamycin phosphate) aerosol, foam"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "CLINDESSE"
+      ],
+      "first_posted": "2007-12-12",
+      "found_by": "CLINDESSE",
+      "labeler": "KV Pharmaceuticals",
+      "labeler_unverified": true,
+      "last_posted": "2007-12-12",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "64011-124"
+      ],
+      "rxcui": [],
+      "setid": "ldac31f82-b35e-49b9-aff9-f0101292f1be",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "clindesse (clindamycin phosphate) cream"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": true,
+      "labeler": "Bausch Health US, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "3dcd2c96-72b1-4a9f-b65c-08198d63b7df"
+    },
+    {
+      "combination": true,
+      "labeler": "Bausch Health US LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "9468da0f-9978-4c58-8135-0274c3415084"
+    },
+    {
+      "combination": false,
+      "labeler": "Pharmacia & Upjohn Company LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "a0a2eff7-b7de-42fe-8e5a-0cfbed38bb4b"
+    },
+    {
+      "combination": true,
+      "labeler": "Bausch Health US, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "697e760a-c206-4565-8f4e-a8085e215827"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5b8a6767-2d46-401c-9f85-d427dda9eff7"
+    },
+    {
+      "combination": false,
+      "labeler": "E. Fougera & Co. a division of Fougera Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "997a23c8-f0d7-49d5-af33-e11f2ddab3c7"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e8167412-882e-4143-93c6-49e68adbcf16"
+    },
+    {
+      "combination": false,
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e492d645-7d2e-4f8a-a43a-9999456e9f72"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2367340c-d297-4a3f-8253-6d27a0ed39cb"
+    },
+    {
+      "combination": false,
+      "labeler": "Medimetriks Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d01ffda3-1913-400d-a899-58b8face8936"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7a6967b3-5563-4bed-9eee-d400f800e799"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0800afad-e4cd-4f70-aaa1-a14547be4729"
+    },
+    {
+      "combination": false,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "231d95a6-5e5f-4a45-a92b-d3d16ef0a7ca"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0bfe1e25-f0a1-4e11-9827-82912557c46b"
+    },
+    {
+      "combination": false,
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "461ab478-3cf6-4e9b-ba7d-0331b379cacf"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5d120b48-8181-4f40-a0e5-1f5cd0450d4f"
+    },
+    {
+      "combination": false,
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1a42c3b2-90b5-4a78-9f18-fa789742b033"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7740ed35-ff93-4c5e-8983-934ff7b86da7"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a2279019-9341-4346-8746-fea262b27dd8"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f1f7fb55-1676-4b9e-9f2f-9eaaf33a7633"
+    },
+    {
+      "combination": false,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9b9f898f-6a91-44f8-9508-f9ddfaad27bc"
+    },
+    {
+      "combination": false,
+      "labeler": "Encube Ethicals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b2dfb76b-db09-43e7-8366-6791449a4918"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "80c40d1a-2541-4164-8ccb-1b512a851734"
+    },
+    {
+      "combination": false,
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6f72b852-e741-48e5-b8e1-f8a1afcfb4d4"
+    },
+    {
+      "combination": false,
+      "labeler": "GLENMARK PHARMACEUTICALS INC., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d36bad26-f337-4a71-a6e5-d97b60f4e385"
+    },
+    {
+      "combination": false,
+      "labeler": "Encube Ethicals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ac21d7ad-f94e-4d57-95e3-1648add7ad0b"
+    },
+    {
+      "combination": false,
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a10dda0c-28fa-4678-8cea-a6ce2fce4b52"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "20333796-e2b9-4e11-860b-1dc5ff038b03"
+    },
+    {
+      "combination": false,
+      "labeler": "Encube Ethicals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ba6ae5da-affa-422b-9a53-28f3fc001523"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e08eea9e-464c-429e-9584-b768f5127767"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ea1d4a37-7da2-4228-8451-6367e1a62554"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9dd8b4f9-9db8-4a16-abcd-bf32219e0301"
+    },
+    {
+      "combination": false,
+      "labeler": "GLENMARK PHARMACEUTICALS INC., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8e66de7a-d9d4-4562-bc99-80489d482da4"
+    },
+    {
+      "combination": false,
+      "labeler": "Viona Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3f7a3eaa-0f10-4cbe-b035-0796413308d5"
+    },
+    {
+      "combination": false,
+      "labeler": "GLENMARK PHARMACEUTICALS INC., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d0ec3e88-40d9-4919-afc3-cf2e7e863376"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "faf67eb8-1fd7-4b2c-a55b-24ba664c0dce"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "41ab7061-7c3a-4a4c-9c44-16851c97ad00"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8b452032-abed-495b-b518-15623e9850a3"
+    },
+    {
+      "combination": false,
+      "labeler": "Solaris Pharma Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fde07866-b012-47ad-932e-b76f141f86ee"
+    },
+    {
+      "combination": false,
+      "labeler": "Solaris Pharma Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b46941a9-e75f-48f7-b426-03f307499713"
+    },
+    {
+      "combination": false,
+      "labeler": "i3 Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8233eca5-d8bb-448d-9696-cb680da7a24f"
+    },
+    {
+      "combination": false,
+      "labeler": "Carnegie Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c8fe61f1-f3c5-4452-9980-a727461b9844"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d4b88e7b-acac-409a-8442-010ef84f66b9"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cc8262fe-8e41-49b2-97ae-7985e9a894e9"
+    },
+    {
+      "combination": true,
+      "labeler": "Oceanside Pharmaceuticals",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "edae294f-cc8b-4f94-8d90-4c764fda307b"
+    },
+    {
+      "combination": true,
+      "labeler": "Oceanside Pharmaceuticals",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "63b2e85d-8fe5-4f18-9e85-8492c49a7520"
+    },
+    {
+      "combination": true,
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1c7040f2-e503-408a-b07e-72c7972ce78d"
+    },
+    {
+      "combination": true,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "79e1c8f6-59cd-4efa-9efa-0762d4b1a10c"
+    },
+    {
+      "combination": true,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b39aaacb-f429-4cb4-b88b-341b8b8b217c"
+    },
+    {
+      "combination": true,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "449884c1-cf3b-4e2c-b8a0-82442ea8523a"
+    },
+    {
+      "combination": true,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "83d52507-99a1-4461-b067-5ec01dc6c5d3"
+    },
+    {
+      "combination": true,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "76795d1b-e1f2-4d1d-b42a-f1d4448c63c0"
+    },
+    {
+      "combination": true,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0a98fc1e-be75-4c22-a7a7-2e4f033b3701"
+    },
+    {
+      "combination": true,
+      "labeler": "Encube Ethicals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8ca01174-431e-449a-a85e-8c68d506776c"
+    },
+    {
+      "combination": true,
+      "labeler": "Encube Ethicals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1f772408-52a3-45b2-b053-8fc78948983c"
+    },
+    {
+      "combination": true,
+      "labeler": "Encube Ethicals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "977b2395-14ff-4c64-9a1e-77ef75805a83"
+    },
+    {
+      "combination": true,
+      "labeler": "Solaris Pharma Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c3ad6c2d-d106-464d-8e27-67ae94793e88"
+    },
+    {
+      "combination": false,
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2e6f96d0-d928-4775-a7db-3e998fce675b"
+    },
+    {
+      "combination": false,
+      "labeler": "Eurofarma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "288371ef-96b6-4ce3-9be1-1d9d309b400c"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b35e3714-44d1-4e6a-a124-555ad259fec1"
+    },
+    {
+      "combination": false,
+      "labeler": "Eurofarma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "89fed26e-1cad-4c0b-8695-d6f3562ba8d5"
+    },
+    {
+      "combination": false,
+      "labeler": "Baxter Healthcare Company",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "406534a6-2234-4735-ba8f-7de4c87592e6"
+    },
+    {
+      "combination": false,
+      "labeler": "Baxter Healthcare Company",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "78832ac6-04c5-45e0-ae4d-f56d7920dda9"
+    },
+    {
+      "combination": false,
+      "labeler": "Viona Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "585e8b72-b350-451f-a232-199b1a01e8ce"
+    },
+    {
+      "combination": false,
+      "labeler": "NORTHSTAR RX LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "62e1661f-1eab-4693-8cce-c22f572baa7f"
+    },
+    {
+      "combination": false,
+      "labeler": "NORTHSTAR RX LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f8c7339a-5180-4c6a-99bf-8a7e4d94f2d2"
+    },
+    {
+      "combination": false,
+      "labeler": "Civica, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "80217bd6-2bc4-401c-9345-22532b36a24f"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ca60af4c-3296-4ef9-839f-9ddb34a266da"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "96434354-a646-4869-92a2-4052d3f7a4aa"
+    },
+    {
+      "combination": false,
+      "labeler": "Northstar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "407f6d80-7de0-45d9-8ad2-5b95d233b96d"
+    },
+    {
+      "combination": true,
+      "labeler": "Oceanside Pharmaceuticals",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1d53ec2b-d33d-4245-99f1-e41b30303660"
+    },
+    {
+      "combination": true,
+      "labeler": "Medimetriks Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e2cd1c2a-00ee-465e-a4f4-9c0a0bc6266f"
+    },
+    {
+      "combination": true,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cc45f9bc-4639-4d95-b12d-01f6504592bb"
+    },
+    {
+      "combination": true,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e19de12c-f29b-42ab-9e81-1af8e4a66643"
+    },
+    {
+      "combination": true,
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "221de6a3-c1d7-4dcf-a47b-51edaa682c2a"
+    },
+    {
+      "combination": true,
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2dfc025a-8eac-4e05-a1fe-dc22914002bb"
+    },
+    {
+      "combination": true,
+      "labeler": "Northstar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2fcf4e8d-dd05-49c2-948b-10abbb52e4bc"
+    },
+    {
+      "combination": true,
+      "labeler": "Mayne Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c7381600-2e4c-4e7b-aa67-fe7d5fae7b40"
+    }
+  ]
+}

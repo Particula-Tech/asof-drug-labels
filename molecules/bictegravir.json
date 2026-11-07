@@ -1,0 +1,122 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 1,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "only combination central products under this exact INN (combinations are not built)",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "BICTEGRAVIR SODIUM"
+  ],
+  "inn": "bictegravir",
+  "name": "BICTEGRAVIR",
+  "rank": 480,
+  "rxcui": [
+    "1999667",
+    "1999673",
+    "2584354",
+    "2584356",
+    "2750177",
+    "2750183"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 2,
+    "approval_holders": 1,
+    "earliest_marketing_start": "2018-02-07",
+    "latest_label_update": "2026-09-14",
+    "nda_bla_applications": 2,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "BICTEGRAVIR SODIUM",
+      "unii": "4L5MP1Y7W7"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA210251"
+      ],
+      "brand_names": [
+        "Biktarvy"
+      ],
+      "combination": true,
+      "home_inn": "emtricitabine",
+      "ingredients": [
+        "BICTEGRAVIR SODIUM",
+        "EMTRICITABINE",
+        "TENOFOVIR ALAFENAMIDE FUMARATE"
+      ],
+      "labeler": "Gilead Sciences, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-02-07",
+      "moieties": [
+        "BICTEGRAVIR",
+        "EMTRICITABINE",
+        "TENOFOVIR ALAFENAMIDE"
+      ],
+      "product_ndcs": [
+        "61958-2501",
+        "61958-2505",
+        "61958-2506"
+      ],
+      "rxcui": [
+        "1999667",
+        "1999673",
+        "2584354",
+        "2584356"
+      ],
+      "setid": "664cb8f0-1f65-441b-b0d9-ba3d798be309",
+      "source": "dailymed-title-match",
+      "spl_version": 26,
+      "title": "BIKTARVY (BICTEGRAVIR SODIUM, EMTRICITABINE, AND TENOFOVIR ALAFENAMIDE FUMARATE) TABLET [GILEAD SCIENCES, INC.]",
+      "upload_date": "2026-09-14"
+    },
+    {
+      "application_numbers": [
+        "NDA221104"
+      ],
+      "brand_names": [
+        "BIXLENVO"
+      ],
+      "combination": true,
+      "home_inn": "lenacapavir",
+      "ingredients": [
+        "BICTEGRAVIR SODIUM",
+        "LENACAPAVIR SODIUM"
+      ],
+      "labeler": "Gilead Sciences, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2026-08-27",
+      "moieties": [
+        "BICTEGRAVIR",
+        "LENACAPAVIR"
+      ],
+      "product_ndcs": [
+        "61958-3601"
+      ],
+      "rxcui": [
+        "2750177",
+        "2750183"
+      ],
+      "setid": "072a3c7e-33fb-4a87-ba21-3d8dad3f5c48",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "BIXLENVO (BICTEGRAVIR/LENACAPAVIR) TABLET, FILM COATED [GILEAD SCIENCES, INC.]",
+      "upload_date": "2026-08-31"
+    }
+  ],
+  "us_excluded": []
+}

@@ -1,0 +1,895 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand EXPAREL",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/004586",
+      "eu_number": "EU/1/20/1489",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-004586",
+      "mah": "Pacira Ireland Limited",
+      "marketing_authorisation_date": "2020-11-16",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/exparel-liposomal",
+      "name": "Exparel liposomal",
+      "record_from": "2020-11-16",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 3
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-004586",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "BUPIVACAINE",
+    "BUPIVACAINE HYDROCHLORIDE",
+    "BUPIVACAINE HYDROCHLORIDE ANHYDROUS"
+  ],
+  "inn": "bupivacaine",
+  "name": "BUPIVACAINE",
+  "rank": 134,
+  "rxcui": [
+    "1012377",
+    "1012381",
+    "1012384",
+    "1012388",
+    "1012391",
+    "1012396",
+    "1012404",
+    "1012421",
+    "1012455",
+    "1012457",
+    "1191508",
+    "1191513",
+    "1672917",
+    "1672919",
+    "1673242",
+    "1673243",
+    "1673296",
+    "1673298",
+    "1724784",
+    "1724786",
+    "1724787",
+    "1724792",
+    "1724880",
+    "1724881",
+    "1724884",
+    "1724885",
+    "1725078",
+    "1725082",
+    "1725175",
+    "1725177",
+    "1745061",
+    "1745062",
+    "1867594",
+    "1867596",
+    "1867612",
+    "1867614",
+    "2560306",
+    "2560308",
+    "2560309",
+    "2560311",
+    "2560312",
+    "2560315",
+    "2560319",
+    "2560321"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 34,
+    "approval_holders": 20,
+    "earliest_marketing_start": "2005-01-31",
+    "latest_label_update": "2026-10-29",
+    "nda_bla_applications": 5,
+    "repackagers": 8
+  },
+  "unii": [
+    {
+      "ingredient": "BUPIVACAINE",
+      "unii": "Y8335394RO"
+    },
+    {
+      "ingredient": "BUPIVACAINE HYDROCHLORIDE",
+      "unii": "7TQO7W3VT8"
+    },
+    {
+      "ingredient": "BUPIVACAINE HYDROCHLORIDE ANHYDROUS",
+      "unii": "AKA908P8J1"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA016964",
+        "NDA018692"
+      ],
+      "brand_names": [
+        "Marcaine",
+        "Marcaine Spinal"
+      ],
+      "combination": false,
+      "home_inn": "bupivacaine",
+      "ingredients": [
+        "BUPIVACAINE HYDROCHLORIDE"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2005-05-19",
+      "moieties": [
+        "BUPIVACAINE"
+      ],
+      "product_ndcs": [
+        "0409-0525",
+        "0409-1530",
+        "0409-1761",
+        "0409-2253",
+        "0409-2510",
+        "0409-5010",
+        "0409-7535"
+      ],
+      "rxcui": [
+        "1724784",
+        "1724792"
+      ],
+      "setid": "9679cc05-2f8a-4e88-53b5-6e9122c8b8c0",
+      "source": "dailymed-title-match",
+      "spl_version": 27,
+      "title": "MARCAINE SPINAL (BUPIVACAINE HYDROCHLORIDE IN DEXTROSE) INJECTION, SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2026-06-24"
+    },
+    {
+      "application_numbers": [
+        "NDA022496"
+      ],
+      "brand_names": [
+        "EXPAREL"
+      ],
+      "combination": false,
+      "home_inn": "bupivacaine",
+      "ingredients": [
+        "BUPIVACAINE"
+      ],
+      "labeler": "Pacira Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2012-01-01",
+      "moieties": [
+        "BUPIVACAINE"
+      ],
+      "product_ndcs": [
+        "65250-133",
+        "65250-266"
+      ],
+      "rxcui": [
+        "1191508",
+        "1191513",
+        "1745061",
+        "1745062"
+      ],
+      "setid": "bb5a9e59-0f51-11df-8a39-0800200c9a66",
+      "source": "openfda",
+      "spl_version": 32,
+      "title": "EXPAREL (BUPIVACAINE) INJECTION, SUSPENSION, LIPOSOMAL [PACIRA PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-12-15"
+    },
+    {
+      "application_numbers": [
+        "NDA018304"
+      ],
+      "brand_names": [
+        "SENSORCAINE MPF"
+      ],
+      "combination": true,
+      "home_inn": "bupivacaine",
+      "ingredients": [
+        "BUPIVACAINE HYDROCHLORIDE",
+        "EPINEPHRINE BITARTRATE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2010-11-19",
+      "moieties": [
+        "BUPIVACAINE",
+        "EPINEPHRINE"
+      ],
+      "product_ndcs": [
+        "63323-462",
+        "63323-464",
+        "63323-466"
+      ],
+      "rxcui": [
+        "1672917",
+        "1672919",
+        "1673296",
+        "1673298",
+        "1724880",
+        "1724881",
+        "1724884",
+        "1724885",
+        "1725078",
+        "1725082",
+        "1725175",
+        "1725177"
+      ],
+      "setid": "dcf3c0ad-9eb8-4ee7-96df-d0db7ff23175",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "SENSORCAINE MPF (BUPIVACAINE HYDROCHLORIDE AND EPINEPHRINE BITARTRATE) INJECTION, SOLUTION SENSORCAINE MPF (BUPIVACAINE HYDROCHLORIDE) INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2024-10-14"
+    },
+    {
+      "application_numbers": [
+        "NDA211988"
+      ],
+      "brand_names": [
+        "ZYNRELEF"
+      ],
+      "combination": true,
+      "home_inn": "meloxicam",
+      "ingredients": [
+        "BUPIVACAINE",
+        "MELOXICAM"
+      ],
+      "labeler": "Heron Therapeutics, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-12-01",
+      "moieties": [
+        "BUPIVACAINE",
+        "MELOXICAM"
+      ],
+      "product_ndcs": [
+        "47426-501",
+        "47426-503"
+      ],
+      "rxcui": [
+        "2560306",
+        "2560308",
+        "2560309",
+        "2560311",
+        "2560312",
+        "2560315",
+        "2560319",
+        "2560321"
+      ],
+      "setid": "dab484a7-9353-43ba-9e74-7fab910c712b",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "ZYNRELEF (BUPIVACAINE AND MELOXICAM) SOLUTION [HERON THERAPEUTICS, INC.]",
+      "upload_date": "2026-04-30"
+    },
+    {
+      "application_numbers": [
+        "NDA016964"
+      ],
+      "brand_names": [
+        "Marcaine with Epinephrine"
+      ],
+      "combination": true,
+      "home_inn": "epinephrine",
+      "ingredients": [
+        "BUPIVACAINE HYDROCHLORIDE",
+        "EPINEPHRINE BITARTRATE"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2005-09-12",
+      "moieties": [
+        "BUPIVACAINE",
+        "EPINEPHRINE"
+      ],
+      "product_ndcs": [
+        "0409-1746",
+        "0409-1749",
+        "0409-1752",
+        "0409-1755"
+      ],
+      "rxcui": [],
+      "setid": "67578b56-7540-487e-1fba-481255620e78",
+      "source": "dailymed-title-match",
+      "spl_version": 40,
+      "title": "MARCAINE WITH EPINEPHRINE (BUPIVACAINE HYDROCHLORIDE AND EPINEPHRINE BITARTRATE) INJECTION, SOLUTION MARCAINE (BUPIVACAINE HYDROCHLORIDE) INJECTION, SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2026-10-29"
+    },
+    {
+      "application_numbers": [
+        "NDA016964"
+      ],
+      "brand_names": [
+        "Marcaine with Epinephrine"
+      ],
+      "combination": true,
+      "home_inn": "bupivacaine",
+      "ingredients": [
+        "BUPIVACAINE HYDROCHLORIDE",
+        "EPINEPHRINE BITARTRATE"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2005-09-12",
+      "moieties": [
+        "BUPIVACAINE",
+        "EPINEPHRINE"
+      ],
+      "product_ndcs": [
+        "0409-1541",
+        "0409-1746",
+        "0409-1749",
+        "0409-1752",
+        "0409-1755",
+        "0409-3812",
+        "0409-4208",
+        "0409-5738",
+        "0409-6581",
+        "0409-8126"
+      ],
+      "rxcui": [
+        "1012377",
+        "1012381",
+        "1012384",
+        "1012388",
+        "1672917",
+        "1672919",
+        "1673242",
+        "1673243",
+        "1867594",
+        "1867596",
+        "1867612",
+        "1867614"
+      ],
+      "setid": "93cf0914-de08-4ec6-8f8c-d663243b9958",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "MARCAINE WITH EPINEPHRINE (BUPIVACAINE HYDROCHLORIDE AND EPINEPHRINE) INJECTION, SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2024-02-05"
+    },
+    {
+      "application_numbers": [
+        "NDA018304"
+      ],
+      "brand_names": [
+        "SENSORCAINE",
+        "SENSORCAINE MPF"
+      ],
+      "combination": true,
+      "home_inn": "bupivacaine",
+      "ingredients": [
+        "BUPIVACAINE HYDROCHLORIDE",
+        "EPINEPHRINE BITARTRATE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2010-11-19",
+      "moieties": [
+        "BUPIVACAINE",
+        "EPINEPHRINE"
+      ],
+      "product_ndcs": [
+        "63323-460",
+        "63323-462",
+        "63323-464",
+        "63323-465",
+        "63323-466",
+        "63323-467"
+      ],
+      "rxcui": [
+        "1012391",
+        "1012396",
+        "1012404",
+        "1012421",
+        "1012455",
+        "1012457",
+        "1672917",
+        "1672919",
+        "1673296",
+        "1673298",
+        "1724880",
+        "1724881",
+        "1724884",
+        "1724885",
+        "1725078",
+        "1725082",
+        "1725175",
+        "1725177"
+      ],
+      "setid": "eb6d8fee-def4-4c96-9972-695e8cea8ea8",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "SENSORCAINE (BUPIVACAINE HYDROCHLORIDE) INJECTION, SOLUTION SENSORCAINE MPF (BUPIVACAINE HYDROCHLORIDE AND EPINEPHRINE BITARTRATE) INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2024-10-31"
+    },
+    {
+      "application_numbers": [
+        "ANDA071810"
+      ],
+      "brand_names": [
+        "Bupivacaine Spinal"
+      ],
+      "combination": false,
+      "home_inn": "bupivacaine",
+      "ingredients": [
+        "BUPIVACAINE HYDROCHLORIDE"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2005-01-31",
+      "moieties": [
+        "BUPIVACAINE"
+      ],
+      "product_ndcs": [
+        "0409-3613"
+      ],
+      "rxcui": [
+        "1724784"
+      ],
+      "setid": "7a8d2539-4422-4312-0298-207ef1a2948e",
+      "source": "openfda",
+      "spl_version": 29,
+      "title": "BUPIVACAINE SPINAL (BUPIVACAINE HYDROCHLORIDE IN DEXTROSE) INJECTION, SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2026-04-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA070552",
+        "ANDA070553"
+      ],
+      "brand_names": [
+        "SENSORCAINE MPF"
+      ],
+      "combination": false,
+      "home_inn": "bupivacaine",
+      "ingredients": [
+        "BUPIVACAINE HYDROCHLORIDE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-11-19",
+      "moieties": [
+        "BUPIVACAINE"
+      ],
+      "product_ndcs": [
+        "63323-464",
+        "63323-466"
+      ],
+      "rxcui": [
+        "1724880",
+        "1724881",
+        "1724884",
+        "1724885",
+        "1725078",
+        "1725082",
+        "1725175",
+        "1725177"
+      ],
+      "setid": "b6bfc04a-1868-4630-9ca1-8c027af97ce3",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "SENSORCAINE MPF (BUPIVACAINE HYDROCHLORIDE) INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2024-12-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA203895",
+        "ANDA207183"
+      ],
+      "brand_names": [
+        "Bupivacaine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "bupivacaine",
+      "ingredients": [
+        "BUPIVACAINE HYDROCHLORIDE"
+      ],
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-11-05",
+      "moieties": [
+        "BUPIVACAINE"
+      ],
+      "product_ndcs": [
+        "55150-167",
+        "55150-168",
+        "55150-169",
+        "55150-170",
+        "55150-171",
+        "55150-172",
+        "55150-249",
+        "55150-250"
+      ],
+      "rxcui": [
+        "1012396",
+        "1012404",
+        "1724786",
+        "1724787",
+        "1724880",
+        "1724884",
+        "1725078",
+        "1725082"
+      ],
+      "setid": "ffecf450-1f01-4721-8e10-251385852612",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "BUPIVACAINE HYDROCHLORIDE INJECTION, SOLUTION [EUGIA US LLC]",
+      "upload_date": "2025-05-16"
+    },
+    {
+      "application_numbers": [
+        "ANDA070583"
+      ],
+      "brand_names": [
+        "BUPIVACAINE HYDROCHLORIDE"
+      ],
+      "combination": false,
+      "home_inn": "bupivacaine",
+      "ingredients": [
+        "BUPIVACAINE HYDROCHLORIDE"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-08-11",
+      "moieties": [
+        "BUPIVACAINE"
+      ],
+      "product_ndcs": [
+        "0409-1159"
+      ],
+      "rxcui": [
+        "1725078",
+        "1725082"
+      ],
+      "setid": "bb44c7e1-d911-4788-908f-09b7b271969b",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "BUPIVACAINE HYDROCHLORIDE INJECTION, SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2026-04-16"
+    },
+    {
+      "application_numbers": [
+        "ANDA209087"
+      ],
+      "brand_names": [
+        "Bupivacaine Hydrochloride with Dextrose"
+      ],
+      "combination": false,
+      "home_inn": "bupivacaine",
+      "ingredients": [
+        "BUPIVACAINE HYDROCHLORIDE"
+      ],
+      "labeler": "B. Braun Medical Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-04-02",
+      "moieties": [
+        "BUPIVACAINE"
+      ],
+      "product_ndcs": [
+        "0264-9379"
+      ],
+      "rxcui": [
+        "1724784"
+      ],
+      "setid": "ff43d2b6-acb4-45c8-96b6-971d2a7a6767",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "BUPIVACAINE HYDROCHLORIDE WITH DEXTROSE INJECTION [B. BRAUN MEDICAL INC.]",
+      "upload_date": "2025-05-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA212822"
+      ],
+      "brand_names": [
+        "Bupivacaine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "bupivacaine",
+      "ingredients": [
+        "BUPIVACAINE HYDROCHLORIDE"
+      ],
+      "labeler": "Huons Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-12-30",
+      "moieties": [
+        "BUPIVACAINE"
+      ],
+      "product_ndcs": [
+        "73293-0002"
+      ],
+      "rxcui": [
+        "1724784"
+      ],
+      "setid": "2dc693df-3218-4a90-b3f7-21e80966a851",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "BUPIVACAINE HYDROCHLORIDE INJECTION [HUONS CO., LTD.]",
+      "upload_date": "2025-02-21"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "SENSORCAINE"
+      ],
+      "first_posted": "2007-11-16",
+      "found_by": "SENSORCAINE",
+      "labeler": "AstraZeneca LP",
+      "labeler_unverified": false,
+      "last_posted": "2007-11-16",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0186-1027",
+        "0186-1029",
+        "0186-1030",
+        "0186-1031",
+        "0186-1032",
+        "0186-1033",
+        "0186-1034",
+        "0186-1035",
+        "0186-1037",
+        "0186-1038"
+      ],
+      "rxcui": [],
+      "setid": "961c81a1-4dfc-4cfc-d8aa-94fe79f8b2d2",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "sensorcaine mpf (Bupivacaine Hydrochloride) injection sensorcaine mpf with epinephrine (Bupivacaine Hydrochloride and epinephrine) injection sensorcaine (Bupivacaine Hydrochloride) injection"
+    },
+    {
+      "application_numbers": [
+        "NDA204803"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "POSIMIR"
+      ],
+      "first_posted": "2022-12-19",
+      "found_by": "POSIMIR",
+      "labeler": "Renaissance Lakewood, LLC",
+      "labeler_unverified": true,
+      "last_posted": "2024-10-30",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-08-02"
+      ],
+      "product_ndcs": [
+        "49396-6601"
+      ],
+      "rxcui": [],
+      "setid": "efb90d91-f984-294d-e053-2a95a90ad3c4",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "POSIMIR (bupivacaine) injection"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4595c642-1869-436c-9550-8f9f255efd27"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8815c8c6-eed8-4afe-a5c1-44d2194025a3"
+    },
+    {
+      "combination": false,
+      "labeler": "Xellia Pharmaceuticals USA LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f29c905e-9a55-446f-a89d-860ad9ade7ad"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fe340f98-a0f3-446e-b281-47fd91c1e537"
+    },
+    {
+      "combination": false,
+      "labeler": "Xellia Pharmaceuticals USA LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3335dabe-66d5-440b-a59a-b62993030e0f"
+    },
+    {
+      "combination": false,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bcaab86f-20f0-4482-8d73-e29b36dced58"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0e552e3a-cf52-4d74-9381-6cc1b29b4c90"
+    },
+    {
+      "combination": false,
+      "labeler": "Jiangsu Hengrui Pharmaceuticals Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0af296bb-1599-4b35-b66b-994924d3e898"
+    },
+    {
+      "combination": false,
+      "labeler": "Anthea Pharma Private Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4e0cff98-ad0e-494d-8316-b7cdfad6a876"
+    },
+    {
+      "combination": true,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b671015d-f620-4930-a890-5e27a40ae42f"
+    },
+    {
+      "combination": true,
+      "labeler": "Septodont, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b4c60d8e-e350-45b2-9d6b-5815eeb6c994"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e700eb7b-8b14-49c9-96b2-331f18776e45"
+    },
+    {
+      "combination": false,
+      "labeler": "Brookfield Pharmaceuticals, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e8b32972-6984-4f1c-e053-2995a90a3277"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ee3b5bbe-4013-4682-b6ee-db86e7788077"
+    },
+    {
+      "combination": false,
+      "labeler": "Northstar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "adadc041-8d5e-4bf8-a89b-e227729a880d"
+    },
+    {
+      "combination": false,
+      "labeler": "ONESOURCE SPECIALTY PHARMA LIMITED",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "02d0e5f1-5fab-4420-b673-785fd81d7ae2"
+    },
+    {
+      "combination": false,
+      "labeler": "ONESOURCE SPECIALTY PHARMA LIMITED",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5c10e3a1-7806-40c7-afd2-4c420e141823"
+    },
+    {
+      "combination": false,
+      "labeler": "Fosun Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3a996abe-0bb9-4590-e063-6394a90a0b60"
+    },
+    {
+      "combination": true,
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "02a845c3-4521-4926-e397-25ab536e7cf6"
+    },
+    {
+      "combination": true,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bc61a9a6-0a4e-48a9-b908-e5e66b9f23eb"
+    },
+    {
+      "combination": true,
+      "labeler": "Septodont, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3e196aa4-0b01-44db-9267-98a995b54743"
+    }
+  ]
+}

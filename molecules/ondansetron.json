@@ -1,0 +1,978 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "ONDANSETRON",
+    "ONDANSETRON HYDROCHLORIDE"
+  ],
+  "inn": "ondansetron",
+  "name": "ONDANSETRON",
+  "rank": 57,
+  "rxcui": [
+    "104894",
+    "198052",
+    "283504",
+    "312084",
+    "312085",
+    "312086",
+    "312087",
+    "1740467",
+    "2685489",
+    "2685613"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 55,
+    "approval_holders": 35,
+    "earliest_marketing_start": "2006-11-07",
+    "latest_label_update": "2026-10-26",
+    "nda_bla_applications": 0,
+    "repackagers": 35
+  },
+  "unii": [
+    {
+      "ingredient": "ONDANSETRON",
+      "unii": "4AF302ESOS"
+    },
+    {
+      "ingredient": "ONDANSETRON HYDROCHLORIDE",
+      "unii": "NMH84OZK2B"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "ANDA077473",
+        "ANDA077548"
+      ],
+      "brand_names": [
+        "Ondansetron"
+      ],
+      "combination": false,
+      "home_inn": "ondansetron",
+      "ingredients": [
+        "ONDANSETRON HYDROCHLORIDE"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2006-11-07",
+      "moieties": [
+        "ONDANSETRON"
+      ],
+      "product_ndcs": [
+        "0409-4755",
+        "0409-4759"
+      ],
+      "rxcui": [
+        "283504",
+        "1740467"
+      ],
+      "setid": "6a11f61b-2318-4382-2b91-4366e4bb53fa",
+      "source": "openfda",
+      "spl_version": 34,
+      "title": "ONDANSETRON INJECTION, SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2026-05-25"
+    },
+    {
+      "application_numbers": [
+        "ANDA076183"
+      ],
+      "brand_names": [
+        "ONDANSETRON"
+      ],
+      "combination": false,
+      "home_inn": "ondansetron",
+      "ingredients": [
+        "ONDANSETRON HYDROCHLORIDE"
+      ],
+      "labeler": "Dr. Reddy's Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2006-12-26",
+      "moieties": [
+        "ONDANSETRON"
+      ],
+      "product_ndcs": [
+        "55111-153",
+        "55111-154",
+        "55111-156"
+      ],
+      "rxcui": [
+        "198052",
+        "312084",
+        "312086"
+      ],
+      "setid": "162f2088-9fb1-47e7-b88c-45104be7e7bb",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "ONDANSETRON (ONDANSETRON HYDROCHLORIDE) TABLET, FILM COATED [DR. REDDY'S LABORATORIES LIMITED]",
+      "upload_date": "2025-07-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA076960"
+      ],
+      "brand_names": [
+        "Ondansetron Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "ondansetron",
+      "ingredients": [
+        "ONDANSETRON HYDROCHLORIDE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2006-12-26",
+      "moieties": [
+        "ONDANSETRON"
+      ],
+      "product_ndcs": [
+        "0054-0064"
+      ],
+      "rxcui": [
+        "312085"
+      ],
+      "setid": "1a0c4dc6-643e-4ee7-92a9-edb98049a5ba",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "ONDANSETRON HYDROCHLORIDE SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2025-07-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA077406"
+      ],
+      "brand_names": [
+        "Ondansetron"
+      ],
+      "combination": false,
+      "home_inn": "ondansetron",
+      "ingredients": [
+        "ONDANSETRON"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2006-12-26",
+      "moieties": [
+        "ONDANSETRON"
+      ],
+      "product_ndcs": [
+        "62135-121",
+        "62135-122",
+        "62135-878",
+        "62135-879"
+      ],
+      "rxcui": [
+        "104894",
+        "312087",
+        "2685489",
+        "2685613"
+      ],
+      "setid": "4c74336c-11ec-420a-80e1-d8e4a8f1c46d",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "ONDANSETRON TABLET, ORALLY DISINTEGRATING [CHARTWELL RX, LLC]",
+      "upload_date": "2024-06-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA077365",
+        "ANDA077541"
+      ],
+      "brand_names": [
+        "Ondansetron"
+      ],
+      "combination": false,
+      "home_inn": "ondansetron",
+      "ingredients": [
+        "ONDANSETRON HYDROCHLORIDE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2006-12-26",
+      "moieties": [
+        "ONDANSETRON"
+      ],
+      "product_ndcs": [
+        "0641-6080",
+        "0641-6286"
+      ],
+      "rxcui": [
+        "283504",
+        "1740467"
+      ],
+      "setid": "97713356-f42b-4a67-95f6-561afa68c0c2",
+      "source": "openfda",
+      "spl_version": 20,
+      "title": "ONDANSETRON INJECTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2026-04-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA076780",
+        "ANDA076781"
+      ],
+      "brand_names": [
+        "Ondansetron"
+      ],
+      "combination": false,
+      "home_inn": "ondansetron",
+      "ingredients": [
+        "ONDANSETRON HYDROCHLORIDE"
+      ],
+      "labeler": "West-Ward Pharmaceuticals Corp",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2006-12-26",
+      "moieties": [
+        "ONDANSETRON"
+      ],
+      "product_ndcs": [
+        "0143-9890",
+        "0143-9891"
+      ],
+      "rxcui": [
+        "283504",
+        "1740467"
+      ],
+      "setid": "bb4bc810-db26-471b-9ce7-6e2fb3018af0",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "ONDANSETRON INJECTION [WEST-WARD PHARMACEUTICALS CORP]",
+      "upload_date": "2018-12-17"
+    },
+    {
+      "application_numbers": [
+        "NDA022524"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "ZUPLENZ"
+      ],
+      "first_posted": "2017-01-06",
+      "found_by": "ZUPLENZ",
+      "labeler": "Fortovia Therapeutics, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2021-10-21",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-02-23",
+        "2023-02-23"
+      ],
+      "product_ndcs": [
+        "89141-444",
+        "89141-448"
+      ],
+      "rxcui": [],
+      "setid": "0b1dab95-b64b-4133-bcad-a65b332ab320",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ZUPLENZ (ondansetron) film"
+    },
+    {
+      "application_numbers": [
+        "NDA020103"
+      ],
+      "archived_versions": 11,
+      "brand_names": [
+        "ZOFRAN"
+      ],
+      "first_posted": "2017-08-24",
+      "found_by": "ZOFRAN",
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2022-02-09",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-05-31"
+      ],
+      "product_ndcs": [
+        "0078-0675",
+        "0078-0676"
+      ],
+      "rxcui": [],
+      "setid": "555f81bc-4ce0-4f77-b394-b974838c4440",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ZOFRAN (ondansetron hydrochloride) tablet, film coated"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "ZOFRAN"
+      ],
+      "first_posted": "2017-12-14",
+      "found_by": "ZOFRAN",
+      "labeler": "GlaxoSmithKline Inc",
+      "labeler_unverified": true,
+      "last_posted": "2017-12-14",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "53873-035"
+      ],
+      "rxcui": [],
+      "setid": "b843449a-f1d7-4c13-808a-6fc3ef9af1d3",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ZOFRAN (ondansetron hydrochloride) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA022524"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "ZUPLENZ"
+      ],
+      "first_posted": "2010-08-20",
+      "found_by": "ZUPLENZ",
+      "labeler": "Par Pharmaceutical, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2012-12-05",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2012-07-31",
+        "2012-11-30"
+      ],
+      "product_ndcs": [
+        "49884-324",
+        "49884-325"
+      ],
+      "rxcui": [],
+      "setid": "c71a30dd-ff55-437b-ace5-d64c3c72ca27",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ZUPLENZ (ondansetron) film, soluble"
+    },
+    {
+      "application_numbers": [
+        "NDA020103",
+        "NDA020605",
+        "NDA020781"
+      ],
+      "archived_versions": 18,
+      "brand_names": [
+        "ZOFRAN"
+      ],
+      "first_posted": "2007-04-26",
+      "found_by": "ZOFRAN",
+      "labeler": "GlaxoSmithKline LLC",
+      "labeler_unverified": false,
+      "last_posted": "2017-12-14",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-09-30",
+        "2018-02-28",
+        "2019-02-28",
+        "2019-06-30",
+        "2020-02-29"
+      ],
+      "product_ndcs": [
+        "0173-0446",
+        "0173-0447",
+        "0173-0489",
+        "0173-0569",
+        "0173-0570"
+      ],
+      "rxcui": [],
+      "setid": "c7d61d98-fe86-4340-9b86-47eb92acaa0e",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ZOFRAN (ondansetron hydrochloride) solution ZOFRAN ODT (ondansetron hydrochloride) tablet, orally disintegrating ZOFRAN (ondansetron hydrochloride) tablet, film coated"
+    },
+    {
+      "application_numbers": [
+        "NDA020007"
+      ],
+      "archived_versions": 19,
+      "brand_names": [
+        "ZOFRAN"
+      ],
+      "first_posted": "2007-05-04",
+      "found_by": "ZOFRAN",
+      "labeler": "GlaxoSmithKline LLC",
+      "labeler_unverified": false,
+      "last_posted": "2021-10-28",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-02-28"
+      ],
+      "product_ndcs": [
+        "0173-0442"
+      ],
+      "rxcui": [],
+      "setid": "d9a71b42-ddfc-49d5-7280-0fc0041dba41",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ZOFRAN (ondansetron hydrochloride) injection"
+    },
+    {
+      "application_numbers": [
+        "NDA022524"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "ZUPLENZ"
+      ],
+      "first_posted": "2012-11-06",
+      "found_by": "ZUPLENZ",
+      "labeler": "Praelia Pharmaceuticals Inc",
+      "labeler_unverified": true,
+      "last_posted": "2014-10-23",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-11-30"
+      ],
+      "product_ndcs": [
+        "43288-104",
+        "43288-108"
+      ],
+      "rxcui": [],
+      "setid": "d9ff3ff3-0db5-49d3-afda-ac089576ddf3",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ZUPLENZ (ondansetron) film, soluble"
+    },
+    {
+      "application_numbers": [
+        "NDA022524"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "ZUPLENZ"
+      ],
+      "first_posted": "2014-10-15",
+      "found_by": "ZUPLENZ",
+      "labeler": "Galena Biopharma, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2019-01-02",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-08-01"
+      ],
+      "product_ndcs": [
+        "57881-444",
+        "57881-448"
+      ],
+      "rxcui": [],
+      "setid": "ed036bdb-b832-440f-82c7-ade2956b73ee",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ZUPLENZ (ondansetron) film, soluble"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "ZOFRAN"
+      ],
+      "first_posted": "2007-03-23",
+      "found_by": "ZOFRAN",
+      "labeler": "",
+      "labeler_unverified": false,
+      "last_posted": "2007-03-23",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0173-0446",
+        "0173-0447",
+        "0173-0489",
+        "0173-0569",
+        "0173-0570"
+      ],
+      "rxcui": [],
+      "setid": "f126035f-c43b-4e97-1f86-330fa4ef4f8c",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "zofran (ondansetron hydrochloride) solution zofran (ondansetron hydrochloride) tablet, film coated zofran (ondansetron) tablet, orally disintegrating"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2edc0788-dc38-4d21-ba8e-71f159e2d3b1"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "88b7432b-f5a7-40f3-9b0c-e7b125f5103c"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "92c758a3-e749-4a15-be4b-ee30b364b2b0"
+    },
+    {
+      "combination": false,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "eee5217a-eba8-463a-812d-bf3c66f0934f"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "57578387-1918-4e56-a564-f14fb22340bf"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ac3dfb81-a4c7-4147-9374-c234153b7c51"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3efa5604-96c3-42a0-8e99-b3de4a66aa92"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6a231919-6837-4b09-b66d-3706432b9702"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cab63f24-8728-4927-aba5-53e8d2e44cdb"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "38435346-d505-4bdd-bbc6-a7bcba411033"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2086bae8-7c3c-4663-93ac-c86407c524c2"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "35716914-ac73-43c0-9aa0-09c99211d941"
+    },
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1cc94c7a-617c-4238-8248-e3fabc9612c7"
+    },
+    {
+      "combination": false,
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "729d865f-d84a-495e-9456-4bceebb6e03f"
+    },
+    {
+      "combination": false,
+      "labeler": "Qilu Pharmaceutical Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5e09e262-dadf-4ae0-825e-448ea8dac174"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d89017aa-b8c3-4fd2-8e68-44e2cfd6f290"
+    },
+    {
+      "combination": false,
+      "labeler": "Accord Healthcare, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "35e0d160-813f-41d7-a382-d2cab6485d9c"
+    },
+    {
+      "combination": false,
+      "labeler": "Onesource Specialty Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "438c3d28-8bed-50f0-e063-6394a90a18e4"
+    },
+    {
+      "combination": false,
+      "labeler": "Onesource Specialty Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a5fe05bc-a7a5-4131-8c4d-2edd113441ec"
+    },
+    {
+      "combination": false,
+      "labeler": "Ipca Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8e24f935-87fe-4b6a-b265-60b1039f38d5"
+    },
+    {
+      "combination": false,
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "68a4d845-0c1c-4867-bfca-c0fb11dc93cd"
+    },
+    {
+      "combination": false,
+      "labeler": "Ipca Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7ab3210e-eed1-479a-afc0-f72b5b776883"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "476e704c-95ae-4591-94f7-ee4ab827ff13"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c29ca6df-621d-44b6-98fc-b48666573366"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifsa Drugs LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c66d63cf-a0e5-4cb5-bdf8-9d1115cba23e"
+    },
+    {
+      "combination": false,
+      "labeler": "Golden State Medical Supply, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2b9ea1fc-59a4-8189-e063-6394a90a9ae6"
+    },
+    {
+      "combination": false,
+      "labeler": "Natco Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "59c817b7-a1c6-48a5-9bfc-2c381532bfd9"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "834bc56a-657d-4733-9a60-47040cb5c7bf"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "90e0e508-75f7-4c8b-bb38-898aa4c531c3"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cf10d256-dd89-4a91-a3ed-81db505a79c2"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e0050959-c14c-41b6-9a92-fadc5f6feff3"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "eb74425c-c635-4d99-8e98-e63e7359fb89"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell Governmental & Specialty RX, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7e862601-1d8a-455b-8ce5-1a32478b309f"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b746d4db-43e6-4219-9e6b-f53e59581305"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ba0f8f13-1f7d-44e0-9c0f-0b43a9e8e3a7"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ed1132ec-c2cd-4646-b69d-26663bb937a4"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8cea2f3a-cfa5-4a68-9ff4-b5a5a2085d08"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2c68d202-fdf7-4b6a-dd7f-82624fcdbd4a"
+    },
+    {
+      "combination": false,
+      "labeler": "Fosun Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e3f22b7e-b6ad-4799-93c7-d30540cada85"
+    },
+    {
+      "combination": false,
+      "labeler": "Civica, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "70437694-0341-4f3b-824c-06843403443f"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9d5e7650-95be-4b96-b29c-374f673eb7a1"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "281e4296-1d0e-4602-9912-2685ba1640f6"
+    },
+    {
+      "combination": false,
+      "labeler": "Natco Pharma USA LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "64527de5-0b92-4340-9243-7a37e8ff96d9"
+    },
+    {
+      "combination": false,
+      "labeler": "AvPAK",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "05cf8d4f-ac57-4177-e063-6394a90ae804"
+    },
+    {
+      "combination": false,
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d62cd60b-f87e-4825-bead-1d18bbc4e480"
+    },
+    {
+      "combination": false,
+      "labeler": "AvKARE",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "352de988-d166-c2d8-e063-6294a90acc01"
+    },
+    {
+      "combination": false,
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e0862c02-781f-4b10-ae50-9c9c4ca26f6d"
+    },
+    {
+      "combination": false,
+      "labeler": "JVET PHARMACEUTICALS LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "95ca0d81-a0a8-441d-820e-cb6624018a15"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "60d09eb8-40e8-48f8-bbbf-70ba701754e2"
+    }
+  ]
+}

@@ -1,0 +1,410 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/001012",
+      "eu_number": "EU/1/09/581",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-001012",
+      "mah": "Takeda Pharmaceuticals International AG Ireland",
+      "marketing_authorisation_date": "2009-10-14",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/resolor",
+      "name": "Resolor",
+      "record_from": "2009-10-15",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 15
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-001012",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "PRUCALOPRIDE",
+    "PRUCALOPRIDE SUCCINATE"
+  ],
+  "inn": "prucalopride",
+  "name": "PRUCALOPRIDE",
+  "rank": 309,
+  "rxcui": [
+    "2107345",
+    "2107351",
+    "2107353",
+    "2107355"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 18,
+    "approval_holders": 18,
+    "earliest_marketing_start": "2018-12-14",
+    "latest_label_update": "2026-10-23",
+    "nda_bla_applications": 1,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "PRUCALOPRIDE",
+      "unii": "0A09IUW5TP"
+    },
+    {
+      "ingredient": "PRUCALOPRIDE SUCCINATE",
+      "unii": "4V2G75E1CK"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA210166"
+      ],
+      "brand_names": [
+        "MOTEGRITY"
+      ],
+      "combination": false,
+      "home_inn": "prucalopride",
+      "ingredients": [
+        "PRUCALOPRIDE SUCCINATE"
+      ],
+      "labeler": "Takeda Pharmaceuticals America, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-12-14",
+      "moieties": [
+        "PRUCALOPRIDE"
+      ],
+      "product_ndcs": [
+        "54092-546",
+        "54092-547"
+      ],
+      "rxcui": [
+        "2107345",
+        "2107351",
+        "2107353",
+        "2107355"
+      ],
+      "setid": "bca1e4c6-4b2b-4876-8ab3-654629c4ff1b",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "MOTEGRITY (PRUCALOPRIDE) TABLET, FILM COATED [TAKEDA PHARMACEUTICALS AMERICA, INC.]",
+      "upload_date": "2025-07-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA218492"
+      ],
+      "brand_names": [
+        "Prucalopride"
+      ],
+      "combination": false,
+      "home_inn": "prucalopride",
+      "ingredients": [
+        "PRUCALOPRIDE SUCCINATE"
+      ],
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-12-26",
+      "moieties": [
+        "PRUCALOPRIDE"
+      ],
+      "product_ndcs": [
+        "70954-596",
+        "70954-597"
+      ],
+      "rxcui": [
+        "2107345",
+        "2107353"
+      ],
+      "setid": "6d82dfbd-f171-4045-9f7a-268e189a658a",
+      "source": "dailymed-title-match",
+      "spl_version": 3,
+      "title": "PRUCALOPRIDE TABLET [ANI PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-10-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA218963"
+      ],
+      "brand_names": [
+        "PRUCALOPRIDE"
+      ],
+      "combination": false,
+      "home_inn": "prucalopride",
+      "ingredients": [
+        "PRUCALOPRIDE SUCCINATE"
+      ],
+      "labeler": "Sandoz Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-06-13",
+      "moieties": [
+        "PRUCALOPRIDE"
+      ],
+      "product_ndcs": [
+        "0781-8158",
+        "0781-8159"
+      ],
+      "rxcui": [
+        "2107345",
+        "2107353"
+      ],
+      "setid": "6325308c-4b0f-4926-bb85-b63db614533d",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "PRUCALOPRIDE TABLET, FILM COATED [SANDOZ INC.]",
+      "upload_date": "2025-09-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA218977"
+      ],
+      "brand_names": [
+        "Prucalopride"
+      ],
+      "combination": false,
+      "home_inn": "prucalopride",
+      "ingredients": [
+        "PRUCALOPRIDE SUCCINATE"
+      ],
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-06-24",
+      "moieties": [
+        "PRUCALOPRIDE"
+      ],
+      "product_ndcs": [
+        "60505-4806",
+        "60505-4807"
+      ],
+      "rxcui": [
+        "2107345",
+        "2107353"
+      ],
+      "setid": "01dcea95-b391-79da-bbfe-412f39022e9a",
+      "source": "dailymed-title-match",
+      "spl_version": 4,
+      "title": "PRUCALOPRIDE TABLET, FILM COATED [APOTEX CORP.]",
+      "upload_date": "2026-09-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA219078"
+      ],
+      "brand_names": [
+        "Prucalopride succinate"
+      ],
+      "combination": false,
+      "home_inn": "prucalopride",
+      "ingredients": [
+        "PRUCALOPRIDE SUCCINATE"
+      ],
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-06-24",
+      "moieties": [
+        "PRUCALOPRIDE"
+      ],
+      "product_ndcs": [
+        "70069-821",
+        "70069-822"
+      ],
+      "rxcui": [
+        "2107345",
+        "2107353"
+      ],
+      "setid": "1750cd94-b443-49df-9c53-eb5b68f66092",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "PRUCALOPRIDE SUCCINATE TABLET [SOMERSET THERAPEUTICS, LLC]",
+      "upload_date": "2025-08-27"
+    },
+    {
+      "application_numbers": [
+        "ANDA218177"
+      ],
+      "brand_names": [
+        "PRUCALOPRIDE"
+      ],
+      "combination": false,
+      "home_inn": "prucalopride",
+      "ingredients": [
+        "PRUCALOPRIDE SUCCINATE"
+      ],
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-06-24",
+      "moieties": [
+        "PRUCALOPRIDE"
+      ],
+      "product_ndcs": [
+        "72205-218",
+        "72205-219"
+      ],
+      "rxcui": [
+        "2107345",
+        "2107353"
+      ],
+      "setid": "1f195f1d-d509-4f8b-8710-2d0d110b6b5c",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "PRUCALOPRIDE TABLET, FILM COATED [NOVADOZ PHARMACEUTICALS LLC]",
+      "upload_date": "2026-01-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA219160"
+      ],
+      "brand_names": [
+        "PRUCALOPRIDE"
+      ],
+      "combination": false,
+      "home_inn": "prucalopride",
+      "ingredients": [
+        "PRUCALOPRIDE SUCCINATE"
+      ],
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-06-24",
+      "moieties": [
+        "PRUCALOPRIDE"
+      ],
+      "product_ndcs": [
+        "31722-391",
+        "31722-392"
+      ],
+      "rxcui": [
+        "2107345",
+        "2107353"
+      ],
+      "setid": "4a519883-9231-4ed3-966a-8d9fdbf4a3ac",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "PRUCALOPRIDE (PRUCALOPRIDE) TABLET, FILM COATED [CAMBER PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-06-26"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "SpecGx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "70fced73-c25b-46cb-ad30-19328e6130c3"
+    },
+    {
+      "combination": false,
+      "labeler": "SKG Pharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a1488b84-40e4-472a-a34b-68ef37c0260e"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e1e9e36c-ce5a-4323-9d20-395bb5e80e64"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "124e8e82-972d-4800-9d68-14db416959b5"
+    },
+    {
+      "combination": false,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e1306d74-8b35-4387-a89d-7c50be4bfc4f"
+    },
+    {
+      "combination": false,
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c9d7152d-b117-4346-b60c-dc87b59ead09"
+    },
+    {
+      "combination": false,
+      "labeler": "Viona Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "af559917-802b-486c-9f7b-b770115acac8"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "89a7bdb1-e1cd-4986-bab9-a939dc764faa"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "99acfdb5-e782-4933-b739-319dfede8c1d"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "da37395d-0a05-4fdc-ab5c-eb7caed62bf1"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a537fb70-eb4e-4498-aaef-9944ff390009"
+    }
+  ]
+}

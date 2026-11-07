@@ -1,0 +1,470 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "CETIRIZINE",
+    "CETIRIZINE HYDROCHLORIDE"
+  ],
+  "inn": "cetirizine",
+  "name": "CETIRIZINE",
+  "rank": 389,
+  "rxcui": [
+    "1014673",
+    "2119476",
+    "2119481",
+    "2261746",
+    "2261754"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 16,
+    "approval_holders": 15,
+    "earliest_marketing_start": "2008-07-24",
+    "latest_label_update": "2026-09-30",
+    "nda_bla_applications": 2,
+    "repackagers": 3
+  },
+  "unii": [
+    {
+      "ingredient": "CETIRIZINE",
+      "unii": "YO7261ME24"
+    },
+    {
+      "ingredient": "CETIRIZINE HYDROCHLORIDE",
+      "unii": "64O047KTOA"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA211415"
+      ],
+      "brand_names": [
+        "QUZYTTIR"
+      ],
+      "combination": false,
+      "home_inn": "cetirizine",
+      "ingredients": [
+        "CETIRIZINE HYDROCHLORIDE"
+      ],
+      "labeler": "ESTEVE PHARMACEUTICALS, S.A.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2019-11-13",
+      "moieties": [
+        "CETIRIZINE"
+      ],
+      "product_ndcs": [
+        "68118-200"
+      ],
+      "rxcui": [
+        "2261746",
+        "2261754"
+      ],
+      "setid": "573770f6-b76e-f6ba-e063-6294a90aa54d",
+      "source": "dailymed-title-match",
+      "spl_version": 5,
+      "title": "QUZYTTIR (CETIRIZINE HYDROCHLORIDE) INJECTION [ESTEVE PHARMACEUTICALS, S.A.]",
+      "upload_date": "2026-09-30"
+    },
+    {
+      "application_numbers": [
+        "NDA208694"
+      ],
+      "brand_names": [
+        "ZERVIATE"
+      ],
+      "combination": false,
+      "home_inn": "cetirizine",
+      "ingredients": [
+        "CETIRIZINE"
+      ],
+      "labeler": "Harrow Eye, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-04-30",
+      "moieties": [
+        "CETIRIZINE"
+      ],
+      "product_ndcs": [
+        "82667-015"
+      ],
+      "rxcui": [
+        "2119476",
+        "2119481"
+      ],
+      "setid": "6fc5ef4e-4aea-4c34-8d51-0c07ab9aad59",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "ZERVIATE (CETIRIZINE) FOR SOLUTION [HARROW EYE, LLC]",
+      "upload_date": "2026-08-05"
+    },
+    {
+      "application_numbers": [
+        "NDA211415"
+      ],
+      "brand_names": [
+        "QUZYTTIR"
+      ],
+      "combination": false,
+      "home_inn": "cetirizine",
+      "ingredients": [
+        "CETIRIZINE HYDROCHLORIDE"
+      ],
+      "labeler": "TerSera Therapeutics LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2019-11-13",
+      "moieties": [
+        "CETIRIZINE"
+      ],
+      "product_ndcs": [
+        "70720-100"
+      ],
+      "rxcui": [
+        "2261746",
+        "2261754"
+      ],
+      "setid": "f33e859d-ebc9-4d4f-a57d-204c48760d20",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "QUZYTTIR (CETIRIZINE HYDROCHLORIDE) INJECTION [TERSERA THERAPEUTICS LLC]",
+      "upload_date": "2026-03-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA078398"
+      ],
+      "brand_names": [
+        "Cetirizine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "cetirizine",
+      "ingredients": [
+        "CETIRIZINE HYDROCHLORIDE"
+      ],
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2008-07-24",
+      "moieties": [
+        "CETIRIZINE"
+      ],
+      "product_ndcs": [
+        "45802-626"
+      ],
+      "rxcui": [
+        "1014673"
+      ],
+      "setid": "2f47dbc5-dfb4-425c-9fe4-777fa3c4e72e",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "CETIRIZINE HYDROCHLORIDE SOLUTION [PADAGIS ISRAEL PHARMACEUTICALS LTD]",
+      "upload_date": "2026-08-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA090766"
+      ],
+      "brand_names": [
+        "Cetirizine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "cetirizine",
+      "ingredients": [
+        "CETIRIZINE HYDROCHLORIDE"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-10-07",
+      "moieties": [
+        "CETIRIZINE"
+      ],
+      "product_ndcs": [
+        "65162-684"
+      ],
+      "rxcui": [
+        "1014673"
+      ],
+      "setid": "365cbabe-535b-4c34-852b-6cd63782e3e5",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "CETIRIZINE HYDROCHLORIDE (CETIRIZINE) SOLUTION [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2025-06-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA078876"
+      ],
+      "brand_names": [
+        "Cetirizine Hydrochloride Oral Solution"
+      ],
+      "combination": false,
+      "home_inn": "cetirizine",
+      "ingredients": [
+        "CETIRIZINE HYDROCHLORIDE"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-05-11",
+      "moieties": [
+        "CETIRIZINE"
+      ],
+      "product_ndcs": [
+        "62135-057"
+      ],
+      "rxcui": [
+        "1014673"
+      ],
+      "setid": "41dc7107-a2d2-4519-ac6f-cbed9f07e9bf",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "CETIRIZINE HYDROCHLORIDE ORAL SOLUTION SOLUTION [CHARTWELL RX, LLC]",
+      "upload_date": "2023-10-06"
+    },
+    {
+      "application_numbers": [
+        "ANDA076601"
+      ],
+      "brand_names": [
+        "Cetirizine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "cetirizine",
+      "ingredients": [
+        "CETIRIZINE HYDROCHLORIDE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-05-01",
+      "moieties": [
+        "CETIRIZINE"
+      ],
+      "product_ndcs": [
+        "51672-4070"
+      ],
+      "rxcui": [
+        "1014673"
+      ],
+      "setid": "6d81446e-f713-4ca4-af38-3d31cf618873",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "CETIRIZINE HYDROCHLORIDE SOLUTION [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2025-08-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA090191"
+      ],
+      "brand_names": [
+        "CETIRIZINE HYDROCHLORIDE"
+      ],
+      "combination": false,
+      "home_inn": "cetirizine",
+      "ingredients": [
+        "CETIRIZINE HYDROCHLORIDE"
+      ],
+      "labeler": "BAJAJ MEDICAL, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-09-12",
+      "moieties": [
+        "CETIRIZINE"
+      ],
+      "product_ndcs": [
+        "61037-479"
+      ],
+      "rxcui": [
+        "1014673"
+      ],
+      "setid": "05324e41-ee3f-0e4b-e063-6294a90a102c",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "CETIRIZINE HYDROCHLORIDE SOLUTION [BAJAJ MEDICAL, LLC]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA078412"
+      ],
+      "brand_names": [
+        "Cetirizine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "cetirizine",
+      "ingredients": [
+        "CETIRIZINE HYDROCHLORIDE"
+      ],
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-02-12",
+      "moieties": [
+        "CETIRIZINE"
+      ],
+      "product_ndcs": [
+        "0121-0874"
+      ],
+      "rxcui": [
+        "1014673"
+      ],
+      "setid": "71448ab0-e23e-4cf7-940e-7d67e7362fb4",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "CETIRIZINE HYDROCHLORIDE SOLUTION [PAI HOLDINGS, LLC DBA PAI PHARMA]",
+      "upload_date": "2025-08-25"
+    },
+    {
+      "application_numbers": [
+        "NDA019835"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "ZYRTEC"
+      ],
+      "first_posted": "2009-12-02",
+      "found_by": "ZYRTEC",
+      "labeler": "McNeil Consumer Healthcare Div McNeil-PPC, Inc",
+      "labeler_unverified": false,
+      "last_posted": "2013-09-06",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2012-04-30"
+      ],
+      "product_ndcs": [
+        "50580-729"
+      ],
+      "rxcui": [],
+      "setid": "573d0a6d-5228-475b-b645-f797a2f9e0a8",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ZYRTEC (cetirizine hydrochloride) tablet, film coated"
+    },
+    {
+      "application_numbers": [
+        "NDA019835",
+        "NDA020346",
+        "NDA021621"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "ZYRTEC"
+      ],
+      "first_posted": "2006-11-14",
+      "found_by": "ZYRTEC",
+      "labeler": "Pfizer Laboratories Div Pfizer Inc",
+      "labeler_unverified": false,
+      "last_posted": "2013-04-04",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2009-01-01",
+        "2010-12-08"
+      ],
+      "product_ndcs": [
+        "0069-0731",
+        "0069-0732",
+        "0069-1440",
+        "0069-1450",
+        "0069-5530"
+      ],
+      "rxcui": [],
+      "setid": "ecb84b38-ed22-48b0-861c-d09cf8f101c9",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ZYRTEC (cetirizine hydrochloride) syrup ZYRTEC (cetirizine hydrochloride) tablet, film coated ZYRTEC (cetirizine hydrochloride) tablet, chewable"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "APOZEAL PHARMACEUTICALS INC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9c6a440b-bd0f-414b-bab3-3b2f57c479d7"
+    },
+    {
+      "combination": false,
+      "labeler": "Bionpharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "41d7af88-87b4-370e-e063-6294a90a8af6"
+    },
+    {
+      "combination": false,
+      "labeler": "Advagen Pharma Ltd.,",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0956baea-f0ad-4aac-9464-831840db9230"
+    },
+    {
+      "combination": false,
+      "labeler": "Aventura Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "aeb73ab9-3b05-4062-a7fd-352cf2094a56"
+    },
+    {
+      "combination": false,
+      "labeler": "BAJAJ MEDICAL, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3b5908f1-faba-c317-e063-6294a90aa8a7"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "efabbad5-a162-45c8-a896-5af58e5d2d39"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharma Labs Inc. d/b/a Avet Pharmaceuticals Labs Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a9b21d71-106e-4bd5-aaab-9254c8a44e0d"
+    }
+  ]
+}

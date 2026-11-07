@@ -1,0 +1,999 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand EPIVIR",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000107",
+      "eu_number": "EU/1/96/015",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000107",
+      "mah": "ViiV Healthcare BV",
+      "marketing_authorisation_date": "1996-08-08",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/epivir",
+      "name": "Epivir",
+      "record_from": "1996-08-08",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 43
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/000242",
+      "eu_number": "EU/1/99/114",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-000242",
+      "mah": "GlaxoSmithKline Trading Services Limited",
+      "marketing_authorisation_date": "1999-07-29",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/zeffix",
+      "name": "Zeffix",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/001111",
+      "eu_number": "EU/1/09/596",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-001111",
+      "mah": "Teva B.V. ",
+      "marketing_authorisation_date": "2009-12-10",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/lamivudine-teva-pharma-bv",
+      "name": "Lamivudine Teva Pharma B.V.",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/001113",
+      "eu_number": "EU/1/09/566",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-001113",
+      "mah": "Teva B.V.",
+      "marketing_authorisation_date": "2009-10-23",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/lamivudine-teva",
+      "name": "Lamivudine Teva",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 6,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000107",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "LAMIVUDINE"
+  ],
+  "inn": "lamivudine",
+  "name": "LAMIVUDINE",
+  "rank": 36,
+  "rxcui": [
+    "152931",
+    "152932",
+    "199147",
+    "199148",
+    "200082",
+    "205328",
+    "213088",
+    "349491",
+    "352230",
+    "864661",
+    "1546888",
+    "1546894",
+    "2003249",
+    "2003255",
+    "2043464",
+    "2055813",
+    "2055815",
+    "2122519",
+    "2122526",
+    "2598348",
+    "2598352"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 36,
+    "approval_holders": 17,
+    "earliest_marketing_start": "2010-10-04",
+    "latest_label_update": "2026-10-15",
+    "nda_bla_applications": 9,
+    "repackagers": 6
+  },
+  "unii": [
+    {
+      "ingredient": "LAMIVUDINE",
+      "unii": "2T8Q726O95"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020564",
+        "NDA020596"
+      ],
+      "brand_names": [
+        "EPIVIR"
+      ],
+      "combination": false,
+      "home_inn": "lamivudine",
+      "ingredients": [
+        "LAMIVUDINE"
+      ],
+      "labeler": "ViiV Healthcare Company",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2010-10-04",
+      "moieties": [
+        "LAMIVUDINE"
+      ],
+      "product_ndcs": [
+        "49702-203",
+        "49702-204",
+        "49702-205"
+      ],
+      "rxcui": [
+        "152931",
+        "152932",
+        "199147",
+        "199148",
+        "349491",
+        "352230"
+      ],
+      "setid": "89226149-47fa-4f7d-bb1f-1aa7034486b8",
+      "source": "dailymed-title-match",
+      "spl_version": 24,
+      "title": "EPIVIR (LAMIVUDINE) TABLET, FILM COATED EPIVIR (LAMIVUDINE) SOLUTION [VIIV HEALTHCARE COMPANY]",
+      "upload_date": "2026-09-14"
+    },
+    {
+      "application_numbers": [
+        "NDA020857"
+      ],
+      "brand_names": [
+        "COMBIVIR"
+      ],
+      "combination": true,
+      "home_inn": "lamivudine",
+      "ingredients": [
+        "LAMIVUDINE",
+        "ZIDOVUDINE"
+      ],
+      "labeler": "ViiV Healthcare Company",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2010-10-19",
+      "moieties": [
+        "LAMIVUDINE",
+        "ZIDOVUDINE"
+      ],
+      "product_ndcs": [
+        "49702-202"
+      ],
+      "rxcui": [
+        "200082",
+        "213088"
+      ],
+      "setid": "16da660b-9981-4d24-a14a-94c7744fce4f",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "COMBIVIR (LAMIVUDINE AND ZIDOVUDINE) TABLET, FILM COATED [VIIV HEALTHCARE COMPANY]",
+      "upload_date": "2024-10-03"
+    },
+    {
+      "application_numbers": [
+        "NDA205551",
+        "NDA215413"
+      ],
+      "brand_names": [
+        "Triumeq",
+        "Triumeq PD"
+      ],
+      "combination": true,
+      "home_inn": "lamivudine",
+      "ingredients": [
+        "ABACAVIR SULFATE",
+        "DOLUTEGRAVIR SODIUM",
+        "LAMIVUDINE"
+      ],
+      "labeler": "ViiV Healthcare Company",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2014-08-22",
+      "moieties": [
+        "ABACAVIR",
+        "DOLUTEGRAVIR",
+        "LAMIVUDINE"
+      ],
+      "product_ndcs": [
+        "49702-231",
+        "49702-258"
+      ],
+      "rxcui": [
+        "1546888",
+        "1546894",
+        "2598348",
+        "2598352"
+      ],
+      "setid": "2997739a-aa91-42aa-a206-a70e2db7b84f",
+      "source": "openfda",
+      "spl_version": 30,
+      "title": "TRIUMEQ (ABACAVIR SULFATE, DOLUTEGRAVIR SODIUM, LAMIVUDINE) TABLET, FILM COATED TRIUMEQ PD (ABACAVIR SULFATE, DOLUTEGRAVIR SODIUM, LAMIVUDINE) KIT [VIIV HEALTHCARE COMPANY]",
+      "upload_date": "2026-01-26"
+    },
+    {
+      "application_numbers": [
+        "NDA022142"
+      ],
+      "brand_names": [
+        "SYMFI"
+      ],
+      "combination": true,
+      "home_inn": "lamivudine",
+      "ingredients": [
+        "EFAVIRENZ",
+        "LAMIVUDINE",
+        "TENOFOVIR DISOPROXIL FUMARATE"
+      ],
+      "labeler": "Viatris Specialty LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-04-25",
+      "moieties": [
+        "EFAVIRENZ",
+        "LAMIVUDINE",
+        "TENOFOVIR DISOPROXIL"
+      ],
+      "product_ndcs": [
+        "49502-475"
+      ],
+      "rxcui": [
+        "864661",
+        "2043464"
+      ],
+      "setid": "81a55dd9-78a8-49c3-88ab-8f5bffafa359",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "SYMFI (EFAVIRENZ, LAMIVUDINE AND TENOFOVIR DISOPROXIL FUMARATE) TABLET, FILM COATED [VIATRIS SPECIALTY LLC]",
+      "upload_date": "2025-02-12"
+    },
+    {
+      "application_numbers": [
+        "NDA022141"
+      ],
+      "brand_names": [
+        "CIMDUO"
+      ],
+      "combination": true,
+      "home_inn": "lamivudine",
+      "ingredients": [
+        "LAMIVUDINE",
+        "TENOFOVIR DISOPROXIL FUMARATE"
+      ],
+      "labeler": "Viatris Specialty LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-06-25",
+      "moieties": [
+        "LAMIVUDINE",
+        "TENOFOVIR DISOPROXIL"
+      ],
+      "product_ndcs": [
+        "49502-450"
+      ],
+      "rxcui": [
+        "2003249",
+        "2003255"
+      ],
+      "setid": "a300f04d-118f-4136-aaf3-ddfd00197f86",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "CIMDUO (LAMIVUDINE AND TENOFOVIR DISOPROXIL FUMARATE) TABLET, FILM COATED [VIATRIS SPECIALTY LLC]",
+      "upload_date": "2025-02-10"
+    },
+    {
+      "application_numbers": [
+        "NDA210807"
+      ],
+      "brand_names": [
+        "DELSTRIGO"
+      ],
+      "combination": true,
+      "home_inn": "lamivudine",
+      "ingredients": [
+        "DORAVIRINE",
+        "LAMIVUDINE",
+        "TENOFOVIR DISOPROXIL FUMARATE"
+      ],
+      "labeler": "Merck Sharp & Dohme LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-07-20",
+      "moieties": [
+        "DORAVIRINE",
+        "LAMIVUDINE",
+        "TENOFOVIR DISOPROXIL"
+      ],
+      "product_ndcs": [
+        "0006-5007"
+      ],
+      "rxcui": [
+        "2055813",
+        "2055815"
+      ],
+      "setid": "cd1e9f84-607a-46d3-b01e-2736018d67b6",
+      "source": "openfda",
+      "spl_version": 24,
+      "title": "DELSTRIGO (DORAVIRINE, LAMIVUDINE, AND TENOFOVIR DISOPROXIL FUMARATE) TABLET, FILM COATED [MERCK SHARP & DOHME LLC]",
+      "upload_date": "2026-07-13"
+    },
+    {
+      "application_numbers": [
+        "NDA211994"
+      ],
+      "brand_names": [
+        "Dovato"
+      ],
+      "combination": true,
+      "home_inn": "lamivudine",
+      "ingredients": [
+        "DOLUTEGRAVIR SODIUM",
+        "LAMIVUDINE"
+      ],
+      "labeler": "ViiV Healthcare Company",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2019-04-08",
+      "moieties": [
+        "DOLUTEGRAVIR",
+        "LAMIVUDINE"
+      ],
+      "product_ndcs": [
+        "49702-246"
+      ],
+      "rxcui": [
+        "2122519",
+        "2122526"
+      ],
+      "setid": "68e45422-43ed-4cfb-9356-fae88d14a53a",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "DOVATO (DOLUTEGRAVIR SODIUM AND LAMIVUDINE) TABLET, FILM COATED [VIIV HEALTHCARE COMPANY]",
+      "upload_date": "2026-01-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA091606",
+        "ANDA202941"
+      ],
+      "brand_names": [
+        "LAMIVUDINE",
+        "Lamivudine"
+      ],
+      "combination": false,
+      "home_inn": "lamivudine",
+      "ingredients": [
+        "LAMIVUDINE"
+      ],
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-12-02",
+      "moieties": [
+        "LAMIVUDINE"
+      ],
+      "product_ndcs": [
+        "60505-3250",
+        "60505-3251",
+        "60505-3252"
+      ],
+      "rxcui": [
+        "199147",
+        "349491"
+      ],
+      "setid": "34c02bcc-d6ff-99d4-8e6a-4a91908adca8",
+      "source": "dailymed-title-match",
+      "spl_version": 27,
+      "title": "LAMIVUDINE TABLET, FILM COATED [APOTEX CORP.]",
+      "upload_date": "2026-10-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA203260"
+      ],
+      "brand_names": [
+        "Lamivudine"
+      ],
+      "combination": false,
+      "home_inn": "lamivudine",
+      "ingredients": [
+        "LAMIVUDINE"
+      ],
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-01-02",
+      "moieties": [
+        "LAMIVUDINE"
+      ],
+      "product_ndcs": [
+        "31722-752"
+      ],
+      "rxcui": [
+        "205328"
+      ],
+      "setid": "6bd6b9da-df69-46db-813e-4e7f3bdecf95",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "LAMIVUDINE TABLET, FILM COATED [CAMBER PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-07-31"
+    },
+    {
+      "application_numbers": [
+        "ANDA203277"
+      ],
+      "brand_names": [
+        "Lamivudine"
+      ],
+      "combination": false,
+      "home_inn": "lamivudine",
+      "ingredients": [
+        "LAMIVUDINE"
+      ],
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-01-06",
+      "moieties": [
+        "LAMIVUDINE"
+      ],
+      "product_ndcs": [
+        "31722-753",
+        "31722-754"
+      ],
+      "rxcui": [
+        "199147",
+        "349491"
+      ],
+      "setid": "49d53e74-3798-4463-b817-1c8beb755034",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "LAMIVUDINE (LAMIVUDINE) TABLET, FILM COATED [CAMBER PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-01-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA203564"
+      ],
+      "brand_names": [
+        "lamivudine"
+      ],
+      "combination": false,
+      "home_inn": "lamivudine",
+      "ingredients": [
+        "LAMIVUDINE"
+      ],
+      "labeler": "Chartwell Govermental & Specialty RX, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-10-31",
+      "moieties": [
+        "LAMIVUDINE"
+      ],
+      "product_ndcs": [
+        "68999-706"
+      ],
+      "rxcui": [
+        "199148"
+      ],
+      "setid": "b23aea53-324b-4ff2-8736-639e4045e388",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "LAMIVUDINE (LAMIVUDINE ORAL) SOLUTION [CHARTWELL GOVERMENTAL & SPECIALTY RX, LLC.]",
+      "upload_date": "2026-01-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA205217"
+      ],
+      "brand_names": [
+        "Lamivudine"
+      ],
+      "combination": false,
+      "home_inn": "lamivudine",
+      "ingredients": [
+        "LAMIVUDINE"
+      ],
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-03-25",
+      "moieties": [
+        "LAMIVUDINE"
+      ],
+      "product_ndcs": [
+        "68180-602"
+      ],
+      "rxcui": [
+        "199147",
+        "349491"
+      ],
+      "setid": "ff3b5265-f533-4332-a861-d8c9c1664ffd",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "LAMIVUDINE TABLET, FILM COATED [LUPIN PHARMACEUTICALS, INC.]",
+      "upload_date": "2024-01-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA077464"
+      ],
+      "brand_names": [
+        "Lamivudine"
+      ],
+      "combination": false,
+      "home_inn": "lamivudine",
+      "ingredients": [
+        "LAMIVUDINE"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-11-21",
+      "moieties": [
+        "LAMIVUDINE"
+      ],
+      "product_ndcs": [
+        "65862-025",
+        "65862-026"
+      ],
+      "rxcui": [
+        "199147",
+        "349491"
+      ],
+      "setid": "a8a492ab-396a-4b7c-99b3-bcb6d3386f71",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "LAMIVUDINE TABLET, FILM COATED [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2024-05-01"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 28,
+      "brand_names": [
+        "EPIVIR HBV"
+      ],
+      "first_posted": "2007-12-18",
+      "found_by": "EPIVIR-HBV",
+      "labeler": "GlaxoSmithKline",
+      "labeler_unverified": false,
+      "last_posted": "2024-11-04",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0173-0662",
+        "0173-0663"
+      ],
+      "rxcui": [],
+      "setid": "2df7349c-f5d7-47b5-d29b-1b6b31985591",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "EPIVIR HBV (lamivudine) tablet, film coated EPIVIR HBV (lamivudine) solution"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "COMBIVIR"
+      ],
+      "first_posted": "2006-08-21",
+      "found_by": "COMBIVIR",
+      "labeler": "GlaxoSmithKline",
+      "labeler_unverified": false,
+      "last_posted": "2006-08-21",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0173-0595"
+      ],
+      "rxcui": [],
+      "setid": "3c4727a5-0552-4630-4fa6-e7f4e0aa5107",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "combivir (lamivudine and zidovudine) tablet"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "EPIVIR HBV"
+      ],
+      "first_posted": "2007-01-19",
+      "found_by": "EPIVIR-HBV",
+      "labeler": "GlaxoSmithKline",
+      "labeler_unverified": false,
+      "last_posted": "2007-01-19",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0173-0662",
+        "0173-0663"
+      ],
+      "rxcui": [],
+      "setid": "4df96f11-1266-4ad5-4a90-15cbc62698c6",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "epivir-hbv (lamivudine) tablet, coated epivir-hbv (lamivudine) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA020857"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "COMBIVIR"
+      ],
+      "first_posted": "2006-11-09",
+      "found_by": "COMBIVIR",
+      "labeler": "GlaxoSmithKline LLC",
+      "labeler_unverified": false,
+      "last_posted": "2011-03-15",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2014-07-31"
+      ],
+      "product_ndcs": [
+        "0173-0595"
+      ],
+      "rxcui": [],
+      "setid": "6697518c-136b-49f7-c187-81501a2f3c3e",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "16da660b-9981-4d24-a14a-94c7744fce4f"
+      ],
+      "title": "COMBIVIR (lamivudine and zidovudine) tablet, film coated"
+    },
+    {
+      "application_numbers": [
+        "NDA020564",
+        "NDA020596"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "EPIVIR"
+      ],
+      "first_posted": "2006-12-08",
+      "found_by": "EPIVIR",
+      "labeler": "GlaxoSmithKline LLC",
+      "labeler_unverified": false,
+      "last_posted": "2011-01-11",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2012-07-31",
+        "2013-06-09",
+        "2015-06-16"
+      ],
+      "product_ndcs": [
+        "0173-0470",
+        "0173-0471",
+        "0173-0714"
+      ],
+      "rxcui": [],
+      "setid": "786992bd-13a0-4a00-dfb2-6c135ecd349b",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "89226149-47fa-4f7d-bb1f-1aa7034486b8"
+      ],
+      "title": "EPIVIR (lamivudine) tablet, film coated EPIVIR (lamivudine) solution"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "TRIUMEQ"
+      ],
+      "first_posted": "2017-12-21",
+      "found_by": "TRIUMEQ",
+      "labeler": "Glaxo Operations UK Ltd",
+      "labeler_unverified": true,
+      "last_posted": "2017-12-21",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "63379-053"
+      ],
+      "rxcui": [],
+      "setid": "b38da720-b1b2-4b7e-93de-5063c67325fb",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "TRIUMEQ (dolutegravir sodium, abacavir sulfate, lamivudine) tablet, film coated"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "EPIVIR"
+      ],
+      "first_posted": "2006-09-18",
+      "found_by": "EPIVIR",
+      "labeler": "GlaxoSmithKline",
+      "labeler_unverified": false,
+      "last_posted": "2006-09-18",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0173-0470",
+        "0173-0471",
+        "0173-0714"
+      ],
+      "rxcui": [],
+      "setid": "f8d27d62-caef-4a9b-bfa0-f002ed03a063",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "epivir (lamivudine) tablet epivir (lamivudine) solution"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ba7ee31e-e8d4-4e17-b27a-d2ce69e3bb00"
+    },
+    {
+      "combination": false,
+      "labeler": "Ingenus Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "47f8be59-178c-4bad-96a4-a5c82784f308"
+    },
+    {
+      "combination": false,
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ac824c7e-9c9f-487b-ad2f-d50eaef5cbda"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e90671c6-7fff-48f4-8898-29f02d049c8b"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1be30bcc-2d9f-4afc-8f09-adc840b3f2d9"
+    },
+    {
+      "combination": true,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f5f7c0d9-a247-4308-8269-32accc490ea6"
+    },
+    {
+      "combination": true,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e816e8f5-1e50-4f49-8bea-92da0121d26e"
+    },
+    {
+      "combination": true,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f80bd0f3-47eb-4b82-a633-4536cf376cf6"
+    },
+    {
+      "combination": true,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1d8e7bb9-8624-4739-9719-fe25109d6365"
+    },
+    {
+      "combination": true,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c0488bee-2f18-4e2e-8e11-68543c023dec"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d40292ff-046c-4a04-b801-10768667951a"
+    },
+    {
+      "combination": true,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "63667952-be01-483e-9887-1d5417e7ec16"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "deda1a24-2f51-4601-9881-347f47270940"
+    },
+    {
+      "combination": true,
+      "labeler": "Laurus Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1f8f9fe1-b8fd-4f65-8832-9d3d6802d076"
+    },
+    {
+      "combination": true,
+      "labeler": "Laurus Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "98342153-b9de-4318-aac4-9f8d19590cd7"
+    },
+    {
+      "combination": true,
+      "labeler": "Laurus Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d12e80eb-906c-4932-bb03-b4060ba1d31c"
+    },
+    {
+      "combination": true,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d36624c8-d773-4f99-81fc-433fae17feb3"
+    },
+    {
+      "combination": true,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e8988924-c18c-4e91-ab79-2d84e72bfa0d"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "87095352-c088-74b1-7be0-d3e293a90611"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ef9977cb-ec91-46d7-b769-d26decfd6fe7"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bed2e227-8d36-40ea-bbbf-d8793bfda425"
+    },
+    {
+      "combination": true,
+      "labeler": "Exelan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4cf565c3-bdec-4c18-93c1-cc7fa8331c90"
+    },
+    {
+      "combination": true,
+      "labeler": "XLCare Pharmaceuticals, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "55520835-0f24-4e52-af8c-d65841ccaba7"
+    }
+  ]
+}

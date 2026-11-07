@@ -1,0 +1,685 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "SUCCINYLCHOLINE CHLORIDE",
+    "SUCCINYLCHOLINE CHLORIDE DIHYDRATE"
+  ],
+  "inn": "succinylcholine",
+  "name": "SUCCINYLCHOLINE",
+  "rank": 219,
+  "rxcui": [
+    "1594589",
+    "1594591",
+    "1594593"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 27,
+    "approval_holders": 22,
+    "earliest_marketing_start": "2005-04-30",
+    "latest_label_update": "2026-08-27",
+    "nda_bla_applications": 2,
+    "repackagers": 5
+  },
+  "unii": [
+    {
+      "ingredient": "SUCCINYLCHOLINE CHLORIDE",
+      "unii": "I9L0DDD30I"
+    },
+    {
+      "ingredient": "SUCCINYLCHOLINE CHLORIDE DIHYDRATE",
+      "unii": "8L0S1G435E"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA008845"
+      ],
+      "brand_names": [
+        "QUELICIN"
+      ],
+      "combination": false,
+      "home_inn": "succinylcholine",
+      "ingredients": [
+        "SUCCINYLCHOLINE CHLORIDE"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2005-04-30",
+      "moieties": [
+        "SUCCINYLCHOLINE"
+      ],
+      "product_ndcs": [
+        "0409-6629"
+      ],
+      "rxcui": [
+        "1594589",
+        "1594593"
+      ],
+      "setid": "fb08161e-7711-406d-e7b3-ea4515c07983",
+      "source": "openfda",
+      "spl_version": 31,
+      "title": "QUELICIN (SUCCINYLCHOLINE CHLORIDE) INJECTION, SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2026-08-27"
+    },
+    {
+      "application_numbers": [
+        "NDA008453"
+      ],
+      "brand_names": [
+        "Anectine"
+      ],
+      "combination": false,
+      "home_inn": "succinylcholine",
+      "ingredients": [
+        "SUCCINYLCHOLINE CHLORIDE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-06-22",
+      "moieties": [
+        "SUCCINYLCHOLINE"
+      ],
+      "product_ndcs": [
+        "0781-3411"
+      ],
+      "rxcui": [
+        "1594589",
+        "1594591"
+      ],
+      "setid": "a1e5d29f-111e-4a44-addf-beeb6ea81711",
+      "source": "openfda",
+      "spl_version": 23,
+      "title": "ANECTINE (SUCCINYLCHOLINE CHLORIDE) INJECTION, SOLUTION [SANDOZ INC]",
+      "upload_date": "2026-08-03"
+    },
+    {
+      "application_numbers": [
+        "NDA008453"
+      ],
+      "brand_names": [
+        "Anectine"
+      ],
+      "combination": false,
+      "home_inn": "succinylcholine",
+      "ingredients": [
+        "SUCCINYLCHOLINE CHLORIDE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2019-06-12",
+      "moieties": [
+        "SUCCINYLCHOLINE"
+      ],
+      "product_ndcs": [
+        "0781-9053"
+      ],
+      "rxcui": [
+        "1594589",
+        "1594591"
+      ],
+      "setid": "04a4e6f5-6fa1-42e1-a3f9-21fca7786b15",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "ANECTINE (SUCCINYLCHOLINE CHLORIDE) INJECTION, SOLUTION [SANDOZ INC]",
+      "upload_date": "2026-08-03"
+    },
+    {
+      "application_numbers": [
+        "NDA008453"
+      ],
+      "brand_names": [
+        "Anectine"
+      ],
+      "combination": false,
+      "home_inn": "succinylcholine",
+      "ingredients": [
+        "SUCCINYLCHOLINE CHLORIDE"
+      ],
+      "labeler": "Civica, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2020-12-11",
+      "moieties": [
+        "SUCCINYLCHOLINE"
+      ],
+      "product_ndcs": [
+        "72572-750"
+      ],
+      "rxcui": [
+        "1594589",
+        "1594591"
+      ],
+      "setid": "0b990f84-9515-44bd-a97d-a97bbead065c",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "ANECTINE (SUCCINYLCHOLINE CHLORIDE) INJECTION, SOLUTION [CIVICA, INC.]",
+      "upload_date": "2026-08-03"
+    },
+    {
+      "application_numbers": [
+        "ANDA209467"
+      ],
+      "brand_names": [
+        "Succinylcholine Chloride"
+      ],
+      "combination": false,
+      "home_inn": "succinylcholine",
+      "ingredients": [
+        "SUCCINYLCHOLINE CHLORIDE"
+      ],
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-05-10",
+      "moieties": [
+        "SUCCINYLCHOLINE"
+      ],
+      "product_ndcs": [
+        "70710-1377"
+      ],
+      "rxcui": [
+        "1594589"
+      ],
+      "setid": "017e5ad4-028e-4e34-ac09-d0c8d64c880a",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "SUCCINYLCHOLINE CHLORIDE INJECTION, SOLUTION [ZYDUS PHARMACEUTICALS USA INC.]",
+      "upload_date": "2023-01-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA214308"
+      ],
+      "brand_names": [
+        "Succinylcholine Chloride"
+      ],
+      "combination": false,
+      "home_inn": "succinylcholine",
+      "ingredients": [
+        "SUCCINYLCHOLINE CHLORIDE"
+      ],
+      "labeler": "Indoco Remedies Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-12-31",
+      "moieties": [
+        "SUCCINYLCHOLINE"
+      ],
+      "product_ndcs": [
+        "14445-407"
+      ],
+      "rxcui": [
+        "1594589"
+      ],
+      "setid": "53e064bb-f71c-485f-b466-58a0739e7753",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "SUCCINYLCHOLINE CHLORIDE INJECTION [INDOCO REMEDIES LIMITED ]",
+      "upload_date": "2020-05-26"
+    },
+    {
+      "application_numbers": [
+        "ANDA211589"
+      ],
+      "brand_names": [
+        "Succinylcholine Chloride"
+      ],
+      "combination": false,
+      "home_inn": "succinylcholine",
+      "ingredients": [
+        "SUCCINYLCHOLINE CHLORIDE"
+      ],
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-01-15",
+      "moieties": [
+        "SUCCINYLCHOLINE"
+      ],
+      "product_ndcs": [
+        "70069-301"
+      ],
+      "rxcui": [
+        "1594589"
+      ],
+      "setid": "499a4ba0-d466-4342-88da-9f1eb6098692",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "SUCCINYLCHOLINE CHLORIDE INJECTION, SOLUTION [SOMERSET THERAPEUTICS, LLC]",
+      "upload_date": "2026-07-06"
+    },
+    {
+      "application_numbers": [
+        "ANDA213810"
+      ],
+      "brand_names": [
+        "Succinylcholine Chloride"
+      ],
+      "combination": false,
+      "home_inn": "succinylcholine",
+      "ingredients": [
+        "SUCCINYLCHOLINE CHLORIDE"
+      ],
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-05-04",
+      "moieties": [
+        "SUCCINYLCHOLINE"
+      ],
+      "product_ndcs": [
+        "31722-981"
+      ],
+      "rxcui": [
+        "1594589"
+      ],
+      "setid": "3deac02b-392c-4ee4-9abf-7fe5b8975147",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "SUCCINYLCHOLINE CHLORIDE INJECTION, SOLUTION [CAMBER PHARMACEUTICALS, INC.]",
+      "upload_date": "2024-10-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA214246"
+      ],
+      "brand_names": [
+        "Succinylcholine Chloride"
+      ],
+      "combination": false,
+      "home_inn": "succinylcholine",
+      "ingredients": [
+        "SUCCINYLCHOLINE CHLORIDE"
+      ],
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-06-16",
+      "moieties": [
+        "SUCCINYLCHOLINE"
+      ],
+      "product_ndcs": [
+        "68083-450"
+      ],
+      "rxcui": [
+        "1594589"
+      ],
+      "setid": "0fa91665-16c4-40aa-98e6-6a624b102b8f",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "SUCCINYLCHOLINE CHLORIDE INJECTION, SOLUTION [GLAND PHARMA LIMITED]",
+      "upload_date": "2022-11-25"
+    },
+    {
+      "application_numbers": [
+        "ANDA210698"
+      ],
+      "brand_names": [
+        "Succinylcholine"
+      ],
+      "combination": false,
+      "home_inn": "succinylcholine",
+      "ingredients": [
+        "SUCCINYLCHOLINE CHLORIDE"
+      ],
+      "labeler": "Dr.Reddy's Laboratories Inc.,",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-10-07",
+      "moieties": [
+        "SUCCINYLCHOLINE"
+      ],
+      "product_ndcs": [
+        "43598-666"
+      ],
+      "rxcui": [
+        "1594589"
+      ],
+      "setid": "f55dd1c0-c259-219a-5bca-f139e9515d07",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "SUCCINYLCHOLINE INJECTION, SOLUTION [DR.REDDY'S LABORATORIES INC.,]",
+      "upload_date": "2024-09-30"
+    },
+    {
+      "application_numbers": [
+        "NDA008453"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "ANECTINE"
+      ],
+      "first_posted": "2024-03-15",
+      "found_by": "ANECTINE",
+      "labeler": "Delpharm Boucherville Canada Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2024-03-15",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "82650-139"
+      ],
+      "rxcui": [],
+      "setid": "138f1329-11c2-51ed-e063-6294a90a0702",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "04a4e6f5-6fa1-42e1-a3f9-21fca7786b15",
+        "0b990f84-9515-44bd-a97d-a97bbead065c",
+        "a1e5d29f-111e-4a44-addf-beeb6ea81711"
+      ],
+      "title": "ANECTINE NOV (succinylcholine chloride) injection, solution"
+    },
+    {
+      "application_numbers": [
+        "NDA008453"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "ANECTINE"
+      ],
+      "first_posted": "2024-03-15",
+      "found_by": "ANECTINE",
+      "labeler": "Delpharm Boucherville Canada Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2024-03-15",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "82650-138"
+      ],
+      "rxcui": [],
+      "setid": "138f172a-4b99-537e-e063-6394a90a6997",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "04a4e6f5-6fa1-42e1-a3f9-21fca7786b15",
+        "0b990f84-9515-44bd-a97d-a97bbead065c",
+        "a1e5d29f-111e-4a44-addf-beeb6ea81711"
+      ],
+      "title": "ANECTINE CIV (succinylcholine chloride) injection, solution"
+    },
+    {
+      "application_numbers": [
+        "NDA008453"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "ANECTINE"
+      ],
+      "first_posted": "2016-11-03",
+      "found_by": "ANECTINE",
+      "labeler": "Sandoz Inc",
+      "labeler_unverified": false,
+      "last_posted": "2016-11-03",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-10-12"
+      ],
+      "product_ndcs": [
+        "0781-9009"
+      ],
+      "rxcui": [],
+      "setid": "44f7af98-41fe-44d3-b977-ba7948849303",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "04a4e6f5-6fa1-42e1-a3f9-21fca7786b15",
+        "0b990f84-9515-44bd-a97d-a97bbead065c",
+        "a1e5d29f-111e-4a44-addf-beeb6ea81711"
+      ],
+      "title": "ANECTINE (succinylcholine chloride) injection, solution"
+    },
+    {
+      "application_numbers": [
+        "NDA008453"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "ANECTINE"
+      ],
+      "first_posted": "2007-07-12",
+      "found_by": "ANECTINE",
+      "labeler": "Sandoz Inc",
+      "labeler_unverified": false,
+      "last_posted": "2019-02-25",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-05-31"
+      ],
+      "product_ndcs": [
+        "0781-3009"
+      ],
+      "rxcui": [],
+      "setid": "579ff759-3099-45f5-befe-c4b79106c87e",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "04a4e6f5-6fa1-42e1-a3f9-21fca7786b15",
+        "0b990f84-9515-44bd-a97d-a97bbead065c",
+        "a1e5d29f-111e-4a44-addf-beeb6ea81711"
+      ],
+      "title": "ANECTINE (succinylcholine chloride) injection, solution"
+    },
+    {
+      "application_numbers": [
+        "NDA008845"
+      ],
+      "archived_versions": 13,
+      "brand_names": [
+        "QUELICIN"
+      ],
+      "first_posted": "2014-06-05",
+      "found_by": "QUELICIN",
+      "labeler": "Hospira, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2024-12-30",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-10-01"
+      ],
+      "product_ndcs": [
+        "0409-6629"
+      ],
+      "rxcui": [],
+      "setid": "c06156ae-b889-4250-bc85-1435b2635829",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "fb08161e-7711-406d-e7b3-ea4515c07983"
+      ],
+      "title": "QUELICIN (succinylcholine chloride) injection, solution"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4e2d3394-c9e0-4191-ba0d-da21034c22b5"
+    },
+    {
+      "combination": false,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "204f1c24-4bf6-40d5-95f3-a732db28e033"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "488e1689-84d4-4f96-ac85-fa0cbc661cb6"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3196be9d-0759-4a20-86a5-7a7b98b97127"
+    },
+    {
+      "combination": false,
+      "labeler": "BE Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6e6e0ce7-c73c-407f-9678-724425f24976"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3e12657f-0e9b-4323-9f64-5420713da156"
+    },
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1b3f3c63-0500-4c0a-8ac2-3d525ccf4537"
+    },
+    {
+      "combination": false,
+      "labeler": "Devatis, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e235eb7d-5ce2-4884-9d16-493c90d7beba"
+    },
+    {
+      "combination": false,
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "30f58922-3c74-4813-ace0-fcd2024acd09"
+    },
+    {
+      "combination": false,
+      "labeler": "STERISCIENCE SPECIALTIES PRIVATE LIMITED",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1d4302db-a0d5-d0e8-e063-6294a90a22f8"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ce12d907-eae4-4fba-b85e-170fac1819c6"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f4d496fb-588f-459d-b218-0fc0ffa2715f"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c7f409ed-e4f4-4cd6-8f37-93f505dd986d"
+    },
+    {
+      "combination": false,
+      "labeler": "Piramal Critical Care Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b94ff0a2-a770-47a6-e053-2995a90a7fbc"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e21bff70-5247-4763-b984-b939eb0a1fc1"
+    },
+    {
+      "combination": false,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "690a0231-dbba-4695-a843-842a14c6587c"
+    },
+    {
+      "combination": false,
+      "labeler": "Nordic Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1e5891e2-e1e4-4587-b32c-b2e8082df9b6"
+    }
+  ]
+}

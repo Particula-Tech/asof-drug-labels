@@ -1,0 +1,3992 @@
+{
+  "capture": {
+    "capture_date": "2026-11-01",
+    "captures": 1,
+    "changes": {
+      "changed": {},
+      "new": 189,
+      "previous": null,
+      "removed": []
+    },
+    "file": "sources/eu-capture/2026-11-01.json",
+    "inputs": {
+      "ema_epar_documents_json": {
+        "fetched": "2026-11-01T12:59:55Z",
+        "sha256": "660cfa0e933a7da11edd60e94751c06e8a348c5e33a0f8def7136e8a442b7713",
+        "size": 29284238,
+        "url": "https://www.ema.europa.eu/en/documents/report/documents-output-epar_documents_json-report_en.json"
+      },
+      "ema_medicines_json": {
+        "fetched": "2026-11-01T12:59:30Z",
+        "sha256": "64896e05f14b4d3687230e5f4a0cbc1a836491d9d1a4b6584b7a77a67e603c4f",
+        "size": 6795651,
+        "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json"
+      }
+    },
+    "pdf_bytes": 195513714,
+    "pdfs_pinned": 188,
+    "problems": {
+      "EMEA-H-C-006139": {
+        "no-pi-document": "no product-information document in the EPAR documents JSON"
+      }
+    },
+    "products": 189
+  },
+  "discover_problems": [],
+  "eu_number_source": {
+    "input": {
+      "fetched": "2026-11-01T11:37:06Z",
+      "licence": "CC BY 4.0",
+      "sha256": "05114a25dbcb135b3d3837b6a26469e320ba037e1441a4ac907fa4a46ed918ef",
+      "size": 16761245,
+      "url": "https://ec.europa.eu/health/documents/community-register/ods/ods_products.json"
+    },
+    "rule": "Union Register open dataset (ods_products.json, Creative Commons Attribution 4.0): rows with Type Human carry EUNumber, the product page URI (html/h{n}.htm) and EMALink, the EMA EPAR page. An EMA product is mapped through its medicine_url equal to EMALink (case-insensitive, trailing slash and scheme ignored); when no EMALink matches, through an exact normalised product name, ignoring a trailing '(previously ...)' note, among Human rows (preferring Active rows; recorded as a name match). The h-page of every reference product is then fetched and its EMA number (dataSet_proc ema_number) and EU number (dataSet_product_information) are checked against the mapping.",
+    "verification": [
+      {
+        "ema_product_number": "EMEA/H/C/002148",
+        "expected": [
+          "EU/1/11/691",
+          "h691"
+        ],
+        "got": [
+          "EU/1/11/691",
+          "h691"
+        ],
+        "match": "epar-url",
+        "name": "Eliquis",
+        "result": "ok"
+      },
+      {
+        "ema_product_number": "EMEA/H/C/003820",
+        "expected": [
+          "EU/1/15/1024",
+          "h1024"
+        ],
+        "got": [
+          "EU/1/15/1024",
+          "h1024"
+        ],
+        "match": "epar-url",
+        "name": "Keytruda",
+        "result": "ok"
+      },
+      {
+        "ema_product_number": "EMEA/H/C/004174",
+        "expected": [
+          "EU/1/17/1251",
+          "h1251"
+        ],
+        "got": [
+          "EU/1/17/1251",
+          "h1251"
+        ],
+        "match": "epar-url",
+        "name": "Ozempic",
+        "result": "ok"
+      }
+    ]
+  },
+  "generated": "2026-11-03T04:14:00Z",
+  "inputs": {
+    "ema_medicines_json": {
+      "fetched": "2026-11-01T11:35:31Z",
+      "sha256": "64896e05f14b4d3687230e5f4a0cbc1a836491d9d1a4b6584b7a77a67e603c4f",
+      "size": 6795651,
+      "url": "https://www.ema.europa.eu/en/documents/report/medicines-output-medicines_json-report_en.json"
+    },
+    "union_register_ods": {
+      "fetched": "2026-11-01T11:37:06Z",
+      "licence": "CC BY 4.0",
+      "sha256": "05114a25dbcb135b3d3837b6a26469e320ba037e1441a4ac907fa4a46ed918ef",
+      "size": 16761245,
+      "url": "https://ec.europa.eu/health/documents/community-register/ods/ods_products.json"
+    }
+  },
+  "logged_reasons": {
+    "corrigendum without an English annex file": 87,
+    "no English annex file": 3
+  },
+  "problems": [
+    "EMEA-H-C-000073 procedure 4200 (2001-05-03, Centralised - Variation): no English annex file (annex languages: da,de,el,es,fi,fr,it,nl,pt,sv)",
+    "EMEA-H-C-000073 procedure 9032 (2005-01-05, Centralised - Variation): identical file to the annex of procedure 9031",
+    "EMEA-H-C-000073 procedure 139758 (2017-11-16, Corrigendum): corrigendum without an English annex file (annex languages: hr)",
+    "EMEA-H-C-000073 procedure 147476 (2020-01-09, Corrigendum): identical file to the annex of procedure 146992",
+    "EMEA-H-C-000073 procedure 151993 (2021-04-16, Corrigendum): corrigendum without an English annex file (annex languages: cs)",
+    "EMEA-H-C-000082 procedure 160738 (2022-02-16, Corrigendum): corrigendum without an English annex file (annex languages: bg,el,es,fi,fr,lt,lv,mt,ro)",
+    "EMEA-H-C-000082 procedure 165742 (2024-12-13, Corrigendum): corrigendum without an English annex file (annex languages: it)",
+    "EMEA-H-C-000088 procedure 11330 (2006-02-09, Corrigendum): identical file to the annex of procedure 10988",
+    "EMEA-H-C-000089 procedure 9076 (2005-01-05, Centralised - Variation): identical file to the annex of procedure 9075",
+    "EMEA-H-C-000102 procedure 10251 (2005-08-31, Centralised - Variation): identical file to the annex of procedure 10250",
+    "EMEA-H-C-000115 procedure 9138 (2005-02-09, Centralised - Variation): identical file to the annex of procedure 9137",
+    "EMEA-H-C-000127 procedure 3046 (1998-03-20, Centralised - Annual reassessment): no English annex file (annex languages: da,de,el,es,fi,fr,it,nl,pt,sv)",
+    "EMEA-H-C-000127 procedure 149224 (2015-08-14, Corrigendum): corrigendum without an English annex file (annex languages: hr,ro)",
+    "EMEA-H-C-000141 procedure 11351 (2006-01-09, Corrigendum): identical file to the annex of procedure 10851",
+    "EMEA-H-C-000141 procedure 15548 (2006-05-31, Corrigendum): identical file to the annex of procedure 11577",
+    "EMEA-H-C-000141 procedure 153092 (2021-02-19, Corrigendum): corrigendum without an English annex file (annex languages: ro)",
+    "EMEA-H-C-000165 procedure 148509 (2020-03-03, Corrigendum): corrigendum without an English annex file (annex languages: nl)",
+    "EMEA-H-C-000169 procedure 134128 (2015-11-19, Corrigendum): corrigendum without an English annex file (annex languages: fr)",
+    "EMEA-H-C-000175 procedure 146104 (2019-10-04, Centralised - Yearly update): identical file to the annex of procedure 142758",
+    "EMEA-H-C-000201 procedure 125805 (2012-07-03, Corrigendum): corrigendum without an English annex file (annex languages: da)",
+    "EMEA-H-C-000201 procedure 129666 (2013-09-19, Corrigendum): corrigendum without an English annex file (annex languages: de)",
+    "EMEA-H-C-000201 procedure 143233 (2018-06-14, Corrigendum): corrigendum without an English annex file (annex languages: hu)",
+    "EMEA-H-C-000209 procedure 132437 (2014-09-04, Corrigendum): corrigendum without an English annex file (annex languages: bg,pt)",
+    "EMEA-H-C-000209 procedure 138772 (2014-09-04, Corrigendum): corrigendum without an English annex file (annex languages: da)",
+    "EMEA-H-C-000219 procedure 145422 (2019-07-11, Centralised - Transfer Marketing Authorisation Holder): identical file to the annex of procedure 145105",
+    "EMEA-H-C-000236 procedure 159988 (2023-01-23, Corrigendum): corrigendum without an English annex file (annex languages: de,fr)",
+    "EMEA-H-C-000240 procedure 8035 (2004-06-08, Centralised - Variation): identical file to the annex of procedure 8033",
+    "EMEA-H-C-000240 procedure 9890 (2005-06-28, Centralised - Variation): identical file to the annex of procedure 9889",
+    "EMEA-H-C-000240 procedure 10197 (2005-09-29, Centralised - Variation): identical file to the annex of procedure 10196",
+    "EMEA-H-C-000252 procedure 8730 (2004-10-28, Centralised - Variation): identical file to the annex of procedure 8729",
+    "EMEA-H-C-000258 procedure 52269 (2008-04-23, Corrigendum): identical file to the annex of procedure 45251",
+    "EMEA-H-C-000277 procedure 5503 (2002-07-18, Centralised - Variation): identical file to the annex of procedure 4274",
+    "EMEA-H-C-000277 procedure 10193 (2005-09-13, Centralised - Variation): identical file to the annex of procedure 10192",
+    "EMEA-H-C-000277 procedure 77529 (2009-09-02, Corrigendum): identical file to the annex of procedure 65128",
+    "EMEA-H-C-000277 procedure 125019 (2012-10-25, Corrigendum): identical file to the annex of procedure 124554",
+    "EMEA-H-C-000284 procedure 8337 (2004-08-31, Centralised - Variation): identical file to the annex of procedure 8335",
+    "EMEA-H-C-000316 procedure 138549 (2016-01-14, Corrigendum): corrigendum without an English annex file (annex languages: fr)",
+    "EMEA-H-C-000387 procedure 124166 (2012-08-23, Centralised - Variation): identical file to the annex of procedure 124163",
+    "EMEA-H-C-000390 procedure 138073 (2017-04-20, Corrigendum): corrigendum without an English annex file (annex languages: nl)",
+    "EMEA-H-C-000391 procedure 125579 (2013-02-25, Centralised - Transfer Marketing Authorisation Holder): identical file to the annex of procedure 124926",
+    "EMEA-H-C-000391 procedure 125754 (2013-02-25, Corrigendum): identical file to the annex of procedure 124926",
+    "EMEA-H-C-000402 procedure 129673 (2013-12-04, Corrigendum): corrigendum without an English annex file (annex languages: de)",
+    "EMEA-H-C-000402 procedure 132730 (2015-05-05, Corrigendum): corrigendum without an English annex file (annex languages: hr)",
+    "EMEA-H-C-000402 procedure 170170 (2021-02-19, Corrigendum): corrigendum without an English annex file (annex languages: es)",
+    "EMEA-H-C-000406 procedure 11538 (2006-03-20, Corrigendum): identical file to the annex of procedure 11134",
+    "EMEA-H-C-000419 procedure 6659 (2003-07-10, Centralised - Variation): identical file to the annex of procedure 6661",
+    "EMEA-H-C-000420 procedure 128395 (2013-11-15, Corrigendum): identical file to the annex of procedure 126945",
+    "EMEA-H-C-000420 procedure 146291 (2018-10-31, Corrigendum): corrigendum without an English annex file (annex languages: bg)",
+    "EMEA-H-C-000436 procedure 41710 (2007-10-18, Corrigendum): identical file to the annex of procedure 32648",
+    "EMEA-H-C-000436 procedure 125167 (2012-10-24, Corrigendum): identical file to the annex of procedure 124695",
+    "EMEA-H-C-000463 procedure 43988 (2008-05-08, Centralised - Variation): identical file to the annex of procedure 43948",
+    "EMEA-H-C-000471 procedure 13869 (2006-10-04, Centralised - Variation): identical file to the annex of procedure 13868",
+    "EMEA-H-C-000471 procedure 131185 (2009-04-21, Corrigendum): corrigendum without an English annex file (annex languages: de,it)",
+    "EMEA-H-C-000471 procedure 77808 (2009-11-05, Corrigendum): identical file to the annex of procedure 69015",
+    "EMEA-H-C-000481 procedure 28826 (2003-09-08, Corrigendum): identical file to the annex of procedure 6865",
+    "EMEA-H-C-000527 procedure 11472 (2006-05-29, Centralised - Variation): identical file to the annex of procedure 11471",
+    "EMEA-H-C-000527 procedure 149967 (2020-08-19, Corrigendum): corrigendum without an English annex file (annex languages: cs,da,hr,lv,nl,pt,sk)",
+    "EMEA-H-C-000532 procedure 115390 (2011-12-19, Centralised - Variation): identical file to the annex of procedure 105269",
+    "EMEA-H-C-000533 procedure 140086 (2016-06-24, Corrigendum): corrigendum without an English annex file (annex languages: hr)",
+    "EMEA-H-C-000539 procedure 141151 (2018-02-08, Corrigendum): corrigendum without an English annex file (annex languages: sv)",
+    "EMEA-H-C-000540 procedure 141224 (2018-03-21, Corrigendum): corrigendum without an English annex file (annex languages: de)",
+    "EMEA-H-C-000549 procedure 10396 (2005-08-26, Corrigendum): identical file to the annex of procedure 10124",
+    "EMEA-H-C-000563 procedure 147163 (2009-01-29, Corrigendum): corrigendum without an English annex file (annex languages: hu)",
+    "EMEA-H-C-000572 procedure 9861 (2005-07-04, Centralised - Variation): identical file to the annex of procedure 9857",
+    "EMEA-H-C-000572 procedure 151066 (2020-01-09, Corrigendum): corrigendum without an English annex file (annex languages: fi)",
+    "EMEA-H-C-000572 procedure 154851 (2021-06-21, Corrigendum): corrigendum without an English annex file (annex languages: fi)",
+    "EMEA-H-C-000582 procedure 141422 (2018-03-16, Corrigendum): corrigendum without an English annex file (annex languages: bg,cs,da,el,es,et,fi,fr,hr,hu,it,lt,lv,mt,nl,pl,pt,ro,sk,sl,sv)",
+    "EMEA-H-C-000597 procedure 10763 (2005-10-25, Corrigendum): corrigendum without an English annex file (annex languages: fr)",
+    "EMEA-H-C-000597 procedure 123668 (2012-02-09, Corrigendum): identical file to the annex of procedure 117809",
+    "EMEA-H-C-000597 procedure 129735 (2014-08-22, Corrigendum): identical file to the annex of procedure 129348",
+    "EMEA-H-C-000603 procedure 151688 (2021-03-26, Corrigendum): corrigendum without an English annex file (annex languages: hu,it)",
+    "EMEA-H-C-000606 procedure 149103 (2020-07-31, Corrigendum): corrigendum without an English annex file (annex languages: de)",
+    "EMEA-H-C-000610 procedure 126274 (2012-08-23, Corrigendum): corrigendum without an English annex file (annex languages: mt,nl,pl)",
+    "EMEA-H-C-000637 procedure 11127 (2006-01-19, Corrigendum): identical file to the annex of procedure 10787",
+    "EMEA-H-C-000637 procedure 11513 (2006-01-19, Corrigendum): identical file to the annex of procedure 10787",
+    "EMEA-H-C-000637 procedure 135144 (2016-06-09, Rectificative Decision): identical file to the annex of procedure 134785",
+    "EMEA-H-C-000670 procedure 147063 (2012-12-20, Corrigendum): corrigendum without an English annex file (annex languages: sl)",
+    "EMEA-H-C-000670 procedure 161578 (2022-08-25, Corrigendum): corrigendum without an English annex file (annex languages: cs)",
+    "EMEA-H-C-000689 procedure 25308 (2007-06-29, Centralised - Authorisation - Decision addressed to Member States): no English annex file (annex languages: bg,cs,da,de,el,es,et,fi,fr,hu,it,lt,lv,mt,nl,pl,pt,ro,sk,sl,sv)",
+    "EMEA-H-C-000699 procedure 130857 (2009-12-03, Corrigendum): corrigendum without an English annex file (annex languages: nl)",
+    "EMEA-H-C-000707 procedure 59495 (2009-06-23, Centralised - Variation): identical file to the annex of procedure 59494",
+    "EMEA-H-C-000707 procedure 126694 (2013-09-19, Centralised - Renewal): identical file to the annex of procedure 126676",
+    "EMEA-H-C-000709 procedure 120849 (2011-10-03, Corrigendum): identical file to the annex of procedure 108069",
+    "EMEA-H-C-000709 procedure 136741 (2016-07-15, Corrigendum): corrigendum without an English annex file (annex languages: fr)",
+    "EMEA-H-C-000717 procedure 64410 (2009-08-07, Centralised - Variation): identical file to the annex of procedure 59030",
+    "EMEA-H-C-000743 procedure 141719 (2018-04-30, Corrigendum): corrigendum without an English annex file (annex languages: sv)",
+    "EMEA-H-C-000746 procedure 51808 (2009-01-12, Centralised - Variation): identical file to the annex of procedure 51789",
+    "EMEA-H-C-000746 procedure 101108 (2011-04-08, Centralised - Variation): identical file to the annex of procedure 90270",
+    "EMEA-H-C-000778 procedure 155991 (2021-03-05, Corrigendum): corrigendum without an English annex file (annex languages: de,ro,sl)",
+    "EMEA-H-C-000791 procedure 124430 (2012-06-18, Corrigendum): identical file to the annex of procedure 123013",
+    "EMEA-H-C-000791 procedure 132566 (2015-07-20, Centralised - 2-Monthly update): identical file to the annex of procedure 131432",
+    "EMEA-H-C-000798 procedure 90028 (2010-12-20, Centralised - Variation): identical file to the annex of procedure 89970",
+    "EMEA-H-C-000811 procedure 36208 (2007-09-18, Corrigendum): identical file to the annex of procedure 29928",
+    "EMEA-H-C-000811 procedure 77189 (2010-03-26, Centralised - Variation): identical file to the annex of procedure 77188",
+    "EMEA-H-C-000829 procedure 45828 (2008-03-18, Corrigendum): identical file to the annex of procedure 40552",
+    "EMEA-H-C-000860 procedure 136547 (2016-11-14, Corrigendum): corrigendum without an English annex file (annex languages: sl)",
+    "EMEA-H-C-000863 procedure 124996 (2012-11-22, Centralised - Variation): identical file to the annex of procedure 133000",
+    "EMEA-H-C-000863 procedure 139471 (2017-09-14, Corrigendum): corrigendum without an English annex file (annex languages: bg,da,de,el,es,fi,hu,mt,pl,pt,sk,sv)",
+    "EMEA-H-C-000863 procedure 147240 (2017-09-14, Corrigendum): corrigendum without an English annex file (annex languages: el)",
+    "EMEA-H-C-000944 procedure 153131 (2021-08-26, Corrigendum): corrigendum without an English annex file (annex languages: hu,nl,sl)",
+    "EMEA-H-C-000955 procedure 110230 (2011-09-22, Centralised - Variation): identical file to the annex of procedure 106350",
+    "EMEA-H-C-000958 procedure 80510 (2009-12-22, Corrigendum): identical file to the annex of procedure 72233",
+    "EMEA-H-C-000958 procedure 166252 (2025-03-31, Corrigendum): corrigendum without an English annex file (annex languages: lt)",
+    "EMEA-H-C-001012 procedure 131043 (2011-01-06, Corrigendum): corrigendum without an English annex file (annex languages: cs,et,it,ro)",
+    "EMEA-H-C-001026 procedure 142354 (2018-08-27, Centralised - Yearly update): identical file to the annex of procedure 138543",
+    "EMEA-H-C-001110 procedure 135128 (2016-04-04, Corrigendum): corrigendum without an English annex file (annex languages: pt)",
+    "EMEA-H-C-001110 procedure 138342 (2017-09-28, Referral - Decision addressed to Member States): identical file to the annex of procedure 138296",
+    "EMEA-H-C-001140 procedure 103669 (2011-06-16, Centralised - Variation - Decision addressed to Member States): identical file to the annex of procedure 81549",
+    "EMEA-H-C-001140 procedure 112489 (2011-11-03, Centralised - Variation): identical file to the annex of procedure 103668",
+    "EMEA-H-C-001140 procedure 125689 (2013-03-06, Centralised - Transfer Marketing Authorisation Holder): identical file to the annex of procedure 124271",
+    "EMEA-H-C-001140 procedure 134450 (2015-03-23, Corrigendum): corrigendum without an English annex file (annex languages: pt,sk)",
+    "EMEA-H-C-001176 procedure 133502 (2015-07-17, Corrigendum): corrigendum without an English annex file (annex languages: de)",
+    "EMEA-H-C-001179 procedure 92148 (2010-07-05, Corrigendum): identical file to the annex of procedure 80352",
+    "EMEA-H-C-001179 procedure 92149 (2010-07-05, Corrigendum): identical file to the annex of procedure 80353",
+    "EMEA-H-C-001179 procedure 139028 (2010-07-05, Corrigendum): corrigendum without an English annex file (annex languages: de,fr,nl)",
+    "EMEA-H-C-001198 procedure 135991 (2016-01-11, Corrigendum): corrigendum without an English annex file (annex languages: it)",
+    "EMEA-H-C-001241 procedure 135000 (2016-02-18, Corrigendum): corrigendum without an English annex file (annex languages: nl,sl)",
+    "EMEA-H-C-002110 procedure 116811 (2011-08-24, Corrigendum): identical file to the annex of procedure 107049",
+    "EMEA-H-C-002148 procedure 166182 (2025-03-28, Corrigendum): corrigendum without an English annex file (annex languages: es,nl)",
+    "EMEA-H-C-002155 procedure 108108 (2011-07-20, Corrigendum): identical file to the annex of procedure 106008",
+    "EMEA-H-C-002155 procedure 131013 (2015-02-11, Rectificative Decision): identical file to the annex of procedure 130679",
+    "EMEA-H-C-002221 procedure 168512 (2022-06-29, Corrigendum): corrigendum without an English annex file (annex languages: fi)",
+    "EMEA-H-C-002267 procedure 166348 (2024-10-21, Corrigendum): corrigendum without an English annex file (annex languages: fr,nl,pt)",
+    "EMEA-H-C-002267 procedure 167563 (2024-10-21, Corrigendum): corrigendum without an English annex file (annex languages: sk)",
+    "EMEA-H-C-002268 procedure 138128 (2011-09-16, Corrigendum): corrigendum without an English annex file (annex languages: es)",
+    "EMEA-H-C-002392 procedure 135982 (2016-08-16, Corrigendum): corrigendum without an English annex file (annex languages: da,lt)",
+    "EMEA-H-C-002392 procedure 162373 (2024-01-05, Corrigendum): corrigendum without an English annex file (annex languages: fi)",
+    "EMEA-H-C-002430 procedure 140084 (2017-07-19, Corrigendum): corrigendum without an English annex file (annex languages: el)",
+    "EMEA-H-C-002514 procedure 126980 (2013-08-26, Corrigendum): corrigendum without an English annex file (annex languages: nl)",
+    "EMEA-H-C-002601 procedure 154084 (2020-11-24, Corrigendum): corrigendum without an English annex file (annex languages: pl)",
+    "EMEA-H-C-002601 procedure 159131 (2023-05-02, Centralised - 2-Monthly update): identical file to the annex of procedure 154921",
+    "EMEA-H-C-002618 procedure 151170 (2021-03-10, Centralised - Transfer Marketing Authorisation Holder): identical file to the annex of procedure 149851",
+    "EMEA-H-C-002621 procedure 139771 (2014-04-23, Corrigendum): corrigendum without an English annex file (annex languages: el)",
+    "EMEA-H-C-002649 procedure 154156 (2021-11-15, Corrigendum): corrigendum without an English annex file (annex languages: ro)",
+    "EMEA-H-C-002677 procedure 161364 (2023-07-24, Corrigendum): corrigendum without an English annex file (annex languages: fi)",
+    "EMEA-H-C-002697 procedure 146096 (2013-12-20, Corrigendum): corrigendum without an English annex file (annex languages: lv)",
+    "EMEA-H-C-002697 procedure 167041 (2024-09-19, Corrigendum): corrigendum without an English annex file (annex languages: ro)",
+    "EMEA-H-C-002713 procedure 134081 (2016-01-11, Corrigendum): identical file to the annex of procedure 133661",
+    "EMEA-H-C-003848 procedure 155284 (2019-12-16, Corrigendum): corrigendum without an English annex file (annex languages: hu)",
+    "EMEA-H-C-003848 procedure 168025 (2025-08-22, Corrigendum): corrigendum without an English annex file (annex languages: fr,sl)",
+    "EMEA-H-C-003906 procedure 147134 (2020-01-23, Centralised - Transfer Marketing Authorisation Holder): identical file to the annex of procedure 146484",
+    "EMEA-H-C-003983 procedure 154186 (2021-06-21, Corrigendum): corrigendum without an English annex file (annex languages: nl)",
+    "EMEA-H-C-003983 procedure 171009 (2026-08-20, Corrigendum): corrigendum without an English annex file (annex languages: lv)",
+    "EMEA-H-C-003985 procedure 151750 (2021-04-13, Corrigendum): identical file to the annex of procedure 151268",
+    "EMEA-H-C-004043 procedure 157372 (2022-09-21, Corrigendum): corrigendum without an English annex file (annex languages: da,hu)",
+    "EMEA-H-C-004125 procedure 143188 (2019-01-14, PSUSA - Modification): identical file to the annex of procedure 143187",
+    "EMEA-H-C-004125 procedure 168071 (2024-04-25, Corrigendum): corrigendum without an English annex file (annex languages: es)",
+    "EMEA-H-C-004143 procedure 161991 (2024-01-11, Corrigendum): corrigendum without an English annex file (annex languages: bg,nl)",
+    "EMEA-H-C-004174 procedure 155288 (2022-01-11, Corrigendum): corrigendum without an English annex file (annex languages: sk)",
+    "EMEA-H-C-004174 procedure 162413 (2024-03-21, Corrigendum): corrigendum without an English annex file (annex languages: ro)",
+    "EMEA-H-C-004586 procedure 161827 (2022-11-07, Corrigendum): corrigendum without an English annex file (annex languages: sv)",
+    "EMEA-H-C-004651 procedure 153599 (2021-05-19, Corrigendum): corrigendum without an English annex file (annex languages: pl)",
+    "EMEA-H-C-004655 procedure 171098 (2026-04-08, Corrigendum): corrigendum without an English annex file (annex languages: da)",
+    "EMEA-H-C-004747 procedure 160296 (2023-07-07, Corrigendum): corrigendum without an English annex file (annex languages: es)",
+    "EMEA-H-C-004759 procedure 146298 (2019-04-26, Corrigendum): corrigendum without an English annex file (annex languages: fi)",
+    "EMEA-H-C-004786 procedure 156824 (2021-03-26, Corrigendum): corrigendum without an English annex file (annex languages: es)",
+    "EMEA-H-C-004786 procedure 163116 (2024-03-14, Corrigendum): corrigendum without an English annex file (annex languages: es)",
+    "EMEA-H-C-004804 procedure 150616 (2020-07-27, Corrigendum): corrigendum without an English annex file (annex languages: el)",
+    "EMEA-H-C-004975 procedure 170083 (2025-12-12, Corrigendum): corrigendum without an English annex file (annex languages: es)",
+    "EMEA-H-C-005849 procedure 168650 (2025-06-19, Corrigendum): corrigendum without an English annex file (annex languages: hu)",
+    "EMEA-H-C-006139 procedure 168451 (2025-02-03, Corrigendum): corrigendum without an English annex file (annex languages: da)",
+    "EMEA-H-C-006139 procedure 168510 (2025-02-03, Corrigendum): corrigendum without an English annex file (annex languages: el,nl)"
+  ],
+  "products": [
+    {
+      "annexes": {
+        "duplicate": 2,
+        "en": 53,
+        "fetched": 51,
+        "listed": 56,
+        "logged": 3,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000073",
+      "eu_number": "EU/1/95/002",
+      "history_type": "in-force",
+      "inn": "docetaxel",
+      "name": "Taxotere",
+      "record_from": "1996-10-07",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 44,
+        "fetched": 44,
+        "listed": 46,
+        "logged": 2,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000082",
+      "eu_number": "EU/1/96/005",
+      "history_type": "in-force",
+      "inn": "mycophenolate-mofetil",
+      "name": "CellCept",
+      "record_from": "1996-02-14",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 1,
+        "en": 48,
+        "fetched": 47,
+        "listed": 48,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000088",
+      "eu_number": "EU/1/96/007",
+      "history_type": "in-force",
+      "inn": "insulin-lispro",
+      "name": "Humalog",
+      "record_from": "1996-04-30",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 1,
+        "en": 33,
+        "fetched": 32,
+        "listed": 33,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000089",
+      "eu_number": "EU/1/96/011",
+      "history_type": "in-force",
+      "inn": "doxorubicin",
+      "name": "Caelyx pegylated liposomal",
+      "record_from": "1996-06-21",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 1,
+        "en": 52,
+        "fetched": 51,
+        "listed": 52,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000102",
+      "eu_number": "EU/1/97/033",
+      "history_type": "in-force",
+      "inn": "interferon-beta-1a",
+      "name": "Avonex",
+      "record_from": "1997-03-13",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 47,
+        "fetched": 47,
+        "listed": 47,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000107",
+      "eu_number": "EU/1/96/015",
+      "history_type": "in-force",
+      "inn": "lamivudine",
+      "name": "Epivir",
+      "record_from": "1996-08-08",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 1,
+        "en": 55,
+        "fetched": 54,
+        "listed": 55,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000115",
+      "eu_number": "EU/1/96/022",
+      "history_type": "in-force",
+      "inn": "olanzapine",
+      "name": "Zyprexa",
+      "record_from": "1996-09-27",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 37,
+        "fetched": 37,
+        "listed": 37,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000123",
+      "eu_number": "EU/1/96/027",
+      "history_type": "in-force",
+      "inn": "topotecan",
+      "name": "Hycamtin",
+      "record_from": "1996-11-12",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 62,
+        "fetched": 62,
+        "listed": 64,
+        "logged": 2,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000127",
+      "eu_number": "EU/1/96/016",
+      "history_type": "in-force",
+      "inn": "ritonavir",
+      "name": "Norvir",
+      "record_from": "1996-08-26",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 40,
+        "fetched": 40,
+        "listed": 40,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000133",
+      "eu_number": "EU/1/97/050",
+      "history_type": "in-force",
+      "inn": "pramipexole",
+      "name": "Sifrol",
+      "record_from": "1997-10-14",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 2,
+        "en": 47,
+        "fetched": 45,
+        "listed": 48,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000141",
+      "eu_number": "EU/1/97/046",
+      "history_type": "in-force",
+      "inn": "irbesartan",
+      "name": "Aprovel",
+      "record_from": "1997-08-27",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 54,
+        "fetched": 54,
+        "listed": 55,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000165",
+      "eu_number": "EU/1/98/067",
+      "history_type": "in-force",
+      "inn": "rituximab",
+      "name": "MabThera",
+      "record_from": "1998-06-02",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 37,
+        "fetched": 37,
+        "listed": 38,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000169",
+      "eu_number": "EU/1/98/066",
+      "history_type": "in-force",
+      "inn": "rivastigmine",
+      "name": "Exelon",
+      "record_from": "1998-05-12",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 1,
+        "en": 53,
+        "fetched": 52,
+        "listed": 53,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000175",
+      "eu_number": "EU/1/98/070",
+      "history_type": "in-force",
+      "inn": "clopidogrel",
+      "name": "Iscover",
+      "record_from": "1998-07-15",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 31,
+        "fetched": 31,
+        "listed": 34,
+        "logged": 3,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000201",
+      "eu_number": "EU/1/97/030",
+      "history_type": "in-force",
+      "inn": "insulin-human",
+      "name": "Insuman",
+      "record_from": "1998-11-11",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 34,
+        "fetched": 34,
+        "listed": 34,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000202",
+      "eu_number": "EU/1/98/077",
+      "history_type": "in-force",
+      "inn": "sildenafil",
+      "name": "Viagra",
+      "record_from": "1998-09-14",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 36,
+        "fetched": 36,
+        "listed": 38,
+        "logged": 2,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000209",
+      "eu_number": "EU/1/98/090",
+      "history_type": "in-force",
+      "inn": "telmisartan",
+      "name": "Micardis",
+      "record_from": "1998-12-16",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 1,
+        "en": 25,
+        "fetched": 24,
+        "listed": 25,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000219",
+      "eu_number": "EU/1/99/120",
+      "history_type": "in-force",
+      "inn": "sodium-phenylbutyrate",
+      "name": "Ammonaps",
+      "record_from": "1999-12-08",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 31,
+        "fetched": 31,
+        "listed": 31,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000229",
+      "eu_number": "EU/1/98/096",
+      "history_type": "in-force",
+      "inn": "temozolomide",
+      "name": "Temodal",
+      "record_from": "1999-01-26",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 32,
+        "fetched": 32,
+        "listed": 33,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000236",
+      "eu_number": "EU/1/99/108",
+      "history_type": "in-force",
+      "inn": "deferiprone",
+      "name": "Ferriprox",
+      "record_from": "1999-08-25",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 3,
+        "en": 77,
+        "fetched": 74,
+        "listed": 77,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000240",
+      "eu_number": "EU/1/99/116",
+      "history_type": "in-force",
+      "inn": "infliximab",
+      "name": "Remicade",
+      "record_from": "1999-08-13",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 1,
+        "en": 46,
+        "fetched": 45,
+        "listed": 46,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000252",
+      "eu_number": "EU/1/99/112",
+      "history_type": "in-force",
+      "inn": "abacavir",
+      "name": "Ziagen",
+      "record_from": "1999-07-08",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 30,
+        "fetched": 30,
+        "listed": 30,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000254",
+      "eu_number": "EU/1/99/123",
+      "history_type": "in-force",
+      "inn": "sevelamer",
+      "name": "Renagel",
+      "record_from": "2000-01-28",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 1,
+        "en": 36,
+        "fetched": 35,
+        "listed": 36,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000258",
+      "eu_number": "EU/1/99/119",
+      "history_type": "in-force",
+      "inn": "insulin-aspart",
+      "name": "NovoRapid",
+      "record_from": "1999-09-07",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 19,
+        "fetched": 19,
+        "listed": 19,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000267",
+      "eu_number": "EU/1/00/129",
+      "history_type": "in-force",
+      "inn": "brinzolamide",
+      "name": "Azopt",
+      "record_from": "2000-03-09",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 50,
+        "fetched": 50,
+        "listed": 50,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000273",
+      "eu_number": "EU/1/01/171",
+      "history_type": "in-force",
+      "inn": "sirolimus",
+      "name": "Rapamune",
+      "record_from": "2001-03-13",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 4,
+        "en": 48,
+        "fetched": 44,
+        "listed": 48,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000277",
+      "eu_number": "EU/1/00/146",
+      "history_type": "in-force",
+      "inn": "levetiracetam",
+      "name": "Keppra",
+      "record_from": "2000-09-29",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 37,
+        "fetched": 37,
+        "listed": 37,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000278",
+      "eu_number": "EU/1/00/145",
+      "history_type": "in-force",
+      "inn": "trastuzumab",
+      "name": "Herceptin",
+      "record_from": "2000-08-28",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 1,
+        "en": 38,
+        "fetched": 37,
+        "listed": 38,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000284",
+      "eu_number": "EU/1/00/134",
+      "history_type": "in-force",
+      "inn": "insulin-glargine",
+      "name": "Lantus",
+      "record_from": "2000-06-09",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 29,
+        "fetched": 29,
+        "listed": 29,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000285",
+      "eu_number": "EU/1/00/150",
+      "history_type": "in-force",
+      "inn": "pioglitazone",
+      "name": "Actos",
+      "record_from": "2000-10-13",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 34,
+        "fetched": 34,
+        "listed": 34,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000310",
+      "eu_number": "EU/1/00/157",
+      "history_type": "in-force",
+      "inn": "desloratadine",
+      "name": "Azomyr",
+      "record_from": "2001-01-15",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 16,
+        "fetched": 16,
+        "listed": 16,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000315",
+      "eu_number": "EU/1/00/164",
+      "history_type": "in-force",
+      "inn": "somatropin",
+      "name": "NutropinAq",
+      "record_from": "2001-02-16",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 26,
+        "fetched": 26,
+        "listed": 27,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000316",
+      "eu_number": "EU/1/00/163",
+      "history_type": "in-force",
+      "inn": "capecitabine",
+      "name": "Xeloda",
+      "record_from": "2001-02-02",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 18,
+        "fetched": 18,
+        "listed": 18,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000326",
+      "eu_number": "EU/1/01/178",
+      "history_type": "in-force",
+      "inn": "bexarotene",
+      "name": "Targretin",
+      "record_from": "2001-03-29",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 28,
+        "fetched": 28,
+        "listed": 28,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000336",
+      "eu_number": "EU/1/01/176",
+      "history_type": "in-force",
+      "inn": "zoledronic-acid",
+      "name": "Zometa",
+      "record_from": "2001-03-20",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 26,
+        "fetched": 26,
+        "listed": 26,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000374",
+      "eu_number": "EU/1/02/201",
+      "history_type": "in-force",
+      "inn": "tacrolimus",
+      "name": "Protopic",
+      "record_from": "2002-02-28",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 1,
+        "en": 50,
+        "fetched": 49,
+        "listed": 50,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000387",
+      "eu_number": "EU/1/02/212",
+      "history_type": "in-force",
+      "inn": "voriconazole",
+      "name": "Vfend",
+      "record_from": "2002-03-19",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 25,
+        "fetched": 25,
+        "listed": 25,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000388",
+      "eu_number": "EU/1/02/204",
+      "history_type": "in-force",
+      "inn": "arsenic-trioxide",
+      "name": "Trisenox",
+      "record_from": "2002-03-05",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 27,
+        "fetched": 27,
+        "listed": 27,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000389",
+      "eu_number": "EU/1/02/216",
+      "history_type": "in-force",
+      "inn": "ertapenem",
+      "name": "Invanz",
+      "record_from": "2002-04-18",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 21,
+        "fetched": 21,
+        "listed": 22,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000390",
+      "eu_number": "EU/1/01/199",
+      "history_type": "in-force",
+      "inn": "travoprost",
+      "name": "Travatan",
+      "record_from": "2001-11-27",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 2,
+        "en": 21,
+        "fetched": 19,
+        "listed": 21,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000391",
+      "eu_number": "EU/1/02/205",
+      "history_type": "in-force",
+      "inn": "bimatoprost",
+      "name": "Lumigan",
+      "record_from": "2002-03-08",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 45,
+        "fetched": 45,
+        "listed": 48,
+        "logged": 3,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000402",
+      "eu_number": "EU/1/02/222",
+      "history_type": "in-force",
+      "inn": "oseltamivir",
+      "name": "Tamiflu",
+      "record_from": "2002-06-20",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 1,
+        "en": 44,
+        "fetched": 43,
+        "listed": 44,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000406",
+      "eu_number": "EU/1/01/198",
+      "history_type": "in-force",
+      "inn": "imatinib",
+      "name": "Glivec",
+      "record_from": "2001-11-07",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 1,
+        "en": 55,
+        "fetched": 54,
+        "listed": 55,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000419",
+      "eu_number": "EU/1/01/200",
+      "history_type": "in-force",
+      "inn": "tenofovir-disoproxil",
+      "name": "Viread",
+      "record_from": "2002-02-05",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 1,
+        "en": 29,
+        "fetched": 28,
+        "listed": 30,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000420",
+      "eu_number": "EU/1/02/227",
+      "history_type": "in-force",
+      "inn": "pegfilgrastim",
+      "name": "Neulasta",
+      "record_from": "2002-08-22",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 2,
+        "en": 35,
+        "fetched": 33,
+        "listed": 35,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000436",
+      "eu_number": "EU/1/02/237",
+      "history_type": "in-force",
+      "inn": "tadalafil",
+      "name": "Cialis",
+      "record_from": "2002-11-12",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 1,
+        "en": 27,
+        "fetched": 26,
+        "listed": 27,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000463",
+      "eu_number": "EU/1/02/219",
+      "history_type": "in-force",
+      "inn": "memantine",
+      "name": "Ebixa",
+      "record_from": "2002-05-15",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 2,
+        "en": 42,
+        "fetched": 40,
+        "listed": 43,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000471",
+      "eu_number": "EU/1/04/276",
+      "history_type": "in-force",
+      "inn": "aripiprazole",
+      "name": "Abilify",
+      "record_from": "2004-06-04",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 1,
+        "en": 68,
+        "fetched": 67,
+        "listed": 68,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000481",
+      "eu_number": "EU/1/03/256",
+      "history_type": "in-force",
+      "inn": "adalimumab",
+      "name": "Humira",
+      "record_from": "2003-09-08",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 46,
+        "fetched": 46,
+        "listed": 46,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000494",
+      "eu_number": "EU/1/03/267",
+      "history_type": "in-force",
+      "inn": "atazanavir",
+      "name": "Reyataz",
+      "record_from": "2004-03-02",
+      "record_to": "2026-11-03"
+    },
+    {
+      "annexes": {
+        "duplicate": 1,
+        "en": 24,
+        "fetched": 23,
+        "listed": 25,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000527",
+      "eu_number": "EU/1/03/262",
+      "history_type": "in-force",
+      "inn": "aprepitant",
+      "name": "Emend",
+      "record_from": "2003-11-11",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 1,
+        "en": 15,
+        "fetched": 14,
+        "listed": 15,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000532",
+      "eu_number": "EU/1/03/270",
+      "history_type": "in-force",
+      "inn": "oxybutynin",
+      "name": "Kentera (previously Oxybutynin Nicobrand)",
+      "record_from": "2004-06-15",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 27,
+        "fetched": 27,
+        "listed": 28,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000533",
+      "eu_number": "EU/1/03/261",
+      "history_type": "in-force",
+      "inn": "emtricitabine",
+      "name": "Emtriva",
+      "record_from": "2003-10-24",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 41,
+        "fetched": 41,
+        "listed": 42,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000539",
+      "eu_number": "EU/1/04/274",
+      "history_type": "in-force",
+      "inn": "bortezomib",
+      "name": "Velcade",
+      "record_from": "2004-04-26",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 18,
+        "fetched": 18,
+        "listed": 19,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000540",
+      "eu_number": "EU/1/03/269",
+      "history_type": "in-force",
+      "inn": "fulvestrant",
+      "name": "Faslodex",
+      "record_from": "2004-03-10",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 42,
+        "fetched": 42,
+        "listed": 42,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000546",
+      "eu_number": "EU/1/04/279",
+      "history_type": "in-force",
+      "inn": "pregabalin",
+      "name": "Lyrica",
+      "record_from": "2004-07-06",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 1,
+        "en": 13,
+        "fetched": 12,
+        "listed": 13,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000549",
+      "eu_number": "EU/1/04/284",
+      "history_type": "in-force",
+      "inn": "ibuprofen",
+      "name": "Pedea",
+      "record_from": "2004-07-29",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 16,
+        "fetched": 16,
+        "listed": 16,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000555",
+      "eu_number": "EU/1/04/303",
+      "history_type": "in-force",
+      "inn": "nitisinone",
+      "name": "Orfadin",
+      "record_from": "2005-02-21",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 11,
+        "fetched": 11,
+        "listed": 12,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000563",
+      "eu_number": "EU/1/04/306",
+      "history_type": "in-force",
+      "inn": "palonosetron",
+      "name": "Aloxi",
+      "record_from": "2005-03-22",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 23,
+        "fetched": 23,
+        "listed": 23,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000564",
+      "eu_number": "EU/1/04/290",
+      "history_type": "in-force",
+      "inn": "pemetrexed",
+      "name": "Alimta",
+      "record_from": "2004-09-20",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 1,
+        "en": 27,
+        "fetched": 26,
+        "listed": 29,
+        "logged": 2,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000572",
+      "eu_number": "EU/1/04/296",
+      "history_type": "in-force",
+      "inn": "duloxetine",
+      "name": "Cymbalta",
+      "record_from": "2004-12-17",
+      "record_to": "2026-11-03"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 15,
+        "fetched": 15,
+        "listed": 15,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000574",
+      "eu_number": "EU/1/04/304",
+      "history_type": "in-force",
+      "inn": "rasagiline",
+      "name": "Azilect",
+      "record_from": "2005-02-21",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 26,
+        "fetched": 26,
+        "listed": 26,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000577",
+      "eu_number": "EU/1/04/307",
+      "history_type": "in-force",
+      "inn": "zonisamide",
+      "name": "Zonegran",
+      "record_from": "2005-03-10",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 45,
+        "fetched": 45,
+        "listed": 46,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000582",
+      "eu_number": "EU/1/04/300",
+      "history_type": "in-force",
+      "inn": "bevacizumab",
+      "name": "Avastin",
+      "record_from": "2005-01-12",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 21,
+        "fetched": 21,
+        "listed": 21,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000593",
+      "eu_number": "EU/1/05/312",
+      "history_type": "in-force",
+      "inn": "sodium-oxybate",
+      "name": "Xyrem",
+      "record_from": "2005-10-13",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 2,
+        "en": 19,
+        "fetched": 17,
+        "listed": 20,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000597",
+      "eu_number": "EU/1/05/316",
+      "history_type": "in-force",
+      "inn": "ivabradine",
+      "name": "Procoralan",
+      "record_from": "2005-10-25",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 36,
+        "fetched": 36,
+        "listed": 37,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000603",
+      "eu_number": "EU/1/06/346",
+      "history_type": "in-force",
+      "inn": "natalizumab",
+      "name": "Tysabri",
+      "record_from": "2006-06-27",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 23,
+        "fetched": 23,
+        "listed": 24,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000606",
+      "eu_number": "EU/1/05/319",
+      "history_type": "in-force",
+      "inn": "omalizumab",
+      "name": "Xolair",
+      "record_from": "2005-10-25",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 25,
+        "fetched": 25,
+        "listed": 26,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000610",
+      "eu_number": "EU/1/05/320",
+      "history_type": "in-force",
+      "inn": "posaconazole",
+      "name": "Noxafil",
+      "record_from": "2005-10-25",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 24,
+        "fetched": 24,
+        "listed": 24,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000623",
+      "eu_number": "EU/1/06/343",
+      "history_type": "in-force",
+      "inn": "entecavir",
+      "name": "Baraclude",
+      "record_from": "2006-06-26",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 3,
+        "en": 28,
+        "fetched": 25,
+        "listed": 28,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000637",
+      "eu_number": "EU/1/05/328",
+      "history_type": "in-force",
+      "inn": "daptomycin",
+      "name": "Cubicin",
+      "record_from": "2006-01-19",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 16,
+        "fetched": 16,
+        "listed": 16,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000660",
+      "eu_number": "EU/1/06/378",
+      "history_type": "in-force",
+      "inn": "rufinamide",
+      "name": "Inovelon",
+      "record_from": "2007-01-16",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 31,
+        "fetched": 31,
+        "listed": 33,
+        "logged": 2,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000670",
+      "eu_number": "EU/1/06/356",
+      "history_type": "in-force",
+      "inn": "deferasirox",
+      "name": "Exjade",
+      "record_from": "2006-08-28",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 19,
+        "fetched": 19,
+        "listed": 20,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000689",
+      "eu_number": "EU/1/07/397",
+      "history_type": "in-force",
+      "inn": "hydroxyurea",
+      "name": "Siklos",
+      "record_from": "2007-06-29",
+      "record_to": "2026-11-03"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 30,
+        "fetched": 30,
+        "listed": 31,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000699",
+      "eu_number": "EU/1/06/360",
+      "history_type": "in-force",
+      "inn": "varenicline",
+      "name": "Champix",
+      "record_from": "2006-09-26",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 2,
+        "en": 41,
+        "fetched": 39,
+        "listed": 41,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000707",
+      "eu_number": "EU/1/06/380",
+      "history_type": "in-force",
+      "inn": "darunavir",
+      "name": "Prezista",
+      "record_from": "2007-02-12",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 1,
+        "en": 35,
+        "fetched": 34,
+        "listed": 36,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000709",
+      "eu_number": "EU/1/06/363",
+      "history_type": "in-force",
+      "inn": "dasatinib",
+      "name": "Sprycel",
+      "record_from": "2006-11-20",
+      "record_to": "2026-11-03"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 33,
+        "fetched": 33,
+        "listed": 33,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000715",
+      "eu_number": "EU/1/06/374",
+      "history_type": "in-force",
+      "inn": "ranibizumab",
+      "name": "Lucentis",
+      "record_from": "2007-01-22",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 1,
+        "en": 57,
+        "fetched": 56,
+        "listed": 57,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000717",
+      "eu_number": "EU/1/07/391",
+      "history_type": "in-force",
+      "inn": "lenalidomide",
+      "name": "Revlimid",
+      "record_from": "2007-06-14",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 28,
+        "fetched": 28,
+        "listed": 28,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000722",
+      "eu_number": "EU/1/07/383",
+      "history_type": "in-force",
+      "inn": "sitagliptin",
+      "name": "Januvia",
+      "record_from": "2007-03-21",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 20,
+        "fetched": 20,
+        "listed": 21,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000743",
+      "eu_number": "EU/1/07/437",
+      "history_type": "in-force",
+      "inn": "fosaprepitant",
+      "name": "Ivemend",
+      "record_from": "2008-01-11",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 2,
+        "en": 21,
+        "fetched": 19,
+        "listed": 21,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000746",
+      "eu_number": "EU/1/07/395",
+      "history_type": "in-force",
+      "inn": "paliperidone",
+      "name": "Invega",
+      "record_from": "2007-06-25",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 18,
+        "fetched": 18,
+        "listed": 18,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000752",
+      "eu_number": "EU/1/07/403",
+      "history_type": "in-force",
+      "inn": "nelarabine",
+      "name": "Atriance",
+      "record_from": "2007-08-22",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 21,
+        "fetched": 21,
+        "listed": 21,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000777",
+      "eu_number": "EU/1/08/447",
+      "history_type": "in-force",
+      "inn": "febuxostat",
+      "name": "Adenuric",
+      "record_from": "2008-04-21",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 25,
+        "fetched": 25,
+        "listed": 26,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000778",
+      "eu_number": "EU/1/07/428",
+      "history_type": "in-force",
+      "inn": "paclitaxel",
+      "name": "Abraxane",
+      "record_from": "2008-01-11",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 2,
+        "en": 30,
+        "fetched": 28,
+        "listed": 30,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000791",
+      "eu_number": "EU/1/07/393",
+      "history_type": "in-force",
+      "inn": "eculizumab",
+      "name": "Soliris",
+      "record_from": "2007-06-20",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 16,
+        "fetched": 16,
+        "listed": 16,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000796",
+      "eu_number": "EU/1/08/477",
+      "history_type": "in-force",
+      "inn": "histamine",
+      "name": "Ceplene",
+      "record_from": "2008-10-07",
+      "record_to": "2026-11-03"
+    },
+    {
+      "annexes": {
+        "duplicate": 1,
+        "en": 35,
+        "fetched": 34,
+        "listed": 35,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000798",
+      "eu_number": "EU/1/07/422",
+      "history_type": "in-force",
+      "inn": "nilotinib",
+      "name": "Tasigna",
+      "record_from": "2007-11-19",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 21,
+        "fetched": 21,
+        "listed": 21,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000805",
+      "eu_number": "EU/1/08/462",
+      "history_type": "in-force",
+      "inn": "ranolazine",
+      "name": "Ranexa (previously Latixa)",
+      "record_from": "2008-07-09",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 2,
+        "en": 25,
+        "fetched": 23,
+        "listed": 25,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000811",
+      "eu_number": "EU/1/07/418",
+      "history_type": "in-force",
+      "inn": "maraviroc",
+      "name": "Celsentri",
+      "record_from": "2007-09-18",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 1,
+        "en": 41,
+        "fetched": 40,
+        "listed": 41,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000829",
+      "eu_number": "EU/1/08/442",
+      "history_type": "in-force",
+      "inn": "dabigatran-etexilate",
+      "name": "Pradaxa",
+      "record_from": "2008-03-18",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 30,
+        "fetched": 30,
+        "listed": 31,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000860",
+      "eu_number": "EU/1/07/436",
+      "history_type": "in-force",
+      "inn": "raltegravir",
+      "name": "Isentress",
+      "record_from": "2007-12-20",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 1,
+        "en": 28,
+        "fetched": 27,
+        "listed": 30,
+        "logged": 2,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000863",
+      "eu_number": "EU/1/08/470",
+      "history_type": "in-force",
+      "inn": "lacosamide",
+      "name": "Vimpat",
+      "record_from": "2008-08-29",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 21,
+        "fetched": 21,
+        "listed": 21,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000885",
+      "eu_number": "EU/1/08/466",
+      "history_type": "in-force",
+      "inn": "sugammadex",
+      "name": "Bridion",
+      "record_from": "2008-07-25",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 31,
+        "fetched": 31,
+        "listed": 32,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000944",
+      "eu_number": "EU/1/08/472",
+      "history_type": "in-force",
+      "inn": "rivaroxaban",
+      "name": "Xarelto",
+      "record_from": "2008-09-30",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 1,
+        "en": 31,
+        "fetched": 30,
+        "listed": 31,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000955",
+      "eu_number": "EU/1/08/492",
+      "history_type": "in-force",
+      "inn": "tocilizumab",
+      "name": "RoActemra",
+      "record_from": "2009-01-16",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 1,
+        "en": 34,
+        "fetched": 33,
+        "listed": 35,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000958",
+      "eu_number": "EU/1/08/494",
+      "history_type": "in-force",
+      "inn": "ustekinumab",
+      "name": "Stelara",
+      "record_from": "2009-01-16",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 25,
+        "fetched": 25,
+        "listed": 25,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000978",
+      "eu_number": "EU/1/08/488",
+      "history_type": "in-force",
+      "inn": "azacitidine",
+      "name": "Vidaza",
+      "record_from": "2008-12-17",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 28,
+        "fetched": 28,
+        "listed": 28,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000992",
+      "eu_number": "EU/1/09/546",
+      "history_type": "in-force",
+      "inn": "golimumab",
+      "name": "Simponi",
+      "record_from": "2009-10-01",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 13,
+        "fetched": 13,
+        "listed": 13,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-000996",
+      "eu_number": "EU/1/09/543",
+      "history_type": "in-force",
+      "inn": "aztreonam",
+      "name": "Cayston",
+      "record_from": "2009-09-21",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 15,
+        "fetched": 15,
+        "listed": 16,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-001012",
+      "eu_number": "EU/1/09/581",
+      "history_type": "in-force",
+      "inn": "prucalopride",
+      "name": "Resolor",
+      "record_from": "2009-10-15",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 11,
+        "fetched": 11,
+        "listed": 11,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-001013",
+      "eu_number": "EU/1/09/517",
+      "history_type": "in-force",
+      "inn": "pantoprazole",
+      "name": "Pantozol Control",
+      "record_from": "2009-06-12",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 10,
+        "fetched": 10,
+        "listed": 10,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-001014",
+      "eu_number": "EU/1/09/528",
+      "history_type": "in-force",
+      "inn": "caffeine",
+      "name": "Peyona (previously Nymusa)",
+      "record_from": "2009-07-02",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 1,
+        "en": 23,
+        "fetched": 22,
+        "listed": 23,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-001026",
+      "eu_number": "EU/1/09/529",
+      "history_type": "in-force",
+      "inn": "liraglutide",
+      "name": "Victoza",
+      "record_from": "2009-06-30",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 22,
+        "fetched": 22,
+        "listed": 22,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-001038",
+      "eu_number": "EU/1/09/538",
+      "history_type": "in-force",
+      "inn": "everolimus",
+      "name": "Afinitor",
+      "record_from": "2009-08-03",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 1,
+        "en": 24,
+        "fetched": 23,
+        "listed": 25,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-001110",
+      "eu_number": "EU/1/10/612",
+      "history_type": "in-force",
+      "inn": "eltrombopag",
+      "name": "Revolade",
+      "record_from": "2010-03-11",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 25,
+        "fetched": 25,
+        "listed": 25,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-001120",
+      "eu_number": "EU/1/10/618",
+      "history_type": "in-force",
+      "inn": "denosumab",
+      "name": "Prolia",
+      "record_from": "2010-05-26",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 3,
+        "en": 18,
+        "fetched": 15,
+        "listed": 19,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-001140",
+      "eu_number": "EU/1/10/638",
+      "history_type": "in-force",
+      "inn": "dexamethasone",
+      "name": "Ozurdex",
+      "record_from": "2010-07-27",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 17,
+        "fetched": 17,
+        "listed": 18,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-001176",
+      "eu_number": "EU/1/10/643",
+      "history_type": "in-force",
+      "inn": "regadenoson",
+      "name": "Rapiscan",
+      "record_from": "2010-09-06",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 2,
+        "en": 21,
+        "fetched": 19,
+        "listed": 22,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-001179",
+      "eu_number": "EU/1/10/636",
+      "history_type": "in-force",
+      "inn": "roflumilast",
+      "name": "Daxas",
+      "record_from": "2010-07-05",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 11,
+        "fetched": 11,
+        "listed": 12,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-001198",
+      "eu_number": "EU/1/11/692",
+      "history_type": "in-force",
+      "inn": "bromfenac",
+      "name": "Yellox",
+      "record_from": "2011-05-18",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 13,
+        "fetched": 13,
+        "listed": 14,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-001241",
+      "eu_number": "EU/1/10/655",
+      "history_type": "in-force",
+      "inn": "ticagrelor",
+      "name": "Brilique",
+      "record_from": "2010-12-03",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 15,
+        "fetched": 15,
+        "listed": 15,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-001252",
+      "eu_number": "EU/1/12/760",
+      "history_type": "in-force",
+      "inn": "mannitol",
+      "name": "Bronchitol",
+      "record_from": "2012-04-13",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 20,
+        "fetched": 20,
+        "listed": 20,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-002015",
+      "eu_number": "EU/1/11/700",
+      "history_type": "in-force",
+      "inn": "belimumab",
+      "name": "Benlysta",
+      "record_from": "2011-07-13",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 15,
+        "fetched": 15,
+        "listed": 15,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-002022",
+      "eu_number": "EU/1/11/727",
+      "history_type": "in-force",
+      "inn": "mercaptopurine",
+      "name": "Xaluprine (previously Mercaptopurine Nova Laboratories)",
+      "record_from": "2012-03-09",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 7,
+        "fetched": 7,
+        "listed": 7,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-002066",
+      "eu_number": "EU/1/15/990",
+      "history_type": "in-force",
+      "inn": "cyclosporine",
+      "name": "Ikervis",
+      "record_from": "2015-03-19",
+      "record_to": "2026-11-03"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 17,
+        "fetched": 17,
+        "listed": 17,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-002084",
+      "eu_number": "EU/1/11/678",
+      "history_type": "in-force",
+      "inn": "eribulin",
+      "name": "Halaven",
+      "record_from": "2011-03-17",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 1,
+        "en": 15,
+        "fetched": 14,
+        "listed": 15,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-002110",
+      "eu_number": "EU/1/11/707",
+      "history_type": "in-force",
+      "inn": "linagliptin",
+      "name": "Trajenta",
+      "record_from": "2011-08-24",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 20,
+        "fetched": 20,
+        "listed": 21,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-002148",
+      "eu_number": "EU/1/11/691",
+      "history_type": "in-force",
+      "inn": "apixaban",
+      "name": "Eliquis",
+      "record_from": "2011-05-18",
+      "record_to": "2026-11-03"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 20,
+        "fetched": 20,
+        "listed": 20,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-002154",
+      "eu_number": "EU/1/11/667",
+      "history_type": "in-force",
+      "inn": "pirfenidone",
+      "name": "Esbriet",
+      "record_from": "2011-02-28",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 2,
+        "en": 14,
+        "fetched": 12,
+        "listed": 14,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-002155",
+      "eu_number": "EU/1/10/652",
+      "history_type": "in-force",
+      "inn": "tobramycin",
+      "name": "Tobi Podhaler",
+      "record_from": "2011-07-20",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 7,
+        "fetched": 7,
+        "listed": 7,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-002182",
+      "eu_number": "EU/1/13/844",
+      "history_type": "in-force",
+      "inn": "alogliptin",
+      "name": "Vipidia",
+      "record_from": "2013-09-19",
+      "record_to": "2026-11-03"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 10,
+        "fetched": 10,
+        "listed": 10,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-002185",
+      "eu_number": "EU/1/11/715",
+      "history_type": "in-force",
+      "inn": "hydrocortisone",
+      "name": "Plenadren",
+      "record_from": "2011-11-03",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 29,
+        "fetched": 29,
+        "listed": 29,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-002202",
+      "eu_number": "EU/1/11/677",
+      "history_type": "in-force",
+      "inn": "fingolimod",
+      "name": "Gilenya",
+      "record_from": "2011-03-17",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 13,
+        "fetched": 13,
+        "listed": 14,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-002221",
+      "eu_number": "EU/1/12/792",
+      "history_type": "in-force",
+      "inn": "decitabine",
+      "name": "Dacogen",
+      "record_from": "2012-09-20",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 12,
+        "fetched": 12,
+        "listed": 12,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-002264",
+      "eu_number": "EU/1/11/736",
+      "history_type": "in-force",
+      "inn": "rilpivirine",
+      "name": "Edurant",
+      "record_from": "2011-11-28",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 11,
+        "fetched": 11,
+        "listed": 13,
+        "logged": 2,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-002267",
+      "eu_number": "EU/1/11/709",
+      "history_type": "in-force",
+      "inn": "midazolam",
+      "name": "Buccolam",
+      "record_from": "2011-09-05",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 10,
+        "fetched": 10,
+        "listed": 11,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-002268",
+      "eu_number": "EU/1/11/718",
+      "history_type": "in-force",
+      "inn": "dexmedetomidine",
+      "name": "Dexdor",
+      "record_from": "2011-09-16",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 15,
+        "fetched": 15,
+        "listed": 15,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-002321",
+      "eu_number": "EU/1/11/714",
+      "history_type": "in-force",
+      "inn": "abiraterone",
+      "name": "Zytiga",
+      "record_from": "2011-09-05",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 22,
+        "fetched": 22,
+        "listed": 22,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-002322",
+      "eu_number": "EU/1/12/795",
+      "history_type": "in-force",
+      "inn": "dapagliflozin",
+      "name": "Forxiga",
+      "record_from": "2012-11-12",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 12,
+        "fetched": 12,
+        "listed": 12,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-002388",
+      "eu_number": "EU/1/12/809",
+      "history_type": "in-force",
+      "inn": "mirabegron",
+      "name": "Betmiga",
+      "record_from": "2012-12-20",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 23,
+        "fetched": 23,
+        "listed": 25,
+        "logged": 2,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-002392",
+      "eu_number": "EU/1/12/797",
+      "history_type": "in-force",
+      "inn": "aflibercept",
+      "name": "Eylea",
+      "record_from": "2012-11-22",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 8,
+        "fetched": 8,
+        "listed": 9,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-002430",
+      "eu_number": "EU/1/12/788",
+      "history_type": "in-force",
+      "inn": "glycopyrronium",
+      "name": "Seebri Breezhaler",
+      "record_from": "2012-09-28",
+      "record_to": "2026-11-03"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 16,
+        "fetched": 16,
+        "listed": 16,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-002464",
+      "eu_number": "EU/1/12/773",
+      "history_type": "in-force",
+      "inn": "ruxolitinib",
+      "name": "Jakavi",
+      "record_from": "2012-08-23",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 9,
+        "fetched": 9,
+        "listed": 9,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-002465",
+      "eu_number": "EU/1/13/861",
+      "history_type": "in-force",
+      "inn": "cysteamine",
+      "name": "Procysbi",
+      "record_from": "2013-09-06",
+      "record_to": "2026-11-03"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 25,
+        "fetched": 25,
+        "listed": 25,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-002494",
+      "eu_number": "EU/1/12/782",
+      "history_type": "in-force",
+      "inn": "ivacaftor",
+      "name": "Kalydeco",
+      "record_from": "2012-07-23",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 13,
+        "fetched": 13,
+        "listed": 13,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-002498",
+      "eu_number": "EU/1/12/807",
+      "history_type": "in-force",
+      "inn": "insulin-degludec",
+      "name": "Tresiba",
+      "record_from": "2013-01-21",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 14,
+        "fetched": 14,
+        "listed": 15,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-002514",
+      "eu_number": "EU/1/13/838",
+      "history_type": "in-force",
+      "inn": "teriflunomide",
+      "name": "Aubagio",
+      "record_from": "2013-08-26",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 16,
+        "fetched": 16,
+        "listed": 16,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-002547",
+      "eu_number": "EU/1/13/813",
+      "history_type": "in-force",
+      "inn": "pertuzumab",
+      "name": "Perjeta",
+      "record_from": "2013-03-04",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 13,
+        "fetched": 13,
+        "listed": 13,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-002572",
+      "eu_number": "EU/1/13/872",
+      "history_type": "in-force",
+      "inn": "cobicistat",
+      "name": "Tybost",
+      "record_from": "2013-09-19",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 1,
+        "en": 16,
+        "fetched": 15,
+        "listed": 17,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-002601",
+      "eu_number": "EU/1/13/837",
+      "history_type": "in-force",
+      "inn": "dimethyl-fumarate",
+      "name": "Tecfidera",
+      "record_from": "2014-01-30",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 1,
+        "en": 15,
+        "fetched": 14,
+        "listed": 15,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-002618",
+      "eu_number": "EU/1/13/860",
+      "history_type": "in-force",
+      "inn": "esomeprazole",
+      "name": "Nexium Control",
+      "record_from": "2013-08-26",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 6,
+        "fetched": 6,
+        "listed": 7,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-002621",
+      "eu_number": "EU/1/14/919",
+      "history_type": "in-force",
+      "inn": "propranolol",
+      "name": "Hemangiol",
+      "record_from": "2014-04-23",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 11,
+        "fetched": 11,
+        "listed": 11,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-002642",
+      "eu_number": "EU/1/13/904",
+      "history_type": "in-force",
+      "inn": "brimonidine",
+      "name": "Mirvaso",
+      "record_from": "2014-02-21",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 16,
+        "fetched": 16,
+        "listed": 17,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-002649",
+      "eu_number": "EU/1/13/884",
+      "history_type": "in-force",
+      "inn": "canagliflozin",
+      "name": "Invokana",
+      "record_from": "2013-11-15",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 19,
+        "fetched": 19,
+        "listed": 20,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-002677",
+      "eu_number": "EU/1/14/930",
+      "history_type": "in-force",
+      "inn": "empagliflozin",
+      "name": "Jardiance",
+      "record_from": "2014-05-22",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 13,
+        "fetched": 13,
+        "listed": 15,
+        "logged": 2,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-002697",
+      "eu_number": "EU/1/13/893",
+      "history_type": "in-force",
+      "inn": "macitentan",
+      "name": "Opsumit",
+      "record_from": "2013-12-20",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 1,
+        "en": 16,
+        "fetched": 15,
+        "listed": 16,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-002713",
+      "eu_number": "EU/1/14/913",
+      "history_type": "in-force",
+      "inn": "lurasidone",
+      "name": "Latuda",
+      "record_from": "2014-03-21",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 17,
+        "fetched": 17,
+        "listed": 17,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-002753",
+      "eu_number": "EU/1/13/892",
+      "history_type": "in-force",
+      "inn": "dolutegravir",
+      "name": "Tivicay",
+      "record_from": "2014-01-16",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 14,
+        "fetched": 14,
+        "listed": 14,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-002782",
+      "eu_number": "EU/1/14/923",
+      "history_type": "in-force",
+      "inn": "vedolizumab",
+      "name": "Entyvio",
+      "record_from": "2014-05-22",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 13,
+        "fetched": 13,
+        "listed": 13,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-002789",
+      "eu_number": "EU/1/14/973",
+      "history_type": "in-force",
+      "inn": "levofloxacin",
+      "name": "Quinsair",
+      "record_from": "2015-03-26",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 13,
+        "fetched": 13,
+        "listed": 13,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-002798",
+      "eu_number": "EU/1/13/894",
+      "history_type": "in-force",
+      "inn": "sofosbuvir",
+      "name": "Sovaldi",
+      "record_from": "2014-01-16",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 16,
+        "fetched": 16,
+        "listed": 16,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-002809",
+      "eu_number": "EU/1/14/922",
+      "history_type": "in-force",
+      "inn": "umeclidinium",
+      "name": "Incruse Ellipta (previously Incruse)",
+      "record_from": "2014-04-28",
+      "record_to": "2026-11-03"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 21,
+        "fetched": 21,
+        "listed": 21,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-003729",
+      "eu_number": "EU/1/14/980",
+      "history_type": "in-force",
+      "inn": "secukinumab",
+      "name": "Cosentyx",
+      "record_from": "2015-01-15",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 9,
+        "fetched": 9,
+        "listed": 9,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-003759",
+      "eu_number": "EU/1/15/1040",
+      "history_type": "in-force",
+      "inn": "guanfacine",
+      "name": "Intuniv",
+      "record_from": "2015-09-17",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 23,
+        "fetched": 23,
+        "listed": 23,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-003791",
+      "eu_number": "EU/1/14/945",
+      "history_type": "in-force",
+      "inn": "ibrutinib",
+      "name": "Imbruvica",
+      "record_from": "2014-10-21",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 51,
+        "fetched": 51,
+        "listed": 51,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-003820",
+      "eu_number": "EU/1/15/1024",
+      "history_type": "in-force",
+      "inn": "pembrolizumab",
+      "name": "Keytruda",
+      "record_from": "2015-07-17",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 4,
+        "fetched": 4,
+        "listed": 6,
+        "logged": 2,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-003848",
+      "eu_number": "EU/1/19/1406",
+      "history_type": "in-force",
+      "inn": "glucagon",
+      "name": "Baqsimi",
+      "record_from": "2019-12-16",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 12,
+        "fetched": 12,
+        "listed": 12,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-003860",
+      "eu_number": "EU/1/15/1043",
+      "history_type": "in-force",
+      "inn": "mepolizumab",
+      "name": "Nucala",
+      "record_from": "2015-12-02",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 10,
+        "fetched": 10,
+        "listed": 10,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-003898",
+      "eu_number": "EU/1/15/1073",
+      "history_type": "in-force",
+      "inn": "brivaracetam",
+      "name": "Briviact (in Italy: Nubriveo)",
+      "record_from": "2016-01-14",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 1,
+        "en": 12,
+        "fetched": 11,
+        "listed": 12,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-003906",
+      "eu_number": "EU/1/14/965",
+      "history_type": "in-force",
+      "inn": "ketoconazole",
+      "name": "Ketoconazole Esteve (previously Ketoconazole HRA)",
+      "record_from": "2014-11-19",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 13,
+        "fetched": 13,
+        "listed": 15,
+        "logged": 2,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-003983",
+      "eu_number": "EU/1/16/1124",
+      "history_type": "in-force",
+      "inn": "methotrexate",
+      "name": "Nordimet",
+      "record_from": "2016-08-18",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 1,
+        "en": 48,
+        "fetched": 47,
+        "listed": 48,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-003985",
+      "eu_number": "EU/1/15/1014",
+      "history_type": "in-force",
+      "inn": "nivolumab",
+      "name": "Opdivo",
+      "record_from": "2015-06-19",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 12,
+        "fetched": 12,
+        "listed": 13,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-004043",
+      "eu_number": "EU/1/17/1231",
+      "history_type": "in-force",
+      "inn": "ocrelizumab",
+      "name": "Ocrevus",
+      "record_from": "2018-01-08",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 17,
+        "fetched": 17,
+        "listed": 17,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-004077",
+      "eu_number": "EU/1/16/1101",
+      "history_type": "in-force",
+      "inn": "daratumumab",
+      "name": "Darzalex",
+      "record_from": "2016-05-20",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 15,
+        "fetched": 15,
+        "listed": 15,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-004124",
+      "eu_number": "EU/1/16/1086",
+      "history_type": "in-force",
+      "inn": "osimertinib",
+      "name": "Tagrisso",
+      "record_from": "2016-02-02",
+      "record_to": "2026-11-03"
+    },
+    {
+      "annexes": {
+        "duplicate": 1,
+        "en": 10,
+        "fetched": 9,
+        "listed": 11,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-004125",
+      "eu_number": "EU/1/16/1130",
+      "history_type": "in-force",
+      "inn": "irinotecan",
+      "name": "Onivyde pegylated liposomal (previously Onivyde)",
+      "record_from": "2016-10-14",
+      "record_to": "2026-11-03"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 27,
+        "fetched": 27,
+        "listed": 28,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-004143",
+      "eu_number": "EU/1/17/1220",
+      "history_type": "in-force",
+      "inn": "atezolizumab",
+      "name": "Tecentriq",
+      "record_from": "2017-09-21",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 8,
+        "fetched": 8,
+        "listed": 8,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-004169",
+      "eu_number": "EU/1/16/1154",
+      "history_type": "in-force",
+      "inn": "tenofovir-alafenamide",
+      "name": "Vemlidy",
+      "record_from": "2017-01-09",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 12,
+        "fetched": 12,
+        "listed": 14,
+        "logged": 2,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-004174",
+      "eu_number": "EU/1/17/1251",
+      "history_type": "in-force",
+      "inn": "semaglutide",
+      "name": "Ozempic",
+      "record_from": "2018-02-08",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 17,
+        "fetched": 17,
+        "listed": 17,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-004214",
+      "eu_number": "EU/1/17/1178",
+      "history_type": "in-force",
+      "inn": "tofacitinib",
+      "name": "Xeljanz",
+      "record_from": "2017-03-22",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 9,
+        "fetched": 9,
+        "listed": 9,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-004315",
+      "eu_number": "EU/1/18/1267",
+      "history_type": "in-force",
+      "inn": "ertugliflozin",
+      "name": "Steglatro",
+      "record_from": "2018-03-21",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 7,
+        "fetched": 7,
+        "listed": 7,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-004325",
+      "eu_number": "EU/1/17/1238",
+      "history_type": "in-force",
+      "inn": "naloxone",
+      "name": "Nyxoid",
+      "record_from": "2017-11-10",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 21,
+        "fetched": 21,
+        "listed": 21,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-004390",
+      "eu_number": "EU/1/17/1229",
+      "history_type": "in-force",
+      "inn": "dupilumab",
+      "name": "Dupixent",
+      "record_from": "2017-09-26",
+      "record_to": "2026-11-03"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 5,
+        "fetched": 5,
+        "listed": 5,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-004534",
+      "eu_number": "EU/1/18/1302",
+      "history_type": "in-force",
+      "inn": "vigabatrin",
+      "name": "Kigabeq",
+      "record_from": "2018-09-20",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 9,
+        "fetched": 9,
+        "listed": 9,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-004536",
+      "eu_number": "EU/1/17/1245",
+      "history_type": "in-force",
+      "inn": "letermovir",
+      "name": "Prevymis",
+      "record_from": "2018-01-08",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 3,
+        "fetched": 3,
+        "listed": 4,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-004586",
+      "eu_number": "EU/1/20/1489",
+      "history_type": "in-force",
+      "inn": "bupivacaine",
+      "name": "Exparel liposomal",
+      "record_from": "2020-11-16",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 5,
+        "fetched": 5,
+        "listed": 5,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-004587",
+      "eu_number": "EU/1/19/1364",
+      "history_type": "in-force",
+      "inn": "botulinum-toxin-type-a",
+      "name": "Nuceiva",
+      "record_from": "2019-09-27",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 7,
+        "fetched": 7,
+        "listed": 8,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-004651",
+      "eu_number": "EU/1/18/1336",
+      "history_type": "in-force",
+      "inn": "buprenorphine",
+      "name": "Buvidal",
+      "record_from": "2018-11-20",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 6,
+        "fetched": 6,
+        "listed": 7,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-004655",
+      "eu_number": "EU/1/17/1254",
+      "history_type": "in-force",
+      "inn": "budesonide",
+      "name": "Jorveza",
+      "record_from": "2018-01-08",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 5,
+        "fetched": 5,
+        "listed": 6,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-004747",
+      "eu_number": "EU/1/18/1332",
+      "history_type": "in-force",
+      "inn": "doravirine",
+      "name": "Pifeltro",
+      "record_from": "2018-11-22",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 12,
+        "fetched": 12,
+        "listed": 13,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-004759",
+      "eu_number": "EU/1/19/1361",
+      "history_type": "in-force",
+      "inn": "risankizumab",
+      "name": "Skyrizi",
+      "record_from": "2019-04-26",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 5,
+        "fetched": 5,
+        "listed": 7,
+        "logged": 2,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-004786",
+      "eu_number": "EU/1/19/1390",
+      "history_type": "in-force",
+      "inn": "levodopa",
+      "name": "Inbrija",
+      "record_from": "2019-09-19",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 8,
+        "fetched": 8,
+        "listed": 9,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-004804",
+      "eu_number": "EU/1/20/1455",
+      "history_type": "in-force",
+      "inn": "alpelisib",
+      "name": "Piqray",
+      "record_from": "2020-07-27",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 4,
+        "fetched": 4,
+        "listed": 5,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-004975",
+      "eu_number": "EU/1/21/1623",
+      "history_type": "in-force",
+      "inn": "anifrolumab",
+      "name": "Saphnelo",
+      "record_from": "2022-02-14",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 11,
+        "fetched": 11,
+        "listed": 11,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-004977",
+      "eu_number": "EU/1/20/1435",
+      "history_type": "in-force",
+      "inn": "isatuximab",
+      "name": "Sarclisa",
+      "record_from": "2020-05-30",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 4,
+        "fetched": 4,
+        "listed": 4,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-005034",
+      "eu_number": "EU/1/22/1647",
+      "history_type": "in-force",
+      "inn": "leuprolide",
+      "name": "Camcevi",
+      "record_from": "2022-05-24",
+      "record_to": "2026-11-03"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 5,
+        "fetched": 5,
+        "listed": 5,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-005055",
+      "eu_number": "EU/1/21/1557",
+      "history_type": "in-force",
+      "inn": "azathioprine",
+      "name": "Jayempi",
+      "record_from": "2021-06-21",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 4,
+        "fetched": 4,
+        "listed": 4,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-005207",
+      "eu_number": "EU/1/19/1419",
+      "history_type": "in-force",
+      "inn": "treprostinil",
+      "name": "Trepulmix",
+      "record_from": "2020-04-03",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 6,
+        "fetched": 6,
+        "listed": 6,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-005398",
+      "eu_number": "EU/1/20/1524",
+      "history_type": "in-force",
+      "inn": "icosapent-ethyl",
+      "name": "Vazkepa",
+      "record_from": "2021-03-26",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 2,
+        "fetched": 2,
+        "listed": 2,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-005406",
+      "eu_number": "EU/1/21/1621",
+      "history_type": "in-force",
+      "inn": "risperidone",
+      "name": "Okedi",
+      "record_from": "2022-02-14",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 11,
+        "fetched": 11,
+        "listed": 11,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-005454",
+      "eu_number": "EU/1/21/1594",
+      "history_type": "in-force",
+      "inn": "amivantamab",
+      "name": "Rybrevant",
+      "record_from": "2021-12-09",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 3,
+        "fetched": 3,
+        "listed": 3,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-005535",
+      "eu_number": "EU/1/23/1731",
+      "history_type": "in-force",
+      "inn": "spironolactone",
+      "name": "Qaialdo",
+      "record_from": "2023-05-26",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 7,
+        "fetched": 7,
+        "listed": 7,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-005620",
+      "eu_number": "EU/1/22/1685",
+      "history_type": "in-force",
+      "inn": "tirzepatide",
+      "name": "Mounjaro",
+      "record_from": "2022-09-15",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 4,
+        "fetched": 4,
+        "listed": 4,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-005638",
+      "eu_number": "EU/1/22/1671",
+      "history_type": "in-force",
+      "inn": "lenacapavir",
+      "name": "Sunlenca",
+      "record_from": "2022-08-17",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 2,
+        "fetched": 2,
+        "listed": 2,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-005731",
+      "eu_number": "EU/1/23/1717",
+      "history_type": "in-force",
+      "inn": "enalapril",
+      "name": "Aqumeldi",
+      "record_from": "2023-11-15",
+      "record_to": "2026-11-03"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 6,
+        "fetched": 6,
+        "listed": 7,
+        "logged": 1,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-005849",
+      "eu_number": "EU/1/22/1674",
+      "history_type": "in-force",
+      "inn": "efgartigimod-alfa",
+      "name": "Vyvgart",
+      "record_from": "2022-08-10",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 2,
+        "fetched": 2,
+        "listed": 2,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-005933",
+      "eu_number": "EU/1/23/1763",
+      "history_type": "in-force",
+      "inn": "latanoprost",
+      "name": "Catiolanze",
+      "record_from": "2023-11-15",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 4,
+        "fetched": 4,
+        "listed": 4,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-005966",
+      "eu_number": "EU/1/24/1891",
+      "history_type": "in-force",
+      "inn": "lecanemab",
+      "name": "Leqembi",
+      "record_from": "2025-04-15",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 1,
+        "fetched": 1,
+        "listed": 1,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-005975",
+      "eu_number": "EU/1/24/1907",
+      "history_type": "in-force",
+      "inn": "methylphenidate",
+      "name": "Tuzulby",
+      "record_from": "2025-02-28",
+      "record_to": "2026-11-03"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 2,
+        "fetched": 2,
+        "listed": 2,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-006044",
+      "eu_number": "EU/1/24/1804",
+      "history_type": "in-force",
+      "inn": "dopamine",
+      "name": "Neoatricon",
+      "record_from": "2024-05-27",
+      "record_to": "2026-11-03"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 4,
+        "fetched": 4,
+        "listed": 6,
+        "logged": 2,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-006139",
+      "eu_number": "EU/1/24/1846",
+      "history_type": "in-force",
+      "inn": "epinephrine",
+      "name": "Eurneffy",
+      "record_from": "2024-08-22",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 1,
+        "fetched": 1,
+        "listed": 1,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-006322",
+      "eu_number": "EU/1/25/1938",
+      "history_type": "in-force",
+      "inn": "octreotide",
+      "name": "Oczyesa",
+      "record_from": "2025-06-30",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 1,
+        "fetched": 1,
+        "listed": 1,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-006324",
+      "eu_number": "EU/1/25/1920",
+      "history_type": "in-force",
+      "inn": "atropine",
+      "name": "Ryjunea",
+      "record_from": "2025-06-02",
+      "record_to": "2026-11-03"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 1,
+        "fetched": 1,
+        "listed": 1,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-006617",
+      "eu_number": "EU/1/26/2027",
+      "history_type": "in-force",
+      "inn": "furosemide",
+      "name": "Bopediat",
+      "record_from": "2026-05-29",
+      "record_to": "2026-11-01"
+    },
+    {
+      "annexes": {
+        "duplicate": 0,
+        "en": 1,
+        "fetched": 1,
+        "listed": 1,
+        "logged": 0,
+        "unaccounted": 0
+      },
+      "dir": "EMEA-H-C-006653",
+      "eu_number": "EU/1/26/2048",
+      "history_type": "in-force",
+      "inn": "colchicine",
+      "name": "Colchicine Agepha Pharma",
+      "record_from": "2026-07-24",
+      "record_to": "2026-11-01"
+    }
+  ],
+  "requests": {
+    "by_host": {
+      "ec.europa.eu": 4888,
+      "www.ema.europa.eu": 203
+    },
+    "by_status": {
+      "200": 5038,
+      "301": 3,
+      "ERR": 50
+    },
+    "bytes": 3690601554,
+    "total": 5091
+  },
+  "reuse_terms": [
+    {
+      "quote": "Available datasets: ... Medicinal products dataset Licence: Creative Commons Attribution 4.0 International",
+      "source": "Union Register open dataset (ods_products.json), used for the EU numbers",
+      "status": "read on the Union Register page (ec.europa.eu) during discover",
+      "url": "https://ec.europa.eu/health/documents/community-register/html/index_en.htm"
+    },
+    {
+      "quote": null,
+      "source": "Union Register pages, Commission decisions and annex PDFs (ec.europa.eu/health/documents/community-register)",
+      "status": "not read: every Union Register page links its legal notice to commission.europa.eu, a host outside the two allowed for this task (ec.europa.eu/info/legal-notice_en answers 301 to it), and community-register/html/legal_notice.htm answers 301 to health.ec.europa.eu, also outside the allowed hosts; neither redirect was followed. The Union Register FAQ (community-register/register_faq.pdf) says nothing about reuse. The Commission's reuse policy (Decision 2011/833/EU, normally summarised in that legal notice as reuse allowed with acknowledgement of the source) is expected to apply but was not verified here.",
+      "url": "https://commission.europa.eu/legal-notice_en"
+    },
+    {
+      "quote": "Information and documents made available on EMA's webpages are public and may be reproduced and / or distributed, totally or in part, irrespective of the means and / or the formats used, for non-commercial and commercial purposes, provided that EMA is always acknowledged as the source of the material. Such acknowledgement must be included in each copy of the material. Citations may be made from such material without prior permission, provided the source is always acknowledged. The above-mentioned permissions do not apply to content supplied by third parties. Therefore, for documents where the copyright vests in a third party, permission for reproduction must be obtained from this copyright holder.",
+      "source": "EMA website: medicines JSON, EPAR documents JSON, product-information PDFs",
+      "status": "read (www.ema.europa.eu/en/about-us/legal-notice, which answers 301 to the URL given)",
+      "url": "https://www.ema.europa.eu/en/about-us/about-website/legal-notice"
+    }
+  ],
+  "runs": [
+    {
+      "aborted": false,
+      "command": "fetch",
+      "problems": 0,
+      "products": 2,
+      "requests": 67,
+      "seconds": 218.3,
+      "started": "2026-11-01T11:38:03Z"
+    },
+    {
+      "aborted": false,
+      "command": "fetch",
+      "problems": 3,
+      "products": 189,
+      "requests": 4048,
+      "seconds": 3633.4,
+      "started": "2026-11-01T11:58:04Z"
+    },
+    {
+      "aborted": false,
+      "command": "fetch",
+      "problems": 0,
+      "products": 189,
+      "requests": 3,
+      "seconds": 20.3,
+      "started": "2026-11-01T12:58:49Z"
+    },
+    {
+      "aborted": false,
+      "command": "fetch",
+      "problems": 0,
+      "products": 189,
+      "requests": 0,
+      "seconds": 0.3,
+      "started": "2026-11-01T12:59:15Z"
+    },
+    {
+      "capture_date": "2026-11-01",
+      "command": "capture",
+      "problems": 2,
+      "products": 189,
+      "requests": 191,
+      "seconds": 526.6,
+      "started": "2026-11-01T13:00:46Z"
+    },
+    {
+      "capture_date": "2026-11-01",
+      "command": "capture",
+      "problems": 2,
+      "products": 189,
+      "requests": 4,
+      "seconds": 162.1,
+      "started": "2026-11-01T13:09:51Z"
+    },
+    {
+      "capture_date": "2026-11-01",
+      "command": "capture",
+      "problems": 1,
+      "products": 189,
+      "requests": 1,
+      "seconds": 2.0,
+      "started": "2026-11-01T13:13:03Z"
+    },
+    {
+      "capture_date": "2026-11-01",
+      "command": "capture",
+      "problems": 1,
+      "products": 189,
+      "requests": 0,
+      "seconds": 0.1,
+      "started": "2026-11-01T13:13:05Z"
+    },
+    {
+      "command": "capture",
+      "event": "started",
+      "started": "2026-11-01T15:58:01Z"
+    },
+    {
+      "capture_date": "2026-11-01",
+      "command": "capture",
+      "completed": true,
+      "event": "finished",
+      "problems": 1,
+      "products": 189,
+      "requests": 0,
+      "seconds": 0.3,
+      "started": "2026-11-01T15:58:01Z"
+    },
+    {
+      "command": "fetch",
+      "event": "started",
+      "started": "2026-11-01T17:37:50Z"
+    },
+    {
+      "aborted": false,
+      "command": "fetch",
+      "completed": true,
+      "event": "finished",
+      "problems": 0,
+      "products": 189,
+      "requests": 0,
+      "seconds": 0.6,
+      "started": "2026-11-01T17:37:50Z"
+    },
+    {
+      "command": "fetch",
+      "event": "started",
+      "started": "2026-11-03T04:08:07Z"
+    },
+    {
+      "aborted": false,
+      "command": "fetch",
+      "completed": true,
+      "event": "finished",
+      "problems": 0,
+      "products": 19,
+      "requests": 285,
+      "seconds": 338.0,
+      "started": "2026-11-03T04:08:07Z"
+    }
+  ],
+  "selection": {
+    "alternates": 391,
+    "combination_products_excluded": 132,
+    "ema_human_authorised": 1564,
+    "ema_human_authorised_without_inn": 0,
+    "ema_rows": 2754,
+    "molecules": 503,
+    "molecules_with_combination_products": 76,
+    "molecules_with_near_misses_not_matched": 11,
+    "molecules_with_reference": 206,
+    "molecules_without_reference": 297,
+    "no_reference_reasons": {
+      "no authorised central product under this exact INN (only application withdrawn ones)": 2,
+      "no authorised central product under this exact INN (only refused ones)": 1,
+      "no authorised central product under this exact INN (only withdrawn ones)": 3,
+      "no central product with this exact INN in the EMA medicines JSON": 261,
+      "only combination central products under this exact INN (combinations are not built)": 27,
+      "only generic or biosimilar central products under this exact INN": 3
+    },
+    "references_by_rule": {
+      "exact-inn": 190,
+      "override": 2,
+      "salt-alias-v2": 14
+    },
+    "references_comparable_to_us": {
+      "no": 16,
+      "unknown": 55,
+      "yes": 135
+    },
+    "references_mapped_by_name": 9,
+    "references_mapped_to_eu_number": 206
+  },
+  "totals": {
+    "annex_bytes": 3303932854,
+    "annex_pages": 353034,
+    "annexes_duplicate": 72,
+    "annexes_en_listed": 4592,
+    "annexes_fetched": 4520,
+    "annexes_listed": 4682,
+    "annexes_logged": 90,
+    "annexes_page_counted": 4257,
+    "annexes_unaccounted": 0,
+    "annexes_unreadable": 0,
+    "annexes_without_text_layer": 0,
+    "carried_by_later_decision": 4081,
+    "current_only_products": 0,
+    "decisions": 4714,
+    "earliest_annex": "1996-02-14",
+    "h_page_bytes": 12208602,
+    "h_pages_fetched": 206,
+    "in_force_products": 206,
+    "latest_annex": "2026-10-19",
+    "procedures": 11146,
+    "products_first_annex_before_2005": 59,
+    "products_first_annex_before_2011": 111,
+    "products_not_started": 0,
+    "products_with_problems": 0,
+    "reference_products": 206
+  }
+}

@@ -1,0 +1,471 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/001179",
+      "eu_number": "EU/1/10/636",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-001179",
+      "mah": "AstraZeneca AB",
+      "marketing_authorisation_date": "2010-07-05",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/daxas",
+      "name": "Daxas",
+      "record_from": "2010-07-05",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 18
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-001179",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "ROFLUMILAST"
+  ],
+  "inn": "roflumilast",
+  "name": "ROFLUMILAST",
+  "rank": 284,
+  "rxcui": [
+    "1091839",
+    "1091843",
+    "2001319",
+    "2001321",
+    "2608534",
+    "2608539",
+    "2671682",
+    "2671684",
+    "2687710",
+    "2687712",
+    "2725121",
+    "2725123"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 15,
+    "approval_holders": 14,
+    "earliest_marketing_start": "2015-07-01",
+    "latest_label_update": "2026-10-09",
+    "nda_bla_applications": 3,
+    "repackagers": 4
+  },
+  "unii": [
+    {
+      "ingredient": "ROFLUMILAST",
+      "unii": "0P6C6ZOP5U"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA022522"
+      ],
+      "brand_names": [
+        "Daliresp"
+      ],
+      "combination": false,
+      "home_inn": "roflumilast",
+      "ingredients": [
+        "ROFLUMILAST"
+      ],
+      "labeler": "AstraZeneca Pharmaceuticals LP",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-07-01",
+      "moieties": [
+        "ROFLUMILAST"
+      ],
+      "product_ndcs": [
+        "0310-0088",
+        "0310-0095"
+      ],
+      "rxcui": [
+        "1091839",
+        "1091843",
+        "2001319",
+        "2001321"
+      ],
+      "setid": "c9a1d0a8-581f-4f91-a2b8-f419192d0ebf",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "DALIRESP (ROFLUMILAST) TABLET [ASTRAZENECA PHARMACEUTICALS LP]",
+      "upload_date": "2025-12-19"
+    },
+    {
+      "application_numbers": [
+        "NDA215985",
+        "NDA217242"
+      ],
+      "brand_names": [
+        "ZORYVE"
+      ],
+      "combination": false,
+      "home_inn": "roflumilast",
+      "ingredients": [
+        "ROFLUMILAST"
+      ],
+      "labeler": "Arcutis Biotherapeutics, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-07-29",
+      "moieties": [
+        "ROFLUMILAST"
+      ],
+      "product_ndcs": [
+        "80610-105",
+        "80610-115",
+        "80610-130",
+        "80610-430"
+      ],
+      "rxcui": [
+        "2608534",
+        "2608539",
+        "2687710",
+        "2687712",
+        "2725121",
+        "2725123"
+      ],
+      "setid": "ec1bb0d1-f38a-4080-831a-68791d1d1fdb",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "ZORYVE (ROFLUMILAST) CREAM [ARCUTIS BIOTHERAPEUTICS, INC.]",
+      "upload_date": "2026-08-03"
+    },
+    {
+      "application_numbers": [
+        "NDA217242"
+      ],
+      "brand_names": [
+        "ZORYVE"
+      ],
+      "combination": false,
+      "home_inn": "roflumilast",
+      "ingredients": [
+        "ROFLUMILAST"
+      ],
+      "labeler": "Arcutis Biotherapeutics, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-12-15",
+      "moieties": [
+        "ROFLUMILAST"
+      ],
+      "product_ndcs": [
+        "80610-430"
+      ],
+      "rxcui": [
+        "2671682",
+        "2671684"
+      ],
+      "setid": "f9e0b4a9-a227-4947-b00c-41fb18d16589",
+      "source": "dailymed-title-match",
+      "spl_version": 14,
+      "title": "ZORYVE (ROFLUMILAST) AEROSOL, FOAM [ARCUTIS BIOTHERAPEUTICS, INC.]",
+      "upload_date": "2026-10-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA208299"
+      ],
+      "brand_names": [
+        "ROFLUMILAST"
+      ],
+      "combination": false,
+      "home_inn": "roflumilast",
+      "ingredients": [
+        "ROFLUMILAST"
+      ],
+      "labeler": "Solco Healthcare US, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-05-10",
+      "moieties": [
+        "ROFLUMILAST"
+      ],
+      "product_ndcs": [
+        "43547-005"
+      ],
+      "rxcui": [
+        "1091839"
+      ],
+      "setid": "4251c764-7224-4f94-9de7-b6c76cb1f5cd",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "ROFLUMILAST TABLET [SOLCO HEALTHCARE US, LLC.]",
+      "upload_date": "2022-08-01"
+    },
+    {
+      "application_numbers": [
+        "ANDA208256"
+      ],
+      "brand_names": [
+        "Roflumilast"
+      ],
+      "combination": false,
+      "home_inn": "roflumilast",
+      "ingredients": [
+        "ROFLUMILAST"
+      ],
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-09-07",
+      "moieties": [
+        "ROFLUMILAST"
+      ],
+      "product_ndcs": [
+        "72205-200",
+        "72205-201"
+      ],
+      "rxcui": [
+        "1091839",
+        "2001319"
+      ],
+      "setid": "4d25f69c-58b7-4e2a-b835-4d0c76a83c7c",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "ROFLUMILAST TABLET [NOVADOZ PHARMACEUTICALS LLC]",
+      "upload_date": "2024-08-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA208303"
+      ],
+      "brand_names": [
+        "Roflumilast"
+      ],
+      "combination": false,
+      "home_inn": "roflumilast",
+      "ingredients": [
+        "ROFLUMILAST"
+      ],
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-10-03",
+      "moieties": [
+        "ROFLUMILAST"
+      ],
+      "product_ndcs": [
+        "68382-624",
+        "68382-969"
+      ],
+      "rxcui": [
+        "1091839",
+        "2001319"
+      ],
+      "setid": "84145572-f320-4c3f-ab29-bd9f6c18746c",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "ROFLUMILAST TABLET [ZYDUS PHARMACEUTICALS USA INC.]",
+      "upload_date": "2024-08-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA208213"
+      ],
+      "brand_names": [
+        "Roflumilast"
+      ],
+      "combination": false,
+      "home_inn": "roflumilast",
+      "ingredients": [
+        "ROFLUMILAST"
+      ],
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-10-15",
+      "moieties": [
+        "ROFLUMILAST"
+      ],
+      "product_ndcs": [
+        "31722-623",
+        "31722-676"
+      ],
+      "rxcui": [
+        "1091839",
+        "2001319"
+      ],
+      "setid": "f25a0230-3cf6-4366-bebe-0ea5ff8de5ab",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "ROFLUMILAST (ROFLUMILAST) TABLET [CAMBER PHARMACEUTICALS, INC.]",
+      "upload_date": "2023-05-01"
+    },
+    {
+      "application_numbers": [
+        "ANDA208180"
+      ],
+      "brand_names": [
+        "ROFLUMILAST"
+      ],
+      "combination": false,
+      "home_inn": "roflumilast",
+      "ingredients": [
+        "ROFLUMILAST"
+      ],
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-10-19",
+      "moieties": [
+        "ROFLUMILAST"
+      ],
+      "product_ndcs": [
+        "42571-259",
+        "42571-369"
+      ],
+      "rxcui": [
+        "1091839",
+        "2001319"
+      ],
+      "setid": "dc2a689f-cfa4-4863-9623-a9813dcf86a9",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "ROFLUMILAST TABLET ROFLUMILAST TABLET [MICRO LABS LIMITED]",
+      "upload_date": "2025-07-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA213298"
+      ],
+      "brand_names": [
+        "ROFLUMILAST"
+      ],
+      "combination": false,
+      "home_inn": "roflumilast",
+      "ingredients": [
+        "ROFLUMILAST"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-04-17",
+      "moieties": [
+        "ROFLUMILAST"
+      ],
+      "product_ndcs": [
+        "59651-275",
+        "59651-801"
+      ],
+      "rxcui": [
+        "1091839",
+        "2001319"
+      ],
+      "setid": "7cb11d48-6bb9-437b-bc7f-382050a2d3e6",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "ROFLUMILAST TABLET [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2025-05-29"
+    },
+    {
+      "application_numbers": [
+        "NDA022522"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "DALIRESP"
+      ],
+      "first_posted": "2011-03-07",
+      "found_by": "DALIRESP",
+      "labeler": "ALLERGAN, INC.",
+      "labeler_unverified": false,
+      "last_posted": "2017-12-12",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2016-07-31"
+      ],
+      "product_ndcs": [
+        "0456-0095"
+      ],
+      "rxcui": [],
+      "setid": "95519b97-d0a6-4c9f-baf0-bc5da08296c7",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "c9a1d0a8-581f-4f91-a2b8-f419192d0ebf"
+      ],
+      "title": "DALIRESP (roflumilast) tablet"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "93d72a99-64dc-4fde-a5b8-78331fa60787"
+    },
+    {
+      "combination": false,
+      "labeler": "Jubilant Cadista Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "aaa81c1b-f63d-4e61-8bfa-9d42d92043c7"
+    },
+    {
+      "combination": false,
+      "labeler": "AvKARE",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "55009549-3f0c-1f58-e063-6294a90a6c03"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e87287bd-eae3-46c3-9072-04800aeabf40"
+    },
+    {
+      "combination": false,
+      "labeler": "MAJOR PHARMACEUTICALS",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c51b80f3-a591-4db9-81b4-b91603e35d7c"
+    },
+    {
+      "combination": false,
+      "labeler": "Amici Pharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cb3781ff-5350-4f9a-b247-0b04eb0f2b92"
+    }
+  ]
+}

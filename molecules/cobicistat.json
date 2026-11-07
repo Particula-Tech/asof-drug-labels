@@ -1,0 +1,309 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand Tybost",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/002572",
+      "eu_number": "EU/1/13/872",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-002572",
+      "mah": "Gilead Sciences Ireland UC",
+      "marketing_authorisation_date": "2013-09-19",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tybost",
+      "name": "Tybost",
+      "record_from": "2013-09-19",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 13
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 5,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-002572",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "COBICISTAT"
+  ],
+  "inn": "cobicistat",
+  "name": "COBICISTAT",
+  "rank": 68,
+  "rxcui": [
+    "1306292",
+    "1306298",
+    "1551993",
+    "1551999",
+    "1600704",
+    "1600710",
+    "1601654",
+    "1601660",
+    "1721613",
+    "1721619",
+    "2049671",
+    "2049677",
+    "2710424",
+    "2710426",
+    "2719618",
+    "2719620",
+    "2738995",
+    "2738999"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 6,
+    "approval_holders": 3,
+    "earliest_marketing_start": "2012-08-27",
+    "latest_label_update": "2026-08-17",
+    "nda_bla_applications": 7,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "COBICISTAT",
+      "unii": "LW2E03M5PG"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA203094"
+      ],
+      "brand_names": [
+        "Tybost"
+      ],
+      "combination": false,
+      "home_inn": "cobicistat",
+      "ingredients": [
+        "COBICISTAT"
+      ],
+      "labeler": "Gilead Sciences, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2014-09-24",
+      "moieties": [
+        "COBICISTAT"
+      ],
+      "product_ndcs": [
+        "61958-1401"
+      ],
+      "rxcui": [
+        "1551993",
+        "1551999",
+        "2719618",
+        "2719620"
+      ],
+      "setid": "3784c35c-e87f-410c-900b-8fd6313c6010",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "TYBOST (COBICISTAT) TABLET, FILM COATED [GILEAD SCIENCES, INC.]",
+      "upload_date": "2026-02-18"
+    },
+    {
+      "application_numbers": [
+        "NDA203100"
+      ],
+      "brand_names": [
+        "Stribild"
+      ],
+      "combination": true,
+      "home_inn": "emtricitabine",
+      "ingredients": [
+        "COBICISTAT",
+        "ELVITEGRAVIR",
+        "EMTRICITABINE",
+        "TENOFOVIR DISOPROXIL FUMARATE"
+      ],
+      "labeler": "Gilead Sciences, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2012-08-27",
+      "moieties": [
+        "COBICISTAT",
+        "ELVITEGRAVIR",
+        "EMTRICITABINE",
+        "TENOFOVIR DISOPROXIL"
+      ],
+      "product_ndcs": [
+        "61958-1201"
+      ],
+      "rxcui": [
+        "1306292",
+        "1306298"
+      ],
+      "setid": "74ae2a93-b267-444c-8f0f-a2a6522260ee",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "STRIBILD (ELVITEGRAVIR, COBICISTAT, EMTRICITABINE, AND TENOFOVIR DISOPROXIL FUMARATE) TABLET, FILM COATED [GILEAD SCIENCES, INC.]",
+      "upload_date": "2025-02-14"
+    },
+    {
+      "application_numbers": [
+        "NDA206353"
+      ],
+      "brand_names": [
+        "EVOTAZ"
+      ],
+      "combination": true,
+      "home_inn": "cobicistat",
+      "ingredients": [
+        "ATAZANAVIR SULFATE",
+        "COBICISTAT"
+      ],
+      "labeler": "E.R. Squibb & Sons, L.L.C.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-01-29",
+      "moieties": [
+        "ATAZANAVIR",
+        "COBICISTAT"
+      ],
+      "product_ndcs": [
+        "0003-3641"
+      ],
+      "rxcui": [
+        "1601654",
+        "1601660"
+      ],
+      "setid": "83db29d7-5d85-49d6-8cb6-740473365cf8",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "EVOTAZ (ATAZANAVIR AND COBICISTAT) TABLET [E.R. SQUIBB & SONS, L.L.C.]",
+      "upload_date": "2025-05-26"
+    },
+    {
+      "application_numbers": [
+        "NDA205395",
+        "NDA220092"
+      ],
+      "brand_names": [
+        "PREZCOBIX",
+        "PREZCOBIX PED"
+      ],
+      "combination": true,
+      "home_inn": "cobicistat",
+      "ingredients": [
+        "COBICISTAT",
+        "DARUNAVIR ETHANOLATE"
+      ],
+      "labeler": "Janssen Products, LP",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-01-31",
+      "moieties": [
+        "COBICISTAT",
+        "DARUNAVIR"
+      ],
+      "product_ndcs": [
+        "59676-575",
+        "59676-577",
+        "59676-578"
+      ],
+      "rxcui": [
+        "1600704",
+        "1600710",
+        "2710424",
+        "2710426",
+        "2738995",
+        "2738999"
+      ],
+      "setid": "9c38fdb6-d0ba-4f16-a0e3-85d9ec334d9f",
+      "source": "openfda",
+      "spl_version": 29,
+      "title": "PREZCOBIX (DARUNAVIR ETHANOLATE AND COBICISTAT) TABLET, FILM COATED PREZCOBIX PED (DARUNAVIR ETHANOLATE AND COBICISTAT) TABLET, FOR SUSPENSION [JANSSEN PRODUCTS, LP]",
+      "upload_date": "2026-08-17"
+    },
+    {
+      "application_numbers": [
+        "NDA207561"
+      ],
+      "brand_names": [
+        "Genvoya"
+      ],
+      "combination": true,
+      "home_inn": "emtricitabine",
+      "ingredients": [
+        "COBICISTAT",
+        "ELVITEGRAVIR",
+        "EMTRICITABINE",
+        "TENOFOVIR ALAFENAMIDE FUMARATE"
+      ],
+      "labeler": "Gilead Sciences, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-11-05",
+      "moieties": [
+        "COBICISTAT",
+        "ELVITEGRAVIR",
+        "EMTRICITABINE",
+        "TENOFOVIR ALAFENAMIDE"
+      ],
+      "product_ndcs": [
+        "61958-1901"
+      ],
+      "rxcui": [
+        "1721613",
+        "1721619"
+      ],
+      "setid": "34784acf-15ed-4715-b504-eb30430518e9",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "GENVOYA (ELVITEGRAVIR, COBICISTAT, EMTRICITABINE, AND TENOFOVIR ALAFENAMIDE) TABLET [GILEAD SCIENCES, INC.]",
+      "upload_date": "2025-02-05"
+    },
+    {
+      "application_numbers": [
+        "NDA210455"
+      ],
+      "brand_names": [
+        "Symtuza"
+      ],
+      "combination": true,
+      "home_inn": "emtricitabine",
+      "ingredients": [
+        "COBICISTAT",
+        "DARUNAVIR",
+        "EMTRICITABINE",
+        "TENOFOVIR ALAFENAMIDE"
+      ],
+      "labeler": "Janssen Products LP",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-07-17",
+      "moieties": [
+        "COBICISTAT",
+        "DARUNAVIR",
+        "EMTRICITABINE",
+        "TENOFOVIR ALAFENAMIDE"
+      ],
+      "product_ndcs": [
+        "59676-800"
+      ],
+      "rxcui": [
+        "2049671",
+        "2049677"
+      ],
+      "setid": "85a17d00-6b7c-41ea-a6b3-5ad924820dab",
+      "source": "openfda",
+      "spl_version": 23,
+      "title": "SYMTUZA (DARUNAVIR, COBICISTAT, EMTRICITABINE, AND TENOFOVIR ALAFENAMIDE) TABLET, FILM COATED [JANSSEN PRODUCTS LP]",
+      "upload_date": "2026-04-20"
+    }
+  ],
+  "us_excluded": []
+}

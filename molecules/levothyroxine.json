@@ -1,0 +1,1592 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "LEVOTHYROXINE SODIUM",
+    "LEVOTHYROXINE SODIUM ANHYDROUS"
+  ],
+  "inn": "levothyroxine",
+  "name": "LEVOTHYROXINE",
+  "rank": 24,
+  "rxcui": [
+    "892246",
+    "892251",
+    "892255",
+    "905451",
+    "905453",
+    "905455",
+    "905457",
+    "905458",
+    "905460",
+    "905462",
+    "905464",
+    "966157",
+    "966158",
+    "966164",
+    "966170",
+    "966171",
+    "966175",
+    "966184",
+    "966185",
+    "966190",
+    "966191",
+    "966194",
+    "966200",
+    "966201",
+    "966204",
+    "966205",
+    "966211",
+    "966218",
+    "966219",
+    "966220",
+    "966221",
+    "966222",
+    "966224",
+    "966225",
+    "966228",
+    "966232",
+    "966233",
+    "966235",
+    "966237",
+    "966238",
+    "966241",
+    "966243",
+    "966244",
+    "966246",
+    "966247",
+    "966248",
+    "966249",
+    "966250",
+    "966251",
+    "966253",
+    "966270",
+    "966271",
+    "966282",
+    "966283",
+    "966286",
+    "966404",
+    "966405",
+    "966406",
+    "966407",
+    "966412",
+    "966413",
+    "966415",
+    "966417",
+    "966420",
+    "966423",
+    "966426",
+    "966434",
+    "966436",
+    "1115267",
+    "1115269",
+    "1923047",
+    "1923049",
+    "1923050",
+    "1923052",
+    "2056462",
+    "2056466",
+    "2056468",
+    "2056470",
+    "2056472",
+    "2056474",
+    "2056476",
+    "2056478",
+    "2056480",
+    "2056482",
+    "2056484",
+    "2056486",
+    "2056488",
+    "2056490",
+    "2056492",
+    "2056494",
+    "2056496",
+    "2056498",
+    "2056500",
+    "2056502",
+    "2056504",
+    "2056506",
+    "2056508",
+    "2056510",
+    "2166148",
+    "2166193",
+    "2166196",
+    "2473276",
+    "2473282",
+    "2566608",
+    "2566610",
+    "2566613",
+    "2566615",
+    "2566617",
+    "2566619",
+    "2621123",
+    "2630738",
+    "2630740",
+    "2630742",
+    "2630744",
+    "2630746",
+    "2630748"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 33,
+    "approval_holders": 27,
+    "earliest_marketing_start": "2001-05-25",
+    "latest_label_update": "2026-09-21",
+    "nda_bla_applications": 10,
+    "repackagers": 20
+  },
+  "unii": [
+    {
+      "ingredient": "LEVOTHYROXINE SODIUM",
+      "unii": "9J765S329G"
+    },
+    {
+      "ingredient": "LEVOTHYROXINE SODIUM ANHYDROUS",
+      "unii": "054I36CPMN"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021301"
+      ],
+      "brand_names": [
+        "LEVOXYL"
+      ],
+      "combination": false,
+      "home_inn": "levothyroxine",
+      "ingredients": [
+        "LEVOTHYROXINE SODIUM"
+      ],
+      "labeler": "Pfizer Laboratories Div Pfizer Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2001-05-25",
+      "moieties": [
+        "LEVOTHYROXINE"
+      ],
+      "product_ndcs": [
+        "60793-850",
+        "60793-851",
+        "60793-852",
+        "60793-853",
+        "60793-854",
+        "60793-855",
+        "60793-856",
+        "60793-857",
+        "60793-858",
+        "60793-859",
+        "60793-860"
+      ],
+      "rxcui": [
+        "892246",
+        "892251",
+        "966157",
+        "966164",
+        "966170",
+        "966175",
+        "966184",
+        "966190",
+        "966194",
+        "966200",
+        "966204",
+        "966211",
+        "966220",
+        "966221",
+        "966222",
+        "966224",
+        "966225",
+        "966248",
+        "966249",
+        "966253",
+        "966270",
+        "966283"
+      ],
+      "setid": "758588c3-c63e-491b-0aa2-4f50d80cb174",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "LEVOXYL (LEVOTHYROXINE SODIUM) TABLET [PFIZER LABORATORIES DIV PFIZER INC]",
+      "upload_date": "2020-12-16"
+    },
+    {
+      "application_numbers": [
+        "NDA021402"
+      ],
+      "brand_names": [
+        "Synthroid"
+      ],
+      "combination": false,
+      "home_inn": "levothyroxine",
+      "ingredients": [
+        "LEVOTHYROXINE SODIUM"
+      ],
+      "labeler": "AbbVie Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2002-02-24",
+      "moieties": [
+        "LEVOTHYROXINE"
+      ],
+      "product_ndcs": [
+        "0074-3727",
+        "0074-4341",
+        "0074-4552",
+        "0074-5182",
+        "0074-6594",
+        "0074-6624",
+        "0074-7068",
+        "0074-7069",
+        "0074-7070",
+        "0074-7148",
+        "0074-7149",
+        "0074-9296"
+      ],
+      "rxcui": [
+        "892246",
+        "892251",
+        "892255",
+        "966158",
+        "966171",
+        "966185",
+        "966191",
+        "966201",
+        "966205",
+        "966218",
+        "966220",
+        "966221",
+        "966222",
+        "966224",
+        "966225",
+        "966247",
+        "966248",
+        "966249",
+        "966250",
+        "966251",
+        "966253",
+        "966270",
+        "966271",
+        "966282"
+      ],
+      "setid": "1e11ad30-1041-4520-10b0-8f9d30d30fcc",
+      "source": "openfda",
+      "spl_version": 1537,
+      "title": "SYNTHROID (LEVOTHYROXINE SODIUM) TABLET [ABBVIE INC.]",
+      "upload_date": "2024-02-29"
+    },
+    {
+      "application_numbers": [
+        "NDA202231"
+      ],
+      "brand_names": [
+        "Levothyroxine Sodium"
+      ],
+      "combination": false,
+      "home_inn": "levothyroxine",
+      "ingredients": [
+        "LEVOTHYROXINE SODIUM ANHYDROUS"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2011-06-24",
+      "moieties": [
+        "LEVOTHYROXINE"
+      ],
+      "product_ndcs": [
+        "63323-648",
+        "63323-649"
+      ],
+      "rxcui": [
+        "966219",
+        "1115267"
+      ],
+      "setid": "152d071f-d4aa-46d2-b397-61c1cabdd86d",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "LEVOTHYROXINE SODIUM (LEVOTHYROXINE SODIUM ANHYDROUS) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2024-10-21"
+    },
+    {
+      "application_numbers": [
+        "NDA021210"
+      ],
+      "brand_names": [
+        "Unithroid"
+      ],
+      "combination": false,
+      "home_inn": "levothyroxine",
+      "ingredients": [
+        "LEVOTHYROXINE SODIUM"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2014-07-03",
+      "moieties": [
+        "LEVOTHYROXINE"
+      ],
+      "product_ndcs": [
+        "60846-801",
+        "60846-802",
+        "60846-803",
+        "60846-804",
+        "60846-805",
+        "60846-806",
+        "60846-807",
+        "60846-808",
+        "60846-809",
+        "60846-810",
+        "60846-811",
+        "60846-812"
+      ],
+      "rxcui": [
+        "892246",
+        "892251",
+        "892255",
+        "966220",
+        "966221",
+        "966222",
+        "966224",
+        "966225",
+        "966228",
+        "966232",
+        "966233",
+        "966235",
+        "966237",
+        "966238",
+        "966241",
+        "966243",
+        "966244",
+        "966246",
+        "966248",
+        "966249",
+        "966253",
+        "966270",
+        "966286",
+        "966436"
+      ],
+      "setid": "07562e72-7eaa-4ce6-94f0-e08814787e50",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "UNITHROID (LEVOTHYROXINE SODIUM) TABLET [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2024-02-16"
+    },
+    {
+      "application_numbers": [
+        "NDA210632"
+      ],
+      "brand_names": [
+        "Levothyroxine Sodium"
+      ],
+      "combination": false,
+      "home_inn": "levothyroxine",
+      "ingredients": [
+        "LEVOTHYROXINE SODIUM"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-05-29",
+      "moieties": [
+        "LEVOTHYROXINE"
+      ],
+      "product_ndcs": [
+        "63323-885",
+        "63323-890",
+        "63323-895"
+      ],
+      "rxcui": [
+        "2166148",
+        "2166193",
+        "2166196"
+      ],
+      "setid": "08f4b1f8-6807-47e7-bef8-8d1972aa0557",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "LEVOTHYROXINE SODIUM INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2025-04-21"
+    },
+    {
+      "application_numbers": [
+        "NDA021924"
+      ],
+      "brand_names": [
+        "Tirosint"
+      ],
+      "combination": false,
+      "home_inn": "levothyroxine",
+      "ingredients": [
+        "LEVOTHYROXINE SODIUM"
+      ],
+      "labeler": "IBSA Pharma Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-12-01",
+      "moieties": [
+        "LEVOTHYROXINE"
+      ],
+      "product_ndcs": [
+        "71858-0005",
+        "71858-0010",
+        "71858-0012",
+        "71858-0013",
+        "71858-0015",
+        "71858-0017",
+        "71858-0020",
+        "71858-0025",
+        "71858-0030",
+        "71858-0035",
+        "71858-0040",
+        "71858-0045",
+        "71858-0050",
+        "71858-0055",
+        "71858-0060"
+      ],
+      "rxcui": [
+        "905451",
+        "905453",
+        "905455",
+        "905457",
+        "905458",
+        "905460",
+        "905462",
+        "905464",
+        "966404",
+        "966405",
+        "966406",
+        "966407",
+        "966412",
+        "966413",
+        "966415",
+        "966417",
+        "966420",
+        "966423",
+        "966426",
+        "966434",
+        "1923047",
+        "1923049",
+        "1923050",
+        "1923052",
+        "2630738",
+        "2630740",
+        "2630742",
+        "2630744",
+        "2630746",
+        "2630748"
+      ],
+      "setid": "7a7ade79-0165-4e31-b84e-667416c00c7e",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "TIROSINT (LEVOTHYROXINE SODIUM) CAPSULE [IBSA PHARMA INC.]",
+      "upload_date": "2026-03-27"
+    },
+    {
+      "application_numbers": [
+        "NDA206977"
+      ],
+      "brand_names": [
+        "Tirosint SOL"
+      ],
+      "combination": false,
+      "home_inn": "levothyroxine",
+      "ingredients": [
+        "LEVOTHYROXINE SODIUM"
+      ],
+      "labeler": "IBSA Pharma Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2019-03-01",
+      "moieties": [
+        "LEVOTHYROXINE"
+      ],
+      "product_ndcs": [
+        "71858-0105",
+        "71858-0110",
+        "71858-0112",
+        "71858-0113",
+        "71858-0115",
+        "71858-0117",
+        "71858-0120",
+        "71858-0125",
+        "71858-0130",
+        "71858-0135",
+        "71858-0140",
+        "71858-0145",
+        "71858-0150",
+        "71858-0155",
+        "71858-0160"
+      ],
+      "rxcui": [
+        "2056462",
+        "2056466",
+        "2056468",
+        "2056470",
+        "2056472",
+        "2056474",
+        "2056476",
+        "2056478",
+        "2056480",
+        "2056482",
+        "2056484",
+        "2056486",
+        "2056488",
+        "2056490",
+        "2056492",
+        "2056494",
+        "2056496",
+        "2056498",
+        "2056500",
+        "2056502",
+        "2056504",
+        "2056506",
+        "2056508",
+        "2056510",
+        "2566608",
+        "2566610",
+        "2566613",
+        "2566615",
+        "2566617",
+        "2566619"
+      ],
+      "setid": "5d378add-f13d-40f2-99dc-0f2340ab44b7",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "TIROSINT SOL (LEVOTHYROXINE SODIUM) SOLUTION [IBSA PHARMA INC.]",
+      "upload_date": "2026-03-30"
+    },
+    {
+      "application_numbers": [
+        "NDA021116"
+      ],
+      "brand_names": [
+        "levothyroxine sodium"
+      ],
+      "combination": false,
+      "home_inn": "levothyroxine",
+      "ingredients": [
+        "LEVOTHYROXINE SODIUM"
+      ],
+      "labeler": "Alvogen, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2019-05-07",
+      "moieties": [
+        "LEVOTHYROXINE"
+      ],
+      "product_ndcs": [
+        "47781-640",
+        "47781-643",
+        "47781-646",
+        "47781-649",
+        "47781-651",
+        "47781-654",
+        "47781-657",
+        "47781-659",
+        "47781-662",
+        "47781-665",
+        "47781-668",
+        "47781-671",
+        "47781-721",
+        "47781-728"
+      ],
+      "rxcui": [
+        "892246",
+        "892251",
+        "892255",
+        "966220",
+        "966221",
+        "966222",
+        "966224",
+        "966225",
+        "966248",
+        "966249",
+        "966253",
+        "966270"
+      ],
+      "setid": "4ddcaec1-a58f-340b-9bc1-bbe048b8c885",
+      "source": "dailymed-title-match",
+      "spl_version": 10,
+      "title": "LEVOTHYROXINE SODIUM TABLET [ALVOGEN, INC.]",
+      "upload_date": "2026-09-17"
+    },
+    {
+      "application_numbers": [
+        "NDA214253"
+      ],
+      "brand_names": [
+        "Levothyroxine Sodium"
+      ],
+      "combination": false,
+      "home_inn": "levothyroxine",
+      "ingredients": [
+        "LEVOTHYROXINE SODIUM"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-11-15",
+      "moieties": [
+        "LEVOTHYROXINE"
+      ],
+      "product_ndcs": [
+        "24201-002"
+      ],
+      "rxcui": [
+        "2621123"
+      ],
+      "setid": "6279390b-ee61-4ef9-ac15-25537ca783c1",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "LEVOTHYROXINE SODIUM INJECTION, SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2025-05-22"
+    },
+    {
+      "application_numbers": [
+        "NDA214047"
+      ],
+      "brand_names": [
+        "THYQUIDITY"
+      ],
+      "combination": false,
+      "home_inn": "levothyroxine",
+      "ingredients": [
+        "LEVOTHYROXINE SODIUM"
+      ],
+      "labeler": "Oliva Therapeutics, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-07-01",
+      "moieties": [
+        "LEVOTHYROXINE"
+      ],
+      "product_ndcs": [
+        "82685-360"
+      ],
+      "rxcui": [
+        "2473276",
+        "2473282"
+      ],
+      "setid": "0c839877-50e4-455f-9b6c-462efb09cb96",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "THYQUIDITY (LEVOTHYROXINE SODIUM) SOLUTION [OLIVA THERAPEUTICS, LLC]",
+      "upload_date": "2025-07-17"
+    },
+    {
+      "application_numbers": [
+        "NDA021210"
+      ],
+      "brand_names": [
+        "Levothyroxine Sodium"
+      ],
+      "combination": false,
+      "home_inn": "levothyroxine",
+      "ingredients": [
+        "LEVOTHYROXINE SODIUM"
+      ],
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2003-12-01",
+      "moieties": [
+        "LEVOTHYROXINE"
+      ],
+      "product_ndcs": [
+        "69238-1830",
+        "69238-1831",
+        "69238-1832",
+        "69238-1833",
+        "69238-1834",
+        "69238-1835",
+        "69238-1836",
+        "69238-1837",
+        "69238-1838",
+        "69238-1839",
+        "69238-1840",
+        "69238-1841"
+      ],
+      "rxcui": [
+        "892246",
+        "892251",
+        "892255",
+        "966220",
+        "966221",
+        "966222",
+        "966224",
+        "966225",
+        "966248",
+        "966249",
+        "966253",
+        "966270"
+      ],
+      "setid": "fca88c97-5cd4-4834-ba87-deb5bd637788",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "LEVOTHYROXINE SODIUM TABLET [AMNEAL PHARMACEUTICALS NY LLC]",
+      "upload_date": "2024-12-09"
+    },
+    {
+      "application_numbers": [
+        "NDA021342"
+      ],
+      "brand_names": [
+        "Levothyroxine Sodium"
+      ],
+      "combination": false,
+      "home_inn": "levothyroxine",
+      "ingredients": [
+        "LEVOTHYROXINE SODIUM"
+      ],
+      "labeler": "Lannett Company, Inc",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2020-08-03",
+      "moieties": [
+        "LEVOTHYROXINE"
+      ],
+      "product_ndcs": [
+        "0527-3280",
+        "0527-3281",
+        "0527-3282",
+        "0527-3283",
+        "0527-3284",
+        "0527-3285",
+        "0527-3286",
+        "0527-3287",
+        "0527-3288",
+        "0527-3289",
+        "0527-3290",
+        "0527-3291"
+      ],
+      "rxcui": [
+        "892246",
+        "892251",
+        "892255",
+        "966220",
+        "966221",
+        "966222",
+        "966224",
+        "966225",
+        "966248",
+        "966249",
+        "966253",
+        "966270"
+      ],
+      "setid": "a8db0f7d-8863-9309-e053-2995a90a284a",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "LEVOTHYROXINE SODIUM TABLET [LANNETT COMPANY, INC]",
+      "upload_date": "2026-01-12"
+    },
+    {
+      "application_numbers": [
+        "NDA021924"
+      ],
+      "brand_names": [
+        "Levothyroxine Sodium"
+      ],
+      "combination": false,
+      "home_inn": "levothyroxine",
+      "ingredients": [
+        "LEVOTHYROXINE SODIUM"
+      ],
+      "labeler": "YARAL Pharma Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2023-03-01",
+      "moieties": [
+        "LEVOTHYROXINE"
+      ],
+      "product_ndcs": [
+        "82347-0005",
+        "82347-0010",
+        "82347-0015",
+        "82347-0020",
+        "82347-0025",
+        "82347-0030",
+        "82347-0035",
+        "82347-0040",
+        "82347-0045",
+        "82347-0050",
+        "82347-0055",
+        "82347-0060"
+      ],
+      "rxcui": [
+        "905451",
+        "905455",
+        "905458",
+        "905462",
+        "966404",
+        "966405",
+        "966406",
+        "966407",
+        "966412",
+        "966413",
+        "1923047",
+        "1923050"
+      ],
+      "setid": "d28d7202-1278-0486-e053-2995a90af286",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "LEVOTHYROXINE SODIUM CAPSULE [YARAL PHARMA INC.]",
+      "upload_date": "2026-03-27"
+    },
+    {
+      "application_numbers": [
+        "ANDA208749"
+      ],
+      "brand_names": [
+        "Levothyroxine Sodium"
+      ],
+      "combination": false,
+      "home_inn": "levothyroxine",
+      "ingredients": [
+        "LEVOTHYROXINE SODIUM ANHYDROUS"
+      ],
+      "labeler": "MAIA Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-12-27",
+      "moieties": [
+        "LEVOTHYROXINE"
+      ],
+      "product_ndcs": [
+        "70511-111",
+        "70511-112",
+        "70511-113"
+      ],
+      "rxcui": [
+        "966219",
+        "1115267",
+        "1115269"
+      ],
+      "setid": "4e9adc35-3aba-4a0d-9c4e-7e7ee2ffdabd",
+      "source": "dailymed-title-match",
+      "spl_version": 5,
+      "title": "LEVOTHYROXINE SODIUM (LEVOTHYROXINE SODIUM ANHYDROUS) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [MAIA PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-09-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA209713"
+      ],
+      "brand_names": [
+        "Levothyroxine Sodium"
+      ],
+      "combination": false,
+      "home_inn": "levothyroxine",
+      "ingredients": [
+        "LEVOTHYROXINE SODIUM"
+      ],
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-03-20",
+      "moieties": [
+        "LEVOTHYROXINE"
+      ],
+      "product_ndcs": [
+        "68180-965",
+        "68180-966",
+        "68180-967",
+        "68180-968",
+        "68180-969",
+        "68180-970",
+        "68180-971",
+        "68180-972",
+        "68180-973",
+        "68180-974",
+        "68180-975",
+        "68180-976"
+      ],
+      "rxcui": [
+        "892246",
+        "892251",
+        "892255",
+        "966220",
+        "966221",
+        "966222",
+        "966224",
+        "966225",
+        "966248",
+        "966249",
+        "966253",
+        "966270"
+      ],
+      "setid": "18717e58-89fb-4e2f-93b6-d6ac3e988d37",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "LEVOTHYROXINE SODIUM TABLET [LUPIN PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-03-26"
+    },
+    {
+      "application_numbers": [
+        "ANDA212399"
+      ],
+      "brand_names": [
+        "Levothyroxine sodium"
+      ],
+      "combination": false,
+      "home_inn": "levothyroxine",
+      "ingredients": [
+        "LEVOTHYROXINE SODIUM"
+      ],
+      "labeler": "Accord Healthcare Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-11-25",
+      "moieties": [
+        "LEVOTHYROXINE"
+      ],
+      "product_ndcs": [
+        "16729-447",
+        "16729-448",
+        "16729-449",
+        "16729-450",
+        "16729-451",
+        "16729-452",
+        "16729-453",
+        "16729-454",
+        "16729-455",
+        "16729-456",
+        "16729-457",
+        "16729-458"
+      ],
+      "rxcui": [
+        "892246",
+        "892251",
+        "892255",
+        "966220",
+        "966221",
+        "966222",
+        "966224",
+        "966225",
+        "966248",
+        "966249",
+        "966253",
+        "966270"
+      ],
+      "setid": "a6233381-3043-4e9a-aaa6-a6b105e5142b",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "LEVOTHYROXINE SODIUM TABLET [ACCORD HEALTHCARE INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "NDA021402"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "SYNTHROID"
+      ],
+      "first_posted": "2009-12-03",
+      "found_by": "SYNTHROID",
+      "labeler": "Caremark L.L.C.",
+      "labeler_unverified": false,
+      "last_posted": "2010-01-13",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2010-07-15",
+        "2010-07-21",
+        "2010-07-23",
+        "2010-07-24",
+        "2010-07-27",
+        "2010-07-28",
+        "2010-08-05",
+        "2010-08-18"
+      ],
+      "product_ndcs": [
+        "0074-4341",
+        "0074-4552",
+        "0074-5182",
+        "0074-6594",
+        "0074-6624",
+        "0074-7068",
+        "0074-7069",
+        "0074-7070",
+        "0074-7148",
+        "0074-9296",
+        "0339-6348",
+        "0339-6349",
+        "0339-6350",
+        "0339-6351",
+        "0339-6352",
+        "0339-6353",
+        "0339-6354",
+        "0339-6355",
+        "0339-6356",
+        "0339-6357"
+      ],
+      "rxcui": [],
+      "setid": "1ef52f99-749c-483d-bf45-e3916738cb9a",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "1e11ad30-1041-4520-10b0-8f9d30d30fcc"
+      ],
+      "title": "SYNTHROID (levothyroxine sodium tablets) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA021342"
+      ],
+      "archived_versions": 15,
+      "brand_names": [
+        "LEVO T"
+      ],
+      "first_posted": "2015-10-30",
+      "found_by": "LEVO-T",
+      "labeler": "Neolpharma, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2026-07-09",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-12-31"
+      ],
+      "product_ndcs": [
+        "55466-104",
+        "55466-105",
+        "55466-106",
+        "55466-107",
+        "55466-108",
+        "55466-109",
+        "55466-110",
+        "55466-111",
+        "55466-112",
+        "55466-113",
+        "55466-114",
+        "55466-115"
+      ],
+      "rxcui": [],
+      "setid": "2085385a-7fe4-5bfe-e054-00144ff88e88",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "a8db0f7d-8863-9309-e053-2995a90a284a"
+      ],
+      "title": "LEVO-T (levothyroxine sodium) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA214047"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "THYQUIDITY"
+      ],
+      "first_posted": "2021-02-16",
+      "found_by": "THYQUIDITY",
+      "labeler": "VistaPharm, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2022-09-16",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-07-31"
+      ],
+      "product_ndcs": [
+        "66689-105"
+      ],
+      "rxcui": [],
+      "setid": "67dbca4d-1aea-48f8-a013-c14d5dc75f50",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "0c839877-50e4-455f-9b6c-462efb09cb96"
+      ],
+      "title": "THYQUIDITY (levothyroxine sodium) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA021210"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "UNITHROID"
+      ],
+      "first_posted": "2012-03-09",
+      "found_by": "UNITHROID",
+      "labeler": "Lannett Company, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2022-08-04",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-08-02"
+      ],
+      "product_ndcs": [
+        "0527-1370",
+        "0527-1371",
+        "0527-1372",
+        "0527-1373",
+        "0527-1374",
+        "0527-1375",
+        "0527-1376",
+        "0527-1377",
+        "0527-1378",
+        "0527-1379",
+        "0527-1380",
+        "0527-1639"
+      ],
+      "rxcui": [],
+      "setid": "70df9c08-665f-4b12-9b11-e5521ebca3ea",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "07562e72-7eaa-4ce6-94f0-e08814787e50",
+        "fca88c97-5cd4-4834-ba87-deb5bd637788"
+      ],
+      "title": "UNITHROID (levothyroxine sodium) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA215809"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "ERMEZA"
+      ],
+      "first_posted": "2022-12-06",
+      "found_by": "ERMEZA",
+      "labeler": "Viatris Specialty LLC",
+      "labeler_unverified": false,
+      "last_posted": "2025-11-18",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2026-07-31"
+      ],
+      "product_ndcs": [
+        "49502-378"
+      ],
+      "rxcui": [],
+      "setid": "8ceeadb4-18be-46c7-9204-68b4edfbb96b",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ERMEZA (levothyroxine sodium) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA021924",
+        "NDA022121"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "TIROSINT"
+      ],
+      "first_posted": "2007-12-12",
+      "found_by": "TIROSINT",
+      "labeler": "IBSA Institut Biochimique SA",
+      "labeler_unverified": true,
+      "last_posted": "2011-02-08",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "25121-001",
+        "25121-002",
+        "25121-003",
+        "25121-004",
+        "25121-005",
+        "25121-006",
+        "25121-007",
+        "25121-008",
+        "25121-009",
+        "25121-010"
+      ],
+      "rxcui": [],
+      "setid": "a7572a87-bf42-4597-b8db-687c211e1d41",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "7a7ade79-0165-4e31-b84e-667416c00c7e",
+        "d28d7202-1278-0486-e053-2995a90af286"
+      ],
+      "title": "TIROSINT (levothyroxine sodium) capsule"
+    },
+    {
+      "application_numbers": [
+        "NDA214047"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "THYQUIDITY"
+      ],
+      "first_posted": "2021-02-16",
+      "found_by": "THYQUIDITY",
+      "labeler": "GALENICA S.A.",
+      "labeler_unverified": true,
+      "last_posted": "2021-02-16",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "81116-100"
+      ],
+      "rxcui": [],
+      "setid": "b5821ff7-e2b1-1ada-e053-2995a90aa520",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "0c839877-50e4-455f-9b6c-462efb09cb96"
+      ],
+      "title": "THYQUIDITY (levothyroxine sodium) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA021292"
+      ],
+      "archived_versions": 9,
+      "brand_names": [
+        "EUTHYROX"
+      ],
+      "first_posted": "2018-12-04",
+      "found_by": "EUTHYROX",
+      "labeler": "Provell Pharmaceuticals, LLC",
+      "labeler_unverified": true,
+      "last_posted": "2026-02-06",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2026-02-28",
+        "2026-03-31",
+        "2026-08-31",
+        "2026-09-30"
+      ],
+      "product_ndcs": [
+        "72305-025",
+        "72305-050",
+        "72305-075",
+        "72305-088",
+        "72305-100",
+        "72305-112",
+        "72305-125",
+        "72305-137",
+        "72305-150",
+        "72305-175",
+        "72305-200"
+      ],
+      "rxcui": [],
+      "setid": "bc3c6830-ba68-4ba3-9896-a12d0ad0b275",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "EUTHYROX (levothyroxine sodium) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA214047"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "THYQUIDITY"
+      ],
+      "first_posted": "2023-04-06",
+      "found_by": "THYQUIDITY",
+      "labeler": "Azurity Pharmaceuticals, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2025-04-10",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-10-31"
+      ],
+      "product_ndcs": [
+        "52652-1950"
+      ],
+      "rxcui": [],
+      "setid": "c17ec992-a122-4cd9-8469-d91255c32440",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "0c839877-50e4-455f-9b6c-462efb09cb96"
+      ],
+      "title": "THYQUIDITY (levothyroxine sodium) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA021924"
+      ],
+      "archived_versions": 16,
+      "brand_names": [
+        "TIROSINT"
+      ],
+      "first_posted": "2010-03-17",
+      "found_by": "TIROSINT",
+      "labeler": "Akrimax Pharmaceuticals, LLC",
+      "labeler_unverified": true,
+      "last_posted": "2020-09-16",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2020-01-31"
+      ],
+      "product_ndcs": [
+        "24090-490",
+        "24090-491",
+        "24090-492",
+        "24090-493",
+        "24090-494",
+        "24090-495",
+        "24090-496",
+        "24090-497",
+        "24090-498",
+        "24090-499"
+      ],
+      "rxcui": [],
+      "setid": "f4d851f6-6bf5-4ed5-8d3a-1646773c4d40",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "7a7ade79-0165-4e31-b84e-667416c00c7e",
+        "d28d7202-1278-0486-e053-2995a90af286"
+      ],
+      "title": "TIROSINT (levothyroxine sodium) capsule"
+    },
+    {
+      "application_numbers": [
+        "NDA021301"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "LEVOXYL"
+      ],
+      "first_posted": "2010-01-28",
+      "found_by": "LEVOXYL",
+      "labeler": "Caremark L.L.C.",
+      "labeler_unverified": false,
+      "last_posted": "2010-01-28",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2010-09-30",
+        "2010-10-31",
+        "2010-12-31",
+        "2011-01-31",
+        "2011-02-28"
+      ],
+      "product_ndcs": [
+        "0339-6467",
+        "0339-6468",
+        "0339-6469",
+        "0339-6470",
+        "0339-6471",
+        "0339-6472",
+        "0339-6473",
+        "0339-6474",
+        "60793-850",
+        "60793-851",
+        "60793-852",
+        "60793-853",
+        "60793-854",
+        "60793-855",
+        "60793-856",
+        "60793-858"
+      ],
+      "rxcui": [],
+      "setid": "f865abd1-f2dc-4886-b921-7ad04af51f04",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "758588c3-c63e-491b-0aa2-4f50d80cb174"
+      ],
+      "title": "LEVOXYL (levothyroxine sodium) tablet"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "ENDO USA, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "9d815416-11c9-470e-a82f-89b0bf232e12"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "ce990712-49c1-4f66-9ee4-c770e8ec394c"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "f88f44d8-2f18-4155-9d78-6323d19fbafe"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "388a1f15-8c1c-46a5-997f-7f326f696b59"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "50b1c8a4-75b6-49c8-80fc-3841ee80b183"
+    },
+    {
+      "combination": false,
+      "labeler": "Teva Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "60cadfd7-82b5-4207-97e1-1dd0655efb27"
+    },
+    {
+      "combination": false,
+      "labeler": "Piramal Critical Care, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "76139990-1355-cfb6-e053-2991aa0ace5b"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b8c20f76-3ee6-4b29-b77f-ed4ad1baaed9"
+    },
+    {
+      "combination": false,
+      "labeler": "XLCare Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "51a27110-e787-409b-98ba-c6471d0ad5cf"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c760d0cc-2245-4914-8c67-d536c41ac90f"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bf8a952c-f05b-4814-b55a-ed04be015269"
+    },
+    {
+      "combination": false,
+      "labeler": "Fosun Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3361138a-6e6f-e8df-e063-6294a90af2de"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b1ba1c7d-371a-4aa8-bee8-dd29b5e7da7e"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f57e9b19-6f17-4520-80fc-511322cc56c9"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f8a8dab3-3bd5-4238-b040-c42aa506ff73"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "58f4dc90-3648-49dc-a7e1-baf918a773b5"
+    },
+    {
+      "combination": false,
+      "labeler": "ONESOURCE SPECIALTY PHARMA LIMITED",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ae9954a5-e196-449c-abea-ebe4afbee517"
+    }
+  ]
+}

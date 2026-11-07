@@ -1,0 +1,496 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/004534",
+      "eu_number": "EU/1/18/1302",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-004534",
+      "mah": "Orphelia Pharma S.A.S.",
+      "marketing_authorisation_date": "2018-09-20",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/kigabeq",
+      "name": "Kigabeq",
+      "record_from": "2018-09-20",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 5
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-004534",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "VIGABATRIN"
+  ],
+  "inn": "vigabatrin",
+  "name": "VIGABATRIN",
+  "rank": 324,
+  "rxcui": [
+    "199521",
+    "250820",
+    "860895",
+    "860898",
+    "2047868",
+    "2685217",
+    "2685223"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 24,
+    "approval_holders": 16,
+    "earliest_marketing_start": "2009-08-21",
+    "latest_label_update": "2026-10-15",
+    "nda_bla_applications": 3,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "VIGABATRIN",
+      "unii": "GR120KRT6K"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020427"
+      ],
+      "brand_names": [
+        "SABRIL"
+      ],
+      "combination": false,
+      "home_inn": "vigabatrin",
+      "ingredients": [
+        "VIGABATRIN"
+      ],
+      "labeler": "Lundbeck Pharmaceuticals LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2009-08-21",
+      "moieties": [
+        "VIGABATRIN"
+      ],
+      "product_ndcs": [
+        "67386-111"
+      ],
+      "rxcui": [
+        "199521",
+        "860895"
+      ],
+      "setid": "a5d389d2-d0e1-4395-a2a2-b552808e7f98",
+      "source": "openfda",
+      "spl_version": 40,
+      "title": "SABRIL (VIGABATRIN) TABLET, FILM COATED [LUNDBECK PHARMACEUTICALS LLC]",
+      "upload_date": "2025-12-17"
+    },
+    {
+      "application_numbers": [
+        "NDA022006"
+      ],
+      "brand_names": [
+        "SABRIL"
+      ],
+      "combination": false,
+      "home_inn": "vigabatrin",
+      "ingredients": [
+        "VIGABATRIN"
+      ],
+      "labeler": "Lundbeck Pharmaceuticals LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2009-08-21",
+      "moieties": [
+        "VIGABATRIN"
+      ],
+      "product_ndcs": [
+        "67386-211"
+      ],
+      "rxcui": [
+        "250820",
+        "860898"
+      ],
+      "setid": "a88ac1b4-e2c9-45c0-b321-4785902172e3",
+      "source": "openfda",
+      "spl_version": 46,
+      "title": "SABRIL (VIGABATRIN) POWDER, FOR SOLUTION [LUNDBECK PHARMACEUTICALS LLC]",
+      "upload_date": "2025-12-17"
+    },
+    {
+      "application_numbers": [
+        "NDA217684"
+      ],
+      "brand_names": [
+        "VIGAFYDE"
+      ],
+      "combination": false,
+      "home_inn": "vigabatrin",
+      "ingredients": [
+        "VIGABATRIN"
+      ],
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-06-18",
+      "moieties": [
+        "VIGABATRIN"
+      ],
+      "product_ndcs": [
+        "80789-003"
+      ],
+      "rxcui": [
+        "2685217",
+        "2685223"
+      ],
+      "setid": "8d3d6316-33ab-41e8-9485-4495c218be56",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "VIGAFYDE (VIGABATRIN) SOLUTION [UPSHER-SMITH LABORATORIES, LLC]",
+      "upload_date": "2026-03-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA208218"
+      ],
+      "brand_names": [
+        "VIGABATRIN"
+      ],
+      "combination": false,
+      "home_inn": "vigabatrin",
+      "ingredients": [
+        "VIGABATRIN"
+      ],
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-04-27",
+      "moieties": [
+        "VIGABATRIN"
+      ],
+      "product_ndcs": [
+        "49884-358"
+      ],
+      "rxcui": [
+        "250820"
+      ],
+      "setid": "e7cbc0a5-8c28-4451-9176-b608e228ba66",
+      "source": "dailymed-title-match",
+      "spl_version": 30,
+      "title": "VIGABATRIN POWDER, FOR SOLUTION [PAR HEALTH USA, LLC]",
+      "upload_date": "2026-10-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA210155"
+      ],
+      "brand_names": [
+        "Vigabatrin"
+      ],
+      "combination": false,
+      "home_inn": "vigabatrin",
+      "ingredients": [
+        "VIGABATRIN"
+      ],
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-03-19",
+      "moieties": [
+        "VIGABATRIN"
+      ],
+      "product_ndcs": [
+        "69238-1425"
+      ],
+      "rxcui": [
+        "250820"
+      ],
+      "setid": "5b8fb137-848b-45fd-9107-a6db5a675360",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "VIGABATRIN FOR SOLUTION [AMNEAL PHARMACEUTICALS NY LLC]",
+      "upload_date": "2024-01-01"
+    },
+    {
+      "application_numbers": [
+        "ANDA210196"
+      ],
+      "brand_names": [
+        "VIGADRONE"
+      ],
+      "combination": false,
+      "home_inn": "vigabatrin",
+      "ingredients": [
+        "VIGABATRIN"
+      ],
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-06-21",
+      "moieties": [
+        "VIGABATRIN"
+      ],
+      "product_ndcs": [
+        "0245-0556"
+      ],
+      "rxcui": [
+        "250820",
+        "2047868"
+      ],
+      "setid": "5e5e7554-d0f4-47f7-a434-cc5ca5a9826f",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "VIGADRONE (VIGABATRIN) POWDER, FOR SOLUTION [UPSHER-SMITH LABORATORIES, LLC]",
+      "upload_date": "2026-06-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA211481"
+      ],
+      "brand_names": [
+        "Vigabatrin"
+      ],
+      "combination": false,
+      "home_inn": "vigabatrin",
+      "ingredients": [
+        "VIGABATRIN"
+      ],
+      "labeler": "Dr. Reddys Laboratories Inc.,",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-11-21",
+      "moieties": [
+        "VIGABATRIN"
+      ],
+      "product_ndcs": [
+        "43598-697"
+      ],
+      "rxcui": [
+        "250820"
+      ],
+      "setid": "f6be436e-46c7-e9ab-0fcf-e8d04dc12b72",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "VIGABATRIN POWDER, FOR SOLUTION [DR. REDDY&#146;S LABORATORIES INC.,]",
+      "upload_date": "2024-06-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA209822"
+      ],
+      "brand_names": [
+        "Vigabatrin"
+      ],
+      "combination": false,
+      "home_inn": "vigabatrin",
+      "ingredients": [
+        "VIGABATRIN"
+      ],
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-02-06",
+      "moieties": [
+        "VIGABATRIN"
+      ],
+      "product_ndcs": [
+        "0591-3851"
+      ],
+      "rxcui": [
+        "199521"
+      ],
+      "setid": "8dc7bd15-2636-4d58-b651-dd117ca43dbd",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "VIGABATRIN TABLET, FILM COATED [ACTAVIS PHARMA, INC.]",
+      "upload_date": "2025-05-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA211592"
+      ],
+      "brand_names": [
+        "VIGABATRIN"
+      ],
+      "combination": false,
+      "home_inn": "vigabatrin",
+      "ingredients": [
+        "VIGABATRIN"
+      ],
+      "labeler": "Cipla USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-12-04",
+      "moieties": [
+        "VIGABATRIN"
+      ],
+      "product_ndcs": [
+        "69097-964"
+      ],
+      "rxcui": [
+        "250820"
+      ],
+      "setid": "823cc915-0350-4780-85ed-cd1c338e429d",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "VIGABATRIN POWDER, FOR SOLUTION [CIPLA USA, INC.]",
+      "upload_date": "2022-05-11"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ee835fb6-2b2b-40c4-b6d7-0ad0e790cda8"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bda491b6-47ba-400b-9816-b6d15c6e2683"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddys Laboratories Inc.,",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0afdc84c-f8ec-330a-31c9-fac4ed256931"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c97ce40c-1c5a-479d-9188-5ce03cf7e065"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6c0bf4fb-b234-4053-9163-1e8d0142d718"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4aaea88b-e0fd-45e3-bb02-604bf8ee9b5b"
+    },
+    {
+      "combination": false,
+      "labeler": "Edenbridge Pharmaceuticals LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "93ba3894-fd97-4432-9f2d-e7050371e91f"
+    },
+    {
+      "combination": false,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "082d818a-4f4e-4675-98c6-91db0294e63c"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5ed8d293-b7d8-4c66-9c31-8075e6f99092"
+    },
+    {
+      "combination": false,
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "01f7f049-78c2-47c2-a66e-ec662ba48a98"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6d3fc853-1b2d-47ad-a4f2-f11505601bc2"
+    },
+    {
+      "combination": false,
+      "labeler": "Carnegie Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8406bd5a-8887-4579-a11e-5ab449c58963"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e9c99000-fc0c-4083-b620-ba9ac821f8ac"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9791494f-492b-487a-8211-7747fb57923e"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cd5ebc7a-8d5b-46b4-ad9b-e4a25fa3e26c"
+    }
+  ]
+}

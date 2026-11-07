@@ -1,0 +1,1364 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "BETAMETHASONE ACETATE",
+    "BETAMETHASONE DIPROPIONATE",
+    "BETAMETHASONE SODIUM PHOSPHATE",
+    "BETAMETHASONE VALERATE"
+  ],
+  "inn": "betamethasone",
+  "name": "BETAMETHASONE",
+  "rank": 14,
+  "rxcui": [
+    "197405",
+    "197407",
+    "197408",
+    "197409",
+    "238920",
+    "240209",
+    "578803",
+    "578806",
+    "833461",
+    "833463",
+    "848180",
+    "848200",
+    "848208",
+    "1716094",
+    "1716099",
+    "1738536",
+    "1738541",
+    "2471873",
+    "2471878"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 57,
+    "approval_holders": 25,
+    "earliest_marketing_start": "1983-03-24",
+    "latest_label_update": "2026-10-28",
+    "nda_bla_applications": 12,
+    "repackagers": 11
+  },
+  "unii": [
+    {
+      "ingredient": "BETAMETHASONE DIPROPIONATE",
+      "unii": "826Y60901U"
+    },
+    {
+      "ingredient": "BETAMETHASONE VALERATE",
+      "unii": "9IFA5XM7R2"
+    }
+  ],
+  "unii_unresolved": [
+    "BETAMETHASONE ACETATE",
+    "BETAMETHASONE SODIUM PHOSPHATE"
+  ],
+  "us": [
+    {
+      "application_numbers": [
+        "ANDA070069",
+        "NDA018642"
+      ],
+      "brand_names": [
+        "Betamethasone Valerate"
+      ],
+      "combination": false,
+      "home_inn": "betamethasone",
+      "ingredients": [
+        "BETAMETHASONE VALERATE"
+      ],
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA",
+        "NDA"
+      ],
+      "marketing_start": "1983-03-24",
+      "moieties": [
+        "BETAMETHASONE"
+      ],
+      "product_ndcs": [
+        "0713-0326",
+        "0713-0327"
+      ],
+      "rxcui": [
+        "197407",
+        "197409"
+      ],
+      "setid": "784476d2-5e5c-fdba-a677-8973a777b5ef",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "BETAMETHASONE VALERATE CREAM BETAMETHASONE VALERATE OINTMENT [COSETTE PHARMACEUTICALS, INC.]",
+      "upload_date": "2022-06-16"
+    },
+    {
+      "application_numbers": [
+        "NDA018861",
+        "NDA018865",
+        "NDA018866"
+      ],
+      "brand_names": [
+        "Betamethasone Valerate"
+      ],
+      "combination": false,
+      "home_inn": "betamethasone",
+      "ingredients": [
+        "BETAMETHASONE VALERATE"
+      ],
+      "labeler": "E. Fougera & Co. a division of Fougera Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1983-08-31",
+      "moieties": [
+        "BETAMETHASONE"
+      ],
+      "product_ndcs": [
+        "0168-0033",
+        "0168-0040",
+        "0168-0041"
+      ],
+      "rxcui": [
+        "197407",
+        "197408",
+        "197409"
+      ],
+      "setid": "0b386ccc-a2d4-4d18-a2d7-e46ff894c674",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "BETAMETHASONE VALERATE CREAM BETAMETHASONE VALERATE OINTMENT BETAMETHASONE VALERATE LOTION [E. FOUGERA & CO. A DIVISION OF FOUGERA PHARMACEUTICALS, LLC]",
+      "upload_date": "2026-02-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA070275",
+        "NDA019137"
+      ],
+      "brand_names": [
+        "Betamethasone Dipropionate"
+      ],
+      "combination": false,
+      "home_inn": "betamethasone",
+      "ingredients": [
+        "BETAMETHASONE DIPROPIONATE"
+      ],
+      "labeler": "E. Fougera & Co. a division of Fougera Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA",
+        "NDA"
+      ],
+      "marketing_start": "1984-06-26",
+      "moieties": [
+        "BETAMETHASONE"
+      ],
+      "product_ndcs": [
+        "0168-0055",
+        "0168-0057"
+      ],
+      "rxcui": [
+        "238920",
+        "240209"
+      ],
+      "setid": "97dde5f5-a865-4af2-b562-8da72c8475f3",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "BETAMETHASONE DIPROPIONATE CREAM BETAMETHASONE DIPROPIONATE LOTION [E. FOUGERA & CO. A DIVISION OF FOUGERA PHARMACEUTICALS, LLC]",
+      "upload_date": "2026-08-24"
+    },
+    {
+      "application_numbers": [
+        "NDA019141"
+      ],
+      "brand_names": [
+        "Betamethasone Dipropionate"
+      ],
+      "combination": false,
+      "home_inn": "betamethasone",
+      "ingredients": [
+        "BETAMETHASONE DIPROPIONATE"
+      ],
+      "labeler": "E. Fougera & Co. a division of Fougera Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1984-09-04",
+      "moieties": [
+        "BETAMETHASONE"
+      ],
+      "product_ndcs": [
+        "0168-0056"
+      ],
+      "rxcui": [
+        "197405"
+      ],
+      "setid": "0173ed23-9f7c-466e-9eba-f6859d05f987",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "BETAMETHASONE DIPROPIONATE OINTMENT [E. FOUGERA & CO. A DIVISION OF FOUGERA PHARMACEUTICALS, LLC]",
+      "upload_date": "2026-08-14"
+    },
+    {
+      "application_numbers": [
+        "NDA018741"
+      ],
+      "brand_names": [
+        "DIPROLENE"
+      ],
+      "combination": false,
+      "home_inn": "betamethasone",
+      "ingredients": [
+        "BETAMETHASONE DIPROPIONATE"
+      ],
+      "labeler": "Organon LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-06-01",
+      "moieties": [
+        "BETAMETHASONE"
+      ],
+      "product_ndcs": [
+        "78206-124"
+      ],
+      "rxcui": [
+        "848180",
+        "848200"
+      ],
+      "setid": "0b9543ad-2ca7-430d-aef9-81c376dc2e6c",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "DIPROLENE (BETAMETHASONE DIPROPIONATE) OINTMENT [ORGANON LLC]",
+      "upload_date": "2025-11-21"
+    },
+    {
+      "application_numbers": [
+        "NDA014602"
+      ],
+      "brand_names": [
+        "CELESTONE SOLUSPAN"
+      ],
+      "combination": false,
+      "home_inn": "betamethasone",
+      "ingredients": [
+        "BETAMETHASONE ACETATE",
+        "BETAMETHASONE SODIUM PHOSPHATE"
+      ],
+      "labeler": "Organon LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-06-01",
+      "moieties": [
+        "BETAMETHASONE"
+      ],
+      "product_ndcs": [
+        "78206-118"
+      ],
+      "rxcui": [
+        "578803",
+        "578806"
+      ],
+      "setid": "bf78d1be-42d7-4837-92a5-49113a79278f",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "CELESTONE SOLUSPAN (BETAMETHASONE ACETATE AND BETAMETHASONE SODIUM PHOSPHATE) INJECTION, SUSPENSION [ORGANON LLC]",
+      "upload_date": "2026-03-12"
+    },
+    {
+      "application_numbers": [
+        "NDA208079"
+      ],
+      "brand_names": [
+        "Sernivo"
+      ],
+      "combination": false,
+      "home_inn": "betamethasone",
+      "ingredients": [
+        "BETAMETHASONE DIPROPIONATE"
+      ],
+      "labeler": "Primus Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-06-28",
+      "moieties": [
+        "BETAMETHASONE"
+      ],
+      "product_ndcs": [
+        "68040-714"
+      ],
+      "rxcui": [
+        "1738536",
+        "1738541"
+      ],
+      "setid": "b1b3d1b0-da9b-11eb-ad76-0800200c9a66",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "SERNIVO (BETAMETHASONE DIPROPIONATE) SPRAY [PRIMUS PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-04-27"
+    },
+    {
+      "application_numbers": [
+        "NDA022185"
+      ],
+      "brand_names": [
+        "TACLONEX"
+      ],
+      "combination": true,
+      "home_inn": "betamethasone",
+      "ingredients": [
+        "BETAMETHASONE DIPROPIONATE",
+        "CALCIPOTRIENE HYDRATE"
+      ],
+      "labeler": "LEO Pharma Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2008-06-01",
+      "moieties": [
+        "BETAMETHASONE",
+        "CALCIPOTRIENE"
+      ],
+      "product_ndcs": [
+        "50222-501"
+      ],
+      "rxcui": [
+        "833461",
+        "833463"
+      ],
+      "setid": "757c914f-dd8d-43cc-a973-212d591af4af",
+      "source": "openfda",
+      "spl_version": 25,
+      "title": "TACLONEX (CALCIPOTRIENE AND BETAMETHASONE DIPROPIONATE) SUSPENSION [LEO PHARMA INC.]",
+      "upload_date": "2021-07-06"
+    },
+    {
+      "application_numbers": [
+        "NDA207589"
+      ],
+      "brand_names": [
+        "ENSTILAR"
+      ],
+      "combination": true,
+      "home_inn": "betamethasone",
+      "ingredients": [
+        "BETAMETHASONE DIPROPIONATE",
+        "CALCIPOTRIENE MONOHYDRATE"
+      ],
+      "labeler": "LEO Pharma Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2015-10-16",
+      "moieties": [
+        "BETAMETHASONE",
+        "CALCIPOTRIENE"
+      ],
+      "product_ndcs": [
+        "50222-302"
+      ],
+      "rxcui": [
+        "1716094",
+        "1716099"
+      ],
+      "setid": "d1193df2-d53f-4342-bd9d-d9cba7c89709",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "ENSTILAR (CALCIPOTRIENE AND BETAMETHASONE DIPROPIONATE) AEROSOL, FOAM [LEO PHARMA INC.]",
+      "upload_date": "2022-06-07"
+    },
+    {
+      "application_numbers": [
+        "NDA213422"
+      ],
+      "brand_names": [
+        "Wynzora"
+      ],
+      "combination": true,
+      "home_inn": "betamethasone",
+      "ingredients": [
+        "BETAMETHASONE DIPROPIONATE",
+        "CALCIPOTRIENE"
+      ],
+      "labeler": "MC2 Therapeutics Ltd",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-06-30",
+      "moieties": [
+        "BETAMETHASONE",
+        "CALCIPOTRIENE"
+      ],
+      "product_ndcs": [
+        "73499-001"
+      ],
+      "rxcui": [
+        "2471873",
+        "2471878"
+      ],
+      "setid": "36c5c818-0d40-445e-a3c0-0f46723a25e2",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "WYNZORA (CALCIPOTRIENE AND BETAMETHASONE DIPROPIONATE) CREAM [MC2 THERAPEUTICS LTD]",
+      "upload_date": "2023-12-07"
+    },
+    {
+      "application_numbers": [
+        "NDA018741"
+      ],
+      "brand_names": [
+        "Betamethasone Dipropionate"
+      ],
+      "combination": false,
+      "home_inn": "betamethasone",
+      "ingredients": [
+        "BETAMETHASONE DIPROPIONATE"
+      ],
+      "labeler": "Prasco Laboratories",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2021-06-01",
+      "moieties": [
+        "BETAMETHASONE"
+      ],
+      "product_ndcs": [
+        "66993-897"
+      ],
+      "rxcui": [
+        "848180"
+      ],
+      "setid": "f5b50c00-cc6f-4296-a9ae-b16888cef4dd",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "BETAMETHASONE DIPROPIONATE OINTMENT [PRASCO LABORATORIES]",
+      "upload_date": "2025-11-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA072041"
+      ],
+      "brand_names": [
+        "BETAMETHASONE VALERATE"
+      ],
+      "combination": false,
+      "home_inn": "betamethasone",
+      "ingredients": [
+        "BETAMETHASONE VALERATE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1988-01-06",
+      "moieties": [
+        "BETAMETHASONE"
+      ],
+      "product_ndcs": [
+        "51672-1269"
+      ],
+      "rxcui": [
+        "197407"
+      ],
+      "setid": "3c85be0f-2731-44f1-a18e-d3852d54846f",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "BETAMETHASONE VALERATE CREAM [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2025-10-06"
+    },
+    {
+      "application_numbers": [
+        "ANDA073552"
+      ],
+      "brand_names": [
+        "Betamethasone Dipropionate"
+      ],
+      "combination": false,
+      "home_inn": "betamethasone",
+      "ingredients": [
+        "BETAMETHASONE DIPROPIONATE"
+      ],
+      "labeler": "Golden State Medical Supply, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1992-04-30",
+      "moieties": [
+        "BETAMETHASONE"
+      ],
+      "product_ndcs": [
+        "51407-273"
+      ],
+      "rxcui": [
+        "238920"
+      ],
+      "setid": "9571a031-179d-7dfb-e053-2995a90aa016",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "BETAMETHASONE DIPROPIONATE CREAM [GOLDEN STATE MEDICAL SUPPLY, INC.]",
+      "upload_date": "2025-07-14"
+    },
+    {
+      "application_numbers": [
+        "ANDA071012",
+        "ANDA074304"
+      ],
+      "brand_names": [
+        "Betamethasone Dipropionate"
+      ],
+      "combination": false,
+      "home_inn": "betamethasone",
+      "ingredients": [
+        "BETAMETHASONE DIPROPIONATE"
+      ],
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1995-09-01",
+      "moieties": [
+        "BETAMETHASONE"
+      ],
+      "product_ndcs": [
+        "0472-0381",
+        "0472-0382"
+      ],
+      "rxcui": [
+        "197405"
+      ],
+      "setid": "aa3f4012-7597-422d-8bcc-00102780a152",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "BETAMETHASONE DIPROPIONATE OINTMENT [ACTAVIS PHARMA, INC.]",
+      "upload_date": "2026-08-31"
+    },
+    {
+      "application_numbers": [
+        "ANDA075373"
+      ],
+      "brand_names": [
+        "Betamethasone Dipropionate"
+      ],
+      "combination": false,
+      "home_inn": "betamethasone",
+      "ingredients": [
+        "BETAMETHASONE DIPROPIONATE"
+      ],
+      "labeler": "E. Fougera & Co. a division of Fougera Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1999-06-22",
+      "moieties": [
+        "BETAMETHASONE"
+      ],
+      "product_ndcs": [
+        "0168-0268"
+      ],
+      "rxcui": [
+        "848180"
+      ],
+      "setid": "853399f8-95a7-41f3-80e7-7ed8e3ff1a5e",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "BETAMETHASONE DIPROPIONATE OINTMENT, AUGMENTED [E. FOUGERA & CO. A DIVISION OF FOUGERA PHARMACEUTICALS, LLC]",
+      "upload_date": "2026-04-08"
+    },
+    {
+      "application_numbers": [
+        "ANDA076508"
+      ],
+      "brand_names": [
+        "Betamethasone Dipropionate"
+      ],
+      "combination": false,
+      "home_inn": "betamethasone",
+      "ingredients": [
+        "BETAMETHASONE DIPROPIONATE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2003-12-02",
+      "moieties": [
+        "BETAMETHASONE"
+      ],
+      "product_ndcs": [
+        "51672-1309"
+      ],
+      "rxcui": [
+        "848208"
+      ],
+      "setid": "e041ceb2-8bda-4703-b663-804e7b462e32",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "BETAMETHASONE DIPROPIONATE GEL [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2025-07-04"
+    },
+    {
+      "application_numbers": [
+        "NDA020934"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "LUXIQ"
+      ],
+      "first_posted": "2011-07-20",
+      "found_by": "LUXIQ",
+      "labeler": "Stiefel Laboratories Inc",
+      "labeler_unverified": true,
+      "last_posted": "2013-06-28",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-02-28"
+      ],
+      "product_ndcs": [
+        "0145-0021"
+      ],
+      "rxcui": [],
+      "setid": "02b6cc3c-3aec-47dc-8936-fdc7ce8bdb55",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "LUXIQ (betamethasone valerate) aerosol, foam"
+    },
+    {
+      "application_numbers": [
+        "NDA208079"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "SERNIVO"
+      ],
+      "first_posted": "2020-07-29",
+      "found_by": "SERNIVO",
+      "labeler": "Encore Dermatology Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2025-02-17",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-02-13"
+      ],
+      "product_ndcs": [
+        "69482-800"
+      ],
+      "rxcui": [],
+      "setid": "21ca2c66-4ad1-4b6a-9c81-77d89eeb9edd",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "b1b3d1b0-da9b-11eb-ad76-0800200c9a66"
+      ],
+      "title": "SERNIVO (betamethasone dipropionate) spray"
+    },
+    {
+      "application_numbers": [
+        "NDA022185"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "TACLONEX"
+      ],
+      "first_posted": "2008-08-08",
+      "found_by": "TACLONEX",
+      "labeler": "Allergan, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2017-08-07",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2012-02-29"
+      ],
+      "product_ndcs": [
+        "0430-3240"
+      ],
+      "rxcui": [],
+      "setid": "400922d8-1756-41ed-aa66-590eeeb0864d",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "757c914f-dd8d-43cc-a973-212d591af4af"
+      ],
+      "title": "TACLONEX SCALP (calcipotriene 0.005% and betamethasone dipropionate 0.064%) spray, metered"
+    },
+    {
+      "application_numbers": [
+        "NDA020934"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "LUXIQ"
+      ],
+      "first_posted": "2018-12-18",
+      "found_by": "LUXIQ",
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2023-03-13",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-08-31"
+      ],
+      "product_ndcs": [
+        "0378-8187"
+      ],
+      "rxcui": [],
+      "setid": "4a7c165f-034f-431a-a210-b5973fda9f10",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "LUXIQ (betamethasone valerate) aerosol, foam"
+    },
+    {
+      "application_numbers": [
+        "NDA020934"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "LUXIQ"
+      ],
+      "first_posted": "2014-05-30",
+      "found_by": "LUXIQ",
+      "labeler": "Prestium Pharma, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2018-12-19",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-11-30"
+      ],
+      "product_ndcs": [
+        "40076-021"
+      ],
+      "rxcui": [],
+      "setid": "51fe8c40-5e56-4449-8995-f227c8bb5a50",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "LUXIQ (betamethasone valerate) aerosol, foam"
+    },
+    {
+      "application_numbers": [
+        "NDA208079"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "SERNIVO"
+      ],
+      "first_posted": "2016-02-22",
+      "found_by": "SERNIVO",
+      "labeler": "Promius Pharma, LLC",
+      "labeler_unverified": true,
+      "last_posted": "2025-02-17",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-02-14"
+      ],
+      "product_ndcs": [
+        "67857-808"
+      ],
+      "rxcui": [],
+      "setid": "590cee5b-2712-4da6-99fe-5e14b44f2597",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "b1b3d1b0-da9b-11eb-ad76-0800200c9a66"
+      ],
+      "title": "SERNIVO (betamethasone dipropionate) spray"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "LUXIQ"
+      ],
+      "first_posted": "2007-03-23",
+      "found_by": "LUXIQ",
+      "labeler": "Connetics Corporation",
+      "labeler_unverified": true,
+      "last_posted": "2007-03-23",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "63032-021"
+      ],
+      "rxcui": [],
+      "setid": "5f99f845-3fba-4640-94e4-a5d67629dd3d",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "luxiq (betamethasone valerate) aerosol, foam"
+    },
+    {
+      "application_numbers": [
+        "NDA014602"
+      ],
+      "archived_versions": 13,
+      "brand_names": [
+        "CELESTONE"
+      ],
+      "first_posted": "2008-08-07",
+      "found_by": "CELESTONE",
+      "labeler": "Merck Sharp & Dohme Corp.",
+      "labeler_unverified": false,
+      "last_posted": "2022-02-17",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-02-28",
+        "2021-12-31"
+      ],
+      "product_ndcs": [
+        "0085-0566",
+        "0085-4320"
+      ],
+      "rxcui": [],
+      "setid": "7b5489a1-e30f-450f-bd2b-00d05fd52915",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "bf78d1be-42d7-4837-92a5-49113a79278f"
+      ],
+      "title": "CELESTONE SOLUSPAN (betamethasone acetate and betamethasone sodium phosphate) injection, suspension"
+    },
+    {
+      "application_numbers": [
+        "NDA014215"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "CELESTONE"
+      ],
+      "first_posted": "2007-12-10",
+      "found_by": "CELESTONE",
+      "labeler": "Merck Sharp & Dohme Corp.",
+      "labeler_unverified": false,
+      "last_posted": "2013-11-06",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-09-30"
+      ],
+      "product_ndcs": [
+        "0085-0942"
+      ],
+      "rxcui": [],
+      "setid": "8940d60f-f35c-457f-839f-2cb46c00e22e",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "CELESTONE (betamethasone) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA018741"
+      ],
+      "archived_versions": 12,
+      "brand_names": [
+        "DIPROLENE"
+      ],
+      "first_posted": "2007-12-10",
+      "found_by": "DIPROLENE",
+      "labeler": "Merck Sharp & Dohme Corp.",
+      "labeler_unverified": false,
+      "last_posted": "2022-02-17",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-12-31"
+      ],
+      "product_ndcs": [
+        "0085-0575"
+      ],
+      "rxcui": [],
+      "setid": "b1b60231-b673-47ff-8217-d342d51164fc",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "0b9543ad-2ca7-430d-aef9-81c376dc2e6c",
+        "f5b50c00-cc6f-4296-a9ae-b16888cef4dd"
+      ],
+      "title": "DIPROLENE (betamethasone dipropionate) ointment"
+    },
+    {
+      "application_numbers": [
+        "NDA019716"
+      ],
+      "archived_versions": 11,
+      "brand_names": [
+        "DIPROLENE"
+      ],
+      "first_posted": "2007-12-10",
+      "found_by": "DIPROLENE",
+      "labeler": "Merck Sharp & Dohme Corp.",
+      "labeler_unverified": false,
+      "last_posted": "2022-02-17",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-12-31"
+      ],
+      "product_ndcs": [
+        "0085-0962"
+      ],
+      "rxcui": [],
+      "setid": "dbe069ce-f93e-4f67-bcb2-dfbb932a1f15",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "DIPROLENE (betamethasone dipropionate) lotion"
+    },
+    {
+      "application_numbers": [
+        "NDA020934"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "LUXIQ"
+      ],
+      "first_posted": "2008-05-22",
+      "found_by": "LUXIQ",
+      "labeler": "Stiefel Laboratories Inc",
+      "labeler_unverified": true,
+      "last_posted": "2013-01-04",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2014-06-30"
+      ],
+      "product_ndcs": [
+        "63032-021"
+      ],
+      "rxcui": [],
+      "setid": "f08efff4-861d-43ef-9eb3-92608b32d24e",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "LUXIQ (betamethasone valerate) aerosol, foam"
+    },
+    {
+      "application_numbers": [
+        "NDA019555"
+      ],
+      "archived_versions": 11,
+      "brand_names": [
+        "DIPROLENE"
+      ],
+      "first_posted": "2008-07-25",
+      "found_by": "DIPROLENE",
+      "labeler": "Merck Sharp & Dohme Corp.",
+      "labeler_unverified": false,
+      "last_posted": "2022-02-18",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-12-31"
+      ],
+      "product_ndcs": [
+        "0085-0517"
+      ],
+      "rxcui": [],
+      "setid": "fbf56a50-741f-4d86-b995-e6f5fb454df4",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "DIPROLENE AF (betamethasone dipropionate) cream"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "000ae256-a337-4903-845b-003777a4efa8"
+    },
+    {
+      "combination": false,
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e6018480-7788-472d-a2d1-ccccffcd258e"
+    },
+    {
+      "combination": false,
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7bd2646c-f34a-4824-8f66-c41e77db19d2"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3b23a3c0-3306-4a2d-932d-25916d16dc68"
+    },
+    {
+      "combination": false,
+      "labeler": "E. Fougera & Co. a division of Fougera Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4f411e41-00dc-47cf-8517-3ff5876e1bf5"
+    },
+    {
+      "combination": false,
+      "labeler": "American Regent, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a363b861-4873-465e-8009-0e9690666224"
+    },
+    {
+      "combination": false,
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dc5dfd3e-7762-40c8-880e-c7db80d87749"
+    },
+    {
+      "combination": false,
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c9839c0a-bee5-0ef7-8933-e6231c440407"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7c96b978-25ff-44c2-bc9c-30ff5e34cffb"
+    },
+    {
+      "combination": false,
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4cc3b34f-9120-3362-0932-42d7024c8f89"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "18d80661-72ad-4a83-917f-a80ce37a5568"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "216d5b7f-4236-4882-b899-be17cb1a1584"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dc3dd2f7-38ad-4c4c-8602-29b33cc6af90"
+    },
+    {
+      "combination": false,
+      "labeler": "Viona Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9adfb030-17c3-46eb-bf85-a90cabafd367"
+    },
+    {
+      "combination": false,
+      "labeler": "TruPharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fc34987a-e803-4ac8-8a1e-9bdadd3f8b56"
+    },
+    {
+      "combination": false,
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0e56e8bc-b79e-43c6-945e-c333a599bfc8"
+    },
+    {
+      "combination": false,
+      "labeler": "Xiromed, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dee8f6d1-b0ba-3c56-f08d-eb6283b0b250"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e0e0baea-1744-4708-bda7-4ab7783a3fb4"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3b6fa573-de04-4626-a39a-dca39def6df2"
+    },
+    {
+      "combination": false,
+      "labeler": "Encube Ethicals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7e946599-2fb4-4426-bb59-fbb71d89dac8"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a4f8db3a-0aed-451c-98ba-c4ce37656792"
+    },
+    {
+      "combination": true,
+      "labeler": "Prasco Laboratories",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d9493e66-251c-426c-90a8-1bf1e526ab85"
+    },
+    {
+      "combination": true,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1c18e5fc-bf82-47bc-bfd9-8d3e503569ba"
+    },
+    {
+      "combination": true,
+      "labeler": "E. Fougera & Co. a division of Fougera Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "55db730a-df6d-4950-9c26-91b06bdcef36"
+    },
+    {
+      "combination": true,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a6ac4020-2c67-426a-8289-7e54ce43d0c9"
+    },
+    {
+      "combination": true,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e4e9f244-4a85-4c0d-9917-93182c4a6e87"
+    },
+    {
+      "combination": true,
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ba55ff2b-9cfe-40dc-9dac-718cf141c171"
+    },
+    {
+      "combination": true,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1d0ab2e6-1ab1-4d3e-ad55-7fa26446f191"
+    },
+    {
+      "combination": true,
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1eba330b-ce18-6b12-e063-6294a90a8763"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bc12c828-54ba-411d-b752-9b735f7adf63"
+    },
+    {
+      "combination": false,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ab332791-461b-4396-9b46-7f00bc04c087"
+    },
+    {
+      "combination": false,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "af8317d7-b280-4f40-ad88-802f99d33d78"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bc9ca1f4-8f40-44e1-bb2d-42ecba35d406"
+    },
+    {
+      "combination": false,
+      "labeler": "Northstar Rx LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "395d40c0-22d9-48d1-8d8e-eeaddf33c53e"
+    },
+    {
+      "combination": false,
+      "labeler": "American Regent, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "335f17e7-069d-456c-8507-26253692f2ee"
+    },
+    {
+      "combination": false,
+      "labeler": "American Regent, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "be3e57df-339a-4b7c-9528-d478af8c7855"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f531da27-2435-49a3-8992-c65240c6a7fe"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "75d70e76-023c-4a00-954d-79a697bed80f"
+    },
+    {
+      "combination": false,
+      "labeler": "Burel Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c8bda9a8-4dec-4084-84e5-4b4623390bd8"
+    },
+    {
+      "combination": true,
+      "labeler": "NORTHSTAR RX LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8d03b9ba-f7a8-4fbf-9be1-83d815c2be45"
+    },
+    {
+      "combination": true,
+      "labeler": "Perfero Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "328148a1-f32e-47a8-99ec-1614c291a450"
+    }
+  ]
+}

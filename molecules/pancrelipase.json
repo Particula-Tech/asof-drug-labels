@@ -1,0 +1,413 @@
+{
+  "biologic": true,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "PANCRELIPASE AMYLASE",
+    "PANCRELIPASE LIPASE",
+    "PANCRELIPASE PROTEASE"
+  ],
+  "inn": "pancrelipase",
+  "name": "PANCRELIPASE",
+  "rank": 122,
+  "rxcui": [
+    "855495",
+    "855499",
+    "855503",
+    "863829",
+    "863836",
+    "863841",
+    "1113042",
+    "1113046",
+    "1247379",
+    "1247381",
+    "1247386",
+    "1247388",
+    "1294122",
+    "1294128",
+    "1294481",
+    "1294483",
+    "1373325",
+    "1373327",
+    "1543004",
+    "1543006",
+    "1594671",
+    "1594673",
+    "1595290",
+    "1595292",
+    "1595455",
+    "1595457",
+    "1595460",
+    "1595462",
+    "1595471",
+    "1595473",
+    "1595476",
+    "1595478",
+    "1806919",
+    "1806921",
+    "1806924",
+    "1806926",
+    "1806929",
+    "1806931",
+    "1806964",
+    "1806966",
+    "1929116",
+    "1929118",
+    "1995477",
+    "1995479",
+    "2478453",
+    "2478455",
+    "2564410",
+    "2564412",
+    "2669470",
+    "2669472"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 5,
+    "approval_holders": 4,
+    "earliest_marketing_start": "2009-04-30",
+    "latest_label_update": "2026-07-24",
+    "nda_bla_applications": 5,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "PANCRELIPASE AMYLASE",
+      "unii": "YOJ58O116E"
+    },
+    {
+      "ingredient": "PANCRELIPASE LIPASE",
+      "unii": "8MYC33932O"
+    },
+    {
+      "ingredient": "PANCRELIPASE PROTEASE",
+      "unii": "3560D81V50"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "BLA020725"
+      ],
+      "brand_names": [
+        "Creon"
+      ],
+      "combination": false,
+      "home_inn": "pancrelipase",
+      "ingredients": [
+        "PANCRELIPASE AMYLASE",
+        "PANCRELIPASE LIPASE",
+        "PANCRELIPASE PROTEASE"
+      ],
+      "labeler": "AbbVie Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2009-04-30",
+      "moieties": [
+        "PANCRELIPASE"
+      ],
+      "product_ndcs": [
+        "0032-0045",
+        "0032-0046",
+        "0032-0047",
+        "0032-1203",
+        "0032-1206",
+        "0032-1212",
+        "0032-1224",
+        "0032-2636",
+        "0032-2637",
+        "0032-3016"
+      ],
+      "rxcui": [
+        "855495",
+        "855499",
+        "855503",
+        "863829",
+        "863836",
+        "863841",
+        "1113042",
+        "1113046",
+        "1373325",
+        "1373327"
+      ],
+      "setid": "073201aa-556d-4a70-918e-84e9616fd88d",
+      "source": "openfda",
+      "spl_version": 109,
+      "title": "CREON (PANCRELIPASE) CAPSULE, DELAYED RELEASE CREON (PANCRELIPASE) CAPSULE, DELAYED RELEASE PELLETS [ABBVIE INC.]",
+      "upload_date": "2026-07-24"
+    },
+    {
+      "application_numbers": [
+        "BLA022523"
+      ],
+      "brand_names": [
+        "PANCREAZE"
+      ],
+      "combination": false,
+      "home_inn": "pancrelipase",
+      "ingredients": [
+        "PANCRELIPASE AMYLASE",
+        "PANCRELIPASE LIPASE",
+        "PANCRELIPASE PROTEASE"
+      ],
+      "labeler": "VIVUS LLC",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2010-04-12",
+      "moieties": [
+        "PANCRELIPASE"
+      ],
+      "product_ndcs": [
+        "62541-401",
+        "62541-402",
+        "62541-403",
+        "62541-404",
+        "62541-405",
+        "62541-406"
+      ],
+      "rxcui": [
+        "1806919",
+        "1806921",
+        "1806924",
+        "1806926",
+        "1806929",
+        "1806931",
+        "1806964",
+        "1806966",
+        "2478453",
+        "2478455",
+        "2564410",
+        "2564412"
+      ],
+      "setid": "e8f5d2fe-728d-42af-99a6-83dddc6539c5",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "PANCREAZE (PANCRELIPASE LIPASE, PANCRELIPASE AMYLASE, AND PANCRELIPASE PROTEASE) CAPSULE, DELAYED RELEASE [VIVUS LLC]",
+      "upload_date": "2025-06-09"
+    },
+    {
+      "application_numbers": [
+        "BLA022175"
+      ],
+      "brand_names": [
+        "PERTZYE"
+      ],
+      "combination": false,
+      "home_inn": "pancrelipase",
+      "ingredients": [
+        "PANCRELIPASE AMYLASE",
+        "PANCRELIPASE LIPASE",
+        "PANCRELIPASE PROTEASE"
+      ],
+      "labeler": "Digestive Care, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2012-05-17",
+      "moieties": [
+        "PANCRELIPASE"
+      ],
+      "product_ndcs": [
+        "59767-004",
+        "59767-008",
+        "59767-016",
+        "59767-024"
+      ],
+      "rxcui": [
+        "1294122",
+        "1294128",
+        "1294481",
+        "1294483",
+        "1543004",
+        "1543006",
+        "1929116",
+        "1929118"
+      ],
+      "setid": "481eec00-9abf-11dd-b71c-0002a5d5c51b",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "PERTZYE (PANCRELIPASE) CAPSULE, DELAYED RELEASE [DIGESTIVE CARE, INC.]",
+      "upload_date": "2024-03-15"
+    },
+    {
+      "application_numbers": [
+        "BLA022210"
+      ],
+      "brand_names": [
+        "Zenpep"
+      ],
+      "combination": false,
+      "home_inn": "pancrelipase",
+      "ingredients": [
+        "PANCRELIPASE AMYLASE",
+        "PANCRELIPASE LIPASE",
+        "PANCRELIPASE PROTEASE"
+      ],
+      "labeler": "Aimmune Therapeutics, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2020-11-01",
+      "moieties": [
+        "PANCRELIPASE"
+      ],
+      "product_ndcs": [
+        "73562-110",
+        "73562-111",
+        "73562-112",
+        "73562-113",
+        "73562-114",
+        "73562-115",
+        "73562-116",
+        "73562-117"
+      ],
+      "rxcui": [
+        "1594671",
+        "1594673",
+        "1595290",
+        "1595292",
+        "1595455",
+        "1595457",
+        "1595460",
+        "1595462",
+        "1595471",
+        "1595473",
+        "1595476",
+        "1595478",
+        "1995477",
+        "1995479",
+        "2669470",
+        "2669472"
+      ],
+      "setid": "7f16f2d4-8df6-4bd7-ac10-56994fa257b0",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "ZENPEP (PANCRELIPASE LIPASE, PANCRELIPASE PROTEASE, PANCRELIPASE AMYLASE) CAPSULE, DELAYED RELEASE [AIMMUNE THERAPEUTICS, INC.]",
+      "upload_date": "2025-11-19"
+    },
+    {
+      "application_numbers": [
+        "BLA022542"
+      ],
+      "brand_names": [
+        "Viokace"
+      ],
+      "combination": false,
+      "home_inn": "pancrelipase",
+      "ingredients": [
+        "PANCRELIPASE AMYLASE",
+        "PANCRELIPASE LIPASE",
+        "PANCRELIPASE PROTEASE"
+      ],
+      "labeler": "Aimmune Therapeutics, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2021-03-01",
+      "moieties": [
+        "PANCRELIPASE"
+      ],
+      "product_ndcs": [
+        "73562-104",
+        "73562-208"
+      ],
+      "rxcui": [
+        "1247379",
+        "1247381",
+        "1247386",
+        "1247388"
+      ],
+      "setid": "58bdb8de-582d-44e6-9b72-8d5a42fdf501",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "VIOKACE (PANCRELIPASE) TABLET [AIMMUNE THERAPEUTICS, INC.]",
+      "upload_date": "2025-08-18"
+    },
+    {
+      "application_numbers": [
+        "BLA022542"
+      ],
+      "archived_versions": 8,
+      "brand_names": [
+        "VIOKACE"
+      ],
+      "first_posted": "2012-03-15",
+      "found_by": "VIOKACE",
+      "labeler": "Allergan, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2023-02-03",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_end_dates": [
+        "2022-02-28",
+        "2022-04-30"
+      ],
+      "product_ndcs": [
+        "58914-112",
+        "58914-117"
+      ],
+      "rxcui": [],
+      "setid": "d85c7e20-4e1d-43cd-a64b-ced3bda70eed",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "58bdb8de-582d-44e6-9b72-8d5a42fdf501"
+      ],
+      "title": "VIOKACE (pancrelipase) tablet"
+    },
+    {
+      "application_numbers": [
+        "BLA022210"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "ZENPEP"
+      ],
+      "first_posted": "2017-11-07",
+      "found_by": "ZENPEP",
+      "labeler": "Allergan, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2023-02-02",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_end_dates": [
+        "2019-12-31",
+        "2020-01-31",
+        "2020-02-29",
+        "2020-03-31"
+      ],
+      "product_ndcs": [
+        "0023-6110",
+        "0023-6111",
+        "0023-6112",
+        "0023-6113",
+        "0023-6114",
+        "0023-6115",
+        "0023-6116"
+      ],
+      "rxcui": [],
+      "setid": "f439e3a8-d60e-45f2-899c-d9be9b048b2d",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "7f16f2d4-8df6-4bd7-ac10-56994fa257b0"
+      ],
+      "title": "ZENPEP (pancrelipase lipase, pancrelipase protease, pancrelipase amylase) capsule, delayed release"
+    }
+  ],
+  "us_excluded": []
+}

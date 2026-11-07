@@ -1,0 +1,480 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand Briviact",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/003898",
+      "eu_number": "EU/1/15/1073",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-003898",
+      "mah": "UCB Pharma SA",
+      "marketing_authorisation_date": "2016-01-13",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/briviact-italy-nubriveo",
+      "name": "Briviact (in Italy: Nubriveo)",
+      "record_from": "2016-01-14",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 10
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-003898",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "BRIVARACETAM"
+  ],
+  "inn": "brivaracetam",
+  "name": "BRIVARACETAM",
+  "rank": 314,
+  "rxcui": [
+    "1739749",
+    "1739754",
+    "1739761",
+    "1739766",
+    "1739768",
+    "1739770",
+    "1739772",
+    "1739774",
+    "1739776",
+    "1739778",
+    "1739780",
+    "1739782",
+    "1739785",
+    "1739788"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 22,
+    "approval_holders": 17,
+    "earliest_marketing_start": "2016-05-12",
+    "latest_label_update": "2026-10-26",
+    "nda_bla_applications": 3,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "BRIVARACETAM",
+      "unii": "U863JGG2IA"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA205836",
+        "NDA205837",
+        "NDA205838"
+      ],
+      "brand_names": [
+        "Briviact"
+      ],
+      "combination": false,
+      "home_inn": "brivaracetam",
+      "ingredients": [
+        "BRIVARACETAM"
+      ],
+      "labeler": "UCB, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2016-05-12",
+      "moieties": [
+        "BRIVARACETAM"
+      ],
+      "product_ndcs": [
+        "50474-370",
+        "50474-470",
+        "50474-570",
+        "50474-670",
+        "50474-770",
+        "50474-870",
+        "50474-970"
+      ],
+      "rxcui": [
+        "1739749",
+        "1739754",
+        "1739761",
+        "1739766",
+        "1739768",
+        "1739770",
+        "1739772",
+        "1739774",
+        "1739776",
+        "1739778",
+        "1739780",
+        "1739782",
+        "1739785",
+        "1739788"
+      ],
+      "setid": "3cf2f439-0e97-443e-8e33-25ecef616f6c",
+      "source": "openfda",
+      "spl_version": 27,
+      "title": "BRIVIACT (BRIVARACETAM) TABLET, FILM COATED BRIVIACT (BRIVARACETAM) SOLUTION BRIVIACT (BRIVARACETAM) INJECTION, SUSPENSION [UCB, INC.]",
+      "upload_date": "2026-08-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA214921"
+      ],
+      "brand_names": [
+        "brivaracetam"
+      ],
+      "combination": false,
+      "home_inn": "brivaracetam",
+      "ingredients": [
+        "BRIVARACETAM"
+      ],
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-11-13",
+      "moieties": [
+        "BRIVARACETAM"
+      ],
+      "product_ndcs": [
+        "72205-267",
+        "72205-268",
+        "72205-269",
+        "72205-270",
+        "72205-271"
+      ],
+      "rxcui": [
+        "1739761",
+        "1739768",
+        "1739772",
+        "1739776",
+        "1739780"
+      ],
+      "setid": "11ca0e1d-1c0d-4357-9ebd-ee1e87185dde",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "BRIVARACETAM TABLET, FILM COATED [NOVADOZ PHARMACEUTICALS LLC]",
+      "upload_date": "2026-08-25"
+    },
+    {
+      "application_numbers": [
+        "ANDA214748"
+      ],
+      "brand_names": [
+        "brivaracetam"
+      ],
+      "combination": false,
+      "home_inn": "brivaracetam",
+      "ingredients": [
+        "BRIVARACETAM"
+      ],
+      "labeler": "SolarisPharmaCorporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-02-04",
+      "moieties": [
+        "BRIVARACETAM"
+      ],
+      "product_ndcs": [
+        "73473-904",
+        "73473-905",
+        "73473-906",
+        "73473-907",
+        "73473-908"
+      ],
+      "rxcui": [
+        "1739761",
+        "1739768",
+        "1739772",
+        "1739776",
+        "1739780"
+      ],
+      "setid": "49f726ec-e51b-7516-e063-6294a90ae684",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "BRIVARACETAM TABLET, FILM COATED [SOLARIS PHARMA CORPORATION]",
+      "upload_date": "2026-08-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA214922"
+      ],
+      "brand_names": [
+        "brivaracetam"
+      ],
+      "combination": false,
+      "home_inn": "brivaracetam",
+      "ingredients": [
+        "BRIVARACETAM"
+      ],
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-02-19",
+      "moieties": [
+        "BRIVARACETAM"
+      ],
+      "product_ndcs": [
+        "72205-033"
+      ],
+      "rxcui": [
+        "1739785"
+      ],
+      "setid": "dca92c5b-78a8-4ee1-9f06-18320ae2a2e8",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "BRIVARACETAM SOLUTION [NOVADOZ PHARMACEUTICALS LLC]",
+      "upload_date": "2026-02-26"
+    },
+    {
+      "application_numbers": [
+        "ANDA218249"
+      ],
+      "brand_names": [
+        "Brivaracetam"
+      ],
+      "combination": false,
+      "home_inn": "brivaracetam",
+      "ingredients": [
+        "BRIVARACETAM"
+      ],
+      "labeler": "Hainan Poly Pharm. Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-02-21",
+      "moieties": [
+        "BRIVARACETAM"
+      ],
+      "product_ndcs": [
+        "14335-420"
+      ],
+      "rxcui": [
+        "1739749"
+      ],
+      "setid": "3ea51292-fe03-46f5-9d9b-36986f5b7224",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "BRIVARACETAM INJECTION [HAINAN POLY PHARM. CO., LTD.]",
+      "upload_date": "2026-02-25"
+    },
+    {
+      "application_numbers": [
+        "ANDA214501"
+      ],
+      "brand_names": [
+        "brivaracetam"
+      ],
+      "combination": false,
+      "home_inn": "brivaracetam",
+      "ingredients": [
+        "BRIVARACETAM"
+      ],
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-02-21",
+      "moieties": [
+        "BRIVARACETAM"
+      ],
+      "product_ndcs": [
+        "70771-1754",
+        "70771-1755",
+        "70771-1756",
+        "70771-1757",
+        "70771-1758"
+      ],
+      "rxcui": [
+        "1739761",
+        "1739768",
+        "1739772",
+        "1739776",
+        "1739780"
+      ],
+      "setid": "67c4db20-ba4d-4640-9e9c-6949b85429e3",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "BRIVARACETAM TABLET, FILM COATED [ZYDUS LIFESCIENCES LIMITED]",
+      "upload_date": "2026-02-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA218494"
+      ],
+      "brand_names": [
+        "brivaracetam"
+      ],
+      "combination": false,
+      "home_inn": "brivaracetam",
+      "ingredients": [
+        "BRIVARACETAM"
+      ],
+      "labeler": "Zhejiang Poly Pharm. Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-02-21",
+      "moieties": [
+        "BRIVARACETAM"
+      ],
+      "product_ndcs": [
+        "72673-031"
+      ],
+      "rxcui": [
+        "1739785"
+      ],
+      "setid": "aef3ee92-e2a6-4135-94b2-b893f893d5f2",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "BRIVARACETAM SOLUTION [ZHEJIANG POLY PHARM. CO., LTD.]",
+      "upload_date": "2026-02-25"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "260468dd-a604-488a-a47b-b6d82edcca37"
+    },
+    {
+      "combination": false,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2c6af271-3222-4602-98a6-14754f0a29ba"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c4ee9b82-1067-4efc-b3d9-f24eb0c461d5"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1915620d-4f37-56c2-437e-8362bb462d07"
+    },
+    {
+      "combination": false,
+      "labeler": "Florida Pharmaceutical Products, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7957cc22-2e0f-489d-9fa1-99520f615934"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "41e218af-048b-4e24-91d2-0b9b262d480c"
+    },
+    {
+      "combination": false,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c054a1c9-2aa7-473b-a04b-622596f36c95"
+    },
+    {
+      "combination": false,
+      "labeler": "ScieGen Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bdbb6756-654c-46f1-a85c-7d5d1a89685a"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d54ca946-2ddf-4a67-87c9-20a814bfd2dc"
+    },
+    {
+      "combination": false,
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "57627ea9-3b14-4428-ad95-6ea25ecaef31"
+    },
+    {
+      "combination": false,
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5bc0f4c0-8b31-4622-849f-d902be93788b"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "57cfb2c3-395d-0892-e063-6294a90a1064"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "59817617-956e-4685-81d4-7abe42f4de86"
+    },
+    {
+      "combination": false,
+      "labeler": "AvKARE",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5115c5b4-7a23-89f2-e063-6294a90a222a"
+    },
+    {
+      "combination": false,
+      "labeler": "Exelan Pharmaceuticals, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bf372f42-cfc9-4fcf-8226-3936ba8833d7"
+    }
+  ]
+}

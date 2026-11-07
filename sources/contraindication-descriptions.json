@@ -1,0 +1,23 @@
+{
+  "purpose": "Lines of a Contraindications section (US 34070-3, EU SmPC 4.3) that describe rather than list a contraindication. Visual 5 (tools/visualise.py) sets each one aside on its side of its molecule. The build checks every entry with check_citations (the version exists, the line is in the cited section, the version is the one in force on the chart date) and requires the line to match exactly one item of that side on the date; otherwise it fails.",
+  "entries": [
+    {
+      "molecule": "rivastigmine",
+      "side": "us",
+      "doc_id": "07c12e14-bbd5-4ec8-84e4-fbe7b5ba10e0",
+      "version": 30,
+      "section": "34070-3",
+      "line": "Isolated cases of generalized skin reactions have been described in postmarketing experience [see Adverse Reactions (6.2)].",
+      "reason": "A post-marketing description following the allergic-contact-dermatitis item, not a contraindication."
+    },
+    {
+      "molecule": "zonisamide",
+      "side": "eu",
+      "doc_id": "EMEA-H-C-000577",
+      "version": 26,
+      "section": "smpc-4.3",
+      "line": "Zonegran contains Hydrogenated vegetable oil (from soyabean).",
+      "reason": "The excipient note of the peanut and soya allergy line, not a contraindication."
+    }
+  ]
+}

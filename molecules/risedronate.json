@@ -1,0 +1,450 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "RISEDRONATE SODIUM",
+    "RISEDRONATE SODIUM HEMI-PENTAHYDRATE",
+    "RISEDRONATE SODIUM HEMIPENTAHYDRATE",
+    "RISEDRONATE SODIUM MONOHYDRATE"
+  ],
+  "inn": "risedronate",
+  "name": "RISEDRONATE",
+  "rank": 498,
+  "rxcui": [
+    "905024",
+    "905026",
+    "905028",
+    "905030",
+    "905032",
+    "905034",
+    "905041",
+    "905043",
+    "905083",
+    "905084",
+    "905086",
+    "905087",
+    "905092",
+    "905093",
+    "905100",
+    "905101",
+    "1020064",
+    "1020065",
+    "1020066"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 11,
+    "approval_holders": 8,
+    "earliest_marketing_start": "2002-05-17",
+    "latest_label_update": "2026-05-21",
+    "nda_bla_applications": 2,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "RISEDRONATE SODIUM",
+      "unii": "OFG5EXG60L"
+    },
+    {
+      "ingredient": "RISEDRONATE SODIUM HEMI-PENTAHYDRATE",
+      "unii": "HU2YAQ274O"
+    },
+    {
+      "ingredient": "RISEDRONATE SODIUM HEMIPENTAHYDRATE",
+      "unii": "HU2YAQ274O"
+    },
+    {
+      "ingredient": "RISEDRONATE SODIUM MONOHYDRATE",
+      "unii": "F67L43UT5C"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020835"
+      ],
+      "brand_names": [
+        "Actonel"
+      ],
+      "combination": false,
+      "home_inn": "risedronate",
+      "ingredients": [
+        "RISEDRONATE SODIUM HEMIPENTAHYDRATE",
+        "RISEDRONATE SODIUM MONOHYDRATE"
+      ],
+      "labeler": "Allergan, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2002-05-17",
+      "moieties": [
+        "RISEDRONATE"
+      ],
+      "product_ndcs": [
+        "0430-0472",
+        "0430-0478"
+      ],
+      "rxcui": [
+        "905024",
+        "905026",
+        "905028",
+        "905030",
+        "905032",
+        "905034",
+        "905041",
+        "905043",
+        "905083",
+        "905084",
+        "905086",
+        "905087",
+        "905092",
+        "905093",
+        "905100",
+        "905101"
+      ],
+      "setid": "24ed00e0-25e2-49a8-97fc-66c1b417dc0b",
+      "source": "openfda",
+      "spl_version": 31,
+      "title": "ACTONEL (RISEDRONATE SODIUM) TABLET, FILM COATED [ALLERGAN, INC.]",
+      "upload_date": "2026-05-11"
+    },
+    {
+      "application_numbers": [
+        "NDA022560"
+      ],
+      "brand_names": [
+        "Atelvia"
+      ],
+      "combination": false,
+      "home_inn": "risedronate",
+      "ingredients": [
+        "RISEDRONATE SODIUM HEMIPENTAHYDRATE",
+        "RISEDRONATE SODIUM MONOHYDRATE"
+      ],
+      "labeler": "Allergan, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2010-12-01",
+      "moieties": [
+        "RISEDRONATE"
+      ],
+      "product_ndcs": [
+        "0430-0979"
+      ],
+      "rxcui": [
+        "1020064",
+        "1020065",
+        "1020066"
+      ],
+      "setid": "c8b9ab88-1a26-46c3-80ec-4eaa45202021",
+      "source": "openfda",
+      "spl_version": 29,
+      "title": "ATELVIA (RISEDRONATE SODIUM) TABLET, DELAYED RELEASE [ALLERGAN, INC.]",
+      "upload_date": "2026-05-20"
+    },
+    {
+      "application_numbers": [
+        "NDA020835"
+      ],
+      "brand_names": [
+        "Risedronate Sodium"
+      ],
+      "combination": false,
+      "home_inn": "risedronate",
+      "ingredients": [
+        "RISEDRONATE SODIUM HEMIPENTAHYDRATE",
+        "RISEDRONATE SODIUM MONOHYDRATE"
+      ],
+      "labeler": "Mylan Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2002-05-17",
+      "moieties": [
+        "RISEDRONATE"
+      ],
+      "product_ndcs": [
+        "59762-0405",
+        "59762-0406"
+      ],
+      "rxcui": [
+        "905024",
+        "905028",
+        "905092",
+        "905100"
+      ],
+      "setid": "f715718a-407d-4e2a-9834-74a8f1361d03",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "RISEDRONATE SODIUM TABLET, FILM COATED [MYLAN PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-04-08"
+    },
+    {
+      "application_numbers": [
+        "NDA022560"
+      ],
+      "brand_names": [
+        "Risedronate Sodium"
+      ],
+      "combination": false,
+      "home_inn": "risedronate",
+      "ingredients": [
+        "RISEDRONATE SODIUM HEMIPENTAHYDRATE",
+        "RISEDRONATE SODIUM MONOHYDRATE"
+      ],
+      "labeler": "Mylan Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2018-03-02",
+      "moieties": [
+        "RISEDRONATE"
+      ],
+      "product_ndcs": [
+        "59762-0407"
+      ],
+      "rxcui": [
+        "1020064",
+        "1020065"
+      ],
+      "setid": "c89430be-15f1-4b8b-ab7e-738de716ee7d",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "RISEDRONATE SODIUM TABLET, DELAYED RELEASE [MYLAN PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-05-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA090877"
+      ],
+      "brand_names": [
+        "Risedronate Sodium"
+      ],
+      "combination": false,
+      "home_inn": "risedronate",
+      "ingredients": [
+        "RISEDRONATE SODIUM"
+      ],
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-06-11",
+      "moieties": [
+        "RISEDRONATE"
+      ],
+      "product_ndcs": [
+        "60505-3096",
+        "60505-3097",
+        "60505-3165"
+      ],
+      "rxcui": [
+        "905024",
+        "905028",
+        "905083"
+      ],
+      "setid": "b90f2e5b-10b8-29a7-0360-31bd0dae0ec2",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "RISEDRONATE SODIUM TABLET, FILM COATED [APOTEX CORP.]",
+      "upload_date": "2026-03-03"
+    },
+    {
+      "application_numbers": [
+        "ANDA090886"
+      ],
+      "brand_names": [
+        "risedronate sodium"
+      ],
+      "combination": false,
+      "home_inn": "risedronate",
+      "ingredients": [
+        "RISEDRONATE SODIUM HEMI-PENTAHYDRATE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-06-11",
+      "moieties": [
+        "RISEDRONATE"
+      ],
+      "product_ndcs": [
+        "47335-666",
+        "47335-667",
+        "47335-668",
+        "47335-727",
+        "47335-928"
+      ],
+      "rxcui": [
+        "905024",
+        "905028",
+        "905032",
+        "905041",
+        "905083",
+        "905092",
+        "905100"
+      ],
+      "setid": "e0b5f0ed-ff40-4f0d-bb86-81a7ace9f339",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "RISEDRONATE SODIUM TABLET, FILM COATED [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2026-03-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA077132"
+      ],
+      "brand_names": [
+        "Risedronate Sodium"
+      ],
+      "combination": false,
+      "home_inn": "risedronate",
+      "ingredients": [
+        "RISEDRONATE SODIUM MONOHYDRATE"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-06-01",
+      "moieties": [
+        "RISEDRONATE"
+      ],
+      "product_ndcs": [
+        "0093-3098",
+        "0093-3099",
+        "0093-3100"
+      ],
+      "rxcui": [
+        "905024",
+        "905032",
+        "905041",
+        "905092",
+        "905100"
+      ],
+      "setid": "dddcd321-4d2e-4643-bf3c-7b752b33ba39",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "RISEDRONATE SODIUM TABLET, FILM COATED [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2026-04-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA200296"
+      ],
+      "brand_names": [
+        "Risedronate Sodium"
+      ],
+      "combination": false,
+      "home_inn": "risedronate",
+      "ingredients": [
+        "RISEDRONATE SODIUM"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2015-11-30",
+      "moieties": [
+        "RISEDRONATE"
+      ],
+      "product_ndcs": [
+        "65862-517",
+        "65862-518",
+        "65862-519"
+      ],
+      "rxcui": [
+        "905024",
+        "905032",
+        "905041",
+        "905092",
+        "905100"
+      ],
+      "setid": "89896dfe-f69d-4cb3-bb71-7a7c611071fa",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "RISEDRONATE SODIUM TABLET, FILM COATED [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2026-02-26"
+    },
+    {
+      "application_numbers": [
+        "NDA020835"
+      ],
+      "archived_versions": 8,
+      "brand_names": [
+        "ACTONEL"
+      ],
+      "first_posted": "2008-05-22",
+      "found_by": "ACTONEL",
+      "labeler": "Warner Chilcott Pharmaceuticals Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2021-01-07",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-06-30",
+        "2013-12-31",
+        "2015-01-31",
+        "2015-10-30"
+      ],
+      "product_ndcs": [
+        "0149-0470",
+        "0149-0471",
+        "0149-0472",
+        "0149-0477",
+        "0149-0478"
+      ],
+      "rxcui": [],
+      "setid": "563c6d6d-56df-43a7-a7aa-709c5ea3cdbe",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "24ed00e0-25e2-49a8-97fc-66c1b417dc0b",
+        "f715718a-407d-4e2a-9834-74a8f1361d03"
+      ],
+      "title": "ACTONEL (risedronate sodium) tablet, film coated"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "62aff8d6-a2f7-4c7e-a102-c70105ac3792"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a42a35e6-3e08-4b4f-ae56-47d4aec2322a"
+    },
+    {
+      "combination": false,
+      "labeler": "Hangzhou Minsheng Binjiang Pharmaceutical CO., Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d60a56cb-ef49-4447-9043-7b6879a20d75"
+    }
+  ]
+}

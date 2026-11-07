@@ -1,0 +1,583 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "PHYTONADIONE"
+  ],
+  "inn": "phytonadione",
+  "name": "PHYTONADIONE",
+  "rank": 161,
+  "rxcui": [
+    "198102",
+    "312424",
+    "727625",
+    "1670192"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 28,
+    "approval_holders": 26,
+    "earliest_marketing_start": "2003-04-18",
+    "latest_label_update": "2026-10-30",
+    "nda_bla_applications": 0,
+    "repackagers": 5
+  },
+  "unii": [
+    {
+      "ingredient": "PHYTONADIONE",
+      "unii": "A034SE7857"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "ANDA083722"
+      ],
+      "brand_names": [
+        "Phytonadione"
+      ],
+      "combination": false,
+      "home_inn": "phytonadione",
+      "ingredients": [
+        "PHYTONADIONE"
+      ],
+      "labeler": "International Medication Systems, Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2003-04-18",
+      "moieties": [
+        "PHYTONADIONE"
+      ],
+      "product_ndcs": [
+        "76329-1240"
+      ],
+      "rxcui": [
+        "727625"
+      ],
+      "setid": "e0b0c8f1-75be-4f25-898a-7b97b608c615",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "PHYTONADIONE INJECTION, EMULSION [INTERNATIONAL MEDICATION SYSTEMS, LIMITED ]",
+      "upload_date": "2024-03-27"
+    },
+    {
+      "application_numbers": [
+        "ANDA087954",
+        "ANDA087955"
+      ],
+      "brand_names": [
+        "Vitamin K1"
+      ],
+      "combination": false,
+      "home_inn": "phytonadione",
+      "ingredients": [
+        "PHYTONADIONE"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2005-06-22",
+      "moieties": [
+        "PHYTONADIONE"
+      ],
+      "product_ndcs": [
+        "0409-9157",
+        "0409-9158"
+      ],
+      "rxcui": [
+        "312424",
+        "1670192"
+      ],
+      "setid": "e8808230-2c44-44c6-8cab-8f29b6b34051",
+      "source": "openfda",
+      "spl_version": 23,
+      "title": "VITAMIN K1 (PHYTONADIONE) INJECTION, EMULSION [HOSPIRA, INC.]",
+      "upload_date": "2026-08-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA209373"
+      ],
+      "brand_names": [
+        "Phytonadione"
+      ],
+      "combination": false,
+      "home_inn": "phytonadione",
+      "ingredients": [
+        "PHYTONADIONE"
+      ],
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-05-15",
+      "moieties": [
+        "PHYTONADIONE"
+      ],
+      "product_ndcs": [
+        "69238-1051"
+      ],
+      "rxcui": [
+        "198102"
+      ],
+      "setid": "54c1c1df-0e65-4da8-9023-6cbaa0f5bd0d",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "PHYTONADIONE TABLET [AMNEAL PHARMACEUTICALS NY LLC]",
+      "upload_date": "2024-12-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA210189"
+      ],
+      "brand_names": [
+        "Phytonadione"
+      ],
+      "combination": false,
+      "home_inn": "phytonadione",
+      "ingredients": [
+        "PHYTONADIONE"
+      ],
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-02-22",
+      "moieties": [
+        "PHYTONADIONE"
+      ],
+      "product_ndcs": [
+        "70710-1014"
+      ],
+      "rxcui": [
+        "198102"
+      ],
+      "setid": "6c992275-b040-42d0-9eff-570dce4272fe",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "PHYTONADIONE TABLET [ZYDUS PHARMACEUTICALS USA INC.]",
+      "upload_date": "2024-08-06"
+    },
+    {
+      "application_numbers": [
+        "ANDA207719"
+      ],
+      "brand_names": [
+        "PHYTONADIONE PHYTONADIONE"
+      ],
+      "combination": false,
+      "home_inn": "phytonadione",
+      "ingredients": [
+        "PHYTONADIONE"
+      ],
+      "labeler": "Dr.Reddy's Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-05-31",
+      "moieties": [
+        "PHYTONADIONE"
+      ],
+      "product_ndcs": [
+        "43598-405"
+      ],
+      "rxcui": [
+        "1670192"
+      ],
+      "setid": "02445c07-7b4b-cd70-54e8-ebefc814f547",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "PHYTONADIONE PHYTONADIONE (PHYTONADIONE) INJECTION, EMULSION [DR.REDDY'S LABORATORIES INC]",
+      "upload_date": "2022-08-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA213336"
+      ],
+      "brand_names": [
+        "Phytonadione"
+      ],
+      "combination": false,
+      "home_inn": "phytonadione",
+      "ingredients": [
+        "PHYTONADIONE"
+      ],
+      "labeler": "Agnitio Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-02-11",
+      "moieties": [
+        "PHYTONADIONE"
+      ],
+      "product_ndcs": [
+        "72134-008"
+      ],
+      "rxcui": [
+        "198102"
+      ],
+      "setid": "66ada4f8-c5a9-49f1-848f-e172416892a1",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "PHYTONADIONE TABLET [AGNITIO INC.]",
+      "upload_date": "2025-12-02"
+    },
+    {
+      "application_numbers": [
+        "NDA010104"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "MEPHYTON"
+      ],
+      "first_posted": "2008-02-15",
+      "found_by": "MEPHYTON",
+      "labeler": "Aton Pharma, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2014-05-22",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2014-05-31"
+      ],
+      "product_ndcs": [
+        "25010-405"
+      ],
+      "rxcui": [],
+      "setid": "1e4cf5e1-37fd-4bf9-a078-0c185f77fa5c",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "MEPHYTON (phytonadione) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA012223"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "AQUAMEPHYTON"
+      ],
+      "first_posted": "2018-03-13",
+      "found_by": "AQUAMEPHYTON",
+      "labeler": "Teligent Pharma, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2020-05-21",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "52565-092",
+        "52565-093"
+      ],
+      "rxcui": [],
+      "setid": "202757c7-caf6-44f5-9701-b89e4871df59",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "PHYTONADIONE injection, emulsion PHYTONADIONE injection, emulsion"
+    },
+    {
+      "application_numbers": [
+        "NDA012223"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "AQUAMEPHYTON"
+      ],
+      "first_posted": "2017-05-31",
+      "found_by": "AQUAMEPHYTON",
+      "labeler": "Teligent Pharma, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2019-02-26",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-02-22"
+      ],
+      "product_ndcs": [
+        "52565-092",
+        "52565-093"
+      ],
+      "rxcui": [],
+      "setid": "388d5313-de3f-69b3-6db2-ce4141773275",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "AQUAMEPHYTON (phytonadione) injection, emulsion"
+    },
+    {
+      "application_numbers": [
+        "NDA010104"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "MEPHYTON"
+      ],
+      "first_posted": "2007-01-26",
+      "found_by": "MEPHYTON",
+      "labeler": "Merck Sharp & Dohme Corp.",
+      "labeler_unverified": false,
+      "last_posted": "2012-10-15",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2008-10-31"
+      ],
+      "product_ndcs": [
+        "0006-0043"
+      ],
+      "rxcui": [],
+      "setid": "50c30e54-bf85-4395-9caa-6cecfb50d9c7",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "MEPHYTON (phytonadione) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA010104"
+      ],
+      "archived_versions": 9,
+      "brand_names": [
+        "MEPHYTON"
+      ],
+      "first_posted": "2013-03-19",
+      "found_by": "MEPHYTON",
+      "labeler": "Bausch Health US LLC",
+      "labeler_unverified": false,
+      "last_posted": "2023-03-23",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-10-01"
+      ],
+      "product_ndcs": [
+        "0187-1704"
+      ],
+      "rxcui": [],
+      "setid": "5be7bb0a-dddb-4cb4-bf89-a8fafb726c83",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "MEPHYTON (phytonadione) tablet"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1add4de5-0f9c-453e-9dd5-abb8077b566a"
+    },
+    {
+      "combination": false,
+      "labeler": "ScieGen Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c0e38a20-7225-46a5-9730-924cbd08dbee"
+    },
+    {
+      "combination": false,
+      "labeler": "GLENMARK PHARMACEUTICALS INC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "60e5abd1-e2fa-4a5e-b25b-3ec6cfdeed14"
+    },
+    {
+      "combination": false,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4bc2de7b-6564-4d77-8a65-6be57b706093"
+    },
+    {
+      "combination": false,
+      "labeler": "Caplin Steriles Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "114b1330-6f03-476c-8678-8cd0da189bce"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6ccb76ab-1549-4a47-a119-8059588ad83d"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2ce1dd90-11ad-4f74-af16-45b7e59f05da"
+    },
+    {
+      "combination": false,
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "98fa1675-8af1-42c5-bbab-8b3632d52a0f"
+    },
+    {
+      "combination": false,
+      "labeler": "Orbicular Pharmaceutical Technologies Private Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d954e3d7-a4d5-4798-887d-7af916ff0181"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals Private Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ddd351d3-8b9e-482d-9ab8-f367ce1c3cc0"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr.Reddys Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "226c0a5c-3e04-65a9-01ac-e67aad9a430a"
+    },
+    {
+      "combination": false,
+      "labeler": "Padagis US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "68701a07-2921-4443-bff3-76e261a9eb18"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fa26f747-c64e-4090-a0cf-de3d3d9b004c"
+    },
+    {
+      "combination": false,
+      "labeler": "Northstar Rx LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5429b58b-ec2b-4a18-95d9-a9d804321192"
+    },
+    {
+      "combination": false,
+      "labeler": "Exelan Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "63771c95-d4f5-42eb-b591-4df146f18cb0"
+    },
+    {
+      "combination": false,
+      "labeler": "Cipla USA., Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7dd1f275-94d3-45d2-a4d0-696ce60a2a9b"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c375bfab-5a4b-40f3-a783-8372158af860"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "02a39690-38e6-42e9-9897-391c2df9e07e"
+    },
+    {
+      "combination": false,
+      "labeler": "Xiromed LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a4b394e7-b766-824e-a8bf-f56808de76e1"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b1e53422-c85d-4bb6-af4f-24934cc319b0"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3d571642-3d3a-41ae-855e-304ae4fff459"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "51c175dd-02f9-68d1-e063-6294a90a4b36"
+    }
+  ]
+}

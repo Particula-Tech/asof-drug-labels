@@ -1,0 +1,369 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "CARISOPRODOL"
+  ],
+  "inn": "carisoprodol",
+  "name": "CARISOPRODOL",
+  "rank": 489,
+  "rxcui": [
+    "197446",
+    "213695",
+    "730794",
+    "730918"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 12,
+    "approval_holders": 12,
+    "earliest_marketing_start": "1995-11-01",
+    "latest_label_update": "2026-03-30",
+    "nda_bla_applications": 1,
+    "repackagers": 14
+  },
+  "unii": [
+    {
+      "ingredient": "CARISOPRODOL",
+      "unii": "21925K482H"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA011792"
+      ],
+      "brand_names": [
+        "Soma"
+      ],
+      "combination": false,
+      "home_inn": "carisoprodol",
+      "ingredients": [
+        "CARISOPRODOL"
+      ],
+      "labeler": "Viatris Specialty LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1995-11-01",
+      "moieties": [
+        "CARISOPRODOL"
+      ],
+      "product_ndcs": [
+        "0037-2001",
+        "0037-2250"
+      ],
+      "rxcui": [
+        "197446",
+        "213695",
+        "730794",
+        "730918"
+      ],
+      "setid": "6297cf20-830a-11dc-94c8-0002a5d5c51b",
+      "source": "openfda",
+      "spl_version": 20,
+      "title": "SOMA (CARISOPRODOL) TABLET [VIATRIS SPECIALTY LLC]",
+      "upload_date": "2025-12-04"
+    },
+    {
+      "application_numbers": [
+        "NDA011792"
+      ],
+      "brand_names": [
+        "Carisoprodol"
+      ],
+      "combination": false,
+      "home_inn": "carisoprodol",
+      "ingredients": [
+        "CARISOPRODOL"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2016-10-01",
+      "moieties": [
+        "CARISOPRODOL"
+      ],
+      "product_ndcs": [
+        "51525-5901"
+      ],
+      "rxcui": [
+        "730794"
+      ],
+      "setid": "7c9184c0-7a2e-11df-8c8d-0002a5d5c51b",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "CARISOPRODOL TABLET [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2025-12-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA040792"
+      ],
+      "brand_names": [
+        "carisoprodol"
+      ],
+      "combination": false,
+      "home_inn": "carisoprodol",
+      "ingredients": [
+        "CARISOPRODOL"
+      ],
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-08-06",
+      "moieties": [
+        "CARISOPRODOL"
+      ],
+      "product_ndcs": [
+        "16571-780",
+        "16571-781"
+      ],
+      "rxcui": [
+        "197446",
+        "730794"
+      ],
+      "setid": "4d2470cb-7a5d-45f0-b005-534458833d91",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "CARISOPRODOL TABLET [RISING PHARMA HOLDINGS, INC.]",
+      "upload_date": "2024-01-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA203374"
+      ],
+      "brand_names": [
+        "CARISOPRODOL"
+      ],
+      "combination": false,
+      "home_inn": "carisoprodol",
+      "ingredients": [
+        "CARISOPRODOL"
+      ],
+      "labeler": "ScieGen Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-01-27",
+      "moieties": [
+        "CARISOPRODOL"
+      ],
+      "product_ndcs": [
+        "50228-109"
+      ],
+      "rxcui": [
+        "197446"
+      ],
+      "setid": "069ea892-21a6-4703-8dd3-bf19c4406479",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "CARISOPRODOL TABLET [SCIEGEN PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-03-16"
+    },
+    {
+      "application_numbers": [
+        "ANDA205126"
+      ],
+      "brand_names": [
+        "Carisoprodol"
+      ],
+      "combination": false,
+      "home_inn": "carisoprodol",
+      "ingredients": [
+        "CARISOPRODOL"
+      ],
+      "labeler": "Wilshire Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-02-15",
+      "moieties": [
+        "CARISOPRODOL"
+      ],
+      "product_ndcs": [
+        "52536-682",
+        "52536-688"
+      ],
+      "rxcui": [
+        "197446",
+        "730794"
+      ],
+      "setid": "f03a1ea6-20c1-406a-a5b6-00f1a056d9ff",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "CARISOPRODOL TABLET [WILSHIRE PHARMACEUTICALS, INC.]",
+      "upload_date": "2024-12-16"
+    },
+    {
+      "application_numbers": [
+        "ANDA040823"
+      ],
+      "brand_names": [
+        "CARISOPRODOL"
+      ],
+      "combination": false,
+      "home_inn": "carisoprodol",
+      "ingredients": [
+        "CARISOPRODOL"
+      ],
+      "labeler": "Ingenus Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-05-21",
+      "moieties": [
+        "CARISOPRODOL"
+      ],
+      "product_ndcs": [
+        "50742-656"
+      ],
+      "rxcui": [
+        "197446"
+      ],
+      "setid": "5eff5b4c-c363-45b5-9eef-b724233a51e2",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "CARISOPRODOL TABLET [INGENUS PHARMACEUTICALS, LLC]",
+      "upload_date": "2024-05-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA040245"
+      ],
+      "brand_names": [
+        "Carisoprodol"
+      ],
+      "combination": false,
+      "home_inn": "carisoprodol",
+      "ingredients": [
+        "CARISOPRODOL"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-08-08",
+      "moieties": [
+        "CARISOPRODOL"
+      ],
+      "product_ndcs": [
+        "62135-241"
+      ],
+      "rxcui": [
+        "197446"
+      ],
+      "setid": "a44a3dfc-a427-4584-a086-4bc0c538b125",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "CARISOPRODOL TABLET [CHARTWELL RX, LLC]",
+      "upload_date": "2025-12-11"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "SOMA"
+      ],
+      "first_posted": "2007-11-16",
+      "found_by": "SOMA",
+      "labeler": "MedPointe Pharmaceuticals",
+      "labeler_unverified": false,
+      "last_posted": "2007-11-16",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0037-2001",
+        "0037-2250"
+      ],
+      "rxcui": [],
+      "setid": "2b5718d6-6848-11dc-8314-0800200c9a66",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "soma (carisoprodol) tablet for oral use"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "SOMA"
+      ],
+      "first_posted": "2007-07-12",
+      "found_by": "SOMA",
+      "labeler": "MedPointe Pharmaceuticals",
+      "labeler_unverified": false,
+      "last_posted": "2007-07-12",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0037-2001"
+      ],
+      "rxcui": [],
+      "setid": "6ad14de4-78b8-4a5d-808a-8e846e826947",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "soma (carisoprodol) tablet"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Oxford Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "03c3455f-e217-4a7e-908f-609333dc35fc"
+    },
+    {
+      "combination": false,
+      "labeler": "Granulation Technology, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2abd11e4-8ce4-4aeb-87c4-3af94c197714"
+    },
+    {
+      "combination": false,
+      "labeler": "Westminster Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bfb31551-8c57-4360-be3a-f6fbe84a891e"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "79637c7b-fe7b-436c-892b-6c36abfdcacc"
+    },
+    {
+      "combination": false,
+      "labeler": "Vensun Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7c6015ad-2158-400d-8c22-585ab277ea49"
+    }
+  ]
+}

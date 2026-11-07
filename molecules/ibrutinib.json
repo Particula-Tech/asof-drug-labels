@@ -1,0 +1,123 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand Imbruvica",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/003791",
+      "eu_number": "EU/1/14/945",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-003791",
+      "mah": "Janssen-Cilag International NV",
+      "marketing_authorisation_date": "2014-10-21",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/imbruvica",
+      "name": "Imbruvica",
+      "record_from": "2014-10-21",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 23
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-003791",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "IBRUTINIB"
+  ],
+  "inn": "ibrutinib",
+  "name": "IBRUTINIB",
+  "rank": 350,
+  "rxcui": [
+    "1442986",
+    "1442992",
+    "1994360",
+    "1994362",
+    "2000017",
+    "2000019",
+    "2000021",
+    "2000023",
+    "2000025",
+    "2000027",
+    "2611536",
+    "2611540"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 1,
+    "approval_holders": 1,
+    "earliest_marketing_start": "2013-11-13",
+    "latest_label_update": "2026-01-08",
+    "nda_bla_applications": 3,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "IBRUTINIB",
+      "unii": "1X70OSD4VX"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA205552",
+        "NDA210563",
+        "NDA217003"
+      ],
+      "brand_names": [
+        "Imbruvica"
+      ],
+      "combination": false,
+      "home_inn": "ibrutinib",
+      "ingredients": [
+        "IBRUTINIB"
+      ],
+      "labeler": "Pharmacyclics LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2013-11-13",
+      "moieties": [
+        "IBRUTINIB"
+      ],
+      "product_ndcs": [
+        "57962-007",
+        "57962-014",
+        "57962-070",
+        "57962-140",
+        "57962-280",
+        "57962-420"
+      ],
+      "rxcui": [
+        "1442986",
+        "1442992",
+        "1994360",
+        "1994362",
+        "2000017",
+        "2000019",
+        "2000021",
+        "2000023",
+        "2000025",
+        "2000027",
+        "2611536",
+        "2611540"
+      ],
+      "setid": "0dfd0279-ff17-4ea9-89be-9803c71bab44",
+      "source": "openfda",
+      "spl_version": 65,
+      "title": "IMBRUVICA (IBRUTINIB) CAPSULE IMBRUVICA (IBRUTINIB) TABLET, FILM COATED IMBRUVICA (IBRUTINIB) SUSPENSION [PHARMACYCLICS LLC]",
+      "upload_date": "2026-01-08"
+    }
+  ],
+  "us_excluded": []
+}

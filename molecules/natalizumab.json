@@ -1,0 +1,182 @@
+{
+  "biologic": true,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand TYSABRI",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000603",
+      "eu_number": "EU/1/06/346",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000603",
+      "mah": "Biogen Netherlands B.V.",
+      "marketing_authorisation_date": "2006-06-27",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tysabri",
+      "name": "Tysabri",
+      "record_from": "2006-06-27",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 33
+    },
+    {
+      "biosimilar": true,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/005752",
+      "eu_number": "EU/1/23/1745",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-005752",
+      "mah": "Sandoz GmbH",
+      "marketing_authorisation_date": "2023-09-22",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tyruko",
+      "name": "Tyruko",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000603",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "NATALIZUMAB"
+  ],
+  "inn": "natalizumab",
+  "name": "NATALIZUMAB",
+  "rank": 366,
+  "rxcui": [
+    "477484",
+    "603541",
+    "2725173",
+    "2725180"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 2,
+    "approval_holders": 2,
+    "earliest_marketing_start": "2004-11-23",
+    "latest_label_update": "2026-10-16",
+    "nda_bla_applications": 2,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "NATALIZUMAB",
+      "unii": "3JB47N2Q2P"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "BLA125104"
+      ],
+      "brand_names": [
+        "TYSABRI"
+      ],
+      "combination": false,
+      "home_inn": "natalizumab",
+      "ingredients": [
+        "NATALIZUMAB"
+      ],
+      "labeler": "Biogen Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2004-11-23",
+      "moieties": [
+        "NATALIZUMAB"
+      ],
+      "product_ndcs": [
+        "64406-008"
+      ],
+      "rxcui": [
+        "477484",
+        "603541"
+      ],
+      "setid": "c5fdde91-1989-4dd2-9129-4f3323ea2962",
+      "source": "dailymed-title-match",
+      "spl_version": 48,
+      "title": "TYSABRI (NATALIZUMAB) INJECTION [BIOGEN INC.]",
+      "upload_date": "2026-10-16"
+    },
+    {
+      "application_numbers": [
+        "BLA761322"
+      ],
+      "brand_names": [
+        "TYRUKO"
+      ],
+      "combination": false,
+      "home_inn": "natalizumab",
+      "ingredients": [
+        "NATALIZUMAB"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2025-11-17",
+      "moieties": [
+        "NATALIZUMAB"
+      ],
+      "product_ndcs": [
+        "61314-543"
+      ],
+      "rxcui": [
+        "2725173",
+        "2725180"
+      ],
+      "setid": "ef653c36-dd4b-4e71-9d2d-40b8fea24b67",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "TYRUKO (NATALIZUMAB-SZTN) INJECTION [SANDOZ INC]",
+      "upload_date": "2026-01-23"
+    },
+    {
+      "application_numbers": [
+        "BLA125104"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "TYSABRI"
+      ],
+      "first_posted": "2008-10-30",
+      "found_by": "TYSABRI",
+      "labeler": "Elan Pharmaceuticals, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2014-01-29",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_end_dates": [
+        "2016-06-30"
+      ],
+      "product_ndcs": [
+        "59075-730"
+      ],
+      "rxcui": [],
+      "setid": "6fa00cb8-4229-4770-9d2a-d4a8542b3180",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "c5fdde91-1989-4dd2-9129-4f3323ea2962"
+      ],
+      "title": "TYSABRI (natalizumab) injection"
+    }
+  ],
+  "us_excluded": []
+}

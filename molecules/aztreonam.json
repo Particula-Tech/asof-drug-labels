@@ -1,0 +1,423 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/000996",
+      "eu_number": "EU/1/09/543",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000996",
+      "mah": "Gilead Sciences Ireland UC",
+      "marketing_authorisation_date": "2009-09-21",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/cayston",
+      "name": "Cayston",
+      "record_from": "2009-09-21",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 12
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 1,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000996",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "AZTREONAM"
+  ],
+  "inn": "aztreonam",
+  "name": "AZTREONAM",
+  "rank": 492,
+  "rxcui": [
+    "1664981",
+    "1664984",
+    "1664986",
+    "1664988",
+    "2705355",
+    "2705360"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 6,
+    "approval_holders": 4,
+    "earliest_marketing_start": "2009-11-05",
+    "latest_label_update": "2026-08-05",
+    "nda_bla_applications": 2,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "AZTREONAM",
+      "unii": "G2B4VE5GH8"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA050580"
+      ],
+      "brand_names": [
+        "AZACTAM"
+      ],
+      "combination": false,
+      "home_inn": "aztreonam",
+      "ingredients": [
+        "AZTREONAM"
+      ],
+      "labeler": "E.R. Squibb & Sons, L.L.C.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2010-04-01",
+      "moieties": [
+        "AZTREONAM"
+      ],
+      "product_ndcs": [
+        "0003-2560",
+        "0003-2570"
+      ],
+      "rxcui": [
+        "1664981",
+        "1664984",
+        "1664986",
+        "1664988"
+      ],
+      "setid": "9a105eaf-ee77-4016-beeb-d425a5565db2",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "AZACTAM (AZTREONAM) INJECTION, POWDER, FOR SOLUTION [E.R. SQUIBB & SONS, L.L.C.]",
+      "upload_date": "2025-12-23"
+    },
+    {
+      "application_numbers": [
+        "NDA217906"
+      ],
+      "brand_names": [
+        "EMBLAVEO"
+      ],
+      "combination": true,
+      "home_inn": "aztreonam",
+      "ingredients": [
+        "AVIBACTAM",
+        "AZTREONAM"
+      ],
+      "labeler": "AbbVie Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-02-07",
+      "moieties": [
+        "AVIBACTAM",
+        "AZTREONAM"
+      ],
+      "product_ndcs": [
+        "0074-3878"
+      ],
+      "rxcui": [
+        "2705355",
+        "2705360"
+      ],
+      "setid": "be1a6c99-d4b3-46d7-9e99-6e5f9fab556a",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "EMBLAVEO (AZTREONAM AND AVIBACTAM) POWDER, FOR SOLUTION [ABBVIE INC.]",
+      "upload_date": "2026-08-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA065439"
+      ],
+      "brand_names": [
+        "Aztreonam"
+      ],
+      "combination": false,
+      "home_inn": "aztreonam",
+      "ingredients": [
+        "AZTREONAM"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-11-05",
+      "moieties": [
+        "AZTREONAM"
+      ],
+      "product_ndcs": [
+        "63323-401",
+        "63323-402"
+      ],
+      "rxcui": [
+        "1664981",
+        "1664986"
+      ],
+      "setid": "302fd27d-0a22-44ea-91fb-1b1ffcf17a1f",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "AZTREONAM (AZTREONAM) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [FRESENIUS KABI USA, LLC",
+      "upload_date": "2022-06-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA206517"
+      ],
+      "brand_names": [
+        "Aztreonam"
+      ],
+      "combination": false,
+      "home_inn": "aztreonam",
+      "ingredients": [
+        "AZTREONAM"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-01-24",
+      "moieties": [
+        "AZTREONAM"
+      ],
+      "product_ndcs": [
+        "0409-0829",
+        "0409-0830"
+      ],
+      "rxcui": [
+        "1664981",
+        "1664986"
+      ],
+      "setid": "d4500795-3b07-4a7d-b432-73cafbb3dbc6",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "AZTREONAM INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2024-06-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA065439"
+      ],
+      "brand_names": [
+        "Aztreonam"
+      ],
+      "combination": false,
+      "home_inn": "aztreonam",
+      "ingredients": [
+        "AZTREONAM"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-11-05",
+      "moieties": [
+        "AZTREONAM"
+      ],
+      "product_ndcs": [
+        "63323-401",
+        "63323-402"
+      ],
+      "rxcui": [
+        "1664981",
+        "1664986"
+      ],
+      "setid": "5f5ebb63-6ac5-4fb4-bcc1-d069c123eb18",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "AZTREONAM (AZTREONAM) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [FRESENIUS KABI USA, LLC",
+      "upload_date": "2022-06-06"
+    },
+    {
+      "application_numbers": [
+        "ANDA065439"
+      ],
+      "brand_names": [
+        "Aztreonam"
+      ],
+      "combination": false,
+      "home_inn": "aztreonam",
+      "ingredients": [
+        "AZTREONAM"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-11-05",
+      "moieties": [
+        "AZTREONAM"
+      ],
+      "product_ndcs": [
+        "63323-401",
+        "63323-402"
+      ],
+      "rxcui": [
+        "1664981",
+        "1664986"
+      ],
+      "setid": "c6cf7e13-a04e-47e2-9cec-44a278ee6bec",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "AZTREONAM (AZTREONAM) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [FRESENIUS KABI USA, LLC",
+      "upload_date": "2022-04-12"
+    },
+    {
+      "application_numbers": [
+        "NDA050632"
+      ],
+      "archived_versions": 9,
+      "brand_names": [
+        "AZACTAM"
+      ],
+      "first_posted": "2010-04-01",
+      "found_by": "AZACTAM",
+      "labeler": "E.R. Squibb & Sons, L.L.C.",
+      "labeler_unverified": false,
+      "last_posted": "2019-07-12",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-06-26"
+      ],
+      "product_ndcs": [
+        "0003-2230",
+        "0003-2240"
+      ],
+      "rxcui": [],
+      "setid": "1b11750e-4db4-4dd3-8b21-c9917b00aeaa",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "AZACTAM (aztreonam) injection, solution"
+    },
+    {
+      "application_numbers": [
+        "NDA050580"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "AZACTAM"
+      ],
+      "first_posted": "2008-03-05",
+      "found_by": "AZACTAM",
+      "labeler": "Elan Pharmaceuticals, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2011-12-07",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2011-12-01"
+      ],
+      "product_ndcs": [
+        "51479-041",
+        "51479-042"
+      ],
+      "rxcui": [],
+      "setid": "1ed8e647-d91c-716f-129a-d6b11c0f5e95",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "9a105eaf-ee77-4016-beeb-d425a5565db2"
+      ],
+      "title": "AZACTAM (aztreonam) injection, solution"
+    },
+    {
+      "application_numbers": [
+        "NDA050632"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "AZACTAM"
+      ],
+      "first_posted": "2006-11-22",
+      "found_by": "AZACTAM",
+      "labeler": "Elan Pharmaceuticals, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2011-01-21",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2012-02-03",
+        "2012-02-04"
+      ],
+      "product_ndcs": [
+        "51479-048",
+        "51479-049"
+      ],
+      "rxcui": [],
+      "setid": "43327ba4-a37c-4b70-8eb1-59fde64b5e37",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "AZACTAM (aztreonam) injection, solution"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "AZACTAM"
+      ],
+      "first_posted": "2007-11-30",
+      "found_by": "AZACTAM",
+      "labeler": "Bristol-Myers Squibb Company",
+      "labeler_unverified": true,
+      "last_posted": "2007-11-30",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "51479-041",
+        "51479-042"
+      ],
+      "rxcui": [],
+      "setid": "45fc118f-0645-4f04-9086-939897bef671",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "azactam (AZTREONAM) injection, powder, for solution"
+    },
+    {
+      "application_numbers": [
+        "NDA050580"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "AZACTAM"
+      ],
+      "first_posted": "2008-03-05",
+      "found_by": "AZACTAM",
+      "labeler": "Elan Pharmaceuticals, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2011-12-12",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-03-14"
+      ],
+      "product_ndcs": [
+        "51479-041",
+        "51479-042"
+      ],
+      "rxcui": [],
+      "setid": "bcd26183-313e-e4e1-092b-49b35b12863f",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "9a105eaf-ee77-4016-beeb-d425a5565db2"
+      ],
+      "title": "AZACTAM (aztreonam) injection, powder, for solution"
+    }
+  ],
+  "us_excluded": []
+}

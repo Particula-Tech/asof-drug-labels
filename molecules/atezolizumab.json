@@ -1,0 +1,139 @@
+{
+  "biologic": true,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand TECENTRIQ",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/004143",
+      "eu_number": "EU/1/17/1220",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-004143",
+      "mah": "Roche Registration GmbH",
+      "marketing_authorisation_date": "2017-09-20",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tecentriq",
+      "name": "Tecentriq",
+      "record_from": "2017-09-21",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 27
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-004143",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "ATEZOLIZUMAB"
+  ],
+  "inn": "atezolizumab",
+  "name": "ATEZOLIZUMAB",
+  "rank": 364,
+  "rxcui": [
+    "1792780",
+    "1792785",
+    "2119695",
+    "2119696",
+    "2693892",
+    "2693899"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 2,
+    "approval_holders": 1,
+    "earliest_marketing_start": "2016-05-18",
+    "latest_label_update": "2026-10-16",
+    "nda_bla_applications": 2,
+    "repackagers": 0
+  },
+  "unii": [],
+  "unii_unresolved": [
+    "ATEZOLIZUMAB"
+  ],
+  "us": [
+    {
+      "application_numbers": [
+        "BLA761034"
+      ],
+      "brand_names": [
+        "TECENTRIQ"
+      ],
+      "combination": false,
+      "home_inn": "atezolizumab",
+      "ingredients": [
+        "ATEZOLIZUMAB"
+      ],
+      "labeler": "Genentech, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2016-05-18",
+      "moieties": [
+        "ATEZOLIZUMAB"
+      ],
+      "product_ndcs": [
+        "50242-917",
+        "50242-918"
+      ],
+      "rxcui": [
+        "1792780",
+        "1792785",
+        "2119695",
+        "2119696"
+      ],
+      "setid": "6fa682c9-a312-4932-9831-f286908660ee",
+      "source": "dailymed-title-match",
+      "spl_version": 46,
+      "title": "TECENTRIQ (ATEZOLIZUMAB) INJECTION, SOLUTION [GENENTECH, INC.]",
+      "upload_date": "2026-10-16"
+    },
+    {
+      "application_numbers": [
+        "BLA761034",
+        "BLA761347"
+      ],
+      "brand_names": [
+        "TECENTRIQ",
+        "Tecentriq Hybreza"
+      ],
+      "combination": true,
+      "home_inn": "hyaluronidase-human-recombinant",
+      "ingredients": [
+        "ATEZOLIZUMAB",
+        "HYALURONIDASE (HUMAN RECOMBINANT)"
+      ],
+      "labeler": "Genentech, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2016-05-18",
+      "moieties": [
+        "ATEZOLIZUMAB",
+        "HYALURONIDASE (HUMAN RECOMBINANT)"
+      ],
+      "product_ndcs": [
+        "50242-917",
+        "50242-918",
+        "50242-933"
+      ],
+      "rxcui": [
+        "2693892",
+        "2693899"
+      ],
+      "setid": "a617b089-ce66-464b-987b-b45d029b4d6f",
+      "source": "dailymed-title-match",
+      "spl_version": 9,
+      "title": "TECENTRIQ HYBREZA (ATEZOLIZUMAB AND HYALURONIDASE-TQJS) INJECTION [GENENTECH, INC.]",
+      "upload_date": "2026-10-16"
+    }
+  ],
+  "us_excluded": []
+}

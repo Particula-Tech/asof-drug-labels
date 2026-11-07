@@ -1,0 +1,502 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "FLUCONAZOLE"
+  ],
+  "inn": "fluconazole",
+  "name": "FLUCONAZOLE",
+  "rank": 287,
+  "rxcui": [
+    "197698",
+    "197699",
+    "197700",
+    "197701",
+    "201900",
+    "201901",
+    "207106",
+    "207107",
+    "207108",
+    "207112",
+    "310352",
+    "310353",
+    "1721314",
+    "1721315"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 23,
+    "approval_holders": 19,
+    "earliest_marketing_start": "1993-12-23",
+    "latest_label_update": "2026-10-30",
+    "nda_bla_applications": 1,
+    "repackagers": 21
+  },
+  "unii": [
+    {
+      "ingredient": "FLUCONAZOLE",
+      "unii": "8VZV102JFY"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020090"
+      ],
+      "brand_names": [
+        "Diflucan"
+      ],
+      "combination": false,
+      "home_inn": "fluconazole",
+      "ingredients": [
+        "FLUCONAZOLE"
+      ],
+      "labeler": "Roerig",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1993-12-23",
+      "moieties": [
+        "FLUCONAZOLE"
+      ],
+      "product_ndcs": [
+        "0049-3450"
+      ],
+      "rxcui": [
+        "197698",
+        "197699",
+        "197700",
+        "197701",
+        "201900",
+        "201901",
+        "207106",
+        "207107",
+        "207108",
+        "207112",
+        "310352",
+        "310353"
+      ],
+      "setid": "f694c617-3383-416c-91b6-b94fda371204",
+      "source": "openfda",
+      "spl_version": 57,
+      "title": "DIFLUCAN (FLUCONAZOLE) TABLET DIFLUCAN (FLUCONAZOLE) POWDER, FOR SUSPENSION [ROERIG]",
+      "upload_date": "2026-04-09"
+    },
+    {
+      "application_numbers": [
+        "NDA020090"
+      ],
+      "brand_names": [
+        "Fluconazole"
+      ],
+      "combination": false,
+      "home_inn": "fluconazole",
+      "ingredients": [
+        "FLUCONAZOLE"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "1993-12-23",
+      "moieties": [
+        "FLUCONAZOLE"
+      ],
+      "product_ndcs": [
+        "59762-5029",
+        "59762-5030"
+      ],
+      "rxcui": [
+        "197698",
+        "197699",
+        "197700",
+        "197701",
+        "310352",
+        "310353"
+      ],
+      "setid": "737e0fac-a2d2-4053-a0d7-edbfb6248f69",
+      "source": "openfda",
+      "spl_version": 43,
+      "title": "FLUCONAZOLE TABLET FLUCONAZOLE POWDER, FOR SUSPENSION [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2026-04-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA076766"
+      ],
+      "brand_names": [
+        "Fluconazole"
+      ],
+      "combination": false,
+      "home_inn": "fluconazole",
+      "ingredients": [
+        "FLUCONAZOLE"
+      ],
+      "labeler": "Baxter Healthcare Company",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2004-07-29",
+      "moieties": [
+        "FLUCONAZOLE"
+      ],
+      "product_ndcs": [
+        "0338-6045",
+        "0338-6046"
+      ],
+      "rxcui": [
+        "1721314",
+        "1721315"
+      ],
+      "setid": "cd24a261-9c15-42b4-8040-89d2dbda174e",
+      "source": "openfda",
+      "spl_version": 27,
+      "title": "FLUCONAZOLE INJECTION, SOLUTION [BAXTER HEALTHCARE COMPANY]",
+      "upload_date": "2026-04-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA076665"
+      ],
+      "brand_names": [
+        "FLUCONAZOLE"
+      ],
+      "combination": false,
+      "home_inn": "fluconazole",
+      "ingredients": [
+        "FLUCONAZOLE"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2004-07-29",
+      "moieties": [
+        "FLUCONAZOLE"
+      ],
+      "product_ndcs": [
+        "62135-130",
+        "62135-131",
+        "62135-132",
+        "62135-133"
+      ],
+      "rxcui": [
+        "197698",
+        "197699",
+        "197700",
+        "197701"
+      ],
+      "setid": "f86ea347-78f5-43b8-9574-a52569a4237b",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "FLUCONAZOLE TABLET [CHARTWELL RX, LLC]",
+      "upload_date": "2024-10-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA076736",
+        "ANDA078698",
+        "ANDA078764"
+      ],
+      "brand_names": [
+        "Fluconazole"
+      ],
+      "combination": false,
+      "home_inn": "fluconazole",
+      "ingredients": [
+        "FLUCONAZOLE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2005-08-23",
+      "moieties": [
+        "FLUCONAZOLE"
+      ],
+      "product_ndcs": [
+        "0143-9666",
+        "0143-9667",
+        "0143-9668",
+        "0143-9669",
+        "0143-9899"
+      ],
+      "rxcui": [
+        "1721314",
+        "1721315"
+      ],
+      "setid": "d3ca59bd-ae00-48ab-89aa-87c7f56e9989",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "FLUCONAZOLE INJECTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2024-07-01"
+    },
+    {
+      "application_numbers": [
+        "ANDA077253"
+      ],
+      "brand_names": [
+        "Fluconazole"
+      ],
+      "combination": false,
+      "home_inn": "fluconazole",
+      "ingredients": [
+        "FLUCONAZOLE"
+      ],
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2006-01-25",
+      "moieties": [
+        "FLUCONAZOLE"
+      ],
+      "product_ndcs": [
+        "68462-101",
+        "68462-102",
+        "68462-104",
+        "68462-119"
+      ],
+      "rxcui": [
+        "197698",
+        "197699",
+        "197700",
+        "197701"
+      ],
+      "setid": "3da5f41d-5200-45ac-b89d-00881237ec85",
+      "source": "openfda",
+      "spl_version": 23,
+      "title": "FLUCONAZOLE TABLET [GLENMARK PHARMACEUTICALS INC., USA]",
+      "upload_date": "2026-02-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA077731"
+      ],
+      "brand_names": [
+        "Fluconazole"
+      ],
+      "combination": false,
+      "home_inn": "fluconazole",
+      "ingredients": [
+        "FLUCONAZOLE"
+      ],
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2008-10-07",
+      "moieties": [
+        "FLUCONAZOLE"
+      ],
+      "product_ndcs": [
+        "57237-003",
+        "57237-004",
+        "57237-005",
+        "57237-006"
+      ],
+      "rxcui": [
+        "197698",
+        "197699",
+        "197700",
+        "197701"
+      ],
+      "setid": "2ca7efcd-4a8d-4139-a3eb-930afd18b13f",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "FLUCONAZOLE TABLET [RISING PHARMA HOLDINGS, INC.]",
+      "upload_date": "2024-08-22"
+    },
+    {
+      "application_numbers": [
+        "NDA019950"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "DIFLUCAN"
+      ],
+      "first_posted": "2024-03-12",
+      "found_by": "DIFLUCAN",
+      "labeler": "Roerig",
+      "labeler_unverified": false,
+      "last_posted": "2025-03-17",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2010-05-31",
+        "2011-07-31"
+      ],
+      "product_ndcs": [
+        "0049-3371",
+        "0049-3372",
+        "0049-3435",
+        "0049-3436",
+        "0049-3437",
+        "0049-3438"
+      ],
+      "rxcui": [],
+      "setid": "ff5f3ea4-42e2-4e8b-a594-a3964d2016ed",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "DIFLUCAN (fluconazole) solution"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "afde17e7-b95b-4cd5-97eb-e361724014bd"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d7fa1d79-4cd3-4a55-b74b-b31e82e616a3"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0adb2f88-8a6f-4f33-9e2d-73f537e05313"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "02f74fe7-0649-46c5-a06a-0700cd265773"
+    },
+    {
+      "combination": false,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8f90f169-6a72-4c33-a2af-0bc943602bc2"
+    },
+    {
+      "combination": false,
+      "labeler": "Slate Run Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "13804efd-7cb3-431f-a6a7-bd6d1da5889e"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6ebf24fd-41cd-4b3c-8176-a1436253ba2d"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d2acccda-8068-46c1-8562-950d7f70ee06"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bf588f7e-89de-4b4e-8d33-c1ff2be1b34e"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ccbe0991-27a1-4ddb-bfc7-1b3422e53390"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "83bcb8fc-53f1-4d7b-b083-0905b52c6c7e"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d1364455-1537-46d4-b093-38cca3be778f"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c041227b-dab6-4c29-ab59-d31993d524b2"
+    },
+    {
+      "combination": false,
+      "labeler": "Hospira, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "22ebc3fb-ee81-44bd-a6e3-5e759ee724a8"
+    },
+    {
+      "combination": false,
+      "labeler": "Zhejiang Poly Pharm. Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2a3ba181-5baa-5942-e063-6294a90a82b2"
+    },
+    {
+      "combination": false,
+      "labeler": "Radha Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4616c7ad-be61-7ac0-e063-6394a90ab9ed"
+    }
+  ]
+}

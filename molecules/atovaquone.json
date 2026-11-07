@@ -1,0 +1,456 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "ATOVAQUONE"
+  ],
+  "inn": "atovaquone",
+  "name": "ATOVAQUONE",
+  "rank": 319,
+  "rxcui": [
+    "211947",
+    "308429",
+    "864675",
+    "864679",
+    "864681",
+    "864685"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 19,
+    "approval_holders": 17,
+    "earliest_marketing_start": "1995-02-28",
+    "latest_label_update": "2026-10-06",
+    "nda_bla_applications": 2,
+    "repackagers": 10
+  },
+  "unii": [
+    {
+      "ingredient": "ATOVAQUONE",
+      "unii": "Y883P1Z2LT"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020500"
+      ],
+      "brand_names": [
+        "MEPRON"
+      ],
+      "combination": false,
+      "home_inn": "atovaquone",
+      "ingredients": [
+        "ATOVAQUONE"
+      ],
+      "labeler": "GlaxoSmithKline LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1995-02-28",
+      "moieties": [
+        "ATOVAQUONE"
+      ],
+      "product_ndcs": [
+        "0173-0547",
+        "0173-0665"
+      ],
+      "rxcui": [
+        "211947",
+        "308429"
+      ],
+      "setid": "b426b6bf-f07e-4580-97ae-dfca1ddf5b8f",
+      "source": "openfda",
+      "spl_version": 28,
+      "title": "MEPRON (ATOVAQUONE) SUSPENSION [GLAXOSMITHKLINE LLC]",
+      "upload_date": "2026-07-03"
+    },
+    {
+      "application_numbers": [
+        "NDA021078"
+      ],
+      "brand_names": [
+        "MALARONE"
+      ],
+      "combination": true,
+      "home_inn": "atovaquone",
+      "ingredients": [
+        "ATOVAQUONE",
+        "PROGUANIL HYDROCHLORIDE"
+      ],
+      "labeler": "GlaxoSmithKline LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2000-07-26",
+      "moieties": [
+        "ATOVAQUONE",
+        "PROGUANIL"
+      ],
+      "product_ndcs": [
+        "0173-0675",
+        "0173-0676"
+      ],
+      "rxcui": [
+        "864675",
+        "864679",
+        "864681",
+        "864685"
+      ],
+      "setid": "fc22e8d8-3bfb-4f70-a599-dd81262a4887",
+      "source": "openfda",
+      "spl_version": 31,
+      "title": "MALARONE (ATOVAQUONE AND PROGUANIL HYDROCHLORIDE) TABLET, FILM COATED [GLAXOSMITHKLINE LLC]",
+      "upload_date": "2026-07-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA202960"
+      ],
+      "brand_names": [
+        "ATOVAQUONE"
+      ],
+      "combination": false,
+      "home_inn": "atovaquone",
+      "ingredients": [
+        "ATOVAQUONE"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-02-09",
+      "moieties": [
+        "ATOVAQUONE"
+      ],
+      "product_ndcs": [
+        "65162-693"
+      ],
+      "rxcui": [
+        "308429"
+      ],
+      "setid": "b7398fcf-522a-488a-8dd6-051561f62804",
+      "source": "openfda",
+      "spl_version": 24,
+      "title": "ATOVAQUONE SUSPENSION [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2026-05-14"
+    },
+    {
+      "application_numbers": [
+        "ANDA207833"
+      ],
+      "brand_names": [
+        "Atovaquone"
+      ],
+      "combination": false,
+      "home_inn": "atovaquone",
+      "ingredients": [
+        "ATOVAQUONE"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-04-28",
+      "moieties": [
+        "ATOVAQUONE"
+      ],
+      "product_ndcs": [
+        "62135-528"
+      ],
+      "rxcui": [
+        "308429"
+      ],
+      "setid": "de0e29b5-a4c7-405c-a5b9-438729d9ba3a",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "ATOVAQUONE SUSPENSION [CHARTWELL RX, LLC]",
+      "upload_date": "2024-05-27"
+    },
+    {
+      "application_numbers": [
+        "ANDA209685"
+      ],
+      "brand_names": [
+        "atovaquone"
+      ],
+      "combination": false,
+      "home_inn": "atovaquone",
+      "ingredients": [
+        "ATOVAQUONE"
+      ],
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-12-31",
+      "moieties": [
+        "ATOVAQUONE"
+      ],
+      "product_ndcs": [
+        "68462-421"
+      ],
+      "rxcui": [
+        "308429"
+      ],
+      "setid": "9045ba6f-938e-4717-bfa2-a3efe52f04cd",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "ATOVAQUONE SUSPENSION [GLENMARK PHARMACEUTICALS INC., USA]",
+      "upload_date": "2026-05-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA210692"
+      ],
+      "brand_names": [
+        "Atovaquone"
+      ],
+      "combination": false,
+      "home_inn": "atovaquone",
+      "ingredients": [
+        "ATOVAQUONE"
+      ],
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-10-11",
+      "moieties": [
+        "ATOVAQUONE"
+      ],
+      "product_ndcs": [
+        "31722-629"
+      ],
+      "rxcui": [
+        "308429"
+      ],
+      "setid": "2445304e-4b4e-4358-b098-31f3c49c52ef",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "ATOVAQUONE (ATOVAQUONE) SUSPENSION [CAMBER PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-06-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA210510"
+      ],
+      "brand_names": [
+        "Atovaquone Oral Suspension"
+      ],
+      "combination": false,
+      "home_inn": "atovaquone",
+      "ingredients": [
+        "ATOVAQUONE"
+      ],
+      "labeler": "KVK-Tech, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-03-29",
+      "moieties": [
+        "ATOVAQUONE"
+      ],
+      "product_ndcs": [
+        "10702-223"
+      ],
+      "rxcui": [
+        "308429"
+      ],
+      "setid": "b31ff20a-c363-4be0-9bc0-3081c163b63c",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "ATOVAQUONE ORAL SUSPENSION (ATOVAQUONE) SUSPENSION [KVK-TECH, INC.]",
+      "upload_date": "2026-06-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA212918"
+      ],
+      "brand_names": [
+        "Atovaquone"
+      ],
+      "combination": false,
+      "home_inn": "atovaquone",
+      "ingredients": [
+        "ATOVAQUONE"
+      ],
+      "labeler": "Bionpharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-06-01",
+      "moieties": [
+        "ATOVAQUONE"
+      ],
+      "product_ndcs": [
+        "69452-252"
+      ],
+      "rxcui": [
+        "308429"
+      ],
+      "setid": "bff4f4fc-6307-f414-e053-2a95a90ac0de",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "ATOVAQUONE SUSPENSION [BIONPHARMA INC.]",
+      "upload_date": "2025-12-05"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "MEPRON"
+      ],
+      "first_posted": "2007-05-04",
+      "found_by": "MEPRON",
+      "labeler": "GlaxoSmithKline",
+      "labeler_unverified": true,
+      "last_posted": "2007-05-04",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0081-0126"
+      ],
+      "rxcui": [],
+      "setid": "46ffaf1b-df17-4c43-20bd-8f06bd275732",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "mepron (atovaquone) tablet"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "MEPRON"
+      ],
+      "first_posted": "2017-12-08",
+      "found_by": "MEPRON",
+      "labeler": "GlaxoSmithKline Inc",
+      "labeler_unverified": true,
+      "last_posted": "2017-12-08",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "53873-000"
+      ],
+      "rxcui": [],
+      "setid": "b3fe2800-5b67-4d18-ba05-c02d04839d72",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "MEPRON (atovaquone) suspension"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Abon Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2d3715ed-6ddc-4c10-9d2c-9c80cb1dfd08"
+    },
+    {
+      "combination": true,
+      "labeler": "Prasco Laboratories",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7069521a-c7f9-4e8d-99b8-0cb5c971e7cf"
+    },
+    {
+      "combination": true,
+      "labeler": "Glenmark Pharmaceuticals Inc.,USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4b80d087-eaa7-448f-967e-344de7f16436"
+    },
+    {
+      "combination": true,
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "57d74d71-8cf8-4b10-9420-22954fae623c"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell Governmental & Specialty RX, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e6770b85-54f8-4969-af02-7d81586be761"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "03ddcc33-729c-4d46-ae6b-2ee47978ba16"
+    },
+    {
+      "combination": false,
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "df6086d3-6100-422a-bf23-e9610027749b"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fc7bdd97-f780-4eed-80e0-72e70267b21a"
+    },
+    {
+      "combination": false,
+      "labeler": "Major Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "73e2297e-7cda-4abf-9fb7-8c67cb5638a3"
+    },
+    {
+      "combination": false,
+      "labeler": "Kesin Pharma Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4a2e2c4b-85aa-9b30-e063-6294a90a7bd9"
+    },
+    {
+      "combination": true,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ad25ab65-42aa-48f6-b5ed-247f3685d5bf"
+    }
+  ]
+}

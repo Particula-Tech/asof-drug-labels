@@ -1,0 +1,459 @@
+{
+  "biologic": true,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/000955",
+      "eu_number": "EU/1/08/492",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000955",
+      "mah": "Roche Registration GmbH",
+      "marketing_authorisation_date": "2009-01-16",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/roactemra",
+      "name": "RoActemra",
+      "record_from": "2009-01-16",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 29
+    },
+    {
+      "biosimilar": true,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/005781",
+      "eu_number": "EU/1/23/1754",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-005781",
+      "mah": "Fresenius Kabi Deutschland GmbH",
+      "marketing_authorisation_date": "2023-09-15",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tyenne",
+      "name": "Tyenne",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": true,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/005984",
+      "eu_number": "EU/1/24/1825",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-005984",
+      "mah": "STADA Arzneimittel AG",
+      "marketing_authorisation_date": "2024-06-20",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tocilizumab-stada",
+      "name": "Tosmova (previously Tocilizumab STADA and Tofidence)",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": true,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/006196",
+      "eu_number": "EU/1/24/1896",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-006196",
+      "mah": "Celltrion Healthcare Hungary Kft.",
+      "marketing_authorisation_date": "2025-02-14",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/avtozma",
+      "name": "Avtozma",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": true,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/006416",
+      "eu_number": "EU/1/26/2022",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-006416",
+      "mah": "Chemical Works of Gedeon Richter Plc. (Gedeon Richter Plc.)",
+      "marketing_authorisation_date": "2026-04-27",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tuyory",
+      "name": "Tuyory",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000955",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "TOCILIZUMAB"
+  ],
+  "inn": "tocilizumab",
+  "name": "TOCILIZUMAB",
+  "rank": 58,
+  "rxcui": [
+    "1441527",
+    "1441530",
+    "1657974",
+    "1657976",
+    "1657979",
+    "1657980",
+    "1657981",
+    "1657982",
+    "2106073",
+    "2106075",
+    "2679431",
+    "2679438",
+    "2679440",
+    "2679441",
+    "2679442",
+    "2679443",
+    "2680287",
+    "2680294",
+    "2680296",
+    "2680297",
+    "2680298",
+    "2680299",
+    "2686045",
+    "2686050",
+    "2686053",
+    "2686057",
+    "2705425",
+    "2705432",
+    "2705435",
+    "2705439",
+    "2705443",
+    "2705448",
+    "2705450",
+    "2705451",
+    "2705452",
+    "2705453"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 7,
+    "approval_holders": 5,
+    "earliest_marketing_start": "2010-01-08",
+    "latest_label_update": "2026-10-26",
+    "nda_bla_applications": 7,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "TOCILIZUMAB",
+      "unii": "I031V2H011"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "BLA125276",
+        "BLA125472"
+      ],
+      "brand_names": [
+        "ACTEMRA",
+        "Actemra",
+        "Actemra ACTPen"
+      ],
+      "combination": false,
+      "home_inn": "tocilizumab",
+      "ingredients": [
+        "TOCILIZUMAB"
+      ],
+      "labeler": "Genentech, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2010-01-08",
+      "moieties": [
+        "TOCILIZUMAB"
+      ],
+      "product_ndcs": [
+        "50242-135",
+        "50242-136",
+        "50242-137",
+        "50242-138",
+        "50242-143"
+      ],
+      "rxcui": [
+        "1441527",
+        "1441530",
+        "1657974",
+        "1657976",
+        "1657979",
+        "1657980",
+        "1657981",
+        "1657982",
+        "2106073",
+        "2106075"
+      ],
+      "setid": "2e5365ff-cb2a-4b16-b2c7-e35c6bf2de13",
+      "source": "openfda",
+      "spl_version": 53,
+      "title": "ACTEMRA (TOCILIZUMAB) INJECTION, SOLUTION, CONCENTRATE ACTEMRA (TOCILIZUMAB) INJECTION, SOLUTION ACTEMRA ACTPEN (TOCILIZUMAB) INJECTION, SOLUTION [GENENTECH, INC.]",
+      "upload_date": "2025-12-19"
+    },
+    {
+      "application_numbers": [
+        "BLA761275"
+      ],
+      "brand_names": [
+        "TYENNE"
+      ],
+      "combination": false,
+      "home_inn": "tocilizumab",
+      "ingredients": [
+        "TOCILIZUMAB"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2024-04-15",
+      "moieties": [
+        "TOCILIZUMAB"
+      ],
+      "product_ndcs": [
+        "65219-590",
+        "65219-592",
+        "65219-594"
+      ],
+      "rxcui": [
+        "2679431",
+        "2679438",
+        "2679440",
+        "2679441",
+        "2679442",
+        "2679443"
+      ],
+      "setid": "e400bbe6-43c5-4de6-82b9-cb44ce3cd906",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "TYENNE (TOCILIZUMAB-AAZG) INJECTION, SOLUTION, CONCENTRATE [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2026-08-17"
+    },
+    {
+      "application_numbers": [
+        "BLA761354"
+      ],
+      "brand_names": [
+        "Tofidence"
+      ],
+      "combination": false,
+      "home_inn": "tocilizumab",
+      "ingredients": [
+        "TOCILIZUMAB"
+      ],
+      "labeler": "Biogen MA Inc",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2024-05-01",
+      "moieties": [
+        "TOCILIZUMAB"
+      ],
+      "product_ndcs": [
+        "64406-022",
+        "64406-023",
+        "64406-024"
+      ],
+      "rxcui": [
+        "2680287",
+        "2680294",
+        "2680296",
+        "2680297",
+        "2680298",
+        "2680299"
+      ],
+      "setid": "00529b23-850a-42b9-a152-125a95b5242c",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "TOFIDENCE (TOCILIZUMAB) INJECTION [BIOGEN MA INC]",
+      "upload_date": "2026-01-14"
+    },
+    {
+      "application_numbers": [
+        "BLA761449"
+      ],
+      "brand_names": [
+        "TYENNE"
+      ],
+      "combination": false,
+      "home_inn": "tocilizumab",
+      "ingredients": [
+        "TOCILIZUMAB"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2025-09-01",
+      "moieties": [
+        "TOCILIZUMAB"
+      ],
+      "product_ndcs": [
+        "65219-596",
+        "65219-598"
+      ],
+      "rxcui": [
+        "2686045",
+        "2686050",
+        "2686053",
+        "2686057"
+      ],
+      "setid": "87ac5047-4f2b-4571-a8a8-32e08865f379",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "TYENNE (TOCILIZUMAB-AAZG) INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2026-08-04"
+    },
+    {
+      "application_numbers": [
+        "BLA761420",
+        "BLA761498"
+      ],
+      "brand_names": [
+        "AVTOZMA"
+      ],
+      "combination": false,
+      "home_inn": "tocilizumab",
+      "ingredients": [
+        "TOCILIZUMAB"
+      ],
+      "labeler": "CELLTRION USA, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2025-10-02",
+      "moieties": [
+        "TOCILIZUMAB"
+      ],
+      "product_ndcs": [
+        "72606-042",
+        "72606-043",
+        "72606-044",
+        "72606-045"
+      ],
+      "rxcui": [
+        "2705425",
+        "2705432",
+        "2705435",
+        "2705439",
+        "2705443",
+        "2705448",
+        "2705450",
+        "2705451",
+        "2705452",
+        "2705453"
+      ],
+      "setid": "581c288f-8015-40ef-a4c3-683c96db193d",
+      "source": "dailymed-title-match",
+      "spl_version": 9,
+      "title": "AVTOZMA (TOCILIZUMAB) INJECTION, SOLUTION [CELLTRION USA, INC.]",
+      "upload_date": "2026-10-26"
+    },
+    {
+      "application_numbers": [
+        "BLA761275"
+      ],
+      "brand_names": [
+        "TYENNE"
+      ],
+      "combination": false,
+      "home_inn": "tocilizumab",
+      "ingredients": [
+        "TOCILIZUMAB"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2024-07-01",
+      "moieties": [
+        "TOCILIZUMAB"
+      ],
+      "product_ndcs": [
+        "65219-584",
+        "65219-586"
+      ],
+      "rxcui": [
+        "2686045",
+        "2686050",
+        "2686053",
+        "2686057"
+      ],
+      "setid": "ad76441d-da59-47df-8d9d-2243005180f0",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "TYENNE (TOCILIZUMAB-AAZG) INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2026-08-31"
+    },
+    {
+      "application_numbers": [
+        "BLA761354"
+      ],
+      "brand_names": [
+        "TOFIDENCE"
+      ],
+      "combination": false,
+      "home_inn": "tocilizumab",
+      "ingredients": [
+        "TOCILIZUMAB"
+      ],
+      "labeler": "Organon LLC",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2025-07-03",
+      "moieties": [
+        "TOCILIZUMAB"
+      ],
+      "product_ndcs": [
+        "78206-200",
+        "78206-201",
+        "78206-202"
+      ],
+      "rxcui": [
+        "2680287",
+        "2680294",
+        "2680296",
+        "2680297",
+        "2680298",
+        "2680299"
+      ],
+      "setid": "1ab3207a-ebfe-4565-9ce5-3a1538815c83",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "TOFIDENCE (TOCILIZUMAB) INJECTION [ORGANON LLC]",
+      "upload_date": "2026-06-05"
+    }
+  ],
+  "us_excluded": []
+}

@@ -1,0 +1,716 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "HALOPERIDOL",
+    "HALOPERIDOL DECANOATE",
+    "HALOPERIDOL LACTATE"
+  ],
+  "inn": "haloperidol",
+  "name": "HALOPERIDOL",
+  "rank": 105,
+  "rxcui": [
+    "141935",
+    "197754",
+    "204416",
+    "310670",
+    "310671",
+    "310672",
+    "314034",
+    "314035",
+    "859867",
+    "859871",
+    "1719646",
+    "1719803",
+    "1719862"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 42,
+    "approval_holders": 30,
+    "earliest_marketing_start": "1986-06-10",
+    "latest_label_update": "2026-10-29",
+    "nda_bla_applications": 0,
+    "repackagers": 12
+  },
+  "unii": [
+    {
+      "ingredient": "HALOPERIDOL",
+      "unii": "J6292F8L3D"
+    },
+    {
+      "ingredient": "HALOPERIDOL DECANOATE",
+      "unii": "AC20PJ4101"
+    },
+    {
+      "ingredient": "HALOPERIDOL LACTATE",
+      "unii": "6387S86PK3"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA018701"
+      ],
+      "brand_names": [
+        "Haloperidol Decanoate"
+      ],
+      "combination": false,
+      "home_inn": "haloperidol",
+      "ingredients": [
+        "HALOPERIDOL DECANOATE"
+      ],
+      "labeler": "Patriot Pharmaceuticals LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2011-06-17",
+      "moieties": [
+        "HALOPERIDOL"
+      ],
+      "product_ndcs": [
+        "10147-0921",
+        "10147-0922"
+      ],
+      "rxcui": [
+        "1719803",
+        "1719862"
+      ],
+      "setid": "9f0f42a8-5f7c-4be7-93ef-3ec225502cc6",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "HALOPERIDOL DECANOATE INJECTION [PATRIOT PHARMACEUTICALS LLC]",
+      "upload_date": "2025-02-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA070278"
+      ],
+      "brand_names": [
+        "Haloperidol"
+      ],
+      "combination": false,
+      "home_inn": "haloperidol",
+      "ingredients": [
+        "HALOPERIDOL"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1986-06-10",
+      "moieties": [
+        "HALOPERIDOL"
+      ],
+      "product_ndcs": [
+        "0378-0214",
+        "0378-0257",
+        "0378-0327",
+        "0378-0351"
+      ],
+      "rxcui": [
+        "197754",
+        "310670",
+        "310671",
+        "310672",
+        "314034",
+        "314035"
+      ],
+      "setid": "c559b0b0-4087-d12a-e718-c18ccb6811e6",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "HALOPERIDOL TABLET [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2026-03-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA073364"
+      ],
+      "brand_names": [
+        "Haloperidol"
+      ],
+      "combination": false,
+      "home_inn": "haloperidol",
+      "ingredients": [
+        "HALOPERIDOL LACTATE"
+      ],
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1993-09-28",
+      "moieties": [
+        "HALOPERIDOL"
+      ],
+      "product_ndcs": [
+        "54838-501"
+      ],
+      "rxcui": [
+        "141935"
+      ],
+      "setid": "3e44fed0-6132-4881-a9cd-af6156c7af9c",
+      "source": "openfda",
+      "spl_version": 29,
+      "title": "HALOPERIDOL SOLUTION [LANNETT COMPANY, INC.]",
+      "upload_date": "2025-09-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA075305"
+      ],
+      "brand_names": [
+        "Haloperidol Decanoate"
+      ],
+      "combination": false,
+      "home_inn": "haloperidol",
+      "ingredients": [
+        "HALOPERIDOL DECANOATE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1998-10-01",
+      "moieties": [
+        "HALOPERIDOL"
+      ],
+      "product_ndcs": [
+        "0143-9295",
+        "0143-9296"
+      ],
+      "rxcui": [],
+      "setid": "914026da-103a-4466-abd5-3763e9d55b67",
+      "source": "dailymed-title-match",
+      "spl_version": 7,
+      "title": "HALOPERIDOL DECANOATE INJECTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2026-10-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA074893"
+      ],
+      "brand_names": [
+        "Haloperidol Decanoate"
+      ],
+      "combination": false,
+      "home_inn": "haloperidol",
+      "ingredients": [
+        "HALOPERIDOL DECANOATE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2000-02-16",
+      "moieties": [
+        "HALOPERIDOL"
+      ],
+      "product_ndcs": [
+        "63323-469",
+        "63323-471"
+      ],
+      "rxcui": [
+        "859867",
+        "859871",
+        "1719803",
+        "1719862"
+      ],
+      "setid": "ca9896e0-fb2e-46a4-8700-20d144c14764",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "HALOPERIDOL DECANOATE INJECTION [FRESENIUS KABI USA, LLC",
+      "upload_date": "2021-11-08"
+    },
+    {
+      "application_numbers": [
+        "ANDA075689"
+      ],
+      "brand_names": [
+        "Haloperidol"
+      ],
+      "combination": false,
+      "home_inn": "haloperidol",
+      "ingredients": [
+        "HALOPERIDOL LACTATE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2000-10-20",
+      "moieties": [
+        "HALOPERIDOL"
+      ],
+      "product_ndcs": [
+        "63323-474"
+      ],
+      "rxcui": [
+        "204416",
+        "1719646"
+      ],
+      "setid": "b1ad2abd-a9d6-44e3-957b-36a73260f4f5",
+      "source": "dailymed-title-match",
+      "spl_version": 12,
+      "title": "HALOPERIDOL (HALOPERIDOL LACTATE) INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2026-10-01"
+    },
+    {
+      "application_numbers": [
+        "NDA015923"
+      ],
+      "archived_versions": 17,
+      "brand_names": [
+        "HALDOL"
+      ],
+      "first_posted": "2009-08-03",
+      "found_by": "HALDOL",
+      "labeler": "Janssen Pharmaceuticals, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2022-11-14",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-08-31"
+      ],
+      "product_ndcs": [
+        "50458-255"
+      ],
+      "rxcui": [],
+      "setid": "27cfe684-7d11-4f37-9c8b-b2bdd6b5348e",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "HALDOL (haloperidol) injection"
+    },
+    {
+      "application_numbers": [
+        "NDA018701"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "HALDOL"
+      ],
+      "first_posted": "2008-02-22",
+      "found_by": "HALDOL",
+      "labeler": "McNeil Pharmaceuticals",
+      "labeler_unverified": true,
+      "last_posted": "2012-05-04",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2011-05-31"
+      ],
+      "product_ndcs": [
+        "0045-0253",
+        "0045-0254"
+      ],
+      "rxcui": [],
+      "setid": "33cb1224-154c-44f8-908f-554d86d89463",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "9f0f42a8-5f7c-4be7-93ef-3ec225502cc6"
+      ],
+      "title": "HALDOL DECANOATE (haloperidol decanoate) injection"
+    },
+    {
+      "application_numbers": [
+        "NDA015923"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "HALDOL"
+      ],
+      "first_posted": "2008-02-22",
+      "found_by": "HALDOL",
+      "labeler": "McNeil Pharmaceuticals",
+      "labeler_unverified": true,
+      "last_posted": "2012-06-05",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2011-07-31"
+      ],
+      "product_ndcs": [
+        "0045-0255"
+      ],
+      "rxcui": [],
+      "setid": "73754c96-1442-455e-8724-9e6d4e796b04",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "HALDOL (haloperidol lactate) injection, solution"
+    },
+    {
+      "application_numbers": [
+        "NDA018701"
+      ],
+      "archived_versions": 25,
+      "brand_names": [
+        "HALDOL"
+      ],
+      "first_posted": "2009-08-03",
+      "found_by": "HALDOL",
+      "labeler": "Janssen Pharmaceuticals, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2026-09-23",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-08-31"
+      ],
+      "product_ndcs": [
+        "50458-253",
+        "50458-254"
+      ],
+      "rxcui": [],
+      "setid": "af0159a8-dff5-449a-aa2b-a0c430081e21",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "9f0f42a8-5f7c-4be7-93ef-3ec225502cc6"
+      ],
+      "title": "HALDOL DECANOATE (haloperidol decanoate) injection"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8397a841-f240-4767-9dcd-781e6d3f7c7f"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "509d0eb2-b930-4836-9669-dbebf0ac4076"
+    },
+    {
+      "combination": false,
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b488c106-f1ee-4b7b-8516-01162fb929f7"
+    },
+    {
+      "combination": false,
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8ffac6fb-1702-40d6-b085-152d24673cbd"
+    },
+    {
+      "combination": false,
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "909259a3-7627-4d1e-91d3-3363b3493599"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1a0e38cb-fd9f-4962-9f81-5c0023ca6b4c"
+    },
+    {
+      "combination": false,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "068fc913-779d-44c6-9585-3aa80e751bee"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6d2d7612-ad47-4ee7-a42c-945c976d947b"
+    },
+    {
+      "combination": false,
+      "labeler": "Method Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "87f8773b-bf89-4f7e-bff4-8cad117d5776"
+    },
+    {
+      "combination": false,
+      "labeler": "Upsher-Smith Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "afb3ac3e-7459-42d3-b5ca-e0d6d27ced73"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "14f40303-9604-4a30-8e86-8abaeb177ce1"
+    },
+    {
+      "combination": false,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3a474e06-fb00-40cb-aa3a-6edad43c2c0a"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8a96195e-97cd-4161-96e0-494a1636fa9c"
+    },
+    {
+      "combination": false,
+      "labeler": "Advagen Pharma Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8bfdc739-51b4-4914-9a60-923e83762307"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "00bb61c8-db35-4c04-9ef7-47d447d2496b"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bf21633e-f37b-4017-a143-538eb005de2d"
+    },
+    {
+      "combination": false,
+      "labeler": "Creekwood Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9763c044-7430-48f7-bf3e-da1c7c683955"
+    },
+    {
+      "combination": false,
+      "labeler": "PD-Rx Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "533b0b4c-cbd6-4ec0-a333-8b04b5b43a1d"
+    },
+    {
+      "combination": false,
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "31e33656-2f53-49e6-9816-261ea2e6961a"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "262456c4-47e5-4713-8379-844f8f587495"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "54502f78-7244-454a-9171-4e73127f1456"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b3167043-585f-482f-b8a7-591bc2721bd3"
+    },
+    {
+      "combination": false,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f2bff27f-929f-4f7d-b3eb-084ebc2a885f"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ec7a3560-71c3-43f5-bc6c-d51eadfd2aa1"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d21796e5-9f29-4c0a-8eed-70aeb9f0e5e9"
+    },
+    {
+      "combination": false,
+      "labeler": "Innogenix, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2c26af24-5ed3-4eb7-8d29-d6a019320a70"
+    },
+    {
+      "combination": false,
+      "labeler": "Amici Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9a9e20dd-646a-4fe9-a345-1b5bda8e7775"
+    },
+    {
+      "combination": false,
+      "labeler": "Marlex Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e7a61604-741f-2d3b-e053-2995a90a62fc"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f2d14406-2ad4-4c5b-9c24-a026f27b415d"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b83cb022-cfeb-4492-927b-0b461f7201d4"
+    },
+    {
+      "combination": false,
+      "labeler": "Caplin Steriles Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4f9af14a-38c4-4826-aca0-3501edb854e3"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3d011250-a517-4c27-8ce3-d59d441ea61c"
+    },
+    {
+      "combination": false,
+      "labeler": "AiPing Pharmaceutical, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bacc68ed-717b-477a-afa4-c45c182c617b"
+    },
+    {
+      "combination": false,
+      "labeler": "Armas Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "80d51d2c-30e4-4eef-b184-0cebb30ca429"
+    },
+    {
+      "combination": false,
+      "labeler": "Armas Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9979e28f-2716-4788-8605-16f6edf158b5"
+    },
+    {
+      "combination": false,
+      "labeler": "Armas Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f9876b88-3caa-4c08-9a59-9b4a455e101d"
+    }
+  ]
+}

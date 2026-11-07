@@ -1,0 +1,940 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "Pantozol Control is the non-prescription reflux product; the US innovator label is prescription Protonix",
+      "comparable_to_us": "no",
+      "ema_product_number": "EMEA/H/C/001013",
+      "eu_number": "EU/1/09/517",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-001013",
+      "mah": "Takeda GmbH",
+      "marketing_authorisation_date": "2009-06-11",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/pantozol-control",
+      "name": "Pantozol Control",
+      "record_from": "2009-06-12",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 11
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/001097",
+      "eu_number": "EU/1/09/515",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-001097",
+      "mah": "Takeda GmbH",
+      "marketing_authorisation_date": "2009-06-11",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/controloc-control",
+      "name": "Controloc Control",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/001098",
+      "eu_number": "EU/1/09/516",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-001098",
+      "mah": "Takeda GmbH",
+      "marketing_authorisation_date": "2009-06-12",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/somac-control",
+      "name": "Somac Control",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-001013",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "PANTOPRAZOLE SODIUM"
+  ],
+  "inn": "pantoprazole",
+  "name": "PANTOPRAZOLE",
+  "rank": 45,
+  "rxcui": [
+    "251872",
+    "283669",
+    "284400",
+    "314200",
+    "352125",
+    "763306",
+    "763308",
+    "885257",
+    "2675781",
+    "2675784",
+    "2675786"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 49,
+    "approval_holders": 38,
+    "earliest_marketing_start": "2000-05-01",
+    "latest_label_update": "2026-10-30",
+    "nda_bla_applications": 5,
+    "repackagers": 30
+  },
+  "unii": [
+    {
+      "ingredient": "PANTOPRAZOLE SODIUM",
+      "unii": "6871619Q5X"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020987",
+        "NDA022020"
+      ],
+      "brand_names": [
+        "Protonix Delayed-Release"
+      ],
+      "combination": false,
+      "home_inn": "pantoprazole",
+      "ingredients": [
+        "PANTOPRAZOLE SODIUM"
+      ],
+      "labeler": "Wyeth Pharmaceuticals LLC, a subsidiary of Pfizer Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2000-05-01",
+      "moieties": [
+        "PANTOPRAZOLE"
+      ],
+      "product_ndcs": [
+        "0008-0841",
+        "0008-0843",
+        "0008-0844"
+      ],
+      "rxcui": [
+        "251872",
+        "284400",
+        "314200",
+        "352125",
+        "763306",
+        "763308"
+      ],
+      "setid": "08098cb2-c048-4640-f387-6beec4a38936",
+      "source": "openfda",
+      "spl_version": 48,
+      "title": "PROTONIX DELAYED-RELEASE (PANTOPRAZOLE SODIUM) TABLET, DELAYED RELEASE PROTONIX DELAYED-RELEASE (PANTOPRAZOLE SODIUM) GRANULE, DELAYED RELEASE [WYETH PHARMACEUTICALS LLC, A SUBSIDIARY OF PFIZER INC.]",
+      "upload_date": "2026-05-20"
+    },
+    {
+      "application_numbers": [
+        "NDA020988"
+      ],
+      "brand_names": [
+        "Protonix I.V."
+      ],
+      "combination": false,
+      "home_inn": "pantoprazole",
+      "ingredients": [
+        "PANTOPRAZOLE SODIUM"
+      ],
+      "labeler": "Wyeth Pharmaceuticals LLC, a subsidiary of Pfizer Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2001-05-01",
+      "moieties": [
+        "PANTOPRAZOLE"
+      ],
+      "product_ndcs": [
+        "0008-0923"
+      ],
+      "rxcui": [
+        "283669",
+        "885257"
+      ],
+      "setid": "51e4144a-489e-436c-609a-39305f8f56ba",
+      "source": "openfda",
+      "spl_version": 60,
+      "title": "PROTONIX I.V. (PANTOPRAZOLE SODIUM) INJECTION, POWDER, FOR SOLUTION [WYETH PHARMACEUTICALS LLC, A SUBSIDIARY OF PFIZER INC.]",
+      "upload_date": "2025-12-23"
+    },
+    {
+      "application_numbers": [
+        "NDA209463"
+      ],
+      "brand_names": [
+        "Pantoprazole Sodium"
+      ],
+      "combination": false,
+      "home_inn": "pantoprazole",
+      "ingredients": [
+        "PANTOPRAZOLE SODIUM"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-09-22",
+      "moieties": [
+        "PANTOPRAZOLE"
+      ],
+      "product_ndcs": [
+        "0143-9300"
+      ],
+      "rxcui": [
+        "283669"
+      ],
+      "setid": "1e102c44-232b-4aaf-b457-2a740c47193a",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "PANTOPRAZOLE SODIUM INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2023-10-31"
+    },
+    {
+      "application_numbers": [
+        "NDA217512"
+      ],
+      "brand_names": [
+        "PANTOPRAZOLE SODIUM"
+      ],
+      "combination": false,
+      "home_inn": "pantoprazole",
+      "ingredients": [
+        "PANTOPRAZOLE SODIUM"
+      ],
+      "labeler": "Baxter Healthcare Company",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-02-14",
+      "moieties": [
+        "PANTOPRAZOLE"
+      ],
+      "product_ndcs": [
+        "0338-9644",
+        "0338-9646",
+        "0338-9648"
+      ],
+      "rxcui": [
+        "2675781",
+        "2675784",
+        "2675786"
+      ],
+      "setid": "a476e063-9450-4793-9a22-16b0a0a61cd0",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "PANTOPRAZOLE SODIUM (PANTOPRAZOLE SODIUM IN 0.9% SODIUM CHLORIDE) INJECTION, SOLUTION [BAXTER HEALTHCARE COMPANY]",
+      "upload_date": "2026-08-17"
+    },
+    {
+      "application_numbers": [
+        "NDA020988"
+      ],
+      "brand_names": [
+        "Protonix I.V."
+      ],
+      "combination": false,
+      "home_inn": "pantoprazole",
+      "ingredients": [
+        "PANTOPRAZOLE SODIUM"
+      ],
+      "labeler": "Wyeth Pharmaceuticals LLC, a subsidiary of Pfizer Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2013-05-01",
+      "moieties": [
+        "PANTOPRAZOLE"
+      ],
+      "product_ndcs": [
+        "0008-4001"
+      ],
+      "rxcui": [
+        "283669",
+        "885257"
+      ],
+      "setid": "f39b3e7d-39d2-4c8a-9974-4ab885241880",
+      "source": "openfda",
+      "spl_version": 24,
+      "title": "PROTONIX I.V. (PANTOPRAZOLE SODIUM) INJECTION, POWDER, FOR SOLUTION [WYETH PHARMACEUTICALS LLC, A SUBSIDIARY OF PFIZER INC.]",
+      "upload_date": "2025-12-23"
+    },
+    {
+      "application_numbers": [
+        "NDA209463"
+      ],
+      "brand_names": [
+        "Pantoprazole Sodium"
+      ],
+      "combination": false,
+      "home_inn": "pantoprazole",
+      "ingredients": [
+        "PANTOPRAZOLE SODIUM"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-09-22",
+      "moieties": [
+        "PANTOPRAZOLE"
+      ],
+      "product_ndcs": [
+        "0143-9284"
+      ],
+      "rxcui": [
+        "283669"
+      ],
+      "setid": "b02f3f85-8f9b-4d06-8eae-73e592626f3e",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "PANTOPRAZOLE SODIUM INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2023-10-31"
+    },
+    {
+      "application_numbers": [
+        "NDA209463"
+      ],
+      "brand_names": [
+        "Pantoprazole Sodium"
+      ],
+      "combination": false,
+      "home_inn": "pantoprazole",
+      "ingredients": [
+        "PANTOPRAZOLE SODIUM"
+      ],
+      "labeler": "Civica, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-06-01",
+      "moieties": [
+        "PANTOPRAZOLE"
+      ],
+      "product_ndcs": [
+        "72572-553"
+      ],
+      "rxcui": [
+        "283669"
+      ],
+      "setid": "c857dc41-7b47-4f26-a9f5-d76eb82b44ee",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "PANTOPRAZOLE SODIUM INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [CIVICA, INC.]",
+      "upload_date": "2025-06-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA077619"
+      ],
+      "brand_names": [
+        "Pantoprazole"
+      ],
+      "combination": false,
+      "home_inn": "pantoprazole",
+      "ingredients": [
+        "PANTOPRAZOLE SODIUM"
+      ],
+      "labeler": "Dr.Reddy's Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-01-19",
+      "moieties": [
+        "PANTOPRAZOLE"
+      ],
+      "product_ndcs": [
+        "55111-332",
+        "55111-333"
+      ],
+      "rxcui": [
+        "251872",
+        "314200"
+      ],
+      "setid": "564709e8-358f-c185-4ecb-b3849c3fe59c",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "PANTOPRAZOLE TABLET, DELAYED RELEASE [DR.REDDY'S LABORATORIES LIMITED]",
+      "upload_date": "2026-04-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA090970"
+      ],
+      "brand_names": [
+        "Pantoprazole Sodium"
+      ],
+      "combination": false,
+      "home_inn": "pantoprazole",
+      "ingredients": [
+        "PANTOPRAZOLE SODIUM"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-01-19",
+      "moieties": [
+        "PANTOPRAZOLE"
+      ],
+      "product_ndcs": [
+        "0378-6688",
+        "0378-6689"
+      ],
+      "rxcui": [
+        "251872",
+        "314200"
+      ],
+      "setid": "56ad5b97-8e5f-48a5-b2ba-a5484b43d018",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "PANTOPRAZOLE SODIUM TABLET, DELAYED RELEASE [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2023-09-25"
+    },
+    {
+      "application_numbers": [
+        "ANDA078281"
+      ],
+      "brand_names": [
+        "Pantoprazole Sodium"
+      ],
+      "combination": false,
+      "home_inn": "pantoprazole",
+      "ingredients": [
+        "PANTOPRAZOLE SODIUM"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-01-20",
+      "moieties": [
+        "PANTOPRAZOLE"
+      ],
+      "product_ndcs": [
+        "62135-533",
+        "62135-534"
+      ],
+      "rxcui": [
+        "251872",
+        "314200"
+      ],
+      "setid": "42a969c3-1144-4151-9cf3-3e9bace6a380",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "PANTOPRAZOLE SODIUM TABLET, DELAYED RELEASE [CHARTWELL RX, LLC]",
+      "upload_date": "2025-12-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA090074"
+      ],
+      "brand_names": [
+        "Pantoprazole Sodium"
+      ],
+      "combination": false,
+      "home_inn": "pantoprazole",
+      "ingredients": [
+        "PANTOPRAZOLE SODIUM"
+      ],
+      "labeler": "Torrent Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-01-20",
+      "moieties": [
+        "PANTOPRAZOLE"
+      ],
+      "product_ndcs": [
+        "13668-096",
+        "13668-429"
+      ],
+      "rxcui": [],
+      "setid": "9c983da1-a8e0-479e-8816-5d5668ea242e",
+      "source": "dailymed-title-match",
+      "spl_version": 28,
+      "title": "PANTOPRAZOLE SODIUM TABLET, DELAYED RELEASE [TORRENT PHARMACEUTICALS LIMITED]",
+      "upload_date": "2026-10-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA202038"
+      ],
+      "brand_names": [
+        "Pantoprazole Sodium"
+      ],
+      "combination": false,
+      "home_inn": "pantoprazole",
+      "ingredients": [
+        "PANTOPRAZOLE SODIUM"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-09-28",
+      "moieties": [
+        "PANTOPRAZOLE"
+      ],
+      "product_ndcs": [
+        "65862-559",
+        "65862-560"
+      ],
+      "rxcui": [
+        "251872",
+        "314200"
+      ],
+      "setid": "7418f358-f536-4de6-adf0-562b4373f2e3",
+      "source": "openfda",
+      "spl_version": 24,
+      "title": "PANTOPRAZOLE SODIUM TABLET, DELAYED RELEASE [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2026-02-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA202882"
+      ],
+      "brand_names": [
+        "PANTOPRAZOLE SODIUM"
+      ],
+      "combination": false,
+      "home_inn": "pantoprazole",
+      "ingredients": [
+        "PANTOPRAZOLE SODIUM"
+      ],
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-09-10",
+      "moieties": [
+        "PANTOPRAZOLE"
+      ],
+      "product_ndcs": [
+        "31722-712",
+        "31722-713"
+      ],
+      "rxcui": [
+        "251872",
+        "314200"
+      ],
+      "setid": "9daa1483-5a36-44db-9e0d-904d100da262",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "PANTOPRAZOLE SODIUM (PANTOPRAZOLE) TABLET, DELAYED RELEASE [CAMBER PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-01-26"
+    },
+    {
+      "application_numbers": [
+        "NDA020988"
+      ],
+      "archived_versions": 22,
+      "brand_names": [
+        "PROTONIX"
+      ],
+      "first_posted": "2010-12-01",
+      "found_by": "PROTONIX",
+      "labeler": "Wyeth Pharmaceuticals LLC, a subsidiary of Pfizer Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2020-10-14",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-02-28"
+      ],
+      "product_ndcs": [
+        "0008-0941"
+      ],
+      "rxcui": [],
+      "setid": "48f4d638-d2a1-47fa-9a81-3acda1b1b1e3",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "51e4144a-489e-436c-609a-39305f8f56ba",
+        "f39b3e7d-39d2-4c8a-9974-4ab885241880"
+      ],
+      "title": "PROTONIX I.V. (pantoprazole sodium) injection, powder, for solution"
+    },
+    {
+      "application_numbers": [
+        "NDA020988"
+      ],
+      "archived_versions": 18,
+      "brand_names": [
+        "PROTONIX"
+      ],
+      "first_posted": "2014-02-07",
+      "found_by": "PROTONIX",
+      "labeler": "Wyeth Pharmaceuticals LLC, a subsidiary of Pfizer Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2023-06-26",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-04-30"
+      ],
+      "product_ndcs": [
+        "0008-2001"
+      ],
+      "rxcui": [],
+      "setid": "5b5ddedd-d429-41a7-8573-10c3e9ad4e52",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "51e4144a-489e-436c-609a-39305f8f56ba",
+        "f39b3e7d-39d2-4c8a-9974-4ab885241880"
+      ],
+      "title": "PROTONIX I.V. (pantoprazole sodium) injection, powder, for solution"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9bed093a-9586-4c82-a2b7-c68f89d0faef"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f3ded82a-cf0d-4844-944a-75f9f9215ff0"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d9fcf6a2-3788-4955-84d9-3c319b13267c"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1bb94d3c-8bc3-4193-9dd8-e9a22066707c"
+    },
+    {
+      "combination": false,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1172bc4e-1700-402f-8262-97f05bac0d09"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0502f935-af7a-4f1e-8c3e-29e20647c885"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "014f9762-6948-46b7-8659-5c89f35ad8bf"
+    },
+    {
+      "combination": false,
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "90963a38-f629-45a4-bddd-9e13a55fe0f7"
+    },
+    {
+      "combination": false,
+      "labeler": "Edenbridge Pharmaceuticals LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a0bb76bc-094a-4d61-9bb2-2226c9da4ae9"
+    },
+    {
+      "combination": false,
+      "labeler": "Piramal Critical Care",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0696b10c-972b-9dcf-e063-6294a90a1034"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ee6278c0-d8c0-417c-a65c-b522ff76fe44"
+    },
+    {
+      "combination": false,
+      "labeler": "Granules Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8f2fb647-15bc-41cb-84a4-02e956e614fc"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "340b57c2-bcf8-4f46-b522-886daaf80351"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "91a6b13f-457f-4136-9541-c4adb9c3c35c"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "02ee7ed6-217f-4128-bbbb-b9390475a65b"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b3cec41e-e98b-470a-8ba2-c31537023989"
+    },
+    {
+      "combination": false,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "195e06db-b76c-4470-b6a5-a3979c25046d"
+    },
+    {
+      "combination": false,
+      "labeler": "Devatis Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "13c337e7-1e7b-47bd-9f88-92b0d548ca9c"
+    },
+    {
+      "combination": false,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "22b71a1d-87f8-43ba-b53d-53ca3f70c63e"
+    },
+    {
+      "combination": false,
+      "labeler": "Avenacy, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "70378eba-3904-4491-9f6d-00f5d1501c4a"
+    },
+    {
+      "combination": false,
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e7705bf6-e473-4b9c-bb5d-57e26ffe7b97"
+    },
+    {
+      "combination": false,
+      "labeler": "Burel Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3cc5197e-6b39-4415-b963-d4bbeecd7953"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "38353b9e-63bd-47e8-b7cb-b198d1e901f9"
+    },
+    {
+      "combination": false,
+      "labeler": "XLCare Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "17468dbf-84b6-4c53-9ad5-341350d2cfab"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c1ad8f91-3783-4139-8154-e461a53809c1"
+    },
+    {
+      "combination": false,
+      "labeler": "BE Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "52d5bc28-66df-43aa-bb1a-8ac4a2a7f693"
+    },
+    {
+      "combination": false,
+      "labeler": "Quallent Pharmaceuticals Health LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "643eb498-d916-4fb7-9281-32895575ab36"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c39be14b-e881-4586-b77e-4747db494954"
+    },
+    {
+      "combination": false,
+      "labeler": "Northstar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7e0c5dac-6832-4692-b012-ca59d5e88987"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c18aff31-f91e-4b6a-9713-52c9094c6082"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "eb3f58d4-0c69-4377-be45-c36099c98d33"
+    },
+    {
+      "combination": false,
+      "labeler": "American Health Packaging",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "423dac8b-bb1e-4456-9b6e-913c028b11bc"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "82f0103a-2b97-d210-6d7d-c627d60ad694"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4494f9d0-a1c8-477f-9b4a-f65d7637d9ec"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a9e5fac6-2db6-4311-a98b-eb3f0dde19d6"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6637d90b-b268-4a5f-ab5b-885f2d5f0d4b"
+    }
+  ]
+}

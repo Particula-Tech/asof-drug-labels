@@ -1,0 +1,438 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "VALGANCICLOVIR",
+    "VALGANCICLOVIR HYDROCHLORIDE"
+  ],
+  "inn": "valganciclovir",
+  "name": "VALGANCICLOVIR",
+  "rank": 333,
+  "rxcui": [
+    "284587",
+    "313566",
+    "863559",
+    "863562"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 21,
+    "approval_holders": 17,
+    "earliest_marketing_start": "2001-03-29",
+    "latest_label_update": "2026-10-12",
+    "nda_bla_applications": 2,
+    "repackagers": 4
+  },
+  "unii": [
+    {
+      "ingredient": "VALGANCICLOVIR",
+      "unii": "GCU97FKN3R"
+    },
+    {
+      "ingredient": "VALGANCICLOVIR HYDROCHLORIDE",
+      "unii": "4P3T9QF9NZ"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021304",
+        "NDA022257"
+      ],
+      "brand_names": [
+        "Valcyte"
+      ],
+      "combination": false,
+      "home_inn": "valganciclovir",
+      "ingredients": [
+        "VALGANCICLOVIR HYDROCHLORIDE"
+      ],
+      "labeler": "H2-Pharma, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2001-03-29",
+      "moieties": [
+        "VALGANCICLOVIR"
+      ],
+      "product_ndcs": [
+        "61269-480",
+        "61269-485"
+      ],
+      "rxcui": [
+        "284587",
+        "313566",
+        "863559",
+        "863562"
+      ],
+      "setid": "4c517a39-2ded-4c5a-8d56-276853414b31",
+      "source": "openfda",
+      "spl_version": 24,
+      "title": "VALCYTE (VALGANCICLOVIR) TABLET, FILM COATED VALCYTE (VALGANCICLOVIR HYDROCHLORIDE) POWDER, FOR SOLUTION [H2-PHARMA, LLC]",
+      "upload_date": "2025-12-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA203511"
+      ],
+      "brand_names": [
+        "Valganciclovir"
+      ],
+      "combination": false,
+      "home_inn": "valganciclovir",
+      "ingredients": [
+        "VALGANCICLOVIR HYDROCHLORIDE"
+      ],
+      "labeler": "Dr. Reddy's Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-12-15",
+      "moieties": [
+        "VALGANCICLOVIR"
+      ],
+      "product_ndcs": [
+        "55111-762"
+      ],
+      "rxcui": [
+        "313566"
+      ],
+      "setid": "f37c0780-b953-46c2-d7d4-959fc2c3e571",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "VALGANCICLOVIR TABLET, FILM COATED [DR. REDDY'S LABORATORIES LIMITED]",
+      "upload_date": "2026-06-03"
+    },
+    {
+      "application_numbers": [
+        "ANDA205166"
+      ],
+      "brand_names": [
+        "Valganciclovir"
+      ],
+      "combination": false,
+      "home_inn": "valganciclovir",
+      "ingredients": [
+        "VALGANCICLOVIR HYDROCHLORIDE"
+      ],
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-03-18",
+      "moieties": [
+        "VALGANCICLOVIR"
+      ],
+      "product_ndcs": [
+        "31722-832"
+      ],
+      "rxcui": [
+        "313566"
+      ],
+      "setid": "383e8810-b877-4a4f-abdf-c8c4c8e394f8",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "VALGANCICLOVIR (VALGANCICLOVIR) TABLET, FILM COATED [CAMBER PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-01-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA204750"
+      ],
+      "brand_names": [
+        "VALGANCICLOVIR HYDROCHLORIDE"
+      ],
+      "combination": false,
+      "home_inn": "valganciclovir",
+      "ingredients": [
+        "VALGANCICLOVIR HYDROCHLORIDE"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-03-31",
+      "moieties": [
+        "VALGANCICLOVIR"
+      ],
+      "product_ndcs": [
+        "65862-753"
+      ],
+      "rxcui": [
+        "313566"
+      ],
+      "setid": "8d2ffc05-2fbc-41f8-8656-fbc0bfa7ad83",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "VALGANCICLOVIR HYDROCHLORIDE TABLET [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2026-01-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA205220"
+      ],
+      "brand_names": [
+        "Valganciclovir hydrochloride for Oral"
+      ],
+      "combination": false,
+      "home_inn": "valganciclovir",
+      "ingredients": [
+        "VALGANCICLOVIR HYDROCHLORIDE"
+      ],
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-08-26",
+      "moieties": [
+        "VALGANCICLOVIR"
+      ],
+      "product_ndcs": [
+        "0591-2579"
+      ],
+      "rxcui": [
+        "863559"
+      ],
+      "setid": "92281301-5fb5-4eea-8766-4863e241c234",
+      "source": "openfda",
+      "spl_version": 26,
+      "title": "VALGANCICLOVIR HYDROCHLORIDE FOR ORAL (VALGANCICLOVIR HYDROCHLORIDE) POWDER, FOR SOLUTION [ACTAVIS PHARMA, INC.]",
+      "upload_date": "2026-09-03"
+    },
+    {
+      "application_numbers": [
+        "ANDA206876"
+      ],
+      "brand_names": [
+        "valganciclovir hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "valganciclovir",
+      "ingredients": [
+        "VALGANCICLOVIR HYDROCHLORIDE"
+      ],
+      "labeler": "Dr. Reddy's Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-12-12",
+      "moieties": [
+        "VALGANCICLOVIR"
+      ],
+      "product_ndcs": [
+        "43598-356"
+      ],
+      "rxcui": [
+        "313566"
+      ],
+      "setid": "e30ae2b2-dad2-39ba-6bc7-400807791ab0",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "VALGANCICLOVIR HYDROCHLORIDE TABLET [DR. REDDY'S LABORATORIES INC]",
+      "upload_date": "2022-12-26"
+    },
+    {
+      "application_numbers": [
+        "ANDA212234"
+      ],
+      "brand_names": [
+        "Valganciclovir"
+      ],
+      "combination": false,
+      "home_inn": "valganciclovir",
+      "ingredients": [
+        "VALGANCICLOVIR HYDROCHLORIDE"
+      ],
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-12-26",
+      "moieties": [
+        "VALGANCICLOVIR"
+      ],
+      "product_ndcs": [
+        "27241-158"
+      ],
+      "rxcui": [
+        "313566"
+      ],
+      "setid": "d13cc8ad-eaf0-4ae6-89da-a850a08b1067",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "VALGANCICLOVIR TABLET [AJANTA PHARMA USA INC.]",
+      "upload_date": "2026-01-08"
+    },
+    {
+      "application_numbers": [
+        "NDA021304",
+        "NDA022257"
+      ],
+      "archived_versions": 18,
+      "brand_names": [
+        "VALCYTE"
+      ],
+      "first_posted": "2006-07-18",
+      "found_by": "VALCYTE",
+      "labeler": "Genentech, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2024-11-20",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-09-30"
+      ],
+      "product_ndcs": [
+        "0004-0038",
+        "0004-0039"
+      ],
+      "rxcui": [],
+      "setid": "dc548ff9-e8ea-4d6e-b9b4-e31f53ac4078",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "4c517a39-2ded-4c5a-8d56-276853414b31"
+      ],
+      "title": "VALCYTE (valganciclovir) tablet, film coated VALCYTE (valganciclovir hydrochloride) powder, for solution"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "178a014b-92c7-44a7-abb8-95d89a2feb8f"
+    },
+    {
+      "combination": false,
+      "labeler": "Granules Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "39452b74-161d-4525-a0f7-fe486f001513"
+    },
+    {
+      "combination": false,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "614ff447-7e5f-4ea6-ba85-ec1f6497b360"
+    },
+    {
+      "combination": false,
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "390691b2-3db0-4b9f-934f-120674726f14"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "28703782-9f48-4866-a32d-1604da9dee6b"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1e08a87f-624a-4993-a773-8c660c27b6af"
+    },
+    {
+      "combination": false,
+      "labeler": "Florida Pharmaceutical Products, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cc6c4939-7908-439c-b1b8-6b52e826c7a5"
+    },
+    {
+      "combination": false,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "facbcc41-52cf-4433-b3fc-9bf8f06dcdd9"
+    },
+    {
+      "combination": false,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b856bfaf-ec6b-4171-81c4-b9b07f780084"
+    },
+    {
+      "combination": false,
+      "labeler": "airis PHARMA PVT LTD",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ddfb4e0e-64f5-4654-8670-91b8b6abe794"
+    },
+    {
+      "combination": false,
+      "labeler": "American Health Packaging",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0e30509f-add6-43c8-9e1d-e10c55a207e6"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2e8a4d62-2098-4ffe-a154-e45cfdfe6c4c"
+    },
+    {
+      "combination": false,
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "89a934f0-85a3-44c1-82e5-d09d1738e08d"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1cc09039-dcd6-4721-abd4-411535ccf442"
+    }
+  ]
+}

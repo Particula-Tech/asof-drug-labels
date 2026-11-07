@@ -1,0 +1,1126 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "Jorveza is the orodispersible tablet for eosinophilic oesophagitis",
+      "comparable_to_us": "no",
+      "ema_product_number": "EMEA/H/C/004655",
+      "eu_number": "EU/1/17/1254",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-004655",
+      "mah": "Dr. Falk Pharma GmbH",
+      "marketing_authorisation_date": "2018-01-08",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/jorveza",
+      "name": "Jorveza",
+      "record_from": "2018-01-08",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 6
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/005653",
+      "eu_number": "EU/1/22/1657",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-005653",
+      "mah": "Stada Arzneimittel AG",
+      "marketing_authorisation_date": "2022-07-15",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/kinpeygo",
+      "name": "Kinpeygo",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 5,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-004655",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "BUDESONIDE"
+  ],
+  "inn": "budesonide",
+  "name": "BUDESONIDE",
+  "rank": 28,
+  "rxcui": [
+    "252559",
+    "349094",
+    "351109",
+    "616817",
+    "616819",
+    "616830",
+    "966522",
+    "966524",
+    "966527",
+    "966529",
+    "1244214",
+    "1246288",
+    "1246290",
+    "1246304",
+    "1246306",
+    "1246314",
+    "1246315",
+    "1246316",
+    "1246317",
+    "1366550",
+    "1366556",
+    "1596778",
+    "1596779",
+    "2387326",
+    "2387328",
+    "2387329",
+    "2387331",
+    "2587883",
+    "2587889",
+    "2665906",
+    "2665912",
+    "2675280",
+    "2675286",
+    "2678391",
+    "2678392",
+    "2741705",
+    "2741708",
+    "2741710",
+    "2741711"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 36,
+    "approval_holders": 27,
+    "earliest_marketing_start": "2000-09-08",
+    "latest_label_update": "2026-10-29",
+    "nda_bla_applications": 10,
+    "repackagers": 9
+  },
+  "unii": [
+    {
+      "ingredient": "BUDESONIDE",
+      "unii": "Q3OKS62Q6X"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020929"
+      ],
+      "brand_names": [
+        "PULMICORT RESPULES"
+      ],
+      "combination": false,
+      "home_inn": "budesonide",
+      "ingredients": [
+        "BUDESONIDE"
+      ],
+      "labeler": "AstraZeneca Pharmaceuticals LP",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2000-09-08",
+      "moieties": [
+        "BUDESONIDE"
+      ],
+      "product_ndcs": [
+        "0186-1988",
+        "0186-1989",
+        "0186-1990"
+      ],
+      "rxcui": [
+        "252559",
+        "349094",
+        "351109",
+        "616817",
+        "616819",
+        "616830"
+      ],
+      "setid": "33cd9834-76df-4f26-3fa2-aab6b9eee8f2",
+      "source": "openfda",
+      "spl_version": 23,
+      "title": "PULMICORT RESPULES (BUDESONIDE) SUSPENSION [ASTRAZENECA PHARMACEUTICALS LP]",
+      "upload_date": "2024-11-20"
+    },
+    {
+      "application_numbers": [
+        "NDA021949"
+      ],
+      "brand_names": [
+        "PULMICORT FLEXHALER"
+      ],
+      "combination": false,
+      "home_inn": "budesonide",
+      "ingredients": [
+        "BUDESONIDE"
+      ],
+      "labeler": "H2-Pharma LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2007-03-19",
+      "moieties": [
+        "BUDESONIDE"
+      ],
+      "product_ndcs": [
+        "61269-509",
+        "61269-518"
+      ],
+      "rxcui": [
+        "966522",
+        "966524",
+        "966527",
+        "966529"
+      ],
+      "setid": "10f2ae5b-a6fb-4804-9111-0cd067c2b1b2",
+      "source": "openfda",
+      "spl_version": 28,
+      "title": "PULMICORT FLEXHALER (BUDESONIDE) AEROSOL, POWDER [H2-PHARMA LLC]",
+      "upload_date": "2025-01-16"
+    },
+    {
+      "application_numbers": [
+        "NDA203634"
+      ],
+      "brand_names": [
+        "Uceris"
+      ],
+      "combination": false,
+      "home_inn": "budesonide",
+      "ingredients": [
+        "BUDESONIDE"
+      ],
+      "labeler": "Santarus Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2013-01-14",
+      "moieties": [
+        "BUDESONIDE"
+      ],
+      "product_ndcs": [
+        "68012-309"
+      ],
+      "rxcui": [
+        "1366550",
+        "1366556"
+      ],
+      "setid": "92cbb190-8851-46ed-bfe0-166ca62ef2e9",
+      "source": "openfda",
+      "spl_version": 20,
+      "title": "UCERIS (BUDESONIDE) TABLET, EXTENDED RELEASE [SANTARUS INC.]",
+      "upload_date": "2024-10-23"
+    },
+    {
+      "application_numbers": [
+        "NDA205613"
+      ],
+      "brand_names": [
+        "Uceris"
+      ],
+      "combination": false,
+      "home_inn": "budesonide",
+      "ingredients": [
+        "BUDESONIDE"
+      ],
+      "labeler": "Salix Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2014-12-01",
+      "moieties": [
+        "BUDESONIDE"
+      ],
+      "product_ndcs": [
+        "65649-651"
+      ],
+      "rxcui": [
+        "1596778",
+        "1596779"
+      ],
+      "setid": "230e4596-2a9b-4d55-b0a0-0cabbcff5289",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "UCERIS (BUDESONIDE) AEROSOL, FOAM [SALIX PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-11-27"
+    },
+    {
+      "application_numbers": [
+        "NDA021324"
+      ],
+      "brand_names": [
+        "budesonide"
+      ],
+      "combination": false,
+      "home_inn": "budesonide",
+      "ingredients": [
+        "BUDESONIDE"
+      ],
+      "labeler": "Padagis US LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-06-29",
+      "moieties": [
+        "BUDESONIDE"
+      ],
+      "product_ndcs": [
+        "0574-9855"
+      ],
+      "rxcui": [
+        "1244214"
+      ],
+      "setid": "3a18d5a7-04c5-4137-8155-70a8adc0a48b",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "BUDESONIDE CAPSULE [PADAGIS US LLC]",
+      "upload_date": "2026-03-10"
+    },
+    {
+      "application_numbers": [
+        "NDA215935"
+      ],
+      "brand_names": [
+        "Tarpeyo"
+      ],
+      "combination": false,
+      "home_inn": "budesonide",
+      "ingredients": [
+        "BUDESONIDE"
+      ],
+      "labeler": "Calliditas Therapeutics AB",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-12-15",
+      "moieties": [
+        "BUDESONIDE"
+      ],
+      "product_ndcs": [
+        "81749-004"
+      ],
+      "rxcui": [
+        "2587883",
+        "2587889"
+      ],
+      "setid": "938cada4-d6bf-4252-836f-dd40f9eadb4d",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "TARPEYO (BUDESONIDE) CAPSULE, DELAYED RELEASE [CALLIDITAS THERAPEUTICS AB]",
+      "upload_date": "2026-01-26"
+    },
+    {
+      "application_numbers": [
+        "NDA213976"
+      ],
+      "brand_names": [
+        "Eohilia"
+      ],
+      "combination": false,
+      "home_inn": "budesonide",
+      "ingredients": [
+        "BUDESONIDE"
+      ],
+      "labeler": "TAKEDA PHARMACEUTICALS AMERICA, INC.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-02-09",
+      "moieties": [
+        "BUDESONIDE"
+      ],
+      "product_ndcs": [
+        "64764-105"
+      ],
+      "rxcui": [
+        "2675280",
+        "2675286"
+      ],
+      "setid": "56f2023a-69b2-4470-b4ad-af7ec1be527a",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "EOHILIA (BUDESONIDE) SUSPENSION [TAKEDA PHARMACEUTICALS AMERICA, INC.]",
+      "upload_date": "2025-02-06"
+    },
+    {
+      "application_numbers": [
+        "NDA021929"
+      ],
+      "brand_names": [
+        "SYMBICORT"
+      ],
+      "combination": true,
+      "home_inn": "budesonide",
+      "ingredients": [
+        "BUDESONIDE",
+        "FORMOTEROL FUMARATE"
+      ],
+      "labeler": "AstraZeneca Pharmaceuticals LP",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2007-05-29",
+      "moieties": [
+        "BUDESONIDE",
+        "FORMOTEROL"
+      ],
+      "product_ndcs": [
+        "0186-0370",
+        "0186-0372"
+      ],
+      "rxcui": [
+        "1246288",
+        "1246290",
+        "1246304",
+        "1246306",
+        "1246314",
+        "1246315",
+        "1246316",
+        "1246317"
+      ],
+      "setid": "fafa4cf1-99c2-43d5-73ad-51f256de3be0",
+      "source": "openfda",
+      "spl_version": 31,
+      "title": "SYMBICORT (BUDESONIDE AND FORMOTEROL FUMARATE DIHYDRATE) AEROSOL [ASTRAZENECA PHARMACEUTICALS LP]",
+      "upload_date": "2024-11-20"
+    },
+    {
+      "application_numbers": [
+        "NDA212122"
+      ],
+      "brand_names": [
+        "BREZTRI"
+      ],
+      "combination": true,
+      "home_inn": "glycopyrronium",
+      "ingredients": [
+        "BUDESONIDE",
+        "FORMOTEROL",
+        "GLYCOPYRROLATE"
+      ],
+      "labeler": "AstraZeneca Pharmaceuticals LP",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2020-07-23",
+      "moieties": [
+        "BUDESONIDE",
+        "FORMOTEROL",
+        "GLYCOPYRRONIUM"
+      ],
+      "product_ndcs": [
+        "0310-4616",
+        "0310-6616"
+      ],
+      "rxcui": [
+        "2387326",
+        "2387328",
+        "2387329",
+        "2387331",
+        "2741705",
+        "2741708",
+        "2741710",
+        "2741711"
+      ],
+      "setid": "715433dc-cb2b-43ea-b6df-c5b4177adc6c",
+      "source": "dailymed-title-match",
+      "spl_version": 9,
+      "title": "BREZTRI (BUDESONIDE, GLYCOPYRROLATE, AND FORMOTEROL FUMARATE) AEROSOL, METERED [ASTRAZENECA PHARMACEUTICALS LP]",
+      "upload_date": "2026-06-23"
+    },
+    {
+      "application_numbers": [
+        "NDA214070"
+      ],
+      "brand_names": [
+        "AIRSUPRA"
+      ],
+      "combination": true,
+      "home_inn": "budesonide",
+      "ingredients": [
+        "ALBUTEROL SULFATE",
+        "BUDESONIDE"
+      ],
+      "labeler": "AstraZeneca Pharmaceuticals LP",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-10-02",
+      "moieties": [
+        "ALBUTEROL",
+        "BUDESONIDE"
+      ],
+      "product_ndcs": [
+        "0310-9080"
+      ],
+      "rxcui": [
+        "2665906",
+        "2665912",
+        "2678391",
+        "2678392"
+      ],
+      "setid": "e60aa9f9-5139-44df-b886-ebddc3c7eb13",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "AIRSUPRA (ALBUTEROL SULFATE AND BUDESONIDE) AEROSOL, METERED [ASTRAZENECA PHARMACEUTICALS LP]",
+      "upload_date": "2025-09-22"
+    },
+    {
+      "application_numbers": [
+        "NDA203634"
+      ],
+      "brand_names": [
+        "budesonide"
+      ],
+      "combination": false,
+      "home_inn": "budesonide",
+      "ingredients": [
+        "BUDESONIDE"
+      ],
+      "labeler": "Oceanside Pharmaceuticals",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2018-07-10",
+      "moieties": [
+        "BUDESONIDE"
+      ],
+      "product_ndcs": [
+        "68682-309"
+      ],
+      "rxcui": [
+        "1366550"
+      ],
+      "setid": "a12b2e99-c8b3-4d08-9af0-8c4a4376ebf1",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "BUDESONIDE TABLET, EXTENDED RELEASE [OCEANSIDE PHARMACEUTICALS]",
+      "upload_date": "2024-10-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA077519"
+      ],
+      "brand_names": [
+        "Budesonide"
+      ],
+      "combination": false,
+      "home_inn": "budesonide",
+      "ingredients": [
+        "BUDESONIDE"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2008-11-19",
+      "moieties": [
+        "BUDESONIDE"
+      ],
+      "product_ndcs": [
+        "0093-6815",
+        "0093-6816"
+      ],
+      "rxcui": [
+        "349094",
+        "351109"
+      ],
+      "setid": "2414058b-5d39-42f2-915f-03a5e1101ab5",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "BUDESONIDE SUSPENSION [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2021-06-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA078202"
+      ],
+      "brand_names": [
+        "Budesonide"
+      ],
+      "combination": false,
+      "home_inn": "budesonide",
+      "ingredients": [
+        "BUDESONIDE"
+      ],
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-10-01",
+      "moieties": [
+        "BUDESONIDE"
+      ],
+      "product_ndcs": [
+        "62135-822",
+        "62135-823"
+      ],
+      "rxcui": [
+        "349094",
+        "351109"
+      ],
+      "setid": "374013c9-18c9-4419-b9fb-9bc5c765688e",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "BUDESONIDE SUSPENSION [CHARTWELL RX, LLC]",
+      "upload_date": "2024-02-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA204548"
+      ],
+      "brand_names": [
+        "Budesonide"
+      ],
+      "combination": false,
+      "home_inn": "budesonide",
+      "ingredients": [
+        "BUDESONIDE"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-03-11",
+      "moieties": [
+        "BUDESONIDE"
+      ],
+      "product_ndcs": [
+        "0093-6817"
+      ],
+      "rxcui": [
+        "252559"
+      ],
+      "setid": "d90ffda1-12c7-4726-90e9-64bb103e84b5",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "BUDESONIDE SUSPENSION [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2020-04-16"
+    },
+    {
+      "application_numbers": [
+        "ANDA078404"
+      ],
+      "brand_names": [
+        "Budesonide Inhalation"
+      ],
+      "combination": false,
+      "home_inn": "budesonide",
+      "ingredients": [
+        "BUDESONIDE"
+      ],
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-08-04",
+      "moieties": [
+        "BUDESONIDE"
+      ],
+      "product_ndcs": [
+        "0115-1687",
+        "0115-1689"
+      ],
+      "rxcui": [
+        "349094",
+        "351109"
+      ],
+      "setid": "e8ef9489-83a2-4817-b21c-ea3fecd8c8dd",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "BUDESONIDE INHALATION (BUDESONIDE) SUSPENSION [AMNEAL PHARMACEUTICALS OF NEW YORK LLC]",
+      "upload_date": "2026-02-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA206134"
+      ],
+      "brand_names": [
+        "budesonide"
+      ],
+      "combination": false,
+      "home_inn": "budesonide",
+      "ingredients": [
+        "BUDESONIDE"
+      ],
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-06-08",
+      "moieties": [
+        "BUDESONIDE"
+      ],
+      "product_ndcs": [
+        "68382-720"
+      ],
+      "rxcui": [
+        "1244214"
+      ],
+      "setid": "29863154-5f98-410e-9bf3-0f08b551edef",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "BUDESONIDE CAPSULE, COATED PELLETS [ZYDUS PHARMACEUTICALS USA INC.]",
+      "upload_date": "2025-02-14"
+    },
+    {
+      "application_numbers": [
+        "NDA211929"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "ORTIKOS"
+      ],
+      "first_posted": "2020-01-10",
+      "found_by": "ORTIKOS",
+      "labeler": "Ferring Pharmaceuticals Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2023-03-15",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-10-31"
+      ],
+      "product_ndcs": [
+        "55566-1002",
+        "55566-1020"
+      ],
+      "rxcui": [],
+      "setid": "0b675429-878d-496e-85af-9e46201a10ea",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ORTIKOS (budesonide) capsule"
+    },
+    {
+      "application_numbers": [
+        "NDA020746"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "RHINOCORT"
+      ],
+      "first_posted": "2016-01-14",
+      "found_by": "RHINOCORT",
+      "labeler": "Johnson & Johnson Consumer Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2024-01-18",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-09-30"
+      ],
+      "product_ndcs": [
+        "50580-646"
+      ],
+      "rxcui": [],
+      "setid": "1ae1c5e8-16c6-4799-9a62-96d974c30f1f",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "RHINOCORT ALLERGY (budesonide) spray, metered"
+    },
+    {
+      "application_numbers": [
+        "NDA021324"
+      ],
+      "archived_versions": 9,
+      "brand_names": [
+        "ENTOCORT"
+      ],
+      "first_posted": "2016-05-16",
+      "found_by": "ENTOCORT",
+      "labeler": "Padagis US LLC",
+      "labeler_unverified": false,
+      "last_posted": "2022-05-02",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-01-31"
+      ],
+      "product_ndcs": [
+        "0574-9850"
+      ],
+      "rxcui": [],
+      "setid": "24f0312f-f768-42db-bf7c-4ba2ee4fc309",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "3a18d5a7-04c5-4137-8155-70a8adc0a48b"
+      ],
+      "title": "ENTOCORT EC (budesonide) capsule"
+    },
+    {
+      "application_numbers": [
+        "NDA020441"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "PULMICORT"
+      ],
+      "first_posted": "2007-03-01",
+      "found_by": "PULMICORT",
+      "labeler": "AstraZeneca Pharmaceuticals LP",
+      "labeler_unverified": false,
+      "last_posted": "2016-10-27",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2009-05-31"
+      ],
+      "product_ndcs": [
+        "0186-0915"
+      ],
+      "rxcui": [],
+      "setid": "3f994c51-d9e5-450a-e4be-eeb12d70d2a7",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "PULMICORT TURBUHALER (budesonide) powder, metered"
+    },
+    {
+      "application_numbers": [
+        "NDA021949"
+      ],
+      "archived_versions": 20,
+      "brand_names": [
+        "PULMICORT"
+      ],
+      "first_posted": "2007-10-25",
+      "found_by": "PULMICORT",
+      "labeler": "AstraZeneca Pharmaceuticals LP",
+      "labeler_unverified": false,
+      "last_posted": "2023-08-28",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-10-31"
+      ],
+      "product_ndcs": [
+        "0186-0916",
+        "0186-0917"
+      ],
+      "rxcui": [],
+      "setid": "54234b7d-3bcc-4809-1881-1d21484856a0",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "10f2ae5b-a6fb-4804-9111-0cd067c2b1b2"
+      ],
+      "title": "PULMICORT FLEXHALER (budesonide) aerosol, powder"
+    },
+    {
+      "application_numbers": [
+        "NDA021324"
+      ],
+      "archived_versions": 8,
+      "brand_names": [
+        "ENTOCORT"
+      ],
+      "first_posted": "2011-12-15",
+      "found_by": "ENTOCORT",
+      "labeler": "AstraZeneca Pharmaceuticals LP",
+      "labeler_unverified": false,
+      "last_posted": "2018-11-29",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-01-31"
+      ],
+      "product_ndcs": [
+        "0186-0702"
+      ],
+      "rxcui": [],
+      "setid": "70532afa-4006-4883-feb2-927faaee8e20",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "3a18d5a7-04c5-4137-8155-70a8adc0a48b"
+      ],
+      "title": "ENTOCORT EC (budesonide) capsule"
+    },
+    {
+      "application_numbers": [
+        "NDA020746"
+      ],
+      "archived_versions": 9,
+      "brand_names": [
+        "RHINOCORT"
+      ],
+      "first_posted": "2007-04-26",
+      "found_by": "RHINOCORT",
+      "labeler": "AstraZeneca Pharmaceuticals LP",
+      "labeler_unverified": false,
+      "last_posted": "2017-01-06",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-06-30"
+      ],
+      "product_ndcs": [
+        "0186-1070"
+      ],
+      "rxcui": [],
+      "setid": "c4be685c-405f-4e51-c192-75ef80a84c57",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "RHINOCORT AQUA (budesonide) spray, metered"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 2,
+      "brand_names": [
+        "UCERIS"
+      ],
+      "first_posted": "2018-03-13",
+      "found_by": "UCERIS",
+      "labeler": "ASM AEROSOL-SERVICE AG",
+      "labeler_unverified": true,
+      "last_posted": "2018-04-06",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "72032-651"
+      ],
+      "rxcui": [],
+      "setid": "fbeb0985-0c7f-401b-b2f8-fbd2637b6814",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "UCERIS (budesonide) aerosol, foam"
+    },
+    {
+      "application_numbers": [
+        "NDA021324"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "ENTOCORT"
+      ],
+      "first_posted": "2006-12-15",
+      "found_by": "ENTOCORT",
+      "labeler": "Prometheus Laboratories Inc",
+      "labeler_unverified": true,
+      "last_posted": "2025-08-18",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-01-31"
+      ],
+      "product_ndcs": [
+        "65483-702"
+      ],
+      "rxcui": [],
+      "setid": "fe6530ef-1b23-451f-1290-0e3ef02ec1b5",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "3a18d5a7-04c5-4137-8155-70a8adc0a48b"
+      ],
+      "title": "ENTOCORT EC (budesonide) capsule"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Oceanside Pharmaceuticals",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "b2cf85c5-3ae0-4f91-9f3a-1d6771e14a73"
+    },
+    {
+      "combination": false,
+      "labeler": "Rubicon Holdings Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "ae1105cd-69fc-4c15-937f-c535304341c2"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b15102d5-7884-44ed-8340-046d7b516fa8"
+    },
+    {
+      "combination": false,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c52c5382-1400-44b9-95be-a30e1cf706da"
+    },
+    {
+      "combination": false,
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "41d4fd39-81ee-41be-b34d-efb12b3a359d"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "944cbb7c-b41d-4a6d-8a93-2e646365c982"
+    },
+    {
+      "combination": false,
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f7265276-e649-4bc4-8ac8-1f5ac2b984e8"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a39fbcfc-3ffd-44bd-b882-01f8e1844213"
+    },
+    {
+      "combination": false,
+      "labeler": "Padagis Israel Pharmaceuticals Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ad4a68e7-9200-4f05-8058-714d5d8900f8"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c70c734f-2431-4414-bb94-4adda4985e5d"
+    },
+    {
+      "combination": true,
+      "labeler": "AstraZeneca Pharmaceuticals LP",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1d266fe8-52e3-4f85-a037-c5c1afa15e60"
+    },
+    {
+      "combination": true,
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dc529fc4-bddb-4673-8202-dc401f86166f"
+    },
+    {
+      "combination": true,
+      "labeler": "Teva Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dd352302-e2fe-4388-b4b0-00b34f6ebe48"
+    },
+    {
+      "combination": false,
+      "labeler": "Nephron Pharmaceuticals Corporation",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f12043df-f9a3-4edb-88f8-dd176c1a141c"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d645a346-c99b-4de7-9bca-69e73266d6b4"
+    },
+    {
+      "combination": false,
+      "labeler": "Northstar Rx LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a37866df-df07-4f71-8591-98c2804c4794"
+    },
+    {
+      "combination": false,
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4f126a29-38f7-4c4c-8978-37e72b289902"
+    },
+    {
+      "combination": false,
+      "labeler": "Exelan Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d9656442-4587-4867-9a8c-5f5b0402936e"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3235e2a4-8e12-2d58-e063-6294a90a4936"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "10336e42-0e9d-45c4-80bc-5149d5ec9e1c"
+    }
+  ]
+}

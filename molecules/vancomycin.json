@@ -1,0 +1,1151 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "VANCOMYCIN",
+    "VANCOMYCIN HYDROCHLORIDE"
+  ],
+  "inn": "vancomycin",
+  "name": "VANCOMYCIN",
+  "rank": 123,
+  "rxcui": [
+    "201848",
+    "201849",
+    "239209",
+    "313570",
+    "313571",
+    "313572",
+    "1807508",
+    "1807510",
+    "1807511",
+    "1807513",
+    "1807516",
+    "1807518",
+    "2049888",
+    "2049890",
+    "2049891",
+    "2118448",
+    "2118449",
+    "2387078",
+    "2387079",
+    "2688632",
+    "2688634",
+    "2725135",
+    "2727215",
+    "2727216",
+    "2727217",
+    "2727218",
+    "2727219",
+    "2727220"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 65,
+    "approval_holders": 28,
+    "earliest_marketing_start": "1958-11-14",
+    "latest_label_update": "2026-10-20",
+    "nda_bla_applications": 5,
+    "repackagers": 4
+  },
+  "unii": [
+    {
+      "ingredient": "VANCOMYCIN",
+      "unii": "6Q205EH1VU"
+    },
+    {
+      "ingredient": "VANCOMYCIN HYDROCHLORIDE",
+      "unii": "71WO621TJD"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA050671"
+      ],
+      "brand_names": [
+        "VANCOMYCIN HYDROCHLORIDE"
+      ],
+      "combination": false,
+      "home_inn": "vancomycin",
+      "ingredients": [
+        "VANCOMYCIN HYDROCHLORIDE"
+      ],
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1958-11-14",
+      "moieties": [
+        "VANCOMYCIN"
+      ],
+      "product_ndcs": [
+        "0338-0122",
+        "0338-0124",
+        "0338-3551",
+        "0338-3552",
+        "0338-3580",
+        "0338-3581",
+        "0338-3582",
+        "0338-3583"
+      ],
+      "rxcui": [
+        "1807508",
+        "1807510",
+        "1807511",
+        "2118448",
+        "2387078"
+      ],
+      "setid": "99e523d8-9bde-43cb-8434-497015e5dcbd",
+      "source": "openfda",
+      "spl_version": 27,
+      "title": "VANCOMYCIN HYDROCHLORIDE INJECTION, SOLUTION [BAXTER HEALTHCARE CORPORATION]",
+      "upload_date": "2026-06-18"
+    },
+    {
+      "application_numbers": [
+        "NDA050606"
+      ],
+      "brand_names": [
+        "Vancocin"
+      ],
+      "combination": false,
+      "home_inn": "vancomycin",
+      "ingredients": [
+        "VANCOMYCIN HYDROCHLORIDE"
+      ],
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2014-11-17",
+      "moieties": [
+        "VANCOMYCIN"
+      ],
+      "product_ndcs": [
+        "62559-310",
+        "62559-311"
+      ],
+      "rxcui": [
+        "201848",
+        "201849",
+        "313570",
+        "313571"
+      ],
+      "setid": "a078d9c2-f89c-4f9f-8ded-60ffb2983c3f",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "VANCOCIN (VANCOMYCIN HYDROCHLORIDE) CAPSULE [ANI PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-12-23"
+    },
+    {
+      "application_numbers": [
+        "NDA209481"
+      ],
+      "brand_names": [
+        "Vancomycin Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "vancomycin",
+      "ingredients": [
+        "VANCOMYCIN HYDROCHLORIDE"
+      ],
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-08-31",
+      "moieties": [
+        "VANCOMYCIN"
+      ],
+      "product_ndcs": [
+        "67457-705",
+        "67457-823",
+        "67457-824"
+      ],
+      "rxcui": [
+        "1807518",
+        "2049888",
+        "2049890",
+        "2049891"
+      ],
+      "setid": "caf22ccb-df75-45ea-a1d0-ccb2d37272fb",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "VANCOMYCIN HYDROCHLORIDE INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [MYLAN INSTITUTIONAL LLC]",
+      "upload_date": "2024-07-31"
+    },
+    {
+      "application_numbers": [
+        "NDA211962"
+      ],
+      "brand_names": [
+        "Vancomycin"
+      ],
+      "combination": false,
+      "home_inn": "vancomycin",
+      "ingredients": [
+        "VANCOMYCIN"
+      ],
+      "labeler": "Xellia Pharmaceuticals USA LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2019-02-15",
+      "moieties": [
+        "VANCOMYCIN"
+      ],
+      "product_ndcs": [
+        "70594-041",
+        "70594-042",
+        "70594-043",
+        "70594-044",
+        "70594-056",
+        "70594-057",
+        "70594-058"
+      ],
+      "rxcui": [
+        "1807508",
+        "1807510",
+        "1807511",
+        "2118448",
+        "2118449",
+        "2387078",
+        "2387079"
+      ],
+      "setid": "60bee69b-be70-412c-9e83-a24a0a8a5e7b",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "VANCOMYCIN INJECTION, SOLUTION [XELLIA PHARMACEUTICALS USA LLC]",
+      "upload_date": "2023-03-31"
+    },
+    {
+      "application_numbers": [
+        "NDA210274"
+      ],
+      "brand_names": [
+        "VANCOMYCIN HYDROCHLORIDE"
+      ],
+      "combination": false,
+      "home_inn": "vancomycin",
+      "ingredients": [
+        "VANCOMYCIN HYDROCHLORIDE"
+      ],
+      "labeler": "HIKMA PHARMACEUTICALS USA INC.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-02-02",
+      "moieties": [
+        "VANCOMYCIN"
+      ],
+      "product_ndcs": [
+        "0143-9161",
+        "0143-9162",
+        "0143-9473",
+        "0143-9474",
+        "0143-9475"
+      ],
+      "rxcui": [
+        "1807513",
+        "1807516",
+        "1807518",
+        "2049888",
+        "2049890"
+      ],
+      "setid": "8eccafe8-40c9-495a-872d-7f45a98ee759",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "VANCOMYCIN HYDROCHLORIDE INJECTION, POWDER, FOR SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2025-08-18"
+    },
+    {
+      "application_numbers": [
+        "NDA210274"
+      ],
+      "brand_names": [
+        "VANCOMYCIN HYDROCHLORIDE"
+      ],
+      "combination": false,
+      "home_inn": "vancomycin",
+      "ingredients": [
+        "VANCOMYCIN HYDROCHLORIDE"
+      ],
+      "labeler": "HIKMA PHARMACEUTICALS USA INC.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-02-02",
+      "moieties": [
+        "VANCOMYCIN"
+      ],
+      "product_ndcs": [
+        "0143-9163",
+        "0143-9164"
+      ],
+      "rxcui": [
+        "239209"
+      ],
+      "setid": "e4ce7b87-fab4-4b7a-b121-eba136c464ce",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "VANCOMYCIN HYDROCHLORIDE INJECTION, POWDER, FOR SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2024-08-12"
+    },
+    {
+      "application_numbers": [
+        "NDA209481"
+      ],
+      "brand_names": [
+        "Vancomycin Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "vancomycin",
+      "ingredients": [
+        "VANCOMYCIN HYDROCHLORIDE"
+      ],
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-07-23",
+      "moieties": [
+        "VANCOMYCIN"
+      ],
+      "product_ndcs": [
+        "72078-065",
+        "72078-066"
+      ],
+      "rxcui": [
+        "2688632",
+        "2688634"
+      ],
+      "setid": "40a88420-5fcb-4715-abc5-595a18fd08d0",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "VANCOMYCIN HYDROCHLORIDE INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [MYLAN INSTITUTIONAL LLC]",
+      "upload_date": "2024-07-25"
+    },
+    {
+      "application_numbers": [
+        "NDA211962"
+      ],
+      "brand_names": [
+        "TYZAVAN"
+      ],
+      "combination": false,
+      "home_inn": "vancomycin",
+      "ingredients": [
+        "VANCOMYCIN"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-10-17",
+      "moieties": [
+        "VANCOMYCIN"
+      ],
+      "product_ndcs": [
+        "0143-9466",
+        "0143-9467",
+        "0143-9468",
+        "0143-9469",
+        "0143-9470",
+        "0143-9471",
+        "0143-9472"
+      ],
+      "rxcui": [
+        "1807508",
+        "1807510",
+        "1807511",
+        "2118448",
+        "2118449",
+        "2387078",
+        "2387079",
+        "2725135",
+        "2727215",
+        "2727216",
+        "2727217",
+        "2727218",
+        "2727219",
+        "2727220"
+      ],
+      "setid": "72e9c5e2-07cc-4a8b-ba64-b2e7619ea560",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "TYZAVAN (VANCOMYCIN) INJECTION, SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2026-08-20"
+    },
+    {
+      "application_numbers": [
+        "NDA210274"
+      ],
+      "brand_names": [
+        "Vancomycin Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "vancomycin",
+      "ingredients": [
+        "VANCOMYCIN HYDROCHLORIDE"
+      ],
+      "labeler": "Avenacy, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2026-08-15",
+      "moieties": [
+        "VANCOMYCIN"
+      ],
+      "product_ndcs": [
+        "83634-114",
+        "83634-115",
+        "83634-116"
+      ],
+      "rxcui": [
+        "1807518",
+        "2049888",
+        "2049890"
+      ],
+      "setid": "c757e65b-ca6f-4c00-afe2-025962b43d31",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "VANCOMYCIN HYDROCHLORIDE INJECTION, POWDER, FOR SOLUTION [AVENACY, LLC",
+      "upload_date": "2026-08-17"
+    },
+    {
+      "application_numbers": [
+        "NDA050606"
+      ],
+      "brand_names": [
+        "vancomycin hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "vancomycin",
+      "ingredients": [
+        "VANCOMYCIN HYDROCHLORIDE"
+      ],
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2015-10-26",
+      "moieties": [
+        "VANCOMYCIN"
+      ],
+      "product_ndcs": [
+        "62559-390",
+        "62559-391"
+      ],
+      "rxcui": [
+        "313570",
+        "313571"
+      ],
+      "setid": "3707ad2e-5c82-4111-a370-e518e5e7e4c5",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "VANCOMYCIN HYDROCHLORIDE CAPSULE [ANI PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-03-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA062663"
+      ],
+      "brand_names": [
+        "VANCOMYCIN HYDROCHLORIDE"
+      ],
+      "combination": false,
+      "home_inn": "vancomycin",
+      "ingredients": [
+        "VANCOMYCIN HYDROCHLORIDE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2000-09-01",
+      "moieties": [
+        "VANCOMYCIN"
+      ],
+      "product_ndcs": [
+        "63323-203",
+        "63323-221",
+        "63323-284"
+      ],
+      "rxcui": [
+        "1807513",
+        "1807516",
+        "1807518"
+      ],
+      "setid": "f604d399-fded-4f4f-8efe-af558ed07b9d",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "VANCOMYCIN HYDROCHLORIDE INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2025-06-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA062911",
+        "ANDA062912"
+      ],
+      "brand_names": [
+        "Vancomycin Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "vancomycin",
+      "ingredients": [
+        "VANCOMYCIN HYDROCHLORIDE"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2005-03-31",
+      "moieties": [
+        "VANCOMYCIN"
+      ],
+      "product_ndcs": [
+        "0409-3515",
+        "0409-4332",
+        "0409-6531",
+        "0409-6533"
+      ],
+      "rxcui": [
+        "1807513",
+        "1807516",
+        "1807518",
+        "2049890"
+      ],
+      "setid": "f2901045-904f-47bd-74a1-c561facd7f25",
+      "source": "openfda",
+      "spl_version": 37,
+      "title": "VANCOMYCIN HYDROCHLORIDE INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2026-04-08"
+    },
+    {
+      "application_numbers": [
+        "ANDA063076"
+      ],
+      "brand_names": [
+        "Vancomycin Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "vancomycin",
+      "ingredients": [
+        "VANCOMYCIN HYDROCHLORIDE"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2005-06-06",
+      "moieties": [
+        "VANCOMYCIN"
+      ],
+      "product_ndcs": [
+        "0409-1319",
+        "0409-6509"
+      ],
+      "rxcui": [
+        "239209",
+        "313572"
+      ],
+      "setid": "91c050cf-3b2d-48bc-7297-e8dc68225e5a",
+      "source": "openfda",
+      "spl_version": 29,
+      "title": "VANCOMYCIN HYDROCHLORIDE INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2025-01-20"
+    },
+    {
+      "application_numbers": [
+        "ANDA065401"
+      ],
+      "brand_names": [
+        "Vancomycin Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "vancomycin",
+      "ingredients": [
+        "VANCOMYCIN HYDROCHLORIDE"
+      ],
+      "labeler": "Eurofarma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2008-06-30",
+      "moieties": [
+        "VANCOMYCIN"
+      ],
+      "product_ndcs": [
+        "43538-805",
+        "43538-810"
+      ],
+      "rxcui": [
+        "1807513",
+        "1807516"
+      ],
+      "setid": "826510bd-b611-42d9-a574-ec7ee4151ef5",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "VANCOMYCIN HYDROCHLORIDE INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [EUROFARMA, INC.]",
+      "upload_date": "2026-06-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA090250"
+      ],
+      "brand_names": [
+        "Vancomycin Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "vancomycin",
+      "ingredients": [
+        "VANCOMYCIN HYDROCHLORIDE"
+      ],
+      "labeler": "Plano Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-04-27",
+      "moieties": [
+        "VANCOMYCIN"
+      ],
+      "product_ndcs": [
+        "87188-202"
+      ],
+      "rxcui": [
+        "1807513"
+      ],
+      "setid": "4983e3c8-e0f2-b366-e063-6394a90a9557",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "VANCOMYCIN HYDROCHLORIDE INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [PLANO PHARMACEUTICALS INC.]",
+      "upload_date": "2026-07-22"
+    },
+    {
+      "application_numbers": [
+        "NDA208910"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "FIRVANQ"
+      ],
+      "first_posted": "2020-01-07",
+      "found_by": "FIRVANQ",
+      "labeler": "Azurity Pharmaceuticals, Inc",
+      "labeler_unverified": false,
+      "last_posted": "2025-05-16",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-12-31"
+      ],
+      "product_ndcs": [
+        "65628-015",
+        "65628-016"
+      ],
+      "rxcui": [],
+      "setid": "984208d5-395b-0c59-e053-2995a90a4f42",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "FIRVANQ (vancomycin hydrochloride) kit"
+    },
+    {
+      "application_numbers": [
+        "NDA050606"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "VANCOCIN"
+      ],
+      "first_posted": "2008-03-25",
+      "found_by": "VANCOCIN",
+      "labeler": "ViroPharma",
+      "labeler_unverified": true,
+      "last_posted": "2016-05-04",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-07-31",
+        "2015-11-30"
+      ],
+      "product_ndcs": [
+        "66593-3125",
+        "66593-3126"
+      ],
+      "rxcui": [],
+      "setid": "b7f386c7-8b78-4751-b6ae-e171925c2d54",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "3707ad2e-5c82-4111-a370-e518e5e7e4c5",
+        "a078d9c2-f89c-4f9f-8ded-60ffb2983c3f"
+      ],
+      "title": "VANCOCIN (vancomycin hydrochloride) capsule"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Plano Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4983f60c-0f7b-d427-e063-6394a90a838c"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "06dcfd36-942f-4752-86ad-4c5a6fc3e48f"
+    },
+    {
+      "combination": false,
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2dc7b3d6-3874-40ac-b8aa-7bcfe2dc0cdf"
+    },
+    {
+      "combination": false,
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3843d0d7-f70a-4b29-9478-dfb45b02425e"
+    },
+    {
+      "combination": false,
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ce139a51-0471-4c31-b456-2f889f18dd2b"
+    },
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4a80cb3f-7410-47aa-af1f-ff83d1b35c55"
+    },
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "78984781-3c0b-4b73-ba85-10d60ecb2a28"
+    },
+    {
+      "combination": false,
+      "labeler": "SAMSON MEDICAL TECHNOLOGIES LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "93589e71-3a11-4797-9176-8abdb7674a87"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a7e7d990-1d74-459b-ac07-d1c3e13b3204"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "418c3c6a-d08d-448c-89c9-54e558c1ce16"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "86950e7c-0114-47e9-8891-e09e595c48c3"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cae9e5f3-b89a-4a7f-93f7-9471c74a3559"
+    },
+    {
+      "combination": false,
+      "labeler": "Slate Run Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "57f58371-3ce6-4983-89df-acba33d1139a"
+    },
+    {
+      "combination": false,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "27d06545-1af0-4dcd-926d-58d4a9492ec3"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2f5d3131-8ddc-43a5-91f7-947c531796e7"
+    },
+    {
+      "combination": false,
+      "labeler": "Slate Run Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6ea38b4d-a6d2-4826-8110-ae42c9f7a42a"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3f5dacea-af40-4103-b128-c5e0c0c52fa1"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "45642a47-4712-4a12-8cf7-ee6c2ab8e6c6"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "033efc76-11d5-4a93-91de-56ed41bab9c3"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e5e26614-4119-40cc-b092-48ab97a41287"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ab658fbd-68ea-4275-84b1-c3361c860bd3"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3c47d5c4-8cdb-4701-8d7a-8a6e79025b53"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b62b7190-48e8-4596-a6ad-9ad455e5c8c6"
+    },
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9aa42538-c84e-4886-8d3d-a7dfded5120f"
+    },
+    {
+      "combination": false,
+      "labeler": "Cameron Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bc737938-ae36-460b-a2a8-609f3fe59156"
+    },
+    {
+      "combination": false,
+      "labeler": "STERISCIENCE SPECIALTIES PRIVATE LIMITED",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2c355037-6a1e-4846-872a-471ccbdc8d54"
+    },
+    {
+      "combination": false,
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ae6efaaf-37eb-4510-ba71-5f3dc3abdbd3"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "83ea3faf-fedd-4725-911f-d71a23ec5d5e"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0713a847-a334-4b73-af22-343aa06621b9"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d3147f2d-1a72-4923-874b-8fdee2be625e"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4843726f-6e79-6e20-2620-4a54616e6479"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f623889c-a47a-4b3a-b3a9-e04051f5c2df"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "00946db3-d6c5-4534-a870-1ec6e63eda43"
+    },
+    {
+      "combination": false,
+      "labeler": "Xellia Pharmaceuticals USA LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8403695c-3614-490b-9797-6c5ebcdeef9b"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9bfe30f8-c662-4af3-bc82-f0102eef8952"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8a35ebee-8650-4ef5-84f5-ab9b55d9bc19"
+    },
+    {
+      "combination": false,
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b01aaa02-8f1d-4b57-96a5-337503428af1"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f28e3c2b-ae31-4c2a-8178-53962b7b213c"
+    },
+    {
+      "combination": false,
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c9ea31ec-4c26-452f-b07b-c5f894212cd5"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0576803d-95de-4a48-806a-69ae3fcaf6b0"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "35ecffbc-77d8-4c0d-9b14-6a3cc442dec6"
+    },
+    {
+      "combination": false,
+      "labeler": "GLENMARK PHARMACEUTICALS INC., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0543b2b5-b1c7-4ad6-b38c-3be0086f0e06"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "65e5f2ee-934c-40d7-967c-00d085f84ffd"
+    },
+    {
+      "combination": false,
+      "labeler": "Civica, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "50e4fb19-f603-439c-b193-25a455115383"
+    },
+    {
+      "combination": false,
+      "labeler": "Civica, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3e041ec6-811b-4f26-9303-959cb09d5f57"
+    },
+    {
+      "combination": false,
+      "labeler": "XGen Pharmaceuticals DJB, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4239165c-4c15-b78e-e063-6294a90ae6af"
+    },
+    {
+      "combination": false,
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fac438bd-e08f-438d-ab64-426fc5c5450e"
+    },
+    {
+      "combination": false,
+      "labeler": "GLENMARK PHARMACEUTICALS INC., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "74056e26-57fd-448e-af76-edbccfc3efb7"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "127d95d1-8070-41ac-8343-3168b0cf1312"
+    },
+    {
+      "combination": false,
+      "labeler": "GLENMARK PHARMACEUTICALS INC., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b79d9671-02dd-40e2-97fb-a6c7be85cda1"
+    }
+  ]
+}

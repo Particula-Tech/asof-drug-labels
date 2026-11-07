@@ -1,0 +1,489 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand TRISENOX",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000388",
+      "eu_number": "EU/1/02/204",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000388",
+      "mah": "Teva B.V.",
+      "marketing_authorisation_date": "2002-03-05",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/trisenox",
+      "name": "Trisenox",
+      "record_from": "2002-03-05",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 24
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/005175",
+      "eu_number": "EU/1/19/1398",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-005175",
+      "mah": "Accord Healthcare S.L.U.",
+      "marketing_authorisation_date": "2019-11-14",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/arsenic-trioxide-accord",
+      "name": "Arsenic trioxide Accord",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/005218",
+      "eu_number": "EU/1/20/1475",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-005218",
+      "mah": "medac Gesellschaft für klinische Spezialpräparate mbH",
+      "marketing_authorisation_date": "2020-09-17",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/arsenic-trioxide-medac",
+      "name": "Arsenic trioxide medac",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000388",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "ARSENIC TRIOXIDE"
+  ],
+  "inn": "arsenic-trioxide",
+  "name": "ARSENIC TRIOXIDE",
+  "rank": 339,
+  "rxcui": [
+    "829926",
+    "1992545",
+    "1992547"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 21,
+    "approval_holders": 17,
+    "earliest_marketing_start": "2017-12-22",
+    "latest_label_update": "2026-09-24",
+    "nda_bla_applications": 1,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "ARSENIC TRIOXIDE",
+      "unii": "S7V92P67HO"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021248"
+      ],
+      "brand_names": [
+        "Trisenox"
+      ],
+      "combination": false,
+      "home_inn": "arsenic-trioxide",
+      "ingredients": [
+        "ARSENIC TRIOXIDE"
+      ],
+      "labeler": "Cephalon, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-12-22",
+      "moieties": [
+        "ARSENIC TRIOXIDE"
+      ],
+      "product_ndcs": [
+        "63459-601"
+      ],
+      "rxcui": [
+        "1992545",
+        "1992547"
+      ],
+      "setid": "101fc347-d0ad-4aee-8b06-9feb187fd741",
+      "source": "dailymed-title-match",
+      "spl_version": 21,
+      "title": "TRISENOX (ARSENIC TRIOXIDE) INJECTION, SOLUTION [CEPHALON, LLC]",
+      "upload_date": "2026-09-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA208231"
+      ],
+      "brand_names": [
+        "Arsenic Trioxide"
+      ],
+      "combination": false,
+      "home_inn": "arsenic-trioxide",
+      "ingredients": [
+        "ARSENIC TRIOXIDE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-08-31",
+      "moieties": [
+        "ARSENIC TRIOXIDE"
+      ],
+      "product_ndcs": [
+        "63323-637"
+      ],
+      "rxcui": [
+        "829926"
+      ],
+      "setid": "a482eccd-8837-47ea-904d-2f2c294d10fa",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "ARSENIC TRIOXIDE INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2025-08-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA206228"
+      ],
+      "brand_names": [
+        "Arsenic trioxide"
+      ],
+      "combination": false,
+      "home_inn": "arsenic-trioxide",
+      "ingredients": [
+        "ARSENIC TRIOXIDE"
+      ],
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-11-14",
+      "moieties": [
+        "ARSENIC TRIOXIDE"
+      ],
+      "product_ndcs": [
+        "49315-005"
+      ],
+      "rxcui": [
+        "829926"
+      ],
+      "setid": "25e8295c-b5d9-4322-a093-d907ab1d1d35",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "ARSENIC TRIOXIDE INJECTION, SOLUTION [ZYDUS LIFESCIENCES LIMITED]",
+      "upload_date": "2022-11-08"
+    },
+    {
+      "application_numbers": [
+        "ANDA210802"
+      ],
+      "brand_names": [
+        "ARSENIC TRIOXIDE"
+      ],
+      "combination": false,
+      "home_inn": "arsenic-trioxide",
+      "ingredients": [
+        "ARSENIC TRIOXIDE"
+      ],
+      "labeler": "Nordic Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-11-14",
+      "moieties": [
+        "ARSENIC TRIOXIDE"
+      ],
+      "product_ndcs": [
+        "69918-720"
+      ],
+      "rxcui": [
+        "829926"
+      ],
+      "setid": "d1e2107c-26c3-40fc-978e-0ba5b84098ac",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "ARSENIC TRIOXIDE INJECTION, SOLUTION [NORDIC PHARMA, INC.]",
+      "upload_date": "2025-03-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA209315"
+      ],
+      "brand_names": [
+        "ARSENIC TRIOXIDE"
+      ],
+      "combination": false,
+      "home_inn": "arsenic-trioxide",
+      "ingredients": [
+        "ARSENIC TRIOXIDE"
+      ],
+      "labeler": "Ingenus Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-11-15",
+      "moieties": [
+        "ARSENIC TRIOXIDE"
+      ],
+      "product_ndcs": [
+        "50742-438"
+      ],
+      "rxcui": [
+        "829926"
+      ],
+      "setid": "c99b01b4-67ff-4793-8375-fe3a21c6c9be",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "ARSENIC TRIOXIDE INJECTION [INGENUS PHARMACEUTICALS, LLC]",
+      "upload_date": "2026-07-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA209780"
+      ],
+      "brand_names": [
+        "Arsenic Trioxide"
+      ],
+      "combination": false,
+      "home_inn": "arsenic-trioxide",
+      "ingredients": [
+        "ARSENIC TRIOXIDE"
+      ],
+      "labeler": "Nexus Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-11-19",
+      "moieties": [
+        "ARSENIC TRIOXIDE"
+      ],
+      "product_ndcs": [
+        "14789-600"
+      ],
+      "rxcui": [
+        "829926"
+      ],
+      "setid": "2b2a7ed9-5ed3-42fc-b19b-d50700396233",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "ARSENIC TRIOXIDE INJECTION [NEXUS PHARMACEUTICALS LLC]",
+      "upload_date": "2025-03-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA210739"
+      ],
+      "brand_names": [
+        "Arsenic Trioxide"
+      ],
+      "combination": false,
+      "home_inn": "arsenic-trioxide",
+      "ingredients": [
+        "ARSENIC TRIOXIDE"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-01-25",
+      "moieties": [
+        "ARSENIC TRIOXIDE"
+      ],
+      "product_ndcs": [
+        "70121-1483",
+        "70121-1658"
+      ],
+      "rxcui": [
+        "829926",
+        "1992545"
+      ],
+      "setid": "5845022e-8c01-451b-ae49-a28e58c5f845",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "ARSENIC TRIOXIDE INJECTION, SOLUTION [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2023-12-28"
+    },
+    {
+      "application_numbers": [
+        "NDA021248"
+      ],
+      "archived_versions": 13,
+      "brand_names": [
+        "TRISENOX"
+      ],
+      "first_posted": "2009-01-08",
+      "found_by": "TRISENOX",
+      "labeler": "Cephalon, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2019-08-30",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-08-15"
+      ],
+      "product_ndcs": [
+        "63459-600"
+      ],
+      "rxcui": [],
+      "setid": "dec51fab-3784-deb7-752f-2d4d5692a20f",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "101fc347-d0ad-4aee-8b06-9feb187fd741"
+      ],
+      "title": "TRISENOX (arsenic trioxide) injection, solution"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2cb52683-1e74-4831-a771-55a78536cfe5"
+    },
+    {
+      "combination": false,
+      "labeler": "Eugia US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2a999752-f350-4eff-97e7-e7106dfa85b5"
+    },
+    {
+      "combination": false,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a9008658-c2dd-49f4-b1c4-26e232c81957"
+    },
+    {
+      "combination": false,
+      "labeler": "Northstar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "48388282-3768-4309-8982-2766cbc9fd59"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e9d27f88-de82-4379-b143-4b94b3dd8bbe"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2ad7bb19-6152-4158-a179-2388e86a981f"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e1ad5d87-e65e-402f-86b5-e641fc4e61ab"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7fe0fe9f-e87b-44ab-b92c-9b3d23942063"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3e1d2b63-ccb2-4e97-a009-5983eabf65e4"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ae5cae02-ca57-4da5-8940-81253fdb8679"
+    },
+    {
+      "combination": false,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8849c8f9-ee41-4ccd-8a62-67b04e80a276"
+    },
+    {
+      "combination": false,
+      "labeler": "Orbicular Pharmaceutical Technologies Private Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3b007d59-99ad-409f-a71e-7f4e7d6f6b12"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharma Labs Inc. d/b/a Avet Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8dddfe9e-06bf-4983-9c55-71b19da8fcdc"
+    },
+    {
+      "combination": false,
+      "labeler": "Sintetica US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d921f52f-2f38-4300-ae40-31f00b3a500a"
+    }
+  ]
+}

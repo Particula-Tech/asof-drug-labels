@@ -1,0 +1,580 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand ESBRIET",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/002154",
+      "eu_number": "EU/1/11/667",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-002154",
+      "mah": "H.A.C. Pharma",
+      "marketing_authorisation_date": "2011-02-28",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/esbriet",
+      "name": "Esbriet",
+      "record_from": "2011-02-28",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 19
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/005862",
+      "eu_number": "EU/1/22/1707",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-005862",
+      "mah": "Viatris Limited",
+      "marketing_authorisation_date": "2023-01-10",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/pirfenidone-viatris",
+      "name": "Pirfenidone Viatris",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/005873",
+      "eu_number": "EU/1/22/1655",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-005873",
+      "mah": "Axunio Pharma GmbH",
+      "marketing_authorisation_date": "2022-06-20",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/pirfenidone-axunio",
+      "name": "Pirfenidone axunio (previously Pirfenidone AET)",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-002154",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "PIRFENIDONE"
+  ],
+  "inn": "pirfenidone",
+  "name": "PIRFENIDONE",
+  "rank": 245,
+  "rxcui": [
+    "1592279",
+    "1592285",
+    "1868014",
+    "1868016",
+    "1868018",
+    "1868020"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 30,
+    "approval_holders": 21,
+    "earliest_marketing_start": "2017-01-11",
+    "latest_label_update": "2026-09-18",
+    "nda_bla_applications": 1,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "PIRFENIDONE",
+      "unii": "D7NLD2JX7U"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA208780"
+      ],
+      "brand_names": [
+        "ESBRIET"
+      ],
+      "combination": false,
+      "home_inn": "pirfenidone",
+      "ingredients": [
+        "PIRFENIDONE"
+      ],
+      "labeler": "Genentech, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-01-11",
+      "moieties": [
+        "PIRFENIDONE"
+      ],
+      "product_ndcs": [
+        "50242-122",
+        "50242-123"
+      ],
+      "rxcui": [
+        "1592279",
+        "1592285",
+        "1868014",
+        "1868016",
+        "1868018",
+        "1868020"
+      ],
+      "setid": "2e8c3537-36d7-4de5-9b5c-7a624b9a9e6e",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "ESBRIET (PIRFENIDONE) CAPSULE ESBRIET (PIRFENIDONE) TABLET, COATED [GENENTECH, INC.]",
+      "upload_date": "2025-12-18"
+    },
+    {
+      "application_numbers": [
+        "NDA208780"
+      ],
+      "brand_names": [
+        "ESBRIET"
+      ],
+      "combination": false,
+      "home_inn": "pirfenidone",
+      "ingredients": [
+        "PIRFENIDONE"
+      ],
+      "labeler": "Legacy Pharma USA Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-05-31",
+      "moieties": [
+        "PIRFENIDONE"
+      ],
+      "product_ndcs": [
+        "83107-028",
+        "83107-029"
+      ],
+      "rxcui": [
+        "1868014",
+        "1868016",
+        "1868018",
+        "1868020"
+      ],
+      "setid": "81f17f7d-cb04-4052-8682-dd3e330210ab",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "ESBRIET (PIRFENIDONE) TABLET, COATED [LEGACY PHARMA USA INC.]",
+      "upload_date": "2025-06-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA212748"
+      ],
+      "brand_names": [
+        "Pirfenidone Capsule, 267 mg"
+      ],
+      "combination": false,
+      "home_inn": "pirfenidone",
+      "ingredients": [
+        "PIRFENIDONE"
+      ],
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-07-20",
+      "moieties": [
+        "PIRFENIDONE"
+      ],
+      "product_ndcs": [
+        "33342-461"
+      ],
+      "rxcui": [
+        "1592279"
+      ],
+      "setid": "3e8acd31-bbc7-48d5-956d-6cb04cbdc96c",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "PIRFENIDONE CAPSULE, 267 MG CAPSULE [MACLEODS PHARMACEUTICALS LIMITED]",
+      "upload_date": "2025-04-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA212569"
+      ],
+      "brand_names": [
+        "Pirfenidone"
+      ],
+      "combination": false,
+      "home_inn": "pirfenidone",
+      "ingredients": [
+        "PIRFENIDONE"
+      ],
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-01-07",
+      "moieties": [
+        "PIRFENIDONE"
+      ],
+      "product_ndcs": [
+        "60219-1642"
+      ],
+      "rxcui": [
+        "1592279"
+      ],
+      "setid": "1d4d7aa2-1248-4639-baf5-5e2ae72cbcd8",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "PIRFENIDONE CAPSULE [AMNEAL PHARMACEUTICALS NY LLC]",
+      "upload_date": "2025-04-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA212570"
+      ],
+      "brand_names": [
+        "Pirfenidone"
+      ],
+      "combination": false,
+      "home_inn": "pirfenidone",
+      "ingredients": [
+        "PIRFENIDONE"
+      ],
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-03-29",
+      "moieties": [
+        "PIRFENIDONE"
+      ],
+      "product_ndcs": [
+        "60219-1640",
+        "60219-1641"
+      ],
+      "rxcui": [
+        "1868014",
+        "1868018"
+      ],
+      "setid": "94362a07-7c64-42ce-adef-f49585af55d6",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "PIRFENIDONE TABLET, FILM COATED [AMNEAL PHARMACEUTICALS NY LLC]",
+      "upload_date": "2025-06-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA212560"
+      ],
+      "brand_names": [
+        "Pirfenidone"
+      ],
+      "combination": false,
+      "home_inn": "pirfenidone",
+      "ingredients": [
+        "PIRFENIDONE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-05-02",
+      "moieties": [
+        "PIRFENIDONE"
+      ],
+      "product_ndcs": [
+        "0781-8085",
+        "0781-8086"
+      ],
+      "rxcui": [
+        "1868014",
+        "1868018"
+      ],
+      "setid": "7f5f7cc9-394e-4da0-87eb-84cfff9707a3",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "PIRFENIDONE TABLET, FILM COATED [SANDOZ INC]",
+      "upload_date": "2023-05-08"
+    },
+    {
+      "application_numbers": [
+        "ANDA212759"
+      ],
+      "brand_names": [
+        "Pirfenidone"
+      ],
+      "combination": false,
+      "home_inn": "pirfenidone",
+      "ingredients": [
+        "PIRFENIDONE"
+      ],
+      "labeler": "Teva Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-05-11",
+      "moieties": [
+        "PIRFENIDONE"
+      ],
+      "product_ndcs": [
+        "0480-3610",
+        "0480-3611"
+      ],
+      "rxcui": [
+        "1868014",
+        "1868018"
+      ],
+      "setid": "cbbd14a4-b7e6-4147-9314-bb715dfb1a51",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "PIRFENIDONE TABLET, FILM COATED [TEVA PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-08-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA212772"
+      ],
+      "brand_names": [
+        "PIRFENIDONE"
+      ],
+      "combination": false,
+      "home_inn": "pirfenidone",
+      "ingredients": [
+        "PIRFENIDONE"
+      ],
+      "labeler": "Northstar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-05-24",
+      "moieties": [
+        "PIRFENIDONE"
+      ],
+      "product_ndcs": [
+        "72603-258",
+        "72603-259"
+      ],
+      "rxcui": [
+        "1868014",
+        "1868018"
+      ],
+      "setid": "5d0eee8c-dc7d-4444-8684-e9c9335291c8",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "PIRFENIDONE TABLET, FILM COATED [NORTHSTAR RX LLC]",
+      "upload_date": "2024-06-26"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Accord Healthcare Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fab59395-1c5d-4c64-ba47-34d75736e983"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6e4f991a-c9e3-4121-97d0-d07954f17336"
+    },
+    {
+      "combination": false,
+      "labeler": "Laurus Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "29b0fd0e-5a2b-4da7-8524-177dc28bf55e"
+    },
+    {
+      "combination": false,
+      "labeler": "ScieGen Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "155b948e-47f5-4741-8e82-2ed65ccfab7d"
+    },
+    {
+      "combination": false,
+      "labeler": "ScieGen Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1fbdb556-b164-4e0b-a95e-6004d50e3364"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a7f3485e-9dcc-45db-9b9c-74c70e22c4bb"
+    },
+    {
+      "combination": false,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1abc06c7-6a45-4a0b-b2da-c228aaa137ed"
+    },
+    {
+      "combination": false,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "945d4337-7d18-4d84-807b-8ae13750c76d"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9ccfe91e-d1fc-d4c1-115b-dd7859b2c3e6"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "50958060-c904-4374-997d-59df54007fa4"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3115f15f-171c-4266-8dc8-5655f56e6acc"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ea26490e-fd32-4807-8556-eb6f5f963c23"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9214862e-9ef7-4370-856a-f5697978270a"
+    },
+    {
+      "combination": false,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "976620bb-c10e-4b13-8a97-7025fda6b7d5"
+    },
+    {
+      "combination": false,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "16fca4fc-b641-4ee8-a2ee-a35189ce1f3b"
+    },
+    {
+      "combination": false,
+      "labeler": "EXELAN PHARMACEUTICALS INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1709582c-9975-4dc1-8181-2501ee670eef"
+    },
+    {
+      "combination": false,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1927bf5d-1ef3-4a36-8dac-dc0a45b72fec"
+    },
+    {
+      "combination": false,
+      "labeler": "EXELAN PHARMACEUTICALS INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c171e4af-1619-4712-958f-ef96adfede37"
+    },
+    {
+      "combination": false,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "741d1b9c-e281-4eca-b327-e25e82313006"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a235768d-d26d-4ded-ae75-53e93310ff6a"
+    },
+    {
+      "combination": false,
+      "labeler": "AvKARE",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "07ff87b3-0a88-15b4-e063-6294a90a72ab"
+    },
+    {
+      "combination": false,
+      "labeler": "AvKARE",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "08046b49-a8b3-a78d-e063-6394a90a80fa"
+    }
+  ]
+}

@@ -1,0 +1,783 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 1,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "only combination central products under this exact INN (combinations are not built)",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "ETHINYL ESTRADIOL"
+  ],
+  "inn": "ethinyl-estradiol",
+  "name": "ETHINYL ESTRADIOL",
+  "rank": 186,
+  "rxcui": [
+    "259176",
+    "310463",
+    "312033",
+    "748797",
+    "749858",
+    "749869",
+    "749879",
+    "751868",
+    "751870",
+    "751871",
+    "1090992",
+    "1090996",
+    "1358762",
+    "1358763",
+    "1358765",
+    "1358776",
+    "1358780",
+    "1359022",
+    "1359023",
+    "1359025",
+    "1359028",
+    "1359030",
+    "1367436",
+    "1367439",
+    "1534809",
+    "1536586",
+    "2055983",
+    "2055989",
+    "2396242",
+    "2396253",
+    "2396258",
+    "2396259",
+    "2749430",
+    "2749437"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 34,
+    "approval_holders": 21,
+    "earliest_marketing_start": "2001-06-06",
+    "latest_label_update": "2026-10-05",
+    "nda_bla_applications": 4,
+    "repackagers": 4
+  },
+  "unii": [
+    {
+      "ingredient": "ETHINYL ESTRADIOL",
+      "unii": "423D2T571U"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA204017"
+      ],
+      "brand_names": [
+        "Twirla"
+      ],
+      "combination": true,
+      "home_inn": "levonorgestrel",
+      "ingredients": [
+        "ETHINYL ESTRADIOL",
+        "LEVONORGESTREL"
+      ],
+      "labeler": "Agile Therapeutics, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2020-09-11",
+      "moieties": [
+        "ETHINYL ESTRADIOL",
+        "LEVONORGESTREL"
+      ],
+      "product_ndcs": [
+        "71671-100"
+      ],
+      "rxcui": [
+        "2396242",
+        "2396253",
+        "2396258",
+        "2396259"
+      ],
+      "setid": "bcaf8db0-1750-425d-b008-255b5e7a9cc6",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "TWIRLA (LEVONORGESTREL/ETHINYL ESTRADIOL) PATCH [AGILE THERAPEUTICS, INC.]",
+      "upload_date": "2026-07-02"
+    },
+    {
+      "application_numbers": [
+        "NDA021187"
+      ],
+      "brand_names": [
+        "NuvaRing"
+      ],
+      "combination": true,
+      "home_inn": "ethinyl-estradiol",
+      "ingredients": [
+        "ETHINYL ESTRADIOL",
+        "ETONOGESTREL"
+      ],
+      "labeler": "Organon LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-06-01",
+      "moieties": [
+        "ETHINYL ESTRADIOL",
+        "ETONOGESTREL"
+      ],
+      "product_ndcs": [
+        "78206-146"
+      ],
+      "rxcui": [
+        "1367436",
+        "1367439"
+      ],
+      "setid": "55eb60e3-6f4d-40a3-8ee6-e7fd2d0c7d97",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "NUVARING (ETONOGESTREL AND ETHINYL ESTRADIOL) INSERT, EXTENDED RELEASE [ORGANON LLC]",
+      "upload_date": "2025-11-21"
+    },
+    {
+      "application_numbers": [
+        "NDA209627"
+      ],
+      "brand_names": [
+        "Annovera"
+      ],
+      "combination": true,
+      "home_inn": "ethinyl-estradiol",
+      "ingredients": [
+        "ETHINYL ESTRADIOL",
+        "SEGESTERONE ACETATE"
+      ],
+      "labeler": "Mayne Pharma",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-08-16",
+      "moieties": [
+        "ETHINYL ESTRADIOL",
+        "SEGESTERONE"
+      ],
+      "product_ndcs": [
+        "68308-752"
+      ],
+      "rxcui": [
+        "2055983",
+        "2055989"
+      ],
+      "setid": "eb18194f-2021-41fa-8bdf-31e0c0eb646b",
+      "source": "dailymed-title-match",
+      "spl_version": 6,
+      "title": "ANNOVERA (SEGESTERONE ACETATE AND ETHINYL ESTRADIOL) RING [MAYNE PHARMA]",
+      "upload_date": "2026-09-24"
+    },
+    {
+      "application_numbers": [
+        "NDA219990"
+      ],
+      "brand_names": [
+        "Gwyn Lo"
+      ],
+      "combination": true,
+      "home_inn": "ethinyl-estradiol",
+      "ingredients": [
+        "ETHINYL ESTRADIOL",
+        "NORELGESTROMIN"
+      ],
+      "labeler": "Viatris Specialty LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2026-10-01",
+      "moieties": [
+        "ETHINYL ESTRADIOL",
+        "NORELGESTROMIN"
+      ],
+      "product_ndcs": [
+        "49502-627"
+      ],
+      "rxcui": [
+        "2749430",
+        "2749437"
+      ],
+      "setid": "e92741f4-87fe-429f-b5b5-c558ed5f4fa9",
+      "source": "dailymed-title-match",
+      "spl_version": 2,
+      "title": "GWYN LO (NORELGESTROMIN AND ETHINYL ESTRADIOL) PATCH [VIATRIS SPECIALTY LLC]",
+      "upload_date": "2026-10-05"
+    },
+    {
+      "application_numbers": [
+        "NDA021187"
+      ],
+      "brand_names": [
+        "NuvaRing"
+      ],
+      "combination": true,
+      "home_inn": "ethinyl-estradiol",
+      "ingredients": [
+        "ETHINYL ESTRADIOL",
+        "ETONOGESTREL"
+      ],
+      "labeler": "Advanz Pharma (US) Corp.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-05-19",
+      "moieties": [
+        "ETHINYL ESTRADIOL",
+        "ETONOGESTREL"
+      ],
+      "product_ndcs": [
+        "59212-146"
+      ],
+      "rxcui": [
+        "1367436",
+        "1367439"
+      ],
+      "setid": "19ef66d1-913f-49a8-a0a5-59b4e20322f5",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "NUVARING (ETONOGESTREL AND ETHINYL ESTRADIOL) INSERT, EXTENDED RELEASE [ADVANZ PHARMA (US) CORP.]",
+      "upload_date": "2025-05-20"
+    },
+    {
+      "application_numbers": [
+        "NDA021187"
+      ],
+      "brand_names": [
+        "Etonogestrel/Ethinyl Estradiol"
+      ],
+      "combination": true,
+      "home_inn": "ethinyl-estradiol",
+      "ingredients": [
+        "ETHINYL ESTRADIOL",
+        "ETONOGESTREL"
+      ],
+      "labeler": "Prasco Laboratories",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2021-06-01",
+      "moieties": [
+        "ETHINYL ESTRADIOL",
+        "ETONOGESTREL"
+      ],
+      "product_ndcs": [
+        "66993-605"
+      ],
+      "rxcui": [
+        "1367436"
+      ],
+      "setid": "f0d80e01-f4f5-4b1a-bc9e-50a2bd4390b1",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "ETONOGESTREL/ETHINYL ESTRADIOL (ETONOGESTREL AND ETHINYL ESTRADIOL) INSERT, EXTENDED RELEASE [PRASCO LABORATORIES]",
+      "upload_date": "2025-02-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA072693",
+        "ANDA072695",
+        "ANDA072696"
+      ],
+      "brand_names": [
+        "Nortrel 21 Day",
+        "Nortrel 28 Day"
+      ],
+      "combination": true,
+      "home_inn": "ethinyl-estradiol",
+      "ingredients": [
+        "ETHINYL ESTRADIOL",
+        "NORETHINDRONE"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2001-06-06",
+      "moieties": [
+        "ETHINYL ESTRADIOL",
+        "NORETHINDRONE"
+      ],
+      "product_ndcs": [
+        "0555-9008",
+        "0555-9009",
+        "0555-9010"
+      ],
+      "rxcui": [
+        "310463",
+        "312033",
+        "748797",
+        "749858",
+        "749869",
+        "749879",
+        "751868",
+        "751870",
+        "751871"
+      ],
+      "setid": "140c50d6-c931-423a-9aa0-526eae7ab93c",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "NORTREL 21 DAY (NORETHINDRONE AND ETHINYL ESTRADIOL) TABLET NORTREL 28 DAY (NORETHINDRONE AND ETHINYL ESTRADIOL) KIT [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2026-01-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA076064",
+        "ANDA076081",
+        "ANDA076380",
+        "ANDA076381"
+      ],
+      "brand_names": [
+        "Junel 21 Day",
+        "Junel Fe 28 Day"
+      ],
+      "combination": true,
+      "home_inn": "ethinyl-estradiol",
+      "ingredients": [
+        "ETHINYL ESTRADIOL",
+        "NORETHINDRONE ACETATE"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2003-09-18",
+      "moieties": [
+        "ETHINYL ESTRADIOL",
+        "NORETHINDRONE"
+      ],
+      "product_ndcs": [
+        "0555-9025",
+        "0555-9026",
+        "0555-9027",
+        "0555-9028"
+      ],
+      "rxcui": [
+        "259176",
+        "1358762",
+        "1358763",
+        "1358765",
+        "1358776",
+        "1358780",
+        "1359022",
+        "1359023",
+        "1359025",
+        "1359028",
+        "1359030"
+      ],
+      "setid": "8b82ad14-580c-4145-b825-dce849f95363",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "JUNEL 21 DAY (NORETHINDRONE ACETATE AND ETHINYL ESTRADIOL) TABLET JUNEL FE 28 DAY (NORETHINDRONE ACETATE AND ETHINYL ESTRADIOL AND FERROUS FUMARATE) KIT [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2025-04-16"
+    },
+    {
+      "application_numbers": [
+        "ANDA076221"
+      ],
+      "brand_names": [
+        "Jinteli"
+      ],
+      "combination": true,
+      "home_inn": "ethinyl-estradiol",
+      "ingredients": [
+        "ETHINYL ESTRADIOL",
+        "NORETHINDRONE ACETATE"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-02-17",
+      "moieties": [
+        "ETHINYL ESTRADIOL",
+        "NORETHINDRONE"
+      ],
+      "product_ndcs": [
+        "0093-3122"
+      ],
+      "rxcui": [
+        "1090992",
+        "1090996"
+      ],
+      "setid": "d667ca75-1a17-43fc-9077-f25ce0908f8d",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "JINTELI (NORETHINDRONE ACETATE AND ETHINYL ESTRADIOL) TABLET [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2024-03-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA200910"
+      ],
+      "brand_names": [
+        "XULANE"
+      ],
+      "combination": true,
+      "home_inn": "ethinyl-estradiol",
+      "ingredients": [
+        "ETHINYL ESTRADIOL",
+        "NORELGESTROMIN"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-04-16",
+      "moieties": [
+        "ETHINYL ESTRADIOL",
+        "NORELGESTROMIN"
+      ],
+      "product_ndcs": [
+        "0378-3340"
+      ],
+      "rxcui": [
+        "1534809",
+        "1536586"
+      ],
+      "setid": "f7848550-086a-43d8-8ae5-047f4b9e4382",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "XULANE (NORELGESTROMIN AND ETHINYL ESTRADIOL) PATCH [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2026-06-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA202771"
+      ],
+      "brand_names": [
+        "NORETHINDRONE ACETATE AND ETHINYL ESTRADIOL"
+      ],
+      "combination": true,
+      "home_inn": "ethinyl-estradiol",
+      "ingredients": [
+        "ETHINYL ESTRADIOL",
+        "NORETHINDRONE ACETATE"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-07-11",
+      "moieties": [
+        "ETHINYL ESTRADIOL",
+        "NORETHINDRONE"
+      ],
+      "product_ndcs": [
+        "0378-7280"
+      ],
+      "rxcui": [
+        "1358762",
+        "1358776"
+      ],
+      "setid": "89948751-bd6e-4e9c-b87c-8782706c1097",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "NORETHINDRONE ACETATE AND ETHINYL ESTRADIOL TABLET [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2025-07-04"
+    },
+    {
+      "application_numbers": [
+        "NDA021187"
+      ],
+      "archived_versions": 18,
+      "brand_names": [
+        "NUVARING"
+      ],
+      "first_posted": "2009-01-05",
+      "found_by": "NUVARING",
+      "labeler": "Organon USA Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2022-03-04",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-12-31"
+      ],
+      "product_ndcs": [
+        "0052-0273"
+      ],
+      "rxcui": [],
+      "setid": "017343fb-86c4-45ab-9c47-52cc5b9f3a02",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "19ef66d1-913f-49a8-a0a5-59b4e20322f5",
+        "55eb60e3-6f4d-40a3-8ee6-e7fd2d0c7d97",
+        "f0d80e01-f4f5-4b1a-bc9e-50a2bd4390b1"
+      ],
+      "title": "NUVARING (etonogestrel and ethinyl estradiol) insert, extended release"
+    },
+    {
+      "application_numbers": [
+        "NDA209627"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "ANNOVERA"
+      ],
+      "first_posted": "2019-08-12",
+      "found_by": "ANNOVERA",
+      "labeler": "Mayne Pharma LLC",
+      "labeler_unverified": true,
+      "last_posted": "2025-07-17",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-06-05"
+      ],
+      "product_ndcs": [
+        "50261-313"
+      ],
+      "rxcui": [],
+      "setid": "37bb9ebd-2e99-4453-bbe6-9dd4a2897193",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "eb18194f-2021-41fa-8bdf-31e0c0eb646b"
+      ],
+      "title": "ANNOVERA (segesterone acetate and ethinyl estradiol) ring"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "NUVARING"
+      ],
+      "first_posted": "2007-11-01",
+      "found_by": "NUVARING",
+      "labeler": "Organon USA, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2007-11-01",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0052-0273"
+      ],
+      "rxcui": [],
+      "setid": "cca2b812-b8bc-488c-a960-1af18412lr23",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "nuvaring (etonogestrel and ethinyl estradiol) insert, extended release"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": true,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cf549b5a-2707-4020-9f94-dab1260e1664"
+    },
+    {
+      "combination": true,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "44fbc5ae-5682-471f-a12a-955e8b4d233a"
+    },
+    {
+      "combination": true,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5a44f7a2-45f1-4d28-b9fb-61d9f2456422"
+    },
+    {
+      "combination": true,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "772c86d7-10a4-48c5-8c19-f8aac68f5ab4"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6765becf-7b51-4f33-ac13-70fcd01decf7"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b146e49c-a0fc-4f3d-9ad6-99e8257fa139"
+    },
+    {
+      "combination": true,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "021df70a-0c37-4237-a2f7-2597ff6d41f5"
+    },
+    {
+      "combination": true,
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3108a9bc-3378-459d-8f6b-bd5eff2ad657"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c6c8512d-b258-4be5-8c2f-0f1893f198b9"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5ee34c07-65af-42b8-a98f-e299ff90a8a1"
+    },
+    {
+      "combination": true,
+      "labeler": "Ingenus Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "036a15be-8c2e-4f65-b5dc-f333e2994d4a"
+    },
+    {
+      "combination": true,
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a8cc104a-d522-49ad-af54-2f312b829b61"
+    },
+    {
+      "combination": true,
+      "labeler": "Teva Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "99073fe0-eac8-44dd-abe6-623fa67d9e79"
+    },
+    {
+      "combination": true,
+      "labeler": "Xiromed, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "85a126f6-d3e0-9e12-73f9-6176ba36f58b"
+    },
+    {
+      "combination": true,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "10fa1458-c8ed-4197-922a-1ba7271d2b02"
+    },
+    {
+      "combination": true,
+      "labeler": "Teva Women's Health LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f29ebcb5-7e65-4092-bfaa-f5ec026fc255"
+    },
+    {
+      "combination": true,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "36445b6a-e0f2-42f7-a8f3-5b80c90b87dd"
+    },
+    {
+      "combination": true,
+      "labeler": "AvKARE",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fbbd12dd-c538-2869-e053-6294a90a1a38"
+    },
+    {
+      "combination": true,
+      "labeler": "AvKARE",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "05e172aa-e18a-427b-e063-6294a90ae22f"
+    },
+    {
+      "combination": true,
+      "labeler": "Northstar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1488f5ae-3b34-fcd7-6049-215929b1d324"
+    },
+    {
+      "combination": true,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7c2cc8ab-db6d-4a1c-ae74-e0ef27e2f3a9"
+    },
+    {
+      "combination": true,
+      "labeler": "Xiromed, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "88d90f33-1034-4d27-034f-11d9c441c9e7"
+    },
+    {
+      "combination": true,
+      "labeler": "Xiromed LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b1c3e33d-ec95-cd89-7ad9-36994c802a1f"
+    }
+  ]
+}

@@ -1,0 +1,1507 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/006139",
+      "eu_number": "EU/1/24/1846",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-006139",
+      "mah": "ALK-Abelló A/S",
+      "marketing_authorisation_date": "2024-08-22",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/eurneffy",
+      "name": "Eurneffy",
+      "record_from": "2024-08-22",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 4
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-006139",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "EPINEPHRINE",
+    "EPINEPHRINE BITARTRATE"
+  ],
+  "inn": "epinephrine",
+  "name": "EPINEPHRINE",
+  "rank": 2,
+  "rxcui": [
+    "310132",
+    "727316",
+    "727347",
+    "727373",
+    "727386",
+    "1305268",
+    "1305269",
+    "1490057",
+    "1660014",
+    "1660016",
+    "1870205",
+    "1870207",
+    "1870225",
+    "1870230",
+    "1870232",
+    "1991328",
+    "1991329",
+    "2693442",
+    "2693448",
+    "2695029",
+    "2695032",
+    "2707356",
+    "2707359",
+    "2709207",
+    "2709209",
+    "2713737",
+    "2713740",
+    "2719203",
+    "2719204",
+    "2719206",
+    "2719209"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 84,
+    "approval_holders": 34,
+    "earliest_marketing_start": "1985-01-22",
+    "latest_label_update": "2026-10-29",
+    "nda_bla_applications": 17,
+    "repackagers": 13
+  },
+  "unii": [
+    {
+      "ingredient": "EPINEPHRINE",
+      "unii": "YKH834O4BH"
+    },
+    {
+      "ingredient": "EPINEPHRINE BITARTRATE",
+      "unii": "30Q7KI53AK"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA019430"
+      ],
+      "brand_names": [
+        "EPIPEN",
+        "EPIPEN JR"
+      ],
+      "combination": false,
+      "home_inn": "epinephrine",
+      "ingredients": [
+        "EPINEPHRINE"
+      ],
+      "labeler": "Viatris Specialty LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1987-12-22",
+      "moieties": [
+        "EPINEPHRINE"
+      ],
+      "product_ndcs": [
+        "49502-500",
+        "49502-501"
+      ],
+      "rxcui": [
+        "727316",
+        "727347",
+        "727386",
+        "1870207"
+      ],
+      "setid": "7560c201-9246-487c-a13b-6295db04274a",
+      "source": "openfda",
+      "spl_version": 37,
+      "title": "EPIPEN (EPINEPHRINE) INJECTION EPIPEN JR (EPINEPHRINE) INJECTION [VIATRIS SPECIALTY LLC]",
+      "upload_date": "2025-02-12"
+    },
+    {
+      "application_numbers": [
+        "NDA201739"
+      ],
+      "brand_names": [
+        "Auvi-Q"
+      ],
+      "combination": false,
+      "home_inn": "epinephrine",
+      "ingredients": [
+        "EPINEPHRINE"
+      ],
+      "labeler": "kaleo, Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2012-11-15",
+      "moieties": [
+        "EPINEPHRINE"
+      ],
+      "product_ndcs": [
+        "60842-021",
+        "60842-022",
+        "60842-023"
+      ],
+      "rxcui": [
+        "1305268",
+        "1305269",
+        "1870205",
+        "1870232",
+        "1991328",
+        "1991329"
+      ],
+      "setid": "6180fb40-7fca-4602-b3da-ce62b8cd2470",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "AUVI-Q (EPINEPHRINE) INJECTION, SOLUTION [KALEO, INC]",
+      "upload_date": "2025-10-06"
+    },
+    {
+      "application_numbers": [
+        "NDA204200",
+        "NDA204640"
+      ],
+      "brand_names": [
+        "Adrenalin"
+      ],
+      "combination": false,
+      "home_inn": "epinephrine",
+      "ingredients": [
+        "EPINEPHRINE"
+      ],
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2013-07-01",
+      "moieties": [
+        "EPINEPHRINE"
+      ],
+      "product_ndcs": [
+        "42023-159",
+        "42023-168"
+      ],
+      "rxcui": [
+        "310132",
+        "1490057",
+        "1660014",
+        "1660016"
+      ],
+      "setid": "3b7a4364-668d-4eb2-a20c-04adc35aabe4",
+      "source": "openfda",
+      "spl_version": 24,
+      "title": "ADRENALIN (EPINEPHRINE) INJECTION [PAR HEALTH USA, LLC]",
+      "upload_date": "2026-07-13"
+    },
+    {
+      "application_numbers": [
+        "NDA205029"
+      ],
+      "brand_names": [
+        "Epinephrine"
+      ],
+      "combination": false,
+      "home_inn": "epinephrine",
+      "ingredients": [
+        "EPINEPHRINE"
+      ],
+      "labeler": "BPI Labs, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2014-08-08",
+      "moieties": [
+        "EPINEPHRINE"
+      ],
+      "product_ndcs": [
+        "54288-103"
+      ],
+      "rxcui": [
+        "1660014"
+      ],
+      "setid": "5b5282a9-b149-4f0a-978e-5adbf48ec8aa",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "EPINEPHRINE INJECTION, SOLUTION, CONCENTRATE [BPI LABS, LLC]",
+      "upload_date": "2025-12-29"
+    },
+    {
+      "application_numbers": [
+        "NDA211363"
+      ],
+      "brand_names": [
+        "Epinephrine"
+      ],
+      "combination": false,
+      "home_inn": "epinephrine",
+      "ingredients": [
+        "EPINEPHRINE"
+      ],
+      "labeler": "International Medication Systems, Limited",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-01-30",
+      "moieties": [
+        "EPINEPHRINE"
+      ],
+      "product_ndcs": [
+        "76329-3318"
+      ],
+      "rxcui": [
+        "727373"
+      ],
+      "setid": "f2b5f15b-8541-466a-a27a-ee57bc4aac67",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "EPINEPHRINE INJECTION [INTERNATIONAL MEDICATION SYSTEMS, LIMITED]",
+      "upload_date": "2024-12-23"
+    },
+    {
+      "application_numbers": [
+        "NDA214697"
+      ],
+      "brand_names": [
+        "neffy"
+      ],
+      "combination": false,
+      "home_inn": "epinephrine",
+      "ingredients": [
+        "EPINEPHRINE"
+      ],
+      "labeler": "ARS Pharmaceuticals Operations, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-08-09",
+      "moieties": [
+        "EPINEPHRINE"
+      ],
+      "product_ndcs": [
+        "82580-010",
+        "82580-020"
+      ],
+      "rxcui": [
+        "2693442",
+        "2693448",
+        "2709207",
+        "2709209"
+      ],
+      "setid": "a1758142-a905-401d-8961-05829f51023a",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "NEFFY (EPINEPHRINE) SPRAY [ARS PHARMACEUTICALS OPERATIONS, INC.]",
+      "upload_date": "2026-04-14"
+    },
+    {
+      "application_numbers": [
+        "NDA215875"
+      ],
+      "brand_names": [
+        "Adrenalin (epinephrine in sodium chloride)"
+      ],
+      "combination": false,
+      "home_inn": "epinephrine",
+      "ingredients": [
+        "EPINEPHRINE"
+      ],
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-10-04",
+      "moieties": [
+        "EPINEPHRINE"
+      ],
+      "product_ndcs": [
+        "42023-273",
+        "42023-315",
+        "42023-434",
+        "42023-500",
+        "42023-721"
+      ],
+      "rxcui": [
+        "2695029",
+        "2695032",
+        "2707356",
+        "2707359",
+        "2713737",
+        "2713740",
+        "2719203",
+        "2719204",
+        "2719206",
+        "2719209"
+      ],
+      "setid": "61b0e2a2-71ed-43d6-b1a7-36d2dae651b5",
+      "source": "openfda",
+      "spl_version": 28,
+      "title": "ADRENALIN (EPINEPHRINE IN SODIUM CHLORIDE) (EPINEPHRINE IN SODIUM CHLORIDE) INJECTION [PAR HEALTH USA, LLC]",
+      "upload_date": "2026-04-22"
+    },
+    {
+      "application_numbers": [
+        "NDA218475"
+      ],
+      "brand_names": [
+        "epinephrine"
+      ],
+      "combination": false,
+      "home_inn": "epinephrine",
+      "ingredients": [
+        "EPINEPHRINE BITARTRATE"
+      ],
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-02-28",
+      "moieties": [
+        "EPINEPHRINE"
+      ],
+      "product_ndcs": [
+        "0338-0006",
+        "0338-0010",
+        "0338-0024"
+      ],
+      "rxcui": [],
+      "setid": "60efd409-3555-4182-a68d-1cd7bc0d1bfc",
+      "source": "dailymed-title-match",
+      "spl_version": 14,
+      "title": "EPINEPHRINE INJECTION, SOLUTION [BAXTER HEALTHCARE CORPORATION]",
+      "upload_date": "2026-10-29"
+    },
+    {
+      "application_numbers": [
+        "NDA215425"
+      ],
+      "brand_names": [
+        "EPINEPHRINE"
+      ],
+      "combination": false,
+      "home_inn": "epinephrine",
+      "ingredients": [
+        "EPINEPHRINE"
+      ],
+      "labeler": "CIVICA, INC.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-03-13",
+      "moieties": [
+        "EPINEPHRINE"
+      ],
+      "product_ndcs": [
+        "72572-238"
+      ],
+      "rxcui": [
+        "310132"
+      ],
+      "setid": "4a79ad00-405b-4454-a692-7f1daac4adec",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "EPINEPHRINE INJECTION, SOLUTION, CONCENTRATE [CIVICA, INC.]",
+      "upload_date": "2026-07-15"
+    },
+    {
+      "application_numbers": [
+        "NDA016964"
+      ],
+      "brand_names": [
+        "Marcaine with Epinephrine"
+      ],
+      "combination": true,
+      "home_inn": "epinephrine",
+      "ingredients": [
+        "BUPIVACAINE HYDROCHLORIDE",
+        "EPINEPHRINE BITARTRATE"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2005-09-12",
+      "moieties": [
+        "BUPIVACAINE",
+        "EPINEPHRINE"
+      ],
+      "product_ndcs": [
+        "0409-1746",
+        "0409-1749",
+        "0409-1752",
+        "0409-1755"
+      ],
+      "rxcui": [],
+      "setid": "67578b56-7540-487e-1fba-481255620e78",
+      "source": "dailymed-title-match",
+      "spl_version": 40,
+      "title": "MARCAINE WITH EPINEPHRINE (BUPIVACAINE HYDROCHLORIDE AND EPINEPHRINE BITARTRATE) INJECTION, SOLUTION MARCAINE (BUPIVACAINE HYDROCHLORIDE) INJECTION, SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2026-10-29"
+    },
+    {
+      "application_numbers": [
+        "NDA020800"
+      ],
+      "brand_names": [
+        "epinephrine"
+      ],
+      "combination": false,
+      "home_inn": "epinephrine",
+      "ingredients": [
+        "EPINEPHRINE"
+      ],
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2010-04-01",
+      "moieties": [
+        "EPINEPHRINE"
+      ],
+      "product_ndcs": [
+        "0115-1694",
+        "0115-1695"
+      ],
+      "rxcui": [
+        "1870225",
+        "1870230"
+      ],
+      "setid": "e13f05f1-7d21-49bb-b8d5-24bf9301c3d7",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "EPINEPHRINE INJECTION [AMNEAL PHARMACEUTICALS OF NEW YORK LLC]",
+      "upload_date": "2026-03-23"
+    },
+    {
+      "application_numbers": [
+        "NDA019430"
+      ],
+      "brand_names": [
+        "Epinephrine"
+      ],
+      "combination": false,
+      "home_inn": "epinephrine",
+      "ingredients": [
+        "EPINEPHRINE"
+      ],
+      "labeler": "Viatris Specialty LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2016-12-15",
+      "moieties": [
+        "EPINEPHRINE"
+      ],
+      "product_ndcs": [
+        "49502-101",
+        "49502-102"
+      ],
+      "rxcui": [
+        "727316",
+        "1870207"
+      ],
+      "setid": "778ac6ae-6bcb-47a4-bcb3-8dd0da9f8836",
+      "source": "openfda",
+      "spl_version": 35,
+      "title": "EPINEPHRINE INJECTION [VIATRIS SPECIALTY LLC]",
+      "upload_date": "2025-02-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA090589"
+      ],
+      "brand_names": [
+        "Epinephrine"
+      ],
+      "combination": false,
+      "home_inn": "epinephrine",
+      "ingredients": [
+        "EPINEPHRINE"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-11-27",
+      "moieties": [
+        "EPINEPHRINE"
+      ],
+      "product_ndcs": [
+        "0093-5985",
+        "0093-5986"
+      ],
+      "rxcui": [
+        "727316",
+        "1870207"
+      ],
+      "setid": "04f07f15-55e2-411b-abb8-07eab37f5664",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "EPINEPHRINE INJECTION [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2021-10-25"
+    },
+    {
+      "application_numbers": [
+        "ANDA211880"
+      ],
+      "brand_names": [
+        "Epinephrine"
+      ],
+      "combination": false,
+      "home_inn": "epinephrine",
+      "ingredients": [
+        "EPINEPHRINE"
+      ],
+      "labeler": "International Medication Systems, Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2020-05-19",
+      "moieties": [
+        "EPINEPHRINE"
+      ],
+      "product_ndcs": [
+        "76329-9060"
+      ],
+      "rxcui": [
+        "310132"
+      ],
+      "setid": "7b6ffd77-8b25-4ff1-993e-dbfd7e0834cf",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "EPINEPHRINE INJECTION [INTERNATIONAL MEDICATION SYSTEMS, LIMITED]",
+      "upload_date": "2024-06-21"
+    },
+    {
+      "application_numbers": [
+        "ANDA207568"
+      ],
+      "brand_names": [
+        "epinephrine"
+      ],
+      "combination": false,
+      "home_inn": "epinephrine",
+      "ingredients": [
+        "EPINEPHRINE"
+      ],
+      "labeler": "American Regent, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-01-31",
+      "moieties": [
+        "EPINEPHRINE"
+      ],
+      "product_ndcs": [
+        "0517-1171"
+      ],
+      "rxcui": [
+        "1660014"
+      ],
+      "setid": "6add7604-71f6-4d8a-9447-17ad01fa839d",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "EPINEPHRINE INJECTION, SOLUTION [AMERICAN REGENT, INC.]",
+      "upload_date": "2024-05-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA217192"
+      ],
+      "brand_names": [
+        "Epinephrine"
+      ],
+      "combination": false,
+      "home_inn": "epinephrine",
+      "ingredients": [
+        "EPINEPHRINE"
+      ],
+      "labeler": "American Regent, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-10-09",
+      "moieties": [
+        "EPINEPHRINE"
+      ],
+      "product_ndcs": [
+        "0517-3030"
+      ],
+      "rxcui": [
+        "310132"
+      ],
+      "setid": "61cacda5-64ee-45ca-b94c-e8640c43e581",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "EPINEPHRINE INJECTION [AMERICAN REGENT, INC.]",
+      "upload_date": "2024-10-10"
+    },
+    {
+      "application_numbers": [
+        "NDA020800"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "ADRENACLICK"
+      ],
+      "first_posted": "2010-01-06",
+      "found_by": "ADRENACLICK",
+      "labeler": "Sciele Pharma, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2013-08-28",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-08-19"
+      ],
+      "product_ndcs": [
+        "59630-803",
+        "59630-804"
+      ],
+      "rxcui": [],
+      "setid": "0db2b107-5796-447d-b438-e850092626f3",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "e13f05f1-7d21-49bb-b8d5-24bf9301c3d7"
+      ],
+      "title": "ADRENACLICK (epinephrine) injection"
+    },
+    {
+      "application_numbers": [
+        "NDA010374"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "MEDIHALER EPI"
+      ],
+      "first_posted": "2007-12-28",
+      "found_by": "MEDIHALER-EPI",
+      "labeler": "3M Company",
+      "labeler_unverified": true,
+      "last_posted": "2016-08-10",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2006-12-29"
+      ],
+      "product_ndcs": [
+        "0089-0755"
+      ],
+      "rxcui": [],
+      "setid": "1bf32957-c996-4718-8927-5ae0afd6174e",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "MEDIHALER-EPI (epinephrine bitartrate) aerosol"
+    },
+    {
+      "application_numbers": [
+        "NDA020800"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "TWINJECT"
+      ],
+      "first_posted": "2010-06-21",
+      "found_by": "TWINJECT",
+      "labeler": "Shionogi Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2013-08-27",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-08-19"
+      ],
+      "product_ndcs": [
+        "59630-801",
+        "59630-802"
+      ],
+      "rxcui": [],
+      "setid": "26d3474a-da8d-4d33-b032-3550c462abe4",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "e13f05f1-7d21-49bb-b8d5-24bf9301c3d7"
+      ],
+      "title": "TWINJECT (epinephrine) injection"
+    },
+    {
+      "application_numbers": [
+        "NDA201739"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "AUVI Q"
+      ],
+      "first_posted": "2012-11-15",
+      "found_by": "AUVI-Q",
+      "labeler": "sanofi-aventis U.S. LLC",
+      "labeler_unverified": false,
+      "last_posted": "2016-06-13",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2016-12-31"
+      ],
+      "product_ndcs": [
+        "0024-5831",
+        "0024-5833"
+      ],
+      "rxcui": [],
+      "setid": "4c550991-c4cf-11df-851a-0800200c9a66",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "6180fb40-7fca-4602-b3da-ce62b8cd2470"
+      ],
+      "title": "AUVI-Q (epinephrine) injection"
+    },
+    {
+      "application_numbers": [
+        "NDA207534"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "SYMJEPI"
+      ],
+      "first_posted": "2019-01-02",
+      "found_by": "SYMJEPI",
+      "labeler": "Sandoz Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2022-01-10",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-05-31",
+        "2021-07-31"
+      ],
+      "product_ndcs": [
+        "0781-3442",
+        "0781-3448"
+      ],
+      "rxcui": [],
+      "setid": "b1c6a201-4f23-489f-9fca-f8c82bb9fa58",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "SYMJEPI (epinephrine) injection"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 3,
+      "brand_names": [
+        "ADRENALIN"
+      ],
+      "first_posted": "2012-10-01",
+      "found_by": "ADRENALIN",
+      "labeler": "JHP Pharmaceuticals LLC",
+      "labeler_unverified": false,
+      "last_posted": "2013-10-18",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "42023-101",
+        "42023-122"
+      ],
+      "rxcui": [],
+      "setid": "cbf92254-20bf-4585-9d34-97c271d4addb",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ADRENALIN (epinephrine) injection"
+    },
+    {
+      "application_numbers": [
+        "NDA020800"
+      ],
+      "archived_versions": 10,
+      "brand_names": [
+        "ADRENACLICK"
+      ],
+      "first_posted": "2013-06-07",
+      "found_by": "ADRENACLICK",
+      "labeler": "Amedra Pharmaceuticals LLC",
+      "labeler_unverified": true,
+      "last_posted": "2021-02-08",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2014-11-01"
+      ],
+      "product_ndcs": [
+        "52054-803",
+        "52054-804"
+      ],
+      "rxcui": [],
+      "setid": "ddee42e1-7e9e-4d2e-83ed-2e501b0dac25",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "e13f05f1-7d21-49bb-b8d5-24bf9301c3d7"
+      ],
+      "title": "ADRENACLICK (epinephrine) injection"
+    },
+    {
+      "application_numbers": [
+        "NDA207534"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "SYMJEPI"
+      ],
+      "first_posted": "2020-11-02",
+      "found_by": "SYMJEPI",
+      "labeler": "USWM, LLC",
+      "labeler_unverified": false,
+      "last_posted": "2023-12-08",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-02-28"
+      ],
+      "product_ndcs": [
+        "78670-130",
+        "78670-131"
+      ],
+      "rxcui": [],
+      "setid": "eeb2da6b-3fb3-48f6-bb62-ac3ad3b8fafa",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "SYMJEPI (epinephrine) injection, solution"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": true,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "4dd52202-8eef-4136-92dd-ada573b7cf74"
+    },
+    {
+      "combination": true,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "dcf3c0ad-9eb8-4ee7-96df-d0db7ff23175"
+    },
+    {
+      "combination": true,
+      "labeler": "Septodont Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "0eba0bd2-ccb6-4f7e-8d0c-e4b4e6cdce03"
+    },
+    {
+      "combination": true,
+      "labeler": "Pierrel S.p.A.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "d18424f0-a691-11dd-ad8b-0800200c9a66"
+    },
+    {
+      "combination": true,
+      "labeler": "Septodont, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "3f9f9b4f-bf6c-4b57-ac1a-98fd1a9a369d"
+    },
+    {
+      "combination": false,
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "a5ce0c01-dd47-4997-ab09-490de65d3835"
+    },
+    {
+      "combination": false,
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "b27e06aa-5b40-44bc-8de7-80b027580a3b"
+    },
+    {
+      "combination": false,
+      "labeler": "BPI Labs, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "db18519b-82a9-435b-85c7-a040d644f057"
+    },
+    {
+      "combination": false,
+      "labeler": "BPI Labs, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "3fd8dd51-0aeb-43dd-9de0-c11b0330b15e"
+    },
+    {
+      "combination": false,
+      "labeler": "BPI Labs, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "7499cbca-b8fe-4fc3-a318-13859ab989a7"
+    },
+    {
+      "combination": false,
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "ef556382-9d19-4f0e-9dbe-fcecc772a3e2"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "4f83895f-638c-4515-af03-7c41ae60a42e"
+    },
+    {
+      "combination": true,
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "93cf0914-de08-4ec6-8f8c-d663243b9958"
+    },
+    {
+      "combination": true,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "ba082c2f-64f4-419d-9c88-74f203316e17"
+    },
+    {
+      "combination": true,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "eb6d8fee-def4-4c96-9972-695e8cea8ea8"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a6afb9e8-1db9-480c-8d31-58c5c870ca49"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "577f987e-d3af-4f49-ab44-5db9cbf46601"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c0ef05d5-3fc8-4fb4-bf5b-c219ff17b092"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals Private Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "33fa2443-5c80-4967-98bb-f60d3144421c"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1e8ebac1-5b32-47f9-a930-86a98a24dccc"
+    },
+    {
+      "combination": true,
+      "labeler": "Dentsply Pharmaceutical",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9ca8fb43-4f34-47c0-8b79-3b5bd1eaee00"
+    },
+    {
+      "combination": true,
+      "labeler": "Safco Dental Supply Co.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0536a4de-578d-497e-a01b-0b1887344cc8"
+    },
+    {
+      "combination": true,
+      "labeler": "Dentsply Pharmaceutical",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "14b55cf9-f7cd-4bb4-a7c5-aba61abadef1"
+    },
+    {
+      "combination": true,
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2f94f711-14c4-48ec-c5a3-c5ec4b8e8729"
+    },
+    {
+      "combination": true,
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "02a845c3-4521-4926-e397-25ab536e7cf6"
+    },
+    {
+      "combination": true,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b671015d-f620-4930-a890-5e27a40ae42f"
+    },
+    {
+      "combination": true,
+      "labeler": "Septodont, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b4c60d8e-e350-45b2-9d6b-5815eeb6c994"
+    },
+    {
+      "combination": true,
+      "labeler": "Dentsply Pharmaceutical Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "60c8710b-ae55-4fdf-e053-2991aa0adc75"
+    },
+    {
+      "combination": true,
+      "labeler": "B. Braun Medical Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fc83d701-02b2-4595-8e5b-dbebc5e209d5"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "79ca73ca-d3c0-40af-9dec-e2f4ce669cda"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b7b5e709-2125-4568-9a1d-9b4ea75d6c4a"
+    },
+    {
+      "combination": false,
+      "labeler": "GLENMARK PHARMACEUTICALS INC., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cc4ebb51-6020-4339-a36a-ec2380b7d28e"
+    },
+    {
+      "combination": false,
+      "labeler": "GLENMARK PHARMACEUTICALS INC., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "01fd19cd-190c-4989-b733-60ba95941297"
+    },
+    {
+      "combination": true,
+      "labeler": "Novocol Pharmaceutical of Canada, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "636cbf11-819c-48f8-915d-ac5fb38bd352"
+    },
+    {
+      "combination": true,
+      "labeler": "Henry Schein",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d9402ac2-fedd-4fb0-90a3-2c466a786526"
+    },
+    {
+      "combination": true,
+      "labeler": "Patterson Dental",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2b5a7ee3-71ee-4c41-ad9f-852f170470b3"
+    },
+    {
+      "combination": true,
+      "labeler": "Patterson Dental",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "406de6e6-40f5-44c5-a109-3be0b9d48e58"
+    },
+    {
+      "combination": true,
+      "labeler": "Novocol Pharmaceutical of Canada, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cc7ff594-2204-44b2-8f81-bcb9c7e9360b"
+    },
+    {
+      "combination": true,
+      "labeler": "NDC, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0b0cbbec-8216-434f-892e-226c89d7239c"
+    },
+    {
+      "combination": true,
+      "labeler": "Novocol Pharmaceutical of Canada, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f26a084b-ab25-4ca2-8f58-705a4219bf32"
+    },
+    {
+      "combination": true,
+      "labeler": "NDC, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "60d11ba2-e9e0-4f0a-bdfc-3bc49006c2df"
+    },
+    {
+      "combination": true,
+      "labeler": "Novocol Pharmaceutical of Canada, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fc908011-5e5e-459a-a666-d41426504703"
+    },
+    {
+      "combination": true,
+      "labeler": "Benco Dental",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4524cb96-40f7-471f-bfc6-1dcab47628ec"
+    },
+    {
+      "combination": true,
+      "labeler": "Novocol Pharmaceutical of Canada, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "854399ec-f7d6-4eab-87bb-94c2b442ec3e"
+    },
+    {
+      "combination": true,
+      "labeler": "Novocol Pharmaceutical of Canada, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c4bba4ab-2b20-43e6-92ea-9ec6f1fce754"
+    },
+    {
+      "combination": true,
+      "labeler": "Benco Dental",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d47d7842-930e-41db-9631-d1aba0f05ae0"
+    },
+    {
+      "combination": true,
+      "labeler": "Septodont, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1767d606-69b8-419e-840f-36550ed91b8f"
+    },
+    {
+      "combination": true,
+      "labeler": "Burkhart Dental Supply Co., Inc",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4f11bb06-c71b-4d96-9baa-2a17ad473a05"
+    },
+    {
+      "combination": true,
+      "labeler": "Aira LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "905cade1-9b37-486a-ac12-21f3262ab4e2"
+    },
+    {
+      "combination": true,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bc61a9a6-0a4e-48a9-b908-e5e66b9f23eb"
+    },
+    {
+      "combination": true,
+      "labeler": "Darby Dental Supply, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "27e8fdfb-e923-4f99-aff7-8b9e50228151"
+    },
+    {
+      "combination": true,
+      "labeler": "Henry Schein Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1ca96c77-d983-496b-84a6-54709e80f532"
+    },
+    {
+      "combination": true,
+      "labeler": "Patterson Dental",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6506755f-c9f7-4286-9ba7-ac5d5745f5e4"
+    },
+    {
+      "combination": true,
+      "labeler": "Safco Dental Supply Co",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6721c3ab-c37f-4504-aebc-0103c56ed567"
+    },
+    {
+      "combination": true,
+      "labeler": "Patterson Dental",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f074c0dc-7c3f-46fd-a480-b8337a19fe5c"
+    },
+    {
+      "combination": true,
+      "labeler": "Henry Schein Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f8d90500-f797-4238-8dd2-b59cbcd89d12"
+    },
+    {
+      "combination": true,
+      "labeler": "Benco Dental",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9419ac39-9b26-4cca-a2d6-167205fede24"
+    },
+    {
+      "combination": true,
+      "labeler": "Benco Dental",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c5cc87df-df3f-42b8-af84-5f2045d42084"
+    },
+    {
+      "combination": true,
+      "labeler": "Darby Dental Supply, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e5ed4c2a-e320-48cf-a2fd-61d48481c624"
+    },
+    {
+      "combination": true,
+      "labeler": "NDC, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "937e9341-e604-4ca7-98e1-fc7c659d82e9"
+    },
+    {
+      "combination": true,
+      "labeler": "Septodont, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f902d2b4-28fc-41b1-a9f7-0d1a63c598aa"
+    },
+    {
+      "combination": true,
+      "labeler": "Septodont, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f8ca7d03-01c8-450f-9279-59789c3497ea"
+    },
+    {
+      "combination": true,
+      "labeler": "Novocol Pharmaceutical of Canada, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "801a4f80-397b-46c5-ad3e-a80594e7bda2"
+    },
+    {
+      "combination": true,
+      "labeler": "Septodont, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3e196aa4-0b01-44db-9267-98a995b54743"
+    },
+    {
+      "combination": true,
+      "labeler": "Septodont, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "864e511b-cc50-4ed9-b122-8e1a93457332"
+    },
+    {
+      "combination": true,
+      "labeler": "Septodont, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "df130310-41db-45df-a214-9da01cf0bf41"
+    },
+    {
+      "combination": true,
+      "labeler": "Novocol Pharmaceutical of Canada, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2005680a-8a23-4403-a618-e4ee74fa1121"
+    },
+    {
+      "combination": true,
+      "labeler": "The Atlanta Dental Supply Company DBA Advanced Dental Products",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "55030c51-250b-4fc2-ba3c-ac38dab7cc8e"
+    }
+  ]
+}

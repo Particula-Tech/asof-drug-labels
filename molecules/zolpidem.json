@@ -1,0 +1,861 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "ZOLPIDEM TARTRATE"
+  ],
+  "inn": "zolpidem",
+  "name": "ZOLPIDEM",
+  "rank": 164,
+  "rxcui": [
+    "836641",
+    "836645",
+    "836647",
+    "836649",
+    "854873",
+    "854875",
+    "854876",
+    "854878",
+    "854880",
+    "854882",
+    "854894",
+    "854896",
+    "1232194",
+    "1232202",
+    "2637353"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 20,
+    "approval_holders": 16,
+    "earliest_marketing_start": "1993-04-01",
+    "latest_label_update": "2026-10-26",
+    "nda_bla_applications": 4,
+    "repackagers": 19
+  },
+  "unii": [
+    {
+      "ingredient": "ZOLPIDEM TARTRATE",
+      "unii": "WY6W63843K"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA019908"
+      ],
+      "brand_names": [
+        "Ambien"
+      ],
+      "combination": false,
+      "home_inn": "zolpidem",
+      "ingredients": [
+        "ZOLPIDEM TARTRATE"
+      ],
+      "labeler": "Sanofi-Aventis U.S. LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1993-04-01",
+      "moieties": [
+        "ZOLPIDEM"
+      ],
+      "product_ndcs": [
+        "0024-5401"
+      ],
+      "rxcui": [
+        "854873",
+        "854875",
+        "854876",
+        "854878"
+      ],
+      "setid": "c36cadf4-65a4-4466-b409-c82020b42452",
+      "source": "openfda",
+      "spl_version": 26,
+      "title": "AMBIEN (ZOLPIDEM TARTRATE) TABLET, FILM COATED [SANOFI-AVENTIS U.S. LLC]",
+      "upload_date": "2025-04-18"
+    },
+    {
+      "application_numbers": [
+        "NDA021997"
+      ],
+      "brand_names": [
+        "Edluar"
+      ],
+      "combination": false,
+      "home_inn": "zolpidem",
+      "ingredients": [
+        "ZOLPIDEM TARTRATE"
+      ],
+      "labeler": "Viatris Specialty LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2009-07-24",
+      "moieties": [
+        "ZOLPIDEM"
+      ],
+      "product_ndcs": [
+        "0037-6010",
+        "0037-6050"
+      ],
+      "rxcui": [
+        "836641",
+        "836645",
+        "836647",
+        "836649"
+      ],
+      "setid": "a32884d0-85b5-11de-8a39-0800200c9a66",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "EDLUAR (ZOLPIDEM TARTRATE) TABLET [VIATRIS SPECIALTY LLC]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "NDA215721"
+      ],
+      "brand_names": [
+        "zolpidem tartrate"
+      ],
+      "combination": false,
+      "home_inn": "zolpidem",
+      "ingredients": [
+        "ZOLPIDEM TARTRATE"
+      ],
+      "labeler": "Almatica Pharma LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-05-09",
+      "moieties": [
+        "ZOLPIDEM"
+      ],
+      "product_ndcs": [
+        "52427-775"
+      ],
+      "rxcui": [
+        "2637353"
+      ],
+      "setid": "2f1a3600-9bd6-3651-3ab5-1e4e0b0a3916",
+      "source": "dailymed-title-match",
+      "spl_version": 4,
+      "title": "ZOLPIDEM TARTRATE CAPSULE [ALMATICA PHARMA LLC]",
+      "upload_date": "2026-10-22"
+    },
+    {
+      "application_numbers": [
+        "NDA021774"
+      ],
+      "brand_names": [
+        "Ambien CR"
+      ],
+      "combination": false,
+      "home_inn": "zolpidem",
+      "ingredients": [
+        "ZOLPIDEM TARTRATE"
+      ],
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-02-07",
+      "moieties": [
+        "ZOLPIDEM"
+      ],
+      "product_ndcs": [
+        "0713-5501",
+        "0713-5521"
+      ],
+      "rxcui": [
+        "854880",
+        "854882",
+        "854894",
+        "854896"
+      ],
+      "setid": "2d934da3-bd77-4470-e063-6294a90a64f5",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "AMBIEN CR (ZOLPIDEM TARTRATE) TABLET, COATED [COSETTE PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-02-10"
+    },
+    {
+      "application_numbers": [
+        "NDA019908"
+      ],
+      "brand_names": [
+        "Ambien"
+      ],
+      "combination": false,
+      "home_inn": "zolpidem",
+      "ingredients": [
+        "ZOLPIDEM TARTRATE"
+      ],
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-02-07",
+      "moieties": [
+        "ZOLPIDEM"
+      ],
+      "product_ndcs": [
+        "0713-5401",
+        "0713-5421"
+      ],
+      "rxcui": [
+        "854873",
+        "854875",
+        "854876",
+        "854878"
+      ],
+      "setid": "747949c5-2c91-4909-8a07-71b6826f8e97",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "AMBIEN (ZOLPIDEM TARTRATE) TABLET, FILM COATED [COSETTE PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-02-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA077322"
+      ],
+      "brand_names": [
+        "Zolpidem Tartrate"
+      ],
+      "combination": false,
+      "home_inn": "zolpidem",
+      "ingredients": [
+        "ZOLPIDEM TARTRATE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2007-04-23",
+      "moieties": [
+        "ZOLPIDEM"
+      ],
+      "product_ndcs": [
+        "0781-5317",
+        "0781-5318"
+      ],
+      "rxcui": [
+        "854873",
+        "854876"
+      ],
+      "setid": "0553e26c-f2aa-43aa-adf9-6eb951a501d3",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "ZOLPIDEM TARTRATE TABLET, COATED [SANDOZ INC]",
+      "upload_date": "2025-02-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA078413"
+      ],
+      "brand_names": [
+        "Zolpidem Tartrate"
+      ],
+      "combination": false,
+      "home_inn": "zolpidem",
+      "ingredients": [
+        "ZOLPIDEM TARTRATE"
+      ],
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2007-05-04",
+      "moieties": [
+        "ZOLPIDEM"
+      ],
+      "product_ndcs": [
+        "16714-621",
+        "16714-622"
+      ],
+      "rxcui": [
+        "854873",
+        "854876"
+      ],
+      "setid": "51c9a29c-a285-40d0-bf3a-7e8c944ee39c",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "ZOLPIDEM TARTRATE TABLET, FILM COATED [NORTHSTAR RX LLC]",
+      "upload_date": "2024-02-01"
+    },
+    {
+      "application_numbers": [
+        "ANDA077903",
+        "ANDA220717"
+      ],
+      "brand_names": [
+        "ZOLPIDEM TARTRATE",
+        "Zolpidem Tartrate"
+      ],
+      "combination": false,
+      "home_inn": "zolpidem",
+      "ingredients": [
+        "ZOLPIDEM TARTRATE"
+      ],
+      "labeler": "Torrent Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2007-09-05",
+      "moieties": [
+        "ZOLPIDEM"
+      ],
+      "product_ndcs": [
+        "13668-007",
+        "13668-008",
+        "13668-775"
+      ],
+      "rxcui": [
+        "854873",
+        "854876"
+      ],
+      "setid": "1584bad1-7bf4-4805-bdd9-7eb0fac92721",
+      "source": "openfda",
+      "spl_version": 27,
+      "title": "ZOLPIDEM TARTRATE TABLET [TORRENT PHARMACEUTICALS LIMITED]",
+      "upload_date": "2026-09-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA090107"
+      ],
+      "brand_names": [
+        "Zolpidem tartrate"
+      ],
+      "combination": false,
+      "home_inn": "zolpidem",
+      "ingredients": [
+        "ZOLPIDEM TARTRATE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-10-31",
+      "moieties": [
+        "ZOLPIDEM"
+      ],
+      "product_ndcs": [
+        "0781-5315",
+        "0781-5316"
+      ],
+      "rxcui": [
+        "854880",
+        "854894"
+      ],
+      "setid": "b1b0085f-d9fe-430a-9bd5-607f607bf7e1",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "ZOLPIDEM TARTRATE TABLET, EXTENDED RELEASE [SANDOZ INC]",
+      "upload_date": "2025-02-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA078970"
+      ],
+      "brand_names": [
+        "ZOLPIDEM TARTRATE"
+      ],
+      "combination": false,
+      "home_inn": "zolpidem",
+      "ingredients": [
+        "ZOLPIDEM TARTRATE"
+      ],
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-04-11",
+      "moieties": [
+        "ZOLPIDEM"
+      ],
+      "product_ndcs": [
+        "68180-779",
+        "68180-780"
+      ],
+      "rxcui": [
+        "854880",
+        "854894"
+      ],
+      "setid": "ac647afe-2fe5-4056-806f-abdd54789b45",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "ZOLPIDEM TARTRATE TABLET, EXTENDED RELEASE [LUPIN PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-12-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA204299"
+      ],
+      "brand_names": [
+        "ZOLPIDEM TARTRATE"
+      ],
+      "combination": false,
+      "home_inn": "zolpidem",
+      "ingredients": [
+        "ZOLPIDEM TARTRATE"
+      ],
+      "labeler": "Lupin Pharmaceuticals,Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-03-22",
+      "moieties": [
+        "ZOLPIDEM"
+      ],
+      "product_ndcs": [
+        "43386-761",
+        "43386-762"
+      ],
+      "rxcui": [
+        "1232194",
+        "1232202"
+      ],
+      "setid": "6db679f6-b1f8-4fbf-9e87-9cef4650c45a",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "ZOLPIDEM TARTRATE TABLET [LUPIN PHARMACEUTICALS,INC.]",
+      "upload_date": "2020-11-19"
+    },
+    {
+      "application_numbers": [
+        "NDA022196"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "ZOLPIMIST"
+      ],
+      "first_posted": "2010-12-01",
+      "found_by": "ZOLPIMIST",
+      "labeler": "ECR Pharmaceuticals",
+      "labeler_unverified": true,
+      "last_posted": "2017-12-28",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-04-30"
+      ],
+      "product_ndcs": [
+        "0095-0950"
+      ],
+      "rxcui": [],
+      "setid": "2facd90f-7356-44f4-a257-c545de2a53a6",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ZOLPIMIST (zolpidem tartrate) spray, metered"
+    },
+    {
+      "application_numbers": [
+        "NDA021774"
+      ],
+      "archived_versions": 19,
+      "brand_names": [
+        "AMBIEN"
+      ],
+      "first_posted": "2007-10-04",
+      "found_by": "AMBIEN",
+      "labeler": "Sanofi-Aventis U.S. LLC",
+      "labeler_unverified": false,
+      "last_posted": "2025-04-18",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2026-04-30",
+        "2026-07-31"
+      ],
+      "product_ndcs": [
+        "0024-5501",
+        "0024-5521"
+      ],
+      "rxcui": [],
+      "setid": "404c858c-89ac-4c9d-8a96-8702a28e6e76",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "2d934da3-bd77-4470-e063-6294a90a64f5"
+      ],
+      "title": "AMBIEN CR (zolpidem tartrate) tablet, coated"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "AMBIEN"
+      ],
+      "first_posted": "2007-04-13",
+      "found_by": "AMBIEN",
+      "labeler": "sanofi-aventis U.S. LLC",
+      "labeler_unverified": false,
+      "last_posted": "2007-04-13",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0024-5501",
+        "0024-5521"
+      ],
+      "rxcui": [],
+      "setid": "7b308c92-0aac-425e-af1c-8eda32536b00",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ambien cr (zolpidem tartrate) tablet, coated"
+    },
+    {
+      "application_numbers": [
+        "NDA022196"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "ZOLPIMIST"
+      ],
+      "first_posted": "2019-03-05",
+      "found_by": "ZOLPIMIST",
+      "labeler": "Aytu BioPharma, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2022-07-01",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-05-31"
+      ],
+      "product_ndcs": [
+        "69654-510"
+      ],
+      "rxcui": [],
+      "setid": "7b99e2ac-ff5b-c07a-e053-2a91aa0a6ade",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ZOLPIMIST (zolpidem tartrate) spray, metered"
+    },
+    {
+      "application_numbers": [
+        "NDA022328"
+      ],
+      "archived_versions": 9,
+      "brand_names": [
+        "INTERMEZZO"
+      ],
+      "first_posted": "2012-04-02",
+      "found_by": "INTERMEZZO",
+      "labeler": "Purdue Pharma LP",
+      "labeler_unverified": false,
+      "last_posted": "2022-09-29",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2020-05-01",
+        "2020-12-01"
+      ],
+      "product_ndcs": [
+        "59011-255",
+        "59011-256"
+      ],
+      "rxcui": [],
+      "setid": "913b6cfe-1fb0-44a8-817a-26374bbce995",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "INTERMEZZO (zolpidem tartrate) tablet"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "AMBIEN"
+      ],
+      "first_posted": "2007-10-05",
+      "found_by": "AMBIEN",
+      "labeler": "Sanofi-Aventis U.S. LLC",
+      "labeler_unverified": false,
+      "last_posted": "2007-10-05",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0024-5401",
+        "0024-5421"
+      ],
+      "rxcui": [],
+      "setid": "91474f99-1780-4ff6-8b89-a08da2eb3076",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ambien (zolpidem tartrate) tablet, film coated"
+    },
+    {
+      "application_numbers": [
+        "NDA022328"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "INTERMEZZO"
+      ],
+      "first_posted": "2012-04-02",
+      "found_by": "INTERMEZZO",
+      "labeler": "Transcept Pharmaceuticals, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2012-12-03",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2012-04-04"
+      ],
+      "product_ndcs": [
+        "67213-175",
+        "67213-350"
+      ],
+      "rxcui": [],
+      "setid": "962a2fd0-8337-11dd-ad8b-0800200c9a66",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "INTERMEZZO (zolpidem tartrate) tablet"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "AMBIEN"
+      ],
+      "first_posted": "2007-10-05",
+      "found_by": "AMBIEN",
+      "labeler": "Sanofi-Synthelabo Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2007-10-05",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0024-5401",
+        "0024-5421"
+      ],
+      "rxcui": [],
+      "setid": "a68800a3-b543-43a5-a3d3-784eab67b4cb",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ambien (zolpidem tartrate) tablet, film coated"
+    },
+    {
+      "application_numbers": [
+        "NDA022196"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "ZOLPIMIST"
+      ],
+      "first_posted": "2016-03-23",
+      "found_by": "ZOLPIMIST",
+      "labeler": "Magna Pharmaceuticals, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2019-10-28",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-10-25"
+      ],
+      "product_ndcs": [
+        "58407-510"
+      ],
+      "rxcui": [],
+      "setid": "b2e26965-30bd-4dca-869d-8a70b23b6d62",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ZOLPIMIST (zolpidem tartrate) spray, metered"
+    },
+    {
+      "application_numbers": [
+        "NDA021997"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "EDLUAR"
+      ],
+      "first_posted": "2018-04-26",
+      "found_by": "EDLUAR",
+      "labeler": "Orexo AB",
+      "labeler_unverified": true,
+      "last_posted": "2018-04-26",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2009-05-04"
+      ],
+      "product_ndcs": [
+        "42447-112",
+        "42447-122"
+      ],
+      "rxcui": [],
+      "setid": "c9e53237-e408-43fa-b0ea-bc341600a95d",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "a32884d0-85b5-11de-8a39-0800200c9a66"
+      ],
+      "title": "EDLUAR (zolpidem tartrate) tablet"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 3,
+      "brand_names": [
+        "EDLUAR"
+      ],
+      "first_posted": "2009-04-21",
+      "found_by": "EDLUAR",
+      "labeler": "",
+      "labeler_unverified": true,
+      "last_posted": "2025-08-08",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "42447-112",
+        "42447-122"
+      ],
+      "rxcui": [],
+      "setid": "de965605-268a-4479-86f7-84de949cf36f",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "EDLUAR (zolpidem tartrate) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA019908"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "AMBIEN"
+      ],
+      "first_posted": "2010-01-27",
+      "found_by": "AMBIEN",
+      "labeler": "Caremark L.L.C.",
+      "labeler_unverified": false,
+      "last_posted": "2010-01-27",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2011-12-31"
+      ],
+      "product_ndcs": [
+        "0024-5421",
+        "0339-4164"
+      ],
+      "rxcui": [],
+      "setid": "f5363677-fe2e-4285-93e6-252bc282a3de",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "747949c5-2c91-4909-8a07-71b6826f8e97",
+        "c36cadf4-65a4-4466-b409-c82020b42452"
+      ],
+      "title": "AMBIEN (zolpidem tartrate) tablet, film coated"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0c64bc71-2e7f-4b15-a8e1-acb8de04395f"
+    },
+    {
+      "combination": false,
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "44b34e58-114b-4774-9fab-4b188dfe0228"
+    },
+    {
+      "combination": false,
+      "labeler": "ACI Healthcare USA, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "021153ce-fe27-4ed1-8d88-b4157b0ed734"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0dd113e1-f789-48d2-8cb2-d39b71273658"
+    },
+    {
+      "combination": false,
+      "labeler": "Breckenridge Pharmaceutical, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cbda91f7-4411-4016-80d6-0a349931956d"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ea2067bd-1622-4d98-8012-2c09405aa88d"
+    },
+    {
+      "combination": false,
+      "labeler": "The ACME Laboratories Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5679ed64-8424-4e63-a3c9-91d80fff2ca6"
+    },
+    {
+      "combination": false,
+      "labeler": "Umedica Laboratories USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b49f6c18-e155-4728-a79a-9354e8c3c8f4"
+    },
+    {
+      "combination": false,
+      "labeler": "TORRENT PHARMACEUTICALS LIMITED",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9025a6f7-5501-4aba-875e-222ef39848c0"
+    }
+  ]
+}

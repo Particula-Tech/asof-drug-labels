@@ -1,0 +1,395 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "ASPIRIN"
+  ],
+  "inn": "aspirin",
+  "name": "ASPIRIN",
+  "rank": 315,
+  "rxcui": [
+    "238134",
+    "259081",
+    "994237",
+    "994239"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 21,
+    "approval_holders": 18,
+    "earliest_marketing_start": "1985-10-11",
+    "latest_label_update": "2026-09-02",
+    "nda_bla_applications": 0,
+    "repackagers": 2
+  },
+  "unii": [
+    {
+      "ingredient": "ASPIRIN",
+      "unii": "R16CO5Y76E"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "ANDA086996"
+      ],
+      "brand_names": [
+        "Butalbital, aspirin, and caffeine"
+      ],
+      "combination": true,
+      "home_inn": "butalbital",
+      "ingredients": [
+        "ASPIRIN",
+        "BUTALBITAL",
+        "CAFFEINE"
+      ],
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1985-10-11",
+      "moieties": [
+        "ASPIRIN",
+        "BUTALBITAL",
+        "CAFFEINE"
+      ],
+      "product_ndcs": [
+        "0527-1552"
+      ],
+      "rxcui": [
+        "238134"
+      ],
+      "setid": "ba60b130-33cd-4db9-92a7-2cab8ded0737",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "BUTALBITAL, ASPIRIN, AND CAFFEINE CAPSULE [LANNETT COMPANY, INC.]",
+      "upload_date": "2024-01-31"
+    },
+    {
+      "application_numbers": [
+        "ANDA075231"
+      ],
+      "brand_names": [
+        "Ascomp with Codeine"
+      ],
+      "combination": true,
+      "home_inn": "butalbital",
+      "ingredients": [
+        "ASPIRIN",
+        "BUTALBITAL",
+        "CAFFEINE",
+        "CODEINE PHOSPHATE"
+      ],
+      "labeler": "LGM PHARMA SOLUTIONS, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2001-11-30",
+      "moieties": [
+        "ASPIRIN",
+        "BUTALBITAL",
+        "CAFFEINE",
+        "CODEINE"
+      ],
+      "product_ndcs": [
+        "79739-6094"
+      ],
+      "rxcui": [
+        "994237",
+        "994239"
+      ],
+      "setid": "1cab3106-1064-4b42-892b-39f405d9e02f",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "ASCOMP WITH CODEINE (BUTALBITAL, ASPIRIN, CAFEINE, AND CODEINE PHOSPHATE) CAPSULE [LGM PHARMA SOLUTIONS, LLC]",
+      "upload_date": "2026-04-08"
+    },
+    {
+      "application_numbers": [
+        "ANDA206392"
+      ],
+      "brand_names": [
+        "Aspirin and Extended-Release Dipyridamole"
+      ],
+      "combination": true,
+      "home_inn": "aspirin",
+      "ingredients": [
+        "ASPIRIN",
+        "DIPYRIDAMOLE"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-03-28",
+      "moieties": [
+        "ASPIRIN",
+        "DIPYRIDAMOLE"
+      ],
+      "product_ndcs": [
+        "65162-596"
+      ],
+      "rxcui": [
+        "259081"
+      ],
+      "setid": "369cb8a3-e1e4-4150-859d-4f788436ddca",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "ASPIRIN AND EXTENDED-RELEASE DIPYRIDAMOLE CAPSULE [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2025-08-08"
+    },
+    {
+      "application_numbers": [
+        "ANDA207944"
+      ],
+      "brand_names": [
+        "Aspirin and Extended - Release Dipyridamole Capsules, 25 mg / 200 mg"
+      ],
+      "combination": true,
+      "home_inn": "aspirin",
+      "ingredients": [
+        "ASPIRIN",
+        "DIPYRIDAMOLE"
+      ],
+      "labeler": "Par Health USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-01-30",
+      "moieties": [
+        "ASPIRIN",
+        "DIPYRIDAMOLE"
+      ],
+      "product_ndcs": [
+        "49884-007"
+      ],
+      "rxcui": [
+        "259081"
+      ],
+      "setid": "237a1f63-53ff-47fa-903c-ac6276e594a2",
+      "source": "openfda",
+      "spl_version": 20,
+      "title": "ASPIRIN AND EXTENDED - RELEASE DIPYRIDAMOLE CAPSULES, 25 MG / 200 MG (ASPIRIN AND EXTENDED - RELEASE DIPYRIDAMOLE) CAPSULE [PAR HEALTH USA, LLC]",
+      "upload_date": "2026-08-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA209048"
+      ],
+      "brand_names": [
+        "Aspirin and Dipyridamole"
+      ],
+      "combination": true,
+      "home_inn": "aspirin",
+      "ingredients": [
+        "ASPIRIN",
+        "DIPYRIDAMOLE"
+      ],
+      "labeler": "Dr. Reddy's Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-10-10",
+      "moieties": [
+        "ASPIRIN",
+        "DIPYRIDAMOLE"
+      ],
+      "product_ndcs": [
+        "43598-339"
+      ],
+      "rxcui": [
+        "259081"
+      ],
+      "setid": "92222dd3-7802-2a03-7d30-58cf192cc33e",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "ASPIRIN AND DIPYRIDAMOLE CAPSULE, EXTENDED RELEASE [DR. REDDY'S LABORATORIES INC]",
+      "upload_date": "2021-12-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA074951"
+      ],
+      "brand_names": [
+        "BUTALBITAL, ASPIRIN, CAFFEINE and CODEINE PHOSPHATE"
+      ],
+      "combination": true,
+      "home_inn": "aspirin",
+      "ingredients": [
+        "ASPIRIN",
+        "BUTALBITAL",
+        "CAFFEINE",
+        "CODEINE PHOSPHATE"
+      ],
+      "labeler": "Amneal Pharmaceuticals of New York, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-04-01",
+      "moieties": [
+        "ASPIRIN",
+        "BUTALBITAL",
+        "CAFFEINE",
+        "CODEINE"
+      ],
+      "product_ndcs": [
+        "69238-1993"
+      ],
+      "rxcui": [
+        "994237"
+      ],
+      "setid": "828e30fa-7bb1-486b-80ee-806fce45e4e4",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "BUTALBITAL, ASPIRIN, CAFFEINE AND CODEINE PHOSPHATE CAPSULE [AMNEAL PHARMACEUTICALS OF NEW YORK, LLC]",
+      "upload_date": "2026-01-19"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": true,
+      "labeler": "Poly Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "85a3b808-b476-f2f0-e053-2a91aa0af21f"
+    },
+    {
+      "combination": true,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "467d6ce3-bc05-4aa1-87cc-3214fd628d39"
+    },
+    {
+      "combination": true,
+      "labeler": "Epic Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3292a7c6-5ba3-4563-bc62-e43040634123"
+    },
+    {
+      "combination": true,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "111a4f6a-c3e4-43e2-8f0e-8c72f71cddb2"
+    },
+    {
+      "combination": true,
+      "labeler": "LGM PHARMA SOLUTIONS, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a1c7b964-af71-4427-8f13-73b5e69ca525"
+    },
+    {
+      "combination": true,
+      "labeler": "Westminster Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ac6ceec2-72d8-4901-9d30-278965a79049"
+    },
+    {
+      "combination": true,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e69d8bb1-ba09-42e2-8372-7f5e0a906174"
+    },
+    {
+      "combination": true,
+      "labeler": "Breckenridge Pharmaceutical, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "243a6aea-0f48-42a9-a85e-ff247ab94336"
+    },
+    {
+      "combination": true,
+      "labeler": "AvKARE",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c9a73ec9-e468-46a5-b2c1-99f1f1536585"
+    },
+    {
+      "combination": true,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "465bbdac-a483-689a-811f-32923ea99fa7"
+    },
+    {
+      "combination": true,
+      "labeler": "Galt Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5bc485db-9d96-4291-aaa3-2a96ebf3098a"
+    },
+    {
+      "combination": true,
+      "labeler": "Atland Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "61ca2af1-081c-411c-90ce-ec6d9e3157b2"
+    },
+    {
+      "combination": true,
+      "labeler": "Galt Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "be2761bc-e537-4039-846a-2ffa3d8b2afc"
+    },
+    {
+      "combination": true,
+      "labeler": "Atland Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7776aae6-3cbd-4aed-9aac-4bed80339e27"
+    },
+    {
+      "combination": true,
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0e5e3842-fc6c-4a24-8e5c-522701f7c291"
+    }
+  ]
+}

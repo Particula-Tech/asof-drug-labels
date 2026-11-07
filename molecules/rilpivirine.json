@@ -1,0 +1,374 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand EDURANT",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/002264",
+      "eu_number": "EU/1/11/736",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-002264",
+      "mah": "",
+      "marketing_authorisation_date": "2011-11-28",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/edurant",
+      "name": "Edurant",
+      "record_from": "2011-11-28",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 12
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/005060",
+      "eu_number": "EU/1/20/1482",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-005060",
+      "mah": "Janssen-Cilag International NV",
+      "marketing_authorisation_date": "2020-12-17",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/rekambys",
+      "name": "Rekambys",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 4,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-002264",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "RILPIVIRINE HYDROCHLORIDE"
+  ],
+  "inn": "rilpivirine",
+  "name": "RILPIVIRINE",
+  "rank": 158,
+  "rxcui": [
+    "1102273",
+    "1102277",
+    "1147334",
+    "1147337",
+    "1741733",
+    "1741739",
+    "1989500",
+    "1989506",
+    "2678244",
+    "2678248"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 8,
+    "approval_holders": 6,
+    "earliest_marketing_start": "2011-05-20",
+    "latest_label_update": "2026-07-31",
+    "nda_bla_applications": 5,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "RILPIVIRINE HYDROCHLORIDE",
+      "unii": "212WAX8KDD"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA202022",
+        "NDA219016"
+      ],
+      "brand_names": [
+        "EDURANT",
+        "EDURANT PED"
+      ],
+      "combination": false,
+      "home_inn": "rilpivirine",
+      "ingredients": [
+        "RILPIVIRINE HYDROCHLORIDE"
+      ],
+      "labeler": "Janssen Products, LP",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2011-05-20",
+      "moieties": [
+        "RILPIVIRINE"
+      ],
+      "product_ndcs": [
+        "59676-278",
+        "59676-280"
+      ],
+      "rxcui": [
+        "1102273",
+        "1102277",
+        "2678244",
+        "2678248"
+      ],
+      "setid": "03880372-2c68-45c6-a53a-f420c49541d6",
+      "source": "openfda",
+      "spl_version": 28,
+      "title": "EDURANT (RILPIVIRINE HYDROCHLORIDE) TABLET, FILM COATED EDURANT PED (RILPIVIRINE HYDROCHLORIDE) TABLET, FOR SUSPENSION [JANSSEN PRODUCTS, LP]",
+      "upload_date": "2025-09-01"
+    },
+    {
+      "application_numbers": [
+        "NDA202123"
+      ],
+      "brand_names": [
+        "COMPLERA"
+      ],
+      "combination": true,
+      "home_inn": "emtricitabine",
+      "ingredients": [
+        "EMTRICITABINE",
+        "RILPIVIRINE HYDROCHLORIDE",
+        "TENOFOVIR DISOPROXIL FUMARATE"
+      ],
+      "labeler": "Gilead Sciences, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2011-08-10",
+      "moieties": [
+        "EMTRICITABINE",
+        "RILPIVIRINE",
+        "TENOFOVIR DISOPROXIL"
+      ],
+      "product_ndcs": [
+        "61958-1101"
+      ],
+      "rxcui": [
+        "1147334",
+        "1147337"
+      ],
+      "setid": "d637cfab-f1e8-4eb3-a1b3-f85ca3bec612",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "COMPLERA (EMTRICITABINE, RILPIVIRINE HYDROCHLORIDE, AND TENOFOVIR DISOPROXIL FUMARATE) TABLET, FILM COATED [GILEAD SCIENCES, INC.]",
+      "upload_date": "2025-07-25"
+    },
+    {
+      "application_numbers": [
+        "NDA208351"
+      ],
+      "brand_names": [
+        "ODEFSEY"
+      ],
+      "combination": true,
+      "home_inn": "emtricitabine",
+      "ingredients": [
+        "EMTRICITABINE",
+        "RILPIVIRINE HYDROCHLORIDE",
+        "TENOFOVIR ALAFENAMIDE FUMARATE"
+      ],
+      "labeler": "Gilead Sciences, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2016-03-01",
+      "moieties": [
+        "EMTRICITABINE",
+        "RILPIVIRINE",
+        "TENOFOVIR ALAFENAMIDE"
+      ],
+      "product_ndcs": [
+        "61958-2101"
+      ],
+      "rxcui": [
+        "1741733",
+        "1741739"
+      ],
+      "setid": "ea3b9ec8-e04a-412c-8b3f-e5cbc7e641d5",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "ODEFSEY (EMTRICITABINE, RILPIVIRINE HYDROCHLORIDE, AND TENOFOVIR ALAFENAMIDE) TABLET [GILEAD SCIENCES, INC.]",
+      "upload_date": "2025-12-10"
+    },
+    {
+      "application_numbers": [
+        "NDA210192"
+      ],
+      "brand_names": [
+        "Juluca"
+      ],
+      "combination": true,
+      "home_inn": "dolutegravir",
+      "ingredients": [
+        "DOLUTEGRAVIR SODIUM",
+        "RILPIVIRINE HYDROCHLORIDE"
+      ],
+      "labeler": "ViiV Healthcare Company",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-11-21",
+      "moieties": [
+        "DOLUTEGRAVIR",
+        "RILPIVIRINE"
+      ],
+      "product_ndcs": [
+        "49702-242"
+      ],
+      "rxcui": [
+        "1989500",
+        "1989506"
+      ],
+      "setid": "806653d1-bf35-4924-b999-ad5d21821cc1",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "JULUCA (DOLUTEGRAVIR SODIUM AND RILPIVIRINE HYDROCHLORIDE) TABLET, FILM COATED [VIIV HEALTHCARE COMPANY]",
+      "upload_date": "2026-07-31"
+    },
+    {
+      "application_numbers": [
+        "ANDA218798"
+      ],
+      "brand_names": [
+        "Rilpivirine"
+      ],
+      "combination": false,
+      "home_inn": "rilpivirine",
+      "ingredients": [
+        "RILPIVIRINE HYDROCHLORIDE"
+      ],
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-01-30",
+      "moieties": [
+        "RILPIVIRINE"
+      ],
+      "product_ndcs": [
+        "70069-848"
+      ],
+      "rxcui": [
+        "1102273"
+      ],
+      "setid": "fb109de9-d88d-4405-8dd6-d458cbc387d1",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "RILPIVIRINE TABLET, FILM COATED [SOMERSET THERAPEUTICS, LLC]",
+      "upload_date": "2026-02-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA219788"
+      ],
+      "brand_names": [
+        "Rilpivirine"
+      ],
+      "combination": false,
+      "home_inn": "rilpivirine",
+      "ingredients": [
+        "RILPIVIRINE HYDROCHLORIDE"
+      ],
+      "labeler": "Laurus Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-07-10",
+      "moieties": [
+        "RILPIVIRINE"
+      ],
+      "product_ndcs": [
+        "42385-999"
+      ],
+      "rxcui": [
+        "1102273"
+      ],
+      "setid": "dadbf50d-6b7d-4fb5-bd9f-7769b048e764",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "RILPIVIRINE TABLET, FILM COATED [LAURUS LABS LIMITED]",
+      "upload_date": "2026-07-16"
+    },
+    {
+      "application_numbers": [
+        "ANDA208452"
+      ],
+      "brand_names": [
+        "Emtricitabine, Rilpivirine, Tenofovir Disoproxil Fumarate"
+      ],
+      "combination": true,
+      "home_inn": "rilpivirine",
+      "ingredients": [
+        "EMTRICITABINE",
+        "RILPIVIRINE HYDROCHLORIDE",
+        "TENOFOVIR DISOPROXIL FUMARATE"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-05-27",
+      "moieties": [
+        "EMTRICITABINE",
+        "RILPIVIRINE",
+        "TENOFOVIR DISOPROXIL"
+      ],
+      "product_ndcs": [
+        "0378-5440"
+      ],
+      "rxcui": [
+        "1147334"
+      ],
+      "setid": "d9a4185e-43fa-4aeb-9b0f-8db01b166038",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "EMTRICITABINE, RILPIVIRINE, TENOFOVIR DISOPROXIL FUMARATE TABLET, FILM COATED [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2025-05-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA220232"
+      ],
+      "brand_names": [
+        "emtricitabine, rilpivirine and tenofovir disoproxil fumarate"
+      ],
+      "combination": true,
+      "home_inn": "rilpivirine",
+      "ingredients": [
+        "EMTRICITABINE",
+        "RILPIVIRINE HYDROCHLORIDE",
+        "TENOFOVIR DISOPROXIL FUMARATE"
+      ],
+      "labeler": "Laurus Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-03-05",
+      "moieties": [
+        "EMTRICITABINE",
+        "RILPIVIRINE",
+        "TENOFOVIR DISOPROXIL"
+      ],
+      "product_ndcs": [
+        "42385-801"
+      ],
+      "rxcui": [
+        "1147334"
+      ],
+      "setid": "7193c90e-456c-4cfb-8181-65a1618dae51",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "EMTRICITABINE, RILPIVIRINE AND TENOFOVIR DISOPROXIL FUMARATE TABLET, FILM COATED [LAURUS LABS LIMITED]",
+      "upload_date": "2026-03-06"
+    }
+  ],
+  "us_excluded": []
+}

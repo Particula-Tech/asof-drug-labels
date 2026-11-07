@@ -1,0 +1,687 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand CYMBALTA",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000572",
+      "eu_number": "EU/1/04/296",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000572",
+      "mah": "Eli Lilly Nederland B.V.",
+      "marketing_authorisation_date": "2004-12-17",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/cymbalta",
+      "name": "Cymbalta",
+      "record_from": "2004-12-17",
+      "record_to": "2026-11-03",
+      "role": "reference",
+      "versions": 26
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/000545",
+      "eu_number": "EU/1/04/280",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-000545",
+      "mah": "Eli Lilly Nederland B.V.",
+      "marketing_authorisation_date": "2004-08-11",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/yentreve",
+      "name": "Yentreve",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/003935",
+      "eu_number": "EU/1/15/1028",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-003935",
+      "mah": "Zentiva k.s.",
+      "marketing_authorisation_date": "2015-08-20",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/duloxetine-zentiva",
+      "name": "Duloxetine Zentiva",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/003981",
+      "eu_number": "EU/1/15/1010",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-003981",
+      "mah": "Viatris Limited",
+      "marketing_authorisation_date": "2015-06-19",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/duloxetine-viatris",
+      "name": "Duloxetine Viatris (previously Duloxetine Mylan)",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/004000",
+      "eu_number": "EU/1/14/972",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-004000",
+      "mah": "Eli Lilly Nederland B.V.",
+      "marketing_authorisation_date": "2014-12-08",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/duloxetine-lilly",
+      "name": "Duloxetine Lilly",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000572",
+    "reference_selected_by": "override",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "DULOXETINE HYDROCHLORIDE"
+  ],
+  "inn": "duloxetine",
+  "name": "DULOXETINE",
+  "rank": 217,
+  "rxcui": [
+    "596926",
+    "596930",
+    "596934",
+    "616402",
+    "2200168",
+    "2200174",
+    "2200175",
+    "2200177",
+    "2200178",
+    "2200180",
+    "2200181",
+    "2200183",
+    "2745865",
+    "2745867",
+    "2745869"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 25,
+    "approval_holders": 22,
+    "earliest_marketing_start": "2012-05-01",
+    "latest_label_update": "2026-10-19",
+    "nda_bla_applications": 2,
+    "repackagers": 20
+  },
+  "unii": [
+    {
+      "ingredient": "DULOXETINE HYDROCHLORIDE",
+      "unii": "9044SC542W"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA212516"
+      ],
+      "brand_names": [
+        "DRIZALMA SPRINKLE"
+      ],
+      "combination": false,
+      "home_inn": "duloxetine",
+      "ingredients": [
+        "DULOXETINE HYDROCHLORIDE"
+      ],
+      "labeler": "SUN PHARMACEUTICAL INDUSTRIES, INC.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-06-10",
+      "moieties": [
+        "DULOXETINE"
+      ],
+      "product_ndcs": [
+        "47335-616",
+        "47335-617",
+        "47335-618",
+        "47335-619"
+      ],
+      "rxcui": [
+        "2200168",
+        "2200174",
+        "2200175",
+        "2200177",
+        "2200178",
+        "2200180",
+        "2200181",
+        "2200183"
+      ],
+      "setid": "b41423b8-dfec-4d79-ba3c-e43a87803d85",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "DRIZALMA SPRINKLE (DULOXETINE) CAPSULE, DELAYED RELEASE [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2024-06-11"
+    },
+    {
+      "application_numbers": [
+        "NDA219131"
+      ],
+      "brand_names": [
+        "Duloxetine"
+      ],
+      "combination": false,
+      "home_inn": "duloxetine",
+      "ingredients": [
+        "DULOXETINE HYDROCHLORIDE"
+      ],
+      "labeler": "Almatica Pharma LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2026-07-01",
+      "moieties": [
+        "DULOXETINE"
+      ],
+      "product_ndcs": [
+        "52427-791",
+        "52427-821",
+        "52427-913"
+      ],
+      "rxcui": [
+        "2745865",
+        "2745867",
+        "2745869"
+      ],
+      "setid": "bb2ca3bf-983c-1e4a-a91d-dc7dee66d741",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "DULOXETINE CAPSULE, DELAYED RELEASE [ALMATICA PHARMA LLC]",
+      "upload_date": "2026-07-01"
+    },
+    {
+      "application_numbers": [
+        "ANDA203197"
+      ],
+      "brand_names": [
+        "Duloxetine"
+      ],
+      "combination": false,
+      "home_inn": "duloxetine",
+      "ingredients": [
+        "DULOXETINE HYDROCHLORIDE"
+      ],
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-05-01",
+      "moieties": [
+        "DULOXETINE"
+      ],
+      "product_ndcs": [
+        "67877-263",
+        "67877-264",
+        "67877-265"
+      ],
+      "rxcui": [
+        "596926",
+        "596930",
+        "596934"
+      ],
+      "setid": "e6477c41-97a2-45a7-94b5-487aa65199f6",
+      "source": "openfda",
+      "spl_version": 24,
+      "title": "DULOXETINE CAPSULE, DELAYED RELEASE [ASCEND LABORATORIES, LLC]",
+      "upload_date": "2025-08-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA090778"
+      ],
+      "brand_names": [
+        "Duloxetine"
+      ],
+      "combination": false,
+      "home_inn": "duloxetine",
+      "ingredients": [
+        "DULOXETINE HYDROCHLORIDE"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-12-11",
+      "moieties": [
+        "DULOXETINE"
+      ],
+      "product_ndcs": [
+        "59651-279",
+        "59651-280",
+        "59651-282"
+      ],
+      "rxcui": [
+        "596926",
+        "596930",
+        "596934"
+      ],
+      "setid": "3adfceb3-5f89-4bcf-b874-e3cb572a98b6",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "DULOXETINE (DULOXETINE HYDROCHLORIDE) CAPSULE, DELAYED RELEASE [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2024-12-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA090694"
+      ],
+      "brand_names": [
+        "Duloxetine"
+      ],
+      "combination": false,
+      "home_inn": "duloxetine",
+      "ingredients": [
+        "DULOXETINE HYDROCHLORIDE"
+      ],
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-12-11",
+      "moieties": [
+        "DULOXETINE"
+      ],
+      "product_ndcs": [
+        "68180-294",
+        "68180-295",
+        "68180-296",
+        "68180-297"
+      ],
+      "rxcui": [
+        "596926",
+        "596930",
+        "596934",
+        "616402"
+      ],
+      "setid": "829a4f51-c882-4b64-81f3-abfb03a52ebe",
+      "source": "openfda",
+      "spl_version": 26,
+      "title": "DULOXETINE CAPSULE, DELAYED RELEASE [LUPIN PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-06-08"
+    },
+    {
+      "application_numbers": [
+        "ANDA090745"
+      ],
+      "brand_names": [
+        "Duloxetine"
+      ],
+      "combination": false,
+      "home_inn": "duloxetine",
+      "ingredients": [
+        "DULOXETINE HYDROCHLORIDE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-12-11",
+      "moieties": [
+        "DULOXETINE"
+      ],
+      "product_ndcs": [
+        "47335-381",
+        "47335-382",
+        "47335-383"
+      ],
+      "rxcui": [
+        "596926",
+        "596930",
+        "596934"
+      ],
+      "setid": "f16beb64-5878-486a-82ee-8e83e728f26c",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "DULOXETINE CAPSULE, DELAYED RELEASE [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2021-11-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA090776"
+      ],
+      "brand_names": [
+        "Duloxetine"
+      ],
+      "combination": false,
+      "home_inn": "duloxetine",
+      "ingredients": [
+        "DULOXETINE HYDROCHLORIDE"
+      ],
+      "labeler": "Actavis Pharma, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-12-17",
+      "moieties": [
+        "DULOXETINE"
+      ],
+      "product_ndcs": [
+        "0228-2890",
+        "0228-2891",
+        "0228-2892"
+      ],
+      "rxcui": [
+        "596926",
+        "596930",
+        "596934"
+      ],
+      "setid": "9dab9154-b86f-40dc-a4d1-18e6534dbc78",
+      "source": "openfda",
+      "spl_version": 28,
+      "title": "DULOXETINE CAPSULE, DELAYED RELEASE PELLETS [ACTAVIS PHARMA, INC.]",
+      "upload_date": "2026-05-20"
+    },
+    {
+      "application_numbers": [
+        "ANDA090739"
+      ],
+      "brand_names": [
+        "Duloxetine"
+      ],
+      "combination": false,
+      "home_inn": "duloxetine",
+      "ingredients": [
+        "DULOXETINE HYDROCHLORIDE"
+      ],
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-05-27",
+      "moieties": [
+        "DULOXETINE"
+      ],
+      "product_ndcs": [
+        "65841-799",
+        "65841-800",
+        "65841-801"
+      ],
+      "rxcui": [
+        "596926",
+        "596930",
+        "596934"
+      ],
+      "setid": "f36b414e-ace4-4f04-a80f-75bb25db430d",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "DULOXETINE CAPSULE, DELAYED RELEASE [ZYDUS LIFESCIENCES LIMITED]",
+      "upload_date": "2024-12-02"
+    },
+    {
+      "application_numbers": [
+        "NDA021427"
+      ],
+      "archived_versions": 46,
+      "brand_names": [
+        "CYMBALTA"
+      ],
+      "first_posted": "2009-05-18",
+      "found_by": "CYMBALTA",
+      "labeler": "Eli Lilly and Company",
+      "labeler_unverified": false,
+      "last_posted": "2025-08-11",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2026-10-02"
+      ],
+      "product_ndcs": [
+        "0002-3235",
+        "0002-3240",
+        "0002-3270"
+      ],
+      "rxcui": [],
+      "setid": "2f7d4d67-10c1-4bf4-a7f2-c185fbad64ba",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "CYMBALTA (duloxetine hydrochloride) capsule, delayed release"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 3,
+      "brand_names": [
+        "CYMBALTA"
+      ],
+      "first_posted": "2008-09-04",
+      "found_by": "CYMBALTA",
+      "labeler": "Eli Lilly and Company",
+      "labeler_unverified": false,
+      "last_posted": "2009-04-21",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0002-3235",
+        "0002-3237",
+        "0002-3240"
+      ],
+      "rxcui": [],
+      "setid": "9b3fdb79-5865-4ab6-a576-a1f5cc5e9138",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "CYMBALTA (duloxetine hydrochloride) capsule, delayed release"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "CYMBALTA"
+      ],
+      "first_posted": "2006-09-01",
+      "found_by": "CYMBALTA",
+      "labeler": "Eli Lilly and company",
+      "labeler_unverified": false,
+      "last_posted": "2006-09-01",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0002-3235",
+        "0002-3237",
+        "0002-3240"
+      ],
+      "rxcui": [],
+      "setid": "a7e62579-0555-4eeb-bbba-4e7032b955ad",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "cymbalta (Duloxetine hydrochloride) capsule"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "05a744a5-64ef-42d7-a19c-568be5a272d4"
+    },
+    {
+      "combination": false,
+      "labeler": "Golden State Medical Supply, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "00628e5e-4c5b-2573-e063-6294a90a0e3b"
+    },
+    {
+      "combination": false,
+      "labeler": "Inventia Healthcare Limited.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "eab90059-ea1c-46c1-884d-c15e7c562a01"
+    },
+    {
+      "combination": false,
+      "labeler": "Solco Healthcare US, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a105a648-6a97-4151-b9de-d7eac90a8f79"
+    },
+    {
+      "combination": false,
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2dde979d-b6f8-41d1-96fb-325c75ea3a74"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "177ce798-3924-416b-ba37-23dfa911a43b"
+    },
+    {
+      "combination": false,
+      "labeler": "Qingdao BAHEAL Pharmaceutical Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e428429e-e1ea-40e1-870f-134533dc3aa1"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b14feecc-04c6-4b2d-ba55-2e1dbef6b0d7"
+    },
+    {
+      "combination": false,
+      "labeler": "MARKSANS PHARMA LIMITED",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3686cde5-f76d-4d16-aa5d-caceb8408f8c"
+    },
+    {
+      "combination": false,
+      "labeler": "Yaopharma Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "90224073-178d-7ec5-e053-2995a90a20fc"
+    },
+    {
+      "combination": false,
+      "labeler": "Quallent Pharmaceuticals Health, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "31362045-201f-45f3-99f2-a5e322a0c30b"
+    },
+    {
+      "combination": false,
+      "labeler": "Breckenridge Pharmaceutical, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "caef6f50-1571-4ec7-8f8c-42b924d323ee"
+    },
+    {
+      "combination": false,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fb37745f-fb40-4f7f-8143-ea1874c38e1b"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a95cc04c-58e9-487f-8992-ef30df03a3cd"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1409fc2b-7252-472f-b719-e56141b36da2"
+    },
+    {
+      "combination": false,
+      "labeler": "Quallent Pharmaceuticals Health LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b3b26383-9924-40f9-b4bb-43e30b70493e"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "39453971-766d-45bf-a0fd-4658d72bae72"
+    }
+  ]
+}

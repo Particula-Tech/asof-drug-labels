@@ -1,0 +1,325 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand Sovaldi",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/002798",
+      "eu_number": "EU/1/13/894",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-002798",
+      "mah": "Gilead Sciences Ireland UC",
+      "marketing_authorisation_date": "2014-01-16",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/sovaldi",
+      "name": "Sovaldi",
+      "record_from": "2014-01-16",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 13
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 3,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-002798",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "SOFOSBUVIR"
+  ],
+  "inn": "sofosbuvir",
+  "name": "SOFOSBUVIR",
+  "rank": 78,
+  "rxcui": [
+    "1484916",
+    "1484922",
+    "1591943",
+    "1591949",
+    "1799212",
+    "1799218",
+    "1939329",
+    "1939335",
+    "2203891",
+    "2203893",
+    "2203895",
+    "2203897",
+    "2203993",
+    "2203999",
+    "2204090",
+    "2204092",
+    "2204100",
+    "2204102",
+    "2204103",
+    "2204104",
+    "2288814",
+    "2288816",
+    "2584196",
+    "2584199",
+    "2584200",
+    "2584201"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 6,
+    "approval_holders": 2,
+    "earliest_marketing_start": "2013-12-06",
+    "latest_label_update": "2025-07-25",
+    "nda_bla_applications": 7,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "SOFOSBUVIR",
+      "unii": "WJ6CA3ZU8B"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA204671",
+        "NDA212480"
+      ],
+      "brand_names": [
+        "Sovaldi"
+      ],
+      "combination": false,
+      "home_inn": "sofosbuvir",
+      "ingredients": [
+        "SOFOSBUVIR"
+      ],
+      "labeler": "Gilead Sciences, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2013-12-06",
+      "moieties": [
+        "SOFOSBUVIR"
+      ],
+      "product_ndcs": [
+        "61958-1501",
+        "61958-1503",
+        "61958-1504",
+        "61958-1505"
+      ],
+      "rxcui": [
+        "1484916",
+        "1484922",
+        "2203891",
+        "2203893",
+        "2203993",
+        "2203999",
+        "2204090",
+        "2204092"
+      ],
+      "setid": "80beab2c-396e-4a37-a4dc-40fdb62859cf",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "SOVALDI (SOFOSBUVIR) TABLET, FILM COATED SOVALDI (SOFOSBUVIR) PELLET [GILEAD SCIENCES, INC.]",
+      "upload_date": "2025-01-13"
+    },
+    {
+      "application_numbers": [
+        "NDA205834",
+        "NDA212477"
+      ],
+      "brand_names": [
+        "Harvoni"
+      ],
+      "combination": true,
+      "home_inn": "sofosbuvir",
+      "ingredients": [
+        "LEDIPASVIR",
+        "SOFOSBUVIR"
+      ],
+      "labeler": "Gilead Sciences, Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2014-10-10",
+      "moieties": [
+        "LEDIPASVIR",
+        "SOFOSBUVIR"
+      ],
+      "product_ndcs": [
+        "61958-1801",
+        "61958-1803",
+        "61958-1804",
+        "61958-1805"
+      ],
+      "rxcui": [
+        "1591943",
+        "1591949",
+        "2203895",
+        "2203897",
+        "2204100",
+        "2204102",
+        "2204103",
+        "2204104"
+      ],
+      "setid": "f4ec77e4-bae8-4db0-b3d5-bde09c5fa075",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "HARVONI (LEDIPASVIR AND SOFOSBUVIR) TABLET, FILM COATED HARVONI (LEDIPASVIR AND SOFOSBUVIR) TABLET, FILM COATED HARVONI (LEDIPASVIR AND SOFOSBUVIR) PELLET [GILEAD SCIENCES, INC]",
+      "upload_date": "2025-01-13"
+    },
+    {
+      "application_numbers": [
+        "NDA208341",
+        "NDA214187"
+      ],
+      "brand_names": [
+        "Epclusa"
+      ],
+      "combination": true,
+      "home_inn": "sofosbuvir",
+      "ingredients": [
+        "SOFOSBUVIR",
+        "VELPATASVIR"
+      ],
+      "labeler": "Gilead Sciences, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2016-06-28",
+      "moieties": [
+        "SOFOSBUVIR",
+        "VELPATASVIR"
+      ],
+      "product_ndcs": [
+        "61958-2201",
+        "61958-2203",
+        "61958-2204",
+        "61958-2205"
+      ],
+      "rxcui": [
+        "1799212",
+        "1799218",
+        "2288814",
+        "2288816",
+        "2584196",
+        "2584199",
+        "2584200",
+        "2584201"
+      ],
+      "setid": "7f30631a-ee3b-4cfe-866b-964df3f0a44f",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "EPCLUSA (VELPATASVIR AND SOFOSBUVIR) TABLET, FILM COATED EPCLUSA (VELPATASVIR AND SOFOSBUVIR) PELLET [GILEAD SCIENCES, INC.]",
+      "upload_date": "2025-02-06"
+    },
+    {
+      "application_numbers": [
+        "NDA209195"
+      ],
+      "brand_names": [
+        "Vosevi"
+      ],
+      "combination": true,
+      "home_inn": "sofosbuvir",
+      "ingredients": [
+        "SOFOSBUVIR",
+        "VELPATASVIR",
+        "VOXILAPREVIR"
+      ],
+      "labeler": "Gilead Sciences, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-07-18",
+      "moieties": [
+        "SOFOSBUVIR",
+        "VELPATASVIR",
+        "VOXILAPREVIR"
+      ],
+      "product_ndcs": [
+        "61958-2401"
+      ],
+      "rxcui": [
+        "1939329",
+        "1939335"
+      ],
+      "setid": "17ffc094-8ca7-45d2-80d8-fd043bc9a221",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "VOSEVI (SOFOSBUVIR, VELPATASVIR, AND VOXILAPREVIR) TABLET, FILM COATED [GILEAD SCIENCES, INC.]",
+      "upload_date": "2025-07-25"
+    },
+    {
+      "application_numbers": [
+        "NDA208341"
+      ],
+      "brand_names": [
+        "Sofosbuvir and Velpatasvir"
+      ],
+      "combination": true,
+      "home_inn": "sofosbuvir",
+      "ingredients": [
+        "SOFOSBUVIR",
+        "VELPATASVIR"
+      ],
+      "labeler": "Asegua Therapeutics LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2018-11-14",
+      "moieties": [
+        "SOFOSBUVIR",
+        "VELPATASVIR"
+      ],
+      "product_ndcs": [
+        "72626-2701"
+      ],
+      "rxcui": [
+        "1799212"
+      ],
+      "setid": "d0c1a945-4440-4b5c-81aa-693ed3db597c",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "SOFOSBUVIR AND VELPATASVIR (VELPATASVIR AND SOFOSBUVIR) TABLET, FILM COATED [ASEGUA THERAPEUTICS LLC]",
+      "upload_date": "2025-03-10"
+    },
+    {
+      "application_numbers": [
+        "NDA205834"
+      ],
+      "brand_names": [
+        "Ledipasvir and Sofosbuvir"
+      ],
+      "combination": true,
+      "home_inn": "sofosbuvir",
+      "ingredients": [
+        "LEDIPASVIR",
+        "SOFOSBUVIR"
+      ],
+      "labeler": "Asegua Therapeutics LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2019-01-01",
+      "moieties": [
+        "LEDIPASVIR",
+        "SOFOSBUVIR"
+      ],
+      "product_ndcs": [
+        "72626-2601"
+      ],
+      "rxcui": [
+        "1591943"
+      ],
+      "setid": "46f4a73b-0cd6-4902-9092-3ac79e882c1a",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "LEDIPASVIR AND SOFOSBUVIR TABLET, FILM COATED [ASEGUA THERAPEUTICS LLC]",
+      "upload_date": "2025-01-20"
+    }
+  ],
+  "us_excluded": []
+}

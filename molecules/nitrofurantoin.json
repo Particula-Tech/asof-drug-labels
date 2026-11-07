@@ -1,0 +1,768 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "NITROFURANTOIN",
+    "NITROFURANTOIN MONOHYDRATE"
+  ],
+  "inn": "nitrofurantoin",
+  "name": "NITROFURANTOIN",
+  "rank": 135,
+  "rxcui": [
+    "311989",
+    "311994",
+    "311995",
+    "422434",
+    "539712",
+    "1648755",
+    "1648759"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 38,
+    "approval_holders": 28,
+    "earliest_marketing_start": "2005-04-06",
+    "latest_label_update": "2026-10-22",
+    "nda_bla_applications": 1,
+    "repackagers": 21
+  },
+  "unii": [
+    {
+      "ingredient": "NITROFURANTOIN",
+      "unii": "927AH8112L"
+    },
+    {
+      "ingredient": "NITROFURANTOIN MONOHYDRATE",
+      "unii": "E1QI2CQQ1I"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020064"
+      ],
+      "brand_names": [
+        "Nitrofurantoin Monohydrate/ Macrocrystalline"
+      ],
+      "combination": false,
+      "home_inn": "nitrofurantoin",
+      "ingredients": [
+        "NITROFURANTOIN",
+        "NITROFURANTOIN MONOHYDRATE"
+      ],
+      "labeler": "Alvogen Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2011-05-25",
+      "moieties": [
+        "NITROFURANTOIN"
+      ],
+      "product_ndcs": [
+        "47781-303"
+      ],
+      "rxcui": [
+        "1648755"
+      ],
+      "setid": "1a86deef-0887-43b1-bb96-dbc222b15931",
+      "source": "dailymed-title-match",
+      "spl_version": 23,
+      "title": "NITROFURANTOIN MONOHYDRATE/ MACROCRYSTALLINE (NITROFURANTOIN MONOHYDRATE/MACROCRYSTALLINE) CAPSULE [ALVOGEN INC.]",
+      "upload_date": "2026-10-22"
+    },
+    {
+      "application_numbers": [
+        "NDA020064"
+      ],
+      "brand_names": [
+        "Macrobid"
+      ],
+      "combination": false,
+      "home_inn": "nitrofurantoin",
+      "ingredients": [
+        "NITROFURANTOIN",
+        "NITROFURANTOIN MONOHYDRATE"
+      ],
+      "labeler": "Almatica Pharma LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2011-05-31",
+      "moieties": [
+        "NITROFURANTOIN"
+      ],
+      "product_ndcs": [
+        "52427-285"
+      ],
+      "rxcui": [
+        "539712",
+        "1648755"
+      ],
+      "setid": "8f270a9f-12a1-44d4-bc7e-873613555801",
+      "source": "dailymed-title-match",
+      "spl_version": 27,
+      "title": "MACROBID (NITROFURANTOIN MONOHYDRATE/MACROCRYSTALLINE) CAPSULE [ALMATICA PHARMA LLC]",
+      "upload_date": "2026-10-12"
+    },
+    {
+      "application_numbers": [
+        "NDA009175"
+      ],
+      "brand_names": [
+        "Nitrofurantoin"
+      ],
+      "combination": false,
+      "home_inn": "nitrofurantoin",
+      "ingredients": [
+        "NITROFURANTOIN"
+      ],
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2024-02-01",
+      "moieties": [
+        "NITROFURANTOIN"
+      ],
+      "product_ndcs": [
+        "16571-888"
+      ],
+      "rxcui": [
+        "311989",
+        "422434"
+      ],
+      "setid": "89095f4d-e142-465e-b378-da24f6eeaf2b",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "NITROFURANTOIN SUSPENSION [RISING PHARMA HOLDINGS, INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA077066"
+      ],
+      "brand_names": [
+        "Nitrofurantoin (monohydrate/macrocrystals)"
+      ],
+      "combination": false,
+      "home_inn": "nitrofurantoin",
+      "ingredients": [
+        "NITROFURANTOIN",
+        "NITROFURANTOIN MONOHYDRATE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2005-04-06",
+      "moieties": [
+        "NITROFURANTOIN"
+      ],
+      "product_ndcs": [
+        "0185-0122"
+      ],
+      "rxcui": [
+        "1648755"
+      ],
+      "setid": "7ba9a729-a73a-4a13-a336-0284cc8a67e1",
+      "source": "openfda",
+      "spl_version": 26,
+      "title": "NITROFURANTOIN (MONOHYDRATE/MACROCRYSTALS) CAPSULE [SANDOZ INC]",
+      "upload_date": "2025-11-18"
+    },
+    {
+      "application_numbers": [
+        "ANDA073652",
+        "ANDA073671"
+      ],
+      "brand_names": [
+        "Nitrofurantoin Macrocrystals"
+      ],
+      "combination": false,
+      "home_inn": "nitrofurantoin",
+      "ingredients": [
+        "NITROFURANTOIN"
+      ],
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2007-03-08",
+      "moieties": [
+        "NITROFURANTOIN"
+      ],
+      "product_ndcs": [
+        "0115-1643",
+        "0115-1645"
+      ],
+      "rxcui": [
+        "311995",
+        "1648759"
+      ],
+      "setid": "341c75ac-fba5-480d-a221-868c4195cb6f",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "NITROFURANTOIN MACROCRYSTALS CAPSULE [AMNEAL PHARMACEUTICALS OF NEW YORK LLC]",
+      "upload_date": "2026-04-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA201679"
+      ],
+      "brand_names": [
+        "Nitrofurantoin"
+      ],
+      "combination": false,
+      "home_inn": "nitrofurantoin",
+      "ingredients": [
+        "NITROFURANTOIN"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-03-24",
+      "moieties": [
+        "NITROFURANTOIN"
+      ],
+      "product_ndcs": [
+        "65162-689"
+      ],
+      "rxcui": [
+        "311989"
+      ],
+      "setid": "11dcea9c-0c62-4153-976b-bd1f8ef1f6d9",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "NITROFURANTOIN SUSPENSION [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2024-10-31"
+    },
+    {
+      "application_numbers": [
+        "ANDA201693"
+      ],
+      "brand_names": [
+        "Nitrofurantoin"
+      ],
+      "combination": false,
+      "home_inn": "nitrofurantoin",
+      "ingredients": [
+        "NITROFURANTOIN"
+      ],
+      "labeler": "Novel Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-09-08",
+      "moieties": [
+        "NITROFURANTOIN"
+      ],
+      "product_ndcs": [
+        "40032-450"
+      ],
+      "rxcui": [
+        "311989"
+      ],
+      "setid": "499f9dfd-b533-4021-a3ed-308f0f956c79",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "NITROFURANTOIN SUSPENSION [NOVEL LABORATORIES, INC.]",
+      "upload_date": "2016-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA201722"
+      ],
+      "brand_names": [
+        "Nitrofurantion"
+      ],
+      "combination": false,
+      "home_inn": "nitrofurantoin",
+      "ingredients": [
+        "NITROFURANTOIN"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-04-15",
+      "moieties": [
+        "NITROFURANTOIN"
+      ],
+      "product_ndcs": [
+        "57664-231",
+        "57664-232",
+        "57664-233"
+      ],
+      "rxcui": [
+        "311994",
+        "311995",
+        "1648759"
+      ],
+      "setid": "05f25774-f56a-48ef-bac3-8af663f8581a",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "NITROFURANTION CAPSULE [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2026-04-08"
+    },
+    {
+      "application_numbers": [
+        "NDA009175"
+      ],
+      "archived_versions": 8,
+      "brand_names": [
+        "FURADANTIN"
+      ],
+      "first_posted": "2018-01-23",
+      "found_by": "FURADANTIN",
+      "labeler": "Casper Pharma LLC",
+      "labeler_unverified": false,
+      "last_posted": "2025-08-07",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2022-06-30",
+        "2024-02-02"
+      ],
+      "product_ndcs": [
+        "70199-006",
+        "70199-036"
+      ],
+      "rxcui": [],
+      "setid": "00af0dea-ac7b-43f2-9f51-2a9f9e7f7d21",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "89095f4d-e142-465e-b378-da24f6eeaf2b"
+      ],
+      "title": "FURADANTIN (nitrofurantoin) suspension"
+    },
+    {
+      "application_numbers": [
+        "NDA016620"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "MACRODANTIN"
+      ],
+      "first_posted": "2011-06-15",
+      "found_by": "MACRODANTIN",
+      "labeler": "Almatica Pharma LLC",
+      "labeler_unverified": false,
+      "last_posted": "2011-06-15",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-10-31"
+      ],
+      "product_ndcs": [
+        "52427-286",
+        "52427-287",
+        "52427-288"
+      ],
+      "rxcui": [],
+      "setid": "44fb3519-9b0d-4037-a6ea-cd237961b7a4",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "MACRODANTIN NITROFURANTION CRYSTALS (macrodantin) capsule"
+    },
+    {
+      "application_numbers": [
+        "NDA020064"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "MACROBID"
+      ],
+      "first_posted": "2012-08-31",
+      "found_by": "MACROBID",
+      "labeler": "Almatica Pharma Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2012-08-31",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "52427-285"
+      ],
+      "rxcui": [],
+      "setid": "5067d98d-bfb3-4383-babc-8257fd20a2a2",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "1a86deef-0887-43b1-bb96-dbc222b15931",
+        "8f270a9f-12a1-44d4-bc7e-873613555801"
+      ],
+      "title": "MACROBID (nitrofurantoin monohydrate/macrocrystalline) capsule"
+    },
+    {
+      "application_numbers": [
+        "NDA009175"
+      ],
+      "archived_versions": 8,
+      "brand_names": [
+        "FURADANTIN"
+      ],
+      "first_posted": "2009-01-05",
+      "found_by": "FURADANTIN",
+      "labeler": "Shionogi Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2019-12-13",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2017-07-31"
+      ],
+      "product_ndcs": [
+        "59630-450"
+      ],
+      "rxcui": [],
+      "setid": "6bdf87ae-daf1-4912-9d45-e06fa9eaaf1a",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "89095f4d-e142-465e-b378-da24f6eeaf2b"
+      ],
+      "title": "FURADANTIN (nitrofurantoin) suspension"
+    },
+    {
+      "application_numbers": [
+        "NDA016620"
+      ],
+      "archived_versions": 14,
+      "brand_names": [
+        "MACRODANTIN"
+      ],
+      "first_posted": "2013-09-20",
+      "found_by": "MACRODANTIN",
+      "labeler": "Almatica Pharma Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2026-08-10",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "52427-286",
+        "52427-287",
+        "52427-288"
+      ],
+      "rxcui": [],
+      "setid": "89d8696b-f9ce-9691-6222-8416ca143bba",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "MACRODANTIN (nitrofurantoin macrocrystals) capsule"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "FURADANTIN"
+      ],
+      "first_posted": "2007-01-05",
+      "found_by": "FURADANTIN",
+      "labeler": "SCIELE PHARMA INC",
+      "labeler_unverified": false,
+      "last_posted": "2007-01-05",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "59630-450"
+      ],
+      "rxcui": [],
+      "setid": "bab22e17-35d1-439a-bf9a-350404d0ff1d",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "furadantin (nitrofurantoin) suspension"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "55c75f27-b5fc-4f19-8607-08f8ec0c69ec"
+    },
+    {
+      "combination": false,
+      "labeler": "Trigen Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "39ffb8c6-4dd8-4436-b857-7306c15f662a"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2862e49a-66e9-4418-9343-4404036775fc"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals,Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "52168b36-4e95-4d5b-82be-bbb91c7dcb90"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "152e4fe2-7665-4725-af76-b241bd816937"
+    },
+    {
+      "combination": false,
+      "labeler": "Jubilant Cadista Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1f7a9414-5592-f2ca-e063-6394a90a75f4"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6ec66cc8-938f-4839-98c7-a51c9f1d50ed"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "788f1fe3-d8a1-42cc-9280-07f842da34ea"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "04af8b73-7e15-7da8-e063-6294a90af284"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "11e700aa-66f9-4939-8a6b-a23240ae1a0b"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "158e08ff-9b6d-4d60-a218-74dc289cf023"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b2fc8354-b413-4c9d-88ec-ccc43d059d51"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "35c0a6d8-ff85-4d9b-9ad3-ae20808119dd"
+    },
+    {
+      "combination": false,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d96098d0-3c2b-4e53-a3f0-3ebba81c4133"
+    },
+    {
+      "combination": false,
+      "labeler": "Biocon Pharma Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "68c718a7-2e8f-288c-37d2-053372ee61b9"
+    },
+    {
+      "combination": false,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dd99ba40-edff-47c3-9ee4-7e5b7774e5b5"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4e06b31e-cc49-4526-beb6-e77021823aa9"
+    },
+    {
+      "combination": false,
+      "labeler": "Creekwood Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e47175a3-68a2-4084-9c0e-96fb057448bf"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals,Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "93c37857-38f1-4e2e-acb8-4846840e3e85"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8124bb9f-66af-4251-86b0-d1c247cdcb63"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Labortories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ad020393-1c97-49da-b0f3-d6a9359fb73d"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "80129dba-5939-4292-bfd0-8d53ba165941"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a8a0d7d7-1e18-46a7-a1f8-e97499820035"
+    },
+    {
+      "combination": false,
+      "labeler": "Jubilant Cadista Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "266824c7-7e9f-4c5f-b642-3bb7bf1c4fe6"
+    },
+    {
+      "combination": false,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "3b377aff-2d4b-43ea-84c9-8e72c1421b7b"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e9d10eaa-cf9c-469e-82ef-5af7285f2c86"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cfa20cfd-478f-48c6-9b59-3c425abd766a"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ea28d766-d6e6-43d2-8282-dc78a0381057"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1e3c284a-539d-4923-a5f6-547390baf811"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d1c778b5-70df-4312-976b-d0bca0cb602a"
+    }
+  ]
+}

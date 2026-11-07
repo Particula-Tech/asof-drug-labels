@@ -1,0 +1,483 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "ESCITALOPRAM OXALATE"
+  ],
+  "inn": "escitalopram",
+  "name": "ESCITALOPRAM",
+  "rank": 233,
+  "rxcui": [
+    "349332",
+    "351249",
+    "351250",
+    "351285",
+    "352272",
+    "352273",
+    "404408",
+    "404420",
+    "2725159"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 25,
+    "approval_holders": 21,
+    "earliest_marketing_start": "2002-08-14",
+    "latest_label_update": "2026-10-29",
+    "nda_bla_applications": 2,
+    "repackagers": 21
+  },
+  "unii": [
+    {
+      "ingredient": "ESCITALOPRAM OXALATE",
+      "unii": "5U85DBW7LO"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021323"
+      ],
+      "brand_names": [
+        "Lexapro"
+      ],
+      "combination": false,
+      "home_inn": "escitalopram",
+      "ingredients": [
+        "ESCITALOPRAM OXALATE"
+      ],
+      "labeler": "Allergan, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2002-08-14",
+      "moieties": [
+        "ESCITALOPRAM"
+      ],
+      "product_ndcs": [
+        "0456-2005",
+        "0456-2010",
+        "0456-2020"
+      ],
+      "rxcui": [
+        "349332",
+        "351249",
+        "351250",
+        "351285",
+        "352272",
+        "352273",
+        "404408",
+        "404420"
+      ],
+      "setid": "13bb8267-1cab-43e5-acae-55a4d957630a",
+      "source": "openfda",
+      "spl_version": 45,
+      "title": "LEXAPRO (ESCITALOPRAM) TABLET, FILM COATED LEXAPRO (ESCITALOPRAM) SOLUTION [ALLERGAN, INC.]",
+      "upload_date": "2026-01-01"
+    },
+    {
+      "application_numbers": [
+        "NDA219130"
+      ],
+      "brand_names": [
+        "escitalopram"
+      ],
+      "combination": false,
+      "home_inn": "escitalopram",
+      "ingredients": [
+        "ESCITALOPRAM OXALATE"
+      ],
+      "labeler": "Almatica Pharma LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-10-06",
+      "moieties": [
+        "ESCITALOPRAM"
+      ],
+      "product_ndcs": [
+        "52427-795"
+      ],
+      "rxcui": [
+        "2725159"
+      ],
+      "setid": "c0401570-a3b0-bef2-7365-c23dc952b8b6",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "ESCITALOPRAM CAPSULE [ALMATICA PHARMA LLC]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA202227"
+      ],
+      "brand_names": [
+        "Escitalopram Oxalate"
+      ],
+      "combination": false,
+      "home_inn": "escitalopram",
+      "ingredients": [
+        "ESCITALOPRAM OXALATE"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-09-03",
+      "moieties": [
+        "ESCITALOPRAM"
+      ],
+      "product_ndcs": [
+        "65162-705"
+      ],
+      "rxcui": [
+        "351285"
+      ],
+      "setid": "09894a38-4e3a-475d-96cd-c6c8ed87869a",
+      "source": "openfda",
+      "spl_version": 38,
+      "title": "ESCITALOPRAM OXALATE (ESCITALOPRAM) SOLUTION [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2025-05-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA078777",
+        "ANDA079062"
+      ],
+      "brand_names": [
+        "Escitalopram Oxalate",
+        "escitalopram"
+      ],
+      "combination": false,
+      "home_inn": "escitalopram",
+      "ingredients": [
+        "ESCITALOPRAM OXALATE"
+      ],
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-04-03",
+      "moieties": [
+        "ESCITALOPRAM"
+      ],
+      "product_ndcs": [
+        "16571-755",
+        "16571-756",
+        "16571-757",
+        "16571-769"
+      ],
+      "rxcui": [
+        "351285"
+      ],
+      "setid": "79fddc2d-2dc2-444f-8fd3-0337090ee744",
+      "source": "dailymed-title-match",
+      "spl_version": 10,
+      "title": "ESCITALOPRAM OXALATE SOLUTION [RISING PHARMA HOLDINGS, INC.]",
+      "upload_date": "2026-06-03"
+    },
+    {
+      "application_numbers": [
+        "ANDA202221"
+      ],
+      "brand_names": [
+        "Escitalopram Oxalate"
+      ],
+      "combination": false,
+      "home_inn": "escitalopram",
+      "ingredients": [
+        "ESCITALOPRAM OXALATE"
+      ],
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-06-12",
+      "moieties": [
+        "ESCITALOPRAM"
+      ],
+      "product_ndcs": [
+        "31722-569"
+      ],
+      "rxcui": [
+        "351285"
+      ],
+      "setid": "82d793ee-4039-45fc-ac83-4bd5235f00aa",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "ESCITALOPRAM OXALATE (ESCITALOPRAM OXALATE) SOLUTION [CAMBER PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-05-26"
+    },
+    {
+      "application_numbers": [
+        "ANDA078169"
+      ],
+      "brand_names": [
+        "Escitalopram"
+      ],
+      "combination": false,
+      "home_inn": "escitalopram",
+      "ingredients": [
+        "ESCITALOPRAM OXALATE"
+      ],
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-09-10",
+      "moieties": [
+        "ESCITALOPRAM"
+      ],
+      "product_ndcs": [
+        "68180-137"
+      ],
+      "rxcui": [
+        "349332",
+        "351249",
+        "351250"
+      ],
+      "setid": "41f7392a-1f5c-4542-9c5c-f9e109851381",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "ESCITALOPRAM (ESCITSLOPRAM) TABLET [LUPIN PHARMACEUTICALS, INC.]",
+      "upload_date": "2023-12-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA090939"
+      ],
+      "brand_names": [
+        "escitalopram"
+      ],
+      "combination": false,
+      "home_inn": "escitalopram",
+      "ingredients": [
+        "ESCITALOPRAM OXALATE"
+      ],
+      "labeler": "Torrent Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-09-11",
+      "moieties": [
+        "ESCITALOPRAM"
+      ],
+      "product_ndcs": [
+        "13668-135",
+        "13668-136",
+        "13668-137"
+      ],
+      "rxcui": [
+        "349332",
+        "351249",
+        "351250"
+      ],
+      "setid": "068bb338-23f3-4278-958b-c34b40456024",
+      "source": "openfda",
+      "spl_version": 28,
+      "title": "ESCITALOPRAM TABLET, FILM COATED [TORRENT PHARMACEUTICALS LIMITED]",
+      "upload_date": "2026-02-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA202210"
+      ],
+      "brand_names": [
+        "Escitalopram Oxalate"
+      ],
+      "combination": false,
+      "home_inn": "escitalopram",
+      "ingredients": [
+        "ESCITALOPRAM OXALATE"
+      ],
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2012-09-11",
+      "moieties": [
+        "ESCITALOPRAM"
+      ],
+      "product_ndcs": [
+        "33342-036",
+        "33342-037",
+        "33342-038"
+      ],
+      "rxcui": [
+        "349332",
+        "351249",
+        "351250"
+      ],
+      "setid": "24b43cb4-1a26-44a2-b1d8-a40239eb5c7c",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "ESCITALOPRAM OXALATE TABLET, FILM COATED [MACLEODS PHARMACEUTICALS LIMITED]",
+      "upload_date": "2024-05-27"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d5fbc8ce-bd41-4bd0-b413-0dea97e596c3"
+    },
+    {
+      "combination": false,
+      "labeler": "Exelan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8a3f4bc9-cd6e-49b1-ab6c-982b70f51fd2"
+    },
+    {
+      "combination": false,
+      "labeler": "Accord Healthcare Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "84b2028d-eff4-434d-b71e-6a3c0812f625"
+    },
+    {
+      "combination": false,
+      "labeler": "SOLCO HEALTHCARE US, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "155e973a-f4ff-4e5a-b937-09f1e106fe39"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4d5c3142-b850-49b9-9f5c-81fe15ea7bfb"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4f941d7a-5abb-4907-a7a1-480245deef87"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0458445b-e431-4c82-86b8-90373813c10a"
+    },
+    {
+      "combination": false,
+      "labeler": "Jubilant Cadista Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2db02476-325f-ee47-a7e5-b5aed56c364c"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascent Pharmaceuticals, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1285841d-d9f8-49c6-9456-bf51c8e37271"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ba60c357-8e61-4a3d-b1dc-25602dbbfc2a"
+    },
+    {
+      "combination": false,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "31ce0b82-58fe-44f3-8887-c55d8df1b773"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8704d062-fa91-4224-9dec-41664d20ee6b"
+    },
+    {
+      "combination": false,
+      "labeler": "Quallent Pharmaceuticals Health LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d8e22060-4d06-42bf-a881-caaf65ecc3e3"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ccbe97b5-da68-4fff-929a-240dd705fe6f"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell Governmental & Specialty RX, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "45ed4d16-6358-40a1-9352-319e58f55e5d"
+    },
+    {
+      "combination": false,
+      "labeler": "BluePoint Laboratories",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d31c02d0-81d9-4aa4-bde9-52135aa5a66d"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "81840aec-96fd-4af2-bd10-3f38d068f39a"
+    }
+  ]
+}

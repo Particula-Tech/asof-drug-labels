@@ -1,0 +1,544 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "HYDROXYZINE DIHYDROCHLORIDE",
+    "HYDROXYZINE HYDROCHLORIDE",
+    "HYDROXYZINE PAMOATE"
+  ],
+  "inn": "hydroxyzine",
+  "name": "HYDROXYZINE",
+  "rank": 193,
+  "rxcui": [
+    "995232",
+    "995241",
+    "995253",
+    "995270",
+    "995278",
+    "995285",
+    "1794552",
+    "1794554"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 30,
+    "approval_holders": 24,
+    "earliest_marketing_start": "1981-12-14",
+    "latest_label_update": "2026-10-26",
+    "nda_bla_applications": 0,
+    "repackagers": 32
+  },
+  "unii": [
+    {
+      "ingredient": "HYDROXYZINE DIHYDROCHLORIDE",
+      "unii": "76755771U3"
+    },
+    {
+      "ingredient": "HYDROXYZINE HYDROCHLORIDE",
+      "unii": "76755771U3"
+    },
+    {
+      "ingredient": "HYDROXYZINE PAMOATE",
+      "unii": "M20215MUFR"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "ANDA086183",
+        "ANDA087479"
+      ],
+      "brand_names": [
+        "Hydroxyzine pamoate",
+        "hydroxyzine pamoate"
+      ],
+      "combination": false,
+      "home_inn": "hydroxyzine",
+      "ingredients": [
+        "HYDROXYZINE PAMOATE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1981-12-14",
+      "moieties": [
+        "HYDROXYZINE"
+      ],
+      "product_ndcs": [
+        "0185-0674",
+        "0185-0676"
+      ],
+      "rxcui": [
+        "995253",
+        "995278"
+      ],
+      "setid": "c38cfd32-2562-4d6c-8a2e-d9984c16d9eb",
+      "source": "openfda",
+      "spl_version": 36,
+      "title": "HYDROXYZINE PAMOATE CAPSULE HYDROXYZINE PAMOATE CAPSULE HYDROXYZINE PAMOATE CAPSULE [SANDOZ INC]",
+      "upload_date": "2024-03-20"
+    },
+    {
+      "application_numbers": [
+        "ANDA087294"
+      ],
+      "brand_names": [
+        "HYDROXYZINE HYDROCHLORIDE"
+      ],
+      "combination": false,
+      "home_inn": "hydroxyzine",
+      "ingredients": [
+        "HYDROXYZINE DIHYDROCHLORIDE"
+      ],
+      "labeler": "Chartwell Governmental & Specialty RX, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1982-04-12",
+      "moieties": [
+        "HYDROXYZINE"
+      ],
+      "product_ndcs": [
+        "68999-050"
+      ],
+      "rxcui": [
+        "995241"
+      ],
+      "setid": "0de7a377-7a8f-4119-b172-1eadb4b7e1be",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "HYDROXYZINE HYDROCHLORIDE SYRUP [CHARTWELL GOVERNMENTAL & SPECIALTY RX, LLC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA088487",
+        "ANDA088488",
+        "ANDA088496"
+      ],
+      "brand_names": [
+        "Hydroxyzine Pamoate"
+      ],
+      "combination": false,
+      "home_inn": "hydroxyzine",
+      "ingredients": [
+        "HYDROXYZINE PAMOATE"
+      ],
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1984-07-01",
+      "moieties": [
+        "HYDROXYZINE"
+      ],
+      "product_ndcs": [
+        "0555-0302",
+        "0555-0323",
+        "0555-0324"
+      ],
+      "rxcui": [
+        "995232",
+        "995253",
+        "995278"
+      ],
+      "setid": "06068fff-2e79-4721-bcc7-b0938aa20e7a",
+      "source": "openfda",
+      "spl_version": 20,
+      "title": "HYDROXYZINE PAMOATE CAPSULE [TEVA PHARMACEUTICALS USA, INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA087408"
+      ],
+      "brand_names": [
+        "Hydroxyzine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "hydroxyzine",
+      "ingredients": [
+        "HYDROXYZINE DIHYDROCHLORIDE"
+      ],
+      "labeler": "American Regent, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1990-09-30",
+      "moieties": [
+        "HYDROXYZINE"
+      ],
+      "product_ndcs": [
+        "0517-4201",
+        "0517-5601",
+        "0517-5602"
+      ],
+      "rxcui": [
+        "995270",
+        "995285",
+        "1794552",
+        "1794554"
+      ],
+      "setid": "8af7e5ce-d9d9-44cc-9f2f-4ddbc89e758a",
+      "source": "openfda",
+      "spl_version": 18,
+      "title": "HYDROXYZINE HYDROCHLORIDE INJECTION, SOLUTION [AMERICAN REGENT, INC.]",
+      "upload_date": "2025-09-01"
+    },
+    {
+      "application_numbers": [
+        "ANDA040156"
+      ],
+      "brand_names": [
+        "Hydroxyzine Pamoate"
+      ],
+      "combination": false,
+      "home_inn": "hydroxyzine",
+      "ingredients": [
+        "HYDROXYZINE PAMOATE"
+      ],
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1996-06-15",
+      "moieties": [
+        "HYDROXYZINE"
+      ],
+      "product_ndcs": [
+        "0115-1803",
+        "0115-1804"
+      ],
+      "rxcui": [
+        "995253",
+        "995278"
+      ],
+      "setid": "bc82aaaf-30c7-4afe-a908-d138ea1268ef",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "HYDROXYZINE PAMOATE CAPSULE [AMNEAL PHARMACEUTICALS OF NEW YORK LLC]",
+      "upload_date": "2026-07-20"
+    },
+    {
+      "application_numbers": [
+        "ANDA040391"
+      ],
+      "brand_names": [
+        "Hydroxyzine Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "hydroxyzine",
+      "ingredients": [
+        "HYDROXYZINE DIHYDROCHLORIDE"
+      ],
+      "labeler": "PAI Holdings, LLC dba PAI Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2002-04-10",
+      "moieties": [
+        "HYDROXYZINE"
+      ],
+      "product_ndcs": [
+        "0121-1034"
+      ],
+      "rxcui": [
+        "995241"
+      ],
+      "setid": "2a343906-0bea-4bd8-bd35-c3f199d9b266",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "HYDROXYZINE HYDROCHLORIDE SOLUTION [PAI HOLDINGS, LLC DBA PAI PHARMA]",
+      "upload_date": "2025-06-02"
+    },
+    {
+      "application_numbers": [
+        "NDA011111"
+      ],
+      "archived_versions": 3,
+      "brand_names": [
+        "VISTARIL"
+      ],
+      "first_posted": "2006-09-28",
+      "found_by": "VISTARIL",
+      "labeler": "Roerig",
+      "labeler_unverified": false,
+      "last_posted": "2017-05-22",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2009-05-19"
+      ],
+      "product_ndcs": [
+        "0049-5460"
+      ],
+      "rxcui": [],
+      "setid": "aed7d120-5f3d-4276-b341-737244d4f8a5",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "VISTARIL (hydroxyzine hydrochloride) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA011459"
+      ],
+      "archived_versions": 14,
+      "brand_names": [
+        "VISTARIL"
+      ],
+      "first_posted": "2009-12-18",
+      "found_by": "VISTARIL",
+      "labeler": "Pfizer Laboratories Div Pfizer Inc",
+      "labeler_unverified": false,
+      "last_posted": "2024-09-18",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-12-31",
+        "2026-01-31"
+      ],
+      "product_ndcs": [
+        "0069-5410",
+        "0069-5420"
+      ],
+      "rxcui": [],
+      "setid": "c271f97f-040e-492b-9194-2c8b74675a95",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "VISTARIL (hydroxyzine pamoate) capsule"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f7e527fe-2f67-45ad-a3ec-146ead819514"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "934afb42-fee8-415b-8090-2265bb299afe"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "89901966-724b-4773-98b8-ea663ceabd53"
+    },
+    {
+      "combination": false,
+      "labeler": "Northstar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8e5fce17-936e-46ea-a969-518c952c2091"
+    },
+    {
+      "combination": false,
+      "labeler": "KVK-Tech, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "adc4cb73-77c6-48ff-aaf2-b3568d53de1f"
+    },
+    {
+      "combination": false,
+      "labeler": "Teva Pharmaceuticals USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "80309ec1-e5d5-4454-b8ce-67d7e6805e44"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "734d32c8-38d3-430f-a2b3-539e03a3687a"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4590101d-7fb2-478b-acc5-bc9bdbb38ca9"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6533bb4f-efbc-4fca-b625-daa1b3978740"
+    },
+    {
+      "combination": false,
+      "labeler": "Epic Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "82b015dc-999c-46a4-bcaa-a4c81a193b68"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9de2de56-614f-4294-8794-d30758cf5f70"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6a1a48ac-8ad5-4363-b298-d9825ae2a448"
+    },
+    {
+      "combination": false,
+      "labeler": "Sunrise Pharmaceutical, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "94561525-a565-4193-b64d-e1459ab05678"
+    },
+    {
+      "combination": false,
+      "labeler": "APOZEAL PHARMACEUTICALS INC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "87d4bbff-0498-4c26-86cb-7ce173afa0b6"
+    },
+    {
+      "combination": false,
+      "labeler": "Bionpharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "39f93633-000e-6c3f-e063-6394a90a5a0b"
+    },
+    {
+      "combination": false,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "43889411-a303-41a1-b03b-1ee46f452c54"
+    },
+    {
+      "combination": false,
+      "labeler": "Saptalis Pharmaceuticals, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9ab23881-334c-474d-9d93-25ea225548dc"
+    },
+    {
+      "combination": false,
+      "labeler": "Advagen Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "083e3545-8fa9-418c-ad42-5b2186c26816"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "53b2d731-f38a-47c0-9e5c-abd3b45e2fe1"
+    },
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "abe7280a-1f6a-404b-9874-7710121e2090"
+    },
+    {
+      "combination": false,
+      "labeler": "Lannett Company, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a4fb61ae-aad6-4bd6-83fc-8b227f175df9"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f9ff4b7c-dc81-47af-8371-5c681eb0d876"
+    },
+    {
+      "combination": false,
+      "labeler": "PURACAP LABORATORIES LLC DBA BLU PHARMACEUTICALS",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "19fe26a9-eb1a-4c5b-a5e4-65223ee56ad1"
+    },
+    {
+      "combination": false,
+      "labeler": "Marlex Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "31a907e6-7fae-0682-e063-6294a90a24a5"
+    }
+  ]
+}

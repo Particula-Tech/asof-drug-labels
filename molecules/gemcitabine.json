@@ -1,0 +1,546 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "GEMCITABINE",
+    "GEMCITABINE HYDROCHLORIDE"
+  ],
+  "inn": "gemcitabine",
+  "name": "GEMCITABINE",
+  "rank": 312,
+  "rxcui": [
+    "1719000",
+    "1719003",
+    "1719005",
+    "1720960",
+    "1720975",
+    "1720977",
+    "2719761",
+    "2719763"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 19,
+    "approval_holders": 12,
+    "earliest_marketing_start": "2010-11-15",
+    "latest_label_update": "2026-10-29",
+    "nda_bla_applications": 3,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "GEMCITABINE HYDROCHLORIDE",
+      "unii": "U347PV74IL"
+    }
+  ],
+  "unii_unresolved": [
+    "GEMCITABINE"
+  ],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA200795"
+      ],
+      "brand_names": [
+        "Gemcitabine"
+      ],
+      "combination": false,
+      "home_inn": "gemcitabine",
+      "ingredients": [
+        "GEMCITABINE HYDROCHLORIDE"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2011-08-22",
+      "moieties": [
+        "GEMCITABINE"
+      ],
+      "product_ndcs": [
+        "0409-0181",
+        "0409-0182",
+        "0409-0183"
+      ],
+      "rxcui": [
+        "1720960",
+        "1720975",
+        "1720977"
+      ],
+      "setid": "dc02a23b-3ff9-4441-aa91-8e9e629a7315",
+      "source": "openfda",
+      "spl_version": 28,
+      "title": "GEMCITABINE INJECTION, SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2026-04-29"
+    },
+    {
+      "application_numbers": [
+        "NDA219920"
+      ],
+      "brand_names": [
+        "AVGEMSI"
+      ],
+      "combination": false,
+      "home_inn": "gemcitabine",
+      "ingredients": [
+        "GEMCITABINE HYDROCHLORIDE"
+      ],
+      "labeler": "Avyxa Pharma, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-08-03",
+      "moieties": [
+        "GEMCITABINE"
+      ],
+      "product_ndcs": [
+        "83831-123",
+        "83831-124"
+      ],
+      "rxcui": [
+        "2719761",
+        "2719763"
+      ],
+      "setid": "e11eeff7-bcaf-4bf1-8da8-88138e01af84",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "AVGEMSI (GEMCITABINE) INJECTION, SOLUTION [AVYXA PHARMA, LLC]",
+      "upload_date": "2026-07-28"
+    },
+    {
+      "application_numbers": [
+        "NDA219683"
+      ],
+      "brand_names": [
+        "INLEXZO"
+      ],
+      "combination": false,
+      "home_inn": "gemcitabine",
+      "ingredients": [
+        "GEMCITABINE"
+      ],
+      "labeler": "Janssen Biotech, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2025-09-14",
+      "moieties": [
+        "GEMCITABINE"
+      ],
+      "product_ndcs": [
+        "57894-225"
+      ],
+      "rxcui": [],
+      "setid": "3aef8dbc-34d0-4150-89f0-3b16cf0fbfdb",
+      "source": "dailymed-title-match",
+      "spl_version": 2,
+      "title": "INLEXZO (GEMCITABINE INTRAVESICAL) SYSTEM [JANSSEN BIOTECH, INC.]",
+      "upload_date": "2026-10-29"
+    },
+    {
+      "application_numbers": [
+        "NDA200795"
+      ],
+      "brand_names": [
+        "Gemcitabine"
+      ],
+      "combination": false,
+      "home_inn": "gemcitabine",
+      "ingredients": [
+        "GEMCITABINE HYDROCHLORIDE"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2013-07-09",
+      "moieties": [
+        "GEMCITABINE"
+      ],
+      "product_ndcs": [
+        "0409-0181",
+        "0409-0182",
+        "0409-0183"
+      ],
+      "rxcui": [
+        "1720960",
+        "1720975",
+        "1720977"
+      ],
+      "setid": "e18ed1cb-7dd0-4001-bfda-17d1f4587fb8",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "GEMCITABINE INJECTION, SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2026-06-03"
+    },
+    {
+      "application_numbers": [
+        "ANDA079183"
+      ],
+      "brand_names": [
+        "GEMCITABINE"
+      ],
+      "combination": false,
+      "home_inn": "gemcitabine",
+      "ingredients": [
+        "GEMCITABINE HYDROCHLORIDE"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-11-15",
+      "moieties": [
+        "GEMCITABINE"
+      ],
+      "product_ndcs": [
+        "0409-0187"
+      ],
+      "rxcui": [
+        "1719005"
+      ],
+      "setid": "a625c92b-c569-4b98-8d2e-2b3f5e12b34f",
+      "source": "openfda",
+      "spl_version": 27,
+      "title": "GEMCITABINE INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2024-09-03"
+    },
+    {
+      "application_numbers": [
+        "ANDA091365"
+      ],
+      "brand_names": [
+        "gemcitabine"
+      ],
+      "combination": false,
+      "home_inn": "gemcitabine",
+      "ingredients": [
+        "GEMCITABINE HYDROCHLORIDE"
+      ],
+      "labeler": "Dr. Reddy's Laboratories Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-07-25",
+      "moieties": [
+        "GEMCITABINE"
+      ],
+      "product_ndcs": [
+        "55111-686",
+        "55111-687"
+      ],
+      "rxcui": [
+        "1719000",
+        "1719003"
+      ],
+      "setid": "eafcebc8-ddef-bb6b-fd0a-9d8b9962cdc4",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "GEMCITABINE INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [DR. REDDY'S LABORATORIES LIMITED ]",
+      "upload_date": "2024-09-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA090799"
+      ],
+      "brand_names": [
+        "GEMCITABINE"
+      ],
+      "combination": false,
+      "home_inn": "gemcitabine",
+      "ingredients": [
+        "GEMCITABINE HYDROCHLORIDE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-07-26",
+      "moieties": [
+        "GEMCITABINE"
+      ],
+      "product_ndcs": [
+        "63323-102",
+        "63323-125",
+        "63323-126"
+      ],
+      "rxcui": [
+        "1719000",
+        "1719003",
+        "1719005"
+      ],
+      "setid": "c550dd16-a5e8-44be-87f2-210c15bbb513",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "GEMCITABINE (GEMCITABINE) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [FRESENIUS KABI USA, LLC",
+      "upload_date": "2024-10-22"
+    },
+    {
+      "application_numbers": [
+        "ANDA078339"
+      ],
+      "brand_names": [
+        "Gemcitabine"
+      ],
+      "combination": false,
+      "home_inn": "gemcitabine",
+      "ingredients": [
+        "GEMCITABINE HYDROCHLORIDE"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-07-26",
+      "moieties": [
+        "GEMCITABINE"
+      ],
+      "product_ndcs": [
+        "0409-0185",
+        "0409-0186"
+      ],
+      "rxcui": [
+        "1719000",
+        "1719003"
+      ],
+      "setid": "d16907e7-a8c8-4039-ace4-cf4e24ba68c0",
+      "source": "openfda",
+      "spl_version": 27,
+      "title": "GEMCITABINE INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2024-09-03"
+    },
+    {
+      "application_numbers": [
+        "ANDA202485",
+        "ANDA209077"
+      ],
+      "brand_names": [
+        "Gemcitabine",
+        "gemcitabine"
+      ],
+      "combination": false,
+      "home_inn": "gemcitabine",
+      "ingredients": [
+        "GEMCITABINE HYDROCHLORIDE"
+      ],
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-12-29",
+      "moieties": [
+        "GEMCITABINE"
+      ],
+      "product_ndcs": [
+        "25021-234",
+        "25021-235",
+        "25021-239"
+      ],
+      "rxcui": [
+        "1720960",
+        "1720975",
+        "1720977"
+      ],
+      "setid": "22af3507-4b4f-4cad-9d61-89ffc4aabbc7",
+      "source": "dailymed-title-match",
+      "spl_version": 8,
+      "title": "GEMCITABINE INJECTION, SOLUTION [SAGENT PHARMACEUTICALS]",
+      "upload_date": "2025-04-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA204520"
+      ],
+      "brand_names": [
+        "gemcitabine hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "gemcitabine",
+      "ingredients": [
+        "GEMCITABINE HYDROCHLORIDE"
+      ],
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-02-01",
+      "moieties": [
+        "GEMCITABINE"
+      ],
+      "product_ndcs": [
+        "68083-148",
+        "68083-149"
+      ],
+      "rxcui": [
+        "1719000",
+        "1719003"
+      ],
+      "setid": "9f8fe5ba-943f-4f0a-9618-6083101faa28",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "GEMCITABINE HYDROCHLORIDE INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [GLAND PHARMA LIMITED]",
+      "upload_date": "2024-09-10"
+    },
+    {
+      "application_numbers": [
+        "NDA208313"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "INFUGEM"
+      ],
+      "first_posted": "2018-10-11",
+      "found_by": "INFUGEM",
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2023-07-31",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2023-07-31"
+      ],
+      "product_ndcs": [
+        "62756-008",
+        "62756-073",
+        "62756-102",
+        "62756-219",
+        "62756-321",
+        "62756-438",
+        "62756-533",
+        "62756-614",
+        "62756-746",
+        "62756-974"
+      ],
+      "rxcui": [],
+      "setid": "4e7e5088-d476-40e2-8cbd-dfeed4ddd166",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "INFUGEM (gemcitabine) injection, solution"
+    },
+    {
+      "application_numbers": [
+        "NDA020509"
+      ],
+      "archived_versions": 19,
+      "brand_names": [
+        "GEMZAR"
+      ],
+      "first_posted": "2008-07-25",
+      "found_by": "GEMZAR",
+      "labeler": "Eli Lilly and Company",
+      "labeler_unverified": false,
+      "last_posted": "2020-04-24",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-05-31",
+        "2021-09-30"
+      ],
+      "product_ndcs": [
+        "0002-7501",
+        "0002-7502"
+      ],
+      "rxcui": [],
+      "setid": "9dc35c59-f4f3-43b4-8251-0cf5c06cdc80",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "GEMZAR (gemcitabine hydrochloride) injection, powder, lyophilized, for solution"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "06dd9d40-74fc-4409-93b1-a46be7126331"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "73ae04d8-38f9-4d3d-b0c2-71d22af1fc86"
+    },
+    {
+      "combination": false,
+      "labeler": "Teyro Labs Private Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a6ddaa2f-4c17-430f-a7cd-96b6662923f6"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d80176fe-3e8b-48be-87c2-9c603013b3fa"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d1f3951c-d13f-4662-ad4b-ecfc07f59104"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "44bcc16c-341d-49e8-a1c6-95d084667aca"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5af49a48-f1c0-467d-b5da-ac9f1ae8e34c"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a5949d02-29eb-4626-ad35-b7614bb0fa95"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c0b1b715-9ff8-43ca-9e49-465f1f380084"
+    }
+  ]
+}

@@ -1,0 +1,504 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "Catiolanze is a preservative-free cationic emulsion; check against the US label used",
+      "comparable_to_us": "no",
+      "ema_product_number": "EMEA/H/C/005933",
+      "eu_number": "EU/1/23/1763",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-005933",
+      "mah": "Santen Oy",
+      "marketing_authorisation_date": "2023-11-15",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/catiolanze",
+      "name": "Catiolanze",
+      "record_from": "2023-11-15",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 2
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 1,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-005933",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "LATANOPROST"
+  ],
+  "inn": "latanoprost",
+  "name": "LATANOPROST",
+  "rank": 194,
+  "rxcui": [
+    "314072",
+    "542527",
+    "2056743",
+    "2056748",
+    "2119701",
+    "2119706",
+    "2642284"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 15,
+    "approval_holders": 15,
+    "earliest_marketing_start": "2010-11-15",
+    "latest_label_update": "2026-09-17",
+    "nda_bla_applications": 4,
+    "repackagers": 3
+  },
+  "unii": [
+    {
+      "ingredient": "LATANOPROST",
+      "unii": "6Z5B6HVF6O"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA206185"
+      ],
+      "brand_names": [
+        "XELPROS"
+      ],
+      "combination": false,
+      "home_inn": "latanoprost",
+      "ingredients": [
+        "LATANOPROST"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-09-12",
+      "moieties": [
+        "LATANOPROST"
+      ],
+      "product_ndcs": [
+        "47335-317"
+      ],
+      "rxcui": [
+        "2056743",
+        "2056748"
+      ],
+      "setid": "34ad5cf6-4df0-4104-bddd-4c7631133ded",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "XELPROS (LATANOPROST) SOLUTION/ DROPS [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2025-12-23"
+    },
+    {
+      "application_numbers": [
+        "NDA216472"
+      ],
+      "brand_names": [
+        "IYUZEH"
+      ],
+      "combination": false,
+      "home_inn": "latanoprost",
+      "ingredients": [
+        "LATANOPROST"
+      ],
+      "labeler": "Thea Pharma Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-07-14",
+      "moieties": [
+        "LATANOPROST"
+      ],
+      "product_ndcs": [
+        "82584-003"
+      ],
+      "rxcui": [
+        "314072",
+        "2642284"
+      ],
+      "setid": "192fc081-cc38-4e83-b779-9592e060b915",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "IYUZEH (LATANOPROST OPHTHALMIC SOLUTION 0.005%) SOLUTION/ DROPS [THEA PHARMA INC.]",
+      "upload_date": "2024-07-31"
+    },
+    {
+      "application_numbers": [
+        "NDA020597"
+      ],
+      "brand_names": [
+        "XALATAN"
+      ],
+      "combination": false,
+      "home_inn": "latanoprost",
+      "ingredients": [
+        "LATANOPROST"
+      ],
+      "labeler": "Viatris Specialty LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-10-22",
+      "moieties": [
+        "LATANOPROST"
+      ],
+      "product_ndcs": [
+        "58151-419"
+      ],
+      "rxcui": [
+        "314072",
+        "542527"
+      ],
+      "setid": "a98595b3-9f47-48e0-b18d-550a2095f264",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "XALATAN (LATANOPROST) SOLUTION/ DROPS [VIATRIS SPECIALTY LLC]",
+      "upload_date": "2024-10-25"
+    },
+    {
+      "application_numbers": [
+        "NDA208259"
+      ],
+      "brand_names": [
+        "Rocklatan"
+      ],
+      "combination": true,
+      "home_inn": "latanoprost",
+      "ingredients": [
+        "LATANOPROST",
+        "NETARSUDIL MESYLATE"
+      ],
+      "labeler": "Alcon Laboratories, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2019-03-12",
+      "moieties": [
+        "LATANOPROST",
+        "NETARSUDIL"
+      ],
+      "product_ndcs": [
+        "70727-529"
+      ],
+      "rxcui": [
+        "2119701",
+        "2119706"
+      ],
+      "setid": "b1d71f41-be06-4a08-94d4-e352198f09c2",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "ROCKLATAN (NETARSUDIL AND LATANOPROST OPHTHALMIC SOLUTION, 0.02%/0.005%) SOLUTION/ DROPS [ALCON LABORATORIES, INC.]",
+      "upload_date": "2026-09-02"
+    },
+    {
+      "application_numbers": [
+        "NDA020597"
+      ],
+      "brand_names": [
+        "Latanoprost"
+      ],
+      "combination": false,
+      "home_inn": "latanoprost",
+      "ingredients": [
+        "LATANOPROST"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2010-11-15",
+      "moieties": [
+        "LATANOPROST"
+      ],
+      "product_ndcs": [
+        "59762-0333"
+      ],
+      "rxcui": [
+        "314072"
+      ],
+      "setid": "463ecfde-5acb-4983-969d-0c0021bfbf48",
+      "source": "openfda",
+      "spl_version": 21,
+      "title": "LATANOPROST SOLUTION [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2025-05-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA091449"
+      ],
+      "brand_names": [
+        "Latanoprost"
+      ],
+      "combination": false,
+      "home_inn": "latanoprost",
+      "ingredients": [
+        "LATANOPROST"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-01-07",
+      "moieties": [
+        "LATANOPROST"
+      ],
+      "product_ndcs": [
+        "61314-547"
+      ],
+      "rxcui": [
+        "314072"
+      ],
+      "setid": "1fba56a6-c8dc-4f34-b05d-efdea75d2fea",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "LATANOPROST SOLUTION [SANDOZ INC]",
+      "upload_date": "2024-12-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA201006"
+      ],
+      "brand_names": [
+        "Latanoprost"
+      ],
+      "combination": false,
+      "home_inn": "latanoprost",
+      "ingredients": [
+        "LATANOPROST"
+      ],
+      "labeler": "Bausch & Lomb Incorporated",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-03-22",
+      "moieties": [
+        "LATANOPROST"
+      ],
+      "product_ndcs": [
+        "24208-463"
+      ],
+      "rxcui": [
+        "314072"
+      ],
+      "setid": "68aaacbe-98c5-450b-9bf4-4809d7ad2ca0",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "LATANOPROST SOLUTION/ DROPS [BAUSCH & LOMB INCORPORATED]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA202442"
+      ],
+      "brand_names": [
+        "LATANOPROST"
+      ],
+      "combination": false,
+      "home_inn": "latanoprost",
+      "ingredients": [
+        "LATANOPROST"
+      ],
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-09-01",
+      "moieties": [
+        "LATANOPROST"
+      ],
+      "product_ndcs": [
+        "64980-516"
+      ],
+      "rxcui": [
+        "314072"
+      ],
+      "setid": "e25b82a9-1b04-4b40-8472-be107a2a6731",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "LATANOPROST SOLUTION [RISING PHARMA HOLDINGS, INC.]",
+      "upload_date": "2026-09-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA206519"
+      ],
+      "brand_names": [
+        "Latanoprost"
+      ],
+      "combination": false,
+      "home_inn": "latanoprost",
+      "ingredients": [
+        "LATANOPROST"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-09-03",
+      "moieties": [
+        "LATANOPROST"
+      ],
+      "product_ndcs": [
+        "65862-872"
+      ],
+      "rxcui": [
+        "314072"
+      ],
+      "setid": "19cdfef0-b770-4758-8f59-1769e4b6119c",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "LATANOPROST SOLUTION/ DROPS [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2024-09-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA201786"
+      ],
+      "brand_names": [
+        "LATANOPROST"
+      ],
+      "combination": false,
+      "home_inn": "latanoprost",
+      "ingredients": [
+        "LATANOPROST"
+      ],
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-12-03",
+      "moieties": [
+        "LATANOPROST"
+      ],
+      "product_ndcs": [
+        "70069-421"
+      ],
+      "rxcui": [
+        "314072"
+      ],
+      "setid": "5d0b99ad-f05a-44c7-ac61-26b5a533ea8d",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "LATANOPROST SOLUTION/ DROPS [SOMERSET THERAPEUTICS, LLC]",
+      "upload_date": "2026-01-14"
+    },
+    {
+      "application_numbers": [
+        "NDA020597"
+      ],
+      "archived_versions": 10,
+      "brand_names": [
+        "XALATAN"
+      ],
+      "first_posted": "2006-07-18",
+      "found_by": "XALATAN",
+      "labeler": "Pharmacia and Upjohn Company LLC",
+      "labeler_unverified": false,
+      "last_posted": "2019-05-14",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2015-03-31"
+      ],
+      "product_ndcs": [
+        "0013-8303"
+      ],
+      "rxcui": [],
+      "setid": "cc16fa68-4b68-4cdb-8e52-30c803292c22",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "463ecfde-5acb-4983-969d-0c0021bfbf48",
+        "a98595b3-9f47-48e0-b18d-550a2095f264"
+      ],
+      "title": "XALATAN (latanoprost) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA020597"
+      ],
+      "archived_versions": 23,
+      "brand_names": [
+        "XALATAN"
+      ],
+      "first_posted": "2006-07-18",
+      "found_by": "XALATAN",
+      "labeler": "PFIZER LABORATORIES DIV PFIZER INC",
+      "labeler_unverified": false,
+      "last_posted": "2024-10-25",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-10-31"
+      ],
+      "product_ndcs": [
+        "0013-8303"
+      ],
+      "rxcui": [],
+      "setid": "f4e73059-5ba0-4d73-9ea1-09d8d654e844",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "463ecfde-5acb-4983-969d-0c0021bfbf48",
+        "a98595b3-9f47-48e0-b18d-550a2095f264"
+      ],
+      "title": "XALATAN (latanoprost) solution"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "113abcc6-6e5c-4a57-ad6a-d69508ee990e"
+    },
+    {
+      "combination": false,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "298fc762-f4d4-47cb-a7a2-b5dc7f965c7f"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2c87e99e-33d4-4060-8876-ff05557c05eb"
+    },
+    {
+      "combination": false,
+      "labeler": "GLENMARK PHARMACEUTICALS INC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "821d2ad5-a430-4fd2-8cfd-50b2118b8639"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7474dc53-e5e5-44f2-9f56-b2cbacdc0c32"
+    }
+  ]
+}

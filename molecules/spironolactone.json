@@ -1,0 +1,487 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/005535",
+      "eu_number": "EU/1/23/1731",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-005535",
+      "mah": "Lipomed GmbH",
+      "marketing_authorisation_date": "2023-05-26",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/qaialdo",
+      "name": "Qaialdo",
+      "record_from": "2023-05-26",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 3
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-005535",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "SPIRONOLACTONE"
+  ],
+  "inn": "spironolactone",
+  "name": "SPIRONOLACTONE",
+  "rank": 283,
+  "rxcui": [
+    "104232",
+    "198222",
+    "198223",
+    "200817",
+    "200820",
+    "200825",
+    "313096"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 23,
+    "approval_holders": 19,
+    "earliest_marketing_start": "1960-01-21",
+    "latest_label_update": "2026-10-13",
+    "nda_bla_applications": 2,
+    "repackagers": 20
+  },
+  "unii": [
+    {
+      "ingredient": "SPIRONOLACTONE",
+      "unii": "27O7W4T232"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA012151"
+      ],
+      "brand_names": [
+        "Aldactone"
+      ],
+      "combination": false,
+      "home_inn": "spironolactone",
+      "ingredients": [
+        "SPIRONOLACTONE"
+      ],
+      "labeler": "Pfizer Laboratories Div Pfizer Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1960-01-21",
+      "moieties": [
+        "SPIRONOLACTONE"
+      ],
+      "product_ndcs": [
+        "0025-1001",
+        "0025-1031",
+        "0025-1041"
+      ],
+      "rxcui": [
+        "198222",
+        "198223",
+        "200817",
+        "200820",
+        "200825",
+        "313096"
+      ],
+      "setid": "0fed2822-3a03-4b64-9857-c682fcd462bc",
+      "source": "openfda",
+      "spl_version": 25,
+      "title": "ALDACTONE (SPIRONOLACTONE) TABLET, FILM COATED [PFIZER LABORATORIES DIV PFIZER INC]",
+      "upload_date": "2025-12-01"
+    },
+    {
+      "application_numbers": [
+        "NDA209478"
+      ],
+      "brand_names": [
+        "CaroSpir"
+      ],
+      "combination": false,
+      "home_inn": "spironolactone",
+      "ingredients": [
+        "SPIRONOLACTONE"
+      ],
+      "labeler": "CMP Pharma, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-08-04",
+      "moieties": [
+        "SPIRONOLACTONE"
+      ],
+      "product_ndcs": [
+        "46287-020"
+      ],
+      "rxcui": [
+        "104232"
+      ],
+      "setid": "c4f70a04-7d89-4b73-8b02-17d43471bf08",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "CAROSPIR SUSPENSION [CMP PHARMA, INC.]",
+      "upload_date": "2025-12-24"
+    },
+    {
+      "application_numbers": [
+        "NDA209478"
+      ],
+      "brand_names": [
+        "SPIRONOLACTONE"
+      ],
+      "combination": false,
+      "home_inn": "spironolactone",
+      "ingredients": [
+        "SPIRONOLACTONE"
+      ],
+      "labeler": "Padagis US LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2023-10-31",
+      "moieties": [
+        "SPIRONOLACTONE"
+      ],
+      "product_ndcs": [
+        "0574-1133"
+      ],
+      "rxcui": [
+        "104232"
+      ],
+      "setid": "522bd365-ddcc-48f4-8a98-66dc4c3bb314",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "SPIRONOLACTONE SUSPENSION [PADAGIS US LLC]",
+      "upload_date": "2025-01-03"
+    },
+    {
+      "application_numbers": [
+        "ANDA040424"
+      ],
+      "brand_names": [
+        "Spironolactone"
+      ],
+      "combination": false,
+      "home_inn": "spironolactone",
+      "ingredients": [
+        "SPIRONOLACTONE"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1981-02-03",
+      "moieties": [
+        "SPIRONOLACTONE"
+      ],
+      "product_ndcs": [
+        "0378-0243",
+        "0378-0437",
+        "0378-2146"
+      ],
+      "rxcui": [
+        "198222",
+        "198223",
+        "313096"
+      ],
+      "setid": "beaf74db-4159-3b59-ef99-575c3ac99aa1",
+      "source": "openfda",
+      "spl_version": 20,
+      "title": "SPIRONOLACTONE TABLET, FILM COATED [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2026-05-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA089424"
+      ],
+      "brand_names": [
+        "SPIRONOLACTONE"
+      ],
+      "combination": false,
+      "home_inn": "spironolactone",
+      "ingredients": [
+        "SPIRONOLACTONE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "1986-07-23",
+      "moieties": [
+        "SPIRONOLACTONE"
+      ],
+      "product_ndcs": [
+        "53489-143",
+        "53489-328",
+        "53489-329"
+      ],
+      "rxcui": [
+        "198222",
+        "198223",
+        "313096"
+      ],
+      "setid": "c23b6b9b-aec3-48a8-a518-76e4097f6479",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "SPIRONOLACTONE TABLET SPIRONOLACTONE TABLET, FILM COATED [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2026-08-03"
+    },
+    {
+      "application_numbers": [
+        "ANDA091426"
+      ],
+      "brand_names": [
+        "Spironolactone"
+      ],
+      "combination": false,
+      "home_inn": "spironolactone",
+      "ingredients": [
+        "SPIRONOLACTONE"
+      ],
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-08-02",
+      "moieties": [
+        "SPIRONOLACTONE"
+      ],
+      "product_ndcs": [
+        "53746-511",
+        "53746-514",
+        "53746-515"
+      ],
+      "rxcui": [
+        "198222",
+        "198223",
+        "313096"
+      ],
+      "setid": "951b8948-dc0f-4aef-9910-82c252de936d",
+      "source": "openfda",
+      "spl_version": 20,
+      "title": "SPIRONOLACTONE TABLET [AMNEAL PHARMACEUTICALS OF NEW YORK LLC]",
+      "upload_date": "2025-12-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA203253"
+      ],
+      "brand_names": [
+        "Spironolactone"
+      ],
+      "combination": false,
+      "home_inn": "spironolactone",
+      "ingredients": [
+        "SPIRONOLACTONE"
+      ],
+      "labeler": "Jubilant Cadista Pharmacuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-02-01",
+      "moieties": [
+        "SPIRONOLACTONE"
+      ],
+      "product_ndcs": [
+        "59746-216",
+        "59746-217",
+        "59746-218"
+      ],
+      "rxcui": [
+        "198222",
+        "198223",
+        "313096"
+      ],
+      "setid": "a7510768-8a52-4230-6aa0-b0d92d82588f",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "SPIRONOLACTONE (SPIRONOLACTONE) TABLET, FILM COATED [JUBILANT CADISTA PHARMACUTICALS INC.]",
+      "upload_date": "2024-07-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA203512"
+      ],
+      "brand_names": [
+        "Spironolactone"
+      ],
+      "combination": false,
+      "home_inn": "spironolactone",
+      "ingredients": [
+        "SPIRONOLACTONE"
+      ],
+      "labeler": "Accord Healthcare, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-06-02",
+      "moieties": [
+        "SPIRONOLACTONE"
+      ],
+      "product_ndcs": [
+        "16729-225",
+        "16729-226",
+        "16729-227"
+      ],
+      "rxcui": [
+        "198222",
+        "198223",
+        "313096"
+      ],
+      "setid": "8a96e2c9-049a-43ab-abf3-21baedeb736f",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "SPIRONOLACTONE TABLET, FILM COATED [ACCORD HEALTHCARE, INC.]",
+      "upload_date": "2025-12-02"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "963af399-feb7-49d2-a59c-c19edad9c682"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "768563dc-a619-44dc-b97f-1a7e71fd56a0"
+    },
+    {
+      "combination": false,
+      "labeler": "Oxford Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "852684dc-e1c6-4caa-bccb-10ac90bbb3bb"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1ed9a2cb-d666-43db-b515-f9615fa6da25"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4ac2926a-949a-4383-b0b0-92c0822dfcda"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e61269b2-823a-49e8-b55f-ef0b8b1dbcde"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ac487ae2-e15f-4781-bae3-a03058cfcfe4"
+    },
+    {
+      "combination": true,
+      "labeler": "Prasco Laboratories",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9d350fa2-d568-4970-a7a5-d128ff5d0a2f"
+    },
+    {
+      "combination": true,
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0c8c973f-13a2-4883-8316-4006398e2931"
+    },
+    {
+      "combination": true,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d7fa3c79-9f26-415b-8039-eb2acabcf66b"
+    },
+    {
+      "combination": true,
+      "labeler": "Advagen Pharma Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9c6c8815-50d8-4a3c-b348-98d5084c1408"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fb66327e-8261-46ae-b39a-4fa79d520844"
+    },
+    {
+      "combination": false,
+      "labeler": "Jubilant Cadista Pharmacuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c1c5fdab-3ff7-414b-8e25-beed8311b8ad"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "99bbc053-0e41-4b4d-979a-db610908f2de"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ae0dcb4e-63df-459c-8e60-0caa817b8135"
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand Xyrem",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000593",
+      "eu_number": "EU/1/05/312",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000593",
+      "mah": "UCB Pharma Ltd",
+      "marketing_authorisation_date": "2005-10-13",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/xyrem",
+      "name": "Xyrem",
+      "record_from": "2005-10-13",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 21
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000593",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "SODIUM OXYBATE"
+  ],
+  "inn": "sodium-oxybate",
+  "name": "SODIUM OXYBATE",
+  "rank": 328,
+  "rxcui": [
+    "349482",
+    "352257",
+    "2393794",
+    "2393795",
+    "2636822",
+    "2636828",
+    "2636830",
+    "2636832",
+    "2636834",
+    "2636836",
+    "2636838",
+    "2636840",
+    "2698135",
+    "2698136"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 7,
+    "approval_holders": 6,
+    "earliest_marketing_start": "2002-07-17",
+    "latest_label_update": "2026-09-17",
+    "nda_bla_applications": 3,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "SODIUM OXYBATE",
+      "unii": "7G33012534"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA021196"
+      ],
+      "brand_names": [
+        "Xyrem"
+      ],
+      "combination": false,
+      "home_inn": "sodium-oxybate",
+      "ingredients": [
+        "SODIUM OXYBATE"
+      ],
+      "labeler": "Jazz Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2002-07-17",
+      "moieties": [
+        "SODIUM OXYBATE"
+      ],
+      "product_ndcs": [
+        "68727-100"
+      ],
+      "rxcui": [
+        "349482",
+        "352257"
+      ],
+      "setid": "926eb076-a4a8-45e4-91ef-411f0aa4f3ca",
+      "source": "openfda",
+      "spl_version": 27,
+      "title": "XYREM (SODIUM OXYBATE) SOLUTION [JAZZ PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-07-03"
+    },
+    {
+      "application_numbers": [
+        "NDA214755"
+      ],
+      "brand_names": [
+        "Lumryz"
+      ],
+      "combination": false,
+      "home_inn": "sodium-oxybate",
+      "ingredients": [
+        "SODIUM OXYBATE"
+      ],
+      "labeler": "Alkermes, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-05-01",
+      "moieties": [
+        "SODIUM OXYBATE"
+      ],
+      "product_ndcs": [
+        "13551-001",
+        "13551-002",
+        "13551-003",
+        "13551-004",
+        "13551-005"
+      ],
+      "rxcui": [
+        "2636822",
+        "2636828",
+        "2636830",
+        "2636832",
+        "2636834",
+        "2636836",
+        "2636838",
+        "2636840",
+        "2698135",
+        "2698136"
+      ],
+      "setid": "10e5e40c-52f3-4c73-8a34-2c29c690a934",
+      "source": "dailymed-title-match",
+      "spl_version": 11,
+      "title": "LUMRYZ (SODIUM OXYBATE) FOR SUSPENSION, EXTENDED RELEASE LUMRYZ (SODIUM OXYBATE) KIT [ALKERMES, INC.]",
+      "upload_date": "2026-09-17"
+    },
+    {
+      "application_numbers": [
+        "NDA212690"
+      ],
+      "brand_names": [
+        "XYWAV"
+      ],
+      "combination": true,
+      "home_inn": "sodium-oxybate",
+      "ingredients": [
+        "CALCIUM OXYBATE",
+        "MAGNESIUM OXYBATE",
+        "POTASSIUM OXYBATE",
+        "SODIUM OXYBATE"
+      ],
+      "labeler": "Jazz Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2020-11-02",
+      "moieties": [
+        "CALCIUM OXYBATE",
+        "MAGNESIUM OXYBATE",
+        "POTASSIUM OXYBATE",
+        "SODIUM OXYBATE"
+      ],
+      "product_ndcs": [
+        "68727-150"
+      ],
+      "rxcui": [
+        "2393794",
+        "2393795"
+      ],
+      "setid": "1e0ae43a-037f-42af-8e23-a0e51d75abe8",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "XYWAV (CALCIUM, MAGNESIUM, POTASSIUM, AND SODIUM OXYBATES) SOLUTION [JAZZ PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "NDA021196"
+      ],
+      "brand_names": [
+        "sodium oxybate"
+      ],
+      "combination": false,
+      "home_inn": "sodium-oxybate",
+      "ingredients": [
+        "SODIUM OXYBATE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2023-01-03",
+      "moieties": [
+        "SODIUM OXYBATE"
+      ],
+      "product_ndcs": [
+        "0054-9628"
+      ],
+      "rxcui": [
+        "349482"
+      ],
+      "setid": "bcef2c95-35e9-464d-9025-652acff769e7",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "SODIUM OXYBATE SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2024-08-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA203631"
+      ],
+      "brand_names": [
+        "Sodium Oxybate"
+      ],
+      "combination": false,
+      "home_inn": "sodium-oxybate",
+      "ingredients": [
+        "SODIUM OXYBATE"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-09-12",
+      "moieties": [
+        "SODIUM OXYBATE"
+      ],
+      "product_ndcs": [
+        "65162-065"
+      ],
+      "rxcui": [
+        "349482"
+      ],
+      "setid": "5a9e9045-f04d-46eb-8396-2495c6090a31",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "SODIUM OXYBATE SOLUTION [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2026-03-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA210523"
+      ],
+      "brand_names": [
+        "sodium oxybate"
+      ],
+      "combination": false,
+      "home_inn": "sodium-oxybate",
+      "ingredients": [
+        "SODIUM OXYBATE"
+      ],
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-01-01",
+      "moieties": [
+        "SODIUM OXYBATE"
+      ],
+      "product_ndcs": [
+        "31722-891"
+      ],
+      "rxcui": [
+        "349482"
+      ],
+      "setid": "5dcf9a5c-312b-420b-82f3-42177d8f9ee4",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "SODIUM OXYBATE SOLUTION [CAMBER PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-06-03"
+    },
+    {
+      "application_numbers": [
+        "ANDA210523"
+      ],
+      "brand_names": [
+        "sodium oxybate"
+      ],
+      "combination": false,
+      "home_inn": "sodium-oxybate",
+      "ingredients": [
+        "SODIUM OXYBATE"
+      ],
+      "labeler": "XLCare Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-01-01",
+      "moieties": [
+        "SODIUM OXYBATE"
+      ],
+      "product_ndcs": [
+        "72865-349"
+      ],
+      "rxcui": [
+        "349482"
+      ],
+      "setid": "c0fb2620-7247-464d-a37a-8b516ce7d563",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "SODIUM OXYBATE SOLUTION [XLCARE PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-01-08"
+    }
+  ],
+  "us_excluded": []
+}

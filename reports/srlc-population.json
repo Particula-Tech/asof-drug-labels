@@ -1,0 +1,296 @@
+{
+ "generated": "2026-11-01",
+ "parse_version": 2,
+ "search_months": [
+  "2016-01",
+  "2026-11"
+ ],
+ "cache": {
+  "search_pages": 131,
+  "detail_pages": 1513,
+  "request_log_lines": 1647
+ },
+ "search_rows": 3276,
+ "srlc_drugs_seen": 3276,
+ "in_corpus_drugs": 1513,
+ "detail_pages_parsed": 1513,
+ "items_all_years": 15123,
+ "items_not_in_corpus": 0,
+ "items_2016_2025": 14213,
+ "by_year": {
+  "2016": 1401,
+  "2017": 1829,
+  "2018": 1628,
+  "2019": 1815,
+  "2020": 1340,
+  "2021": 1538,
+  "2022": 1020,
+  "2023": 1232,
+  "2024": 1096,
+  "2025": 1314
+ },
+ "by_section": {
+  "AR": 3250,
+  "BW": 387,
+  "C": 623,
+  "DI": 1173,
+  "PCI/PI/MG": 3029,
+  "USP": 2260,
+  "WP": 3259,
+  "other": 232
+ },
+ "by_comment_type": {
+  "additions_underlined": 7844,
+  "mixed": 2320,
+  "newly_added": 1727,
+  "none": 839,
+  "none_underlined": 288,
+  "other_comment": 165,
+  "refer_to_label": 1030
+ },
+ "by_year_and_section": {
+  "2016": {
+   "AR": 310,
+   "BW": 97,
+   "C": 96,
+   "DI": 151,
+   "PCI/PI/MG": 242,
+   "USP": 161,
+   "WP": 322,
+   "other": 22
+  },
+  "2017": {
+   "AR": 419,
+   "BW": 44,
+   "C": 105,
+   "DI": 171,
+   "PCI/PI/MG": 377,
+   "USP": 259,
+   "WP": 436,
+   "other": 18
+  },
+  "2018": {
+   "AR": 343,
+   "BW": 55,
+   "C": 74,
+   "DI": 145,
+   "PCI/PI/MG": 301,
+   "USP": 286,
+   "WP": 381,
+   "other": 43
+  },
+  "2019": {
+   "AR": 366,
+   "BW": 33,
+   "C": 86,
+   "DI": 176,
+   "PCI/PI/MG": 383,
+   "USP": 341,
+   "WP": 399,
+   "other": 31
+  },
+  "2020": {
+   "AR": 302,
+   "BW": 17,
+   "C": 57,
+   "DI": 84,
+   "PCI/PI/MG": 305,
+   "USP": 242,
+   "WP": 302,
+   "other": 31
+  },
+  "2021": {
+   "AR": 343,
+   "BW": 32,
+   "C": 70,
+   "DI": 130,
+   "PCI/PI/MG": 364,
+   "USP": 235,
+   "WP": 350,
+   "other": 14
+  },
+  "2022": {
+   "AR": 248,
+   "BW": 12,
+   "C": 43,
+   "DI": 82,
+   "PCI/PI/MG": 237,
+   "USP": 164,
+   "WP": 205,
+   "other": 29
+  },
+  "2023": {
+   "AR": 301,
+   "BW": 53,
+   "C": 30,
+   "DI": 84,
+   "PCI/PI/MG": 294,
+   "USP": 180,
+   "WP": 273,
+   "other": 17
+  },
+  "2024": {
+   "AR": 293,
+   "BW": 14,
+   "C": 25,
+   "DI": 59,
+   "PCI/PI/MG": 234,
+   "USP": 171,
+   "WP": 285,
+   "other": 15
+  },
+  "2025": {
+   "AR": 325,
+   "BW": 30,
+   "C": 37,
+   "DI": 91,
+   "PCI/PI/MG": 292,
+   "USP": 221,
+   "WP": 306,
+   "other": 12
+  }
+ },
+ "funnel": {
+  "in_range": 14213,
+  "sampled_section": 10952,
+  "usable": 6857,
+  "with_covered_setid": 6271,
+  "eligible": 6271
+ },
+ "excluded": {
+  "section_not_sampled": {
+   "PCI/PI/MG": 3029,
+   "other": 232
+  },
+  "not_usable_by_comment_type": {
+   "additions_underlined": 2080,
+   "mixed": 234,
+   "newly_added": 201,
+   "none": 666,
+   "none_underlined": 116,
+   "other_comment": 113,
+   "refer_to_label": 685
+  },
+  "not_usable_by_reason": {
+   "kept sentences under 12 tokens": 881,
+   "no quote text": 1458,
+   "no sentence with >= 6 tokens": 1756
+  },
+  "no_covered_setid": {
+   "first version after approval - 183 days": 224,
+   "first version after approval - 183 days; retired before approval + 183 days": 111,
+   "retired before approval + 183 days": 251
+  }
+ },
+ "usable_by_comment_type": {
+  "additions_underlined": 3786,
+  "mixed": 1645,
+  "newly_added": 1291,
+  "none_underlined": 109,
+  "other_comment": 9,
+  "refer_to_label": 17
+ },
+ "eligible_by_year": {
+  "2016": 377,
+  "2017": 873,
+  "2018": 811,
+  "2019": 814,
+  "2020": 603,
+  "2021": 755,
+  "2022": 429,
+  "2023": 582,
+  "2024": 499,
+  "2025": 528
+ },
+ "eligible_by_section": {
+  "AR": 1549,
+  "BW": 215,
+  "C": 233,
+  "DI": 528,
+  "USP": 1488,
+  "WP": 2258
+ },
+ "eligible_by_year_and_section": {
+  "2016": {
+   "AR": 83,
+   "BW": 44,
+   "C": 23,
+   "DI": 44,
+   "USP": 70,
+   "WP": 113
+  },
+  "2017": {
+   "AR": 216,
+   "BW": 19,
+   "C": 42,
+   "DI": 100,
+   "USP": 199,
+   "WP": 297
+  },
+  "2018": {
+   "AR": 171,
+   "BW": 36,
+   "C": 29,
+   "DI": 79,
+   "USP": 200,
+   "WP": 296
+  },
+  "2019": {
+   "AR": 188,
+   "BW": 20,
+   "C": 30,
+   "DI": 71,
+   "USP": 224,
+   "WP": 281
+  },
+  "2020": {
+   "AR": 150,
+   "BW": 7,
+   "C": 15,
+   "DI": 44,
+   "USP": 156,
+   "WP": 231
+  },
+  "2021": {
+   "AR": 195,
+   "BW": 22,
+   "C": 40,
+   "DI": 67,
+   "USP": 149,
+   "WP": 282
+  },
+  "2022": {
+   "AR": 117,
+   "BW": 9,
+   "C": 21,
+   "DI": 37,
+   "USP": 109,
+   "WP": 136
+  },
+  "2023": {
+   "AR": 149,
+   "BW": 42,
+   "C": 8,
+   "DI": 43,
+   "USP": 131,
+   "WP": 209
+  },
+  "2024": {
+   "AR": 135,
+   "BW": 7,
+   "C": 12,
+   "DI": 20,
+   "USP": 116,
+   "WP": 209
+  },
+  "2025": {
+   "AR": 145,
+   "BW": 9,
+   "C": 13,
+   "DI": 23,
+   "USP": 134,
+   "WP": 204
+  }
+ },
+ "eligible_applications": 1168
+}

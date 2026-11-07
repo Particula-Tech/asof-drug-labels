@@ -1,0 +1,99 @@
+{
+  "biologic": true,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "ALBUMIN AGGREGATED"
+  ],
+  "inn": "albumin-aggregated",
+  "name": "ALBUMIN AGGREGATED",
+  "rank": 404,
+  "rxcui": [],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 2,
+    "approval_holders": 2,
+    "earliest_marketing_start": "1987-12-30",
+    "latest_label_update": "2025-11-17",
+    "nda_bla_applications": 2,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "ALBUMIN AGGREGATED",
+      "unii": "799C8VF17R"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "BLA017881"
+      ],
+      "brand_names": [
+        "DRAXIMAGE MAA"
+      ],
+      "combination": false,
+      "home_inn": "albumin-aggregated",
+      "ingredients": [
+        "ALBUMIN AGGREGATED"
+      ],
+      "labeler": "Jubilant DraxImage Inc",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "1987-12-30",
+      "moieties": [
+        "ALBUMIN AGGREGATED"
+      ],
+      "product_ndcs": [
+        "65174-270"
+      ],
+      "rxcui": [],
+      "setid": "bbefaa05-1dc0-3ae7-7264-ce1eddf0da2b",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "DRAXIMAGE MAA (KIT FOR THE PREPARATION OF TECHNETIUM TC 99M ALBUMIN AGGREGATED) INJECTION, POWDER, FOR SOLUTION [JUBILANT DRAXIMAGE INC]",
+      "upload_date": "2024-02-14"
+    },
+    {
+      "application_numbers": [
+        "BLA210089"
+      ],
+      "brand_names": [
+        "Pulmotech MAA"
+      ],
+      "combination": false,
+      "home_inn": "albumin-aggregated",
+      "ingredients": [
+        "ALBUMIN AGGREGATED"
+      ],
+      "labeler": "Curium US LLC",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2020-03-20",
+      "moieties": [
+        "ALBUMIN AGGREGATED"
+      ],
+      "product_ndcs": [
+        "69945-139"
+      ],
+      "rxcui": [],
+      "setid": "a8b7adf0-2c6b-4acd-96d3-a099306951a0",
+      "source": "openfda",
+      "spl_version": 26,
+      "title": "PULMOTECH MAA (KIT FOR THE PREPARATION OF TECHNETIUM TC 99M ALBUMIN AGGREGATED) INJECTION, POWDER, LYOPHILIZED, FOR SUSPENSION [CURIUM US LLC]",
+      "upload_date": "2025-11-17"
+    }
+  ],
+  "us_excluded": []
+}

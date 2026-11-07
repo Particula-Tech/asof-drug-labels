@@ -1,0 +1,884 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/006324",
+      "eu_number": "EU/1/25/1920",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-006324",
+      "mah": "Santen Oy",
+      "marketing_authorisation_date": "2025-06-02",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ryjunea",
+      "name": "Ryjunea",
+      "record_from": "2025-06-02",
+      "record_to": "2026-11-03",
+      "role": "reference",
+      "versions": 1
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-006324",
+    "reference_selected_by": "salt-alias-v2",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "ATROPINE",
+    "ATROPINE SULFATE"
+  ],
+  "inn": "atropine",
+  "name": "ATROPINE",
+  "rank": 34,
+  "rxcui": [
+    "1190536",
+    "1190538",
+    "1190540",
+    "1190542",
+    "1190546",
+    "1190551",
+    "1190552",
+    "1190572",
+    "1190608",
+    "1190611",
+    "1190614",
+    "1190620",
+    "1190641",
+    "1190655",
+    "1190664",
+    "1190738",
+    "1190740",
+    "1190776",
+    "1190795",
+    "1666781"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 38,
+    "approval_holders": 30,
+    "earliest_marketing_start": "1960-09-15",
+    "latest_label_update": "2026-10-22",
+    "nda_bla_applications": 9,
+    "repackagers": 16
+  },
+  "unii": [
+    {
+      "ingredient": "ATROPINE",
+      "unii": "7C0697DR9I"
+    },
+    {
+      "ingredient": "ATROPINE SULFATE",
+      "unii": "03J5ZE7KA5"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA017106"
+      ],
+      "brand_names": [
+        "ATROPEN Auto-Injector"
+      ],
+      "combination": false,
+      "home_inn": "atropine",
+      "ingredients": [
+        "ATROPINE"
+      ],
+      "labeler": "Meridian Medical Technologies LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1973-05-15",
+      "moieties": [
+        "ATROPINE"
+      ],
+      "product_ndcs": [
+        "11704-101",
+        "11704-104",
+        "11704-105",
+        "11704-106",
+        "11704-107"
+      ],
+      "rxcui": [
+        "1190536",
+        "1190538",
+        "1190540",
+        "1190542",
+        "1190608",
+        "1190611",
+        "1190614",
+        "1190620"
+      ],
+      "setid": "e2d4307d-da8f-49f5-aac0-02355dd9ffb7",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "ATROPEN AUTO-INJECTOR (ATROPINE) INJECTION [MERIDIAN MEDICAL TECHNOLOGIES LLC]",
+      "upload_date": "2022-09-21"
+    },
+    {
+      "application_numbers": [
+        "NDA021146"
+      ],
+      "brand_names": [
+        "Atropine Sulfate"
+      ],
+      "combination": false,
+      "home_inn": "atropine",
+      "ingredients": [
+        "ATROPINE SULFATE"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2004-12-31",
+      "moieties": [
+        "ATROPINE"
+      ],
+      "product_ndcs": [
+        "0409-1630",
+        "0409-9630"
+      ],
+      "rxcui": [
+        "1190546",
+        "1190551",
+        "1190552"
+      ],
+      "setid": "ad8916e7-206e-409e-2582-30d072845dd4",
+      "source": "openfda",
+      "spl_version": 31,
+      "title": "ATROPINE SULFATE INJECTION, SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2026-05-20"
+    },
+    {
+      "application_numbers": [
+        "NDA209260"
+      ],
+      "brand_names": [
+        "Atropine Sulfate"
+      ],
+      "combination": false,
+      "home_inn": "atropine",
+      "ingredients": [
+        "ATROPINE SULFATE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-01-23",
+      "moieties": [
+        "ATROPINE"
+      ],
+      "product_ndcs": [
+        "63323-580"
+      ],
+      "rxcui": [
+        "1190776"
+      ],
+      "setid": "310c8a74-ea24-4357-8099-81e394b1634e",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "ATROPINE SULFATE INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2024-10-23"
+    },
+    {
+      "application_numbers": [
+        "NDA212319"
+      ],
+      "brand_names": [],
+      "combination": false,
+      "home_inn": "atropine",
+      "ingredients": [
+        "ATROPINE"
+      ],
+      "labeler": "Rafa Laboratories, Ltd.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-07-09",
+      "moieties": [
+        "ATROPINE"
+      ],
+      "product_ndcs": [
+        "71053-592"
+      ],
+      "rxcui": [
+        "1190538",
+        "1190540",
+        "1190542"
+      ],
+      "setid": "4a4fa6e8-0e0a-0e76-e054-00144ff8d46c",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "N/A (ATROPINE SULFATE INJECTION USP, 1 MG/0.7 ML) INJECTION N/A (ATROPINE SULFATE INJECTION USP, 0.5 MG/0.7 ML) INJECTION N/A (ATROPINE INJECTION, 2 MG) INJECTION [RAFA LABORATORIES, LTD.]",
+      "upload_date": "2026-02-19"
+    },
+    {
+      "application_numbers": [
+        "NDA208151"
+      ],
+      "brand_names": [
+        "Isopto Atropine"
+      ],
+      "combination": false,
+      "home_inn": "atropine",
+      "ingredients": [
+        "ATROPINE SULFATE"
+      ],
+      "labeler": "Alcon Laboratories, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2018-08-01",
+      "moieties": [
+        "ATROPINE"
+      ],
+      "product_ndcs": [
+        "0065-0303"
+      ],
+      "rxcui": [
+        "1190655",
+        "1190664"
+      ],
+      "setid": "20491566-e6eb-8d4a-3083-77ea429f7bc4",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "ISOPTO ATROPINE (ATROPINE SULFATE) SOLUTION [ALCON LABORATORIES, INC.]",
+      "upload_date": "2022-10-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA212868",
+        "NDA214652"
+      ],
+      "brand_names": [
+        "ATROPINE SULFATE"
+      ],
+      "combination": false,
+      "home_inn": "atropine",
+      "ingredients": [
+        "ATROPINE SULFATE"
+      ],
+      "labeler": "Accord Healthcare Inc.",
+      "marketing_categories": [
+        "ANDA",
+        "NDA"
+      ],
+      "marketing_start": "2021-01-11",
+      "moieties": [
+        "ATROPINE"
+      ],
+      "product_ndcs": [
+        "16729-483",
+        "16729-484",
+        "16729-525"
+      ],
+      "rxcui": [
+        "1190546",
+        "1190551",
+        "1190552"
+      ],
+      "setid": "c82cb295-ffce-47d6-97ad-a8aa723f4e4f",
+      "source": "dailymed-title-match",
+      "spl_version": 9,
+      "title": "ATROPINE SULFATE INJECTION [ACCORD HEALTHCARE, INC.,]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "NDA213581"
+      ],
+      "brand_names": [
+        "Atropine Sulfate"
+      ],
+      "combination": false,
+      "home_inn": "atropine",
+      "ingredients": [
+        "ATROPINE SULFATE"
+      ],
+      "labeler": "Bausch & Lomb Incorporated",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-07-13",
+      "moieties": [
+        "ATROPINE"
+      ],
+      "product_ndcs": [
+        "24208-965"
+      ],
+      "rxcui": [
+        "1190655"
+      ],
+      "setid": "aeab333c-3cdb-45c0-9e22-949624d69fbc",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "ATROPINE SULFATE SOLUTION [BAUSCH & LOMB INCORPORATED]",
+      "upload_date": "2025-04-16"
+    },
+    {
+      "application_numbers": [
+        "NDA012462"
+      ],
+      "brand_names": [
+        "Lomotil"
+      ],
+      "combination": true,
+      "home_inn": "atropine",
+      "ingredients": [
+        "ATROPINE SULFATE",
+        "DIPHENOXYLATE HYDROCHLORIDE"
+      ],
+      "labeler": "Pfizer Laboratories Div Pfizer Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1960-09-15",
+      "moieties": [
+        "ATROPINE",
+        "DIPHENOXYLATE"
+      ],
+      "product_ndcs": [
+        "0025-0061"
+      ],
+      "rxcui": [
+        "1190572",
+        "1190641"
+      ],
+      "setid": "f170584a-1072-4fd7-b1dc-6756703483b9",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "LOMOTIL (DIPHENOXYLATE HYDROCHLORIDE AND ATROPINE SULFATE) TABLET [PFIZER LABORATORIES DIV PFIZER INC]",
+      "upload_date": "2026-02-25"
+    },
+    {
+      "application_numbers": [
+        "NDA017744"
+      ],
+      "brand_names": [
+        "Motofen"
+      ],
+      "combination": true,
+      "home_inn": "atropine",
+      "ingredients": [
+        "ATROPINE SULFATE",
+        "DIFENOXIN HYDROCHLORIDE"
+      ],
+      "labeler": "Sebela Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-04-11",
+      "moieties": [
+        "ATROPINE",
+        "DIFENOXIN"
+      ],
+      "product_ndcs": [
+        "54766-200"
+      ],
+      "rxcui": [
+        "1190738",
+        "1190740"
+      ],
+      "setid": "4cd3f029-a5e3-5812-e054-00144ff8d46c",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "MOTOFEN (DIFENOXIN AND ATROPINE SULFATE) TABLET [SEBELA PHARMACEUTICALS INC.]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "NDA214652"
+      ],
+      "brand_names": [
+        "ATROPINE SULFATE"
+      ],
+      "combination": false,
+      "home_inn": "atropine",
+      "ingredients": [
+        "ATROPINE SULFATE"
+      ],
+      "labeler": "Accord Healthcare Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-01-11",
+      "moieties": [
+        "ATROPINE"
+      ],
+      "product_ndcs": [
+        "16729-525"
+      ],
+      "rxcui": [
+        "1190795",
+        "1666781"
+      ],
+      "setid": "d5e07279-48ca-4f83-9633-299e65a7f821",
+      "source": "dailymed-title-match",
+      "spl_version": 8,
+      "title": "ATROPINE SULFATE INJECTION, SOLUTION [ACCORD HEALTHCARE INC.]",
+      "upload_date": "2026-10-22"
+    },
+    {
+      "application_numbers": [
+        "NDA213581"
+      ],
+      "brand_names": [
+        "Atropine Sulfate"
+      ],
+      "combination": false,
+      "home_inn": "atropine",
+      "ingredients": [
+        "ATROPINE SULFATE"
+      ],
+      "labeler": "Bausch & Lomb Americas Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2023-04-21",
+      "moieties": [
+        "ATROPINE"
+      ],
+      "product_ndcs": [
+        "82260-001"
+      ],
+      "rxcui": [
+        "1190655"
+      ],
+      "setid": "e294ce2b-6bb5-4f84-8a6d-ce2402ed926d",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "ATROPINE SULFATE SOLUTION [BAUSCH & LOMB AMERICAS INC.]",
+      "upload_date": "2026-02-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA212461"
+      ],
+      "brand_names": [
+        "Atropine Sulfate"
+      ],
+      "combination": false,
+      "home_inn": "atropine",
+      "ingredients": [
+        "ATROPINE SULFATE"
+      ],
+      "labeler": "International Medication Systems, Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-02-17",
+      "moieties": [
+        "ATROPINE"
+      ],
+      "product_ndcs": [
+        "76329-3340"
+      ],
+      "rxcui": [
+        "1190546"
+      ],
+      "setid": "b72d0a82-6163-460f-965a-12f6da47370a",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "ATROPINE SULFATE INJECTION [INTERNATIONAL MEDICATION SYSTEMS, LIMITED]",
+      "upload_date": "2025-02-07"
+    },
+    {
+      "application_numbers": [
+        "ANDA215624"
+      ],
+      "brand_names": [
+        "Atropine"
+      ],
+      "combination": false,
+      "home_inn": "atropine",
+      "ingredients": [
+        "ATROPINE SULFATE"
+      ],
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-11-26",
+      "moieties": [
+        "ATROPINE"
+      ],
+      "product_ndcs": [
+        "60505-6226"
+      ],
+      "rxcui": [
+        "1190655"
+      ],
+      "setid": "127a7e32-a150-01d6-a66a-b7708d85809f",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "ATROPINE (ATROPINE SULFATE) SOLUTION/ DROPS [APOTEX CORP.]",
+      "upload_date": "2026-03-12"
+    },
+    {
+      "application_numbers": [
+        "ANDA213561"
+      ],
+      "brand_names": [
+        "Atropine Sulfate"
+      ],
+      "combination": false,
+      "home_inn": "atropine",
+      "ingredients": [
+        "ATROPINE SULFATE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-12-01",
+      "moieties": [
+        "ATROPINE"
+      ],
+      "product_ndcs": [
+        "0641-6251"
+      ],
+      "rxcui": [
+        "1190776"
+      ],
+      "setid": "4c15d3cc-7888-4c82-b3f8-a5d93c5523df",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "ATROPINE SULFATE INJECTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2024-04-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA215342"
+      ],
+      "brand_names": [
+        "atropine sulfate"
+      ],
+      "combination": false,
+      "home_inn": "atropine",
+      "ingredients": [
+        "ATROPINE SULFATE"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-01-29",
+      "moieties": [
+        "ATROPINE"
+      ],
+      "product_ndcs": [
+        "70121-1705",
+        "70121-1706"
+      ],
+      "rxcui": [
+        "1190546",
+        "1190552"
+      ],
+      "setid": "80a31286-a741-4440-b200-290c08925d06",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "ATROPINE SULFATE INJECTION, SOLUTION [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2025-12-05"
+    },
+    {
+      "application_numbers": [
+        "ANDA214752"
+      ],
+      "brand_names": [
+        "Atropine"
+      ],
+      "combination": false,
+      "home_inn": "atropine",
+      "ingredients": [
+        "ATROPINE SULFATE"
+      ],
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2022-07-19",
+      "moieties": [
+        "ATROPINE"
+      ],
+      "product_ndcs": [
+        "60219-1748",
+        "60219-1749",
+        "60219-1750"
+      ],
+      "rxcui": [
+        "1190655"
+      ],
+      "setid": "f8718be5-8fa4-4c36-a4fd-fac7c3953f5a",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "ATROPINE (ATROPINE SULFATE) SOLUTION/ DROPS ATROPINE (ATROPINE SULFATE) SOLUTION/ DROPS [AMNEAL PHARMACEUTICALS NY LLC]",
+      "upload_date": "2025-12-05"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 2,
+      "brand_names": [
+        "ISOPTO"
+      ],
+      "first_posted": "2012-08-23",
+      "found_by": "ISOPTO",
+      "labeler": "Alcon Laboratories, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2015-09-16",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0998-0303"
+      ],
+      "rxcui": [],
+      "setid": "45c58d77-c346-280b-20fa-37021a246486",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "ISOPTO ATROPINE (atropine sulfate) solution"
+    },
+    {
+      "application_numbers": [
+        "NDA017744"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "MOTOFEN"
+      ],
+      "first_posted": "2006-11-17",
+      "found_by": "MOTOFEN",
+      "labeler": "Valeant Pharmaceuticals North America LLC",
+      "labeler_unverified": false,
+      "last_posted": "2013-07-17",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2014-11-30"
+      ],
+      "product_ndcs": [
+        "0187-0500"
+      ],
+      "rxcui": [],
+      "setid": "a07005a9-6f31-4cd6-9abf-334a9a882551",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "4cd3f029-a5e3-5812-e054-00144ff8d46c"
+      ],
+      "title": "MOTOFEN (difenoxin hydrochloride) tablet"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Accord Healthcare Inc.",
+      "marketing_categories": [
+        "ANDA",
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "f3cb74e9-b4ac-4efe-bd8e-8a71970ee7c7"
+    },
+    {
+      "combination": false,
+      "labeler": "Alcon Laboratories, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "c8093125-ed1a-4eb6-9c81-52c5c7376481"
+    },
+    {
+      "combination": true,
+      "labeler": "Legacy Pharma USA Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "1fa11c67-5492-469c-9475-6bfa0e5e9ff8"
+    },
+    {
+      "combination": false,
+      "labeler": "American Regent, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6fee1727-52b7-4f73-ab45-ef47d6a1c5bb"
+    },
+    {
+      "combination": false,
+      "labeler": "Medefil, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fbfdf718-befe-ad22-e053-6294a90a3715"
+    },
+    {
+      "combination": false,
+      "labeler": "Lifestar Pharma LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b5f78b2a-56d1-4400-9d2f-b033cc13d26e"
+    },
+    {
+      "combination": false,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bfdb85b2-86d0-4f32-a8fa-272af48a191c"
+    },
+    {
+      "combination": false,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a6fac578-c7bc-4b3c-a454-7889cc819118"
+    },
+    {
+      "combination": false,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e30491ed-938e-4ef4-aa23-a2e94cbab0ed"
+    },
+    {
+      "combination": false,
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "84ba1689-3030-48d5-9cce-70b5a24a4033"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a66eecf9-2d8b-4e2d-8a05-d718dcbc3542"
+    },
+    {
+      "combination": false,
+      "labeler": "Edenbridge Pharmaceuticals LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b39f5876-5d6f-4a8f-bd24-bd4be24ff568"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a116af5c-ba4c-408c-9a02-4bc33772aa8d"
+    },
+    {
+      "combination": true,
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "83bcc2fb-6fb0-4f0e-8e66-592d327684ec"
+    },
+    {
+      "combination": true,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "88ed4ccf-9e35-4142-a5eb-d2b5edd36956"
+    },
+    {
+      "combination": true,
+      "labeler": "ANI Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "73dc5f91-d562-44c5-a556-66c96ed1dd82"
+    },
+    {
+      "combination": true,
+      "labeler": "Unichem Pharmaceuticals (USA), Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5117f26c-488f-4ba6-b115-22baf12557f3"
+    },
+    {
+      "combination": true,
+      "labeler": "Leading Pharma, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1c188bc9-7c21-4717-94a0-cdfb581fb776"
+    },
+    {
+      "combination": true,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "240b537e-ff9b-45e3-9398-584372bd707a"
+    },
+    {
+      "combination": true,
+      "labeler": "SpecGx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "24915aa0-1600-44bb-99fc-46529a794124"
+    },
+    {
+      "combination": true,
+      "labeler": "Winder Laboratories LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7344a2d2-1f8a-4c5a-90e3-181b919c0c7a"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f750135c-e6bf-4aa7-a343-87b1204df94f"
+    }
+  ]
+}

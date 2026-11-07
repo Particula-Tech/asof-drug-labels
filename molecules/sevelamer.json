@@ -1,0 +1,607 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand RENAGEL",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000254",
+      "eu_number": "EU/1/99/123",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000254",
+      "mah": "Sanofi Winthrop Industrie",
+      "marketing_authorisation_date": "2000-01-28",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/renagel",
+      "name": "Renagel",
+      "record_from": "2000-01-28",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 25
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [
+      {
+        "ema_product_number": "EMEA/H/C/000993",
+        "kind": "variant",
+        "name": "Renvela"
+      },
+      {
+        "ema_product_number": "EMEA/H/C/003971",
+        "kind": "variant",
+        "name": "Sevelamer carbonate Winthrop (previously Sevelamer carbonate Zentiva)"
+      }
+    ],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000254",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "SEVELAMER CARBONATE",
+    "SEVELAMER HYDROCHLORIDE"
+  ],
+  "inn": "sevelamer",
+  "name": "SEVELAMER",
+  "rank": 149,
+  "rxcui": [
+    "749206",
+    "749210",
+    "861370",
+    "861373",
+    "861375",
+    "861377"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 35,
+    "approval_holders": 26,
+    "earliest_marketing_start": "2009-08-12",
+    "latest_label_update": "2026-07-17",
+    "nda_bla_applications": 2,
+    "repackagers": 10
+  },
+  "unii": [
+    {
+      "ingredient": "SEVELAMER CARBONATE",
+      "unii": "9YCX42I8IU"
+    },
+    {
+      "ingredient": "SEVELAMER HYDROCHLORIDE",
+      "unii": "GLS2PGI8QG"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA022127",
+        "NDA022318"
+      ],
+      "brand_names": [
+        "Renvela"
+      ],
+      "combination": false,
+      "home_inn": "sevelamer",
+      "ingredients": [
+        "SEVELAMER CARBONATE"
+      ],
+      "labeler": "Genzyme Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2009-08-12",
+      "moieties": [
+        "SEVELAMER"
+      ],
+      "product_ndcs": [
+        "58468-0131",
+        "58468-0132",
+        "58468-0133"
+      ],
+      "rxcui": [
+        "749206",
+        "749210",
+        "861370",
+        "861373",
+        "861375",
+        "861377"
+      ],
+      "setid": "e6328460-a57b-450b-a48c-6dcd4b476360",
+      "source": "openfda",
+      "spl_version": 47,
+      "title": "RENVELA (SEVELAMER CARBONATE) POWDER, FOR SUSPENSION RENVELA (SEVELAMER CARBONATE) TABLET, FILM COATED [GENZYME CORPORATION]",
+      "upload_date": "2025-11-28"
+    },
+    {
+      "application_numbers": [
+        "NDA022127",
+        "NDA022318"
+      ],
+      "brand_names": [
+        "Sevelamer Carbonate"
+      ],
+      "combination": false,
+      "home_inn": "sevelamer",
+      "ingredients": [
+        "SEVELAMER CARBONATE"
+      ],
+      "labeler": "Sanofi-Aventis U.S. LLC",
+      "marketing_categories": [
+        "NDA AUTHORIZED GENERIC"
+      ],
+      "marketing_start": "2018-01-01",
+      "moieties": [
+        "SEVELAMER"
+      ],
+      "product_ndcs": [
+        "0955-1050",
+        "0955-1052",
+        "0955-1054",
+        "0955-1057"
+      ],
+      "rxcui": [
+        "749206",
+        "861370",
+        "861375"
+      ],
+      "setid": "3abc32fe-1bfc-4759-8f7c-36095e221b06",
+      "source": "openfda",
+      "spl_version": 20,
+      "title": "SEVELAMER CARBONATE TABLET, FILM COATED SEVELAMER CARBONATE POWDER, FOR SUSPENSION [SANOFI-AVENTIS U.S. LLC]",
+      "upload_date": "2025-11-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA207624"
+      ],
+      "brand_names": [
+        "SEVELAMER CARBONATE"
+      ],
+      "combination": false,
+      "home_inn": "sevelamer",
+      "ingredients": [
+        "SEVELAMER CARBONATE"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-06-13",
+      "moieties": [
+        "SEVELAMER"
+      ],
+      "product_ndcs": [
+        "65862-930",
+        "65862-931"
+      ],
+      "rxcui": [
+        "861370",
+        "861375"
+      ],
+      "setid": "ea201bff-cdfb-4304-bdb1-d05c1dac2677",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "SEVELAMER CARBONATE POWDER, FOR SUSPENSION [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2023-12-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA207179"
+      ],
+      "brand_names": [
+        "Sevelamer Carbonate"
+      ],
+      "combination": false,
+      "home_inn": "sevelamer",
+      "ingredients": [
+        "SEVELAMER CARBONATE"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-07-17",
+      "moieties": [
+        "SEVELAMER"
+      ],
+      "product_ndcs": [
+        "65862-921"
+      ],
+      "rxcui": [
+        "749206"
+      ],
+      "setid": "ab0cd45f-0c4b-4ce7-bf8e-5f98d43feaab",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "SEVELAMER CARBONATE TABLET, FILM COATED [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2024-04-08"
+    },
+    {
+      "application_numbers": [
+        "ANDA206094"
+      ],
+      "brand_names": [
+        "Sevelamer Carbonate"
+      ],
+      "combination": false,
+      "home_inn": "sevelamer",
+      "ingredients": [
+        "SEVELAMER CARBONATE"
+      ],
+      "labeler": "DR. REDDY'S LABORATORIES LIMITED",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-09-29",
+      "moieties": [
+        "SEVELAMER"
+      ],
+      "product_ndcs": [
+        "55111-789"
+      ],
+      "rxcui": [
+        "749206"
+      ],
+      "setid": "0085356d-5fec-3cce-2bd3-108be70e515d",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "SEVELAMER CARBONATE TABLET, FILM COATED [DR. REDDY'S LABORATORIES LIMITED]",
+      "upload_date": "2025-09-08"
+    },
+    {
+      "application_numbers": [
+        "ANDA203860"
+      ],
+      "brand_names": [
+        "Sevelamer carbonate"
+      ],
+      "combination": false,
+      "home_inn": "sevelamer",
+      "ingredients": [
+        "SEVELAMER CARBONATE"
+      ],
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-10-26",
+      "moieties": [
+        "SEVELAMER"
+      ],
+      "product_ndcs": [
+        "69097-967"
+      ],
+      "rxcui": [
+        "749206"
+      ],
+      "setid": "134f32c1-b5d5-44d0-9da5-85033e99320a",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "SEVELAMER CARBONATE TABLET, FILM COATED [CIPLA USA INC.]",
+      "upload_date": "2023-01-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA207288"
+      ],
+      "brand_names": [
+        "Sevelamer Carbonate"
+      ],
+      "combination": false,
+      "home_inn": "sevelamer",
+      "ingredients": [
+        "SEVELAMER CARBONATE"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-11-28",
+      "moieties": [
+        "SEVELAMER"
+      ],
+      "product_ndcs": [
+        "65162-058"
+      ],
+      "rxcui": [
+        "749206"
+      ],
+      "setid": "94d8cfb1-ff2a-4956-8954-17635ac505d9",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "SEVELAMER CARBONATE TABLET, FILM COATED [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2024-02-06"
+    },
+    {
+      "application_numbers": [
+        "NDA021179"
+      ],
+      "archived_versions": 21,
+      "brand_names": [
+        "RENAGEL"
+      ],
+      "first_posted": "2009-05-26",
+      "found_by": "RENAGEL",
+      "labeler": "Genzyme Corporation",
+      "labeler_unverified": false,
+      "last_posted": "2023-06-23",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2020-03-01",
+        "2024-01-31"
+      ],
+      "product_ndcs": [
+        "58468-0020",
+        "58468-0021"
+      ],
+      "rxcui": [],
+      "setid": "5e30120b-f2bf-43a0-86b2-44ae996dc681",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "RENAGEL (sevelamer hydrochloride) tablet, film coated"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Dr. Reddys Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "de172c3d-17eb-3489-35fb-370a0893b663"
+    },
+    {
+      "combination": false,
+      "labeler": "Glenmark Pharmaceuticals Inc., USA",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2cd6512f-0edd-4a30-a4fa-aa996038633c"
+    },
+    {
+      "combination": false,
+      "labeler": "TWi Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "05b076d9-6516-4538-8e05-9709a677ed2f"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "71f61492-8971-424a-8415-dfd2e15d05d9"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "da5239fe-060b-4469-95ac-173adec43b9c"
+    },
+    {
+      "combination": false,
+      "labeler": "Bionpharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c3cf4807-ae5f-528e-e053-2a95a90ac640"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a56c857e-bc39-484c-908d-f5957857efbb"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4c927d50-34a6-499b-b1c2-924d4eb73987"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6926ebbe-2d74-4d5f-b642-c1bfe3a4e305"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d8729e42-dbbd-4954-9ce0-298743a15a06"
+    },
+    {
+      "combination": false,
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c17bff97-8347-43f8-822e-1cb9736562b6"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "48dbd7a7-32c7-45c1-ac8b-c478cf3282a6"
+    },
+    {
+      "combination": false,
+      "labeler": "Strides Pharma Science Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "649e5b7b-aa2f-4975-8c00-01d647d35c01"
+    },
+    {
+      "combination": false,
+      "labeler": "Shandong Xinhua Pharmaceutical Co., Ltd.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f6455fa3-ad53-f6fd-e053-2a95a90a67db"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ddecb552-5882-4e44-8fa7-37c9234dd1b9"
+    },
+    {
+      "combination": false,
+      "labeler": "Navinta LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d2f0c283-3e9d-41db-bd4d-83bd21f2a019"
+    },
+    {
+      "combination": false,
+      "labeler": "Marp Pharma",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "515ae758-ccba-5758-e063-6394a90a315b"
+    },
+    {
+      "combination": false,
+      "labeler": "Cipla USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f63450bd-d075-4810-a277-e8bc41e4a5af"
+    },
+    {
+      "combination": false,
+      "labeler": "Exelan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f8947f65-57be-4af7-b0e7-17666f496d01"
+    },
+    {
+      "combination": false,
+      "labeler": "Exelan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "568b8558-6117-4c2f-aabf-86e567b38863"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9b4d0720-f4e7-4b4f-affc-57ce8bb0b722"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cbdee883-ccc7-4c55-965d-b608a214b375"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5baf3742-5929-42f8-8865-6b3e92647d5b"
+    },
+    {
+      "combination": false,
+      "labeler": "Westminster Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "45a955e9-94ac-48db-838c-74934eae245b"
+    },
+    {
+      "combination": false,
+      "labeler": "AvKARE",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "41890246-efa5-524a-e063-6294a90a5ad9"
+    },
+    {
+      "combination": false,
+      "labeler": "AiPing Pharmaceutical, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0cade89a-38ca-4072-97a0-be09c6e058f4"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2ccf62c6-dbad-416d-8e02-631795bd7517"
+    },
+    {
+      "combination": false,
+      "labeler": "INSIGNAMEDEX LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "51ce2ed6-3acf-a6ea-e063-6294a90a21aa"
+    }
+  ]
+}

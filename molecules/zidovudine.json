@@ -1,0 +1,521 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 2,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "only combination central products under this exact INN (combinations are not built)",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "ZIDOVUDINE"
+  ],
+  "inn": "zidovudine",
+  "name": "ZIDOVUDINE",
+  "rank": 190,
+  "rxcui": [
+    "108396",
+    "198352",
+    "199663",
+    "200082",
+    "201907",
+    "204534",
+    "213088",
+    "307650",
+    "755298",
+    "756209"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 13,
+    "approval_holders": 7,
+    "earliest_marketing_start": "2005-09-19",
+    "latest_label_update": "2026-10-08",
+    "nda_bla_applications": 4,
+    "repackagers": 3
+  },
+  "unii": [
+    {
+      "ingredient": "ZIDOVUDINE",
+      "unii": "4B9XT59T7S"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA019655",
+        "NDA019910",
+        "NDA019951"
+      ],
+      "brand_names": [
+        "RETROVIR"
+      ],
+      "combination": false,
+      "home_inn": "zidovudine",
+      "ingredients": [
+        "ZIDOVUDINE"
+      ],
+      "labeler": "ViiV Healthcare Company",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2010-10-28",
+      "moieties": [
+        "ZIDOVUDINE"
+      ],
+      "product_ndcs": [
+        "49702-211",
+        "49702-212",
+        "49702-213"
+      ],
+      "rxcui": [
+        "108396",
+        "198352",
+        "201907",
+        "204534",
+        "755298",
+        "756209"
+      ],
+      "setid": "6df09f15-b102-431c-adde-d7aeef6f5d84",
+      "source": "dailymed-title-match",
+      "spl_version": 33,
+      "title": "RETROVIR (ZIDOVUDINE) CAPSULE RETROVIR (ZIDOVUDINE) SOLUTION RETROVIR (ZIDOVUDINE) INJECTION, SOLUTION [VIIV HEALTHCARE COMPANY]",
+      "upload_date": "2026-10-08"
+    },
+    {
+      "application_numbers": [
+        "NDA020857"
+      ],
+      "brand_names": [
+        "COMBIVIR"
+      ],
+      "combination": true,
+      "home_inn": "lamivudine",
+      "ingredients": [
+        "LAMIVUDINE",
+        "ZIDOVUDINE"
+      ],
+      "labeler": "ViiV Healthcare Company",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2010-10-19",
+      "moieties": [
+        "LAMIVUDINE",
+        "ZIDOVUDINE"
+      ],
+      "product_ndcs": [
+        "49702-202"
+      ],
+      "rxcui": [
+        "200082",
+        "213088"
+      ],
+      "setid": "16da660b-9981-4d24-a14a-94c7744fce4f",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "COMBIVIR (LAMIVUDINE AND ZIDOVUDINE) TABLET, FILM COATED [VIIV HEALTHCARE COMPANY]",
+      "upload_date": "2024-10-03"
+    },
+    {
+      "application_numbers": [
+        "ANDA077268"
+      ],
+      "brand_names": [
+        "Zidovudine"
+      ],
+      "combination": false,
+      "home_inn": "zidovudine",
+      "ingredients": [
+        "ZIDOVUDINE"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2005-09-19",
+      "moieties": [
+        "ZIDOVUDINE"
+      ],
+      "product_ndcs": [
+        "65862-048"
+      ],
+      "rxcui": [
+        "756209"
+      ],
+      "setid": "51abd2ce-6be1-412d-b806-5f24935ac5e3",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "ZIDOVUDINE SYRUP [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2025-02-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA077267"
+      ],
+      "brand_names": [
+        "Zidovudine"
+      ],
+      "combination": false,
+      "home_inn": "zidovudine",
+      "ingredients": [
+        "ZIDOVUDINE"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2005-09-19",
+      "moieties": [
+        "ZIDOVUDINE"
+      ],
+      "product_ndcs": [
+        "65862-024"
+      ],
+      "rxcui": [
+        "199663"
+      ],
+      "setid": "e7c8ddef-005d-4f1c-8c1a-ea84044ab4d4",
+      "source": "openfda",
+      "spl_version": 22,
+      "title": "ZIDOVUDINE TABLET, FILM COATED [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2024-01-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA078128"
+      ],
+      "brand_names": [
+        "Zidovudine"
+      ],
+      "combination": false,
+      "home_inn": "zidovudine",
+      "ingredients": [
+        "ZIDOVUDINE"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2006-03-27",
+      "moieties": [
+        "ZIDOVUDINE"
+      ],
+      "product_ndcs": [
+        "65862-107"
+      ],
+      "rxcui": [
+        "198352"
+      ],
+      "setid": "9907acb2-e4a0-46f9-93c0-a8d7b7ce98cf",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "ZIDOVUDINE CAPSULE [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2025-02-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA090092"
+      ],
+      "brand_names": [
+        "Zidovudine"
+      ],
+      "combination": false,
+      "home_inn": "zidovudine",
+      "ingredients": [
+        "ZIDOVUDINE"
+      ],
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2008-04-25",
+      "moieties": [
+        "ZIDOVUDINE"
+      ],
+      "product_ndcs": [
+        "31722-509"
+      ],
+      "rxcui": [
+        "199663"
+      ],
+      "setid": "ca9f0c57-fc8b-4da4-a987-0fc52b7fd4f4",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "ZIDOVUDINE (ZIDOVUDINE) TABLET [CAMBER PHARMACEUTICALS, INC.]",
+      "upload_date": "2023-05-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA202912"
+      ],
+      "brand_names": [
+        "ABACAVIR, LAMIVUDINE AND ZIDOVUDINE"
+      ],
+      "combination": true,
+      "home_inn": "zidovudine",
+      "ingredients": [
+        "ABACAVIR SULFATE",
+        "LAMIVUDINE",
+        "ZIDOVUDINE"
+      ],
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-12-17",
+      "moieties": [
+        "ABACAVIR",
+        "LAMIVUDINE",
+        "ZIDOVUDINE"
+      ],
+      "product_ndcs": [
+        "68180-286"
+      ],
+      "rxcui": [
+        "307650"
+      ],
+      "setid": "f5f7c0d9-a247-4308-8269-32accc490ea6",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "ABACAVIR, LAMIVUDINE AND ZIDOVUDINE (ABACAVIR , LAMIVUDINE AND ZIDOVUDINE) TABLET [LUPIN PHARMACEUTICALS, INC.]",
+      "upload_date": "2023-11-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA203259"
+      ],
+      "brand_names": [
+        "Lamivudine and Zidovudine"
+      ],
+      "combination": true,
+      "home_inn": "zidovudine",
+      "ingredients": [
+        "LAMIVUDINE",
+        "ZIDOVUDINE"
+      ],
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-02-06",
+      "moieties": [
+        "LAMIVUDINE",
+        "ZIDOVUDINE"
+      ],
+      "product_ndcs": [
+        "31722-739"
+      ],
+      "rxcui": [
+        "200082"
+      ],
+      "setid": "e816e8f5-1e50-4f49-8bea-92da0121d26e",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "LAMIVUDINE AND ZIDOVUDINE (LAMIVUDINE AND ZIDOVUDINE) TABLET, FILM COATED [CAMBER PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-03-16"
+    },
+    {
+      "application_numbers": [
+        "NDA019951"
+      ],
+      "archived_versions": 7,
+      "brand_names": [
+        "RETROVIR"
+      ],
+      "first_posted": "2010-11-12",
+      "found_by": "RETROVIR",
+      "labeler": "ViiV Healthcare Company",
+      "labeler_unverified": false,
+      "last_posted": "2014-08-05",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "49702-213"
+      ],
+      "rxcui": [],
+      "setid": "360d8a6d-d3b6-43ef-8764-e99d831880a4",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "6df09f15-b102-431c-adde-d7aeef6f5d84"
+      ],
+      "title": "RETROVIR (zidovudine) injection, solution"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "COMBIVIR"
+      ],
+      "first_posted": "2006-08-21",
+      "found_by": "COMBIVIR",
+      "labeler": "GlaxoSmithKline",
+      "labeler_unverified": false,
+      "last_posted": "2006-08-21",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "0173-0595"
+      ],
+      "rxcui": [],
+      "setid": "3c4727a5-0552-4630-4fa6-e7f4e0aa5107",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "combivir (lamivudine and zidovudine) tablet"
+    },
+    {
+      "application_numbers": [
+        "NDA020857"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "COMBIVIR"
+      ],
+      "first_posted": "2006-11-09",
+      "found_by": "COMBIVIR",
+      "labeler": "GlaxoSmithKline LLC",
+      "labeler_unverified": false,
+      "last_posted": "2011-03-15",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2014-07-31"
+      ],
+      "product_ndcs": [
+        "0173-0595"
+      ],
+      "rxcui": [],
+      "setid": "6697518c-136b-49f7-c187-81501a2f3c3e",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "16da660b-9981-4d24-a14a-94c7744fce4f"
+      ],
+      "title": "COMBIVIR (lamivudine and zidovudine) tablet, film coated"
+    },
+    {
+      "application_numbers": [
+        "NDA019951"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "RETROVIR"
+      ],
+      "first_posted": "2007-06-14",
+      "found_by": "RETROVIR",
+      "labeler": "GlaxoSmithKline LLC",
+      "labeler_unverified": false,
+      "last_posted": "2011-03-15",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-05-31"
+      ],
+      "product_ndcs": [
+        "0173-0107"
+      ],
+      "rxcui": [],
+      "setid": "a524da34-b315-452c-5ab3-e86bd9615e92",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "6df09f15-b102-431c-adde-d7aeef6f5d84"
+      ],
+      "title": "RETROVIR (zidovudine) injection, solution"
+    },
+    {
+      "application_numbers": [
+        "NDA019655",
+        "NDA019910",
+        "NDA020518"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "RETROVIR"
+      ],
+      "first_posted": "2007-12-12",
+      "found_by": "RETROVIR",
+      "labeler": "GlaxoSmithKline LLC",
+      "labeler_unverified": false,
+      "last_posted": "2011-07-14",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2013-03-14",
+        "2013-06-30",
+        "2013-09-30"
+      ],
+      "product_ndcs": [
+        "0173-0108",
+        "0173-0113",
+        "0173-0501"
+      ],
+      "rxcui": [],
+      "setid": "f7214f89-5215-49b4-5491-6462a71b1f5c",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "6df09f15-b102-431c-adde-d7aeef6f5d84"
+      ],
+      "title": "RETROVIR (zidovudine) capsule RETROVIR (zidovudine) tablet, film coated RETROVIR (zidovudine) syrup"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": true,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f80bd0f3-47eb-4b82-a633-4536cf376cf6"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d40292ff-046c-4a04-b801-10768667951a"
+    },
+    {
+      "combination": true,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "63667952-be01-483e-9887-1d5417e7ec16"
+    },
+    {
+      "combination": true,
+      "labeler": "Exelan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4cf565c3-bdec-4c18-93c1-cc7fa8331c90"
+    },
+    {
+      "combination": true,
+      "labeler": "XLCare Pharmaceuticals, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "55520835-0f24-4e52-af8c-d65841ccaba7"
+    }
+  ]
+}

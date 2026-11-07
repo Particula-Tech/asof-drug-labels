@@ -1,0 +1,543 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand LATUDA",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/002713",
+      "eu_number": "EU/1/14/913",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-002713",
+      "mah": "Aziende Chimiche Riunite Angelini Francesco S.p.A.",
+      "marketing_authorisation_date": "2014-03-21",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/latuda",
+      "name": "Latuda",
+      "record_from": "2014-03-21",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 16
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-002713",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "LURASIDONE HYDROCHLORIDE"
+  ],
+  "inn": "lurasidone",
+  "name": "LURASIDONE",
+  "rank": 221,
+  "rxcui": [
+    "1040031",
+    "1040036",
+    "1040041",
+    "1040043",
+    "1235247",
+    "1235249",
+    "1297278",
+    "1297357",
+    "1431235",
+    "1431237"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 24,
+    "approval_holders": 22,
+    "earliest_marketing_start": "2010-10-28",
+    "latest_label_update": "2026-10-22",
+    "nda_bla_applications": 1,
+    "repackagers": 8
+  },
+  "unii": [
+    {
+      "ingredient": "LURASIDONE HYDROCHLORIDE",
+      "unii": "O0P4I5851I"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA200603"
+      ],
+      "brand_names": [
+        "Latuda"
+      ],
+      "combination": false,
+      "home_inn": "lurasidone",
+      "ingredients": [
+        "LURASIDONE HYDROCHLORIDE"
+      ],
+      "labeler": "Sumitomo Pharma America, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2010-10-28",
+      "moieties": [
+        "LURASIDONE"
+      ],
+      "product_ndcs": [
+        "63402-302",
+        "63402-304",
+        "63402-306",
+        "63402-308",
+        "63402-312"
+      ],
+      "rxcui": [
+        "1040031",
+        "1040036",
+        "1040041",
+        "1040043",
+        "1235247",
+        "1235249",
+        "1297278",
+        "1297357",
+        "1431235",
+        "1431237"
+      ],
+      "setid": "afad3051-9df2-4c54-9684-e8262a133af8",
+      "source": "openfda",
+      "spl_version": 37,
+      "title": "LATUDA (LURASIDONE HYDROCHLORIDE) TABLET, FILM COATED [SUMITOMO PHARMA AMERICA, INC.]",
+      "upload_date": "2026-01-14"
+    },
+    {
+      "application_numbers": [
+        "ANDA208047",
+        "ANDA208055"
+      ],
+      "brand_names": [
+        "Lurasidone Hydrochloride",
+        "Lurasidone hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "lurasidone",
+      "ingredients": [
+        "LURASIDONE HYDROCHLORIDE"
+      ],
+      "labeler": "Torrent Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-01-03",
+      "moieties": [
+        "LURASIDONE"
+      ],
+      "product_ndcs": [
+        "13668-464",
+        "13668-465",
+        "13668-466",
+        "13668-467",
+        "13668-509",
+        "13668-737"
+      ],
+      "rxcui": [
+        "1040031",
+        "1040041",
+        "1235247",
+        "1297278",
+        "1431235"
+      ],
+      "setid": "9cb5e275-1029-407a-8c93-ec5cde2d323b",
+      "source": "openfda",
+      "spl_version": 12,
+      "title": "LURASIDONE HYDROCHLORIDE TABLET, FILM COATED [TORRENT PHARMACEUTICALS LIMITED]",
+      "upload_date": "2026-04-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA208002"
+      ],
+      "brand_names": [
+        "Lurasidone Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "lurasidone",
+      "ingredients": [
+        "LURASIDONE HYDROCHLORIDE"
+      ],
+      "labeler": "Amneal Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-01-02",
+      "moieties": [
+        "LURASIDONE"
+      ],
+      "product_ndcs": [
+        "65162-082",
+        "65162-879",
+        "65162-880",
+        "65162-881",
+        "65162-882"
+      ],
+      "rxcui": [
+        "1040031",
+        "1040041",
+        "1235247",
+        "1297278",
+        "1431235"
+      ],
+      "setid": "6ef0b2f9-9356-4f61-a2fa-e7c2c77a5d3a",
+      "source": "openfda",
+      "spl_version": 15,
+      "title": "LURASIDONE HYDROCHLORIDE TABLET, COATED [AMNEAL PHARMACEUTICALS LLC]",
+      "upload_date": "2025-04-17"
+    },
+    {
+      "application_numbers": [
+        "ANDA212244"
+      ],
+      "brand_names": [
+        "lurasidone hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "lurasidone",
+      "ingredients": [
+        "LURASIDONE HYDROCHLORIDE"
+      ],
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-01-04",
+      "moieties": [
+        "LURASIDONE"
+      ],
+      "product_ndcs": [
+        "67877-638",
+        "67877-639",
+        "67877-640",
+        "67877-641",
+        "67877-642"
+      ],
+      "rxcui": [
+        "1040031",
+        "1040041",
+        "1235247",
+        "1297278",
+        "1431235"
+      ],
+      "setid": "36b6bacd-ac11-493b-a8a4-8dad448ed9d5",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "LURASIDONE HYDROCHLORIDE TABLET, FILM COATED [ASCEND LABORATORIES, LLC]",
+      "upload_date": "2023-01-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA213248"
+      ],
+      "brand_names": [
+        "Lurasidone Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "lurasidone",
+      "ingredients": [
+        "LURASIDONE HYDROCHLORIDE"
+      ],
+      "labeler": "Alembic Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-01-24",
+      "moieties": [
+        "LURASIDONE"
+      ],
+      "product_ndcs": [
+        "62332-494",
+        "62332-495",
+        "62332-496",
+        "62332-497",
+        "62332-498"
+      ],
+      "rxcui": [
+        "1040031",
+        "1040041",
+        "1235247",
+        "1297278",
+        "1431235"
+      ],
+      "setid": "1cc441b3-0a23-4c68-a90e-436030b7daf2",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "LURASIDONE HYDROCHLORIDE TABLET, FILM COATED [ALEMBIC PHARMACEUTICALS INC.]",
+      "upload_date": "2025-04-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA208052"
+      ],
+      "brand_names": [
+        "Lurasidone hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "lurasidone",
+      "ingredients": [
+        "LURASIDONE HYDROCHLORIDE"
+      ],
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-02-01",
+      "moieties": [
+        "LURASIDONE"
+      ],
+      "product_ndcs": [
+        "70771-1734",
+        "70771-1735",
+        "70771-1736",
+        "70771-1737",
+        "70771-1738"
+      ],
+      "rxcui": [
+        "1040031",
+        "1040041",
+        "1235247",
+        "1297278",
+        "1431235"
+      ],
+      "setid": "0f5f8228-1304-4981-8577-029136627260",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "LURASIDONE HYDROCHLORIDE TABLET, COATED [ZYDUS LIFESCIENCES LIMITED]",
+      "upload_date": "2024-12-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA208037"
+      ],
+      "brand_names": [
+        "lurasidone hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "lurasidone",
+      "ingredients": [
+        "LURASIDONE HYDROCHLORIDE"
+      ],
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-02-09",
+      "moieties": [
+        "LURASIDONE"
+      ],
+      "product_ndcs": [
+        "72205-207",
+        "72205-208",
+        "72205-209",
+        "72205-210",
+        "72205-211"
+      ],
+      "rxcui": [
+        "1040031",
+        "1040041",
+        "1235247",
+        "1297278",
+        "1431235"
+      ],
+      "setid": "4f969224-a9f0-4089-84d6-a15664ea7bfe",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "LURASIDONE HYDROCHLORIDE TABLET, FILM COATED [NOVADOZ PHARMACEUTICALS LLC]",
+      "upload_date": "2025-09-01"
+    },
+    {
+      "application_numbers": [
+        "NDA200603"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "LATUDA"
+      ],
+      "first_posted": "2010-11-19",
+      "found_by": "LATUDA",
+      "labeler": "Bushu Pharmaceutical, LTD.",
+      "labeler_unverified": true,
+      "last_posted": "2010-11-19",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "51148-001",
+        "51148-002"
+      ],
+      "rxcui": [],
+      "setid": "88a244d1-eddb-499c-bee2-e1f49056e78f",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "afad3051-9df2-4c54-9684-e8262a133af8"
+      ],
+      "title": "LATUDA (lurasidone hydrochloride) tablet, film coated"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Exelan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4223e7f8-acbb-4738-9b77-ddc3405afb25"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6d97d871-66d3-4ed8-bbc5-0620e9f69ae5"
+    },
+    {
+      "combination": false,
+      "labeler": "Lupin Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "74f2429b-71df-47f0-9cb5-98685372a9b8"
+    },
+    {
+      "combination": false,
+      "labeler": "Accord Healthcare, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7e11ec22-63c1-41a6-899c-4fe746f76bd0"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "b3e9cc86-0c5c-444f-ab57-f4d1a6865035"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2b07a830-93ba-427a-95fc-5138a6309f1e"
+    },
+    {
+      "combination": false,
+      "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "083a1a52-5a13-4e28-8ef2-127ac4ce5b2d"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c80625bb-7857-4763-81fe-542b3448d84f"
+    },
+    {
+      "combination": false,
+      "labeler": "Alembic Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "27f70e15-ee22-47ae-ba87-20e2b4a1a4d6"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "bceb350e-4b88-4de1-9629-9629365a27a7"
+    },
+    {
+      "combination": false,
+      "labeler": "MAJOR PHARMACEUTICALS",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cecfd4c8-bff3-44fa-b360-b3e8a8e955f5"
+    },
+    {
+      "combination": false,
+      "labeler": "Torrent Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a101e62e-dd1f-4add-8393-ba6d54adce06"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddys Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2f22a0bd-94f3-53d7-717c-03da8e1a7e97"
+    },
+    {
+      "combination": false,
+      "labeler": "Cipla USA, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "76c055aa-d96a-42e5-a670-1db63b9c1dd6"
+    },
+    {
+      "combination": false,
+      "labeler": "Dr. Reddys Laboratories Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9b512af1-98ab-1242-10e8-9534a002306e"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "84648adf-b3c6-476e-8d11-2a9d7c5eb550"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "10a88607-0b5e-4707-b0cb-40c58a5c6774"
+    }
+  ]
+}

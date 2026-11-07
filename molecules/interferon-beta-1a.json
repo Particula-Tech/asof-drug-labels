@@ -1,0 +1,284 @@
+{
+  "biologic": true,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand AVONEX",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000102",
+      "eu_number": "EU/1/97/033",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000102",
+      "mah": "Biogen Netherlands B.V. ",
+      "marketing_authorisation_date": "1997-03-13",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/avonex",
+      "name": "Avonex",
+      "record_from": "1997-03-13",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 42
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/000136",
+      "eu_number": "EU/1/98/063",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-000136",
+      "mah": "Merck Europe B.V. ",
+      "marketing_authorisation_date": "1998-05-03",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/rebif",
+      "name": "Rebif",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000102",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "INTERFERON BETA-1A"
+  ],
+  "inn": "interferon-beta-1a",
+  "name": "INTERFERON BETA-1A",
+  "rank": 402,
+  "rxcui": [
+    "727813",
+    "727816",
+    "758025",
+    "758027",
+    "758028",
+    "758029",
+    "758030",
+    "758032",
+    "795748",
+    "795749",
+    "797544",
+    "1649994",
+    "1649996",
+    "1650003",
+    "1650004",
+    "1650011",
+    "1650012",
+    "1650268",
+    "1650282",
+    "1650899",
+    "1650901"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 2,
+    "approval_holders": 2,
+    "earliest_marketing_start": "2002-03-07",
+    "latest_label_update": "2025-11-28",
+    "nda_bla_applications": 2,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "INTERFERON BETA-1A",
+      "unii": "XRO4566Q4R"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "BLA103780"
+      ],
+      "brand_names": [
+        "REBIF",
+        "REBIF REBIDOSE",
+        "Rebif"
+      ],
+      "combination": false,
+      "home_inn": "interferon-beta-1a",
+      "ingredients": [
+        "INTERFERON BETA-1A"
+      ],
+      "labeler": "EMD Serono, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2002-03-07",
+      "moieties": [
+        "INTERFERON BETA-1A"
+      ],
+      "product_ndcs": [
+        "44087-0022",
+        "44087-0044",
+        "44087-0188",
+        "44087-3322",
+        "44087-3344",
+        "44087-8822"
+      ],
+      "rxcui": [
+        "758025",
+        "758027",
+        "758028",
+        "758029",
+        "758030",
+        "758032",
+        "795748",
+        "795749",
+        "1649994",
+        "1649996",
+        "1650003",
+        "1650004",
+        "1650011",
+        "1650012",
+        "1650268",
+        "1650282"
+      ],
+      "setid": "c6fcb5d2-8fcd-44fa-a838-b84ee5f44f0f",
+      "source": "openfda",
+      "spl_version": 27,
+      "title": "REBIF (INTERFERON BETA-1A) KIT REBIF REBIDOSE (INTERFERON BETA-1A) KIT REBIF (INTERFERON BETA-1A ) INJECTION, SOLUTION REBIF (INTERFERON BETA-1A) INJECTION, SOLUTION REBIF REBIDOSE (INTERFERON BETA-1A ) INJECTION, SOLUTION [EMD SERONO, INC.]",
+      "upload_date": "2025-09-29"
+    },
+    {
+      "application_numbers": [
+        "BLA103628"
+      ],
+      "brand_names": [
+        "AVONEX",
+        "Avonex",
+        "Avonex Pen"
+      ],
+      "combination": false,
+      "home_inn": "interferon-beta-1a",
+      "ingredients": [
+        "INTERFERON BETA-1A"
+      ],
+      "labeler": "Biogen Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2003-05-23",
+      "moieties": [
+        "INTERFERON BETA-1A"
+      ],
+      "product_ndcs": [
+        "59627-002",
+        "59627-003",
+        "59627-222",
+        "59627-333"
+      ],
+      "rxcui": [
+        "727813",
+        "727816",
+        "797544",
+        "1650899",
+        "1650901"
+      ],
+      "setid": "d70a39cc-de15-4c12-a1ec-8063b69ea0e1",
+      "source": "openfda",
+      "spl_version": 23,
+      "title": "AVONEX (INTERFERON BETA-1A) KIT AVONEX PEN (INTERFERON BETA-1A) INJECTION, SOLUTION AVONEX (INTERFERON BETA-1A) INJECTION, SOLUTION [BIOGEN INC.]",
+      "upload_date": "2025-11-28"
+    },
+    {
+      "application_numbers": [
+        "BLA103628"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "AVONEX"
+      ],
+      "first_posted": "2009-09-29",
+      "found_by": "AVONEX",
+      "labeler": "Biogen Idec MA Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2012-10-09",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "59627-001"
+      ],
+      "rxcui": [],
+      "setid": "0de49d64-3e18-494c-bf14-bc152247c798",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "d70a39cc-de15-4c12-a1ec-8063b69ea0e1"
+      ],
+      "title": "AVONEX (interferon beta-1a) kit"
+    },
+    {
+      "application_numbers": [
+        "BLA103628"
+      ],
+      "archived_versions": 1,
+      "brand_names": [
+        "AVONEX"
+      ],
+      "first_posted": "2009-09-29",
+      "found_by": "AVONEX",
+      "labeler": "Biogen Idec MA Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2009-09-29",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "59627-002"
+      ],
+      "rxcui": [],
+      "setid": "84d42ba4-6eef-41a7-a1d1-2cc887ef118d",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "d70a39cc-de15-4c12-a1ec-8063b69ea0e1"
+      ],
+      "title": "AVONEX (interferon beta-1a) injection, solution"
+    },
+    {
+      "application_numbers": [
+        "BLA103628"
+      ],
+      "archived_versions": 2,
+      "brand_names": [
+        "AVONEX"
+      ],
+      "first_posted": "2012-04-27",
+      "found_by": "AVONEX",
+      "labeler": "Biogen Idec MA Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2012-10-19",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "59627-003"
+      ],
+      "rxcui": [],
+      "setid": "8d4fa325-4e86-4ef2-9861-5420653e34f6",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "d70a39cc-de15-4c12-a1ec-8063b69ea0e1"
+      ],
+      "title": "AVONEX (interferon beta-1a) injection, solution"
+    }
+  ],
+  "us_excluded": []
+}

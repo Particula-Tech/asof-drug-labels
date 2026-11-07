@@ -1,0 +1,880 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "HEPARIN",
+    "HEPARIN SODIUM"
+  ],
+  "inn": "heparin",
+  "name": "HEPARIN",
+  "rank": 30,
+  "rxcui": [
+    "1361226",
+    "1361574",
+    "1361607",
+    "1361615",
+    "1361853",
+    "1362831",
+    "1658634",
+    "1658637",
+    "1658647",
+    "1658659",
+    "1658690",
+    "1658692",
+    "1658717",
+    "1659195",
+    "1659196",
+    "1659197",
+    "1659260",
+    "1659263",
+    "1798389",
+    "2121591",
+    "2670461",
+    "2670468",
+    "2670471",
+    "2670472"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 43,
+    "approval_holders": 20,
+    "earliest_marketing_start": "1972-02-22",
+    "latest_label_update": "2026-10-26",
+    "nda_bla_applications": 10,
+    "repackagers": 5
+  },
+  "unii": [
+    {
+      "ingredient": "HEPARIN SODIUM",
+      "unii": "ZZ45AB24CA"
+    }
+  ],
+  "unii_unresolved": [
+    "HEPARIN"
+  ],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA017029",
+        "NDA017651"
+      ],
+      "brand_names": [
+        "Heparin Sodium"
+      ],
+      "combination": false,
+      "home_inn": "heparin",
+      "ingredients": [
+        "HEPARIN SODIUM"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1972-02-22",
+      "moieties": [
+        "HEPARIN"
+      ],
+      "product_ndcs": [
+        "63323-047",
+        "63323-262",
+        "63323-276",
+        "63323-459",
+        "63323-540",
+        "63323-542",
+        "63323-543",
+        "63323-915"
+      ],
+      "rxcui": [
+        "1361226",
+        "1361574",
+        "1361615",
+        "1362831",
+        "1658634",
+        "1658647"
+      ],
+      "setid": "d55b4a63-0c04-4874-b74f-9e9b9e8b008c",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "HEPARIN SODIUM INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2025-12-15"
+    },
+    {
+      "application_numbers": [
+        "NDA017037"
+      ],
+      "brand_names": [
+        "Heparin Sodium"
+      ],
+      "combination": false,
+      "home_inn": "heparin",
+      "ingredients": [
+        "HEPARIN SODIUM"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1972-03-22",
+      "moieties": [
+        "HEPARIN"
+      ],
+      "product_ndcs": [
+        "0641-0391",
+        "0641-0400",
+        "0641-0410",
+        "0641-6199"
+      ],
+      "rxcui": [
+        "1361226",
+        "1361615",
+        "1362831",
+        "1659263",
+        "1798389",
+        "2121591"
+      ],
+      "setid": "7014808d-cec9-4b2c-8eb5-940493e356ab",
+      "source": "dailymed-title-match",
+      "spl_version": 18,
+      "title": "HEPARIN SODIUM INJECTION HEPARIN SODIUM INJECTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2026-10-26"
+    },
+    {
+      "application_numbers": [
+        "NDA018609"
+      ],
+      "brand_names": [
+        "HEPARIN SODIUM IN SODIUM CHLORIDE"
+      ],
+      "combination": false,
+      "home_inn": "heparin",
+      "ingredients": [
+        "HEPARIN SODIUM"
+      ],
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1982-04-28",
+      "moieties": [
+        "HEPARIN"
+      ],
+      "product_ndcs": [
+        "0338-0424",
+        "0338-0428",
+        "0338-0431",
+        "0338-0433"
+      ],
+      "rxcui": [
+        "1658690",
+        "1658692"
+      ],
+      "setid": "0d929726-76c3-48fc-b4e7-fd06409f9fb3",
+      "source": "openfda",
+      "spl_version": 23,
+      "title": "HEPARIN SODIUM IN SODIUM CHLORIDE (HEPARIN SODIUM) INJECTION, SOLUTION [BAXTER HEALTHCARE CORPORATION]",
+      "upload_date": "2026-06-08"
+    },
+    {
+      "application_numbers": [
+        "NDA019952"
+      ],
+      "brand_names": [
+        "Heparin Sodium in Dextrose"
+      ],
+      "combination": false,
+      "home_inn": "heparin",
+      "ingredients": [
+        "DEXTROSE MONOHYDRATE",
+        "HEPARIN SODIUM"
+      ],
+      "labeler": "B. Braun Medical Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1992-07-20",
+      "moieties": [
+        "HEPARIN"
+      ],
+      "product_ndcs": [
+        "0264-9567",
+        "0264-9577",
+        "0264-9587"
+      ],
+      "rxcui": [
+        "1361607",
+        "1658717",
+        "1659195"
+      ],
+      "setid": "92a6f533-1a3d-4734-b413-d245592454e3",
+      "source": "openfda",
+      "spl_version": 36,
+      "title": "HEPARIN SODIUM IN DEXTROSE (HEPARIN SODIUM AND DEXTROSE) INJECTION [B. BRAUN MEDICAL INC.]",
+      "upload_date": "2024-08-23"
+    },
+    {
+      "application_numbers": [
+        "NDA019953"
+      ],
+      "brand_names": [
+        "Heparin Sodium in Sodium Chloride"
+      ],
+      "combination": false,
+      "home_inn": "heparin",
+      "ingredients": [
+        "HEPARIN SODIUM"
+      ],
+      "labeler": "B. Braun Medical Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1992-07-20",
+      "moieties": [
+        "HEPARIN"
+      ],
+      "product_ndcs": [
+        "0264-9872"
+      ],
+      "rxcui": [
+        "1658690",
+        "1658692"
+      ],
+      "setid": "a3041c04-0ea8-4d36-81ce-c5091c906316",
+      "source": "openfda",
+      "spl_version": 28,
+      "title": "HEPARIN SODIUM IN SODIUM CHLORIDE INJECTION [B. BRAUN MEDICAL INC.]",
+      "upload_date": "2025-08-08"
+    },
+    {
+      "application_numbers": [
+        "NDA018916"
+      ],
+      "brand_names": [
+        "Heparin Sodium"
+      ],
+      "combination": false,
+      "home_inn": "heparin",
+      "ingredients": [
+        "HEPARIN SODIUM"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2005-06-30",
+      "moieties": [
+        "HEPARIN"
+      ],
+      "product_ndcs": [
+        "0409-0012",
+        "0409-3150",
+        "0409-7650"
+      ],
+      "rxcui": [
+        "1658717",
+        "1659195",
+        "1659196",
+        "1659197"
+      ],
+      "setid": "0413f511-6b34-4c15-e48b-3fad08baacbe",
+      "source": "openfda",
+      "spl_version": 31,
+      "title": "HEPARIN SODIUM INJECTION, SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2026-05-13"
+    },
+    {
+      "application_numbers": [
+        "NDA201370"
+      ],
+      "brand_names": [
+        "Heparin Sodium"
+      ],
+      "combination": false,
+      "home_inn": "heparin",
+      "ingredients": [
+        "HEPARIN SODIUM"
+      ],
+      "labeler": "Pfizer Laboratories Div Pfizer Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2011-07-21",
+      "moieties": [
+        "HEPARIN"
+      ],
+      "product_ndcs": [
+        "0069-0043"
+      ],
+      "rxcui": [
+        "1361226",
+        "1361615",
+        "1362831",
+        "1658647"
+      ],
+      "setid": "56dc3074-f1c5-45a3-b923-f1d14858e06d",
+      "source": "openfda",
+      "spl_version": 32,
+      "title": "HEPARIN SODIUM INJECTION [PFIZER LABORATORIES DIV PFIZER INC]",
+      "upload_date": "2025-10-06"
+    },
+    {
+      "application_numbers": [
+        "NDA019339"
+      ],
+      "brand_names": [
+        "Heparin Sodium and Dextrose"
+      ],
+      "combination": false,
+      "home_inn": "heparin",
+      "ingredients": [
+        "HEPARIN SODIUM"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-12-12",
+      "moieties": [
+        "HEPARIN"
+      ],
+      "product_ndcs": [
+        "0409-4520"
+      ],
+      "rxcui": [
+        "1658717"
+      ],
+      "setid": "eede8a0c-5ae6-4166-84b3-12081405f08e",
+      "source": "openfda",
+      "spl_version": 35,
+      "title": "HEPARIN SODIUM AND DEXTROSE (HEPARIN SODIUM) INJECTION, SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2026-05-26"
+    },
+    {
+      "application_numbers": [
+        "NDA214520"
+      ],
+      "brand_names": [
+        "DEFENCATH"
+      ],
+      "combination": true,
+      "home_inn": "heparin",
+      "ingredients": [
+        "HEPARIN",
+        "TAUROLIDINE"
+      ],
+      "labeler": "CorMedix Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-04-09",
+      "moieties": [
+        "HEPARIN",
+        "TAUROLIDINE"
+      ],
+      "product_ndcs": [
+        "72990-103"
+      ],
+      "rxcui": [
+        "2670461",
+        "2670468",
+        "2670471",
+        "2670472"
+      ],
+      "setid": "13b3a61e-5a4b-4afb-8fa1-d76ebdb344d6",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "DEFENCATH (TAUROLIDINE AND HEPARIN) SOLUTION [CORMEDIX INC.]",
+      "upload_date": "2026-09-11"
+    },
+    {
+      "application_numbers": [
+        "NDA017029"
+      ],
+      "brand_names": [
+        "Heparin Sodium"
+      ],
+      "combination": false,
+      "home_inn": "heparin",
+      "ingredients": [
+        "HEPARIN SODIUM"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "1972-02-22",
+      "moieties": [
+        "HEPARIN"
+      ],
+      "product_ndcs": [
+        "63323-262",
+        "63323-540"
+      ],
+      "rxcui": [
+        "1361226",
+        "1361615"
+      ],
+      "setid": "ed937dd2-8fab-4875-a1e8-627b71ccb7fb",
+      "source": "openfda",
+      "spl_version": 8,
+      "title": "HEPARIN SODIUM INJECTION, SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2025-12-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA089522"
+      ],
+      "brand_names": [
+        "Heparin Sodium"
+      ],
+      "combination": false,
+      "home_inn": "heparin",
+      "ingredients": [
+        "HEPARIN SODIUM"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2005-03-31",
+      "moieties": [
+        "HEPARIN"
+      ],
+      "product_ndcs": [
+        "0409-1316"
+      ],
+      "rxcui": [
+        "1361853",
+        "1659260"
+      ],
+      "setid": "c8c4edd2-ee9e-4558-6b8c-b83adc242a0a",
+      "source": "openfda",
+      "spl_version": 24,
+      "title": "HEPARIN SODIUM INJECTION, SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2026-08-26"
+    },
+    {
+      "application_numbers": [
+        "ANDA090571"
+      ],
+      "brand_names": [
+        "Heparin Sodium"
+      ],
+      "combination": false,
+      "home_inn": "heparin",
+      "ingredients": [
+        "HEPARIN SODIUM"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2009-08-31",
+      "moieties": [
+        "HEPARIN"
+      ],
+      "product_ndcs": [
+        "0409-2720",
+        "0409-2721",
+        "0409-2723"
+      ],
+      "rxcui": [
+        "1361226",
+        "1361615",
+        "1658637",
+        "1658659",
+        "1659263"
+      ],
+      "setid": "6c181d7e-aed2-4975-30ac-d39a94cca7ec",
+      "source": "openfda",
+      "spl_version": 25,
+      "title": "HEPARIN SODIUM INJECTION, SOLUTION [HOSPIRA, INC.]",
+      "upload_date": "2026-03-26"
+    },
+    {
+      "application_numbers": [
+        "ANDA090810"
+      ],
+      "brand_names": [
+        "Heparin Sodium"
+      ],
+      "combination": false,
+      "home_inn": "heparin",
+      "ingredients": [
+        "HEPARIN SODIUM"
+      ],
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-07-06",
+      "moieties": [
+        "HEPARIN"
+      ],
+      "product_ndcs": [
+        "25021-401"
+      ],
+      "rxcui": [
+        "1658647"
+      ],
+      "setid": "6d5eae7d-a5f6-411c-b589-3e5f7eecc875",
+      "source": "openfda",
+      "spl_version": 16,
+      "title": "HEPARIN SODIUM INJECTION [SAGENT PHARMACEUTICALS]",
+      "upload_date": "2026-06-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA090808"
+      ],
+      "brand_names": [
+        "Heparin Sodium"
+      ],
+      "combination": false,
+      "home_inn": "heparin",
+      "ingredients": [
+        "HEPARIN SODIUM"
+      ],
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-07-06",
+      "moieties": [
+        "HEPARIN"
+      ],
+      "product_ndcs": [
+        "25021-400",
+        "25021-402",
+        "25021-403"
+      ],
+      "rxcui": [
+        "1361226",
+        "1361615",
+        "1362831"
+      ],
+      "setid": "8ebe4b4d-cb28-47e8-9598-6105d250b3d2",
+      "source": "openfda",
+      "spl_version": 26,
+      "title": "HEPARIN SODIUM INJECTION, SOLUTION [SAGENT PHARMACEUTICALS]",
+      "upload_date": "2026-06-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA090809"
+      ],
+      "brand_names": [
+        "Heparin Sodium"
+      ],
+      "combination": false,
+      "home_inn": "heparin",
+      "ingredients": [
+        "HEPARIN SODIUM"
+      ],
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-07-06",
+      "moieties": [
+        "HEPARIN"
+      ],
+      "product_ndcs": [
+        "25021-404"
+      ],
+      "rxcui": [
+        "1361574"
+      ],
+      "setid": "feec2820-502f-4a97-84c9-f173729c51d3",
+      "source": "openfda",
+      "spl_version": 19,
+      "title": "HEPARIN SODIUM INJECTION [SAGENT PHARMACEUTICALS]",
+      "upload_date": "2026-06-10"
+    },
+    {
+      "application_numbers": [
+        "ANDA091682"
+      ],
+      "brand_names": [
+        "Heparin Sodium"
+      ],
+      "combination": false,
+      "home_inn": "heparin",
+      "ingredients": [
+        "HEPARIN SODIUM"
+      ],
+      "labeler": "Plano Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2011-06-08",
+      "moieties": [
+        "HEPARIN"
+      ],
+      "product_ndcs": [
+        "87188-102"
+      ],
+      "rxcui": [
+        "1361615"
+      ],
+      "setid": "4deaa9ac-91aa-d96b-e063-6294a90a47bd",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "HEPARIN SODIUM INJECTION [PLANO PHARMACEUTICALS INC.]",
+      "upload_date": "2026-03-27"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "cb1c1e7a-c9ca-4a07-8833-e45ce436d287"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "9207cef5-4cec-41e7-a351-29ba726feb44"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "2a173253-dfdc-4d9d-8dee-b9c13e6fa9f5"
+    },
+    {
+      "combination": false,
+      "labeler": "Civica, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "1e362730-5a56-4948-a90f-2cb75fed9e91"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "3facd525-b9ad-46d0-b63e-f13a5f6d591d"
+    },
+    {
+      "combination": false,
+      "labeler": "Phlow Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "cece935c-1c0a-4949-b023-d6df3d53fbfa"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "a120bdfd-21e1-4024-82a7-13cfeed290c1"
+    },
+    {
+      "combination": false,
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "32e34077-aff1-4ec7-f9b0-b8e240768fb8"
+    },
+    {
+      "combination": false,
+      "labeler": "B. Braun Medical Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "8b030692-fc66-4c53-85aa-6f865e635618"
+    },
+    {
+      "combination": false,
+      "labeler": "Sandoz Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1c634e53-44d6-cdcd-e063-6294a90a92e9"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "07438e10-1589-4683-9f26-e5494d076cf0"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "301b19bc-21c2-4a35-9d29-569b08d855c4"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "02fb700d-a28c-4d45-b78d-382dc0d5986c"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "83a59e7d-63e9-4eb8-87f0-52039d6893a5"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7df6c90c-3b55-4bb6-8a72-6e6a6aca4e7c"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ad0f410c-6121-43f9-9844-943472961cb0"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "57f1ec87-8a7d-41da-b8b8-9ecc8601c60f"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "25b0ba06-3274-4a3f-8c39-42d13764ecdf"
+    },
+    {
+      "combination": false,
+      "labeler": "BE Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "295ea9c6-d08c-40f0-a908-de0fdac44644"
+    },
+    {
+      "combination": false,
+      "labeler": "BE Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6be171fb-c85f-4336-a88d-b4d97bb0fe03"
+    },
+    {
+      "combination": false,
+      "labeler": "Northstar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2edf6d35-5cf3-b7ff-e063-6394a90a4f33"
+    },
+    {
+      "combination": false,
+      "labeler": "McKesson Corporation dba SKY Packaging",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7f05762a-7527-4796-b21e-68277aec379e"
+    },
+    {
+      "combination": false,
+      "labeler": "Hepalink USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c4c6bc1f-e0c7-fd0d-e053-2995a90abdef"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ef309d83-7262-4874-8580-f4ca254f963a"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "34b8fe93-ee34-4a35-9af5-5d41705a28e9"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "41dd053d-49f6-4eb1-b9e7-3508ede82df8"
+    },
+    {
+      "combination": false,
+      "labeler": "NorthStar RxLLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c4fa6d34-e76b-4c3c-b74d-21ce41432a04"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand STEGLATRO",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/004315",
+      "eu_number": "EU/1/18/1267",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-004315",
+      "mah": "Merck Sharp & Dohme B.V.",
+      "marketing_authorisation_date": "2018-03-21",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/steglatro",
+      "name": "Steglatro",
+      "record_from": "2018-03-21",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 9
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 2,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-004315",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "ERTUGLIFLOZIN PIDOLATE"
+  ],
+  "inn": "ertugliflozin",
+  "name": "ERTUGLIFLOZIN",
+  "rank": 336,
+  "rxcui": [
+    "1992685",
+    "1992691",
+    "1992693",
+    "1992695",
+    "1992698",
+    "1992700",
+    "1992701",
+    "1992703",
+    "1992810",
+    "1992816",
+    "1992819",
+    "1992821",
+    "1992826",
+    "1992832",
+    "1992835",
+    "1992837"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 3,
+    "approval_holders": 1,
+    "earliest_marketing_start": "2017-12-19",
+    "latest_label_update": "2026-08-28",
+    "nda_bla_applications": 3,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "ERTUGLIFLOZIN PIDOLATE",
+      "unii": "MLU731K321"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA209803"
+      ],
+      "brand_names": [
+        "STEGLATRO"
+      ],
+      "combination": false,
+      "home_inn": "ertugliflozin",
+      "ingredients": [
+        "ERTUGLIFLOZIN PIDOLATE"
+      ],
+      "labeler": "Merck Sharp & Dohme LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-12-19",
+      "moieties": [
+        "ERTUGLIFLOZIN"
+      ],
+      "product_ndcs": [
+        "0006-5363",
+        "0006-5364"
+      ],
+      "rxcui": [
+        "1992810",
+        "1992816",
+        "1992819",
+        "1992821"
+      ],
+      "setid": "e6f3e718-bb99-48f1-ab94-b9f0af05fed6",
+      "source": "openfda",
+      "spl_version": 17,
+      "title": "STEGLATRO (ERTUGLIFLOZIN) TABLET, FILM COATED [MERCK SHARP & DOHME LLC]",
+      "upload_date": "2026-06-23"
+    },
+    {
+      "application_numbers": [
+        "NDA209806"
+      ],
+      "brand_names": [
+        "SEGLUROMET"
+      ],
+      "combination": true,
+      "home_inn": "ertugliflozin",
+      "ingredients": [
+        "ERTUGLIFLOZIN PIDOLATE",
+        "METFORMIN HYDROCHLORIDE"
+      ],
+      "labeler": "Merck Sharp & Dohme LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-12-19",
+      "moieties": [
+        "ERTUGLIFLOZIN",
+        "METFORMIN"
+      ],
+      "product_ndcs": [
+        "0006-5369",
+        "0006-5370",
+        "0006-5373",
+        "0006-5374"
+      ],
+      "rxcui": [
+        "1992685",
+        "1992691",
+        "1992693",
+        "1992695",
+        "1992698",
+        "1992700",
+        "1992701",
+        "1992703"
+      ],
+      "setid": "a6aeb99a-ce49-4125-90ce-642df3f1ebad",
+      "source": "openfda",
+      "spl_version": 20,
+      "title": "SEGLUROMET (ERTUGLIFLOZIN AND METFORMIN HYDROCHLORIDE) TABLET, FILM COATED [MERCK SHARP & DOHME LLC]",
+      "upload_date": "2026-08-28"
+    },
+    {
+      "application_numbers": [
+        "NDA209805"
+      ],
+      "brand_names": [
+        "STEGLUJAN"
+      ],
+      "combination": true,
+      "home_inn": "sitagliptin",
+      "ingredients": [
+        "ERTUGLIFLOZIN PIDOLATE",
+        "SITAGLIPTIN PHOSPHATE"
+      ],
+      "labeler": "Merck Sharp & Dohme LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2017-12-19",
+      "moieties": [
+        "ERTUGLIFLOZIN",
+        "SITAGLIPTIN"
+      ],
+      "product_ndcs": [
+        "0006-5367",
+        "0006-5368"
+      ],
+      "rxcui": [
+        "1992826",
+        "1992832",
+        "1992835",
+        "1992837"
+      ],
+      "setid": "c2c553d8-5a9d-4366-bf53-8bdb5a876d19",
+      "source": "openfda",
+      "spl_version": 24,
+      "title": "STEGLUJAN (ERTUGLIFLOZIN AND SITAGLIPTIN) TABLET, FILM COATED [MERCK SHARP & DOHME LLC]",
+      "upload_date": "2026-06-23"
+    }
+  ],
+  "us_excluded": []
+}

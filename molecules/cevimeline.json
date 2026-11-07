@@ -1,0 +1,458 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "CEVIMELINE HYDROCHLORIDE"
+  ],
+  "inn": "cevimeline",
+  "name": "CEVIMELINE",
+  "rank": 493,
+  "rxcui": [
+    "261361",
+    "309140"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 14,
+    "approval_holders": 12,
+    "earliest_marketing_start": "2013-07-08",
+    "latest_label_update": "2026-10-06",
+    "nda_bla_applications": 1,
+    "repackagers": 3
+  },
+  "unii": [
+    {
+      "ingredient": "CEVIMELINE HYDROCHLORIDE",
+      "unii": "P81Q6V85NP"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020989"
+      ],
+      "brand_names": [
+        "Cevimeline"
+      ],
+      "combination": false,
+      "home_inn": "cevimeline",
+      "ingredients": [
+        "CEVIMELINE HYDROCHLORIDE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2016-03-10",
+      "moieties": [
+        "CEVIMELINE"
+      ],
+      "product_ndcs": [
+        "63304-479"
+      ],
+      "rxcui": [
+        "309140"
+      ],
+      "setid": "773a19e8-4c3e-4414-99a6-aea98c9790ee",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "CEVIMELINE CAPSULE [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2022-07-21"
+    },
+    {
+      "application_numbers": [
+        "NDA020989"
+      ],
+      "brand_names": [
+        "Evoxac"
+      ],
+      "combination": false,
+      "home_inn": "cevimeline",
+      "ingredients": [
+        "CEVIMELINE HYDROCHLORIDE"
+      ],
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-09-01",
+      "moieties": [
+        "CEVIMELINE"
+      ],
+      "product_ndcs": [
+        "0713-0883"
+      ],
+      "rxcui": [
+        "261361",
+        "309140"
+      ],
+      "setid": "dac32a9b-05b8-42c2-9a29-d885a9279456",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "EVOXAC (CEVIMELINE HYDROCHLORIDE) CAPSULE [COSETTE PHARMACEUTICALS, INC.]",
+      "upload_date": "2022-09-09"
+    },
+    {
+      "application_numbers": [
+        "NDA020989"
+      ],
+      "brand_names": [
+        "cevimeline hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "cevimeline",
+      "ingredients": [
+        "CEVIMELINE HYDROCHLORIDE"
+      ],
+      "labeler": "Cosette Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2023-01-03",
+      "moieties": [
+        "CEVIMELINE"
+      ],
+      "product_ndcs": [
+        "0713-0937"
+      ],
+      "rxcui": [
+        "309140"
+      ],
+      "setid": "efc2bb24-4dda-4781-bef5-fcd9abf082dd",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "CEVIMELINE HYDROCHLORIDE CAPSULE [COSETTE PHARMACEUTICALS, INC.]",
+      "upload_date": "2023-01-06"
+    },
+    {
+      "application_numbers": [
+        "ANDA091591"
+      ],
+      "brand_names": [
+        "Cevimeline Hydrochloride",
+        "cevimeline hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "cevimeline",
+      "ingredients": [
+        "CEVIMELINE HYDROCHLORIDE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-07-08",
+      "moieties": [
+        "CEVIMELINE"
+      ],
+      "product_ndcs": [
+        "0054-0334",
+        "0054-0893"
+      ],
+      "rxcui": [
+        "309140"
+      ],
+      "setid": "1167360c-7e0f-4619-9d1a-ad4ee56cab71",
+      "source": "dailymed-title-match",
+      "spl_version": 7,
+      "title": "CEVIMELINE HYDROCHLORIDE CAPSULE [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2024-09-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA203775"
+      ],
+      "brand_names": [
+        "Cevimeline Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "cevimeline",
+      "ingredients": [
+        "CEVIMELINE HYDROCHLORIDE"
+      ],
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2014-06-17",
+      "moieties": [
+        "CEVIMELINE"
+      ],
+      "product_ndcs": [
+        "16571-657"
+      ],
+      "rxcui": [
+        "309140"
+      ],
+      "setid": "d4bd942a-1339-40c5-8fd4-850da5a69635",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "CEVIMELINE HYDROCHLORIDE CAPSULE [RISING PHARMA HOLDINGS, INC.]",
+      "upload_date": "2024-08-09"
+    },
+    {
+      "application_numbers": [
+        "ANDA204746"
+      ],
+      "brand_names": [
+        "cevimeline hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "cevimeline",
+      "ingredients": [
+        "CEVIMELINE HYDROCHLORIDE"
+      ],
+      "labeler": "Lupin Pharmaceuticals,Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2016-12-30",
+      "moieties": [
+        "CEVIMELINE"
+      ],
+      "product_ndcs": [
+        "43386-999"
+      ],
+      "rxcui": [
+        "309140"
+      ],
+      "setid": "0fbcf1a7-5b8b-42fb-b764-4b529e7d1a99",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "CEVIMELINE HYDROCHLORIDE CAPSULE [LUPIN PHARMACEUTICALS,INC.]",
+      "upload_date": "2024-02-01"
+    },
+    {
+      "application_numbers": [
+        "ANDA216682"
+      ],
+      "brand_names": [
+        "CEVIMELINE HYDROCHLORIDE"
+      ],
+      "combination": false,
+      "home_inn": "cevimeline",
+      "ingredients": [
+        "CEVIMELINE HYDROCHLORIDE"
+      ],
+      "labeler": "Advagen Pharma Ltd",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-04-06",
+      "moieties": [
+        "CEVIMELINE"
+      ],
+      "product_ndcs": [
+        "72888-118"
+      ],
+      "rxcui": [
+        "309140"
+      ],
+      "setid": "61dd5ee1-cf89-43ea-ada4-4e4a4d9d133b",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "CEVIMELINE HYDROCHLORIDE CAPSULE [ADVAGEN PHARMA LTD]",
+      "upload_date": "2026-01-01"
+    },
+    {
+      "application_numbers": [
+        "ANDA215056"
+      ],
+      "brand_names": [
+        "Cevimeline Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "cevimeline",
+      "ingredients": [
+        "CEVIMELINE HYDROCHLORIDE"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2023-04-18",
+      "moieties": [
+        "CEVIMELINE"
+      ],
+      "product_ndcs": [
+        "59651-422"
+      ],
+      "rxcui": [
+        "309140"
+      ],
+      "setid": "d08d8aa5-76a4-417a-a308-7d195865522f",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "CEVIMELINE HYDROCHLORIDE CAPSULE [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2023-04-25"
+    },
+    {
+      "application_numbers": [
+        "ANDA218290"
+      ],
+      "brand_names": [
+        "CEVIMELINE"
+      ],
+      "combination": false,
+      "home_inn": "cevimeline",
+      "ingredients": [
+        "CEVIMELINE HYDROCHLORIDE"
+      ],
+      "labeler": "Bionpharma Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2024-01-17",
+      "moieties": [
+        "CEVIMELINE"
+      ],
+      "product_ndcs": [
+        "69452-316"
+      ],
+      "rxcui": [
+        "309140"
+      ],
+      "setid": "0f15cb50-5917-c928-e063-6294a90ab284",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "CEVIMELINE (CEVIMELINE HYDROCHLORIDE) CAPSULE [BIONPHARMA INC]",
+      "upload_date": "2024-02-19"
+    },
+    {
+      "application_numbers": [
+        "NDA020989"
+      ],
+      "archived_versions": 14,
+      "brand_names": [
+        "EVOXAC"
+      ],
+      "first_posted": "2008-03-13",
+      "found_by": "EVOXAC",
+      "labeler": "Daiichi Sankyo, Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2022-06-14",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-08-31"
+      ],
+      "product_ndcs": [
+        "63395-201"
+      ],
+      "rxcui": [],
+      "setid": "0679dd4c-fece-4c6d-b273-2c62237e8973",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "773a19e8-4c3e-4414-99a6-aea98c9790ee",
+        "dac32a9b-05b8-42c2-9a29-d885a9279456",
+        "efc2bb24-4dda-4781-bef5-fcd9abf082dd"
+      ],
+      "title": "EVOXAC (cevimeline hydrochloride) capsule"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "EVOXAC"
+      ],
+      "first_posted": "2006-10-27",
+      "found_by": "EVOXAC",
+      "labeler": "Daiichi Pharmaceutical Corporation",
+      "labeler_unverified": true,
+      "last_posted": "2006-10-27",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "63395-201"
+      ],
+      "rxcui": [],
+      "setid": "c9ee6be8-ed13-4d16-8f42-029cd3970b5c",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "evoxac (cevimeline hydrochloride) capsule"
+    },
+    {
+      "application_numbers": [],
+      "archived_versions": 1,
+      "brand_names": [
+        "EVOXAC"
+      ],
+      "first_posted": "2007-02-09",
+      "found_by": "EVOXAC",
+      "labeler": "Daiichi Pharmaceutical Corporation",
+      "labeler_unverified": true,
+      "last_posted": "2007-02-09",
+      "marketing_categories": [],
+      "marketing_end_dates": [],
+      "product_ndcs": [
+        "63395-201"
+      ],
+      "rxcui": [],
+      "setid": "l0679dd4c-fece-4c6d-b273-2c62237e8973",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "evoxac (cevimeline hydrochloride) capsule"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "990887c1-11ce-4a73-83b4-0ffc5a900c85"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "1a29e9ab-edb0-4ae8-8f20-f43d122d2b43"
+    },
+    {
+      "combination": false,
+      "labeler": "Novel Laboratories, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d7432a48-1142-431e-997f-8419dc724824"
+    },
+    {
+      "combination": false,
+      "labeler": "Viona Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ca0409bc-2685-4ffd-b806-04898902a597"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8da082f8-a6a3-46b3-8405-fbc4c220e60b"
+    }
+  ]
+}

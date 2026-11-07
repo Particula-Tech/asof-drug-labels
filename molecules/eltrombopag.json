@@ -1,0 +1,506 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches no US NDA/BLA brand of the molecule; check the indication and form",
+      "comparable_to_us": "unknown",
+      "ema_product_number": "EMEA/H/C/001110",
+      "eu_number": "EU/1/10/612",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-001110",
+      "mah": "Novartis Europharm Limited",
+      "marketing_authorisation_date": "2010-03-11",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/revolade",
+      "name": "Revolade",
+      "record_from": "2010-03-11",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 22
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/006417",
+      "eu_number": "EU/1/24/1869",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-006417",
+      "mah": "Viatris Limited",
+      "marketing_authorisation_date": "2024-12-12",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/eltrombopag-viatris",
+      "name": "Eltrombopag Viatris",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/006459",
+      "eu_number": "EU/1/24/1903",
+      "generic": true,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-006459",
+      "mah": "Accord Healthcare S.L.U.",
+      "marketing_authorisation_date": "2025-03-28",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/eltrombopag-accord",
+      "name": "Eltrombopag Accord",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-001110",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "ELTROMBOPAG OLAMINE"
+  ],
+  "inn": "eltrombopag",
+  "name": "ELTROMBOPAG",
+  "rank": 448,
+  "rxcui": [
+    "825421",
+    "825425",
+    "825427",
+    "825429",
+    "884617",
+    "884619",
+    "1245001",
+    "1245003",
+    "1859498",
+    "1859501",
+    "2058980",
+    "2058981"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 16,
+    "approval_holders": 13,
+    "earliest_marketing_start": "2016-04-01",
+    "latest_label_update": "2026-10-16",
+    "nda_bla_applications": 2,
+    "repackagers": 2
+  },
+  "unii": [
+    {
+      "ingredient": "ELTROMBOPAG OLAMINE",
+      "unii": "4U07F515LG"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA022291",
+        "NDA207027"
+      ],
+      "brand_names": [
+        "PROMACTA"
+      ],
+      "combination": false,
+      "home_inn": "eltrombopag",
+      "ingredients": [
+        "ELTROMBOPAG OLAMINE"
+      ],
+      "labeler": "Novartis Pharmaceuticals Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2016-04-01",
+      "moieties": [
+        "ELTROMBOPAG"
+      ],
+      "product_ndcs": [
+        "0078-0684",
+        "0078-0685",
+        "0078-0686",
+        "0078-0687",
+        "0078-0697",
+        "0078-0972"
+      ],
+      "rxcui": [
+        "825421",
+        "825425",
+        "825427",
+        "825429",
+        "884617",
+        "884619",
+        "1245001",
+        "1245003",
+        "1859498",
+        "1859501",
+        "2058980",
+        "2058981"
+      ],
+      "setid": "7714a0ed-34bb-46e6-a0a5-b363908b22c2",
+      "source": "openfda",
+      "spl_version": 31,
+      "title": "PROMACTA (ELTROMBOPAG OLAMINE) TABLET, FILM COATED PROMACTA (ELTROMBOPAG OLAMINE) POWDER, FOR SUSPENSION [NOVARTIS PHARMACEUTICALS CORPORATION]",
+      "upload_date": "2025-12-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA216620"
+      ],
+      "brand_names": [
+        "Eltrombopag"
+      ],
+      "combination": false,
+      "home_inn": "eltrombopag",
+      "ingredients": [
+        "ELTROMBOPAG OLAMINE"
+      ],
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-05-13",
+      "moieties": [
+        "ELTROMBOPAG"
+      ],
+      "product_ndcs": [
+        "31722-300",
+        "31722-301"
+      ],
+      "rxcui": [
+        "1859498",
+        "2058980"
+      ],
+      "setid": "8f6499f0-4774-4f1e-8ab5-145c1fe64401",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "ELTROMBOPAG (ELTROMBOPAG OLAMINE) POWDER, FOR SUSPENSION [CAMBER PHARMACEUTICALS, INC.]",
+      "upload_date": "2025-05-14"
+    },
+    {
+      "application_numbers": [
+        "ANDA206788"
+      ],
+      "brand_names": [
+        "ELTROMBOPAG"
+      ],
+      "combination": false,
+      "home_inn": "eltrombopag",
+      "ingredients": [
+        "ELTROMBOPAG OLAMINE"
+      ],
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2025-05-13",
+      "moieties": [
+        "ELTROMBOPAG"
+      ],
+      "product_ndcs": [
+        "31722-841",
+        "31722-842",
+        "31722-843",
+        "31722-844"
+      ],
+      "rxcui": [
+        "825421",
+        "825427",
+        "884617",
+        "1245001"
+      ],
+      "setid": "e913cd11-f5fb-4ebe-81c7-0c5626b52cfd",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "ELTROMBOPAG (ELTROMBOPAG) TABLET, FILM COATED [CAMBER PHARMACEUTICALS, INC.]",
+      "upload_date": "2026-06-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA216281"
+      ],
+      "brand_names": [
+        "ELTROMBOPAG"
+      ],
+      "combination": false,
+      "home_inn": "eltrombopag",
+      "ingredients": [
+        "ELTROMBOPAG OLAMINE"
+      ],
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-01-14",
+      "moieties": [
+        "ELTROMBOPAG"
+      ],
+      "product_ndcs": [
+        "70710-1395",
+        "70710-1396",
+        "70710-1397",
+        "70710-1398"
+      ],
+      "rxcui": [
+        "825421",
+        "825427",
+        "884617",
+        "1245001"
+      ],
+      "setid": "1cfdd1fa-d687-41f9-a160-9491f0beac1e",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "ELTROMBOPAG TABLET [ZYDUS PHARMACEUTICALS USA INC.]",
+      "upload_date": "2026-01-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA220250"
+      ],
+      "brand_names": [
+        "eltrombopag"
+      ],
+      "combination": false,
+      "home_inn": "eltrombopag",
+      "ingredients": [
+        "ELTROMBOPAG OLAMINE"
+      ],
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-01-14",
+      "moieties": [
+        "ELTROMBOPAG"
+      ],
+      "product_ndcs": [
+        "72205-156",
+        "72205-157",
+        "72205-158",
+        "72205-159"
+      ],
+      "rxcui": [
+        "825421",
+        "825427",
+        "884617",
+        "1245001"
+      ],
+      "setid": "5a9ec8c8-3c0b-4f11-848c-c04ccee0d44f",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "ELTROMBOPAG (ELTROMBOPAG OLAMINE) TABLET, FILM COATED [NOVADOZ PHARMACEUTICALS LLC]",
+      "upload_date": "2026-01-19"
+    },
+    {
+      "application_numbers": [
+        "ANDA219638"
+      ],
+      "brand_names": [
+        "Eltrombopag olamine"
+      ],
+      "combination": false,
+      "home_inn": "eltrombopag",
+      "ingredients": [
+        "ELTROMBOPAG OLAMINE"
+      ],
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-01-14",
+      "moieties": [
+        "ELTROMBOPAG"
+      ],
+      "product_ndcs": [
+        "70069-837",
+        "70069-838",
+        "70069-839",
+        "70069-840"
+      ],
+      "rxcui": [
+        "825421",
+        "825427",
+        "884617",
+        "1245001"
+      ],
+      "setid": "604f663c-4933-402a-8105-5921713cf3c8",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "ELTROMBOPAG OLAMINE TABLET, FILM COATED [SOMERSET THERAPEUTICS, LLC]",
+      "upload_date": "2026-01-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA212884"
+      ],
+      "brand_names": [
+        "Eltrombopag Olamine"
+      ],
+      "combination": false,
+      "home_inn": "eltrombopag",
+      "ingredients": [
+        "ELTROMBOPAG OLAMINE"
+      ],
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-01-15",
+      "moieties": [
+        "ELTROMBOPAG"
+      ],
+      "product_ndcs": [
+        "60219-1414",
+        "60219-1415",
+        "60219-1416",
+        "60219-1417"
+      ],
+      "rxcui": [
+        "825421",
+        "825427",
+        "884617",
+        "1245001"
+      ],
+      "setid": "05acf38e-7870-4809-a045-fc38e66b1110",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "ELTROMBOPAG OLAMINE (ELTROMBOPAG) TABLET, FILM COATED [AMNEAL PHARMACEUTICALS NY LLC]",
+      "upload_date": "2026-01-21"
+    },
+    {
+      "application_numbers": [
+        "NDA022291"
+      ],
+      "archived_versions": 19,
+      "brand_names": [
+        "PROMACTA"
+      ],
+      "first_posted": "2008-12-11",
+      "found_by": "PROMACTA",
+      "labeler": "GlaxoSmithKline LLC",
+      "labeler_unverified": true,
+      "last_posted": "2016-11-29",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2016-11-28",
+        "2019-03-31",
+        "2019-04-30"
+      ],
+      "product_ndcs": [
+        "0007-4515",
+        "0007-4640",
+        "0007-4641",
+        "0007-4642",
+        "0007-4643",
+        "0007-4646"
+      ],
+      "rxcui": [],
+      "setid": "616224ff-a925-4b38-9ca2-00fbf669380f",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "7714a0ed-34bb-46e6-a0a5-b363908b22c2"
+      ],
+      "title": "PROMACTA (eltrombopag olamine) tablet, film coated PROMACTA (eltrombopag olamine) powder, for suspension"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Dr. Reddy's Laboratories Inc.,",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e5fd3114-56b8-3ae3-fb03-9820a26ca4c6"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "20e91f76-06a8-4ab7-86c7-1df29850b5bd"
+    },
+    {
+      "combination": false,
+      "labeler": "Biocon Pharma Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "074dbfa7-eadb-e722-0a7a-86a97882f031"
+    },
+    {
+      "combination": false,
+      "labeler": "Teva Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "42ad8f58-bd6c-4f0e-9017-f2da2893fcae"
+    },
+    {
+      "combination": false,
+      "labeler": "XLCare Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9af1e314-91ca-4ebc-ac12-f9fddc6d7902"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ae9a7725-64f8-406d-88e7-e6e01136deae"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals NY LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c97337c3-d758-40a3-a1ef-fd122f15e821"
+    },
+    {
+      "combination": false,
+      "labeler": "Teva Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8d0a0182-aa5e-436b-ad85-dbd82f4020b7"
+    },
+    {
+      "combination": false,
+      "labeler": "Quallent Pharmaceuticals Health LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9760d6fb-9e64-40c0-9f66-d9b92b89e762"
+    }
+  ]
+}

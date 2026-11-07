@@ -1,0 +1,627 @@
+{
+  "biologic": true,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand LANTUS",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/000284",
+      "eu_number": "EU/1/00/134",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-000284",
+      "mah": "sanofi-aventis Deutschland GmbH",
+      "marketing_authorisation_date": "2000-06-09",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/lantus",
+      "name": "Lantus",
+      "record_from": "2000-06-09",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 37
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/000309",
+      "eu_number": "EU/1/00/133",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-000309",
+      "mah": "Sanofi-aventis Deutschland GmbH",
+      "marketing_authorisation_date": "2000-06-26",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/toujeo",
+      "name": "Toujeo (previously Optisulin)",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": true,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/002835",
+      "eu_number": "EU/1/14/944",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-002835",
+      "mah": "Eli Lilly Nederland B.V.",
+      "marketing_authorisation_date": "2014-09-09",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/abasaglar",
+      "name": "Abasaglar (previously Abasria)",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": true,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/004280",
+      "eu_number": "EU/1/18/1270",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-004280",
+      "mah": "Biosimilar Collaborations Ireland Limited",
+      "marketing_authorisation_date": "2018-03-23",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/semglee",
+      "name": "Semglee",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    },
+    {
+      "biosimilar": true,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/006136",
+      "eu_number": "EU/1/25/2000",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-006136",
+      "mah": "Sandoz GmbH",
+      "marketing_authorisation_date": "2026-01-09",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ondibta",
+      "name": "Ondibta",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 1,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-000284",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "INSULIN GLARGINE"
+  ],
+  "inn": "insulin-glargine",
+  "name": "INSULIN GLARGINE",
+  "rank": 54,
+  "rxcui": [
+    "285018",
+    "311041",
+    "847230",
+    "847232",
+    "1604539",
+    "1604544",
+    "1736863",
+    "1858995",
+    "1859000",
+    "2002419",
+    "2002420",
+    "2268064",
+    "2268065",
+    "2563971",
+    "2563973",
+    "2563976",
+    "2563977",
+    "2589008",
+    "2589014",
+    "2746568",
+    "2746571"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 12,
+    "approval_holders": 5,
+    "earliest_marketing_start": "2009-09-23",
+    "latest_label_update": "2026-10-20",
+    "nda_bla_applications": 7,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "INSULIN GLARGINE",
+      "unii": "2ZM8CX04RZ"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "BLA021081"
+      ],
+      "brand_names": [
+        "Lantus",
+        "Lantus Solostar"
+      ],
+      "combination": false,
+      "home_inn": "insulin-glargine",
+      "ingredients": [
+        "INSULIN GLARGINE"
+      ],
+      "labeler": "sanofi-aventis U.S. LLC",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2009-09-23",
+      "moieties": [
+        "INSULIN GLARGINE"
+      ],
+      "product_ndcs": [
+        "0088-2219",
+        "0088-2220"
+      ],
+      "rxcui": [
+        "285018",
+        "311041",
+        "847230",
+        "847232"
+      ],
+      "setid": "d5e07a0c-7e14-4756-9152-9fea485d654a",
+      "source": "openfda",
+      "spl_version": 35,
+      "title": "LANTUS (INSULIN GLARGINE) INJECTION, SOLUTION LANTUS SOLOSTAR (INSULIN GLARGINE) INJECTION, SOLUTION [SANOFI-AVENTIS U.S. LLC]",
+      "upload_date": "2025-07-02"
+    },
+    {
+      "application_numbers": [
+        "BLA206538"
+      ],
+      "brand_names": [
+        "TOUJEO",
+        "TOUJEO Max"
+      ],
+      "combination": false,
+      "home_inn": "insulin-glargine",
+      "ingredients": [
+        "INSULIN GLARGINE"
+      ],
+      "labeler": "Sanofi-Aventis U.S. LLC",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2015-02-15",
+      "moieties": [
+        "INSULIN GLARGINE"
+      ],
+      "product_ndcs": [
+        "0024-5869",
+        "0024-5871"
+      ],
+      "rxcui": [
+        "1604539",
+        "1604544",
+        "2002419",
+        "2002420"
+      ],
+      "setid": "c9561d96-124d-48ca-982f-0aa1575bff36",
+      "source": "openfda",
+      "spl_version": 25,
+      "title": "TOUJEO (INSULIN GLARGINE) INJECTION, SOLUTION TOUJEO MAX (INSULIN GLARGINE) INJECTION, SOLUTION [SANOFI-AVENTIS U.S. LLC]",
+      "upload_date": "2025-06-12"
+    },
+    {
+      "application_numbers": [
+        "BLA205692"
+      ],
+      "brand_names": [
+        "BASAGLAR KwikPen"
+      ],
+      "combination": false,
+      "home_inn": "insulin-glargine",
+      "ingredients": [
+        "INSULIN GLARGINE"
+      ],
+      "labeler": "Eli Lilly and Company",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2015-12-16",
+      "moieties": [
+        "INSULIN GLARGINE"
+      ],
+      "product_ndcs": [
+        "0002-7715"
+      ],
+      "rxcui": [
+        "847230",
+        "1736863",
+        "2268064",
+        "2268065"
+      ],
+      "setid": "0ad21db3-2b1c-4ed9-a687-bdd6a74d0aae",
+      "source": "openfda",
+      "spl_version": 35,
+      "title": "BASAGLAR KWIKPEN (INSULIN GLARGINE) INJECTION, SOLUTION BASAGLAR TEMPO PEN (INSULIN GLARGINE) INJECTION, SOLUTION [ELI LILLY AND COMPANY]",
+      "upload_date": "2026-08-10"
+    },
+    {
+      "application_numbers": [
+        "BLA761215"
+      ],
+      "brand_names": [
+        "Rezvoglar KwikPen"
+      ],
+      "combination": false,
+      "home_inn": "insulin-glargine",
+      "ingredients": [
+        "INSULIN GLARGINE"
+      ],
+      "labeler": "Eli Lilly and Company",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2021-12-17",
+      "moieties": [
+        "INSULIN GLARGINE"
+      ],
+      "product_ndcs": [
+        "0002-8980"
+      ],
+      "rxcui": [
+        "2589008",
+        "2589014"
+      ],
+      "setid": "f6af8706-2058-4fe1-99c8-43684c20bfa2",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "REZVOGLAR KWIKPEN (INSULIN GLARGINE-AGLR) INJECTION, SOLUTION [ELI LILLY AND COMPANY]",
+      "upload_date": "2024-08-19"
+    },
+    {
+      "application_numbers": [
+        "BLA761201"
+      ],
+      "brand_names": [
+        "Insulin Glargine"
+      ],
+      "combination": false,
+      "home_inn": "insulin-glargine",
+      "ingredients": [
+        "INSULIN GLARGINE"
+      ],
+      "labeler": "Biocon Biologics Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2023-07-28",
+      "moieties": [
+        "INSULIN GLARGINE"
+      ],
+      "product_ndcs": [
+        "83257-014",
+        "83257-015"
+      ],
+      "rxcui": [
+        "2563971",
+        "2563976"
+      ],
+      "setid": "3ac85ebb-5594-59c8-77fd-df254329d151",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "INSULIN GLARGINE (INSULIN GLARGINE-YFGN) INJECTION, SOLUTION [BIOCON BIOLOGICS INC.]",
+      "upload_date": "2026-08-17"
+    },
+    {
+      "application_numbers": [
+        "BLA761412"
+      ],
+      "brand_names": [
+        "LANGLARA"
+      ],
+      "combination": false,
+      "home_inn": "insulin-glargine",
+      "ingredients": [
+        "INSULIN GLARGINE"
+      ],
+      "labeler": "Lanexa Biologics, LLC",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2026-07-01",
+      "moieties": [
+        "INSULIN GLARGINE"
+      ],
+      "product_ndcs": [
+        "87682-090"
+      ],
+      "rxcui": [
+        "2746568",
+        "2746571"
+      ],
+      "setid": "5328761e-59d3-ca7a-e063-6394a90ae810",
+      "source": "dailymed-title-match",
+      "spl_version": 7,
+      "title": "LANGLARA (INSULIN GLARGINE-ALDY) INJECTION, SOLUTION [LANEXA BIOLOGICS, LLC]",
+      "upload_date": "2026-10-19"
+    },
+    {
+      "application_numbers": [
+        "BLA208673"
+      ],
+      "brand_names": [
+        "Soliqua 100/33"
+      ],
+      "combination": true,
+      "home_inn": "insulin-glargine",
+      "ingredients": [
+        "INSULIN GLARGINE",
+        "LIXISENATIDE"
+      ],
+      "labeler": "Sanofi-Aventis U.S. LLC",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2016-11-21",
+      "moieties": [
+        "INSULIN GLARGINE",
+        "LIXISENATIDE"
+      ],
+      "product_ndcs": [
+        "0024-5761"
+      ],
+      "rxcui": [
+        "1858995",
+        "1859000"
+      ],
+      "setid": "4bba538b-cf7c-4310-ae8f-cb711ed21bcc",
+      "source": "openfda",
+      "spl_version": 25,
+      "title": "SOLIQUA 100/33 (INSULIN GLARGINE AND LIXISENATIDE) INJECTION, SOLUTION [SANOFI-AVENTIS U.S. LLC]",
+      "upload_date": "2026-03-20"
+    },
+    {
+      "application_numbers": [
+        "BLA206538"
+      ],
+      "brand_names": [
+        "Insulin glargine U-300",
+        "Insulin glargine U-300 Max"
+      ],
+      "combination": false,
+      "home_inn": "insulin-glargine",
+      "ingredients": [
+        "INSULIN GLARGINE"
+      ],
+      "labeler": "Sanofi-Aventis U.S. LLC",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2023-04-01",
+      "moieties": [
+        "INSULIN GLARGINE"
+      ],
+      "product_ndcs": [
+        "0955-2900",
+        "0955-3900"
+      ],
+      "rxcui": [
+        "1604539",
+        "2002419"
+      ],
+      "setid": "99ea856d-9562-443a-9422-1006a3cff2f4",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "INSULIN GLARGINE U-300 (INSULIN GLARGINE) INJECTION, SOLUTION INSULIN GLARGINE U-300 MAX (INSULIN GLARGINE) INJECTION, SOLUTION [SANOFI-AVENTIS U.S. LLC]",
+      "upload_date": "2025-07-02"
+    },
+    {
+      "application_numbers": [
+        "BLA761201"
+      ],
+      "brand_names": [
+        "SEMGLEE"
+      ],
+      "combination": false,
+      "home_inn": "insulin-glargine",
+      "ingredients": [
+        "INSULIN GLARGINE"
+      ],
+      "labeler": "Biocon Biologics Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2023-07-28",
+      "moieties": [
+        "INSULIN GLARGINE"
+      ],
+      "product_ndcs": [
+        "83257-011",
+        "83257-012"
+      ],
+      "rxcui": [
+        "2563971",
+        "2563973",
+        "2563976",
+        "2563977"
+      ],
+      "setid": "8cf5544f-87d6-468b-f6ae-898b1fdb5d80",
+      "source": "openfda",
+      "spl_version": 14,
+      "title": "SEMGLEE (INSULIN GLARGINE-YFGN) INJECTION, SOLUTION [BIOCON BIOLOGICS INC.]",
+      "upload_date": "2026-04-17"
+    },
+    {
+      "application_numbers": [
+        "BLA761201"
+      ],
+      "brand_names": [
+        "INSULIN GLARGINE"
+      ],
+      "combination": false,
+      "home_inn": "insulin-glargine",
+      "ingredients": [
+        "INSULIN GLARGINE"
+      ],
+      "labeler": "Civica, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_start": "2025-10-30",
+      "moieties": [
+        "INSULIN GLARGINE"
+      ],
+      "product_ndcs": [
+        "72572-424"
+      ],
+      "rxcui": [
+        "2563971"
+      ],
+      "setid": "216f2167-c201-76fe-81ed-0d51fe53832f",
+      "source": "openfda",
+      "spl_version": 1,
+      "title": "INSULIN GLARGINE (INSULIN GLARGINE-YFGN) INJECTION, SOLUTION [CIVICA, INC. ]",
+      "upload_date": "2025-11-17"
+    },
+    {
+      "application_numbers": [
+        "BLA021081"
+      ],
+      "archived_versions": 15,
+      "brand_names": [
+        "LANTUS"
+      ],
+      "first_posted": "2017-06-05",
+      "found_by": "LANTUS",
+      "labeler": "sanofi-aventis U.S. LLC",
+      "labeler_unverified": false,
+      "last_posted": "2026-01-12",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_end_dates": [
+        "2023-11-30",
+        "2024-07-31"
+      ],
+      "product_ndcs": [
+        "0088-5020",
+        "0088-5021"
+      ],
+      "rxcui": [],
+      "setid": "6328c99d-d75f-43ef-b19e-7e71f91e57f6",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "d5e07a0c-7e14-4756-9152-9fea485d654a"
+      ],
+      "title": "LANTUS (insulin glargine) injection, solution LANTUS SOLOSTAR (insulin glargine) injection, solution"
+    },
+    {
+      "application_numbers": [
+        "BLA761201"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "SEMGLEE"
+      ],
+      "first_posted": "2021-09-28",
+      "found_by": "SEMGLEE",
+      "labeler": "Viatris Specialty LLC",
+      "labeler_unverified": false,
+      "last_posted": "2025-02-13",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_end_dates": [
+        "2024-07-31",
+        "2024-11-30"
+      ],
+      "product_ndcs": [
+        "49502-250",
+        "49502-251"
+      ],
+      "rxcui": [],
+      "setid": "84082072-bfab-4c3f-95f7-3fb3b443bfb2",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "216f2167-c201-76fe-81ed-0d51fe53832f",
+        "3ac85ebb-5594-59c8-77fd-df254329d151",
+        "8cf5544f-87d6-468b-f6ae-898b1fdb5d80"
+      ],
+      "title": "SEMGLEE (insulin glargine-yfgn) injection, solution"
+    },
+    {
+      "application_numbers": [
+        "BLA210605"
+      ],
+      "archived_versions": 4,
+      "brand_names": [
+        "SEMGLEE"
+      ],
+      "first_posted": "2020-06-30",
+      "found_by": "SEMGLEE",
+      "labeler": "Mylan Specialty L.P.",
+      "labeler_unverified": false,
+      "last_posted": "2022-09-28",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "marketing_end_dates": [
+        "2022-07-31",
+        "2022-08-31"
+      ],
+      "product_ndcs": [
+        "49502-195",
+        "49502-196"
+      ],
+      "rxcui": [],
+      "setid": "970259e5-179a-4116-9d09-f3f8ad052283",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "SEMGLEE (insulin glargine) injection, solution"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Civica, Inc.",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "72cfe377-52f6-0348-fc71-5d4ac1992ffb"
+    },
+    {
+      "combination": false,
+      "labeler": "Lanexa Biologics, LLC",
+      "marketing_categories": [
+        "BLA"
+      ],
+      "reason": "over cap of 10 NDA/BLA setids",
+      "setid": "536a4b0a-4b7c-2d23-e063-6294a90a7b7c"
+    }
+  ]
+}

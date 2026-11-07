@@ -1,0 +1,589 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand XELJANZ",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/004214",
+      "eu_number": "EU/1/17/1178",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-004214",
+      "mah": "Pfizer Europe MA EEIG",
+      "marketing_authorisation_date": "2017-03-22",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/xeljanz",
+      "name": "Xeljanz",
+      "record_from": "2017-03-22",
+      "record_to": "2026-11-01",
+      "role": "reference",
+      "versions": 17
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-004214",
+    "reference_selected_by": "exact-inn",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "TOFACITINIB",
+    "TOFACITINIB CITRATE"
+  ],
+  "inn": "tofacitinib",
+  "name": "TOFACITINIB",
+  "rank": 141,
+  "rxcui": [
+    "1357541",
+    "1357547",
+    "1741046",
+    "1741049",
+    "2048566",
+    "2048568",
+    "2273113",
+    "2273115",
+    "2478433",
+    "2478437"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 32,
+    "approval_holders": 27,
+    "earliest_marketing_start": "2012-11-08",
+    "latest_label_update": "2026-10-28",
+    "nda_bla_applications": 3,
+    "repackagers": 2
+  },
+  "unii": [
+    {
+      "ingredient": "TOFACITINIB",
+      "unii": "87LA6FU830"
+    },
+    {
+      "ingredient": "TOFACITINIB CITRATE",
+      "unii": "O1FF4DIV0D"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA203214",
+        "NDA208246",
+        "NDA213082"
+      ],
+      "brand_names": [
+        "XELJANZ",
+        "XELJANZ XR"
+      ],
+      "combination": false,
+      "home_inn": "tofacitinib",
+      "ingredients": [
+        "TOFACITINIB CITRATE"
+      ],
+      "labeler": "U.S. Pharmaceuticals",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2012-11-08",
+      "moieties": [
+        "TOFACITINIB"
+      ],
+      "product_ndcs": [
+        "63539-012",
+        "63539-016",
+        "63539-029",
+        "63539-501",
+        "63539-502"
+      ],
+      "rxcui": [
+        "1357541",
+        "1357547",
+        "1741046",
+        "1741049",
+        "2048566",
+        "2048568",
+        "2273113",
+        "2273115",
+        "2478433",
+        "2478437"
+      ],
+      "setid": "68e3d6b2-7838-4d2d-a417-09d919b43e13",
+      "source": "dailymed-title-match",
+      "spl_version": 19,
+      "title": "XELJANZ (TOFACITINIB) TABLET, FILM COATED XELJANZ XR (TOFACITINIB) TABLET, EXTENDED RELEASE XELJANZ (TOFACITINIB) SOLUTION [U.S. PHARMACEUTICALS]",
+      "upload_date": "2026-10-19"
+    },
+    {
+      "application_numbers": [
+        "NDA203214",
+        "NDA208246",
+        "NDA213082"
+      ],
+      "brand_names": [
+        "XELJANZ",
+        "XELJANZ XR"
+      ],
+      "combination": false,
+      "home_inn": "tofacitinib",
+      "ingredients": [
+        "TOFACITINIB CITRATE"
+      ],
+      "labeler": "Pfizer Laboratories Div Pfizer Inc",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2012-11-09",
+      "moieties": [
+        "TOFACITINIB"
+      ],
+      "product_ndcs": [
+        "0069-0501",
+        "0069-0502",
+        "0069-1001",
+        "0069-1002",
+        "0069-1029"
+      ],
+      "rxcui": [
+        "1357541",
+        "1357547",
+        "1741046",
+        "1741049",
+        "2048566",
+        "2048568",
+        "2273113",
+        "2273115",
+        "2478433",
+        "2478437"
+      ],
+      "setid": "cf74ba2f-afc5-4baa-8594-979c889a5831",
+      "source": "dailymed-title-match",
+      "spl_version": 55,
+      "title": "XELJANZ (TOFACITINIB) TABLET, FILM COATED XELJANZ XR (TOFACITINIB) TABLET, FILM COATED, EXTENDED RELEASE XELJANZ (TOFACITINIB) SOLUTION [PFIZER LABORATORIES DIV PFIZER INC]",
+      "upload_date": "2026-09-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA209829",
+        "ANDA214264"
+      ],
+      "brand_names": [
+        "tofacitinib"
+      ],
+      "combination": false,
+      "home_inn": "tofacitinib",
+      "ingredients": [
+        "TOFACITINIB CITRATE"
+      ],
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-05-11",
+      "moieties": [
+        "TOFACITINIB"
+      ],
+      "product_ndcs": [
+        "70710-1243",
+        "70710-1353",
+        "70710-1589",
+        "70710-1727"
+      ],
+      "rxcui": [],
+      "setid": "179ffbb2-bedc-40e6-b77b-33d4f7832172",
+      "source": "dailymed-title-match",
+      "spl_version": 8,
+      "title": "TOFACITINIB TABLET, FILM COATED, EXTENDED RELEASE [ZYDUS PHARMACEUTICALS USA INC.]",
+      "upload_date": "2026-10-28"
+    },
+    {
+      "application_numbers": [
+        "ANDA219542"
+      ],
+      "brand_names": [
+        "Tofacitinib"
+      ],
+      "combination": false,
+      "home_inn": "tofacitinib",
+      "ingredients": [
+        "TOFACITINIB CITRATE"
+      ],
+      "labeler": "Ajanta Pharma USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-06-03",
+      "moieties": [
+        "TOFACITINIB"
+      ],
+      "product_ndcs": [
+        "27241-270"
+      ],
+      "rxcui": [
+        "1741046"
+      ],
+      "setid": "024bb9f2-8c26-4d9d-a33b-eb3c0a7c59ed",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "TOFACITINIB TABLET, EXTENDED RELEASE [AJANTA PHARMA USA INC.]",
+      "upload_date": "2026-06-23"
+    },
+    {
+      "application_numbers": [
+        "ANDA217299"
+      ],
+      "brand_names": [
+        "Tofacitinib"
+      ],
+      "combination": false,
+      "home_inn": "tofacitinib",
+      "ingredients": [
+        "TOFACITINIB CITRATE"
+      ],
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-06-03",
+      "moieties": [
+        "TOFACITINIB"
+      ],
+      "product_ndcs": [
+        "72205-139",
+        "72205-140"
+      ],
+      "rxcui": [
+        "1357541",
+        "2048566"
+      ],
+      "setid": "253635c8-1ea7-41ba-b216-dea5e3305c47",
+      "source": "openfda",
+      "spl_version": 3,
+      "title": "TOFACITINIB TABLET, FILM COATED [NOVADOZ PHARMACEUTICALS LLC]",
+      "upload_date": "2026-09-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA220137"
+      ],
+      "brand_names": [
+        "TOFACITINIB"
+      ],
+      "combination": false,
+      "home_inn": "tofacitinib",
+      "ingredients": [
+        "TOFACITINIB CITRATE"
+      ],
+      "labeler": "Somerset Therapeutics, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-06-03",
+      "moieties": [
+        "TOFACITINIB"
+      ],
+      "product_ndcs": [
+        "70069-841",
+        "70069-842"
+      ],
+      "rxcui": [
+        "1357541",
+        "2048566"
+      ],
+      "setid": "2726c2b0-c763-4635-ac6b-4334c3a5a8bc",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "TOFACITINIB TABLET, FILM COATED [SOMERSET THERAPEUTICS, LLC]",
+      "upload_date": "2026-06-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA217298"
+      ],
+      "brand_names": [
+        "TOFACITINIB"
+      ],
+      "combination": false,
+      "home_inn": "tofacitinib",
+      "ingredients": [
+        "TOFACITINIB CITRATE"
+      ],
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-06-03",
+      "moieties": [
+        "TOFACITINIB"
+      ],
+      "product_ndcs": [
+        "72205-121"
+      ],
+      "rxcui": [
+        "2478433"
+      ],
+      "setid": "327f6b60-1a5d-49e6-acff-18603d0ee9d0",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "TOFACITINIB SOLUTION [NOVADOZ PHARMACEUTICALS LLC]",
+      "upload_date": "2026-09-02"
+    },
+    {
+      "application_numbers": [
+        "ANDA215356"
+      ],
+      "brand_names": [
+        "TOFACITINIB"
+      ],
+      "combination": false,
+      "home_inn": "tofacitinib",
+      "ingredients": [
+        "TOFACITINIB CITRATE"
+      ],
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2026-06-03",
+      "moieties": [
+        "TOFACITINIB"
+      ],
+      "product_ndcs": [
+        "59651-459",
+        "59651-460"
+      ],
+      "rxcui": [
+        "1357541",
+        "2048566"
+      ],
+      "setid": "50962b08-99dd-ae73-e063-6394a90ad1eb",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "TOFACITINIB TABLET, FILM COATED [AUROBINDO PHARMA LIMITED]",
+      "upload_date": "2026-07-30"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Edenbridge Pharmaceuticals LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "576722e5-6639-452d-a5c3-33a064f19481"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "7d4f5cfa-35a8-1458-a609-f6b417946abb"
+    },
+    {
+      "combination": false,
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9b654f0d-7705-4880-9e9d-ad3a51e56b56"
+    },
+    {
+      "combination": false,
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a764a133-b870-4514-bbee-24d43f8cb7fd"
+    },
+    {
+      "combination": false,
+      "labeler": "Breckenridge Pharmaceutical, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c963c610-52e5-43ab-aac6-3f7e5341b764"
+    },
+    {
+      "combination": false,
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d9cf18a9-e825-49ac-b080-68957c0e79ae"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e54b186f-e42a-4477-939c-8dd331045fbe"
+    },
+    {
+      "combination": false,
+      "labeler": "Biocon Pharma Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f0160e3d-63ea-75fb-4b88-fe3d6a6ce030"
+    },
+    {
+      "combination": false,
+      "labeler": "Micro Labs Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ffa6819b-23a4-478b-8fb7-cc90e8142fc5"
+    },
+    {
+      "combination": false,
+      "labeler": "Orient Pharma Co., Ltd. Yunlin Plant",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5617a652-a78e-74b1-e063-6394a90a31c7"
+    },
+    {
+      "combination": false,
+      "labeler": "IPG Pharmaceuticals, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cd1b61bf-de03-4198-89f6-f3952b79d2c2"
+    },
+    {
+      "combination": false,
+      "labeler": "Padagis US LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "df24e90d-4b2c-4f9d-a1d6-fcb1ab00606f"
+    },
+    {
+      "combination": false,
+      "labeler": "ScieGen Pharmaceuticals, INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "11d08738-efa3-4474-8eda-812bc04adfbb"
+    },
+    {
+      "combination": false,
+      "labeler": "Saptalis Pharmaceuticals, LLC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c6c033ff-bce0-4d1c-a182-3b13191686e1"
+    },
+    {
+      "combination": false,
+      "labeler": "CONCORD BIOTECH LIMITED",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "6c33e5b4-4843-4a80-a4f8-435bfceddc2a"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "21a89264-8047-40ac-8b10-fa6461072509"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "f4d0e580-74a8-496e-89a2-d74478c946bf"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ac0b26d5-1352-42ff-b5ea-3eb02d8508a4"
+    },
+    {
+      "combination": false,
+      "labeler": "Apotex Corp.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dd62a2b8-300b-d92b-7b27-a30eaa68fdd3"
+    },
+    {
+      "combination": false,
+      "labeler": "Exelan pharmaceuticals,Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e68680e5-0328-4e66-b8bb-4af126221ec7"
+    },
+    {
+      "combination": false,
+      "labeler": "Radha Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "141ab3eb-982b-4242-89db-6ddce5be0c40"
+    },
+    {
+      "combination": false,
+      "labeler": "AvKARE",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "5751321a-c904-44ae-e063-6394a90a2654"
+    },
+    {
+      "combination": false,
+      "labeler": "Stellon Biotech Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "89eb2ffc-02d9-4b46-b480-e9b10af33027"
+    },
+    {
+      "combination": false,
+      "labeler": "XLCare Pharmaceuticals Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "10403307-e2f9-44d1-bc72-552fdba299d1"
+    }
+  ]
+}

@@ -1,0 +1,493 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "TAMSULOSIN HYDROCHLORIDE"
+  ],
+  "inn": "tamsulosin",
+  "name": "TAMSULOSIN",
+  "rank": 311,
+  "rxcui": [
+    "863669",
+    "996097",
+    "996101"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 22,
+    "approval_holders": 18,
+    "earliest_marketing_start": "2010-04-27",
+    "latest_label_update": "2026-10-29",
+    "nda_bla_applications": 1,
+    "repackagers": 17
+  },
+  "unii": [
+    {
+      "ingredient": "TAMSULOSIN HYDROCHLORIDE",
+      "unii": "11SV1951MR"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA022460"
+      ],
+      "brand_names": [
+        "Jalyn"
+      ],
+      "combination": true,
+      "home_inn": "tamsulosin",
+      "ingredients": [
+        "DUTASTERIDE",
+        "TAMSULOSIN HYDROCHLORIDE"
+      ],
+      "labeler": "Waylis Therapeutics",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-03-01",
+      "moieties": [
+        "DUTASTERIDE",
+        "TAMSULOSIN"
+      ],
+      "product_ndcs": [
+        "80725-809"
+      ],
+      "rxcui": [
+        "996097",
+        "996101"
+      ],
+      "setid": "aab9a2d4-5328-40f3-986f-e7753a928bc0",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "JALYN (DUTASTERIDE AND TAMSULOSIN HYDROCHLORIDE) CAPSULE [WAYLIS THERAPEUTICS]",
+      "upload_date": "2026-03-11"
+    },
+    {
+      "application_numbers": [
+        "ANDA078801"
+      ],
+      "brand_names": [
+        "Tamsulosin hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "tamsulosin",
+      "ingredients": [
+        "TAMSULOSIN HYDROCHLORIDE"
+      ],
+      "labeler": "Synthon B.V.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-04-27",
+      "moieties": [
+        "TAMSULOSIN"
+      ],
+      "product_ndcs": [
+        "63672-0021"
+      ],
+      "rxcui": [],
+      "setid": "13a5032d-0be1-4001-916e-459f0b1a051d",
+      "source": "dailymed-title-match",
+      "spl_version": 9,
+      "title": "TAMSULOSIN HYDROCHLORIDE CAPSULE [SYNTHON B.V.]",
+      "upload_date": "2026-10-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA078225"
+      ],
+      "brand_names": [
+        "Tamsulosin Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "tamsulosin",
+      "ingredients": [
+        "TAMSULOSIN HYDROCHLORIDE"
+      ],
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-04-27",
+      "moieties": [
+        "TAMSULOSIN"
+      ],
+      "product_ndcs": [
+        "65841-695"
+      ],
+      "rxcui": [
+        "863669"
+      ],
+      "setid": "276c7e26-f86a-46b9-b626-ceef76b729a4",
+      "source": "openfda",
+      "spl_version": 9,
+      "title": "TAMSULOSIN HYDROCHLORIDE CAPSULE [ZYDUS LIFESCIENCES LIMITED]",
+      "upload_date": "2024-08-15"
+    },
+    {
+      "application_numbers": [
+        "ANDA078015"
+      ],
+      "brand_names": [
+        "tamsulosin hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "tamsulosin",
+      "ingredients": [
+        "TAMSULOSIN HYDROCHLORIDE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-04-27",
+      "moieties": [
+        "TAMSULOSIN"
+      ],
+      "product_ndcs": [
+        "0781-2076"
+      ],
+      "rxcui": [
+        "863669"
+      ],
+      "setid": "fb120098-b007-4a33-80b8-b7279c7668ee",
+      "source": "openfda",
+      "spl_version": 10,
+      "title": "TAMSULOSIN HYDROCHLORIDE CAPSULE [SANDOZ INC]",
+      "upload_date": "2025-06-16"
+    },
+    {
+      "application_numbers": [
+        "ANDA090931"
+      ],
+      "brand_names": [
+        "Tamsulosin Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "tamsulosin",
+      "ingredients": [
+        "TAMSULOSIN HYDROCHLORIDE"
+      ],
+      "labeler": "Sun Pharmaceutical Industries, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2010-07-15",
+      "moieties": [
+        "TAMSULOSIN"
+      ],
+      "product_ndcs": [
+        "62756-160"
+      ],
+      "rxcui": [
+        "863669"
+      ],
+      "setid": "d742707b-4c17-4b08-a9d0-491ba2bf6415",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "TAMSULOSIN HYDROCHLORIDE CAPSULE [SUN PHARMACEUTICAL INDUSTRIES, INC.]",
+      "upload_date": "2021-01-04"
+    },
+    {
+      "application_numbers": [
+        "ANDA202433"
+      ],
+      "brand_names": [
+        "Tamsulosin Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "tamsulosin",
+      "ingredients": [
+        "TAMSULOSIN HYDROCHLORIDE"
+      ],
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2013-04-30",
+      "moieties": [
+        "TAMSULOSIN"
+      ],
+      "product_ndcs": [
+        "72603-115"
+      ],
+      "rxcui": [
+        "863669"
+      ],
+      "setid": "7ab14f88-414a-448f-b7bf-de8c9e1b1eb3",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "TAMSULOSIN HYDROCHLORIDE CAPSULE [NORTHSTAR RX LLC]",
+      "upload_date": "2023-11-30"
+    },
+    {
+      "application_numbers": [
+        "ANDA204645"
+      ],
+      "brand_names": [
+        "Tamsulosin Hydrochloride"
+      ],
+      "combination": false,
+      "home_inn": "tamsulosin",
+      "ingredients": [
+        "TAMSULOSIN HYDROCHLORIDE"
+      ],
+      "labeler": "Macleods Pharmaceuticals Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2017-01-25",
+      "moieties": [
+        "TAMSULOSIN"
+      ],
+      "product_ndcs": [
+        "33342-159"
+      ],
+      "rxcui": [
+        "863669"
+      ],
+      "setid": "2912fbbc-89bf-4bf0-86fe-bd98f3168e84",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "TAMSULOSIN HYDROCHLORIDE CAPSULE [MACLEODS PHARMACEUTICALS LIMITED]",
+      "upload_date": "2022-12-02"
+    },
+    {
+      "application_numbers": [
+        "NDA020579"
+      ],
+      "archived_versions": 5,
+      "brand_names": [
+        "FLOMAX"
+      ],
+      "first_posted": "2019-04-17",
+      "found_by": "FLOMAX",
+      "labeler": "Sanofi-Aventis U.S. LLC",
+      "labeler_unverified": false,
+      "last_posted": "2025-01-06",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2025-10-31"
+      ],
+      "product_ndcs": [
+        "0024-5837"
+      ],
+      "rxcui": [],
+      "setid": "6771ad8e-ac92-4aec-b484-5d8350a353f8",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "FLOMAX (tamsulosin hydrochloride) capsule"
+    },
+    {
+      "application_numbers": [
+        "NDA020579"
+      ],
+      "archived_versions": 17,
+      "brand_names": [
+        "FLOMAX"
+      ],
+      "first_posted": "2007-11-20",
+      "found_by": "FLOMAX",
+      "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2021-05-26",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2021-11-30"
+      ],
+      "product_ndcs": [
+        "0597-0058"
+      ],
+      "rxcui": [],
+      "setid": "c00d5f7b-dad7-4479-aae2-fea7c0db40ed",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [],
+      "title": "FLOMAX (tamsulosin hydrochloride) capsule"
+    },
+    {
+      "application_numbers": [
+        "NDA022460"
+      ],
+      "archived_versions": 21,
+      "brand_names": [
+        "JALYN"
+      ],
+      "first_posted": "2010-06-21",
+      "found_by": "JALYN",
+      "labeler": "GlaxoSmithKline LLC",
+      "labeler_unverified": false,
+      "last_posted": "2022-06-24",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2024-03-31"
+      ],
+      "product_ndcs": [
+        "0173-0809"
+      ],
+      "rxcui": [],
+      "setid": "eba8376d-10e0-42fc-9f76-9e7ebf7ff047",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "aab9a2d4-5328-40f3-986f-e7753a928bc0"
+      ],
+      "title": "JALYN (dutasteride and tamsulosin hydrochloride) capsule"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "Chartwell RX, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "14db58df-7584-410b-8cf4-4b928dada859"
+    },
+    {
+      "combination": false,
+      "labeler": "XLCare Pharmaceuticals, Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "9108b999-4b99-469d-99a8-5ef0fa4ca00a"
+    },
+    {
+      "combination": false,
+      "labeler": "Amneal Pharmaceuticals of New York LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c3ae55dd-6a0e-4f3a-82b6-2448e0545550"
+    },
+    {
+      "combination": true,
+      "labeler": "Zydus Lifesciences Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4b89b07e-9d19-47a2-bd53-bc5eef9deed1"
+    },
+    {
+      "combination": true,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2ad47033-76f3-447d-8a44-21479e9164c0"
+    },
+    {
+      "combination": false,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "300be29a-c56d-4daa-ba89-f207c281ea20"
+    },
+    {
+      "combination": false,
+      "labeler": "Aurobindo Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "8cb27f78-2d5d-4640-b7b5-ed06973c8133"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "a242c8dc-576e-4a1f-a9e7-a05d7ebc0e0a"
+    },
+    {
+      "combination": false,
+      "labeler": "Ascend Laboratories, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "ed9988bc-0759-4c36-bee1-11b68dc1c84c"
+    },
+    {
+      "combination": false,
+      "labeler": "AvPAK",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "62fa7fdf-c588-6f79-e053-2a91aa0a4c19"
+    },
+    {
+      "combination": false,
+      "labeler": "Quallent Pharmaceuticals Health LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "12ba3063-a134-41e2-8447-45933d4f0f58"
+    },
+    {
+      "combination": false,
+      "labeler": "EXELAN PHARMACEUTICALS, INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "db6cb771-2cff-40b7-a5ef-ea3cf2a3b461"
+    },
+    {
+      "combination": false,
+      "labeler": "AvKARE",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "43bec742-fbc4-39af-e063-6294a90ac734"
+    },
+    {
+      "combination": false,
+      "labeler": "XLCare Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "00097e78-9c04-4e62-8260-ddb50e9a6a93"
+    },
+    {
+      "combination": true,
+      "labeler": "Zydus Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "d6557691-7910-4006-9268-410583e437d1"
+    }
+  ]
+}

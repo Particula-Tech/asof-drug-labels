@@ -1,0 +1,275 @@
+{
+  "biologic": false,
+  "eu": [
+    {
+      "biosimilar": false,
+      "built": true,
+      "comparability_note": "EU name matches the US NDA/BLA brand PROCYSBI",
+      "comparable_to_us": "yes",
+      "ema_product_number": "EMEA/H/C/002465",
+      "eu_number": "EU/1/13/861",
+      "generic": false,
+      "history_type": "in-force",
+      "label_id": "EMEA-H-C-002465",
+      "mah": "Chiesi Farmaceutici S.p.A",
+      "marketing_authorisation_date": "2013-09-05",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/procysbi",
+      "name": "Procysbi",
+      "record_from": "2013-09-06",
+      "record_to": "2026-11-03",
+      "role": "reference",
+      "versions": 9
+    },
+    {
+      "biosimilar": false,
+      "built": false,
+      "comparability_note": null,
+      "comparable_to_us": null,
+      "ema_product_number": "EMEA/H/C/003769",
+      "eu_number": "EU/1/15/1049",
+      "generic": false,
+      "history_type": "not-built",
+      "label_id": "EMEA-H-C-003769",
+      "mah": "Recordati Rare Diseases",
+      "marketing_authorisation_date": "2017-01-18",
+      "medicine_status": "Authorised",
+      "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/cystadrops",
+      "name": "Cystadrops",
+      "record_from": null,
+      "record_to": null,
+      "role": "alternate",
+      "versions": null
+    }
+  ],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": null,
+    "reference_label_id": "EMEA-H-C-002465",
+    "reference_selected_by": "salt-alias-v2",
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "CYSTEAMINE BITARTRATE",
+    "CYSTEAMINE HYDROCHLORIDE"
+  ],
+  "inn": "cysteamine",
+  "name": "CYSTEAMINE",
+  "rank": 154,
+  "rxcui": [
+    "209788",
+    "209789",
+    "309636",
+    "309637",
+    "1313780",
+    "1313785",
+    "1421467",
+    "1421473",
+    "1421475",
+    "1421477",
+    "2284510",
+    "2284514",
+    "2284515",
+    "2284516"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "innovator",
+  "stats": {
+    "approval_holder_setids": 4,
+    "approval_holders": 4,
+    "earliest_marketing_start": "2005-04-11",
+    "latest_label_update": "2026-10-26",
+    "nda_bla_applications": 5,
+    "repackagers": 0
+  },
+  "unii": [
+    {
+      "ingredient": "CYSTEAMINE BITARTRATE",
+      "unii": "QO84GZ3TST"
+    },
+    {
+      "ingredient": "CYSTEAMINE HYDROCHLORIDE",
+      "unii": "IF1B771SVB"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA020392"
+      ],
+      "brand_names": [
+        "Cystagon"
+      ],
+      "combination": false,
+      "home_inn": "cysteamine",
+      "ingredients": [
+        "CYSTEAMINE BITARTRATE"
+      ],
+      "labeler": "Mylan Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2005-04-11",
+      "moieties": [
+        "CYSTEAMINE"
+      ],
+      "product_ndcs": [
+        "0378-9040",
+        "0378-9045"
+      ],
+      "rxcui": [
+        "209788",
+        "209789",
+        "309636",
+        "309637"
+      ],
+      "setid": "f495b76d-96c6-48e5-8fa3-30a4336628eb",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "CYSTAGON (CYSTEAMINE BITARTRATE) CAPSULE [MYLAN PHARMACEUTICALS INC.]",
+      "upload_date": "2024-12-16"
+    },
+    {
+      "application_numbers": [
+        "NDA200740"
+      ],
+      "brand_names": [
+        "CYSTARAN"
+      ],
+      "combination": false,
+      "home_inn": "cysteamine",
+      "ingredients": [
+        "CYSTEAMINE HYDROCHLORIDE"
+      ],
+      "labeler": "Leadiant Biosciences, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2012-12-30",
+      "moieties": [
+        "CYSTEAMINE"
+      ],
+      "product_ndcs": [
+        "54482-020",
+        "54482-035"
+      ],
+      "rxcui": [
+        "1313780",
+        "1313785"
+      ],
+      "setid": "b98ee838-ed23-42a9-93b5-72579e490fba",
+      "source": "dailymed-title-match",
+      "spl_version": 24,
+      "title": "CYSTARAN (CYSTEAMINE HYDROCHLORIDE) SOLUTION [LEADIANT BIOSCIENCES, INC.]",
+      "upload_date": "2026-10-26"
+    },
+    {
+      "application_numbers": [
+        "NDA203389",
+        "NDA213491"
+      ],
+      "brand_names": [
+        "PROCYSBI"
+      ],
+      "combination": false,
+      "home_inn": "cysteamine",
+      "ingredients": [
+        "CYSTEAMINE BITARTRATE"
+      ],
+      "labeler": "Horizon Therapeutics USA, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2013-04-30",
+      "moieties": [
+        "CYSTEAMINE"
+      ],
+      "product_ndcs": [
+        "75987-100",
+        "75987-101",
+        "75987-140",
+        "75987-145"
+      ],
+      "rxcui": [
+        "1421467",
+        "1421473",
+        "1421475",
+        "1421477",
+        "2284510",
+        "2284514",
+        "2284515",
+        "2284516"
+      ],
+      "setid": "d3a3ec28-f746-463a-bb92-3bc8826db09e",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "PROCYSBI (CYSTEAMINE BITARTRATE) CAPSULE, DELAYED RELEASE PELLETS PROCYSBI (CYSTEAMINE BITARTRATE) GRANULE, DELAYED RELEASE [HORIZON THERAPEUTICS USA, INC.]",
+      "upload_date": "2026-06-30"
+    },
+    {
+      "application_numbers": [
+        "NDA211302"
+      ],
+      "brand_names": [
+        "CYSTADROPS"
+      ],
+      "combination": false,
+      "home_inn": "cysteamine",
+      "ingredients": [
+        "CYSTEAMINE HYDROCHLORIDE"
+      ],
+      "labeler": "RECORDATI RARE DISEASES, INC.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2020-08-19",
+      "moieties": [
+        "CYSTEAMINE"
+      ],
+      "product_ndcs": [
+        "55292-410"
+      ],
+      "rxcui": [],
+      "setid": "5d2bcce3-9b89-4141-aeb7-db00449047f5",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "CYSTADROPS (CYSTEAMINE HYDROCHLORIDE) SOLUTION [RECORDATI RARE DISEASES, INC.]",
+      "upload_date": "2025-06-13"
+    },
+    {
+      "application_numbers": [
+        "NDA203389"
+      ],
+      "archived_versions": 6,
+      "brand_names": [
+        "PROCYSBI"
+      ],
+      "first_posted": "2013-05-20",
+      "found_by": "PROCYSBI",
+      "labeler": "Raptor Therapeutics Inc.",
+      "labeler_unverified": true,
+      "last_posted": "2017-11-21",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-02-28"
+      ],
+      "product_ndcs": [
+        "49663-001",
+        "49663-002"
+      ],
+      "rxcui": [],
+      "setid": "b7b6e290-5168-46dc-9e7f-5995420ec1c1",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "d3a3ec28-f746-463a-bb92-3bc8826db09e"
+      ],
+      "title": "PROCYSBI DELAYED-RELEASE (cysteamine bitartrate) capsule, delayed release pellets"
+    }
+  ],
+  "us_excluded": []
+}

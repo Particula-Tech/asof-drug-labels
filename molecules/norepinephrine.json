@@ -1,0 +1,640 @@
+{
+  "biologic": false,
+  "eu": [],
+  "eu_selection": {
+    "combinations_excluded": 0,
+    "near_misses_not_matched": [],
+    "no_reference_reason": "no central product with this exact INN in the EMA medicines JSON",
+    "reference_label_id": null,
+    "reference_selected_by": null,
+    "rule": "salt-alias-v2 + overrides"
+  },
+  "ingredient_names": [
+    "NOREPINEPHRINE BITARTRATE"
+  ],
+  "inn": "norepinephrine",
+  "name": "NOREPINEPHRINE",
+  "rank": 195,
+  "rxcui": [
+    "209217",
+    "242969",
+    "2475337",
+    "2475340",
+    "2619579",
+    "2725614"
+  ],
+  "rxcui_level": "product (SCD/SBD/GPCK/BPCK) from openFDA NDC and DailyMed rxnorm_mappings; ingredient-level RxCUI is not derivable offline",
+  "selected_by": "breadth",
+  "stats": {
+    "approval_holder_setids": 25,
+    "approval_holders": 23,
+    "earliest_marketing_start": "2009-04-27",
+    "latest_label_update": "2026-10-19",
+    "nda_bla_applications": 4,
+    "repackagers": 1
+  },
+  "unii": [
+    {
+      "ingredient": "NOREPINEPHRINE BITARTRATE",
+      "unii": "IFY5PE3ZRW"
+    }
+  ],
+  "unii_unresolved": [],
+  "us": [
+    {
+      "application_numbers": [
+        "NDA007513"
+      ],
+      "brand_names": [
+        "LEVOPHED"
+      ],
+      "combination": false,
+      "home_inn": "norepinephrine",
+      "ingredients": [
+        "NOREPINEPHRINE BITARTRATE"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2009-04-27",
+      "moieties": [
+        "NOREPINEPHRINE"
+      ],
+      "product_ndcs": [
+        "0409-3375"
+      ],
+      "rxcui": [
+        "209217",
+        "242969"
+      ],
+      "setid": "c4de72a8-2a75-4984-ce90-e4870226dc12",
+      "source": "openfda",
+      "spl_version": 20,
+      "title": "LEVOPHED (NOREPINEPHRINE BITARTRATE) INJECTION, SOLUTION, CONCENTRATE [HOSPIRA, INC.]",
+      "upload_date": "2025-06-13"
+    },
+    {
+      "application_numbers": [
+        "NDA214313"
+      ],
+      "brand_names": [
+        "NOREPINEPHRINE BITARTRATE"
+      ],
+      "combination": false,
+      "home_inn": "norepinephrine",
+      "ingredients": [
+        "NOREPINEPHRINE BITARTRATE"
+      ],
+      "labeler": "Baxter Healthcare Corporation",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2021-01-15",
+      "moieties": [
+        "NOREPINEPHRINE"
+      ],
+      "product_ndcs": [
+        "0338-0040",
+        "0338-0042",
+        "0338-0108",
+        "0338-0112",
+        "0338-0116",
+        "0338-0128"
+      ],
+      "rxcui": [
+        "2475337",
+        "2475340",
+        "2619579"
+      ],
+      "setid": "6363e9b4-29df-4553-904d-a563e5adda6e",
+      "source": "openfda",
+      "spl_version": 13,
+      "title": "NOREPINEPHRINE BITARTRATE INJECTION, SOLUTION [BAXTER HEALTHCARE CORPORATION]",
+      "upload_date": "2026-02-16"
+    },
+    {
+      "application_numbers": [
+        "NDA215700"
+      ],
+      "brand_names": [
+        "NOREPINEPHRINE BITARTRATE IN SODIUM CHLORIDE"
+      ],
+      "combination": false,
+      "home_inn": "norepinephrine",
+      "ingredients": [
+        "NOREPINEPHRINE BITARTRATE"
+      ],
+      "labeler": "WG Critical Care, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2022-09-15",
+      "moieties": [
+        "NOREPINEPHRINE"
+      ],
+      "product_ndcs": [
+        "44567-640",
+        "44567-641",
+        "44567-642",
+        "44567-643"
+      ],
+      "rxcui": [
+        "2475337",
+        "2475340",
+        "2619579",
+        "2725614"
+      ],
+      "setid": "ddbef60d-c20a-4ada-928f-e87074c08a54",
+      "source": "dailymed-title-match",
+      "spl_version": 12,
+      "title": "NOREPINEPHRINE BITARTRATE IN SODIUM CHLORIDE (NOREPINEPHRINE BITARTRATE) INJECTION, SOLUTION [WG CRITICAL CARE, LLC]",
+      "upload_date": "2026-10-19"
+    },
+    {
+      "application_numbers": [
+        "NDA214628"
+      ],
+      "brand_names": [
+        "Norepinephrine"
+      ],
+      "combination": false,
+      "home_inn": "norepinephrine",
+      "ingredients": [
+        "NOREPINEPHRINE BITARTRATE"
+      ],
+      "labeler": "Long Grove Pharmaceuticals, LLC",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-02-02",
+      "moieties": [
+        "NOREPINEPHRINE"
+      ],
+      "product_ndcs": [
+        "81298-9655",
+        "81298-9658",
+        "81298-9659"
+      ],
+      "rxcui": [
+        "2475337",
+        "2475340",
+        "2619579"
+      ],
+      "setid": "759807dd-61a8-4f6f-8bf5-f6ee773c81bc",
+      "source": "openfda",
+      "spl_version": 2,
+      "title": "NOREPINEPHRINE (NOREPINEPHRINE BITARTRATE) SOLUTION [LONG GROVE PHARMACEUTICALS, LLC]",
+      "upload_date": "2025-12-10"
+    },
+    {
+      "application_numbers": [
+        "NDA007513"
+      ],
+      "brand_names": [
+        "LEVOPHED"
+      ],
+      "combination": false,
+      "home_inn": "norepinephrine",
+      "ingredients": [
+        "NOREPINEPHRINE BITARTRATE"
+      ],
+      "labeler": "Hospira, Inc.",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_start": "2024-03-11",
+      "moieties": [
+        "NOREPINEPHRINE"
+      ],
+      "product_ndcs": [
+        "0409-0161"
+      ],
+      "rxcui": [
+        "209217",
+        "242969"
+      ],
+      "setid": "2c7dd2b0-cc10-4db6-bf56-6eb154ebeb10",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "LEVOPHED (NOREPINEPHRINE BITARTRATE) INJECTION, SOLUTION, CONCENTRATE [HOSPIRA, INC.]",
+      "upload_date": "2025-06-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA203662"
+      ],
+      "brand_names": [
+        "Norepinephrine Bitartrate"
+      ],
+      "combination": false,
+      "home_inn": "norepinephrine",
+      "ingredients": [
+        "NOREPINEPHRINE BITARTRATE"
+      ],
+      "labeler": "Hikma Pharmaceuticals USA Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-08-01",
+      "moieties": [
+        "NOREPINEPHRINE"
+      ],
+      "product_ndcs": [
+        "0143-9318"
+      ],
+      "rxcui": [
+        "242969"
+      ],
+      "setid": "39cda6c6-3857-4028-80cf-aef135f8c7e6",
+      "source": "openfda",
+      "spl_version": 5,
+      "title": "NOREPINEPHRINE BITARTRATE INJECTION [HIKMA PHARMACEUTICALS USA INC.]",
+      "upload_date": "2025-01-13"
+    },
+    {
+      "application_numbers": [
+        "ANDA211242"
+      ],
+      "brand_names": [
+        "Norepinephrine bitartrate"
+      ],
+      "combination": false,
+      "home_inn": "norepinephrine",
+      "ingredients": [
+        "NOREPINEPHRINE BITARTRATE"
+      ],
+      "labeler": "Mylan Institutional LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2018-10-15",
+      "moieties": [
+        "NOREPINEPHRINE"
+      ],
+      "product_ndcs": [
+        "67457-852"
+      ],
+      "rxcui": [
+        "242969"
+      ],
+      "setid": "d3ea12e0-88cc-49b0-b06e-5199ecd6ca69",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "NOREPINEPHRINE BITARTRATE INJECTION, SOLUTION, CONCENTRATE [MYLAN INSTITUTIONAL LLC]",
+      "upload_date": "2023-11-29"
+    },
+    {
+      "application_numbers": [
+        "ANDA211359"
+      ],
+      "brand_names": [
+        "NOREPINEPHRINE BITARTRATE"
+      ],
+      "combination": false,
+      "home_inn": "norepinephrine",
+      "ingredients": [
+        "NOREPINEPHRINE BITARTRATE"
+      ],
+      "labeler": "Sandoz Inc",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2019-04-23",
+      "moieties": [
+        "NOREPINEPHRINE"
+      ],
+      "product_ndcs": [
+        "0781-3755"
+      ],
+      "rxcui": [
+        "242969"
+      ],
+      "setid": "728734e7-1684-4b37-980c-f1dfd408b436",
+      "source": "openfda",
+      "spl_version": 11,
+      "title": "NOREPINEPHRINE BITARTRATE INJECTION, SOLUTION, CONCENTRATE [SANDOZ INC]",
+      "upload_date": "2026-08-20"
+    },
+    {
+      "application_numbers": [
+        "ANDA211382"
+      ],
+      "brand_names": [
+        "Norepinephrine Bitartrate"
+      ],
+      "combination": false,
+      "home_inn": "norepinephrine",
+      "ingredients": [
+        "NOREPINEPHRINE BITARTRATE"
+      ],
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-03-01",
+      "moieties": [
+        "NOREPINEPHRINE"
+      ],
+      "product_ndcs": [
+        "63323-940"
+      ],
+      "rxcui": [
+        "242969"
+      ],
+      "setid": "c297757e-35ff-4f39-bccd-61002ac51e23",
+      "source": "openfda",
+      "spl_version": 7,
+      "title": "NOREPINEPHRINE BITARTRATE SOLUTION [FRESENIUS KABI USA, LLC]",
+      "upload_date": "2021-09-08"
+    },
+    {
+      "application_numbers": [
+        "ANDA214323"
+      ],
+      "brand_names": [
+        "Norepinephrine Bitartrate"
+      ],
+      "combination": false,
+      "home_inn": "norepinephrine",
+      "ingredients": [
+        "NOREPINEPHRINE BITARTRATE"
+      ],
+      "labeler": "Baxter Healthcare Company",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-05-06",
+      "moieties": [
+        "NOREPINEPHRINE"
+      ],
+      "product_ndcs": [
+        "43066-997"
+      ],
+      "rxcui": [
+        "242969"
+      ],
+      "setid": "e375a0b9-4d26-4749-bbc3-43d63a7cf65a",
+      "source": "openfda",
+      "spl_version": 6,
+      "title": "NOREPINEPHRINE BITARTRATE INJECTION [BAXTER HEALTHCARE COMPANY]",
+      "upload_date": "2026-07-24"
+    },
+    {
+      "application_numbers": [
+        "ANDA214455"
+      ],
+      "brand_names": [
+        "Norepinephrine Bitartrate"
+      ],
+      "combination": false,
+      "home_inn": "norepinephrine",
+      "ingredients": [
+        "NOREPINEPHRINE BITARTRATE"
+      ],
+      "labeler": "Breckenridge Pharmaceutical, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "marketing_start": "2021-07-01",
+      "moieties": [
+        "NOREPINEPHRINE"
+      ],
+      "product_ndcs": [
+        "51991-983"
+      ],
+      "rxcui": [
+        "242969"
+      ],
+      "setid": "109aa5e6-4e42-4131-97b0-f24d3a4cb4e8",
+      "source": "openfda",
+      "spl_version": 4,
+      "title": "NOREPINEPHRINE BITARTRATE INJECTION, SOLUTION, CONCENTRATE [BRECKENRIDGE PHARMACEUTICAL, INC.]",
+      "upload_date": "2026-09-02"
+    },
+    {
+      "application_numbers": [
+        "NDA007513"
+      ],
+      "archived_versions": 11,
+      "brand_names": [
+        "LEVOPHED"
+      ],
+      "first_posted": "2006-10-20",
+      "found_by": "LEVOPHED",
+      "labeler": "Hospira, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2020-01-17",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-05-01"
+      ],
+      "product_ndcs": [
+        "0409-1443"
+      ],
+      "rxcui": [],
+      "setid": "2e0570e7-d28f-4936-cba8-81ee0c4c3547",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "2c7dd2b0-cc10-4db6-bf56-6eb154ebeb10",
+        "c4de72a8-2a75-4984-ce90-e4870226dc12"
+      ],
+      "title": "LEVOPHED (norepinephrine bitartrate) injection, solution, concentrate"
+    },
+    {
+      "application_numbers": [
+        "NDA007513"
+      ],
+      "archived_versions": 8,
+      "brand_names": [
+        "LEVOPHED"
+      ],
+      "first_posted": "2014-04-29",
+      "found_by": "LEVOPHED",
+      "labeler": "Hospira, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2020-01-22",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2018-06-01"
+      ],
+      "product_ndcs": [
+        "0409-1443"
+      ],
+      "rxcui": [],
+      "setid": "bb5e8d16-303f-49fc-8424-d57ce41b588d",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "2c7dd2b0-cc10-4db6-bf56-6eb154ebeb10",
+        "c4de72a8-2a75-4984-ce90-e4870226dc12"
+      ],
+      "title": "LEVOPHED (norepinephrine bitartrate) injection, solution, concentrate"
+    },
+    {
+      "application_numbers": [
+        "NDA007513"
+      ],
+      "archived_versions": 12,
+      "brand_names": [
+        "LEVOPHED"
+      ],
+      "first_posted": "2014-04-29",
+      "found_by": "LEVOPHED",
+      "labeler": "Hospira, Inc.",
+      "labeler_unverified": false,
+      "last_posted": "2025-06-17",
+      "marketing_categories": [
+        "NDA"
+      ],
+      "marketing_end_dates": [
+        "2019-06-01"
+      ],
+      "product_ndcs": [
+        "0409-3375"
+      ],
+      "rxcui": [],
+      "setid": "d2b5320e-e6a6-4a43-8f3c-9c21195ceb4a",
+      "source": "dailymed-archive",
+      "status": "retired",
+      "successor_setids": [
+        "2c7dd2b0-cc10-4db6-bf56-6eb154ebeb10",
+        "c4de72a8-2a75-4984-ce90-e4870226dc12"
+      ],
+      "title": "LEVOPHED (norepinephrine bitartrate) injection, solution, concentrate"
+    }
+  ],
+  "us_excluded": [
+    {
+      "combination": false,
+      "labeler": "NorthStar Rx LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "fd398152-b428-4dca-8478-b691b909ee0e"
+    },
+    {
+      "combination": false,
+      "labeler": "Rising Pharma Holdings, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "e6669ed6-9ebc-4b2d-9a8c-5e318fbd18b4"
+    },
+    {
+      "combination": false,
+      "labeler": "Meitheal Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "53578ac5-b510-4698-a097-f785bfea9fc0"
+    },
+    {
+      "combination": false,
+      "labeler": "Camber Pharmaceuticals, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "baba1002-8b62-4a24-a4e1-53e7a59c785a"
+    },
+    {
+      "combination": false,
+      "labeler": "BIOCON PHARMA INC.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "0ea48ab6-e166-df31-b132-70ef982a2d02"
+    },
+    {
+      "combination": false,
+      "labeler": "Anthea Pharma Private Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "52e22892-4fc3-4f53-9f39-0b5c66da3040"
+    },
+    {
+      "combination": false,
+      "labeler": "Novadoz Pharmaceuticals LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4b054c27-ed64-40e2-8eba-b7f2ec780a82"
+    },
+    {
+      "combination": false,
+      "labeler": "Fresenius Kabi USA, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dfed53ef-2060-44b8-a62e-9f8ee10a05a5"
+    },
+    {
+      "combination": false,
+      "labeler": "Civica, Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "4408987e-690a-41ac-9677-e24604fa9793"
+    },
+    {
+      "combination": false,
+      "labeler": "Gland Pharma Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dec04acd-8e66-43c7-80b0-468802eba093"
+    },
+    {
+      "combination": false,
+      "labeler": "Sagent Pharmaceuticals",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "cc9ecec5-3bd7-4132-9745-7666bac8ceac"
+    },
+    {
+      "combination": false,
+      "labeler": "BE Pharmaceuticals Inc.",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "c42d425a-094e-4390-b4f9-4bb4b0fbc7d0"
+    },
+    {
+      "combination": false,
+      "labeler": "Caplin Steriles Limited",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "2ffda6e7-d45d-4af3-a3b1-250a4c95e736"
+    },
+    {
+      "combination": false,
+      "labeler": "Avenacy, LLC",
+      "marketing_categories": [
+        "ANDA"
+      ],
+      "reason": "over cap of 6 ANDA/authorized-generic setids",
+      "setid": "dd4b7827-2fe9-4427-a40a-60f275611bf4"
+    }
+  ]
+}
