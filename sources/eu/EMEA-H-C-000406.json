@@ -2989,9 +2989,9 @@
   "ema_product_number": "EMEA/H/C/000406",
   "eu_number": "EU/1/01/198",
   "h_page": {
-    "fetched": "2026-11-01T12:24:37Z",
-    "sha256": "b88748aa474627231d739e8912d0572cbbe6d45cc005dbe60a5b06b585728a98",
-    "size": 101972,
+    "fetched": "2026-11-07T10:53:03Z",
+    "sha256": "1ba3946d551167560482e60b7c5147c3effc47524afe62d2785aa8d078a64bb0",
+    "size": 102264,
     "url": "https://ec.europa.eu/health/documents/community-register/html/h198.htm"
   },
   "inn": "imatinib",
@@ -3000,7 +3000,7 @@
   "procedure_counts": {
     "carried_by_later_decision": 36,
     "decisions_without_annex_files": 0,
-    "procedures": 105,
+    "procedures": 106,
     "with_annex_files": 44,
     "with_decision": 44
   },
@@ -12276,6 +12276,29 @@
       }
     },
     {
+      "closed": "2026-10-08",
+      "decision": {
+        "date": null,
+        "number": null
+      },
+      "ema_number": "EMA/VR/0000355998",
+      "files_anx": null,
+      "files_dec": null,
+      "id": "171534",
+      "oj": {
+        "date": null,
+        "number": null,
+        "page": null,
+        "series": "C"
+      },
+      "remark": null,
+      "type": "Centralised - Variation",
+      "updated_by": {
+        "date": null,
+        "number": null
+      }
+    },
+    {
       "closed": "2026-10-20",
       "decision": {
         "date": "2026-10-19",
@@ -12655,7 +12678,7 @@
     "inn": "Imatinib",
     "mah": "Novartis Europharm Limited",
     "name": "Glivec",
-    "regenerated": "2026/10/27 09:14:18",
+    "regenerated": "2026/11/05 10:40:35",
     "status": "ACTIVE"
   }
 }

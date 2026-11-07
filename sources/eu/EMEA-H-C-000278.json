@@ -2621,9 +2621,9 @@
   "ema_product_number": "EMEA/H/C/000278",
   "eu_number": "EU/1/00/145",
   "h_page": {
-    "fetched": "2026-11-01T12:03:56Z",
-    "sha256": "89de81d61f4a9bc06d7a8ae620bcc3ca0da3e69ca1a3970d70b2f838a1d734c2",
-    "size": 93612,
+    "fetched": "2026-11-07T10:52:56Z",
+    "sha256": "77b83c6a4d38659825f2634b26c3b94e8527b7a7b874ee63e2ee7b43b73726ab",
+    "size": 93904,
     "url": "https://ec.europa.eu/health/documents/community-register/html/h145.htm"
   },
   "inn": "trastuzumab",
@@ -2632,7 +2632,7 @@
   "procedure_counts": {
     "carried_by_later_decision": 38,
     "decisions_without_annex_files": 0,
-    "procedures": 102,
+    "procedures": 103,
     "with_annex_files": 37,
     "with_decision": 37
   },
@@ -11224,6 +11224,29 @@
         "date": null,
         "number": null
       }
+    },
+    {
+      "closed": "2026-10-29",
+      "decision": {
+        "date": null,
+        "number": null
+      },
+      "ema_number": "EMA/VR/0000362557",
+      "files_anx": null,
+      "files_dec": null,
+      "id": "171503",
+      "oj": {
+        "date": null,
+        "number": null,
+        "page": null,
+        "series": "C"
+      },
+      "remark": null,
+      "type": "Centralised - Variation",
+      "updated_by": {
+        "date": null,
+        "number": null
+      }
     }
   ],
   "product_information": [
@@ -11317,7 +11340,7 @@
     "inn": "trastuzumab",
     "mah": "Roche Registration GmbH",
     "name": "Herceptin",
-    "regenerated": "2026/05/28 11:40:01",
+    "regenerated": "2026/11/04 09:22:54",
     "status": "ACTIVE"
   }
 }

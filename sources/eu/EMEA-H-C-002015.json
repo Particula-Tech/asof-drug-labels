@@ -1476,9 +1476,9 @@
   "ema_product_number": "EMEA/H/C/002015",
   "eu_number": "EU/1/11/700",
   "h_page": {
-    "fetched": "2026-11-01T12:44:55Z",
-    "sha256": "b9b192cb0dac7c21c218fdfafaea53a8d699b59809f1444106a4c0a147f808f6",
-    "size": 56364,
+    "fetched": "2026-11-07T10:53:39Z",
+    "sha256": "09831c06972ac9d533a0838f8d80d16ce183e1efa5a26e185f404923b179f61b",
+    "size": 56656,
     "url": "https://ec.europa.eu/health/documents/community-register/html/h700.htm"
   },
   "inn": "belimumab",
@@ -1487,7 +1487,7 @@
   "procedure_counts": {
     "carried_by_later_decision": 26,
     "decisions_without_annex_files": 0,
-    "procedures": 46,
+    "procedures": 47,
     "with_annex_files": 20,
     "with_decision": 20
   },
@@ -6233,6 +6233,29 @@
         "date": null,
         "number": null
       }
+    },
+    {
+      "closed": "2026-10-01",
+      "decision": {
+        "date": null,
+        "number": null
+      },
+      "ema_number": "EMA/VR/0000306408",
+      "files_anx": null,
+      "files_dec": null,
+      "id": "171532",
+      "oj": {
+        "date": null,
+        "number": null,
+        "page": null,
+        "series": "C"
+      },
+      "remark": null,
+      "type": "Centralised - Variation",
+      "updated_by": {
+        "date": null,
+        "number": null
+      }
     }
   ],
   "product_information": [
@@ -6326,7 +6349,7 @@
     "inn": "belimumab",
     "mah": "GlaxoSmithKline (Ireland) Limited",
     "name": "Benlysta",
-    "regenerated": "2026/10/02 16:44:16",
+    "regenerated": "2026/11/05 10:40:38",
     "status": "ACTIVE"
   }
 }

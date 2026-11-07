@@ -1727,9 +1727,9 @@
   "ema_product_number": "EMEA/H/C/000388",
   "eu_number": "EU/1/02/204",
   "h_page": {
-    "fetched": "2026-11-01T12:15:44Z",
-    "sha256": "befd8e87e62bf5dd132fb56740f27c97d39536237fe461a4278f17a854f28a28",
-    "size": 65742,
+    "fetched": "2026-11-07T10:53:01Z",
+    "sha256": "f565e82084d9f43497782de10c1d59a9acd0302c2bb07f2732f1bca28801292a",
+    "size": 66034,
     "url": "https://ec.europa.eu/health/documents/community-register/html/h204.htm"
   },
   "inn": "arsenic-trioxide",
@@ -1738,7 +1738,7 @@
   "procedure_counts": {
     "carried_by_later_decision": 16,
     "decisions_without_annex_files": 1,
-    "procedures": 64,
+    "procedures": 65,
     "with_annex_files": 25,
     "with_decision": 26
   },
@@ -7433,6 +7433,29 @@
         "date": null,
         "number": null
       }
+    },
+    {
+      "closed": "2026-10-29",
+      "decision": {
+        "date": null,
+        "number": null
+      },
+      "ema_number": "EMA/VR/0000333544",
+      "files_anx": null,
+      "files_dec": null,
+      "id": "171527",
+      "oj": {
+        "date": null,
+        "number": null,
+        "page": null,
+        "series": "C"
+      },
+      "remark": null,
+      "type": "Centralised - Variation",
+      "updated_by": {
+        "date": null,
+        "number": null
+      }
     }
   ],
   "product_information": [
@@ -7545,7 +7568,7 @@
     "inn": "Arsenic trioxide",
     "mah": "Teva B.V.",
     "name": "TRISENOX",
-    "regenerated": "2026/05/28 11:40:33",
+    "regenerated": "2026/11/05 10:40:51",
     "status": "ACTIVE"
   }
 }
