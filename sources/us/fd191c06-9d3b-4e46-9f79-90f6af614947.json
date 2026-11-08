@@ -1,5 +1,5 @@
 {
-  "history_title": "METRONIDAZOLE SOLUTION [B. BRAUN MEDICAL INC.]",
+  "history_title": null,
   "inn": "metronidazole",
   "listed_versions": [
     {
@@ -57,12 +57,17 @@
     {
       "published_date": "2026-05-06",
       "version": 30
+    },
+    {
+      "published_date": "2026-11-05",
+      "version": 31
     }
   ],
   "problems": {},
+  "retired_on": "2026-11-08",
   "setid": "fd191c06-9d3b-4e46-9f79-90f6af614947",
   "source": "dailymed",
-  "status": "current",
+  "status": "retired",
   "versions": [
     {
       "published_date": "2006-07-18",
@@ -147,6 +152,13 @@
       "sha256": "c7edfd0720020ec7fa9c9cd3d0048363f8665da912ffc79a18df3f5f9b4edd1e",
       "url": "https://dailymed.nlm.nih.gov/dailymed/getFile.cfm?type=zip&setid=fd191c06-9d3b-4e46-9f79-90f6af614947&version=30",
       "version": 30
+    },
+    {
+      "added": "2026-11-08",
+      "published_date": "2026-11-05",
+      "sha256": "a55f35623731bda4b34d58af94f3fcc3927353810e508711ed0c0e380e040009",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/getArchivalFile.cfm?archive_id=993348",
+      "version": 31
     }
   ]
 }

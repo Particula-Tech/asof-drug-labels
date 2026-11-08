@@ -1,0 +1,261 @@
+{
+  "dailymed_db_published": "Nov 06, 2026 09:13:51PM EST",
+  "date": "2026-11-08",
+  "dry_run": false,
+  "eu": {
+    "appended_count": 0,
+    "batches": [],
+    "capture": {
+      "changed": [],
+      "date": "2026-11-08",
+      "fetch_failed": [],
+      "new": [],
+      "pdf_changed": [],
+      "pi_downloaded": [],
+      "previous": "2026-11-07",
+      "products": 206,
+      "removed": []
+    },
+    "capture_problems": {
+      "EMEA-H-C-006139": {
+        "no-pi-document": "no product-information document in the EPAR documents JSON"
+      }
+    },
+    "commits": 4403,
+    "decisions": [],
+    "head_after": "3e1ce83913bbf9b8610caa24d5b82371b2282be0",
+    "head_before": "3e1ce83913bbf9b8610caa24d5b82371b2282be0",
+    "pending": [],
+    "pending_annexes": [],
+    "problems": {},
+    "record_to": "2026-10-23",
+    "watch": []
+  },
+  "manifest": {
+    "eu": {
+      "build_date": "2026-11-07",
+      "commits": 4403,
+      "head": "3e1ce83913bbf9b8610caa24d5b82371b2282be0",
+      "record_to": "2026-10-23"
+    },
+    "us": {
+      "build_date": "2026-11-08",
+      "commits": 47352,
+      "head": "f91458a4fca074808925f5f9794b0161a4c47ca0",
+      "record_to": "2026-11-06"
+    }
+  },
+  "readme": "written",
+  "run": {
+    "batch": {
+      "eu": "2026-11-08",
+      "us": "2026-11-08"
+    },
+    "budget": 5992,
+    "date": "2026-11-08",
+    "eu_crosswalk": {},
+    "mode": "network",
+    "requests": {
+      "dailymed.nlm.nih.gov": 4011,
+      "ec.europa.eu": 206,
+      "www.ema.europa.eu": 2
+    },
+    "requests_total": 4219,
+    "seconds": 2132.6,
+    "started": "2026-11-08T12:38:35Z",
+    "sweep_retries": {
+      "from": "2026-10-09",
+      "resolved": [],
+      "retried": []
+    },
+    "transient_retries": {
+      "count": 0,
+      "statuses": {}
+    }
+  },
+  "summary": "Daily update 2026-11-08: 4 US versions, 0 EU decisions appended; US record to 2026-11-06, EU record to 2026-10-23",
+  "sweep": true,
+  "tags": {
+    "eu": {
+      "commit": "3e1ce83913bbf9b8610caa24d5b82371b2282be0",
+      "object": "796f397b0566d0bba6042663691ec487ce1a12b8",
+      "tag": "daily/2026-11-08"
+    },
+    "us": {
+      "commit": "f91458a4fca074808925f5f9794b0161a4c47ca0",
+      "object": "312e06b4b6ca91a51c90adfdae283552040ce73e",
+      "tag": "daily/2026-11-08"
+    }
+  },
+  "us": {
+    "appended": [
+      {
+        "added": "2026-11-08",
+        "commit": "e67888b787cf22397d3571e7b3260cc7332de135",
+        "inn": "gemfibrozil",
+        "published_date": "2026-11-02",
+        "setid": "c48855b7-215e-453b-b3b1-a0f9dee7221f",
+        "title": null,
+        "version": 24
+      },
+      {
+        "added": "2026-11-08",
+        "commit": "d6c4e6849a3c3e649dc6ac95204485128b371aad",
+        "inn": "adapalene",
+        "published_date": "2026-11-04",
+        "setid": "f4e5d381-098a-4c93-9ff0-002cae46daac",
+        "title": null,
+        "version": 9
+      },
+      {
+        "added": "2026-11-08",
+        "commit": "4352f685d304721dc010877af147ae22c62aff3a",
+        "inn": "loteprednol",
+        "published_date": "2026-11-05",
+        "setid": "7bbdbd31-5a8f-4d69-aa8e-5b700895e804",
+        "title": null,
+        "version": 3
+      },
+      {
+        "added": "2026-11-08",
+        "commit": "f91458a4fca074808925f5f9794b0161a4c47ca0",
+        "inn": "metronidazole",
+        "published_date": "2026-11-05",
+        "setid": "fd191c06-9d3b-4e46-9f79-90f6af614947",
+        "title": null,
+        "version": 31
+      }
+    ],
+    "appended_count": 4,
+    "batches": [
+      "2026-11-08"
+    ],
+    "candidates": [
+      {
+        "action": "pinned",
+        "inn": "aprepitant",
+        "pinned_max": 43,
+        "published_date": "2026-11-06",
+        "setid": "696f9e80-9cae-403b-de9e-078343ce4713",
+        "title": "EMEND (APREPITANT) CAPSULE EMEND (APREPITANT) KIT EMEND (APREPITANT) POWDER, FOR SUSPENSION [MERCK SHARP & DOHME LLC]",
+        "version": 43
+      },
+      {
+        "action": "pinned",
+        "inn": "heparin",
+        "pinned_max": 39,
+        "published_date": "2026-11-06",
+        "setid": "92a6f533-1a3d-4734-b413-d245592454e3",
+        "title": "HEPARIN SODIUM IN DEXTROSE (HEPARIN SODIUM AND DEXTROSE) INJECTION [B. BRAUN MEDICAL INC.]",
+        "version": 39
+      },
+      {
+        "action": "pinned",
+        "inn": "mycophenolate-mofetil",
+        "pinned_max": 21,
+        "published_date": "2026-11-06",
+        "setid": "99b2eb58-8d14-48fc-bbe1-aacb711a783e",
+        "title": "MYCOPHENOLATE MOFETIL CAPSULE MYCOPHENOLATE MOFETIL TABLET, FILM COATED [SANDOZ INC]",
+        "version": 21
+      },
+      {
+        "action": "pinned",
+        "inn": "heparin",
+        "pinned_max": 31,
+        "published_date": "2026-11-06",
+        "setid": "a3041c04-0ea8-4d36-81ce-c5091c906316",
+        "title": "HEPARIN SODIUM IN SODIUM CHLORIDE INJECTION [B. BRAUN MEDICAL INC.]",
+        "version": 31
+      },
+      {
+        "action": "pinned",
+        "inn": "ammonia-n-13",
+        "pinned_max": 6,
+        "published_date": "2026-11-06",
+        "setid": "b1559f8a-1fc8-4a9e-b4f4-5e2efcb1f12c",
+        "title": "AMMONIA N 13 (AMMONIA N-13) INJECTION [PETNET SOLUTIONS, INC.]",
+        "version": 6
+      },
+      {
+        "action": "pinned",
+        "inn": "vasopressin",
+        "pinned_max": 6,
+        "published_date": "2026-11-06",
+        "setid": "b5b2c367-6b7e-40be-a296-c4632f3e783f",
+        "title": "VASOPRESSIN IN 0.9% SODIUM CHLORIDE INJECTION [BAXTER HEALTHCARE CORPORATION]",
+        "version": 6
+      },
+      {
+        "action": "pinned",
+        "inn": "dimethyl-fumarate",
+        "pinned_max": 8,
+        "published_date": "2026-11-06",
+        "setid": "b856ac70-71cd-477b-95b1-0a6132c260e8",
+        "title": "DIMETHYL FUMARATE (DIMETHYL FUMARATE) CAPSULE, DELAYED RELEASE DIMETHYL FUMARATE KIT [CAMBER PHARMACEUTICALS, INC.]",
+        "version": 8
+      },
+      {
+        "action": "pinned",
+        "inn": "cyclosporine",
+        "pinned_max": 7,
+        "published_date": "2026-11-06",
+        "setid": "c795cd2f-89da-78e3-e053-2a95a90a9422",
+        "title": "VERKAZIA (CYCLOSPORINE) EMULSION [SANTEN INCORPORATED]",
+        "version": 7
+      },
+      {
+        "action": "pinned",
+        "inn": "pantoprazole",
+        "pinned_max": 2,
+        "published_date": "2026-11-06",
+        "setid": "c857dc41-7b47-4f26-a9f5-d76eb82b44ee",
+        "title": "PANTOPRAZOLE SODIUM INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [CIVICA, INC.]",
+        "version": 2
+      },
+      {
+        "action": "pinned",
+        "inn": "ketorolac",
+        "pinned_max": 17,
+        "published_date": "2026-11-06",
+        "setid": "c94644d3-7b64-4f3d-a0c7-12c77466a0fc",
+        "title": "ACULAR (KETOROLAC TROMETHAMINE) SOLUTION/ DROPS [ALLERGAN, INC.]",
+        "version": 17
+      },
+      {
+        "action": "pinned",
+        "inn": "penicillin-g",
+        "pinned_max": 22,
+        "published_date": "2026-11-06",
+        "setid": "efef4846-9497-41af-8dd6-518f86eca7f2",
+        "title": "PFIZERPEN (PENICILLIN G POTASSIUM) POWDER, FOR SOLUTION [ROERIG]",
+        "version": 22
+      }
+    ],
+    "commits": 47352,
+    "head_after": "f91458a4fca074808925f5f9794b0161a4c47ca0",
+    "head_before": "8e02e102eebc715d0c962e21272e4493f0de1916",
+    "listing": {
+      "db_published_date": "Nov 06, 2026 09:13:51PM EST",
+      "from": "2026-11-06",
+      "pages": 3,
+      "rows": 275,
+      "total_elements": 275
+    },
+    "not_committed": [],
+    "problems": {},
+    "record_to": "2026-11-06",
+    "record_to_before": "2026-11-06",
+    "retired": [
+      "028455e0-ae77-4213-8819-3b58ef7d6a14",
+      "27208dff-e376-4c18-b56e-0a260f685a39",
+      "7bbdbd31-5a8f-4d69-aa8e-5b700895e804",
+      "b2747a9d-5fca-4657-9e4b-4112607f30d8",
+      "c36cadf4-65a4-4466-b409-c82020b42452",
+      "c48855b7-215e-453b-b3b1-a0f9dee7221f",
+      "caab50e6-0dad-4ddd-9a6c-96cc2b87aee7",
+      "effd952d-ac94-47bb-b107-589a4934dcca",
+      "f4e5d381-098a-4c93-9ff0-002cae46daac",
+      "fd191c06-9d3b-4e46-9f79-90f6af614947"
+    ]
+  }
+}
