@@ -53,20 +53,20 @@
   "run": {
     "batch": {
       "eu": "2026-11-10",
-      "us": "2026-11-10"
+      "us": "2026-11-10.2"
     },
     "budget": 2000,
     "date": "2026-11-10",
     "eu_crosswalk": {},
     "mode": "network",
     "requests": {
-      "dailymed.nlm.nih.gov": 54,
+      "dailymed.nlm.nih.gov": 31,
       "ec.europa.eu": 206,
-      "www.ema.europa.eu": 3
+      "www.ema.europa.eu": 2
     },
-    "requests_total": 263,
-    "seconds": 151.5,
-    "started": "2026-11-10T04:12:55Z",
+    "requests_total": 239,
+    "seconds": 144.1,
+    "started": "2026-11-10T14:11:04Z",
     "transient_retries": {
       "count": 0,
       "statuses": {}
