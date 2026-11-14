@@ -332,9 +332,9 @@
   "ema_product_number": "EMEA/H/C/006139",
   "eu_number": "EU/1/24/1846",
   "h_page": {
-    "fetched": "2026-11-01T12:54:09Z",
-    "sha256": "8b2850e70d50ec1e90e8075dc853ac7e104340d8cdb7a71951830b53382afdda",
-    "size": 23024,
+    "fetched": "2026-11-14T12:54:39Z",
+    "sha256": "b58e7f26de64eea5266274e96097c61d6de6d6737bac780a20c2ddb4f359af6e",
+    "size": 23316,
     "url": "https://ec.europa.eu/health/documents/community-register/html/h1846.htm"
   },
   "inn": "epinephrine",
@@ -343,7 +343,7 @@
   "procedure_counts": {
     "carried_by_later_decision": 3,
     "decisions_without_annex_files": 0,
-    "procedures": 10,
+    "procedures": 11,
     "with_annex_files": 6,
     "with_decision": 6
   },
@@ -1335,6 +1335,29 @@
         "date": null,
         "number": null
       }
+    },
+    {
+      "closed": "2026-11-10",
+      "decision": {
+        "date": null,
+        "number": null
+      },
+      "ema_number": "EMA/VR/0000380714",
+      "files_anx": null,
+      "files_dec": null,
+      "id": "171622",
+      "oj": {
+        "date": null,
+        "number": null,
+        "page": null,
+        "series": "C"
+      },
+      "remark": null,
+      "type": "Centralised - Variation",
+      "updated_by": {
+        "date": null,
+        "number": null
+      }
     }
   ],
   "product_information": [
@@ -1428,7 +1451,7 @@
     "inn": "Epinephrine",
     "mah": "ALK-Abell&#243; A/S",
     "name": "EURneffy",
-    "regenerated": "2026/06/17 10:41:50",
+    "regenerated": "2026/11/13 08:57:25",
     "status": "ACTIVE"
   }
 }

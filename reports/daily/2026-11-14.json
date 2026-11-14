@@ -1,0 +1,874 @@
+{
+  "dailymed_db_published": "Nov 13, 2026 09:21:38PM EST",
+  "date": "2026-11-14",
+  "dry_run": false,
+  "eu": {
+    "appended_count": 0,
+    "batches": [],
+    "capture": {
+      "changed": [
+        "EMEA-H-C-000082",
+        "EMEA-H-C-000388",
+        "EMEA-H-C-000406",
+        "EMEA-H-C-006139"
+      ],
+      "date": "2026-11-14",
+      "fetch_failed": [],
+      "new": [],
+      "pdf_changed": [
+        "EMEA-H-C-000082",
+        "EMEA-H-C-000388",
+        "EMEA-H-C-000406"
+      ],
+      "pi_downloaded": [
+        "EMEA-H-C-000082",
+        "EMEA-H-C-000388",
+        "EMEA-H-C-000406"
+      ],
+      "previous": "2026-11-10",
+      "products": 206,
+      "removed": []
+    },
+    "capture_problems": {
+      "EMEA-H-C-006139": {
+        "no-pi-document": "no product-information document in the EPAR documents JSON"
+      }
+    },
+    "commits": 4403,
+    "decisions": [],
+    "head_after": "3e1ce83913bbf9b8610caa24d5b82371b2282be0",
+    "head_before": "3e1ce83913bbf9b8610caa24d5b82371b2282be0",
+    "pending": [
+      "EMEA-H-C-000082",
+      "EMEA-H-C-000388",
+      "EMEA-H-C-000406"
+    ],
+    "pending_annexes": [],
+    "problems": {},
+    "record_to": "2026-10-23",
+    "watch": []
+  },
+  "manifest": {
+    "eu": {
+      "build_date": "2026-11-07",
+      "commits": 4403,
+      "head": "3e1ce83913bbf9b8610caa24d5b82371b2282be0",
+      "record_to": "2026-10-23"
+    },
+    "us": {
+      "build_date": "2026-11-14",
+      "commits": 47405,
+      "head": "25e84ec6fae9820866afb59299038136ac362e2a",
+      "record_to": "2026-11-13"
+    }
+  },
+  "readme": "written",
+  "run": {
+    "batch": {
+      "eu": "2026-11-14",
+      "us": "2026-11-14"
+    },
+    "budget": 2000,
+    "date": "2026-11-14",
+    "eu_crosswalk": {},
+    "mode": "network",
+    "requests": {
+      "dailymed.nlm.nih.gov": 73,
+      "ec.europa.eu": 206,
+      "www.ema.europa.eu": 5
+    },
+    "requests_total": 284,
+    "seconds": 161.0,
+    "started": "2026-11-14T12:52:06Z",
+    "transient_retries": {
+      "count": 0,
+      "statuses": {}
+    }
+  },
+  "summary": "Daily update 2026-11-14: 30 US versions, 0 EU decisions appended; US record to 2026-11-13, EU record to 2026-10-23",
+  "sweep": false,
+  "tags": {
+    "eu": {
+      "commit": "3e1ce83913bbf9b8610caa24d5b82371b2282be0",
+      "object": "0c1e825874e966e0293008662da9bed1f7c4ed70",
+      "tag": "daily/2026-11-14"
+    },
+    "us": {
+      "commit": "25e84ec6fae9820866afb59299038136ac362e2a",
+      "object": "819c610fe21d00325b7efac65d8eaf7e4bf3385c",
+      "tag": "daily/2026-11-14"
+    }
+  },
+  "us": {
+    "appended": [
+      {
+        "added": "2026-11-14",
+        "commit": "1f78a5f76fdd3a0444521ada420fc93c3db56c8f",
+        "inn": "norepinephrine",
+        "published_date": "2026-11-10",
+        "setid": "759807dd-61a8-4f6f-8bf5-f6ee773c81bc",
+        "title": "NOREPINEPHRINE (NOREPINEPHRINE BITARTRATE) SOLUTION [LONG GROVE PHARMACEUTICALS, LLC]",
+        "version": 3
+      },
+      {
+        "added": "2026-11-14",
+        "commit": "678ed08f95e99cead2286749d8b1176ea577305b",
+        "inn": "lorazepam",
+        "published_date": "2026-11-11",
+        "setid": "5140798d-8571-41fb-84a4-e182aac3f64c",
+        "title": "LORAZEPAM INJECTION [CIVICA, INC.]",
+        "version": 4
+      },
+      {
+        "added": "2026-11-14",
+        "commit": "3d1a15da2944408fc2cbab9e33f5c5a3c7c5d88c",
+        "inn": "nystatin",
+        "published_date": "2026-11-11",
+        "setid": "aee7ce4c-8cc6-4446-a4d7-63bc4773066f",
+        "title": "NYSTATIN OINTMENT [ACTAVIS PHARMA, INC.]",
+        "version": 9
+      },
+      {
+        "added": "2026-11-14",
+        "commit": "84526e0a8b4c79d8bd33b7dcf848f93890a07bc5",
+        "inn": "bupivacaine",
+        "published_date": "2026-11-11",
+        "setid": "bb5a9e59-0f51-11df-8a39-0800200c9a66",
+        "title": "EXPAREL (BUPIVACAINE) INJECTION, SUSPENSION, LIPOSOMAL [PACIRA PHARMACEUTICALS, INC.]",
+        "version": 33
+      },
+      {
+        "added": "2026-11-14",
+        "commit": "6547f1c707625a6416e4adc94d6c664caf179857",
+        "inn": "escitalopram",
+        "published_date": "2026-11-11",
+        "setid": "c0401570-a3b0-bef2-7365-c23dc952b8b6",
+        "title": "ESCITALOPRAM CAPSULE [ALMATICA PHARMA LLC]",
+        "version": 2
+      },
+      {
+        "added": "2026-11-14",
+        "commit": "e4fe8fe5c97cd36a79c0e983fe2f1c5b911cc7ca",
+        "inn": "everolimus",
+        "published_date": "2026-11-11",
+        "setid": "cf2dd54b-7a1d-4401-9a01-75e68235e433",
+        "title": "EVEROLIMUS TABLET [HIKMA PHARMACEUTICALS USA INC.]",
+        "version": 9
+      },
+      {
+        "added": "2026-11-14",
+        "commit": "d1ae563401e7c73da18b521ed06adcc96008bd16",
+        "inn": "cevimeline",
+        "published_date": "2026-11-11",
+        "setid": "dac32a9b-05b8-42c2-9a29-d885a9279456",
+        "title": "EVOXAC (CEVIMELINE HYDROCHLORIDE) CAPSULE EVOXAC (CEVIMELINE HYDROCHLORIDE) SOLUTION [COSETTE PHARMACEUTICALS, INC.]",
+        "version": 3
+      },
+      {
+        "added": "2026-11-14",
+        "commit": "82e4efa1bd94185705b4c1608a8d7b3b2887bf1e",
+        "inn": "trazodone",
+        "published_date": "2026-11-12",
+        "setid": "295e92a9-bcb0-4d53-ba62-e30020e9834b",
+        "title": "TRAZODONE HYDROCHLORIDE TABLET [AUROLIFE PHARMA LLC]",
+        "version": 10
+      },
+      {
+        "added": "2026-11-14",
+        "commit": "530702f6df83e0106f1bf72bcffc5ab56f057046",
+        "inn": "estradiol",
+        "published_date": "2026-11-12",
+        "setid": "6c5c47ab-28ee-11e1-bfc2-0800200c9a66",
+        "title": "MINIVELLE (ESTRADIOL) FILM, EXTENDED RELEASE [NOVEN THERAPEUTICS, LLC]",
+        "version": 21
+      },
+      {
+        "added": "2026-11-14",
+        "commit": "717bfe363146b1704941f345c92e0ac6c8fdc29b",
+        "inn": "ivabradine",
+        "published_date": "2026-11-12",
+        "setid": "92018a65-38f6-45f7-91d4-a34921b81d0d",
+        "title": "CORLANOR (IVABRADINE) TABLET, FILM COATED CORLANOR (IVABRADINE) SOLUTION [AMGEN INC]",
+        "version": 36
+      },
+      {
+        "added": "2026-11-14",
+        "commit": "65c51f095c3b9c70b3747fab10e5201f358214e9",
+        "inn": "atovaquone",
+        "published_date": "2026-11-12",
+        "setid": "b31ff20a-c363-4be0-9bc0-3081c163b63c",
+        "title": "ATOVAQUONE ORAL SUSPENSION (ATOVAQUONE) SUSPENSION [KVK-TECH, INC.]",
+        "version": 9
+      },
+      {
+        "added": "2026-11-14",
+        "commit": "2e3f43f141ea6037531d45453f68d837fd6f72b2",
+        "inn": "estradiol",
+        "published_date": "2026-11-12",
+        "setid": "bf185599-2138-4083-9c52-2b95dce09ae0",
+        "title": "ESTRADIOL FILM, EXTENDED RELEASE [NOVEN THERAPEUTICS, LLC]",
+        "version": 7
+      },
+      {
+        "added": "2026-11-14",
+        "commit": "08ef89f7004525ccc81529efec05dd55ec476e38",
+        "inn": "entecavir",
+        "published_date": "2026-11-12",
+        "setid": "def332bf-2906-4a6c-b85d-dfb56bb94312",
+        "title": "ENTECAVIR TABLET [AUROBINDO PHARMA LIMITED]",
+        "version": 10
+      },
+      {
+        "added": "2026-11-14",
+        "commit": "74e09ffbd08afe5ec78e8260c419d6753abf6d11",
+        "inn": "apixaban",
+        "published_date": "2026-11-12",
+        "setid": "e9481622-7cc6-418a-acb6-c5450daae9b0",
+        "title": "ELIQUIS (APIXABAN) TABLET, FILM COATED ELIQUIS 30-DAY STARTER PACK (APIXABAN) KIT ELIQUIS (APIXABAN) TABLET, FOR SUSPENSION ELIQUIS SPRINKLE (APIXABAN) CAPSULE [E.R. SQUIBB & SONS, L.L.C.]",
+        "version": 39
+      },
+      {
+        "added": "2026-11-14",
+        "commit": "d817b991b65cc99140c826b3a4812991760a44c3",
+        "inn": "heparin",
+        "published_date": "2026-11-13",
+        "setid": "13b3a61e-5a4b-4afb-8fa1-d76ebdb344d6",
+        "title": "DEFENCATH (TAUROLIDINE AND HEPARIN) SOLUTION [CORMEDIX, INC.]",
+        "version": 10
+      },
+      {
+        "added": "2026-11-14",
+        "commit": "d15dda9e8814411e8deb660ade85d191f1f44354",
+        "inn": "baclofen",
+        "published_date": "2026-11-13",
+        "setid": "2a75db96-590a-43cf-aefb-3bbcb287dbf0",
+        "title": "BACLOFEN TABLET [CHARTWELL RX, LLC]",
+        "version": 5
+      },
+      {
+        "added": "2026-11-14",
+        "commit": "d412f5698e82a79b3aa17fec4444de8bb3f3e2bd",
+        "inn": "belimumab",
+        "published_date": "2026-11-13",
+        "setid": "2fa3c528-1777-4628-8a55-a69dae2381a3",
+        "title": "BENLYSTA (BELIMUMAB) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION BENLYSTA (BELIMUMAB) SOLUTION [GLAXOSMITHKLINE LLC]",
+        "version": 39
+      },
+      {
+        "added": "2026-11-14",
+        "commit": "54aa30a8d3c282bd82e9718f356f9414c5344e9d",
+        "inn": "ketorolac",
+        "published_date": "2026-11-13",
+        "setid": "4fad0873-f79c-4f07-9fac-5060be6b38fe",
+        "title": "ACULAR LS (KETOROLAC TROMETHAMINE) SOLUTION/ DROPS [ALLERGAN, INC.]",
+        "version": 18
+      },
+      {
+        "added": "2026-11-14",
+        "commit": "2871bf56583ffff20819c6204734a960b13a20b4",
+        "inn": "fludeoxyglucose-f-18",
+        "published_date": "2026-11-13",
+        "setid": "5d05df4a-463e-4e66-9387-f3a842e20cd0",
+        "title": "FLUDEOXYGLUCOSE F 18 (FLUDEOXYGLUCOSE F-18) INJECTION, SOLUTION [JUBILANT DRAXIMAGE INC., DBA JUBILANT RADIOPHARMA]",
+        "version": 19
+      },
+      {
+        "added": "2026-11-14",
+        "commit": "f5f3d41fcb28e628f0f93b783c5f8a6601dc6e49",
+        "inn": "dasatinib",
+        "published_date": "2026-11-13",
+        "setid": "60976d1e-c415-417f-8168-4e07999a7281",
+        "title": "PHYRAGO (DASATINIB) TABLET [CYCLE PHARMACEUTICALS LTD]",
+        "version": 5
+      },
+      {
+        "added": "2026-11-14",
+        "commit": "f5ed8bfdd307cf970dee8493cd92cb308766eacc",
+        "inn": "bisoprolol",
+        "published_date": "2026-11-13",
+        "setid": "6517d564-ea55-4084-a8ab-34fea548c24e",
+        "title": "BISOPROLOL FUMARATE TABLET [ANI PHARMACEUTICALS, INC.]",
+        "version": 2
+      },
+      {
+        "added": "2026-11-14",
+        "commit": "584622599697fc3722a0f53ce5673128b6bfdafa",
+        "inn": "atomoxetine",
+        "published_date": "2026-11-13",
+        "setid": "973bdc9b-6421-7e00-e2b6-3cce036d363e",
+        "title": "ATOMOXETINE CAPSULE [DR. REDDY'S LABORATORIES LIMITED]",
+        "version": 9
+      },
+      {
+        "added": "2026-11-14",
+        "commit": "afcd49abcdf834c8a25ba654f8e4386db0c2460f",
+        "inn": "filgrastim",
+        "published_date": "2026-11-13",
+        "setid": "97cc73cc-b5b7-458a-a933-77b00523e193",
+        "title": "NEUPOGEN (FILGRASTIM) INJECTION, SOLUTION [AMGEN, INC]",
+        "version": 167
+      },
+      {
+        "added": "2026-11-14",
+        "commit": "0d7bcad70a0ecd883aa66127dc847a931f5fb548",
+        "inn": "daratumumab",
+        "published_date": "2026-11-13",
+        "setid": "a4d0efe9-5e54-467e-9eb4-56fa7d53b60b",
+        "title": "DARZALEX (DARATUMUMAB) INJECTION, SOLUTION, CONCENTRATE DARZALEX IV (DARATUMUMAB) INJECTION, SOLUTION, CONCENTRATE [JANSSEN BIOTECH, INC.]",
+        "version": 47
+      },
+      {
+        "added": "2026-11-14",
+        "commit": "8410f5c6c06e3aab218406b00036771c31971d49",
+        "inn": "dexamethasone",
+        "published_date": "2026-11-13",
+        "setid": "b15200fb-1826-472b-a907-e677a272513b",
+        "title": "DEXAMETHASONE TABLET DEXAMETHASONE INTENSOL SOLUTION, CONCENTRATE DEXAMETHASONE SOLUTION [HIKMA PHARMACEUTICALS USA, INC.]",
+        "version": 12
+      },
+      {
+        "added": "2026-11-14",
+        "commit": "34561ed0d2a8dda78779d61167d2bb1c41afd9db",
+        "inn": "colchicine",
+        "published_date": "2026-11-13",
+        "setid": "cb5f9d85-6b81-49f8-bcd6-17b7bfbc10f2",
+        "title": "MITIGARE (COLCHICINE) CAPSULE [HIKMA SPECIALTY USA INC.]",
+        "version": 20
+      },
+      {
+        "added": "2026-11-14",
+        "commit": "07e30cacea7e3f23b57eb8c89495359385a5e5ae",
+        "inn": "tofacitinib",
+        "published_date": "2026-11-13",
+        "setid": "cf74ba2f-afc5-4baa-8594-979c889a5831",
+        "title": "XELJANZ (TOFACITINIB) TABLET, FILM COATED XELJANZ XR (TOFACITINIB) TABLET, FILM COATED, EXTENDED RELEASE XELJANZ (TOFACITINIB) SOLUTION [PFIZER LABORATORIES DIV PFIZER INC]",
+        "version": 56
+      },
+      {
+        "added": "2026-11-14",
+        "commit": "26e73c64f36db86f47bcfd315f7b0331db6ed0f5",
+        "inn": "testosterone",
+        "published_date": "2026-11-13",
+        "setid": "cfbb53d4-b868-4a28-8436-f9112eb01c39",
+        "title": "DEPO-TESTOSTERONE (TESTOSTERONE CYPIONATE) INJECTION, SOLUTION [PHARMACIA & UPJOHN COMPANY LLC]",
+        "version": 27
+      },
+      {
+        "added": "2026-11-14",
+        "commit": "7e3d7e50eef6f65eb23de28d9e192722c2ca3aa7",
+        "inn": "clobazam",
+        "published_date": "2026-11-13",
+        "setid": "de03bd69-2dca-459c-93b4-541fd3e9571c",
+        "title": "ONFI (CLOBAZAM) TABLET ONFI (CLOBAZAM) SUSPENSION [LUNDBECK PHARMACEUTICALS LLC]",
+        "version": 44
+      },
+      {
+        "added": "2026-11-14",
+        "commit": "25e84ec6fae9820866afb59299038136ac362e2a",
+        "inn": "empagliflozin",
+        "published_date": "2026-11-13",
+        "setid": "faf3dd6a-9cd0-39c2-0d2e-232cb3f67565",
+        "title": "JARDIANCE (EMPAGLIFLOZIN) TABLET, FILM COATED [BOEHRINGER INGELHEIM PHARMACEUTICALS, INC.]",
+        "version": 32
+      }
+    ],
+    "appended_count": 30,
+    "batches": [
+      "2026-11-14"
+    ],
+    "candidates": [
+      {
+        "action": "pinned",
+        "inn": "ranibizumab",
+        "pinned_max": 3,
+        "published_date": "2026-11-09",
+        "setid": "05ed75bc-ae21-480b-9be4-cbc51689dd8a",
+        "title": "NUFYMCO (RANIBIZUMAB-LEYK) INJECTION, SOLUTION [ZYDUS PHARMACEUTICALS USA INC.]",
+        "version": 3
+      },
+      {
+        "action": "fetch",
+        "inn": "heparin",
+        "pinned_max": 8,
+        "published_date": "2026-11-13",
+        "setid": "13b3a61e-5a4b-4afb-8fa1-d76ebdb344d6",
+        "title": "DEFENCATH (TAUROLIDINE AND HEPARIN) SOLUTION [CORMEDIX, INC.]",
+        "version": 10
+      },
+      {
+        "action": "pinned",
+        "inn": "linezolid",
+        "pinned_max": 18,
+        "published_date": "2026-11-09",
+        "setid": "16007ca5-7956-4414-af38-406a6623400e",
+        "title": "LINEZOLID POWDER, FOR SUSPENSION [HIKMA PHARMACEUTICALS USA INC.]",
+        "version": 18
+      },
+      {
+        "action": "pinned",
+        "inn": "citalopram",
+        "pinned_max": 24,
+        "published_date": "2026-11-09",
+        "setid": "29408d84-7b00-4cee-969c-8095f8083ff5",
+        "title": "CITALOPRAM SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+        "version": 24
+      },
+      {
+        "action": "fetch",
+        "inn": "trazodone",
+        "pinned_max": 9,
+        "published_date": "2026-11-12",
+        "setid": "295e92a9-bcb0-4d53-ba62-e30020e9834b",
+        "title": "TRAZODONE HYDROCHLORIDE TABLET [AUROLIFE PHARMA LLC]",
+        "version": 10
+      },
+      {
+        "action": "fetch",
+        "inn": "baclofen",
+        "pinned_max": 4,
+        "published_date": "2026-11-13",
+        "setid": "2a75db96-590a-43cf-aefb-3bbcb287dbf0",
+        "title": "BACLOFEN TABLET [CHARTWELL RX, LLC]",
+        "version": 5
+      },
+      {
+        "action": "pinned",
+        "inn": "triamcinolone-acetonide",
+        "pinned_max": 27,
+        "published_date": "2026-11-09",
+        "setid": "2c7fee2c-6f57-4de4-8803-98c0b31b07c3",
+        "title": "TRIDERM (TRIAMCINOLONE ACETONIDE) CREAM [CROWN LABORATORIES]",
+        "version": 27
+      },
+      {
+        "action": "fetch",
+        "inn": "belimumab",
+        "pinned_max": 38,
+        "published_date": "2026-11-13",
+        "setid": "2fa3c528-1777-4628-8a55-a69dae2381a3",
+        "title": "BENLYSTA (BELIMUMAB) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION BENLYSTA (BELIMUMAB) SOLUTION [GLAXOSMITHKLINE LLC]",
+        "version": 39
+      },
+      {
+        "action": "pinned",
+        "inn": "midodrine",
+        "pinned_max": 12,
+        "published_date": "2026-11-09",
+        "setid": "32fad00b-7e7b-4d35-9e8b-fdc979fdb88e",
+        "title": "MIDODRINE HYDROCHLORIDE TABLET [MYLAN PHARMACEUTICALS INC.]",
+        "version": 12
+      },
+      {
+        "action": "pinned",
+        "inn": "botulinum-toxin-type-a",
+        "pinned_max": 13,
+        "published_date": "2026-11-09",
+        "setid": "3aaa6e14-a3f7-4fb2-b9f9-d3a9c3ae1f74",
+        "title": "DAXXIFY (BOTULINUM TOXIN TYPE A) INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [REVANCE THERAPEUTICS, INC.]",
+        "version": 13
+      },
+      {
+        "action": "pinned",
+        "inn": "brivaracetam",
+        "pinned_max": 28,
+        "published_date": "2026-11-09",
+        "setid": "3cf2f439-0e97-443e-8e33-25ecef616f6c",
+        "title": "BRIVIACT (BRIVARACETAM) TABLET, FILM COATED BRIVIACT (BRIVARACETAM) SOLUTION BRIVIACT (BRIVARACETAM) INJECTION, SUSPENSION [UCB, INC.]",
+        "version": 28
+      },
+      {
+        "action": "pinned",
+        "inn": "buspirone",
+        "pinned_max": 14,
+        "published_date": "2026-11-09",
+        "setid": "3da22999-f5fb-49fd-acde-c3006598e985",
+        "title": "BUSPIRONE HYDROCHLORIDE TABLET [ACCORD HEALTHCARE INC.]",
+        "version": 14
+      },
+      {
+        "action": "pinned",
+        "inn": "sodium-phenylbutyrate",
+        "pinned_max": 10,
+        "published_date": "2026-11-09",
+        "setid": "463a36fa-3eb2-4326-8bd0-c8c7a11bca3a",
+        "title": "BUPHENYL (SODIUM PHENYLBUTYRATE) TABLET BUPHENYL (SODIUM PHENYLBUTYRATE) POWDER [HORIZON THERAPEUTICS USA, INC.]",
+        "version": 10
+      },
+      {
+        "action": "fetch",
+        "inn": "ketorolac",
+        "pinned_max": 17,
+        "published_date": "2026-11-13",
+        "setid": "4fad0873-f79c-4f07-9fac-5060be6b38fe",
+        "title": "ACULAR LS (KETOROLAC TROMETHAMINE) SOLUTION/ DROPS [ALLERGAN, INC.]",
+        "version": 18
+      },
+      {
+        "action": "fetch",
+        "inn": "lorazepam",
+        "pinned_max": 3,
+        "published_date": "2026-11-11",
+        "setid": "5140798d-8571-41fb-84a4-e182aac3f64c",
+        "title": "LORAZEPAM INJECTION [CIVICA, INC.]",
+        "version": 4
+      },
+      {
+        "action": "pinned",
+        "inn": "levodopa",
+        "pinned_max": 12,
+        "published_date": "2026-11-09",
+        "setid": "5217a6ec-cc26-4acc-b2da-17f6545c3b60",
+        "title": "CARBIDOPA AND LEVODOPA TABLET, EXTENDED RELEASE [ACCORD HEALTHCARE, INC.]",
+        "version": 12
+      },
+      {
+        "action": "fetch",
+        "inn": "fludeoxyglucose-f-18",
+        "pinned_max": 18,
+        "published_date": "2026-11-13",
+        "setid": "5d05df4a-463e-4e66-9387-f3a842e20cd0",
+        "title": "FLUDEOXYGLUCOSE F 18 (FLUDEOXYGLUCOSE F-18) INJECTION, SOLUTION [JUBILANT DRAXIMAGE INC., DBA JUBILANT RADIOPHARMA]",
+        "version": 19
+      },
+      {
+        "action": "pinned",
+        "inn": "sodium-oxybate",
+        "pinned_max": 4,
+        "published_date": "2026-11-09",
+        "setid": "5dcf9a5c-312b-420b-82f3-42177d8f9ee4",
+        "title": "SODIUM OXYBATE SOLUTION [CAMBER PHARMACEUTICALS, INC.]",
+        "version": 4
+      },
+      {
+        "action": "fetch",
+        "inn": "dasatinib",
+        "pinned_max": 4,
+        "published_date": "2026-11-13",
+        "setid": "60976d1e-c415-417f-8168-4e07999a7281",
+        "title": "PHYRAGO (DASATINIB) TABLET [CYCLE PHARMACEUTICALS LTD]",
+        "version": 5
+      },
+      {
+        "action": "fetch",
+        "inn": "bisoprolol",
+        "pinned_max": 1,
+        "published_date": "2026-11-13",
+        "setid": "6517d564-ea55-4084-a8ab-34fea548c24e",
+        "title": "BISOPROLOL FUMARATE TABLET [ANI PHARMACEUTICALS, INC.]",
+        "version": 2
+      },
+      {
+        "action": "pinned",
+        "inn": "cinacalcet",
+        "pinned_max": 9,
+        "published_date": "2026-11-09",
+        "setid": "6bad4e06-c0a1-4123-83c2-67d3b081e8a9",
+        "title": "CINACALCET TABLET, FILM COATED [ACCORD HEALTHCARE, INC.]",
+        "version": 9
+      },
+      {
+        "action": "fetch",
+        "inn": "estradiol",
+        "pinned_max": 20,
+        "published_date": "2026-11-12",
+        "setid": "6c5c47ab-28ee-11e1-bfc2-0800200c9a66",
+        "title": "MINIVELLE (ESTRADIOL) FILM, EXTENDED RELEASE [NOVEN THERAPEUTICS, LLC]",
+        "version": 21
+      },
+      {
+        "action": "pinned",
+        "inn": "linezolid",
+        "pinned_max": 73,
+        "published_date": "2026-11-09",
+        "setid": "6e70e63b-bfd5-478d-a8ee-8ba22c9efabd",
+        "title": "ZYVOX (LINEZOLID) INJECTION, SOLUTION ZYVOX (LINEZOLID) GRANULE, FOR SUSPENSION ZYVOX (LINEZOLID) TABLET, FILM COATED [PHARMACIA & UPJOHN COMPANY LLC]",
+        "version": 73
+      },
+      {
+        "action": "pinned",
+        "inn": "levothyroxine",
+        "pinned_max": 13,
+        "published_date": "2026-11-09",
+        "setid": "758588c3-c63e-491b-0aa2-4f50d80cb174",
+        "title": "LEVOXYL (LEVOTHYROXINE SODIUM) TABLET [PFIZER LABORATORIES DIV PFIZER INC]",
+        "version": 13
+      },
+      {
+        "action": "fetch",
+        "inn": "norepinephrine",
+        "pinned_max": 2,
+        "published_date": "2026-11-10",
+        "setid": "759807dd-61a8-4f6f-8bf5-f6ee773c81bc",
+        "title": "NOREPINEPHRINE (NOREPINEPHRINE BITARTRATE) SOLUTION [LONG GROVE PHARMACEUTICALS, LLC]",
+        "version": 3
+      },
+      {
+        "action": "fetch",
+        "inn": "ivabradine",
+        "pinned_max": 33,
+        "published_date": "2026-11-12",
+        "setid": "92018a65-38f6-45f7-91d4-a34921b81d0d",
+        "title": "CORLANOR (IVABRADINE) TABLET, FILM COATED CORLANOR (IVABRADINE) SOLUTION [AMGEN INC]",
+        "version": 36
+      },
+      {
+        "action": "pinned",
+        "inn": "methotrexate",
+        "pinned_max": 15,
+        "published_date": "2026-11-09",
+        "setid": "96e931f5-51ae-4bdf-a441-bb0dd26d4c0e",
+        "title": "JYLAMVO (METHOTREXATE) SOLUTION [SHORLA ONCOLOGY INC.]",
+        "version": 15
+      },
+      {
+        "action": "fetch",
+        "inn": "atomoxetine",
+        "pinned_max": 8,
+        "published_date": "2026-11-13",
+        "setid": "973bdc9b-6421-7e00-e2b6-3cce036d363e",
+        "title": "ATOMOXETINE CAPSULE [DR. REDDY'S LABORATORIES LIMITED]",
+        "version": 9
+      },
+      {
+        "action": "fetch",
+        "inn": "filgrastim",
+        "pinned_max": 166,
+        "published_date": "2026-11-13",
+        "setid": "97cc73cc-b5b7-458a-a933-77b00523e193",
+        "title": "NEUPOGEN (FILGRASTIM) INJECTION, SOLUTION [AMGEN, INC]",
+        "version": 167
+      },
+      {
+        "action": "pinned",
+        "inn": "dobutamine",
+        "pinned_max": 30,
+        "published_date": "2026-11-09",
+        "setid": "9943a961-3b50-4847-8a84-d8414ce38daa",
+        "title": "DOBUTAMINE IN DEXTROSE INJECTION, SOLUTION [HOSPIRA, INC.]",
+        "version": 30
+      },
+      {
+        "action": "pinned",
+        "inn": "amivantamab",
+        "pinned_max": 7,
+        "published_date": "2026-11-09",
+        "setid": "9e58b045-e352-4f62-99bf-77fae1bebc69",
+        "title": "RYBREVANT FASPRO (AMIVANTAMAB AND HYALURONIDASE-LPUJ (HUMAN RECOMBINANT)) INJECTION [JANSSEN BIOTECH, INC.]",
+        "version": 7
+      },
+      {
+        "action": "pinned",
+        "inn": "calcitriol",
+        "pinned_max": 17,
+        "published_date": "2026-11-09",
+        "setid": "a1567da9-af74-4afd-9ac5-8b53ec5d7cbf",
+        "title": "VECTICAL (CALCITRIOL) OINTMENT [GALDERMA LABORATORIES, L.P.]",
+        "version": 17
+      },
+      {
+        "action": "fetch",
+        "inn": "daratumumab",
+        "pinned_max": 46,
+        "published_date": "2026-11-13",
+        "setid": "a4d0efe9-5e54-467e-9eb4-56fa7d53b60b",
+        "title": "DARZALEX (DARATUMUMAB) INJECTION, SOLUTION, CONCENTRATE DARZALEX IV (DARATUMUMAB) INJECTION, SOLUTION, CONCENTRATE [JANSSEN BIOTECH, INC.]",
+        "version": 47
+      },
+      {
+        "action": "pinned",
+        "inn": "hydrocortisone",
+        "pinned_max": 23,
+        "published_date": "2026-11-09",
+        "setid": "a84830ad-73dc-4a2e-b987-0a1103526535",
+        "title": "HYDROCORTISONE CREAM [CROWN LABORATORIES]",
+        "version": 23
+      },
+      {
+        "action": "fetch",
+        "inn": "nystatin",
+        "pinned_max": 8,
+        "published_date": "2026-11-11",
+        "setid": "aee7ce4c-8cc6-4446-a4d7-63bc4773066f",
+        "title": "NYSTATIN OINTMENT [ACTAVIS PHARMA, INC.]",
+        "version": 9
+      },
+      {
+        "action": "fetch",
+        "inn": "dexamethasone",
+        "pinned_max": 11,
+        "published_date": "2026-11-13",
+        "setid": "b15200fb-1826-472b-a907-e677a272513b",
+        "title": "DEXAMETHASONE TABLET DEXAMETHASONE INTENSOL SOLUTION, CONCENTRATE DEXAMETHASONE SOLUTION [HIKMA PHARMACEUTICALS USA, INC.]",
+        "version": 12
+      },
+      {
+        "action": "fetch",
+        "inn": "atovaquone",
+        "pinned_max": 8,
+        "published_date": "2026-11-12",
+        "setid": "b31ff20a-c363-4be0-9bc0-3081c163b63c",
+        "title": "ATOVAQUONE ORAL SUSPENSION (ATOVAQUONE) SUSPENSION [KVK-TECH, INC.]",
+        "version": 9
+      },
+      {
+        "action": "fetch",
+        "inn": "bupivacaine",
+        "pinned_max": 32,
+        "published_date": "2026-11-11",
+        "setid": "bb5a9e59-0f51-11df-8a39-0800200c9a66",
+        "title": "EXPAREL (BUPIVACAINE) INJECTION, SUSPENSION, LIPOSOMAL [PACIRA PHARMACEUTICALS, INC.]",
+        "version": 33
+      },
+      {
+        "action": "fetch",
+        "inn": "estradiol",
+        "pinned_max": 6,
+        "published_date": "2026-11-12",
+        "setid": "bf185599-2138-4083-9c52-2b95dce09ae0",
+        "title": "ESTRADIOL FILM, EXTENDED RELEASE [NOVEN THERAPEUTICS, LLC]",
+        "version": 7
+      },
+      {
+        "action": "fetch",
+        "inn": "escitalopram",
+        "pinned_max": 1,
+        "published_date": "2026-11-11",
+        "setid": "c0401570-a3b0-bef2-7365-c23dc952b8b6",
+        "title": "ESCITALOPRAM CAPSULE [ALMATICA PHARMA LLC]",
+        "version": 2
+      },
+      {
+        "action": "fetch",
+        "inn": "colchicine",
+        "pinned_max": 19,
+        "published_date": "2026-11-13",
+        "setid": "cb5f9d85-6b81-49f8-bcd6-17b7bfbc10f2",
+        "title": "MITIGARE (COLCHICINE) CAPSULE [HIKMA SPECIALTY USA INC.]",
+        "version": 20
+      },
+      {
+        "action": "fetch",
+        "inn": "everolimus",
+        "pinned_max": 8,
+        "published_date": "2026-11-11",
+        "setid": "cf2dd54b-7a1d-4401-9a01-75e68235e433",
+        "title": "EVEROLIMUS TABLET [HIKMA PHARMACEUTICALS USA INC.]",
+        "version": 9
+      },
+      {
+        "action": "fetch",
+        "inn": "tofacitinib",
+        "pinned_max": 55,
+        "published_date": "2026-11-13",
+        "setid": "cf74ba2f-afc5-4baa-8594-979c889a5831",
+        "title": "XELJANZ (TOFACITINIB) TABLET, FILM COATED XELJANZ XR (TOFACITINIB) TABLET, FILM COATED, EXTENDED RELEASE XELJANZ (TOFACITINIB) SOLUTION [PFIZER LABORATORIES DIV PFIZER INC]",
+        "version": 56
+      },
+      {
+        "action": "fetch",
+        "inn": "testosterone",
+        "pinned_max": 26,
+        "published_date": "2026-11-13",
+        "setid": "cfbb53d4-b868-4a28-8436-f9112eb01c39",
+        "title": "DEPO-TESTOSTERONE (TESTOSTERONE CYPIONATE) INJECTION, SOLUTION [PHARMACIA & UPJOHN COMPANY LLC]",
+        "version": 27
+      },
+      {
+        "action": "pinned",
+        "inn": "emtricitabine",
+        "pinned_max": 20,
+        "published_date": "2026-11-09",
+        "setid": "d6599395-3944-44f9-97f2-e0424c6b6a1f",
+        "title": "EMTRIVA (EMTRICITABINE) CAPSULE EMTRIVA (EMTRICITABINE) SOLUTION [GILEAD SCIENCES, INC.]",
+        "version": 20
+      },
+      {
+        "action": "fetch",
+        "inn": "cevimeline",
+        "pinned_max": 2,
+        "published_date": "2026-11-11",
+        "setid": "dac32a9b-05b8-42c2-9a29-d885a9279456",
+        "title": "EVOXAC (CEVIMELINE HYDROCHLORIDE) CAPSULE EVOXAC (CEVIMELINE HYDROCHLORIDE) SOLUTION [COSETTE PHARMACEUTICALS, INC.]",
+        "version": 3
+      },
+      {
+        "action": "fetch",
+        "inn": "clobazam",
+        "pinned_max": 43,
+        "published_date": "2026-11-13",
+        "setid": "de03bd69-2dca-459c-93b4-541fd3e9571c",
+        "title": "ONFI (CLOBAZAM) TABLET ONFI (CLOBAZAM) SUSPENSION [LUNDBECK PHARMACEUTICALS LLC]",
+        "version": 44
+      },
+      {
+        "action": "fetch",
+        "inn": "entecavir",
+        "pinned_max": 9,
+        "published_date": "2026-11-12",
+        "setid": "def332bf-2906-4a6c-b85d-dfb56bb94312",
+        "title": "ENTECAVIR TABLET [AUROBINDO PHARMA LIMITED]",
+        "version": 10
+      },
+      {
+        "action": "pinned",
+        "inn": "sertraline",
+        "pinned_max": 2,
+        "published_date": "2026-11-09",
+        "setid": "e0e1f35e-114d-bb39-34f1-70208b94ac9e",
+        "title": "SERTRALINE HYDROCHLORIDE CAPSULE [ALVOGEN, INC.]",
+        "version": 2
+      },
+      {
+        "action": "fetch",
+        "inn": "apixaban",
+        "pinned_max": 30,
+        "published_date": "2026-11-12",
+        "setid": "e9481622-7cc6-418a-acb6-c5450daae9b0",
+        "title": "ELIQUIS (APIXABAN) TABLET, FILM COATED ELIQUIS 30-DAY STARTER PACK (APIXABAN) KIT ELIQUIS (APIXABAN) TABLET, FOR SUSPENSION ELIQUIS SPRINKLE (APIXABAN) CAPSULE [E.R. SQUIBB & SONS, L.L.C.]",
+        "version": 39
+      },
+      {
+        "action": "pinned",
+        "inn": "sofosbuvir",
+        "pinned_max": 20,
+        "published_date": "2026-11-09",
+        "setid": "f4ec77e4-bae8-4db0-b3d5-bde09c5fa075",
+        "title": "HARVONI (LEDIPASVIR AND SOFOSBUVIR) TABLET, FILM COATED HARVONI (LEDIPASVIR AND SOFOSBUVIR) TABLET, FILM COATED HARVONI (LEDIPASVIR AND SOFOSBUVIR) PELLET [GILEAD SCIENCES, INC]",
+        "version": 20
+      },
+      {
+        "action": "pinned",
+        "inn": "clindamycin",
+        "pinned_max": 10,
+        "published_date": "2026-11-09",
+        "setid": "f7b4e985-719a-4547-b624-94612d520991",
+        "title": "CLINDAGEL (CLINDAMYCIN) GEL [BAUSCH HEALTH US, LLC]",
+        "version": 10
+      },
+      {
+        "action": "fetch",
+        "inn": "empagliflozin",
+        "pinned_max": 31,
+        "published_date": "2026-11-13",
+        "setid": "faf3dd6a-9cd0-39c2-0d2e-232cb3f67565",
+        "title": "JARDIANCE (EMPAGLIFLOZIN) TABLET, FILM COATED [BOEHRINGER INGELHEIM PHARMACEUTICALS, INC.]",
+        "version": 32
+      }
+    ],
+    "commits": 47405,
+    "head_after": "25e84ec6fae9820866afb59299038136ac362e2a",
+    "head_before": "3f81fb6495cb81c9d75c88e388103c1f1ea97fe1",
+    "listing": {
+      "db_published_date": "Nov 13, 2026 09:21:38PM EST",
+      "from": "2026-11-09",
+      "pages": 13,
+      "rows": 1201,
+      "total_elements": 1201
+    },
+    "not_committed": [],
+    "problems": {},
+    "record_to": "2026-11-13",
+    "record_to_before": "2026-11-09",
+    "retired": []
+  }
+}
