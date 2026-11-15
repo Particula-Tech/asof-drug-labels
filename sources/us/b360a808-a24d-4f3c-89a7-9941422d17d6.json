@@ -1,5 +1,5 @@
 {
-  "history_title": "ACYCLOVIR OINTMENT [ACTAVIS PHARMA, INC.]",
+  "history_title": null,
   "inn": "acyclovir",
   "listed_versions": [
     {
@@ -29,12 +29,17 @@
     {
       "published_date": "2021-01-12",
       "version": 7
+    },
+    {
+      "published_date": "2026-11-09",
+      "version": 8
     }
   ],
   "problems": {},
+  "retired_on": "2026-11-15",
   "setid": "b360a808-a24d-4f3c-89a7-9941422d17d6",
   "source": "dailymed",
-  "status": "current",
+  "status": "retired",
   "versions": [
     {
       "published_date": "2014-04-16",
@@ -77,6 +82,13 @@
       "sha256": "a5c51997099b725e35c551287db80d4dfc8e2da1d76ef99a04c0b0a541ab05ff",
       "url": "https://dailymed.nlm.nih.gov/dailymed/getFile.cfm?type=zip&setid=b360a808-a24d-4f3c-89a7-9941422d17d6&version=7",
       "version": 7
+    },
+    {
+      "added": "2026-11-15",
+      "published_date": "2026-11-09",
+      "sha256": "80bc774304b7d708d415c78fd62139cbc2ce9af44f447503e8f2e198c7cb01d0",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/getArchivalFile.cfm?archive_id=993939",
+      "version": 8
     }
   ]
 }
