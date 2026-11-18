@@ -887,9 +887,9 @@
   "ema_product_number": "EMEA/H/C/002264",
   "eu_number": "EU/1/11/736",
   "h_page": {
-    "fetched": "2026-11-01T12:46:55Z",
-    "sha256": "43466f8fd49e959694e7b0a42810cacba68215eff1e0cba3b78b37d4e5665ac3",
-    "size": 39649,
+    "fetched": "2026-11-18T15:00:16Z",
+    "sha256": "2833fc0488e9dd6bf1995ff6bba66761d0826219073970b3e06dbccc0df68446",
+    "size": 39941,
     "url": "https://ec.europa.eu/health/documents/community-register/html/h736.htm"
   },
   "inn": "rilpivirine",
@@ -898,7 +898,7 @@
   "procedure_counts": {
     "carried_by_later_decision": 16,
     "decisions_without_annex_files": 0,
-    "procedures": 29,
+    "procedures": 30,
     "with_annex_files": 12,
     "with_decision": 12
   },
@@ -3777,6 +3777,29 @@
         "date": null,
         "number": null
       }
+    },
+    {
+      "closed": "2026-11-12",
+      "decision": {
+        "date": null,
+        "number": null
+      },
+      "ema_number": "EMA/VR/0000358221",
+      "files_anx": null,
+      "files_dec": null,
+      "id": "171680",
+      "oj": {
+        "date": null,
+        "number": null,
+        "page": null,
+        "series": "C"
+      },
+      "remark": null,
+      "type": "Centralised - Variation",
+      "updated_by": {
+        "date": null,
+        "number": null
+      }
     }
   ],
   "product_information": [
@@ -3870,7 +3893,7 @@
     "inn": "rilpivirine",
     "mah": "Janssen-Cilag International NV",
     "name": "EDURANT",
-    "regenerated": "2026/05/28 11:40:14",
+    "regenerated": "2026/11/18 10:13:22",
     "status": "ACTIVE"
   }
 }

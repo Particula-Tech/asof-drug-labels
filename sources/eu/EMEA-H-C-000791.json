@@ -2191,9 +2191,9 @@
   "ema_product_number": "EMEA/H/C/000791",
   "eu_number": "EU/1/07/393",
   "h_page": {
-    "fetched": "2026-11-01T12:38:50Z",
-    "sha256": "7d2479fa1df71ed4f9236dc4d37910f177736f2c205c6e118c1bad1025f57877",
-    "size": 79220,
+    "fetched": "2026-11-18T14:59:56Z",
+    "sha256": "ba6442144a54899036a86e52b3a02d42e5db643013c17ae9c2a3f89109bc5607",
+    "size": 79512,
     "url": "https://ec.europa.eu/health/documents/community-register/html/h393.htm"
   },
   "inn": "eculizumab",
@@ -2202,7 +2202,7 @@
   "procedure_counts": {
     "carried_by_later_decision": 29,
     "decisions_without_annex_files": 0,
-    "procedures": 76,
+    "procedures": 77,
     "with_annex_files": 30,
     "with_decision": 30
   },
@@ -9398,6 +9398,29 @@
         "date": null,
         "number": null
       }
+    },
+    {
+      "closed": "2026-11-16",
+      "decision": {
+        "date": null,
+        "number": null
+      },
+      "ema_number": "EMA/VR/0000379757",
+      "files_anx": null,
+      "files_dec": null,
+      "id": "171684",
+      "oj": {
+        "date": null,
+        "number": null,
+        "page": null,
+        "series": "C"
+      },
+      "remark": null,
+      "type": "Centralised - Variation",
+      "updated_by": {
+        "date": null,
+        "number": null
+      }
     }
   ],
   "product_information": [
@@ -9550,7 +9573,7 @@
     "inn": "Eculizumab",
     "mah": "Alexion Europe SAS",
     "name": "Soliris",
-    "regenerated": "2026/05/28 11:40:06",
+    "regenerated": "2026/11/18 10:13:16",
     "status": "ACTIVE"
   }
 }

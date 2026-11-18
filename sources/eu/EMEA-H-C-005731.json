@@ -131,26 +131,93 @@
       "status": "fetched",
       "type": "Centralised - Variation",
       "url": "https://ec.europa.eu/health/documents/community-register/2025/20250423165689/anx_165689_en.pdf"
+    },
+    {
+      "added": "2026-11-18",
+      "annex_languages": [
+        "bg",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "en",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "hr",
+        "hu",
+        "it",
+        "lt",
+        "lv",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl",
+        "sv"
+      ],
+      "closed": "2026-11-16",
+      "decision_date": "2026-11-06",
+      "decision_languages": [
+        "bg",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "en",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "hr",
+        "hu",
+        "it",
+        "lt",
+        "lv",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl",
+        "sv"
+      ],
+      "decision_number": "(2026) 8053",
+      "ema_number": "EMA/YU/0000384785",
+      "fetched": "2026-11-18T15:00:55Z",
+      "fetched_url": "https://ec.europa.eu/health/documents/community-register/2026/20261106171490/anx_171490_en.pdf",
+      "procedure_id": "171490",
+      "reason": null,
+      "remark": null,
+      "sha256": "1e01284410cf451d202c23eea0020b49f6b4c06bd156e04a46097843cc32c3dd",
+      "size": 552251,
+      "status": "fetched",
+      "type": "Centralised - Yearly update",
+      "url": "https://ec.europa.eu/health/documents/community-register/2026/20261106171490/anx_171490_en.pdf"
     }
   ],
   "dir": "EMEA-H-C-005731",
   "ema_product_number": "EMEA/H/C/005731",
   "eu_number": "EU/1/23/1717",
   "h_page": {
-    "fetched": "2026-11-03T04:10:49Z",
-    "sha256": "8afe03c56c7f4cfc9ce7ebc22c3f9642a1592d5d219062f8068b2ee32a71df71",
-    "size": 17933,
+    "fetched": "2026-11-18T15:00:52Z",
+    "sha256": "bf5464362e2868d0fd5774cb491fb4e9346318683b0f0dad6dbf41639437347d",
+    "size": 19591,
     "url": "https://ec.europa.eu/health/documents/community-register/html/h1717.htm"
   },
   "inn": "enalapril",
   "name": "Aqumeldi",
   "problems": [],
   "procedure_counts": {
-    "carried_by_later_decision": 0,
+    "carried_by_later_decision": 1,
     "decisions_without_annex_files": 0,
-    "procedures": 3,
-    "with_annex_files": 2,
-    "with_decision": 2
+    "procedures": 4,
+    "with_annex_files": 3,
+    "with_decision": 3
   },
   "procedures": [
     {
@@ -590,6 +657,215 @@
       "remark": null,
       "type": "Centralised - Variation",
       "updated_by": {
+        "date": "2026-11-06",
+        "number": "(2026) 8053"
+      }
+    },
+    {
+      "closed": "2026-11-16",
+      "decision": {
+        "date": "2026-11-06",
+        "number": "(2026) 8053"
+      },
+      "ema_number": "EMA/YU/0000384785",
+      "files_anx": [
+        {
+          "code": "bg",
+          "code_oj": null
+        },
+        {
+          "code": "cs",
+          "code_oj": null
+        },
+        {
+          "code": "da",
+          "code_oj": null
+        },
+        {
+          "code": "de",
+          "code_oj": null
+        },
+        {
+          "code": "el",
+          "code_oj": null
+        },
+        {
+          "code": "en",
+          "code_oj": null
+        },
+        {
+          "code": "es",
+          "code_oj": null
+        },
+        {
+          "code": "et",
+          "code_oj": null
+        },
+        {
+          "code": "fi",
+          "code_oj": null
+        },
+        {
+          "code": "fr",
+          "code_oj": null
+        },
+        {
+          "code": "hr",
+          "code_oj": null
+        },
+        {
+          "code": "hu",
+          "code_oj": null
+        },
+        {
+          "code": "it",
+          "code_oj": null
+        },
+        {
+          "code": "lt",
+          "code_oj": null
+        },
+        {
+          "code": "lv",
+          "code_oj": null
+        },
+        {
+          "code": "mt",
+          "code_oj": null
+        },
+        {
+          "code": "nl",
+          "code_oj": null
+        },
+        {
+          "code": "pl",
+          "code_oj": null
+        },
+        {
+          "code": "pt",
+          "code_oj": null
+        },
+        {
+          "code": "ro",
+          "code_oj": null
+        },
+        {
+          "code": "sk",
+          "code_oj": null
+        },
+        {
+          "code": "sl",
+          "code_oj": null
+        },
+        {
+          "code": "sv",
+          "code_oj": null
+        }
+      ],
+      "files_dec": [
+        {
+          "code": "bg",
+          "code_oj": null
+        },
+        {
+          "code": "cs",
+          "code_oj": null
+        },
+        {
+          "code": "da",
+          "code_oj": null
+        },
+        {
+          "code": "de",
+          "code_oj": null
+        },
+        {
+          "code": "el",
+          "code_oj": null
+        },
+        {
+          "code": "en",
+          "code_oj": null
+        },
+        {
+          "code": "es",
+          "code_oj": null
+        },
+        {
+          "code": "et",
+          "code_oj": null
+        },
+        {
+          "code": "fi",
+          "code_oj": null
+        },
+        {
+          "code": "fr",
+          "code_oj": null
+        },
+        {
+          "code": "hr",
+          "code_oj": null
+        },
+        {
+          "code": "hu",
+          "code_oj": null
+        },
+        {
+          "code": "it",
+          "code_oj": null
+        },
+        {
+          "code": "lt",
+          "code_oj": null
+        },
+        {
+          "code": "lv",
+          "code_oj": null
+        },
+        {
+          "code": "mt",
+          "code_oj": null
+        },
+        {
+          "code": "nl",
+          "code_oj": null
+        },
+        {
+          "code": "pl",
+          "code_oj": null
+        },
+        {
+          "code": "pt",
+          "code_oj": null
+        },
+        {
+          "code": "ro",
+          "code_oj": null
+        },
+        {
+          "code": "sk",
+          "code_oj": null
+        },
+        {
+          "code": "sl",
+          "code_oj": null
+        },
+        {
+          "code": "sv",
+          "code_oj": null
+        }
+      ],
+      "id": "171490",
+      "oj": {
+        "date": null,
+        "number": null,
+        "page": null,
+        "series": "C"
+      },
+      "remark": null,
+      "type": "Centralised - Yearly update",
+      "updated_by": {
         "date": null,
         "number": null
       }
@@ -686,7 +962,7 @@
     "inn": "enalapril maleate",
     "mah": "Proveca Pharma Limited",
     "name": "AQUMELDI",
-    "regenerated": "2026/05/28 11:40:46",
+    "regenerated": "2026/11/18 10:13:40",
     "status": "ACTIVE"
   }
 }
