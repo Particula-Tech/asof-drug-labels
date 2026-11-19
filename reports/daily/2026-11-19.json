@@ -1,0 +1,507 @@
+{
+  "dailymed_db_published": "Nov 18, 2026 08:43:14PM EST",
+  "date": "2026-11-19",
+  "dry_run": false,
+  "eu": {
+    "appended_count": 1,
+    "batches": [
+      "2026-11-19"
+    ],
+    "capture": {
+      "changed": [
+        "EMEA-H-C-000169",
+        "EMEA-H-C-003759"
+      ],
+      "date": "2026-11-19",
+      "fetch_failed": [],
+      "new": [],
+      "pdf_changed": [
+        "EMEA-H-C-000169",
+        "EMEA-H-C-003759"
+      ],
+      "pi_downloaded": [
+        "EMEA-H-C-000169",
+        "EMEA-H-C-003759"
+      ],
+      "previous": "2026-11-18",
+      "products": 206,
+      "removed": []
+    },
+    "capture_problems": {
+      "EMEA-H-C-006139": {
+        "no-pi-document": "no product-information document in the EPAR documents JSON"
+      }
+    },
+    "commits": 4408,
+    "decisions": [
+      {
+        "added": "2026-11-19",
+        "commit": "cdeb3116fe1c45275f629ba2af344b5f8ffcda07",
+        "decision_date": "2026-11-13",
+        "decision_number": "(2026) 8290",
+        "dir": "EMEA-H-C-002494",
+        "inn": "ivacaftor",
+        "name": "Kalydeco",
+        "procedure_id": "171291",
+        "skipped": null,
+        "type": "PSUSA - Modification"
+      }
+    ],
+    "head_after": "cdeb3116fe1c45275f629ba2af344b5f8ffcda07",
+    "head_before": "6cd2821bff5b4991b83c3fd3696a5e265619dfd3",
+    "pending": [
+      "EMEA-H-C-000169",
+      "EMEA-H-C-003759"
+    ],
+    "pending_annexes": [],
+    "problems": {},
+    "record_to": "2026-11-13",
+    "watch": []
+  },
+  "manifest": {
+    "eu": {
+      "build_date": "2026-11-19",
+      "commits": 4408,
+      "head": "cdeb3116fe1c45275f629ba2af344b5f8ffcda07",
+      "record_to": "2026-11-13"
+    },
+    "us": {
+      "build_date": "2026-11-19",
+      "commits": 47453,
+      "head": "5debd6012399a7139291990bbbbcac6d3e5202ac",
+      "record_to": "2026-11-18"
+    }
+  },
+  "readme": "written",
+  "run": {
+    "batch": {
+      "eu": "2026-11-19",
+      "us": "2026-11-19"
+    },
+    "budget": 2000,
+    "date": "2026-11-19",
+    "eu_crosswalk": {
+      "crosswalk": {
+        "changed": [
+          "ivacaftor.json"
+        ],
+        "problems": []
+      },
+      "products_synced": [
+        "EMEA-H-C-002494"
+      ]
+    },
+    "mode": "network",
+    "requests": {
+      "dailymed.nlm.nih.gov": 41,
+      "ec.europa.eu": 207,
+      "www.ema.europa.eu": 4
+    },
+    "requests_total": 252,
+    "seconds": 153.9,
+    "started": "2026-11-19T15:06:12Z",
+    "transient_retries": {
+      "count": 0,
+      "statuses": {}
+    }
+  },
+  "summary": "Daily update 2026-11-19: 18 US versions, 1 EU decision appended; US record to 2026-11-18, EU record to 2026-11-13",
+  "sweep": false,
+  "tags": {
+    "eu": {
+      "commit": "cdeb3116fe1c45275f629ba2af344b5f8ffcda07",
+      "object": "82f4c491b4eb0100497766a50d65429385e39bec",
+      "tag": "daily/2026-11-19"
+    },
+    "us": {
+      "commit": "5debd6012399a7139291990bbbbcac6d3e5202ac",
+      "object": "cd93cf7cff6966c349ac705bfe5c65fe86e55393",
+      "tag": "daily/2026-11-19"
+    }
+  },
+  "us": {
+    "appended": [
+      {
+        "added": "2026-11-19",
+        "commit": "225fb17e9e6a4f5a45bc0aef0a19bcaff0ac874b",
+        "inn": "hydralazine",
+        "published_date": "2026-11-18",
+        "setid": "0c7f9bd0-6c0a-4521-b77a-3582faa96874",
+        "title": "HYDRALAZINE HYDROCHLORIDE TABLET, FILM COATED [CHARTWELL RX, LLC]",
+        "version": 3
+      },
+      {
+        "added": "2026-11-19",
+        "commit": "a8751e444117c2ed5c5905f28f4c6c42f3277003",
+        "inn": "fluticasone",
+        "published_date": "2026-11-18",
+        "setid": "0d9a521b-8314-437c-8c9f-f6188f1134fe",
+        "title": "FLUTICASONE PROPIONATE SPRAY, METERED [HIKMA PHARMACEUTICALS USA INC.]",
+        "version": 18
+      },
+      {
+        "added": "2026-11-19",
+        "commit": "2c718210cf6fccba4c842984a92555eb3e869730",
+        "inn": "ezetimibe",
+        "published_date": "2026-11-18",
+        "setid": "174e45e0-45bb-48b7-9e60-8f6cfc1d22bb",
+        "title": "ZETIA (EZETIMIBE) TABLET [ORGANON LLC]",
+        "version": 9
+      },
+      {
+        "added": "2026-11-19",
+        "commit": "7a032a3e70ac84bd1f5155cb50f622f75d74dfcf",
+        "inn": "diazepam",
+        "published_date": "2026-11-18",
+        "setid": "1aaf9375-ae3d-4fed-9cd1-24102e00be1a",
+        "title": "DIAZEPAM INTENSOL SOLUTION, CONCENTRATE [HIKMA PHARMACEUTICALS USA INC.]",
+        "version": 14
+      },
+      {
+        "added": "2026-11-19",
+        "commit": "2deca14cef3508734de898e60503c517c64242aa",
+        "inn": "olanzapine",
+        "published_date": "2026-11-18",
+        "setid": "2cb1bebe-0ced-46d8-bf21-c28a9acc4a15",
+        "title": "OLANZAPINE TABLET OLANZAPINE TABLET, ORALLY DISINTEGRATING [TORRENT PHARMACEUTICALS LIMITED]",
+        "version": 20
+      },
+      {
+        "added": "2026-11-19",
+        "commit": "9b07624ca11bd9646632ac26d9b815693f12e74c",
+        "inn": "fenofibrate",
+        "published_date": "2026-11-18",
+        "setid": "3a69e15a-eda6-4a6e-8934-6881e4370521",
+        "title": "FENOFIBRATE CAPSULE [ANI PHARMACEUTICALS, INC.]",
+        "version": 11
+      },
+      {
+        "added": "2026-11-19",
+        "commit": "d9ae0739b6436e1b7fe9464d2106b8f64af1e1f4",
+        "inn": "dasatinib",
+        "published_date": "2026-11-18",
+        "setid": "58ce42c6-10bd-4bb4-bf89-eae8ed82c339",
+        "title": "DASATINIB TABLET [AUROBINDO PHARMA LIMITED]",
+        "version": 3
+      },
+      {
+        "added": "2026-11-19",
+        "commit": "ae58e34bbba7ee33b824cf40e88937318ca8f434",
+        "inn": "methotrexate",
+        "published_date": "2026-11-18",
+        "setid": "70c09984-2b36-424f-8b27-3fd0cd4e833d",
+        "title": "METHOTREXATE TABLET [MYLAN PHARMACEUTICALS INC.]",
+        "version": 20
+      },
+      {
+        "added": "2026-11-19",
+        "commit": "4cb35ed1c1f6ec7505d2fb82f8bcebdc257f4ca9",
+        "inn": "fenofibrate",
+        "published_date": "2026-11-18",
+        "setid": "78b789b9-854f-46b9-97f3-a48759a6ff89",
+        "title": "LIPOFEN (FENOFIBRATE) CAPSULE [ANI PHARMACEUTICALS, INC.]",
+        "version": 4
+      },
+      {
+        "added": "2026-11-19",
+        "commit": "b882e34433519d89e8e4613260cec602f385a0b2",
+        "inn": "glipizide",
+        "published_date": "2026-11-18",
+        "setid": "84794a52-b717-488c-8533-6425c83d405f",
+        "title": "GLIPIZIDE TABLET, EXTENDED RELEASE [AUROBINDO PHARMA LIMITED]",
+        "version": 3
+      },
+      {
+        "added": "2026-11-19",
+        "commit": "437ac07916e85f9eb1f31aa7e8e8cfbd54b4c73b",
+        "inn": "enalapril",
+        "published_date": "2026-11-18",
+        "setid": "9391b8d8-2217-4838-8976-1a5ad90ef4ca",
+        "title": "ENALAPRIL MALEATE ORAL SOLUTION (ENALAPRIL MALEATE) SOLUTION [BIONPHARMA INC.]",
+        "version": 5
+      },
+      {
+        "added": "2026-11-19",
+        "commit": "3f6bdac5cff11bd118fe700b81528e477b278d90",
+        "inn": "bendamustine",
+        "published_date": "2026-11-18",
+        "setid": "9759a4ae-82ca-40cf-9c02-e1cadb21cbdc",
+        "title": "BELRAPZO (BENDAMUSTINE HYDROCHLORIDE) INJECTION [EAGLE PHARMACEUTICALS, INC]",
+        "version": 12
+      },
+      {
+        "added": "2026-11-19",
+        "commit": "6b65ec9f113db6f72be84da3d139cac46475da6c",
+        "inn": "mesalamine",
+        "published_date": "2026-11-18",
+        "setid": "a4ddf68d-1502-4242-89aa-c96436bdcbf6",
+        "title": "MESALAMINE ENEMA [PADAGIS ISRAEL PHARMACEUTICALS LTD]",
+        "version": 15
+      },
+      {
+        "added": "2026-11-19",
+        "commit": "1d582aeb348eca853a56aa21c20b8a620e29d303",
+        "inn": "glipizide",
+        "published_date": "2026-11-18",
+        "setid": "ad55dfd7-ffb5-478a-aa84-1009fa921e22",
+        "title": "GLIPIZIDE TABLET [ACTAVIS PHARMA, INC.]",
+        "version": 20
+      },
+      {
+        "added": "2026-11-19",
+        "commit": "06cdad7b16b5d9bf40e7a5d6828e125c6a0662c8",
+        "inn": "tetracycline",
+        "published_date": "2026-11-18",
+        "setid": "c29bfde9-5eb4-422a-bd30-4bce45e73dc0",
+        "title": "BISMUTH SUBCITRATE POTASSIUM, METRONIDAZOLE AND TETRACYCLINE HYDROCHLORIDE CAPSULE [H2-PHARMA, LLC]",
+        "version": 3
+      },
+      {
+        "added": "2026-11-19",
+        "commit": "b41a815f8c1a351f0f21f5a4bf1aa059761f07c9",
+        "inn": "deferasirox",
+        "published_date": "2026-11-18",
+        "setid": "dc690f20-533e-490e-b13d-143382e02351",
+        "title": "DEFERASIROX TABLET, FOR SUSPENSION [BIONPHARMA INC.]",
+        "version": 5
+      },
+      {
+        "added": "2026-11-19",
+        "commit": "9465f8a8e430828b27747e403c03c1023ed0d5cb",
+        "inn": "rufinamide",
+        "published_date": "2026-11-18",
+        "setid": "e2ba061a-49f0-4330-b0f0-00f2c3725625",
+        "title": "RUFINAMIDE SUSPENSION [BIONPHARMA INC.]",
+        "version": 13
+      },
+      {
+        "added": "2026-11-19",
+        "commit": "5debd6012399a7139291990bbbbcac6d3e5202ac",
+        "inn": "lisdexamfetamine",
+        "published_date": "2026-11-18",
+        "setid": "efbde0f6-b848-4664-b741-c6c630e66108",
+        "title": "LISDEXAMFETAMINE DIMESYLATE (LISDEXAMFETAMINE) CAPSULE [MYLAN PHARMACEUTICALS INC.]",
+        "version": 6
+      }
+    ],
+    "appended_count": 18,
+    "batches": [
+      "2026-11-19"
+    ],
+    "candidates": [
+      {
+        "action": "fetch",
+        "inn": "hydralazine",
+        "pinned_max": 2,
+        "published_date": "2026-11-18",
+        "setid": "0c7f9bd0-6c0a-4521-b77a-3582faa96874",
+        "title": "HYDRALAZINE HYDROCHLORIDE TABLET, FILM COATED [CHARTWELL RX, LLC]",
+        "version": 3
+      },
+      {
+        "action": "fetch",
+        "inn": "fluticasone",
+        "pinned_max": 17,
+        "published_date": "2026-11-18",
+        "setid": "0d9a521b-8314-437c-8c9f-f6188f1134fe",
+        "title": "FLUTICASONE PROPIONATE SPRAY, METERED [HIKMA PHARMACEUTICALS USA INC.]",
+        "version": 18
+      },
+      {
+        "action": "fetch",
+        "inn": "ezetimibe",
+        "pinned_max": 8,
+        "published_date": "2026-11-18",
+        "setid": "174e45e0-45bb-48b7-9e60-8f6cfc1d22bb",
+        "title": "ZETIA (EZETIMIBE) TABLET [ORGANON LLC]",
+        "version": 9
+      },
+      {
+        "action": "fetch",
+        "inn": "diazepam",
+        "pinned_max": 13,
+        "published_date": "2026-11-18",
+        "setid": "1aaf9375-ae3d-4fed-9cd1-24102e00be1a",
+        "title": "DIAZEPAM INTENSOL SOLUTION, CONCENTRATE [HIKMA PHARMACEUTICALS USA INC.]",
+        "version": 14
+      },
+      {
+        "action": "pinned",
+        "inn": "ammonia-n-13",
+        "pinned_max": 13,
+        "published_date": "2026-11-17",
+        "setid": "1f93d72b-6595-4f5f-8ecc-664a612471e5",
+        "title": "AMMONIA N 13 (NH3N13) INJECTION [UCSF RADIOPHARMACEUTICAL FACILITY]",
+        "version": 13
+      },
+      {
+        "action": "fetch",
+        "inn": "olanzapine",
+        "pinned_max": 19,
+        "published_date": "2026-11-18",
+        "setid": "2cb1bebe-0ced-46d8-bf21-c28a9acc4a15",
+        "title": "OLANZAPINE TABLET OLANZAPINE TABLET, ORALLY DISINTEGRATING [TORRENT PHARMACEUTICALS LIMITED]",
+        "version": 20
+      },
+      {
+        "action": "fetch",
+        "inn": "fenofibrate",
+        "pinned_max": 10,
+        "published_date": "2026-11-18",
+        "setid": "3a69e15a-eda6-4a6e-8934-6881e4370521",
+        "title": "FENOFIBRATE CAPSULE [ANI PHARMACEUTICALS, INC.]",
+        "version": 11
+      },
+      {
+        "action": "pinned",
+        "inn": "dorzolamide",
+        "pinned_max": 10,
+        "published_date": "2026-11-17",
+        "setid": "4698e4e1-c5f6-4db1-9328-74464a85afea",
+        "title": "DORZOLAMIDE HYDROCHLORIDE OPHTHALMIC SOLUTION (DORZOLAMIDE HYDROCHLORIDE) SOLUTION/ DROPS [MICRO LABS LIMITED]",
+        "version": 10
+      },
+      {
+        "action": "fetch",
+        "inn": "dasatinib",
+        "pinned_max": 2,
+        "published_date": "2026-11-18",
+        "setid": "58ce42c6-10bd-4bb4-bf89-eae8ed82c339",
+        "title": "DASATINIB TABLET [AUROBINDO PHARMA LIMITED]",
+        "version": 3
+      },
+      {
+        "action": "fetch",
+        "inn": "methotrexate",
+        "pinned_max": 19,
+        "published_date": "2026-11-18",
+        "setid": "70c09984-2b36-424f-8b27-3fd0cd4e833d",
+        "title": "METHOTREXATE TABLET [MYLAN PHARMACEUTICALS INC.]",
+        "version": 20
+      },
+      {
+        "action": "pinned",
+        "inn": "fludeoxyglucose-f-18",
+        "pinned_max": 19,
+        "published_date": "2026-11-17",
+        "setid": "763958a2-6952-4c0d-8a4a-9c04acb62229",
+        "title": "FLUDEOXYGLUCOSE F18 INJECTION [UCSF RADIOPHARMACEUTICAL FACILITY]",
+        "version": 19
+      },
+      {
+        "action": "fetch",
+        "inn": "fenofibrate",
+        "pinned_max": 3,
+        "published_date": "2026-11-18",
+        "setid": "78b789b9-854f-46b9-97f3-a48759a6ff89",
+        "title": "LIPOFEN (FENOFIBRATE) CAPSULE [ANI PHARMACEUTICALS, INC.]",
+        "version": 4
+      },
+      {
+        "action": "pinned",
+        "inn": "norethindrone",
+        "pinned_max": 15,
+        "published_date": "2026-11-17",
+        "setid": "83198ef1-11c4-11e4-9191-0800200c9a66",
+        "title": "COMBIPATCH (ESTRADIOL/NORETHINDRONE ACETATE TRANSDERMAL SYSTEM) (ESTRADIOL/NORETHINDRONE ACETATE TRANSDERMAL SYSTEM) PATCH, EXTENDED RELEASE [NOVEN THERAPEUTICS, LLC]",
+        "version": 15
+      },
+      {
+        "action": "fetch",
+        "inn": "glipizide",
+        "pinned_max": 2,
+        "published_date": "2026-11-18",
+        "setid": "84794a52-b717-488c-8533-6425c83d405f",
+        "title": "GLIPIZIDE TABLET, EXTENDED RELEASE [AUROBINDO PHARMA LIMITED]",
+        "version": 3
+      },
+      {
+        "action": "fetch",
+        "inn": "enalapril",
+        "pinned_max": 4,
+        "published_date": "2026-11-18",
+        "setid": "9391b8d8-2217-4838-8976-1a5ad90ef4ca",
+        "title": "ENALAPRIL MALEATE ORAL SOLUTION (ENALAPRIL MALEATE) SOLUTION [BIONPHARMA INC.]",
+        "version": 5
+      },
+      {
+        "action": "fetch",
+        "inn": "bendamustine",
+        "pinned_max": 11,
+        "published_date": "2026-11-18",
+        "setid": "9759a4ae-82ca-40cf-9c02-e1cadb21cbdc",
+        "title": "BELRAPZO (BENDAMUSTINE HYDROCHLORIDE) INJECTION [EAGLE PHARMACEUTICALS, INC]",
+        "version": 12
+      },
+      {
+        "action": "fetch",
+        "inn": "mesalamine",
+        "pinned_max": 14,
+        "published_date": "2026-11-18",
+        "setid": "a4ddf68d-1502-4242-89aa-c96436bdcbf6",
+        "title": "MESALAMINE ENEMA [PADAGIS ISRAEL PHARMACEUTICALS LTD]",
+        "version": 15
+      },
+      {
+        "action": "fetch",
+        "inn": "glipizide",
+        "pinned_max": 19,
+        "published_date": "2026-11-18",
+        "setid": "ad55dfd7-ffb5-478a-aa84-1009fa921e22",
+        "title": "GLIPIZIDE TABLET [ACTAVIS PHARMA, INC.]",
+        "version": 20
+      },
+      {
+        "action": "fetch",
+        "inn": "tetracycline",
+        "pinned_max": 2,
+        "published_date": "2026-11-18",
+        "setid": "c29bfde9-5eb4-422a-bd30-4bce45e73dc0",
+        "title": "BISMUTH SUBCITRATE POTASSIUM, METRONIDAZOLE AND TETRACYCLINE HYDROCHLORIDE CAPSULE [H2-PHARMA, LLC]",
+        "version": 3
+      },
+      {
+        "action": "fetch",
+        "inn": "deferasirox",
+        "pinned_max": 4,
+        "published_date": "2026-11-18",
+        "setid": "dc690f20-533e-490e-b13d-143382e02351",
+        "title": "DEFERASIROX TABLET, FOR SUSPENSION [BIONPHARMA INC.]",
+        "version": 5
+      },
+      {
+        "action": "fetch",
+        "inn": "rufinamide",
+        "pinned_max": 12,
+        "published_date": "2026-11-18",
+        "setid": "e2ba061a-49f0-4330-b0f0-00f2c3725625",
+        "title": "RUFINAMIDE SUSPENSION [BIONPHARMA INC.]",
+        "version": 13
+      },
+      {
+        "action": "fetch",
+        "inn": "lisdexamfetamine",
+        "pinned_max": 5,
+        "published_date": "2026-11-18",
+        "setid": "efbde0f6-b848-4664-b741-c6c630e66108",
+        "title": "LISDEXAMFETAMINE DIMESYLATE (LISDEXAMFETAMINE) CAPSULE [MYLAN PHARMACEUTICALS INC.]",
+        "version": 6
+      }
+    ],
+    "commits": 47453,
+    "head_after": "5debd6012399a7139291990bbbbcac6d3e5202ac",
+    "head_before": "5370b7ca4b5035e7e8bd296413596f5dbbc0a5f2",
+    "listing": {
+      "db_published_date": "Nov 18, 2026 08:43:14PM EST",
+      "from": "2026-11-17",
+      "pages": 5,
+      "rows": 412,
+      "total_elements": 412
+    },
+    "not_committed": [],
+    "problems": {},
+    "record_to": "2026-11-18",
+    "record_to_before": "2026-11-17",
+    "retired": []
+  }
+}
