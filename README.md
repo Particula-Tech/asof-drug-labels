@@ -7,11 +7,11 @@ What US and EU drug labels said on any date, as git history. Each published labe
 | | US (DailyMed) | EU (Union Register) |
 | --- | --- | --- |
 | Molecules | <!-- n:molecules -->503<!-- /n --> selected | <!-- n:eu_products -->206<!-- /n --> with a reference product |
-| Labels | <!-- n:us_labels -->5,393<!-- /n --> DailyMed setids, <!-- n:us_retired_labels -->1,413<!-- /n --> of them retired | <!-- n:eu_products -->206<!-- /n --> centrally authorised products |
-| Versions (commits) | <!-- n:us_versions -->47,453<!-- /n --> label versions | <!-- n:eu_versions -->4,408<!-- /n --> Annex I versions, <!-- n:eu_corrigenda -->59<!-- /n --> of them corrigenda |
-| Record | <!-- n:us_record_from -->2006-07-13<!-- /n --> to <!-- n:us_record_to -->2026-11-18<!-- /n --> | <!-- n:eu_record_from -->1996-02-14<!-- /n --> to <!-- n:eu_record_to -->2026-11-13<!-- /n --> |
+| Labels | <!-- n:us_labels -->5,393<!-- /n --> DailyMed setids, <!-- n:us_retired_labels -->1,418<!-- /n --> of them retired | <!-- n:eu_products -->206<!-- /n --> centrally authorised products |
+| Versions (commits) | <!-- n:us_versions -->47,473<!-- /n --> label versions | <!-- n:eu_versions -->4,408<!-- /n --> Annex I versions, <!-- n:eu_corrigenda -->59<!-- /n --> of them corrigenda |
+| Record | <!-- n:us_record_from -->2006-07-13<!-- /n --> to <!-- n:us_record_to -->2026-11-19<!-- /n --> | <!-- n:eu_record_from -->1996-02-14<!-- /n --> to <!-- n:eu_record_to -->2026-11-13<!-- /n --> |
 
-DailyMed lists <!-- n:us_listed_versions -->47,894<!-- /n --> versions for these setids; <!-- n:us_fetched_pct -->99.08<!-- /n -->% are in the repo and the rest are logged with a reason in [`reports/coverage-us.json`](reports/coverage-us.json). Build date, HEAD and converter version of each corpus are in [`manifest.json`](manifest.json), from which `tools/readme_numbers.py` regenerates every number here.
+DailyMed lists <!-- n:us_listed_versions -->47,914<!-- /n --> versions for these setids; <!-- n:us_fetched_pct -->99.08<!-- /n -->% are in the repo and the rest are logged with a reason in [`reports/coverage-us.json`](reports/coverage-us.json). Build date, HEAD and converter version of each corpus are in [`manifest.json`](manifest.json), from which `tools/readme_numbers.py` regenerates every number here.
 
 ## Quick start
 

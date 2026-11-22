@@ -1,0 +1,614 @@
+{
+  "dailymed_db_published": "Nov 19, 2026 09:06:04PM EST",
+  "date": "2026-11-22",
+  "dry_run": false,
+  "eu": {
+    "appended_count": 0,
+    "batches": [],
+    "capture": {
+      "changed": [
+        "EMEA-H-C-000073",
+        "EMEA-H-C-002015",
+        "EMEA-H-C-002494"
+      ],
+      "date": "2026-11-22",
+      "fetch_failed": [],
+      "new": [],
+      "pdf_changed": [
+        "EMEA-H-C-000073",
+        "EMEA-H-C-002015",
+        "EMEA-H-C-002494"
+      ],
+      "pi_downloaded": [
+        "EMEA-H-C-000073",
+        "EMEA-H-C-002015",
+        "EMEA-H-C-002494"
+      ],
+      "previous": "2026-11-19",
+      "products": 206,
+      "removed": []
+    },
+    "capture_problems": {
+      "EMEA-H-C-006139": {
+        "no-pi-document": "no product-information document in the EPAR documents JSON"
+      }
+    },
+    "commits": 4408,
+    "decisions": [],
+    "head_after": "cdeb3116fe1c45275f629ba2af344b5f8ffcda07",
+    "head_before": "cdeb3116fe1c45275f629ba2af344b5f8ffcda07",
+    "pending": [
+      "EMEA-H-C-000073",
+      "EMEA-H-C-002015",
+      "EMEA-H-C-002494"
+    ],
+    "pending_annexes": [],
+    "problems": {},
+    "record_to": "2026-11-13",
+    "watch": []
+  },
+  "manifest": {
+    "eu": {
+      "build_date": "2026-11-19",
+      "commits": 4408,
+      "head": "cdeb3116fe1c45275f629ba2af344b5f8ffcda07",
+      "record_to": "2026-11-13"
+    },
+    "us": {
+      "build_date": "2026-11-22",
+      "commits": 47473,
+      "head": "e1017c040c82d8e757dbe5296497163aa71e2ec4",
+      "record_to": "2026-11-19"
+    }
+  },
+  "readme": "written",
+  "run": {
+    "batch": {
+      "eu": "2026-11-22",
+      "us": "2026-11-22"
+    },
+    "budget": 5981,
+    "date": "2026-11-22",
+    "eu_crosswalk": {},
+    "mode": "network",
+    "requests": {
+      "dailymed.nlm.nih.gov": 4012,
+      "ec.europa.eu": 206,
+      "www.ema.europa.eu": 5
+    },
+    "requests_total": 4223,
+    "seconds": 2137.0,
+    "started": "2026-11-22T13:56:37Z",
+    "sweep_retries": {
+      "from": "2026-10-23",
+      "resolved": [],
+      "retried": []
+    },
+    "transient_retries": {
+      "count": 0,
+      "statuses": {}
+    }
+  },
+  "summary": "Daily update 2026-11-22: 20 US versions, 0 EU decisions appended; US record to 2026-11-19, EU record to 2026-11-13",
+  "sweep": true,
+  "tags": {
+    "eu": {
+      "commit": "cdeb3116fe1c45275f629ba2af344b5f8ffcda07",
+      "object": "b9c07d160231b582d0374322efedcabd6523b8e1",
+      "tag": "daily/2026-11-22"
+    },
+    "us": {
+      "commit": "e1017c040c82d8e757dbe5296497163aa71e2ec4",
+      "object": "26ee016e83bb216778d04e775ead733244b67eb6",
+      "tag": "daily/2026-11-22"
+    }
+  },
+  "us": {
+    "appended": [
+      {
+        "added": "2026-11-22",
+        "commit": "b7d36694e5fd45f723500fd34eea70fb2efdeaec",
+        "inn": "lithium",
+        "published_date": "2026-11-16",
+        "setid": "d3284649-ed4c-4096-987b-4ac16b8278f2",
+        "title": null,
+        "version": 10
+      },
+      {
+        "added": "2026-11-22",
+        "commit": "f65a5db50ddaae9c454ffdf31c13d1171830cb6f",
+        "inn": "enalapril",
+        "published_date": "2026-11-18",
+        "setid": "e109e7b1-4650-4416-9d89-7c1185d5cf48",
+        "title": null,
+        "version": 10
+      },
+      {
+        "added": "2026-11-22",
+        "commit": "49d9662b206118aa3f881192e4cdcaf520083dd2",
+        "inn": "dasatinib",
+        "published_date": "2026-11-19",
+        "setid": "1931e73f-918c-4d69-9543-de9643513d05",
+        "title": "DASATINIB TABLET [PRASCO LABORATORIES]",
+        "version": 13
+      },
+      {
+        "added": "2026-11-22",
+        "commit": "7373a6b5634a164c86fe4f1ed7dfc73486d35d42",
+        "inn": "methylphenidate",
+        "published_date": "2026-11-19",
+        "setid": "2c312c31-3198-4775-91ab-294e0b4b9e7f",
+        "title": "DAYTRANA (METHYLPHENIDATE) PATCH DAYTRANA (METHYLPHENIDATE) PATCH [NOVEN THERAPEUTICS, LLC]",
+        "version": 30
+      },
+      {
+        "added": "2026-11-22",
+        "commit": "57fbbfb143840b50cc1fdafcdcb0669ebcafa2c3",
+        "inn": "tofacitinib",
+        "published_date": "2026-11-19",
+        "setid": "50962b08-99dd-ae73-e063-6394a90ad1eb",
+        "title": "TOFACITINIB TABLET, FILM COATED [AUROBINDO PHARMA LIMITED]",
+        "version": 6
+      },
+      {
+        "added": "2026-11-22",
+        "commit": "e10ed4196c76ba61786c9bbba86cc6ea5831ff22",
+        "inn": "filgrastim",
+        "published_date": "2026-11-19",
+        "setid": "74e1ec6e-1630-4654-895c-2bd355f939e7",
+        "title": "RELEUKO (FILGRASTIM) INJECTION, SOLUTION [AMNEAL PHARMACEUTICALS LLC]",
+        "version": 34
+      },
+      {
+        "added": "2026-11-22",
+        "commit": "69165878f8e779f50dc0b745a7159d369e0354ca",
+        "inn": "hydrocortisone",
+        "published_date": "2026-11-19",
+        "setid": "7c3f8417-7861-41e3-876f-9b82aff7d1a0",
+        "title": null,
+        "version": 4
+      },
+      {
+        "added": "2026-11-22",
+        "commit": "816d64311252e1106bca224766261b63dfb240b0",
+        "inn": "ritonavir",
+        "published_date": "2026-11-19",
+        "setid": "8290add3-4449-4e58-6c97-8fe1eec972e3",
+        "title": "KALETRA (LOPINAVIR AND RITONAVIR) SOLUTION KALETRA (LOPINAVIR AND RITONAVIR) TABLET, FILM COATED [ABBVIE INC.]",
+        "version": 1703
+      },
+      {
+        "added": "2026-11-22",
+        "commit": "4eff2f37a8a82c666a3b0743413102cfc43d37a8",
+        "inn": "alprostadil",
+        "published_date": "2026-11-19",
+        "setid": "930f8c02-46a8-4cff-a484-660468ab23c3",
+        "title": "PROSTIN VR PEDIATRIC (ALPROSTADIL) INJECTION, SOLUTION [PHARMACIA & UPJOHN COMPANY LLC]",
+        "version": 5
+      },
+      {
+        "added": "2026-11-22",
+        "commit": "194ee160b8cd6ec94326d6c560650d700de0f3eb",
+        "inn": "adalimumab",
+        "published_date": "2026-11-19",
+        "setid": "9c44bd5b-4464-40a4-8933-8680950f00f2",
+        "title": "AMJEVITA (ADALIMUMAB-ATTO) INJECTION [AMGEN, INC]",
+        "version": 38
+      },
+      {
+        "added": "2026-11-22",
+        "commit": "99b4a10ae4383009de825f5c0c8c395745d3a30d",
+        "inn": "doxycycline",
+        "published_date": "2026-11-19",
+        "setid": "a569ba80-ffea-40b2-9fbe-a42810b1fccb",
+        "title": "DOXYCYCLINE HYCLATE TABLET [ACTAVIS PHARMA, INC.]",
+        "version": 34
+      },
+      {
+        "added": "2026-11-22",
+        "commit": "a9f574dbdd3b6c3cd5948c8fb612f8e1e02219e9",
+        "inn": "clindamycin",
+        "published_date": "2026-11-19",
+        "setid": "b52bdaf7-3b54-4165-9ab0-9dfa08170e47",
+        "title": "CLINDAMYCIN PHOSPHATE CREAM [MYLAN PHARMACEUTICALS INC.]",
+        "version": 23
+      },
+      {
+        "added": "2026-11-22",
+        "commit": "f973c38266a63cf465ec508b2c14354fc85e09b2",
+        "inn": "adalimumab",
+        "published_date": "2026-11-19",
+        "setid": "b7178e36-6787-45ab-8fee-be59bc6a4aa4",
+        "title": "AMJEVITA (ADALIMUMAB-ATTO) INJECTION [AMGEN USA INC.]",
+        "version": 18
+      },
+      {
+        "added": "2026-11-22",
+        "commit": "81b9e9e4842c534ecfad7580ea0a5b5969d362a4",
+        "inn": "hydroxyurea",
+        "published_date": "2026-11-19",
+        "setid": "b9514ae5-79ae-4cc2-9d7f-c8f7806d1694",
+        "title": "HYDROXYUREA CAPSULE [TEVA PHARMACEUTICALS USA, INC.]",
+        "version": 21
+      },
+      {
+        "added": "2026-11-22",
+        "commit": "e79776c840497bed7550c4e110fb55b5998e8928",
+        "inn": "mesalamine",
+        "published_date": "2026-11-19",
+        "setid": "ba1e3bd4-fbe0-46a5-961e-167ccb09672c",
+        "title": "MESALAMINE TABLET, DELAYED RELEASE [ACTAVIS PHARMA, INC.]",
+        "version": 26
+      },
+      {
+        "added": "2026-11-22",
+        "commit": "a56e0c940aa315e19da643d838213834dfc59af2",
+        "inn": "everolimus",
+        "published_date": "2026-11-19",
+        "setid": "d44998bb-5deb-4ee7-a0a5-979fe3f49557",
+        "title": null,
+        "version": 6
+      },
+      {
+        "added": "2026-11-22",
+        "commit": "b8dc6c1d4e82075c80335f7f0a47737a555ee6e3",
+        "inn": "chlordiazepoxide",
+        "published_date": "2026-11-19",
+        "setid": "dd5f82b0-5a56-4728-941a-c8c2a0d51cc4",
+        "title": "CHLORDIAZEPOXIDE HYDROCHLORIDE CAPSULE [CHARTWELL RX, LLC]",
+        "version": 8
+      },
+      {
+        "added": "2026-11-22",
+        "commit": "cc44229199ff08d72e7b87dd4cb24a0c52ae5250",
+        "inn": "alprostadil",
+        "published_date": "2026-11-19",
+        "setid": "dea460fa-d05e-4191-8461-f185a711ad89",
+        "title": "PROSTIN VR PEDIATRIC (ALPROSTADIL) INJECTION, SOLUTION [PHARMACIA & UPJOHN COMPANY LLC]",
+        "version": 13
+      },
+      {
+        "added": "2026-11-22",
+        "commit": "c027f1f41fca59c3d26adca2698a90a10189d6af",
+        "inn": "raltegravir",
+        "published_date": "2026-11-19",
+        "setid": "e9661839-bd2e-464f-a6df-6407b4a742b4",
+        "title": "RALTEGRAVIR TABLET, FILM COATED [LUPIN PHARMACEUTICALS, INC.]",
+        "version": 3
+      },
+      {
+        "added": "2026-11-22",
+        "commit": "e1017c040c82d8e757dbe5296497163aa71e2ec4",
+        "inn": "betamethasone",
+        "published_date": "2026-11-19",
+        "setid": "f5b50c00-cc6f-4296-a9ae-b16888cef4dd",
+        "title": null,
+        "version": 13
+      }
+    ],
+    "appended_count": 20,
+    "batches": [
+      "2026-11-22"
+    ],
+    "candidates": [
+      {
+        "action": "pinned",
+        "inn": "hydralazine",
+        "pinned_max": 3,
+        "published_date": "2026-11-18",
+        "setid": "0c7f9bd0-6c0a-4521-b77a-3582faa96874",
+        "title": "HYDRALAZINE HYDROCHLORIDE TABLET, FILM COATED [CHARTWELL RX, LLC]",
+        "version": 3
+      },
+      {
+        "action": "pinned",
+        "inn": "fluticasone",
+        "pinned_max": 18,
+        "published_date": "2026-11-18",
+        "setid": "0d9a521b-8314-437c-8c9f-f6188f1134fe",
+        "title": "FLUTICASONE PROPIONATE SPRAY, METERED [HIKMA PHARMACEUTICALS USA INC.]",
+        "version": 18
+      },
+      {
+        "action": "pinned",
+        "inn": "ezetimibe",
+        "pinned_max": 9,
+        "published_date": "2026-11-18",
+        "setid": "174e45e0-45bb-48b7-9e60-8f6cfc1d22bb",
+        "title": "ZETIA (EZETIMIBE) TABLET [ORGANON LLC]",
+        "version": 9
+      },
+      {
+        "action": "fetch",
+        "inn": "dasatinib",
+        "pinned_max": 10,
+        "published_date": "2026-11-19",
+        "setid": "1931e73f-918c-4d69-9543-de9643513d05",
+        "title": "DASATINIB TABLET [PRASCO LABORATORIES]",
+        "version": 13
+      },
+      {
+        "action": "pinned",
+        "inn": "diazepam",
+        "pinned_max": 14,
+        "published_date": "2026-11-18",
+        "setid": "1aaf9375-ae3d-4fed-9cd1-24102e00be1a",
+        "title": "DIAZEPAM INTENSOL SOLUTION, CONCENTRATE [HIKMA PHARMACEUTICALS USA INC.]",
+        "version": 14
+      },
+      {
+        "action": "fetch",
+        "inn": "methylphenidate",
+        "pinned_max": 29,
+        "published_date": "2026-11-19",
+        "setid": "2c312c31-3198-4775-91ab-294e0b4b9e7f",
+        "title": "DAYTRANA (METHYLPHENIDATE) PATCH DAYTRANA (METHYLPHENIDATE) PATCH [NOVEN THERAPEUTICS, LLC]",
+        "version": 30
+      },
+      {
+        "action": "pinned",
+        "inn": "olanzapine",
+        "pinned_max": 20,
+        "published_date": "2026-11-18",
+        "setid": "2cb1bebe-0ced-46d8-bf21-c28a9acc4a15",
+        "title": "OLANZAPINE TABLET OLANZAPINE TABLET, ORALLY DISINTEGRATING [TORRENT PHARMACEUTICALS LIMITED]",
+        "version": 20
+      },
+      {
+        "action": "pinned",
+        "inn": "fenofibrate",
+        "pinned_max": 11,
+        "published_date": "2026-11-18",
+        "setid": "3a69e15a-eda6-4a6e-8934-6881e4370521",
+        "title": "FENOFIBRATE CAPSULE [ANI PHARMACEUTICALS, INC.]",
+        "version": 11
+      },
+      {
+        "action": "fetch",
+        "inn": "tofacitinib",
+        "pinned_max": 5,
+        "published_date": "2026-11-19",
+        "setid": "50962b08-99dd-ae73-e063-6394a90ad1eb",
+        "title": "TOFACITINIB TABLET, FILM COATED [AUROBINDO PHARMA LIMITED]",
+        "version": 6
+      },
+      {
+        "action": "pinned",
+        "inn": "dasatinib",
+        "pinned_max": 3,
+        "published_date": "2026-11-18",
+        "setid": "58ce42c6-10bd-4bb4-bf89-eae8ed82c339",
+        "title": "DASATINIB TABLET [AUROBINDO PHARMA LIMITED]",
+        "version": 3
+      },
+      {
+        "action": "pinned",
+        "inn": "methotrexate",
+        "pinned_max": 20,
+        "published_date": "2026-11-18",
+        "setid": "70c09984-2b36-424f-8b27-3fd0cd4e833d",
+        "title": "METHOTREXATE TABLET [MYLAN PHARMACEUTICALS INC.]",
+        "version": 20
+      },
+      {
+        "action": "fetch",
+        "inn": "filgrastim",
+        "pinned_max": 33,
+        "published_date": "2026-11-19",
+        "setid": "74e1ec6e-1630-4654-895c-2bd355f939e7",
+        "title": "RELEUKO (FILGRASTIM) INJECTION, SOLUTION [AMNEAL PHARMACEUTICALS LLC]",
+        "version": 34
+      },
+      {
+        "action": "pinned",
+        "inn": "fenofibrate",
+        "pinned_max": 4,
+        "published_date": "2026-11-18",
+        "setid": "78b789b9-854f-46b9-97f3-a48759a6ff89",
+        "title": "LIPOFEN (FENOFIBRATE) CAPSULE [ANI PHARMACEUTICALS, INC.]",
+        "version": 4
+      },
+      {
+        "action": "fetch",
+        "inn": "ritonavir",
+        "pinned_max": 1702,
+        "published_date": "2026-11-19",
+        "setid": "8290add3-4449-4e58-6c97-8fe1eec972e3",
+        "title": "KALETRA (LOPINAVIR AND RITONAVIR) SOLUTION KALETRA (LOPINAVIR AND RITONAVIR) TABLET, FILM COATED [ABBVIE INC.]",
+        "version": 1703
+      },
+      {
+        "action": "pinned",
+        "inn": "glipizide",
+        "pinned_max": 3,
+        "published_date": "2026-11-18",
+        "setid": "84794a52-b717-488c-8533-6425c83d405f",
+        "title": "GLIPIZIDE TABLET, EXTENDED RELEASE [AUROBINDO PHARMA LIMITED]",
+        "version": 3
+      },
+      {
+        "action": "fetch",
+        "inn": "alprostadil",
+        "pinned_max": 4,
+        "published_date": "2026-11-19",
+        "setid": "930f8c02-46a8-4cff-a484-660468ab23c3",
+        "title": "PROSTIN VR PEDIATRIC (ALPROSTADIL) INJECTION, SOLUTION [PHARMACIA & UPJOHN COMPANY LLC]",
+        "version": 5
+      },
+      {
+        "action": "pinned",
+        "inn": "enalapril",
+        "pinned_max": 5,
+        "published_date": "2026-11-18",
+        "setid": "9391b8d8-2217-4838-8976-1a5ad90ef4ca",
+        "title": "ENALAPRIL MALEATE ORAL SOLUTION (ENALAPRIL MALEATE) SOLUTION [BIONPHARMA INC.]",
+        "version": 5
+      },
+      {
+        "action": "pinned",
+        "inn": "bendamustine",
+        "pinned_max": 12,
+        "published_date": "2026-11-18",
+        "setid": "9759a4ae-82ca-40cf-9c02-e1cadb21cbdc",
+        "title": "BELRAPZO (BENDAMUSTINE HYDROCHLORIDE) INJECTION [EAGLE PHARMACEUTICALS, INC]",
+        "version": 12
+      },
+      {
+        "action": "fetch",
+        "inn": "adalimumab",
+        "pinned_max": 36,
+        "published_date": "2026-11-19",
+        "setid": "9c44bd5b-4464-40a4-8933-8680950f00f2",
+        "title": "AMJEVITA (ADALIMUMAB-ATTO) INJECTION [AMGEN, INC]",
+        "version": 38
+      },
+      {
+        "action": "pinned",
+        "inn": "mesalamine",
+        "pinned_max": 15,
+        "published_date": "2026-11-18",
+        "setid": "a4ddf68d-1502-4242-89aa-c96436bdcbf6",
+        "title": "MESALAMINE ENEMA [PADAGIS ISRAEL PHARMACEUTICALS LTD]",
+        "version": 15
+      },
+      {
+        "action": "fetch",
+        "inn": "doxycycline",
+        "pinned_max": 33,
+        "published_date": "2026-11-19",
+        "setid": "a569ba80-ffea-40b2-9fbe-a42810b1fccb",
+        "title": "DOXYCYCLINE HYCLATE TABLET [ACTAVIS PHARMA, INC.]",
+        "version": 34
+      },
+      {
+        "action": "pinned",
+        "inn": "glipizide",
+        "pinned_max": 20,
+        "published_date": "2026-11-18",
+        "setid": "ad55dfd7-ffb5-478a-aa84-1009fa921e22",
+        "title": "GLIPIZIDE TABLET [ACTAVIS PHARMA, INC.]",
+        "version": 20
+      },
+      {
+        "action": "fetch",
+        "inn": "clindamycin",
+        "pinned_max": 22,
+        "published_date": "2026-11-19",
+        "setid": "b52bdaf7-3b54-4165-9ab0-9dfa08170e47",
+        "title": "CLINDAMYCIN PHOSPHATE CREAM [MYLAN PHARMACEUTICALS INC.]",
+        "version": 23
+      },
+      {
+        "action": "fetch",
+        "inn": "adalimumab",
+        "pinned_max": 16,
+        "published_date": "2026-11-19",
+        "setid": "b7178e36-6787-45ab-8fee-be59bc6a4aa4",
+        "title": "AMJEVITA (ADALIMUMAB-ATTO) INJECTION [AMGEN USA INC.]",
+        "version": 18
+      },
+      {
+        "action": "fetch",
+        "inn": "hydroxyurea",
+        "pinned_max": 20,
+        "published_date": "2026-11-19",
+        "setid": "b9514ae5-79ae-4cc2-9d7f-c8f7806d1694",
+        "title": "HYDROXYUREA CAPSULE [TEVA PHARMACEUTICALS USA, INC.]",
+        "version": 21
+      },
+      {
+        "action": "fetch",
+        "inn": "mesalamine",
+        "pinned_max": 25,
+        "published_date": "2026-11-19",
+        "setid": "ba1e3bd4-fbe0-46a5-961e-167ccb09672c",
+        "title": "MESALAMINE TABLET, DELAYED RELEASE [ACTAVIS PHARMA, INC.]",
+        "version": 26
+      },
+      {
+        "action": "pinned",
+        "inn": "tetracycline",
+        "pinned_max": 3,
+        "published_date": "2026-11-18",
+        "setid": "c29bfde9-5eb4-422a-bd30-4bce45e73dc0",
+        "title": "BISMUTH SUBCITRATE POTASSIUM, METRONIDAZOLE AND TETRACYCLINE HYDROCHLORIDE CAPSULE [H2-PHARMA, LLC]",
+        "version": 3
+      },
+      {
+        "action": "pinned",
+        "inn": "deferasirox",
+        "pinned_max": 5,
+        "published_date": "2026-11-18",
+        "setid": "dc690f20-533e-490e-b13d-143382e02351",
+        "title": "DEFERASIROX TABLET, FOR SUSPENSION [BIONPHARMA INC.]",
+        "version": 5
+      },
+      {
+        "action": "fetch",
+        "inn": "chlordiazepoxide",
+        "pinned_max": 7,
+        "published_date": "2026-11-19",
+        "setid": "dd5f82b0-5a56-4728-941a-c8c2a0d51cc4",
+        "title": "CHLORDIAZEPOXIDE HYDROCHLORIDE CAPSULE [CHARTWELL RX, LLC]",
+        "version": 8
+      },
+      {
+        "action": "fetch",
+        "inn": "alprostadil",
+        "pinned_max": 12,
+        "published_date": "2026-11-19",
+        "setid": "dea460fa-d05e-4191-8461-f185a711ad89",
+        "title": "PROSTIN VR PEDIATRIC (ALPROSTADIL) INJECTION, SOLUTION [PHARMACIA & UPJOHN COMPANY LLC]",
+        "version": 13
+      },
+      {
+        "action": "pinned",
+        "inn": "rufinamide",
+        "pinned_max": 13,
+        "published_date": "2026-11-18",
+        "setid": "e2ba061a-49f0-4330-b0f0-00f2c3725625",
+        "title": "RUFINAMIDE SUSPENSION [BIONPHARMA INC.]",
+        "version": 13
+      },
+      {
+        "action": "fetch",
+        "inn": "raltegravir",
+        "pinned_max": 2,
+        "published_date": "2026-11-19",
+        "setid": "e9661839-bd2e-464f-a6df-6407b4a742b4",
+        "title": "RALTEGRAVIR TABLET, FILM COATED [LUPIN PHARMACEUTICALS, INC.]",
+        "version": 3
+      },
+      {
+        "action": "pinned",
+        "inn": "lisdexamfetamine",
+        "pinned_max": 6,
+        "published_date": "2026-11-18",
+        "setid": "efbde0f6-b848-4664-b741-c6c630e66108",
+        "title": "LISDEXAMFETAMINE DIMESYLATE (LISDEXAMFETAMINE) CAPSULE [MYLAN PHARMACEUTICALS INC.]",
+        "version": 6
+      }
+    ],
+    "commits": 47473,
+    "head_after": "e1017c040c82d8e757dbe5296497163aa71e2ec4",
+    "head_before": "5debd6012399a7139291990bbbbcac6d3e5202ac",
+    "listing": {
+      "db_published_date": "Nov 19, 2026 09:06:04PM EST",
+      "from": "2026-11-18",
+      "pages": 5,
+      "rows": 499,
+      "total_elements": 499
+    },
+    "not_committed": [],
+    "problems": {},
+    "record_to": "2026-11-19",
+    "record_to_before": "2026-11-18",
+    "retired": [
+      "7c3f8417-7861-41e3-876f-9b82aff7d1a0",
+      "d3284649-ed4c-4096-987b-4ac16b8278f2",
+      "d44998bb-5deb-4ee7-a0a5-979fe3f49557",
+      "e109e7b1-4650-4416-9d89-7c1185d5cf48",
+      "f5b50c00-cc6f-4296-a9ae-b16888cef4dd"
+    ]
+  }
+}
