@@ -671,9 +671,9 @@
   "ema_product_number": "EMEA/H/C/003759",
   "eu_number": "EU/1/15/1040",
   "h_page": {
-    "fetched": "2026-11-01T12:50:23Z",
-    "sha256": "1907ffacb421d3488d2a4a3848943067f1248f900af1fce1c38ea48e9bcc35e6",
-    "size": 32889,
+    "fetched": "2026-11-28T14:59:08Z",
+    "sha256": "c825e4043c721f61124489e5aa84046312d9ce6626c529338ee27792f53933cd",
+    "size": 33181,
     "url": "https://ec.europa.eu/health/documents/community-register/html/h1040.htm"
   },
   "inn": "guanfacine",
@@ -682,7 +682,7 @@
   "procedure_counts": {
     "carried_by_later_decision": 9,
     "decisions_without_annex_files": 0,
-    "procedures": 20,
+    "procedures": 21,
     "with_annex_files": 9,
     "with_decision": 9
   },
@@ -2820,6 +2820,29 @@
         "date": null,
         "number": null
       }
+    },
+    {
+      "closed": "2026-11-12",
+      "decision": {
+        "date": null,
+        "number": null
+      },
+      "ema_number": "EMA/VR/0000350778",
+      "files_anx": null,
+      "files_dec": null,
+      "id": "171784",
+      "oj": {
+        "date": null,
+        "number": null,
+        "page": null,
+        "series": "C"
+      },
+      "remark": null,
+      "type": "Centralised - Variation",
+      "updated_by": {
+        "date": null,
+        "number": null
+      }
     }
   ],
   "product_information": [
@@ -2913,7 +2936,7 @@
     "inn": "guanfacine",
     "mah": "Takeda Pharmaceuticals International AG Ireland Branch",
     "name": "Intuniv",
-    "regenerated": "2026/09/17 11:58:44",
+    "regenerated": "2026/11/27 09:06:40",
     "status": "ACTIVE"
   }
 }

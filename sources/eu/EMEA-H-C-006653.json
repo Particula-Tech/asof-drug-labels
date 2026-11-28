@@ -79,9 +79,9 @@
   "ema_product_number": "EMEA/H/C/006653",
   "eu_number": "EU/1/26/2048",
   "h_page": {
-    "fetched": "2026-11-01T12:54:28Z",
-    "sha256": "1ae54ea023eda7a41d97909a80e6cc4829acd3bd4b4c1c41429611a3b9bcecfa",
-    "size": 15897,
+    "fetched": "2026-11-28T14:59:33Z",
+    "sha256": "ae98356ac728a20d080f616f74624f955d25cf61b00749f680a6044ac01414d2",
+    "size": 16189,
     "url": "https://ec.europa.eu/health/documents/community-register/html/h2048.htm"
   },
   "inn": "colchicine",
@@ -90,7 +90,7 @@
   "procedure_counts": {
     "carried_by_later_decision": 0,
     "decisions_without_annex_files": 0,
-    "procedures": 1,
+    "procedures": 2,
     "with_annex_files": 1,
     "with_decision": 1
   },
@@ -303,6 +303,29 @@
         "date": null,
         "number": null
       }
+    },
+    {
+      "closed": "2026-11-25",
+      "decision": {
+        "date": null,
+        "number": null
+      },
+      "ema_number": "EMA/VR/0000383544",
+      "files_anx": null,
+      "files_dec": null,
+      "id": "171776",
+      "oj": {
+        "date": null,
+        "number": null,
+        "page": null,
+        "series": "C"
+      },
+      "remark": null,
+      "type": "Centralised - Variation",
+      "updated_by": {
+        "date": null,
+        "number": null
+      }
     }
   ],
   "product_information": [
@@ -385,7 +408,7 @@
     "inn": "colchicine",
     "mah": "AGEPHA Pharma s.r.o.",
     "name": "Colchicine AGEPHA Pharma",
-    "regenerated": "2026/09/01 09:57:14",
+    "regenerated": "2026/11/26 16:41:47",
     "status": "ACTIVE"
   }
 }

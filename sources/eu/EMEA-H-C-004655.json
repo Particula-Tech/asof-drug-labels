@@ -464,9 +464,9 @@
   "ema_product_number": "EMEA/H/C/004655",
   "eu_number": "EU/1/17/1254",
   "h_page": {
-    "fetched": "2026-11-01T12:52:50Z",
-    "sha256": "fb061a8d04fbb8fbf026437f305199df57c72488ff3bbf7a141dcd5fcd0e53a6",
-    "size": 26303,
+    "fetched": "2026-11-28T14:59:21Z",
+    "sha256": "0c6fa39a52d0cf0d26939af34a44b2c968e674be021994e7081d1c0b823b2070",
+    "size": 26595,
     "url": "https://ec.europa.eu/health/documents/community-register/html/h1254.htm"
   },
   "inn": "budesonide",
@@ -475,7 +475,7 @@
   "procedure_counts": {
     "carried_by_later_decision": 3,
     "decisions_without_annex_files": 0,
-    "procedures": 11,
+    "procedures": 12,
     "with_annex_files": 7,
     "with_decision": 7
   },
@@ -1853,6 +1853,29 @@
         "date": null,
         "number": null
       }
+    },
+    {
+      "closed": "2026-11-26",
+      "decision": {
+        "date": null,
+        "number": null
+      },
+      "ema_number": "EMA/VR/0000372008",
+      "files_anx": null,
+      "files_dec": null,
+      "id": "171777",
+      "oj": {
+        "date": null,
+        "number": null,
+        "page": null,
+        "series": "C"
+      },
+      "remark": null,
+      "type": "Centralised - Variation",
+      "updated_by": {
+        "date": null,
+        "number": null
+      }
     }
   ],
   "product_information": [
@@ -1964,7 +1987,7 @@
     "inn": "budesonide",
     "mah": "Dr Falk Pharma GmbH",
     "name": "Jorveza",
-    "regenerated": "2026/09/29 09:58:50",
+    "regenerated": "2026/11/26 16:41:38",
     "status": "ACTIVE"
   }
 }

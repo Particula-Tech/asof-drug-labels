@@ -908,9 +908,9 @@
   "ema_product_number": "EMEA/H/C/004759",
   "eu_number": "EU/1/19/1361",
   "h_page": {
-    "fetched": "2026-11-01T12:53:09Z",
-    "sha256": "b00582ea2f21d16db0a4ce98da739b12edd8db97a7a7804952b5c55815ab85f8",
-    "size": 43047,
+    "fetched": "2026-11-28T14:59:22Z",
+    "sha256": "80a395e561c85f08170916ff88f4a8f49d4e5db00c5e2942228a1dfbbc3dd341",
+    "size": 43631,
     "url": "https://ec.europa.eu/health/documents/community-register/html/h1361.htm"
   },
   "inn": "risankizumab",
@@ -919,7 +919,7 @@
   "procedure_counts": {
     "carried_by_later_decision": 19,
     "decisions_without_annex_files": 0,
-    "procedures": 33,
+    "procedures": 35,
     "with_annex_files": 13,
     "with_decision": 13
   },
@@ -3919,6 +3919,52 @@
         "date": null,
         "number": null
       }
+    },
+    {
+      "closed": "2026-11-12",
+      "decision": {
+        "date": null,
+        "number": null
+      },
+      "ema_number": "EMA/VR/0000360512",
+      "files_anx": null,
+      "files_dec": null,
+      "id": "171782",
+      "oj": {
+        "date": null,
+        "number": null,
+        "page": null,
+        "series": "C"
+      },
+      "remark": null,
+      "type": "Centralised - Variation",
+      "updated_by": {
+        "date": null,
+        "number": null
+      }
+    },
+    {
+      "closed": "2026-11-12",
+      "decision": {
+        "date": null,
+        "number": null
+      },
+      "ema_number": "EMA/VR/0000360172",
+      "files_anx": null,
+      "files_dec": null,
+      "id": "171783",
+      "oj": {
+        "date": null,
+        "number": null,
+        "page": null,
+        "series": "C"
+      },
+      "remark": null,
+      "type": "Centralised - Variation",
+      "updated_by": {
+        "date": null,
+        "number": null
+      }
     }
   ],
   "product_information": [
@@ -4007,7 +4053,7 @@
     "inn": "risankizumab",
     "mah": "AbbVie Deutschland GmbH &amp; Co. KG",
     "name": "Skyrizi",
-    "regenerated": "2026/09/17 11:58:51",
+    "regenerated": "2026/11/27 09:06:45",
     "status": "ACTIVE"
   }
 }
